@@ -14,7 +14,7 @@ Usage:
   python3 scripts/kde_common_strings.py                  # fetch + build
   python3 scripts/kde_common_strings.py --skip-fetch     # reuse the cache
   python3 scripts/kde_common_strings.py --cache DIR      # use own PO tree
-                                                         # (DIR/<lang>/**/*.po)
+                                                         # (DIR/<lang>/**/*.po or *.mo)
 """
 import argparse
 import subprocess
@@ -27,6 +27,7 @@ import polib
 ROOT = Path(__file__).resolve().parent.parent
 SVN_BASE = "https://svn.kde.org/home/kde/trunk/l10n-kf6"
 MAX_LEN = 200
+CREDIT_CTXTS = {"NAME OF TRANSLATORS", "EMAIL OF TRANSLATORS"}
 
 
 def fetch(cache, base):
@@ -45,7 +46,7 @@ def fetch(cache, base):
 
 def usable(e):
     return (not e.obsolete and e.msgid and not e.msgid_plural and len(e.msgid) <= MAX_LEN
-            and "\n" not in e.msgid)
+            and "\n" not in e.msgid and e.msgctxt not in CREDIT_CTXTS)
 
 
 def collect(cache):
@@ -57,9 +58,9 @@ def collect(cache):
         lang = ldir.name
         files_per_key = Counter()
         counters = defaultdict(Counter)
-        for po_path in ldir.rglob("*.po"):
+        for po_path in sorted(ldir.rglob("*.po")) + sorted(ldir.rglob("*.mo")):
             try:
-                po = polib.pofile(str(po_path))
+                po = polib.pofile(str(po_path)) if po_path.suffix == ".po" else polib.mofile(str(po_path))
             except Exception as ex:
                 print(f"bad {po_path}: {ex}", file=sys.stderr)
                 continue
