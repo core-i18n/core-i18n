@@ -1,12 +1,12 @@
 #include "core-i18n.h"
 
 #include <QByteArray>
-#include <QObject>
-#include <QString>
-#include <QJSEngine>
-#include <QQmlEngine>
-#include <QQmlExtensionPlugin>
 #include <QJSValue>
+#include <QJSEngine>
+#include <QObject>
+#include <QQmlExtensionPlugin>
+#include <QQmlEngine>
+#include <QString>
 
 class CoreI18nQmlBridge : public QObject
 {
