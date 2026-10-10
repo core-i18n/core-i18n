@@ -1,0 +1,11 @@
+prefix=@CMAKE_INSTALL_PREFIX@
+libdir=@CMAKE_INSTALL_FULL_LIBDIR@
+includedir=@CMAKE_INSTALL_FULL_INCLUDEDIR@
+localedir=@CORE_I18N_LOCALEDIR@
+
+Name: core-i18n
+Description: Pre-translated common UI strings (reads core-i18n.mo automatically)
+Version: @PROJECT_VERSION@
+Libs: -L${libdir} -lcore-i18n
+Libs.private: @CORE_I18N_PC_LIBS_PRIVATE@
+Cflags: -I${includedir}
