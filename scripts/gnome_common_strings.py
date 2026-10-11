@@ -81,6 +81,9 @@ def main():
     ap.add_argument("--combine-kde", nargs="?", const=str(ROOT / ".cache" / "kde-l10n"), type=Path,
                     metavar="KDE_CACHE", help="also include a KDE PO tree (default .cache/kde-l10n) "
                     "and combine the statistics of KDE and GNOME")
+    ap.add_argument("--lang", help="language for --po (e.g. de)")
+    ap.add_argument("--po", type=Path, help="write a single PO file (e.g. core-i18n.po) for --lang "
+                    "instead of po-gnome/<lang>.po")
     ap.add_argument("--skip-fetch", action="store_true")
     ap.add_argument("--min-count", type=int, default=10)
     ap.add_argument("--pot", type=Path, default=ROOT / "core-i18n-gnome.pot")
@@ -88,10 +91,13 @@ def main():
     a = ap.parse_args()
     if not a.skip_fetch:
         fetch(a.cache, a.modules, a.langs)
+    if bool(a.po) != bool(a.lang):
+        ap.error("--po and --lang must be used together")
+    extra = {"lang": a.lang, "po_path": a.po}
     if a.combine_kde:
-        kde.build([a.cache, a.combine_kde], a.out, a.min_count, a.pot, "KDE+GNOME")
+        kde.build([a.cache, a.combine_kde], a.out, a.min_count, a.pot, "KDE+GNOME", **extra)
     else:
-        kde.build(a.cache, a.out, a.min_count, a.pot, "GNOME")
+        kde.build(a.cache, a.out, a.min_count, a.pot, "GNOME", **extra)
 
 
 if __name__ == "__main__":

@@ -94,7 +94,7 @@ def collect_all(caches):
     return occ, trans
 
 
-def build(cache, out, min_count, pot_path=None, source="KDE"):
+def build(cache, out, min_count, pot_path=None, source="KDE", lang=None, po_path=None):
     """cache may be one directory or a list of directories (combined)."""
     caches = [cache] if isinstance(cache, Path) else list(cache)
     occ, trans = collect_all(caches)
@@ -114,6 +114,8 @@ def build(cache, out, min_count, pot_path=None, source="KDE"):
         pot.append(entry(k))
     pot.save(str(pot_path or ROOT / "core-i18n.pot"))
 
+    if po_path and lang:
+        trans = {lang: trans.get(lang, {})}
     for lang, counters in trans.items():
         po = polib.POFile()
         po.metadata = dict(pot.metadata, Language=lang)
@@ -123,7 +125,7 @@ def build(cache, out, min_count, pot_path=None, source="KDE"):
                 best = sorted(c.items(), key=lambda kv: (-kv[1], kv[0]))[0][0]
                 po.append(entry(k, best))
         if len(po):
-            po.save(str(out / f"{lang}.po"))
+            po.save(str(po_path or out / f"{lang}.po"))
             print(f"{lang}: {len(po)}/{len(keys)}")
 
 
