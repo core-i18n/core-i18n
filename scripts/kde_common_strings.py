@@ -80,15 +80,31 @@ def collect(cache):
     return occ, trans
 
 
-def build(cache, out, min_count):
-    occ, trans = collect(cache)
+def collect_all(caches):
+    """Combine statistics of several PO trees: occurrences are summed,
+    translation counters are merged per language."""
+    occ = Counter()
+    trans = defaultdict(lambda: defaultdict(Counter))
+    for cache in caches:
+        o, t = collect(cache)
+        occ.update(o)
+        for lang, counters in t.items():
+            for k, c in counters.items():
+                trans[lang][k].update(c)
+    return occ, trans
+
+
+def build(cache, out, min_count, pot_path=None, source="KDE", lang=None, po_path=None):
+    """cache may be one directory or a list of directories (combined)."""
+    caches = [cache] if isinstance(cache, Path) else list(cache)
+    occ, trans = collect_all(caches)
     keys = sorted((k for k, n in occ.items() if n >= min_count), key=lambda k: (-occ[k], k))
     print(f"{len(keys)} strings occur >= {min_count} times")
     out.mkdir(exist_ok=True)
 
     def entry(k, msgstr=""):
         return polib.POEntry(msgctxt=k[0] or None, msgid=k[1], msgstr=msgstr,
-                             comment=f"Occurs in {occ[k]} KDE PO files")
+                             comment=f"Occurs in {occ[k]} {source} PO files")
 
     pot = polib.POFile()
     pot.metadata = {"Project-Id-Version": "core-i18n", "MIME-Version": "1.0",
@@ -96,8 +112,10 @@ def build(cache, out, min_count):
                     "Content-Transfer-Encoding": "8bit"}
     for k in keys:
         pot.append(entry(k))
-    pot.save(str(ROOT / "core-i18n.pot"))
+    pot.save(str(pot_path or ROOT / "core-i18n.pot"))
 
+    if po_path and lang:
+        trans = {lang: trans.get(lang, {})}
     for lang, counters in trans.items():
         po = polib.POFile()
         po.metadata = dict(pot.metadata, Language=lang)
@@ -107,7 +125,7 @@ def build(cache, out, min_count):
                 best = sorted(c.items(), key=lambda kv: (-kv[1], kv[0]))[0][0]
                 po.append(entry(k, best))
         if len(po):
-            po.save(str(out / f"{lang}.po"))
+            po.save(str(po_path or out / f"{lang}.po"))
             print(f"{lang}: {len(po)}/{len(keys)}")
 
 
