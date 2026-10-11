@@ -16,6 +16,7 @@ Usage:
   pip install polib
   python3 scripts/gnome_common_strings.py
   python3 scripts/gnome_common_strings.py --skip-fetch
+  python3 scripts/gnome_common_strings.py --skip-fetch --combine-kde   # KDE + GNOME stats
   python3 scripts/gnome_common_strings.py --modules gnome-control-center nautilus
 """
 import argparse
@@ -77,6 +78,9 @@ def main():
     ap.add_argument("--cache", type=Path, default=ROOT / ".cache" / "gnome-l10n")
     ap.add_argument("--modules", nargs="+", default=MODULES)
     ap.add_argument("--langs", nargs="+", default=None)
+    ap.add_argument("--combine-kde", nargs="?", const=str(ROOT / ".cache" / "kde-l10n"), type=Path,
+                    metavar="KDE_CACHE", help="also include a KDE PO tree (default .cache/kde-l10n) "
+                    "and combine the statistics of KDE and GNOME")
     ap.add_argument("--skip-fetch", action="store_true")
     ap.add_argument("--min-count", type=int, default=10)
     ap.add_argument("--pot", type=Path, default=ROOT / "core-i18n-gnome.pot")
@@ -84,7 +88,10 @@ def main():
     a = ap.parse_args()
     if not a.skip_fetch:
         fetch(a.cache, a.modules, a.langs)
-    kde.build(a.cache, a.out, a.min_count, a.pot, "GNOME")
+    if a.combine_kde:
+        kde.build([a.cache, a.combine_kde], a.out, a.min_count, a.pot, "KDE+GNOME")
+    else:
+        kde.build(a.cache, a.out, a.min_count, a.pot, "GNOME")
 
 
 if __name__ == "__main__":

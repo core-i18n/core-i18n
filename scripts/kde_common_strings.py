@@ -80,8 +80,24 @@ def collect(cache):
     return occ, trans
 
 
+def collect_all(caches):
+    """Combine statistics of several PO trees: occurrences are summed,
+    translation counters are merged per language."""
+    occ = Counter()
+    trans = defaultdict(lambda: defaultdict(Counter))
+    for cache in caches:
+        o, t = collect(cache)
+        occ.update(o)
+        for lang, counters in t.items():
+            for k, c in counters.items():
+                trans[lang][k].update(c)
+    return occ, trans
+
+
 def build(cache, out, min_count, pot_path=None, source="KDE"):
-    occ, trans = collect(cache)
+    """cache may be one directory or a list of directories (combined)."""
+    caches = [cache] if isinstance(cache, Path) else list(cache)
+    occ, trans = collect_all(caches)
     keys = sorted((k for k, n in occ.items() if n >= min_count), key=lambda k: (-occ[k], k))
     print(f"{len(keys)} strings occur >= {min_count} times")
     out.mkdir(exist_ok=True)
