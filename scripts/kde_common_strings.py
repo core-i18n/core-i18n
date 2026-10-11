@@ -80,7 +80,7 @@ def collect(cache):
     return occ, trans
 
 
-def build(cache, out, min_count):
+def build(cache, out, min_count, pot_path=None, source="KDE"):
     occ, trans = collect(cache)
     keys = sorted((k for k, n in occ.items() if n >= min_count), key=lambda k: (-occ[k], k))
     print(f"{len(keys)} strings occur >= {min_count} times")
@@ -88,7 +88,7 @@ def build(cache, out, min_count):
 
     def entry(k, msgstr=""):
         return polib.POEntry(msgctxt=k[0] or None, msgid=k[1], msgstr=msgstr,
-                             comment=f"Occurs in {occ[k]} KDE PO files")
+                             comment=f"Occurs in {occ[k]} {source} PO files")
 
     pot = polib.POFile()
     pot.metadata = {"Project-Id-Version": "core-i18n", "MIME-Version": "1.0",
@@ -96,7 +96,7 @@ def build(cache, out, min_count):
                     "Content-Transfer-Encoding": "8bit"}
     for k in keys:
         pot.append(entry(k))
-    pot.save(str(ROOT / "core-i18n.pot"))
+    pot.save(str(pot_path or ROOT / "core-i18n.pot"))
 
     for lang, counters in trans.items():
         po = polib.POFile()
