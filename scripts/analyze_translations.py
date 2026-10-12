@@ -12,6 +12,7 @@ Usage:
 import argparse
 import re
 import sys
+import unicodedata
 from collections import Counter, defaultdict, deque
 from concurrent.futures import FIRST_COMPLETED, ProcessPoolExecutor, wait
 from pathlib import Path
@@ -26,6 +27,13 @@ LANGUAGE_RE = re.compile(r"^[A-Za-z0-9]+(?:[_@.-][A-Za-z0-9]+)*$")
 
 def log(message):
     print(message, flush=True)
+
+
+def msgid_sort_key(msgid):
+    normalized = "".join(char.casefold() for char in msgid
+                          if unicodedata.category(char)[0] not in {"P", "S"})
+    ignored = sum(unicodedata.category(char)[0] in {"P", "S"} for char in msgid)
+    return normalized, ignored, msgid.casefold(), msgid
 
 
 def usable(entry):
@@ -161,14 +169,14 @@ def build(caches, out, min_count, pot_path, jobs=4):
     log(f"Analysis started: minimum frequency {min_count}, workers {jobs}")
     occurrences, translations = collect_all(caches, jobs)
     keys = sorted((key for key, count in occurrences.items() if count >= min_count),
-                  key=lambda msgid: (msgid.casefold(), msgid))
+                  key=msgid_sort_key)
     log(f"Frequency filtering complete: {len(keys)} strings meet the threshold")
     out.mkdir(parents=True, exist_ok=True)
 
     log(f"Updating POT: {pot_path}")
     pot, _ = load_or_create(pot_path)
     added = append_missing(pot, keys, occurrences)
-    pot.sort(key=lambda entry: (entry.msgid.casefold(), entry.msgid))
+    pot.sort(key=lambda entry: msgid_sort_key(entry.msgid))
     pot.save(str(pot_path))
     log(f"POT: added {added} strings")
 
@@ -186,11 +194,15 @@ def build(caches, out, min_count, pot_path, jobs=4):
             po.append(entry_for(key, occurrences, translation))
             existing.add(key)
             added += 1
-        po.sort(key=lambda entry: (entry.msgid.casefold(), entry.msgid))
         if added or is_new or po_path.exists():
             po.metadata["Language"] = language
             po.save(str(po_path))
         log(f"PO [{language_index}/{total_languages}] {language}: added {added} strings")
+
+    for po_path in sorted(out.glob("*.po")):
+        po = polib.pofile(str(po_path))
+        po.sort(key=lambda entry: msgid_sort_key(entry.msgid))
+        po.save(str(po_path))
     log("Analysis complete")
 
 
