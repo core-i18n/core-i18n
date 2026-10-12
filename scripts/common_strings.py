@@ -79,7 +79,7 @@ def fetch_kde(cache, base):
         if destination.exists():
             continue
         result = subprocess.run(
-            ["svn", "export", "--quiet", f"{base}/{language}/messages", str(destination)],
+            ["svn", "export", "--quiet", f"{base}/{language}/messages", f"{destination}@"],
             capture_output=True, text=True)
         if result.returncode:
             print(f"skip KDE {language}: {result.stderr.strip()}", file=sys.stderr)
