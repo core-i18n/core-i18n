@@ -19,17 +19,7 @@ puts(core_i18n_gettext("Cancel"));
 
 `core-i18n.mo` is located and loaded automatically from the install locale dir (override with `CORE_I18N_LOCALEDIR`).
 
-## Qt Quick / QML
+## Other Languages
 
-If Qt Qml (Qt 5 or Qt 6) is available when configuring the project, CMake also builds and installs an optional QML plugin. Import `CoreI18n` in a QML file to call `core_i18n()` as a global function:
-
-```qml
-import QtQuick
-import CoreI18n 1.0
-
-Text {
-    text: core_i18n("Cancel")
-}
-```
-
-The function uses the same current locale and gettext catalogs as the C API. When running from the build tree, add `build/qml` to the QML import path.
+- [core-i18n-qt](https://github.com/core-i18n/core-i18n-qt) for Qt Quick (QML) plugin
+- [core-i18n-python](https://github.com/core-i18n/core-i18n-python)
