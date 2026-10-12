@@ -7,1366 +7,9450 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "แถบเครื่องมือหลัก"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "ค่าทั่วไป"
+msgid "#"
+msgstr ""
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "เอาออก"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "ยกเลิก"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "แ&ฟ้ม"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "ลบ"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "ไม่มี"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "ชื่อ"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "ผู้ดูแล"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "ชื่อ:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "แ&ก้ไข"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "&ตั้งค่า"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "ผิดพลาด"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "&มุมมอง"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "เพิ่ม"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "รหัสผ่าน:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "ผู้พัฒนา"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "ผู้เขียน"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "ปิด"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "ตัวเลือก"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "ตั้งค่าต่าง ๆ"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "ไม่ทราบ"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "เ&ครื่องมือ"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "ประเภท"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "&ลบ"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "แก้ไข"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "บันทึก"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "คำอธิบาย"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "คำอธิบาย:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "วันที่"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "แฟ้ม"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "แสดงตัวอย่าง"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "ปรับแต่ง"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "รูปลักษณ์"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "คุณสมบัติ"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "ประเภท:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "ขนาด"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "เ&อาออก"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "ค้นหา"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "ค่าปริยาย"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "ชื่อผู้ใช้:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&ช่วยเหลือ"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "คัดลอก"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "หยุด"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "มุมมอง"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "คำเตือน"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "ปกติ"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "เปลี่ยนชื่อ"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "ใช่"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "ขั้นสูง"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "ไม่ใช่"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "สถานะ"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "ข้อความ"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "ค่า"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "สี"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "กล่องโต้ตอบ"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "ชื่อ"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "ผู้เขียนแรกเริ่ม"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "ค้นหา..."
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "เพิ่ม..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "ข้อมูลรายละเอียด"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "เวลา"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "หมายเหตุ"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "สูง:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "ชิดด้านซ้าย"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "ใหม่"
+msgid "<"
+msgstr "น้อยกว่า"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "เปิด"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "ขนาด:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "กว้าง:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "พอร์ต:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "ขวา"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "บันทึกเป็น"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "หัวเรื่อง:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&ส่งออก"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "อัตโนมัติ"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "ล้าง"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "สร้าง"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "ส่งออก"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "ช่วยเหลือ"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "ตกลง"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "&ชื่อ:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "การตรวจสอบสิทธิ์"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "รายละเอียด"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "ตัวกรอง"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "ไม่สนใจ"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "รูปภาพ"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "ตำแหน่ง:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "ปรับปรุงใหม่"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "ทั้งหมด"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "จัดกึ่งกลาง"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "กำหนดเอง"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "แบบอักษร"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "แทรก"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "ไม่ต้อง"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "เครื่องมือ"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "เลิกทำ"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "ยังไม่กำหนดชื่อ"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "ไ&ป"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "แก้ไข..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "เปิดการใช้งาน"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "นำเข้า"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "ตำแหน่ง"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "ย้ายลงด้านล่าง"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "ย้ายขึ้น"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "เลือกทั้งหมด"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "ปรับปรุง"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "เ&พิ่ม"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "เกี่ยวกับ"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "หมายเหตุ:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "ปรับแต่ง..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "ชื่อแฟ้ม:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "ตั้งค่าทั่วไป"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "ถัดไป"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "อื่น ๆ"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "เลือก"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "ด้านบน"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "แนวตั้ง"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "&ปิด"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "ผู้เขียน:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "เปิดใช้งาน"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "แนวนอน"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "นำเข้า..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "ทำซ้ำ"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "ปฏิเสธ"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "แทนที่"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "แ&ก้ไข..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "การกระทำ"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "เสมอ"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "ที่คั่นหน้า"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "วันที่:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "ส่งออก..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "ข้อมูล"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "หมายเลข"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "ผู้เขียนแรกเริ่ม"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "เล่น"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "โหลดใหม่"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "เริ่ม"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "ป้ายกำกับ"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "ชุดตกแต่ง"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "ถึง:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "สร้างใ&หม่"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "ยอมรับ"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "ภาพพื้นหลัง"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "สี:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "คำสั่ง"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "ปิดการใช้งาน"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "เสร็จแล้ว"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "แบบอักษร"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "จาก:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "บรรทัด"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "เบ็ดเตล็ด"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "เครือข่าย"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "วาง"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "หยุดชั่วคราว"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "ตำแหน่ง"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "ไม่ทราบ"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " มิลลิวินาที"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "ปรับใช้"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "อัตโนมัติ"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "ด้านล่าง"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "คอลัมน์"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "ดาวน์โหลด"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "บรรณาธิการ"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "แบบอักษร:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "รูปแบบ"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "จาก"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "ภาษา"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "เบ็ดเตล็ด"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "เปิดแฟ้ม"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "พร้อม"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "ปรับกลับค่าเดิม"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "หัวข้อเรื่อง"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "ถึง"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "ดูย่อ/ดูขยาย"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "&ยกเลิก"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "บัญชีผู้ใช้:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "แฟ้มทั้งหมด"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "สีดำ"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "ตัวหนา"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "ทำต่อไป"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "ข้อมูล"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "ปลายทาง"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "ที่อยู่อีเมล:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "โฟลเดอร์"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "กลุ่ม"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "ภาพไอคอน:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "ตัวเอียง"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "การจัดวาง"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "ตัวปานกลาง"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "ข้อความ"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "ส่วนเสริมต่าง ๆ"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "ก่อนหน้า"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "สีแดง"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "บันทึกเป็น..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "ต้นทาง"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "สถานะ"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "ไม่ทราบข้อผิดพลาด"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "เลื่อนขึ้น"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "ความกว้าง"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "ชื่อ"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "เ&พิ่ม..."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "&บันทึก"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "โปรแกรม"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "ย้อนกลับ"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "พฤติกรรม"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "พิจารณาตัวอักษรเล็ก/ใหญ่"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "คัดลอกไปยังคลิปบอร์ด"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "ผู้ดูแลปัจจุบัน"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "ดีบั๊ก"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "รูปแบบ:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "ความยาว"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "กำหนดเอง"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "โหมด"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "ค่าส่งออก"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "พาธ:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "ตำแหน่ง:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "การเลือก"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "รูปแบบ"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "ขยายขนาด"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "ย่อขนาด"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "เ&กม"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "&นำเข้า"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&ค้นหา"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "ทุกแฟ้ม (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "สีน้ำเงิน"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "สี"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "ต่อสาย"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "ประเทศ"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "คู่มือการใช้"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "เลื่อนลง"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "อีเมล"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "ชื่อแฟ้ม"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "โฟลเดอร์ต่าง ๆ"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "สีเขียว"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "รูปภาพ"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "ป้ายกำกับ"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "ต่ำ"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "เดือน"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "ตัดเสียง"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "ออก"
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "สถานะ:"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "ปี"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "ไม่ใช่"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "ใช่"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " พิกเซล"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "&ที่คั่นหน้า"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "ค่า&ทั่วไป"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "สร้างใ&หม่..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "เ&ปิด"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "&หยุด"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "บัญชีผู้ใช้"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "ปรับแต่งบัญชีผู้ใช้"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "การกระทำ"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "สีพื้นหลัง"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "หมวดหมู่"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "ประเภท"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "หมวดหมู่:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "ยุบทั้งหมด"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "ตัด"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "ไม่ต้องเปลี่ยนข้อมูลจริงของโปรแกรมเบื้องหลัง"
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "ขยายทั้งหมด"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "ชื่อแฟ้ม"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "ตัวกรอง:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "มิติขนาด"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "ความสูง"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "บ้าน"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "ไอคอน"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "กุญแจ"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "เส้น"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "รายการ"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "กำลังทำการโหลด..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "เดือน"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "ย้าย"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "ชื่อเล่น:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "บันทึกย่อ"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "เขียนทับแฟ้มหรือไม่ ?"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "ทำงาน"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "ค้นหา:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "ส่ง"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "เซิร์ฟเวอร์:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "ความเร็ว"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "ที่อยู่ URL"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "ที่อยู่ URL:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "ผู้ใช้:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "นาที"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "ผิดพลาด"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "&คัดลอก"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr ""
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr ""
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " และ "
+
+msgid " (default)"
+msgstr ""
+
+msgid "© KDE Community"
+msgstr ""
+
+msgid " MB"
+msgstr " เมกะไบต์"
+
+msgid " MiB"
+msgstr " เมกะไบต์"
+
+msgid " min"
+msgstr ""
+
+msgid " minutes"
+msgstr ""
+
+msgid " ms"
+msgstr " มิลลิวินาที"
+
+msgid " px"
+msgstr " พิกเซล"
+
+msgid " s"
+msgstr ""
+
+msgid " sec"
+msgstr " วินาที"
+
+msgid " seconds"
+msgstr " วินาที"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr ""
+
+msgid "%1 %"
+msgstr "%1%"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr ""
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (คิดเป็น %2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2, %3"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 และ %2"
+
+msgid "%1 bytes"
+msgstr ""
+
+msgid "1 day"
+msgstr "1 วัน"
+
+msgid "%1 does not exist"
+msgstr "%1 ไม่ได้มีอยู่"
+
+msgid "%1 free"
+msgstr "เนื้อที่ว่าง %1"
+
+msgid "1 hour"
+msgstr ""
+
+msgid "%1 Hz"
+msgstr "%1 เฮริตซ์"
+
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgid "%1 ms"
+msgstr ""
+
+msgid "%1 of %2"
+msgstr "%1 จาก %2"
+
+msgid "%1 on %2"
+msgstr "%1 บน %2"
+
+msgid "%1 s"
+msgstr ""
+
+msgid "%1 seconds"
+msgstr "%1 วินาที"
+
+msgid "%1 to %2"
+msgstr "%1 ถึง %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 นาที"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr ""
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr ""
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 นาที"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr ""
+
+msgid "%1/s"
+msgstr "%1/วินาที"
+
+msgid "1st"
+msgstr "1"
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr ""
+
+msgid "2nd"
+msgstr "2"
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 นาที"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "3"
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "4"
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 นาที"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr "5"
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr ""
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "มีแฟ้มชื่อ \"%1\" นี้อยู่แล้ว คุณต้องการเขียนทับมันหรือไม่ ?"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
 msgstr "ยุติ"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
+msgid "&Abort"
+msgstr "&ยุติ"
+
+msgid "Aborted"
+msgstr "ยุติแล้ว"
+
+msgid "About"
+msgstr "เกี่ยวกับ"
+
+msgid "&About"
+msgstr "&เกี่ยวกับ"
+
+msgid "_About"
+msgstr "เ_กี่ยวกับ"
+
+msgid "About %1"
+msgstr "เกี่ยวกับ %1"
+
+msgid "About KDE"
+msgstr "เกี่ยวกับ KDE"
+
+msgid "Abstract"
+msgstr "Abstract"
+
+msgid "Accept"
+msgstr "ยอมรับ"
+
+msgid "Accepted"
+msgstr ""
+
+msgid "Accessed"
+msgstr ""
+
+msgid "Accessibility"
+msgstr "ช่วยการใช้งาน"
+
+msgid "Account"
+msgstr "บัญชี"
+
+msgid "Account Details"
+msgstr "รายละเอียดบัญชี"
+
+msgid "Account Information"
+msgstr ""
+
+msgid "Account Name"
+msgstr ""
+
+msgid "Accounts"
+msgstr "บัญชีผู้ใช้"
+
+msgid "Accuracy"
+msgstr ""
+
+msgid "Action"
+msgstr "การกระทำ"
+
+msgid "Actions"
+msgstr "การกระทำ"
+
+msgid "Activate"
+msgstr ""
+
+msgid "Active"
+msgstr "ใช้งานอยู่"
+
+msgid "Activities"
+msgstr ""
+
+msgid "Activity"
+msgstr ""
+
+msgid "Adaptive"
+msgstr ""
+
+msgid "Add"
+msgstr "เพิ่ม"
+
+msgid "&Add"
+msgstr "เ&พิ่ม"
+
+msgid "_Add"
+msgstr "เ_พิ่ม"
+
+msgid "Add..."
+msgstr "เพิ่ม..."
+
+msgid "&Add..."
+msgstr "เ&พิ่ม..."
+
+msgid "A&dd..."
+msgstr ""
+
+msgid "Add Account"
+msgstr ""
+
+msgid "Add Bookmark"
+msgstr "เพิ่มที่คั่นหน้า"
+
+msgid "_Add Bookmark"
+msgstr "เ_พิ่มที่คั่นหน้า"
+
+msgid "Add Filter"
+msgstr "เพิ่มตัวกรอง"
+
+msgid "Add Folder"
+msgstr "เพิ่มโฟลเดอร์"
+
+msgid "Add Folder..."
+msgstr "เพิ่มโฟลเดอร์..."
+
+msgid "Add Group"
+msgstr "เพิ่มกลุ่ม"
+
+msgid "Add New"
+msgstr "เพิ่มใหม่"
+
+msgid "Add Rule..."
+msgstr ""
+
+msgid "Add Tag"
+msgstr "เพิ่มป้าย"
+
+msgid "Add tag"
+msgstr "เพิ่มแท็ก"
+
+msgid "Add to Dictionary"
+msgstr "เพิ่มในพจนานุกรม"
+
+msgid "Add to Favorites"
+msgstr ""
+
+msgid "Added"
+msgstr ""
+
+msgid "Addition"
+msgstr "บวก"
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Address"
+msgstr "ที่อยู่"
+
+msgid "Address Book"
+msgstr "สมุดที่อยู่"
+
+msgid "Addresses"
+msgstr "ที่อยู่"
+
+msgid "Adjust"
+msgstr "ปรับแก้"
+
+msgid "Advanced"
+msgstr "ขั้นสูง"
+
+msgid "Advanced..."
+msgstr ""
+
+msgid "Ad_vanced..."
+msgstr "_ขั้นสูง…"
+
+msgid "Advanced options"
 msgstr "ตัวเลือกขั้นสูง"
 
-#. Occurs in 10 KDE PO files
+msgid "Advanced Properties"
+msgstr ""
+
+msgid "Advanced Settings"
+msgstr "ตั้งค่าขั้นสูง"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "อัฟกานิสถาน"
+
+msgid "Africa"
+msgstr "แอฟริกา"
+
+msgid "Afrikaans"
+msgstr "ภาษาแอฟริกา"
+
+msgid "After"
+msgstr "หลัง"
+
+msgid "Agenda"
+msgstr ""
+
+msgid "Alarm"
+msgstr "การปลุกเตือน"
+
+msgid "Alarms"
+msgstr ""
+
+msgid "Albania"
+msgstr "แอลเบเนีย"
+
+msgid "Albanian"
+msgstr ""
+
+msgid "Albert Vaca Cintora"
+msgstr ""
+
 msgid "Album"
 msgstr "อัลบั้ม"
 
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
+msgid "Album Artist"
+msgstr "ศิลปินของอัลบั้ม"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "Albums"
+msgstr "อัลบั้ม"
 
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
-msgstr "&ยกเลิก"
+msgid "Alert"
+msgstr "เตือน"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "ล้างประวัติการถ่ายโอน"
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "การบีบอัด"
+msgid "Algeria"
+msgstr "แอลจีเรีย"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "ชื่อติดต่อต่าง ๆ"
+msgid "Algorithm"
+msgstr ""
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "ลิขสิทธิ์"
+msgid "Alias"
+msgstr "ชื่อฉายา"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "อุปกรณ์:"
+msgid "Aliases"
+msgstr "ชื่อเล่น"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "ยุติการเชื่อมต่อ"
+msgid "Align"
+msgstr "จัดเรียง"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "ผิดพลาด: %1"
+msgid "Align Bottom"
+msgstr "เรียงชิดด้านล่าง"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Align Center"
+msgstr "เรียงกึ่งกลาง"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "แฟ้ม:"
+msgid "Align Left"
+msgstr "เรียงชิดด้านซ้าย"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "แฟ้มต่าง ๆ"
+msgid "Align left"
+msgstr "ชิดขอบซ้าย"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "ฟังก์ชัน"
+msgid "Align Right"
+msgstr "เรียงชิดด้านขวา"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "กลุ่ม:"
+msgid "Align right"
+msgstr "ชิดขอบขวา"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "สูง"
+msgid "Align Top"
+msgstr "เรียงชิดด้านบน"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "ประวัติ"
+msgid "Alignment"
+msgstr "การจัดแนว"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "All"
+msgstr "ทั้งหมด"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "ย้าย&ขึ้น"
+msgid "all"
+msgstr ""
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "การแจ้งให้ทราบ"
+msgid "_All"
+msgstr "_ทั้งหมด"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "องค์กร"
+msgid "All Files"
+msgstr "แฟ้มทั้งหมด"
 
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "พาธ"
+msgid "All files"
+msgstr "ทุกไฟล์"
 
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "พอร์ท"
+msgid "All Files (*)"
+msgstr "ทุกแฟ้ม (*)"
 
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "ความสำคัญ"
+msgid "All files (*)"
+msgstr ""
 
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "ระดับความสำคัญ:"
+msgid "All Supported Files"
+msgstr "ทุกแฟ้มที่รองรับ"
 
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "โครงการ"
+msgid "Allen Winter"
+msgstr ""
 
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "ลบกลุ่ม"
+msgid "Allow"
+msgstr "อนุญาต"
 
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "ช่องว่าง"
+msgid "Allow Deflate compression"
+msgstr "เปิดใช้การบีบอัดแบบ Deflate"
 
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "วันนี้"
+msgid "Alpha"
+msgstr "อัลฟา"
 
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "ค่า:"
+msgid "Alphabetically"
+msgstr "ตามลำดับตัวอักษร"
 
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "รุ่น"
+msgid "Alt"
+msgstr "Alt"
 
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "รุ่น:"
+msgid "Alternative"
+msgstr "ทางเลือกอื่น"
 
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "วิดีโอ"
+msgid "Always"
+msgstr "เปิดใช้งานเสมอ"
 
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "ปี"
+msgid "Always ask"
+msgstr "ให้ถามเสมอ"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
+msgid "Always visible"
+msgstr ""
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Ambient"
+msgstr "แอมเบียนต์"
+
+msgid "Amount"
+msgstr "ปริมาณ"
+
+msgid "An error occurred"
+msgstr "เกิดข้อผิดพลาด"
+
+msgid "An unknown error occurred."
+msgstr "เกิดข้อผิดพลาดไม่ทราบสาเหตุ"
+
+msgid "Analysis"
+msgstr "การวิเคราะห์"
+
+msgid "Anchor"
+msgstr ""
+
+msgid "AND"
+msgstr "และ"
+
+msgid "and"
+msgstr "และ"
+
+msgid "Andorra"
+msgstr "อันดอรรา"
+
+msgid "Andrius Štikonas"
+msgstr ""
+
+msgid "Angle"
+msgstr "มุม"
+
+msgid "angle"
+msgstr "มุม"
+
+msgid "Angola"
+msgstr "แองโกลา"
+
+msgid "Animation"
+msgstr ""
+
+msgid "Animations"
+msgstr "การเคลื่อนไหว"
+
+msgid "Anniversary"
+msgstr "วันครบรอบปี"
+
+msgid "Annotate"
+msgstr ""
+
+msgid "Annotation"
+msgstr ""
+
+msgid "Annotations"
+msgstr "หมายเหตุประกอบ"
+
+msgid "Anonymous"
+msgstr "นิรนาม"
+
+msgid "Antarctica"
+msgstr "แอนตาร์กติกา"
+
+msgid "Any"
+msgstr ""
+
+msgid "Aperture"
+msgstr "รูรับแสง"
+
+msgid "Appearance"
+msgstr "รูปลักษณ์"
+
+msgid "Append"
+msgstr "เขียนต่อท้าย"
+
+msgid "AppImage"
+msgstr ""
+
+msgid "Application"
+msgstr "แอปพลิเคชัน"
+
+msgid "Application does not accept documents on command line"
+msgstr "โปรแกรมไม่รับเอกสารในบรรทัดคำสั่ง"
+
+msgid "Application Menu"
+msgstr "เมนูแอปพลิเคชัน"
+
+msgid "Applications"
+msgstr "แอปพลิเคชัน"
+
+msgid "Apply"
+msgstr "ปรับใช้"
+
+msgid "&Apply"
+msgstr ""
+
+msgid "_Apply"
+msgstr "เ_ริ่มใช้"
+
+msgid "Apply Settings"
+msgstr "ปรับใช้การตั้งค่า"
+
+msgid "April"
+msgstr "เมษายน"
+
+msgid "Arabic"
+msgstr "อารบิก"
+
+msgid "Archive"
+msgstr "อาร์ไคฟ์"
+
+msgid "Archives"
+msgstr ""
+
+msgid "Area"
+msgstr "พื้นที่"
+
+msgid "Argentina"
+msgstr "อาร์เจนตินา"
+
+msgid "Arguments"
+msgstr ""
+
+msgid "Armenia"
+msgstr "อารเมเนีย"
+
+msgid "Armenian"
+msgstr "อาร์เมเนีย"
+
+msgid "Arrow"
+msgstr ""
+
+msgid "Arrows"
+msgstr "ลูกศร"
+
+msgid "Articles"
+msgstr "บทความ"
+
+msgid "Artist"
+msgstr "ศิลปิน"
+
+msgid "Artists"
+msgstr "ศิลปิน"
+
+msgid "Artwork"
+msgstr "งานอาร์ตเวิร์ก"
+
+msgid "Ascending"
+msgstr "จากน้อยไปมาก"
+
+msgid "Asia"
+msgstr "เอเชีย"
+
+msgid "Ask"
+msgstr "ถาม"
+
+msgid "Aspect Ratio"
+msgstr "สัดส่วนภาพ"
+
+msgid "Aspect ratio"
+msgstr "สัดส่วน"
+
+msgid "Assamese"
+msgstr "ภาษาอัสสมี"
+
+msgid "Assign Tags"
+msgstr ""
+
+msgid "Assistant"
+msgstr "ผู้ช่วย"
+
+msgid "ATM"
+msgstr ""
+
+msgid "Attach"
+msgstr ""
+
+msgid "Attach File"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Attachments"
+msgstr "สิ่งที่แนบมาด้วย"
+
+msgid "Attendees"
+msgstr ""
+
+msgid "Attribute"
+msgstr "แอตทริบิวต์"
+
+msgid "Attributes"
+msgstr "คุณลักษณะ"
+
+msgid "Audio"
+msgstr "เสียง"
+
+msgid "Audio CD"
+msgstr "แผ่นซีดีเสียง"
+
+msgid "Audio Codec"
+msgstr ""
+
+msgid "Audio files"
+msgstr "แฟ้มเสียง"
+
+msgid "August"
+msgstr "สิงหาคม"
+
+msgid "Australia"
+msgstr "ออสเตรเลีย"
+
+msgid "Austria"
+msgstr "ออสเตรีย"
+
+msgid "Authenticate"
+msgstr "ยืนยันตัวตน"
+
+msgid "Authenticate VPN"
+msgstr "ยืนยันตัวบุคคลกับ VPN"
+
+msgid "Authentication"
+msgstr "การยืนยันตัวบุคคล"
+
+msgid "Authentication Required"
+msgstr "จำเป็นต้องยืนยันตัวบุคคล"
+
+msgid "Author"
+msgstr "ผู้เขียน"
+
+msgid "Authors"
+msgstr "ผู้เขียน"
+
+msgid "Auto"
+msgstr "อัตโนมัติ"
+
+msgid "auto"
+msgstr "อัตโนมัติ"
+
+msgid "Auto Detect"
+msgstr ""
+
+msgid "Auto Save"
+msgstr ""
+
+msgid "Autodetect"
+msgstr "ตรวจหาอัตโนมัติ"
+
+msgid "Automatic"
+msgstr "อัตโนมัติ"
+
+msgid "Autosave interval"
+msgstr "บันทึกอัตโนมัติทุกช่วงเวลา"
+
+msgid "Available"
+msgstr "คงเหลืออยู่"
+
+msgid "A&vailable actions"
+msgstr "การกระทำที่มีอยู่"
+
+msgid "Average"
+msgstr "ค่าเฉลี่ย"
+
+msgid "Axes"
+msgstr ""
+
+msgid "Azerbaijan"
+msgstr "อาเซอร์ไบจาน"
+
+msgid "Azerbaijani"
+msgstr ""
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "ย้อนกลับ"
+
+msgid "&Back"
+msgstr "&ย้อนกลับ"
+
+msgid "_Back"
+msgstr "_ย้อนกลับ"
+
+msgid "Background"
+msgstr "พื้นหลัง"
+
+msgid "Background Color"
+msgstr "สีพื้นหลัง"
+
+msgid "Background color"
+msgstr "สีพื้นหลัง"
+
+msgid "&Background color"
+msgstr "สี&พื้นหลัง"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "สำรองข้อมูล"
+
+msgid "Bahamas"
+msgstr "บาฮามาส"
+
+msgid "Bahrain"
+msgstr "บาหเรน"
+
+msgid "Balance"
+msgstr "ปรับสมดุล"
+
+msgid "Balanced"
+msgstr "สมดุล"
+
+msgid "Baltic"
+msgstr "บอลติก"
+
+msgid "Bangladesh"
+msgstr "บังกลาเทศ"
+
+msgid "Bank"
+msgstr ""
+
+msgid "Bar"
+msgstr "แถบ"
+
+msgid "Barbados"
+msgstr "บารเบโดส"
+
+msgid "Base"
+msgstr "เลขฐาน"
+
+msgid "Basic"
+msgstr "พื้นฐาน"
+
+msgid "Basque"
+msgstr "ภาษาบาสก์"
+
+msgid "Bass"
+msgstr "เบส"
+
+msgid "Battery"
+msgstr "แบตเตอรี"
+
+msgid "Bcc"
+msgstr ""
+
+msgid "Before"
+msgstr "ก่อน"
+
+msgid "Behavior"
+msgstr "พฤติกรรม"
+
+msgid "Belarus"
+msgstr "เบลารุส"
+
+msgid "Belarusian"
+msgstr "ภาษาเบลารุส"
+
+msgid "Belgium"
+msgstr "เบลเยียม"
+
+msgid "Belize"
+msgstr "เบลีซ"
+
+msgid "Bengali"
+msgstr "ภาษาเบ็งกาลี"
+
+msgid "Benin"
+msgstr "เบนิน"
+
+msgid "Best"
+msgstr "ดีที่สุด"
+
+msgid "Bhutan"
+msgstr "ภูฏาน"
+
+msgid "Bibliography"
+msgstr "บรรณานุกรม"
+
+msgid "Binary"
+msgstr "ฐานสอง"
+
+msgid "Birthday"
+msgstr "วันเกิด"
+
+msgid "Bitrate"
+msgstr "อัตราบิต"
+
+msgid "Black"
+msgstr "ดำ"
+
+msgid "black"
+msgstr "ดำ"
+
+msgid "Blend"
+msgstr "ผสมสี"
+
+msgid "Block"
+msgstr "บล็อก"
+
+msgid "Block Elements"
+msgstr "ชิ้นส่วนบล็อค"
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Blue"
+msgstr "น้ำเงิน"
+
+msgid "Blues"
+msgstr "บลูส์"
+
+msgid "Bluetooth"
+msgstr "บลูทูธ"
+
+msgid "Blur"
+msgstr "ความมัว"
+
+msgid "<b>Name:</b>"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Bold"
+msgstr "ตัวหนา"
+
+msgid "&Bold"
+msgstr "ตัว&หนา"
+
+msgid "_Bold"
+msgstr "ตัว_หนา"
+
+msgid "Bold text"
+msgstr ""
+
+msgid "Bolivia"
+msgstr "โบลิเวีย"
+
+msgid "Book"
+msgstr "หนังสือ"
+
+msgid "Bookmark"
+msgstr "ที่คั่นหน้า"
+
+msgid "Bookmarks"
+msgstr "ที่คั่นหน้า"
+
+msgid "&Bookmarks"
+msgstr "&ที่คั่นหน้า"
+
+msgid "_Bookmarks"
+msgstr "_ที่คั่นหน้า"
+
+msgid "Boolean"
+msgstr "บูลีน"
+
+msgid "Border"
+msgstr "กรอบ"
+
+msgid "Bosnian"
+msgstr ""
+
+msgid "Both"
+msgstr "ทั้งคู่"
+
+msgid "Botswana"
+msgstr "บอตสวานา"
+
+msgid "Bottom"
+msgstr "ล่าง"
+
+msgid "_Bottom"
+msgstr "_ล่าง"
+
+msgid "Bottom Left"
+msgstr "ซ้ายล่าง"
+
+msgid "Bottom Right"
+msgstr "ด้านล่างขวา"
+
+msgid "Bottom-left"
+msgstr "ซ้ายล่าง"
+
+msgid "Bottom-right"
+msgstr "ล่างขวา"
+
+msgid "Box"
+msgstr "กล่อง"
+
+msgid "BPM"
+msgstr "จังหวะ/นาที"
+
+msgid "Branch"
+msgstr "สาขา"
+
+msgid "Brazil"
+msgstr "บราซิล"
+
+msgid "Breeze"
+msgstr ""
+
+msgid "Breeze by the KDE VDG"
+msgstr ""
+
+msgid "Breeze Dark"
+msgstr ""
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr ""
+
+msgid "Breton"
+msgstr "ภาษาเบร็ตตัน"
+
+msgid "Brian Croom"
+msgstr ""
+
+msgid "Bridge"
+msgstr "บริดจ์"
+
+msgid "Brightness"
+msgstr "ความสว่าง"
+
+msgid "Broken"
+msgstr ""
+
+msgid "Browse"
+msgstr "เรียกดู"
+
+msgid "Browse..."
+msgstr "เ_รียกดู..."
+
+msgid "_Browse..."
+msgstr "เ_รียกดู..."
+
+msgid "Browser"
+msgstr "มุมมองท่องดู"
+
+msgid "Buffer"
+msgstr "บัฟเฟอร์"
+
+msgid "Bug fixes"
+msgstr "การแก้ไขบั๊ก"
+
+msgid "Build"
+msgstr "ประกอบสร้าง"
+
+msgid "Built-in Screen"
+msgstr ""
+
+msgid "Bulgaria"
+msgstr "บัลแกเรีย"
+
+msgid "Bulgarian"
+msgstr "ภาษาบัลแกเรีย"
+
+msgid "Burkina Faso"
+msgstr "บูร์กินาฟาโซ"
+
+msgid "Burn"
+msgstr "เขียนลงแผ่น"
+
+msgid "Burundi"
+msgstr "บุรุนดี"
+
+msgid "Bus"
+msgstr "บัส"
+
+msgid "Busy"
+msgstr "ไม่ว่าง"
+
+msgid "Butt"
+msgstr ""
+
+msgid "Button"
+msgstr "ปุ่ม"
+
+msgid "Buttons"
+msgstr "ปุ่ม"
+
+msgid "by"
+msgstr "โดย"
+
+msgid "By %1"
+msgstr ""
+
+msgid "By extension"
+msgstr "ตามนามสกุล"
+
+msgid "Bytes"
+msgstr "ไบต์"
+
+msgid "bytes"
+msgstr "ไบต์"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr ""
+
+msgid "Cache"
+msgstr "แคช"
+
+msgid "Calculate"
+msgstr "คำนวณ"
+
+msgid "Calculating..."
+msgstr "กำลังคำนวณ..."
+
+msgid "Calculator"
+msgstr "เครื่องคำนวณ"
+
+msgid "Calendar"
+msgstr "ปฏิทิน"
+
+msgid "Calendars"
+msgstr ""
+
+msgid "Call"
+msgstr ""
+
+msgid "Calls"
+msgstr "สายโทร"
+
+msgid "Cambodia"
+msgstr "กัมพูชา"
+
+msgid "Camera"
+msgstr "กล้อง"
+
+msgid "Cameroon"
+msgstr "แคเมอรูน"
+
+msgid "Canada"
+msgstr "แคนาดา"
+
 msgid "Cancel"
 msgstr "ยกเลิก"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "&Cancel"
+msgstr "&ยกเลิก"
+
+msgid "_Cancel"
+msgstr "_ยกเลิก"
+
+msgid "C&ancel"
+msgstr "&ยกเลิก"
+
+msgid "Canceled"
+msgstr "ยกเลิกแล้ว"
+
+msgid "Cancelled"
+msgstr "ถูกยกเลิก"
+
+msgid "cannot load editor plugin: %s"
+msgstr ""
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "ไม่สามารถส่ง URI ของเอกสารไปยังรายการเดสก์ท็อปที่มี 'Type=Link'"
+
+msgid "Canvas"
+msgstr ""
+
+msgid "Capabilities"
+msgstr ""
+
+msgid "Capacity"
+msgstr "ความจุ"
+
+msgid "Cape Verde"
+msgstr "เคปเวิร์ด"
+
+msgid "Capitalize"
+msgstr "ตัวพิมพ์ใหญ่"
+
+msgid "Caps Lock is on"
+msgstr "Caps Lock เปิดอยู่"
+
+msgid "Capture"
+msgstr ""
+
+msgid "Car"
+msgstr "โทรศัพท์ติดรถยนต์"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "เรียงลดหลั่น"
+
+msgid "Case Sensitive"
+msgstr "แยกแยะตัวพิมพ์เล็ก-ใหญ่"
+
+msgid "Case sensitive"
+msgstr "ตัวพิมพ์ใหญ่-เล็กตรงกัน"
+
+msgid "Castle"
+msgstr ""
+
+msgid "Catalan"
+msgstr "ภาษาคาตาลัน"
+
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+msgid "Category"
+msgstr "หมวดหมู่"
+
+msgid "CC"
+msgstr ""
+
+msgid "Cc"
+msgstr ""
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "แผ่นซีดีแบบ CD-RW"
+
+msgid "Cell"
+msgstr "เซลล์"
+
+msgid "Celsius"
+msgstr "เซลเซียส"
+
+msgid "Celtic"
+msgstr "เซลติก"
+
+msgid "Center"
+msgstr "กลาง"
+
+msgid "Centered"
+msgstr "กึ่งกลาง"
+
+msgid "Centimeters"
+msgstr "เซนติเมตร"
+
+msgid "Centimeters (cm)"
+msgstr "เซนติเมตร (ซ.ม.)"
+
+msgid "Central"
+msgstr ""
+
+msgid "Central African Republic"
+msgstr "สาธารณรัฐแอฟริกากลาง"
+
+msgid "Central European"
+msgstr "ยุโรปกลาง"
+
+msgid "Certificate"
+msgstr "ใบรับรอง"
+
+msgid "Certificates (TLS)"
+msgstr ""
+
+msgid "Chad"
+msgstr "ชาด"
+
+msgid "Change"
+msgstr "เปลี่ยน"
+
+msgid "Change..."
+msgstr "เปลี่ยน..."
+
+msgid "Changed"
+msgstr ""
+
+msgid "Channel"
+msgstr "แชนเนล"
+
+msgid "Channels"
+msgstr "ช่อง"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "บท"
+
+msgid "Chapters"
+msgstr ""
+
+msgid "Character"
+msgstr "ตัวอักษร"
+
+msgid "Characters"
+msgstr ""
+
+msgid "Charging"
+msgstr "กำลังประจุไฟ"
+
+msgid "Chart"
+msgstr "ผัง"
+
+msgid "Chat"
+msgstr "แชท"
+
+msgid "Check"
+msgstr "ตรวจสอบ"
+
+msgid "Check for updates"
+msgstr "ตรวจหาอัปเดต"
+
+msgid "Check Spelling"
+msgstr "ตรวจตัวสะกด"
+
+msgid "Checkbox"
+msgstr "กล่องกาเลือก"
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Cherokee"
+msgstr "อักษรเชโรกี"
+
+msgid "Children"
+msgstr "ลูก"
+
+msgid "Chile"
+msgstr "ชิลี"
+
+msgid "China"
+msgstr "จีน"
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Chinese Simplified"
+msgstr "จีนตัวย่อ"
+
+msgid "Chinese Traditional"
+msgstr "จีนตัวเต็ม"
+
+msgid "Choose"
+msgstr ""
+
+msgid "Choose..."
+msgstr "เลือก..."
+
+msgid "Cinema"
+msgstr "ภาพยนตร์"
+
+msgid "Circle"
+msgstr "วงกลม"
+
+msgid "City"
+msgstr "เมือง"
+
+msgid "Class"
+msgstr "คลาส"
+
+msgid "Classes"
+msgstr "คลาส"
+
+msgid "Classic"
+msgstr "คลาสสิก"
+
+msgid "Classical"
+msgstr "คลาสสิก"
+
+msgid "Clean"
+msgstr ""
+
+msgid "Cleanup"
+msgstr ""
+
+msgid "Clear"
+msgstr "ล้าง"
+
+msgid "&Clear"
+msgstr "ล้าง"
+
+msgid "_Clear"
+msgstr "_ล้าง"
+
+msgid "C&lear"
+msgstr "&ล้าง"
+
+msgid "Clear All"
+msgstr "ล้างทั้งหมด"
+
+msgid "Clear History"
+msgstr "ล้างประวัติ"
+
+msgid "Clear history"
+msgstr ""
+
+msgid "Clear List"
+msgstr "ล้างรายการ"
+
+msgid "Client"
+msgstr "ไคลเอนต์"
+
+msgid "Clip"
+msgstr ""
+
+msgid "Clipboard"
+msgstr "คลิปบอร์ด"
+
+msgid "Clock"
+msgstr "นาฬิกา"
+
+msgid "Clockwise"
+msgstr "ตามเข็มนาฬิกา"
+
+msgid "Clone"
+msgstr "ลอกแบบ"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "&Close"
+msgstr "&ปิด"
+
+msgid "_Close"
+msgstr "ปิ_ด"
+
+msgid "Close All"
+msgstr "ปิดทั้งหมด"
+
+msgid "Close Document"
+msgstr "ปิดเอกสาร"
+
+msgid "Close message"
+msgstr ""
+
+msgid "Close Tab"
+msgstr "ปิดแท็บ"
+
+msgid "Close tab"
+msgstr "ปิดแท็บ"
+
+msgid "Close the current tab"
+msgstr "ปิดแท็บปัจจุบัน"
+
+msgid "Close this window"
+msgstr "ปิดหน้าต่างนี้"
+
+msgid "Close Window"
+msgstr "ปิดหน้าต่าง"
+
+msgid "Close window"
+msgstr "ปิดหน้าต่าง"
+
+msgid "Close _without Saving"
+msgstr "ปิดโดยไ_ม่บันทึก"
+
+msgid "Closed"
+msgstr "ปิด"
+
+msgid "Cloud"
+msgstr "เมฆ"
+
+msgid "cm"
+msgstr "ซม."
+
+msgid "CMake"
+msgstr ""
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr ""
+
+msgid "code"
+msgstr ""
+
+msgid "Codec"
+msgstr "รูปแบบรหัส"
+
+msgid "Collapse"
+msgstr ""
+
+msgid "Collapse All"
+msgstr "ยุบทั้งหมด"
+
+msgid "Collection"
+msgstr "คลังสื่อ"
+
+msgid "Collections"
+msgstr "คลังสื่อ"
+
+msgid "Colombia"
+msgstr "โคลอมเบีย"
+
+msgid "Color"
+msgstr "สี"
+
+msgid "color"
+msgstr ""
+
+msgid "&Color"
+msgstr "&สี"
+
+msgid "Color Balance"
+msgstr "สมดุลสี"
+
+msgid "Color Management"
+msgstr "การจัดการสี"
+
+msgid "Color Mode"
+msgstr "โหมดสี"
+
+msgid "Color Picker"
+msgstr "ตัวเก็บค่าสี"
+
+msgid "Color Scheme"
+msgstr "ชุดสี"
+
+msgid "Color scheme"
+msgstr "ชุดรูปแบบสี"
+
+msgid "Color Space"
+msgstr ""
+
+msgid "Color theme"
+msgstr ""
+
+msgid "Colorize"
+msgstr "ย้อมสี"
+
+msgid "Colors"
+msgstr "สี"
+
+msgid "Column"
+msgstr "คอลัมน์"
+
+msgid "Column %1"
+msgstr "สดมภ์ %1"
+
+msgid "Columns"
+msgstr "คอลัมน์"
+
+msgid "Comma"
+msgstr "จุลภาค"
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "Command"
+msgstr "คำสั่ง"
+
+msgid "command"
+msgstr "คำสั่ง"
+
+msgid "Command Line"
+msgstr "บรรทัดคำสั่ง"
+
+msgid "Command to execute"
+msgstr "คำสั่งที่จะประมวลผล"
+
+msgid "Commands"
+msgstr "คำสั่ง"
+
+msgid "Comment"
+msgstr "หมายเหตุ"
+
+msgid "Comments"
+msgstr "หมายเหตุ"
+
+msgid "Commit"
+msgstr ""
+
+msgid "Common"
+msgstr "พบบ่อย"
+
+msgid "Comoros"
+msgstr "คอโมโรส"
+
+msgid "Compact"
+msgstr "มุมมองขนาดย่อ"
+
+msgid "Compare"
+msgstr ""
+
+msgid "Complete"
+msgstr "เสร็จสมบูรณ์"
+
+msgid "Completed"
+msgstr "เสร็จเรียบร้อย"
+
+msgid "Completion"
+msgstr "การเติมเต็มคำ"
+
+msgid "Component"
+msgstr "ส่วนประกอบ"
+
+msgid "Components"
+msgstr "สิ่งประกอบ"
+
+msgid "Composer"
+msgstr "ผู้แต่ง"
+
+msgid "Composition"
+msgstr "หน้าต่างช่วยเขียนข้อความ"
+
+msgid "Compress"
+msgstr "บีบอัด"
+
+msgid "Compression"
+msgstr "การบีบอัด"
+
+msgid "Computer"
+msgstr "คอมพิวเตอร์"
+
+msgid "Condition"
+msgstr "เงื่อนไข"
+
+msgid "Confidential"
+msgstr "ชั้นความลับ"
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Configure"
+msgstr "ปรับแต่ง"
+
+msgid "Configure..."
+msgstr "ปรับแต่ง..."
+
+msgid "Configure %1"
+msgstr "ปรับแต่ง %1"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "กำหนดค่าปุ่มลัดแป้นพิมพ์"
+
+msgid "Configure Plugins"
+msgstr ""
+
+msgid "Configure Toolbars"
+msgstr "ปรับแต่งแถบเครื่องมือ"
+
+msgid "Configure Web Shortcuts..."
+msgstr "กำหนดทางลัดเว็บ…"
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirmation"
+msgstr "การยืนยัน"
+
+msgid "Confirmation Required"
+msgstr "ต้องการการยืนยัน"
+
+msgid "Confirmed"
+msgstr ""
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "เกิดความขัดแย้งกับปุ่มพิมพ์ลัดมาตรฐานของโปรแกรม"
+
+msgid "Connect"
+msgstr "เชื่อมต่อ"
+
+msgid "C_onnect"
+msgstr "เ_ชื่อมต่อ"
+
+msgid "Connected"
+msgstr "เชื่อมต่ออยู่"
+
+msgid "Connecting"
+msgstr "กำลังเชื่อมต่อ"
+
+msgid "Connecting..."
+msgstr "กำลังเชื่อมต่อ..."
+
+msgid "Connection"
+msgstr "การเชื่อมต่อ"
+
+msgid "Connection Failed"
+msgstr ""
+
+msgid "Connection Settings"
+msgstr "ตั้งค่าการเชื่อมต่อ"
+
+msgid "Connections"
+msgstr "การเชื่อมต่อ"
+
+msgid "Console"
+msgstr "คอนโซล"
+
+msgid "Constant"
+msgstr "ค่าคงที่"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+
+msgid "Contact"
+msgstr "การติดต่อ"
+
+msgid "Contacts"
+msgstr "ผู้ติดต่อ"
+
+msgid "Container"
+msgstr "บรรจุภัณฑ์"
+
+msgid "Contains"
+msgstr "บรรจุคำนี้อยู่"
+
+msgid "contains"
+msgstr "บรรจุคำนี้อยู่"
+
+msgid "Content"
+msgstr "เนื้อหา"
+
+msgid "Content Type"
+msgstr "ชนิดเนื้อหา"
+
+msgid "Contents"
+msgstr "เนื้อหา"
+
+msgid "_Contents"
+msgstr "เนื้อ_หา"
+
+msgid "Context"
+msgstr "บริบท"
+
+msgid "Continue"
+msgstr "ทำต่อไป"
+
+msgid "_Continue"
+msgstr "_ต่อไป"
+
+msgid "Contrast"
+msgstr "ความเปรียบต่าง"
+
+msgid "Contributor"
+msgstr "ผู้ให้ความช่วยเหลือ"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Convert"
+msgstr ""
+
+msgid "Convert to Path"
+msgstr ""
+
+msgid "Cookies"
+msgstr "คุกกี้"
+
+msgid "Coordinates"
+msgstr ""
+
+msgid "Copied to clipboard"
+msgstr "คัดลอกลงในคลิปบอร์ดแล้ว"
+
+msgid "Coptic"
+msgstr "คอปติก"
+
+msgid "Copy"
+msgstr "คัดลอก"
+
+msgid "copy"
+msgstr "คัดลอก"
+
+msgid "&Copy"
+msgstr "&คัดลอก"
+
+msgid "_Copy"
+msgstr "_คัดลอก"
+
+msgid "Copy Email Address"
+msgstr "คัดลอกที่อยู่อีเมล"
+
+msgid "&Copy Here"
+msgstr "&คัดลอกไว้ที่นี่"
+
+msgid "Copy Image"
+msgstr "คัดลอกรูปภาพ"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Link Address"
+msgstr "คัดลอกตำแหน่งเชื่อมโยง"
+
+msgid "_Copy Link Address"
+msgstr "_คัดลอกที่อยู่ลิงก์"
+
+msgid "Copy Location"
+msgstr ""
+
+msgid "Copy of %1"
+msgstr "คัดลอกจาก %1"
+
+msgid "Copy selection to clipboard"
+msgstr "คัดลอกสิ่งที่เลือกไปยังคลิปบอร์ด"
+
+msgid "Copy Text"
+msgstr "คัดลอกข้อความ"
+
+msgid "Copy to Clipboard"
+msgstr "คัดลอกไปยังคลิปบอร์ด"
+
+msgid "Copy to clipboard"
+msgstr "คัดลอกลงคลิปบอร์ด"
+
+msgid "Copy URL"
+msgstr "คัดลอก URL"
+
+msgid "Copying files"
+msgstr "กำลังคัดลอกแฟ้ม"
+
+msgid "Copyright"
+msgstr "ลิขสิทธิ์"
+
+msgid "Cost"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "คอสตาริกา"
+
+msgid "Could not open %1"
+msgstr ""
+
+msgid "Could not open file."
+msgstr ""
+
+msgid "Count"
+msgstr "จำนวน"
+
+msgid "Counter"
+msgstr "ตัวนับ"
+
+msgid "Country"
+msgstr "ประเทศ"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "สร้าง"
+
+msgid "C_reate"
+msgstr "_สร้าง"
+
+msgid "Create Folder"
+msgstr "สร้างโฟลเดอร์"
+
+msgid "Create New"
+msgstr "สร้างใหม่"
+
+msgid "Created"
+msgstr "สร้างเมื่อ"
+
+msgid "Creation Date"
+msgstr ""
+
+msgid "Creation date"
+msgstr "วันที่สร้าง"
+
+msgid "Creator"
+msgstr "ผู้สร้าง"
+
+msgid "Credentials"
+msgstr "ข้อมูลลับ"
+
+msgid "Credits"
+msgstr "เครดิต"
+
+msgid "Criteria"
+msgstr ""
+
+msgid "Critical"
+msgstr "วิกฤติ"
+
+msgid "Croatia"
+msgstr "โครเอเชีย"
+
+msgid "Croatian"
+msgstr "โครเอเชีย"
+
+msgid "Crop"
+msgstr "ครอบตัด"
+
+msgid "Crop image"
+msgstr "ครอบตัดภาพ"
+
+msgid "Cross"
+msgstr "กากบาท"
+
+msgid "CSV"
+msgstr ""
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr ""
+
+msgid "Ctrl+O"
+msgstr ""
+
+msgid "Cuba"
+msgstr "คิวบา"
+
+msgid "Currency"
+msgstr "เงินตรา"
+
+msgid "Current"
+msgstr "ปัจจุบัน"
+
+msgid "Current Maintainer"
+msgstr "ผู้ดูแลปัจจุบัน"
+
+msgid "Current maintainer"
+msgstr "ผู้ดูแลปัจจุบัน"
+
+msgid "Cursor"
+msgstr "เคอร์เซอร์"
+
+msgid "Curve"
+msgstr "เส้นโค้ง"
+
+msgid "Curves"
+msgstr "เคิร์ฟ"
+
+msgid "Custom"
+msgstr "กำหนดเอง"
+
+msgid "Custom..."
+msgstr "กำหนดเอง..."
+
+msgid "Custom Font"
+msgstr "แบบอักษรกำหนดเอง"
+
+msgid "Cut"
+msgstr "ตัด"
+
+msgid "Cu&t"
+msgstr "&ตัด"
+
+msgid "Cu_t"
+msgstr "_ตัด"
+
+msgid "Cyan"
+msgstr "ฟ้าอมเขียว"
+
+msgid "Cyprus"
+msgstr "ไซปรัส"
+
+msgid "Cyrillic"
+msgstr "ซีริลลิก"
+
+msgid "Czech"
+msgstr "ภาษาเชค"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr ""
+
+msgid "Dance"
+msgstr "ดนตรีเต้นรำ"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr ""
+
+msgid "Danish"
+msgstr "ภาษาเดนมาร์ก"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr "มืด"
+
+msgid "Dark Mode"
+msgstr ""
+
+msgid "Darken"
+msgstr "ทำให้มืดลง"
+
+msgid "Dashboard"
+msgstr "แดชบอร์ด"
+
+msgid "Dashed"
+msgstr "ประ"
+
+msgid "Data"
+msgstr "ข้อมูล"
+
+msgid "Database"
+msgstr "ฐานข้อมูล"
+
+msgid "Date"
+msgstr "วันที่"
+
+msgid "date"
+msgstr "วันที่"
+
+msgid "Date & Time"
+msgstr "วันและเวลา"
+
+msgid "Date and Time"
+msgstr "วันและเวลา"
+
+msgid "Date Format"
+msgstr "รูปแบบวันที่"
+
+msgid "Date Modified"
+msgstr "วันที่แก้ไข"
+
+msgid "David Edmundson"
+msgstr ""
+
+msgid "Day"
+msgstr "วัน"
+
+msgid "Days"
+msgstr ""
+
+msgid "days"
+msgstr "วัน"
+
+msgid "day(s)"
+msgstr ""
+
+msgid "D-Bus name to use for this instance"
+msgstr ""
+
+msgid "Debug"
+msgstr "ดีบัก"
+
+msgid "Debugger"
+msgstr ""
+
+msgid "Debugging"
+msgstr "การดีบั๊ก"
+
+msgid "December"
+msgstr "ธันวาคม"
+
+msgid "Decimal"
+msgstr "ฐานสิบ"
+
+msgid "Decline"
+msgstr "ปฏิเสธ"
+
+msgid "Decrease Font Size"
+msgstr "ลดขนาดตัวอักษร"
+
+msgid "Decrease Indent"
+msgstr "ลดระยะการเยื้อง"
+
+msgid "Decrease Volume"
+msgstr "ลดระดับเสียง"
+
+msgid "Decrypt"
+msgstr "ถอดรหัส"
+
+msgid "Default"
+msgstr "ค่าปริยาย"
+
+msgid "default"
+msgstr "ค่าปริยาย"
+
+msgid "Defaults"
+msgstr ""
+
+msgid "Definition"
+msgstr ""
+
+msgid "degrees"
+msgstr "องศา"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay"
+msgstr "หน่วงเวลา"
+
 msgid "Delete"
 msgstr "ลบ"
+
+msgid "&Delete"
+msgstr "&ลบ"
+
+msgid "_Delete"
+msgstr "_ลบ"
+
+msgid "D&elete"
+msgstr "ลบ"
+
+msgid "Delete..."
+msgstr "ลบ..."
+
+msgid "Delete %1"
+msgstr "ลบ %1"
+
+msgid "Delete All"
+msgstr ""
+
+msgid "Delete File"
+msgstr "ลบแฟ้ม"
+
+msgid "Delete Folder"
+msgstr ""
+
+msgid "Delete Image"
+msgstr "ลบรูปภาพ"
+
+msgid "Delete Selected"
+msgstr "ลบที่เลือก"
+
+msgid "Delete selection"
+msgstr ""
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "ลบเมื่อ"
+
+msgid "Deletion"
+msgstr "การลบ"
+
+msgid "Delimiter"
+msgstr ""
+
+msgid "Delta"
+msgstr "เดลตา"
+
+msgid "Denmark"
+msgstr "เดนมารก"
+
+msgid "Density"
+msgstr "ความหนาแน่น"
+
+msgid "Deny"
+msgstr "ปฏิเสธ"
+
+msgid "Dependencies"
+msgstr ""
+
+msgid "Depth"
+msgstr "ความลึก"
+
+msgid "Desaturate"
+msgstr "ลดความอิ่มสี"
+
+msgid "Descending"
+msgstr "จากมากไปน้อย"
+
+msgid "Description"
+msgstr "คำอธิบาย"
+
+msgid "&Description"
+msgstr ""
+
+msgid "Deselect"
+msgstr ""
+
+msgid "Deselect All"
+msgstr "ยกเลิกการเลือกทั้งหมด"
+
+msgid "Desert"
+msgstr ""
+
+msgid "Desktop"
+msgstr "เดสก์ท็อป"
+
+msgid "Destination"
+msgstr "ปลายทาง"
+
+msgid "Detach"
+msgstr ""
+
+msgid "_Detach Tab"
+msgstr "_ถอดแท็บ"
+
+msgid "Details"
+msgstr "รายละเอียด"
+
+msgid "&Details"
+msgstr "&รายละเอียด"
+
+msgid "_Details"
+msgstr "_รายละเอียด"
+
+msgid "Details..."
+msgstr "รายละเอียด..."
+
+msgid "Devanagari"
+msgstr "เทวนาครี"
+
+msgid "Developer"
+msgstr "ผู้พัฒนา"
+
+msgid "Development"
+msgstr "พัฒนาโปรแกรม"
+
+msgid "Device"
+msgstr "อุปกรณ์"
+
+msgid "device"
+msgstr "อุปกรณ์"
+
+msgid "Device Information"
+msgstr "ข้อมูลอุปกรณ์"
+
+msgid "Device Status"
+msgstr "สถานะอุปกรณ์"
+
+msgid "Device type"
+msgstr "ประเภทของอุปกรณ์"
+
+msgid "Devices"
+msgstr "อุปกรณ์"
+
+msgid "Diagnostics"
+msgstr "การวินิจฉัย"
+
+msgid "Diagonal"
+msgstr ""
+
+msgid "Dialog"
+msgstr "กล่องโต้ตอบ"
+
+msgid "Dialogs"
+msgstr "กล่องโต้ตอบ"
+
+msgid "Diamond"
+msgstr ""
+
+msgid "Dictionary"
+msgstr "พจนานุกรม"
+
+msgid "Diff"
+msgstr ""
+
+msgid "Difference"
+msgstr "ความต่าง"
+
+msgid "Difficulty"
+msgstr ""
+
+msgid "Digit"
+msgstr "ตัวเลข"
+
+msgid "Dimensions"
+msgstr "ขนาด"
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "Direction"
+msgstr "ทิศทาง"
+
+msgid "Directories"
+msgstr "ไดเรกทอรี"
+
+msgid "Directory"
+msgstr "ไดเรกทอรี"
+
+msgid "directory"
+msgstr ""
+
+msgid "Directory Name"
+msgstr "ชื่อสารบบ"
+
+msgid "Disable"
+msgstr "ปิดการใช้งาน"
+
+msgid "Disable connection to session manager"
+msgstr "ปิดการเชื่อมต่อไปยังโปรแกรมจัดการวาระ"
+
+msgid "Disabled"
+msgstr "ปิดใช้งาน"
+
+msgid "disabled"
+msgstr "ไม่ใช้งาน"
+
+msgid "Disc"
+msgstr "ดิสก์"
+
+msgid "Disc Number"
+msgstr "ลำดับแผ่น"
+
+msgid "Discard"
+msgstr "ละทิ้ง"
+
+msgid "_Discard"
+msgstr "_ละทิ้ง"
+
+msgid "Discard All"
+msgstr "ละทิ้งทั้งหมด"
+
+msgid "Discard Changes"
+msgstr "ยกเลิกการเปลี่ยนแปลง"
+
+msgid "Discard changes"
+msgstr ""
+
+msgid "_Discard Changes"
+msgstr "_ละทิ้งการเปลี่ยนแปลง"
+
+msgid "Discharging"
+msgstr "กำลังจ่ายไฟ"
+
+msgid "Disconnect"
+msgstr "ตัดการเชื่อมต่อ"
+
+msgid "Disconnected"
+msgstr "ตัดการเชื่อมต่อแล้ว"
+
+msgid "Discover"
+msgstr ""
+
+msgid "Discrete"
+msgstr ""
+
+msgid "Disk"
+msgstr "ดิสก์"
+
+msgid "Dismiss"
+msgstr "ปิด"
+
+msgid "Display"
+msgstr "การแสดงผล"
+
+msgid "Display Configuration"
+msgstr "การกําหนดค่าหน้าจอ"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Display Settings"
+msgstr "การตั้งค่าการแสดงผล"
+
+msgid "Dissolve"
+msgstr "ละลาย"
+
+msgid "Distance"
+msgstr "ระยะทาง"
+
+msgid "Divide"
+msgstr "หาร"
+
+msgid "Djibouti"
+msgstr "จิบูตี"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "ไม่ต้องถามอีก"
+
+msgid "Do Not Cancel"
+msgstr ""
+
+msgid "Do not change the actual backend data."
+msgstr "ไม่ต้องเปลี่ยนข้อมูลจริงของโปรแกรมเบื้องหลัง"
+
+msgid "Do not show again"
+msgstr "ไม่ต้องแสดงข้อความนี้อีก"
+
+msgid "Do not show this message again"
+msgstr "ไม่ต้องบอกอีก"
+
+msgid "Do Nothing"
+msgstr ""
+
+msgid "Do nothing"
+msgstr "ไม่ต้องทำอะไร"
+
+msgid "Document"
+msgstr "เอกสาร"
+
+msgid "Document Properties"
+msgstr "คุณสมบัติเอกสาร"
+
+msgid "Document to open"
+msgstr "เอกสารที่จะเปิด"
+
+msgid "Document Viewer"
+msgstr "โปรแกรมดูเอกสาร"
+
+msgid "Documentation"
+msgstr "เอกสาร"
+
+msgid "Documents"
+msgstr "เอกสาร"
+
+msgid "does not contain"
+msgstr "ไม่มีคำว่า"
+
+msgid "Dolphin"
+msgstr ""
+
+msgid "Domain"
+msgstr "โดเมน"
+
+msgid "Dominica"
+msgstr "โดมินิกา"
+
+msgid "Dominican Republic"
+msgstr "โดมินิกัน, สาธารณรัฐ"
+
+msgid "Donate"
+msgstr "บริจาค"
+
+msgid "Done"
+msgstr "เสร็จสิ้น"
+
+msgid "Dot"
+msgstr ""
+
+msgid "Dots"
+msgstr ""
+
+msgid "Dotted"
+msgstr "จุด"
+
+msgid "Double"
+msgstr "ดับเบิล"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+msgid "Download Manager"
+msgstr "จัดการการดาวน์โหลด"
+
+msgid "Downloaded"
+msgstr "ดาวน์โหลดแล้ว"
+
+msgid "Downloading"
+msgstr "กำลังดาวน์โหลด"
+
+msgid "Downloading..."
+msgstr ""
+
+msgid "Downloads"
+msgstr "ดาวน์โหลด"
+
+msgid "Dr."
+msgstr "ดร."
+
+msgid "Draft"
+msgstr "ฉบับร่าง"
+
+msgid "Drafts"
+msgstr ""
+
+msgid "Draw"
+msgstr "วาด"
+
+msgid "Drive"
+msgstr "ไดรฟ์"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr ""
+
+msgid "Due Date"
+msgstr ""
+
+msgid "Duplicate"
+msgstr "ทำสำเนา"
+
+msgid "_Duplicate"
+msgstr "_สำเนา"
+
+msgid "Duplicates"
+msgstr ""
+
+msgid "Duration"
+msgstr "ความยาว"
+
+msgid "Dutch"
+msgstr "ภาษาดัทช์"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "E"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "ตะวันออก"
+
+msgid "Easy"
+msgstr "ง่าย"
+
+msgid "Echo"
+msgstr "การสะท้อนข้อมูล"
+
+msgid "Ecuador"
+msgstr "เอกวาดอร์"
+
+msgid "Edge"
+msgstr ""
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "&Edit"
+msgstr "แ&ก้ไข"
+
+msgid "_Edit"
+msgstr "แ_ก้ไข"
+
+msgid "Edit..."
+msgstr "แก้ไข..."
+
+msgid "&Edit..."
+msgstr "แ&ก้ไข..."
+
+msgid "Edit %1"
+msgstr "แก้ไข %1"
+
+msgid "Edit Bookmark"
+msgstr "แก้ไขที่คั่นหน้า"
+
+msgid "Edit Filter"
+msgstr "แก้ไขตัวกรอง"
+
+msgid "Edit Image"
+msgstr ""
+
+msgid "Editing"
+msgstr "การแก้ไข"
+
+msgid "Editor"
+msgstr "บรรณาธิการ"
+
+msgid "Education"
+msgstr "การศึกษา"
+
+msgid "Effects"
+msgstr "ลูกเล่น"
+
+msgid "Egypt"
+msgstr "อียิปต์"
+
+msgid "Egyptian"
+msgstr ""
+
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+msgid "Eject"
+msgstr "ดันแผ่นออก"
+
+msgid "_Eject"
+msgstr "_ดันแผ่นออก"
+
+msgid "El Salvador"
+msgstr "เอลซัลวาดอร์"
+
+msgid "Electronic"
+msgstr "อิเลคทรอนิก"
+
+msgid "Element"
+msgstr "ธาตุ"
+
+msgid "Ellipse"
+msgstr "วงมน"
+
+msgid "Email"
+msgstr "อีเมล"
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Email Address"
+msgstr "ที่อยู่อีเมล"
+
+msgid "Email address"
+msgstr "ที่อยู่อีเมล"
+
+msgid "Emails"
+msgstr ""
+
+msgid "Embedded"
+msgstr "ฝังตัว"
+
+msgid "Emboss"
+msgstr "สลักลายนูน"
+
+msgid "Emphasis"
+msgstr ""
+
+msgid "Empty"
+msgstr "ว่าง"
+
+msgid "empty"
+msgstr "ว่างเปล่า"
+
+msgid "(empty)"
+msgstr "(ว่างเปล่า)"
+
+msgid "<empty>"
+msgstr "<empty>"
+
+msgid "Empty Trash"
+msgstr "เทถังขยะทิ้ง"
+
+msgid "Enable"
+msgstr "เปิดใช้งาน"
+
+msgid "Enable system tray icon"
+msgstr "เปิดใช้การแสดงไอคอนในถาดระบบ"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+
+msgid "Enabled"
+msgstr "เปิดใช้งาน"
+
+msgid "Encoder"
+msgstr "ตัวลงรหัส"
+
+msgid "Encoding"
+msgstr "ชุดรหัสภาษา"
+
+msgid "_Encoding"
+msgstr "_รหัสอักขระ"
+
+msgid "Encrypt"
+msgstr "เข้ารหัสลับ"
+
+msgid "&Encrypt"
+msgstr "เข้ารหัส"
+
+msgid "Encrypted"
+msgstr "ถูกเข้ารหัสไว้"
+
+msgid "Encryption"
+msgstr "การเข้ารหัสลับ"
+
+msgid "End"
+msgstr "จบ"
+
+msgid "end"
+msgstr "end"
+
+msgid "End Date"
+msgstr ""
+
+msgid "End Time"
+msgstr ""
+
+msgid "ends with"
+msgstr "ลงท้ายด้วย"
+
+msgid "Energy"
+msgstr "พลังงาน"
+
+msgid "Engine"
+msgstr ""
+
+msgid "Engineering"
+msgstr "ทางวิศกรรม"
+
+msgid "English"
+msgstr "ภาษาอังกฤษ"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Enter password"
+msgstr "ป้อนรหัสผ่าน"
+
+msgid "Entry"
+msgstr "รายการ"
+
+msgid "Environment"
+msgstr "สภาพแวดล้อม"
+
+msgid "equals"
+msgstr "คือ"
+
+msgid "Equation"
+msgstr ""
+
+msgid "Equatorial Guinea"
+msgstr "อิเควทอเรียลกินี"
+
+msgid "Erase"
+msgstr "ลบ"
+
+msgid "Eraser"
+msgstr "ยางลบ"
+
+msgid "Eritrea"
+msgstr "เอริเทรีย"
+
+msgid "ERROR"
+msgstr "ERROR"
+
+msgid "Error"
+msgstr "ผิดพลาด"
+
+msgid "error"
+msgstr "ผิดพลาด"
+
+msgid "Error: %1"
+msgstr "ผิดพลาด: %1"
+
+msgid "Error message"
+msgstr "ข้อความแสดงข้อผิดพลาด"
+
+msgid "Errors"
+msgstr "ข้อผิดพลาด"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Esperanto"
+msgstr "ภาษาเอสเปอร์รันโต"
+
+msgid "Estonia"
+msgstr "เอสโตเนีย"
+
+msgid "Estonian"
+msgstr "ภาษาเอสโทเนีย"
+
+msgid "Ethiopia"
+msgstr "เอธิโอเปย"
+
+msgid "Ethiopic"
+msgstr "อักษรเอธิโอเปีย"
+
+msgid "Europe"
+msgstr "ยุโรป"
+
+msgid "Evaluate"
+msgstr ""
+
+msgid "Event"
+msgstr "เหตุการณ์"
+
+msgid "Events"
+msgstr "เหตการณ์"
+
+msgid "Everyone"
+msgstr "ทุกคน"
+
+msgid "Everything"
+msgstr "ทุกอย่าง"
+
+msgid "Exact"
+msgstr "ตรงกัน"
+
+msgid "Example"
+msgstr "ตัวอย่าง"
+
+msgid "Examples"
+msgstr "ตัวอย่าง"
+
+msgid "Exception"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Exclusion"
+msgstr "ยกเว้น"
+
+msgid "Executable"
+msgstr "แฟ้มประมวลผล"
+
+msgid "Execute"
+msgstr "เรียกทำงาน"
+
+msgid "Exit"
+msgstr ""
+
+msgid "Exit Full Screen"
+msgstr "Screen"
+
+msgid "Exit Fullscreen"
+msgstr "ออกจากเต็มจอ"
+
+msgid "Exiting..."
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid "Expand All"
+msgstr "ขยายทั้งหมด"
+
+msgid "Experimental"
+msgstr "ทดลอง"
+
+msgid "Expired"
+msgstr "หมดอายุ"
+
+msgid "Expires"
+msgstr "หมดอายุ"
+
+msgid "Export"
+msgstr "ส่งออก"
+
+msgid "&Export"
+msgstr "&ส่งออก"
+
+msgid "_Export"
+msgstr "_ส่งออก"
+
+msgid "Export..."
+msgstr "ส่งออก..."
+
+msgid "&Export..."
+msgstr "&ส่งออก..."
+
+msgid "_Export..."
+msgstr "_ส่งออก…"
+
+msgid "E&xport..."
+msgstr "&ส่งออก..."
+
+msgid "Export As..."
+msgstr ""
+
+msgid "Export failed"
+msgstr "การส่งออกล้มเหลว"
+
+msgid "Export Options"
+msgstr "นำตัวเลือกออก"
+
+msgid "Exposure"
+msgstr "การรับแสง"
+
+msgid "Expression"
+msgstr ""
+
+msgid "Extended"
+msgstr "พาร์ติชันขยาย"
+
+msgid "Extension"
+msgstr "ส่วนขยาย"
+
+msgid "Extensions"
+msgstr "ส่วนขยาย"
+
+msgid "Extra Toolbar"
+msgstr "แถบเครื่องมือพิเศษ"
+
+msgid "Extract"
+msgstr "คลายแฟ้ม"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "ค่อย ๆ จางหาย/ค่อย ๆ ชัด"
+
+msgid "Fahrenheit"
+msgstr "ฟาเรนไฮต์"
+
+msgid "Failed"
+msgstr "ล้มเหลว"
+
+msgid "False"
+msgstr "เท็จ"
+
+msgid "false"
+msgstr "เท็จ"
+
+msgid "Family"
+msgstr "ตระกูล"
+
+msgid "Family Name"
+msgstr "นามสกุล"
+
+msgid "Fast"
+msgstr "เร็ว"
+
+msgid "Faster"
+msgstr ""
+
+msgid "Fatal Error"
+msgstr ""
+
+msgid "Favorite"
+msgstr "ชิ้นโปรด"
+
+msgid "Favorites"
+msgstr "รายการโปรด"
+
+msgid "Fax"
+msgstr "โทรสาร"
+
+msgid "Features"
+msgstr "คุณลักษณะ"
+
+msgid "February"
+msgstr "กุมภาพันธ์"
+
+msgid "Feeds"
+msgstr "แหล่งป้อน"
+
+msgid "Felipe Kinoshita"
+msgstr ""
+
+msgid "Fetch"
+msgstr ""
+
+msgid "Fiji"
+msgstr "ฟิจิ"
+
+msgid "FILE"
+msgstr "FILE"
+
+msgid "File"
+msgstr "แฟ้ม"
+
+msgid "file"
+msgstr "แฟ้ม"
+
+msgid "&File"
+msgstr "แ&ฟ้ม"
+
+msgid "_File"
+msgstr "แ_ฟ้ม"
+
+msgid "[FILE...]"
+msgstr "[FILE...]"
+
+msgid "File Already Exists"
+msgstr "มีแฟ้มนี้อยู่แล้ว"
+
+msgid "File already exists"
+msgstr "มีแฟ้มนี้อยู่แล้ว"
+
+msgid "File Exists"
+msgstr "มีแฟ้มอยู่แล้ว"
+
+msgid "File Format"
+msgstr "ประเภทแฟ้ม"
+
+msgid "File is not a valid .desktop file"
+msgstr "แฟ้มนี้ไม่ใช่แฟ้ม .desktop ที่ใช้ได้"
+
+msgid "File Manager"
+msgstr "โปรแกรมจัดการแฟ้ม"
+
+msgid "File Name"
+msgstr "ชื่อแฟ้ม"
+
+msgid "File name"
+msgstr "ชื่อแฟ้ม"
+
+msgid "File Not Found"
+msgstr ""
+
+msgid "File not found"
+msgstr "ไม่พบแฟ้ม"
+
+msgid "File Path"
+msgstr "พาธของแฟ้ม"
+
+msgid "File Properties"
+msgstr "คุณสมบัติของแฟ้ม"
+
+msgid "File Size"
+msgstr "ขนาดแฟ้ม"
+
+msgid "File size"
+msgstr "ขนาดแฟ้ม"
+
+msgid "File System"
+msgstr "ระบบแฟ้ม"
+
+msgid "File to open"
+msgstr ""
+
+msgid "File Transfer"
+msgstr ""
+
+msgid "File Type"
+msgstr "ชนิดไฟล์"
+
+msgid "Filename"
+msgstr "ชื่อแฟ้ม"
+
+msgid "Files"
+msgstr "ไฟล์"
+
+msgid "Filesystem"
+msgstr "ระบบไฟล์"
+
+msgid "Fill"
+msgstr "เติมสี"
+
+msgid "Fill Color"
+msgstr "สีเติม"
+
+msgid "Filter"
+msgstr "ตัวกรอง"
+
+msgid "Filter..."
+msgstr "กรอง…"
+
+msgid "Filters"
+msgstr "ตัวกรอง"
+
+msgid "Final"
+msgstr "ขั้นสุดท้าย"
+
+msgid "Find"
+msgstr "หา"
+
+msgid "&Find"
+msgstr "&ค้นหา"
+
+msgid "_Find"
+msgstr "_หา"
+
+msgid "F&ind"
+msgstr "&ค้นหา"
+
+msgid "Find..."
+msgstr "ค้นหา..."
+
+msgid "_Find..."
+msgstr "_ค้นหา..."
+
+msgid "Find and Replace"
+msgstr ""
+
+msgid "Find Next"
+msgstr "หาถัดไป"
+
+msgid "Find _Next"
+msgstr "หา_ต่อ"
+
+msgid "Find Ne_xt"
+msgstr ""
+
+msgid "Find Previous"
+msgstr "หาก่อนหน้า"
+
+msgid "Find Pre_vious"
+msgstr ""
+
+msgid "Fingerprint"
+msgstr "ลายนิ้วมือ"
+
+msgid "Finish"
+msgstr ""
+
+msgid "Finished"
+msgstr "เสร็จสิ้น"
+
+msgid "Finland"
+msgstr "ฟนแลนด"
+
+msgid "Finnish"
+msgstr "ภาษาฟินแลนด์"
+
+msgid "First"
+msgstr "ภาพแรก"
+
+msgid "First Page"
+msgstr "หน้าแรก"
+
+msgid "Fit"
+msgstr "ปรับพอดี"
+
+msgid "Fit Width"
+msgstr "พอดีกับความกว้าง"
+
+msgid "Fixed"
+msgstr "คงที่"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "ถูกติดป้าย"
+
+msgid "Flags"
+msgstr "แฟล็ก"
+
+msgid "Flash"
+msgstr "แสงแฟลช"
+
+msgid "Flat"
+msgstr "แบน"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "พลิก"
+
+msgid "Flip Horizontally"
+msgstr "พลิกภาพทางแนวนอน"
+
+msgid "Flip horizontally"
+msgstr "พลิกด้านแนวนอน"
+
+msgid "Flip Vertically"
+msgstr "พลิกภาพทางแนวตั้ง"
+
+msgid "Flip vertically"
+msgstr "พลิกด้านแนวตั้ง"
+
+msgid "Float"
+msgstr ""
+
+msgid "Floating"
+msgstr ""
+
+msgid "Flow"
+msgstr "การไหล"
+
+msgid "flower"
+msgstr ""
+
+msgid "Focal Length"
+msgstr "ระยะโฟกัส"
+
+msgid "Focus"
+msgstr "การโฟกัส"
+
+msgid "Folder"
+msgstr "โฟลเดอร์"
+
+msgid "Folder name"
+msgstr "ชื่อโฟลเดอร์"
+
+msgid "Folders"
+msgstr "โฟลเดอร์"
+
+msgid "Folk"
+msgstr "โฟลค์"
+
+msgid "Font"
+msgstr "แบบอักษร"
+
+msgid "&Font"
+msgstr "แ&บบอักษร"
+
+msgid "Font Color"
+msgstr ""
+
+msgid "Font Family"
+msgstr "ตระกูลแบบอักษร"
+
+msgid "Font Size"
+msgstr "ขนาดตัวอักษร"
+
+msgid "Font size"
+msgstr "ขนาดแบบอักษร"
+
+msgid "Fonts"
+msgstr "แบบอักษร"
+
+msgid "_Fonts"
+msgstr "แบบ_อักษร"
+
+msgid "Food"
+msgstr ""
+
+msgid "Footer"
+msgstr "ท้ายกระดาษ"
+
+msgid "Force"
+msgstr "ความแรง"
+
+msgid "Forecast"
+msgstr "พยากรณ์อากาศ"
+
+msgid "Foreground"
+msgstr "พื้นหน้า"
+
+msgid "Foreground Color"
+msgstr "สีพื้นหน้า"
+
+msgid "Foreground color"
+msgstr "สีพื้นหน้า"
+
+msgid "forever"
+msgstr "ตลอดกาล"
+
+msgid "Form"
+msgstr "จาก"
+
+msgid "Format"
+msgstr "รูปแบบ"
+
+msgid "Formatting"
+msgstr "การจัดรูปแบบ"
+
+msgid "Former Maintainer"
+msgstr "ผู้ดูแลก่อนหน้านี้"
+
+msgid "Former maintainer"
+msgstr "ผู้ดูแลคนก่อน"
+
+msgid "Formula"
+msgstr ""
+
+msgid "Forward"
+msgstr "ถัดไป"
+
+msgid "&Forward"
+msgstr "&ต่อไป"
+
+msgid "_Forward"
+msgstr "_ต่อไป"
+
+msgid "Fraction"
+msgstr "เศษส่วน"
+
+msgid "Frame"
+msgstr "เฟรม"
+
+msgid "Framerate"
+msgstr "อัตราเฟรม"
+
+msgid "Frames"
+msgstr "เฟรม"
+
+msgid "France"
+msgstr "ฝรั่งเศส"
+
+msgid "Free"
+msgstr "พื้นที่ว่าง"
+
+msgid "French"
+msgstr "ภาษาฝรั่งเศส"
+
+msgid "French Guiana"
+msgstr "เฟรนช์เกียนา"
+
+msgid "Frequency"
+msgstr "ความถี่"
+
+msgid "Friday"
+msgstr "ศุกร์"
+
+msgid "Friends"
+msgstr "เพื่อน ๆ ของฉัน"
+
+msgid "From"
+msgstr "จาก"
+
+msgid "from"
+msgstr "จาก"
+
+msgid "From %1"
+msgstr "จาก %1"
+
+msgid "Frozen"
+msgstr "เย็นเป็นน้ำแข็ง"
+
+msgid "Full"
+msgstr "เต็มที่"
+
+msgid "Full Name"
+msgstr "ชื่อเต็ม"
+
+msgid "Full Screen"
+msgstr "เต็มจอ"
+
+msgid "Full Screen Mode"
+msgstr "เต็มหน้าจอ"
+
+msgid "F&ull Screen Mode"
+msgstr "โหมดเ&ต็มหน้าจอ"
+
+msgid "Fullscreen"
+msgstr "เต็มจอ"
+
+msgid "_Fullscreen"
+msgstr "เ_ต็มจอ"
+
+msgid "Function"
+msgstr "ฟังก์ชัน"
+
+msgid "function"
+msgstr ""
+
+msgid "Functions"
+msgstr "ฟังก์ชัน"
+
+msgid "Future"
+msgstr ""
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "กาบอง"
+
+msgid "Galician"
+msgstr "ภาษาแกลิเชียน"
+
+msgid "Gallery"
+msgstr "คลังภาพ"
+
+msgid "Gambia"
+msgstr "แกมเบีย"
+
+msgid "Game"
+msgstr "เกม"
+
+msgid "&Game"
+msgstr "เ&กม"
+
+msgid "Game Over"
+msgstr "จบเกม"
+
+msgid "Games"
+msgstr "เกม"
+
+msgid "Gamma"
+msgstr "แกมมา"
+
+msgid "Gas"
+msgstr ""
+
+msgid "Gate"
+msgstr ""
+
+msgid "Gateway"
+msgstr "เกตเวย์"
+
+msgid "Gaussian Blur"
+msgstr ""
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "เพศ"
+
+msgid "General"
+msgstr "ทั่วไป"
+
+msgid "&General"
+msgstr "ค่า&ทั่วไป"
+
+msgid "General Options"
+msgstr "ตัวเลือกทั่วไป"
+
+msgid "General options"
+msgstr "ตัวเลือกทั่วไป"
+
+msgid "General Settings"
+msgstr "ตั้งค่าทั่วไป"
+
+msgid "Generate"
+msgstr ""
+
+msgid "Generic"
+msgstr "ค่าทั่วไป"
+
+msgid "Genre"
+msgstr "แนวเพลง"
+
+msgid "Genres"
+msgstr "ประเภท"
+
+msgid "Geometry"
+msgstr "มิติขนาด"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "จอร์เจีย"
+
+msgid "Georgian"
+msgstr "จอร์เจีย"
+
+msgid "German"
+msgstr "ภาษาเยอรมัน"
+
+msgid "Germany"
+msgstr "เยอรมนี"
+
+msgid "Get New..."
+msgstr "รับใหม่..."
+
+msgid "Get New Plugins..."
+msgstr ""
+
+msgid "Ghana"
+msgstr "กานา"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "ชื่อ"
+
+msgid "Global"
+msgstr "ทั่วไป"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "ไป"
+
+msgid "&Go"
+msgstr "ไ&ป"
+
+msgid "_Go"
+msgstr "ไ_ป"
+
+msgid "Go Back"
+msgstr "ย้อนกลับ"
+
+msgid "Go back"
+msgstr "กลับไป"
+
+msgid "Go forward"
+msgstr "ถัดไป"
+
+msgid "Go To"
+msgstr "ไปยัง"
+
+msgid "Go to first page"
+msgstr "ไปยังหน้าแรก"
+
+msgid "Go to last page"
+msgstr "ไปยังหน้าสุดท้าย"
+
+msgid "Go to Line"
+msgstr "ไปที่บรรทัด"
+
+msgid "Go to next page"
+msgstr "ไปยังหน้าถัดไป"
+
+msgid "Go to previous page"
+msgstr "ไปยังหน้าก่อนหน้านี้"
+
+msgid "Goa"
+msgstr "กัว"
+
+msgid "Gold"
+msgstr ""
+
+msgid "Good"
+msgstr "ดี"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "กอธิค"
+
+msgid "Gradient"
+msgstr "การไล่สี"
+
+msgid "Gradients"
+msgstr "การไล่สี"
+
+msgid "Graph"
+msgstr "กราฟ"
+
+msgid "Graphics"
+msgstr "กราฟิก"
+
+msgid "Gray"
+msgstr "เทา"
+
+msgid "gray"
+msgstr "เทา"
+
+msgid "Grayscale"
+msgstr "ระดับสีเทา"
+
+msgid "Greece"
+msgstr "กรีซ"
+
+msgid "Greek"
+msgstr "กรีก"
+
+msgid "Green"
+msgstr "เขียว"
+
+msgid "green"
+msgstr "เขียว"
+
+msgid "Grenada"
+msgstr "เกรเนดา"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Grid"
+msgstr "กริด"
+
+msgid "Group"
+msgstr "กลุ่ม"
+
+msgid "Group name"
+msgstr "ชื่อกลุ่ม"
+
+msgid "Grouping"
+msgstr ""
+
+msgid "Groups"
+msgstr "กลุ่ม"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "กัวเตมาลา"
+
+msgid "Guides"
+msgstr "ไกด์"
+
+msgid "Guinea"
+msgstr "กินี"
+
+msgid "Gujarati"
+msgstr "คุชราตี"
+
+msgid "Gurmukhi"
+msgstr "คุรุมุขี"
+
+msgid "Guyana"
+msgstr "กายอานา"
+
+msgid "H"
+msgstr "H"
+
+msgid "Haiti"
+msgstr "เฮติ"
+
+msgid "Hard"
+msgstr "ยาก"
+
+msgid "Hardware"
+msgstr "ฮาร์ดแวร์"
+
+msgid "Hawaiian"
+msgstr ""
+
+msgid "Header"
+msgstr "หัวกระดาษ"
+
+msgid "Headers"
+msgstr "หัวจดหมาย"
+
+msgid "Heading"
+msgstr "หัวข้อ"
+
+msgid "Heading 1"
+msgstr ""
+
+msgid "Heading 2"
+msgstr ""
+
+msgid "Heading 3"
+msgstr ""
+
+msgid "Heading 4"
+msgstr ""
+
+msgid "Headphones"
+msgstr "หูฟัง"
+
+msgid "Headset"
+msgstr "ชุดหูฟัง"
+
+msgid "Health"
+msgstr "สุขภาพ"
+
+msgid "Hebrew"
+msgstr "ฮีบรู"
+
+msgid "Height"
+msgstr "ความสูง"
+
+msgid "&Height"
+msgstr "&สูง"
+
+msgid "Help"
+msgstr "วิธีใช้"
+
+msgid "&Help"
+msgstr "&ช่วยเหลือ"
+
+msgid "_Help"
+msgstr "_วิธีใช้"
+
+msgid "Helsinki"
+msgstr "เฮลซิงกิ"
+
+msgid "Hex"
+msgstr "ฐานสิบหก"
+
+msgid "Hexadecimal"
+msgstr "ฐานสิบหก"
+
+msgid "Hexagon"
+msgstr ""
+
+msgid "Hibernate"
+msgstr "จำศีล"
+
+msgid "Hidden"
+msgstr "ซ่อนอยู่"
+
+msgid "hidden"
+msgstr "ซ่อน"
+
+msgid "Hide"
+msgstr "ซ่อน"
+
+msgid "&Hide"
+msgstr "&ซ่อน"
+
+msgid "Hide menu bar"
+msgstr ""
+
+msgid "High"
+msgstr "สูง"
+
+msgid "Highlight"
+msgstr "ตัวเน้น"
+
+msgid "Highlighter"
+msgstr ""
+
+msgid "Highlights"
+msgstr "ส่วนสว่าง"
+
+msgid "Hindi"
+msgstr "ภาษาฮินดู"
+
+msgid "Hint"
+msgstr ""
+
+msgid "Histogram"
+msgstr "กราฟสถิติความถี่"
+
+msgid "History"
+msgstr "ประวัติ"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Holidays"
+msgstr "วันหยุด"
+
+msgid "Home"
+msgstr "บ้าน"
+
+msgid "&Home"
+msgstr "&หน้าหลัก"
+
+msgid "Home Folder"
+msgstr "โฟลเดอร์บ้าน"
+
+msgid "Home Page"
+msgstr "หน้าหลัก"
+
+msgid "Homepage"
+msgstr "หน้าเว็บหลัก"
+
+msgid "Honduras"
+msgstr "ฮอนดูรัส"
+
+msgid "Hong Kong"
+msgstr "ฮ่องกง"
+
+msgid "Horizontal"
+msgstr "แนวนอน"
+
+msgid "Host"
+msgstr "เครื่อง"
+
+msgid "Hostname"
+msgstr "ชื่อเครื่อง"
+
+msgid "Hotspot"
+msgstr "ฮอตสปอต"
+
+msgid "Hour"
+msgstr "ชั่วโมง"
+
+msgid "Hours"
+msgstr "ชั่วโมง"
+
+msgid "hours"
+msgstr "ชั่วโมง"
+
+msgid "House"
+msgstr "เฮาส์"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "ความเข้มสี"
+
+msgid "Huge"
+msgstr "ใหญ่พิเศษ"
+
+msgid "Hungarian"
+msgstr "ภาษาฮังการี"
+
+msgid "Hungary"
+msgstr "ฮังการี"
+
+msgid "Hz"
+msgstr "Hz"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr ""
+
+msgid "Iceland"
+msgstr "ไอซแลนด์"
+
+msgid "Icelandic"
+msgstr "ภาษาไอซ์แลนด์"
+
+msgid "Icon"
+msgstr "ไอคอน"
+
+msgid "Icon Size"
+msgstr "ขนาดไอคอน"
+
+msgid "Icon size"
+msgstr "ขนาดไอคอน"
+
+msgid "Icon View"
+msgstr ""
+
+msgid "Icons"
+msgstr "ไอคอน"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Id"
+msgstr ""
+
+msgid "id"
+msgstr ""
+
+msgid "Identifier"
+msgstr "ตัวระบุ"
+
+msgid "Identity"
+msgstr "การแสดงตัว"
+
+msgid "Idle"
+msgstr "ว่างงาน"
+
+msgid "Ignore"
+msgstr "ไม่สนใจ"
+
+msgid "_Ignore"
+msgstr "เ_พิกเฉย"
+
+msgid "Ignore Case"
+msgstr ""
+
+msgid "Ignored"
+msgstr "ไม่สนใจ"
+
+msgid "Image"
+msgstr "ภาพ"
+
+msgid "image"
+msgstr "รูปภาพ"
+
+msgid "&Image"
+msgstr "&ภาพ"
+
+msgid "_Image"
+msgstr "_ภาพ"
+
+msgid "Image Editor"
+msgstr "เครื่องมือแก้ไขภาพ"
+
+msgid "Image Files"
+msgstr "แฟ้มภาพ"
+
+msgid "Image files"
+msgstr "แฟ้มรูปภาพ"
+
+msgid "Image Gallery"
+msgstr ""
+
+msgid "Image Properties"
+msgstr "คุณสมบัติภาพ"
+
+msgid "Image Settings"
+msgstr "ตั้งค่ารูปภาพ"
+
+msgid "Image Size"
+msgstr "ขนาดภาพ"
+
+msgid "Image Viewer"
+msgstr "โปรแกรมดูภาพ"
+
+msgid "Images"
+msgstr "รูปภาพ"
+
+msgid "Images (%1)"
+msgstr ""
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "นำเข้า"
+
+msgid "&Import"
+msgstr "&นำเข้า"
+
+msgid "_Import"
+msgstr "นำเ_ข้า"
+
+msgid "Import..."
+msgstr "นำเข้า..."
+
+msgid "&Import..."
+msgstr "นำเ&ข้า..."
+
+msgid "Import failed"
+msgstr "การนำเข้าล้มเหลว"
+
+msgid "Important"
+msgstr "จดหมายสำคัญ"
+
+msgid "In"
+msgstr "เข้า"
+
+msgid "in"
+msgstr "นิ้ว"
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Inbox"
+msgstr "จดหมายเข้า"
+
+msgid "inch"
+msgstr ""
+
+msgid "Inches"
+msgstr "นิ้ว"
+
+msgid "inches"
+msgstr "นิ้ว"
+
+msgid "Inches (in)"
+msgstr "นิ้ว (น.)"
+
+msgid "Include"
+msgstr ""
+
+msgid "Includes"
+msgstr ""
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Increase Font Size"
+msgstr "เพิ่มขนาดตัวอักษร"
+
+msgid "Increase Indent"
+msgstr "เพิ่มระยะการเยื้อง"
+
+msgid "Increase Volume"
+msgstr "เพิ่มระดับเสียง"
+
+msgid "Incremental"
+msgstr "เพิ่มขนาด"
+
+msgid "Indentation"
+msgstr "การร่นย่อหน้า"
+
+msgid "Index"
+msgstr "ดัชนี"
+
+msgid "Indexed"
+msgstr "ดัชนีสี"
+
+msgid "India"
+msgstr "อินเดีย"
+
+msgid "Indonesia"
+msgstr "อินโดนีเซีย"
+
+msgid "Indonesian"
+msgstr "ภาษาอินโดนีเซีย"
+
+msgid "Industrial"
+msgstr "อินดัสเตรียล"
+
+msgid "Info"
+msgstr "ข้อมูล"
+
+msgid "Information"
+msgstr "ข้อมูลรายละเอียด"
+
+msgid "Initials"
+msgstr "ชื่อย่อ"
+
+msgid "Input"
+msgstr "กดปุ่มพิมพ์"
+
+msgid "Input Devices"
+msgstr "อุปกรณ์อินพุต"
+
+msgid "Insert"
+msgstr "แทรก"
+
+msgid "&Insert"
+msgstr "แทรก"
+
+msgid "Insert Image"
+msgstr ""
+
+msgid "Insert Link"
+msgstr "แทรกที่อยู่เชื่อมโยง"
+
+msgid "Insert Table"
+msgstr ""
+
+msgid "Insert Text"
+msgstr "แทรกข้อความ"
+
+msgid "Install"
+msgstr "ติดตั้ง"
+
+msgid "Install..."
+msgstr "ติดตั้ง..."
+
+msgid "Install from File..."
+msgstr "ติดตั้งจากไฟล์..."
+
+msgid "Installed"
+msgstr "ติดตั้งแล้ว"
+
+msgid "Installing"
+msgstr "กำลังติดตั้ง"
+
+msgid "Instant"
+msgstr ""
+
+msgid "Integer"
+msgstr "จำนวนเต็ม"
+
+msgid "Integrate"
+msgstr "หาปริพันธ์"
+
+msgid "Intensity"
+msgstr "ความหนาแน่น"
+
+msgid "Interface"
+msgstr "อินเทอร์เฟซ"
+
+msgid "Internal"
+msgstr ""
+
+msgid "Internal Error"
+msgstr "ข้อผิดพลาดภายใน"
+
+msgid "Internal error"
+msgstr "ข้อผิดพลาดภายใน"
+
+msgid "International"
+msgstr "ต่างประเทศ"
+
+msgid "Internet"
+msgstr "อินเทอร์เน็ต"
+
+msgid "Interpolation"
+msgstr "วิธีการประมาณค่า"
+
+msgid "Interrupt"
+msgstr "การขัดจังหวะ"
+
+msgid "Interval"
+msgstr "เวลาแสดงแต่ละภาพ"
+
+msgid "Introduction"
+msgstr "แนะนำ"
+
+msgid "Invalid"
+msgstr "ไม่ถูกต้อง"
+
+msgid "invalid"
+msgstr "ใช้ไม่ได้"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr ""
+
+msgid "Invalid date"
+msgstr "วันที่ไม่ถูกต้อง"
+
+msgid "Invalid password"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+msgid "Invalid URL"
+msgstr "URL ไม่ถูกต้อง"
+
+msgid "Invert"
+msgstr "กลับค่าสี"
+
+msgid "Invert Selection"
+msgstr "กลับค่าการเลือก"
+
+msgid "IP"
+msgstr ""
+
+msgid "IP Address"
+msgstr "ที่อยู่ไอพี"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "อิหร่าน"
+
+msgid "Iraq"
+msgstr "อิรัก"
+
+msgid "Ireland"
+msgstr "ไอรแลนด์"
+
+msgid "Irish"
+msgstr "ภาษาไอริช"
+
+msgid "is"
+msgstr "-"
+
+msgid "Israel"
+msgstr "อิสราเอล"
+
+msgid "Issued By"
+msgstr ""
+
+msgid "Issuer"
+msgstr "ผู้ออกให้"
+
+msgid "Italian"
+msgstr "ภาษาอิตาเลียน"
+
+msgid "Italic"
+msgstr "ตัวเอียง"
+
+msgid "&Italic"
+msgstr "ตัวเ&อียง"
+
+msgid "_Italic"
+msgstr "ตัวเ_อน"
+
+msgid "Italy"
+msgstr "อิตาลี"
+
+msgid "Item"
+msgstr "รายการ"
+
+msgid "Items"
+msgstr "รายการ"
+
+msgid "Iterations"
+msgstr "รอบวนซ้ำ"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "จาเมกา"
+
+msgid "January"
+msgstr "มกราคม"
+
+msgid "Japan"
+msgstr "ญี่ปุ่น"
+
+msgid "Japanese"
+msgstr "ญี่ปุ่น"
+
+msgid "Javanese"
+msgstr "ชวา"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "แจ๊ส"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr ""
+
+msgid "Jonah Brüchert"
+msgstr ""
+
+msgid "Jordan"
+msgstr "จอร์แดน"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr ""
+
+msgid "Journal"
+msgstr "บันทึกประจำวัน"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "กรกฎาคม"
+
+msgid "Jump to next match"
+msgstr "กระโดดไปยังที่ค้นพบตัวถัดไป"
+
+msgid "Jump to previous match"
+msgstr "กระโดดไปยังที่ค้นพบตัวก่อนหน้า"
+
+msgid "June"
+msgstr "มิถุนายน"
+
+msgid "Justify"
+msgstr "ชิดขอบ"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "กัณณาท"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "ภาษาคาซัค"
+
+msgid "Kazakhstan"
+msgstr "คาซัคสถาน"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr ""
+
+msgid "KDE Connect"
+msgstr ""
+
+msgid "KDevelop"
+msgstr ""
+
+msgid "Keep"
+msgstr "คงไว้"
+
+msgid "_Keep"
+msgstr "_คงไว้"
+
+msgid "Keep aspect ratio"
+msgstr "รักษาสัดส่วนภาพ"
+
+msgid "Keep Open"
+msgstr ""
+
+msgid "Kenya"
+msgstr "เคนยา"
+
+msgid "Kernel"
+msgstr "เคอร์เนล"
+
+msgid "Key"
+msgstr "กุญแจ"
+
+msgid "Key ID"
+msgstr "หมายเลขกุญแจ"
+
+msgid "Keyboard"
+msgstr "แป้นพิมพ์"
+
+msgid "Keyboard Layout"
+msgstr "ผังแป้นพิมพ์"
+
+msgid "Keyboard Shortcuts"
+msgstr "ปุ่มลัดแป้นพิมพ์"
+
+msgid "Keyboard shortcuts"
+msgstr "ปุ่มลัดแป้นพิมพ์"
+
+msgid "_Keyboard Shortcuts"
+msgstr "ปุ่_มลัดแป้นพิมพ์"
+
+msgid "Keys"
+msgstr ""
+
+msgid "Keyword"
+msgstr "คีย์เวิร์ด"
+
+msgid "Keywords"
+msgstr "คำหลัก"
+
+msgid "Khmer"
+msgstr "ภาษาเขมร"
+
+msgid "KiB"
+msgstr " กิโลไบต์"
+
+msgid "Kind"
+msgstr "ประเภท"
+
+msgid "Kiribati"
+msgstr "คิริบาตี"
+
+msgid "km"
+msgstr "ก.ม."
+
+msgid "KMail"
+msgstr "จัดการจดหมาย K"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "เกาหลี"
+
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+msgid "Kuwait"
+msgstr "คูเวต"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "ชื่อ"
+
+msgid "label"
+msgstr "ป้ายชื่อ"
+
+msgid "Labels"
+msgstr "ป้าย"
+
+msgid "Landscape"
+msgstr "แนวนอน"
+
+msgid "Language"
+msgstr "ภาษา"
+
+msgid "_Language"
+msgstr "_ภาษา"
+
+msgid "Languages"
+msgstr "ภาษา"
+
+msgid "Lao"
+msgstr "ลาว"
+
+msgid "Laos"
+msgstr "ลาว"
+
+msgid "Large"
+msgstr "ใหญ่"
+
+msgid "Last"
+msgstr "ล่าสุด"
+
+msgid "Last Modified"
+msgstr "แก้ไขล่าสุด"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "ละติน"
+
+msgid "Latitude"
+msgstr "เส้นรุ้ง"
+
+msgid "Latvia"
+msgstr "ลัตเวีย"
+
+msgid "Latvian"
+msgstr "ภาษาลัทเวีย"
+
+msgid "Launch %1"
+msgstr ""
+
+msgid "Layer"
+msgstr "เลเยอร์"
+
+msgid "Layers"
+msgstr "ชั้นเอกสาร"
+
+msgid "Layout"
+msgstr "การจัดวาง"
+
+msgid "Leave Fullscreen"
+msgstr "ออกจากเต็มจอ"
+
+msgid "Lebanon"
+msgstr "เลบานอน"
+
+msgid "Left"
+msgstr "ซ้าย"
+
+msgid "left"
+msgstr "ซ้าย"
+
+msgid "&Left"
+msgstr ""
+
+msgid "_Left"
+msgstr "_ซ้าย"
+
+msgid "Left to Right"
+msgstr "จากซ้ายไปขวา"
+
+msgid "Legacy"
+msgstr "ระบบเก่า"
+
+msgid "Legend"
+msgstr "สัญลักษณ์"
+
+msgid "Length"
+msgstr "ความยาว"
+
+msgid "Lesotho"
+msgstr "เลโซโท"
+
+msgid "Letter"
+msgstr "จดหมาย"
+
+msgid "Level"
+msgstr "ระดับ"
+
+msgid "Level %1"
+msgstr "ระดับการเล่น %1"
+
+msgid "Levels"
+msgstr "ระดับ"
+
+msgid "Liberia"
+msgstr "ไลบีเรีย"
+
+msgid "Library"
+msgstr "คลังเพลง"
+
+msgid "License"
+msgstr "สัญญาอนุญาต"
+
+msgid "Liechtenstein"
+msgstr "ลิกเตนสไตน์"
+
+msgid "Light"
+msgstr "ตัวบาง"
+
+msgid "Lighten"
+msgstr ""
+
+msgid "Lightness"
+msgstr "ความสว่าง"
+
+msgid "Limit"
+msgstr "ขีดจำกัด"
+
+msgid "Limits"
+msgstr ""
+
+msgid "Line"
+msgstr "เส้น"
+
+msgid "line"
+msgstr ""
+
+msgid "Line Break"
+msgstr "ขึ้นบรรทัดใหม่"
+
+msgid "Line Color"
+msgstr ""
+
+msgid "Line Numbers"
+msgstr "หมายเลขบรรทัด"
+
+msgid "Line Width"
+msgstr ""
+
+msgid "Line width"
+msgstr "ความกว้างเส้น"
+
+msgid "Linear"
+msgstr "เชิงเส้น"
+
+msgid "Lines"
+msgstr "เส้น"
+
+msgid "Link"
+msgstr "เชื่อมโยง"
+
+msgid "link"
+msgstr "ลิงก์"
+
+msgid "Link URL"
+msgstr "เชื่อมโยงที่อยู่ URL"
+
+msgid "Links"
+msgstr "ลิงก์"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "รายการ"
+
+msgid "List View"
+msgstr ""
+
+msgid "Lists"
+msgstr "รายชื่อ"
+
+msgid "Lists the available options for user feedback"
+msgstr "แสดงรายการตัวเลือกที่มีให้สำหรับ ความคิดเห็นของผู้ใช้"
+
+msgid "Lithuania"
+msgstr "ลิทัวเนีย"
+
+msgid "Lithuanian"
+msgstr "ภาษาลิทัวเนีย"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "โหลด"
+
+msgid "Load..."
+msgstr ""
+
+msgid "Load Game"
+msgstr "โหลดเกม"
+
+msgid "Loading"
+msgstr "ทำการโหลด"
+
+msgid "Loading..."
+msgstr "กำลังโหลด..."
+
+msgid "Loading %1..."
+msgstr ""
+
+msgid "Local"
+msgstr "ในเครื่อง"
+
+msgid "Locale"
+msgstr "ท้องถิ่น"
+
+msgid "Locality"
+msgstr "ย่านที่อยู่"
+
+msgid "Location"
+msgstr "ตำแหน่ง"
+
+msgid "Locations"
+msgstr "ตำแหน่งที่ตั้ง"
+
+msgid "Lock"
+msgstr "ล็อก"
+
+msgid "Lock Screen"
+msgstr "ล็อคหน้าจอ"
+
+msgid "Locked"
+msgstr "ถูกล็อค"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Log in"
+msgstr "เข้าระบบ"
+
+msgid "Log Out"
+msgstr "ออกจากระบบ"
+
+msgid "Logarithmic"
+msgstr "ลอการิทึม"
+
+msgid "Logging"
+msgstr "การบันทึกปูม"
+
+msgid "Logging in..."
+msgstr "กำลังเข้าระบบ..."
+
+msgid "Logic"
+msgstr ""
+
+msgid "Login"
+msgstr "เข้าระบบ"
+
+msgid "_Login"
+msgstr "เ_ข้าสู่ระบบ"
+
+msgid "Logout"
+msgstr "ออกจากระบบ"
+
+msgid "Logs"
+msgstr "ปูม"
+
+msgid "Longitude"
+msgstr "เส้นแวง"
+
+msgid "Loop"
+msgstr "วนรอบ"
+
+msgid "Low"
+msgstr "ต่ำ"
+
+msgid "Lower"
+msgstr "ตัวพิมพ์เล็ก"
+
+msgid "Lowercase"
+msgstr "ตัวเล็ก"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "ความส่องสว่าง"
+
+msgid "Luxembourg"
+msgstr "ลักเซมเบิร์ก"
+
+msgid "Lyricist"
+msgstr "นักแต่งเนื้อเพลง"
+
+msgid "Lyrics"
+msgstr "เนื้อเพลง"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr "ม."
+
+msgid "Macedonian"
+msgstr "ภาษามาเซโดเนีย"
+
+msgid "Macro"
+msgstr ""
+
+msgid "Macros"
+msgstr "แมโคร"
+
+msgid "Madagascar"
+msgstr "มาดากัสการ"
+
+msgid "Magenta"
+msgstr "แดงอมม่วง"
+
+msgid "Mail"
+msgstr "จดหมาย"
+
+msgid "Main"
+msgstr "ค่าหลัก ๆ"
+
+msgid "Main Menu"
+msgstr "เมนูหลัก"
+
+msgid "Main Toolbar"
+msgstr "แถบเครื่องมือหลัก"
+
+msgid "Main Window"
+msgstr "หน้าต่างหลัก"
+
+msgid "Main window"
+msgstr "หน้าต่างหลัก"
+
+msgid "Maintainer"
+msgstr "ผู้ดูแล"
+
+msgid "Malawi"
+msgstr "มาลาวี"
+
+msgid "Malay"
+msgstr "ภาษามลายู"
+
+msgid "Malayalam"
+msgstr "ภาษามะละยาลัม"
+
+msgid "Malaysia"
+msgstr "มาเลเซีย"
+
+msgid "Maldives"
+msgstr "มัลดีฟส์"
+
+msgid "Male"
+msgstr "ผู้ชาย"
+
+msgid "Mali"
+msgstr "มาลี"
+
+msgid "Malta"
+msgstr "มอลตา"
+
+msgid "Maltese"
+msgstr ""
+
+msgid "Manager"
+msgstr "ผู้จัดการ"
+
+msgid "Manual"
+msgstr "แมนนวล (M)"
+
+msgid "Manufacturer"
+msgstr "ผู้ผลิต"
+
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr "จับคู่ข้อมูล"
+
+msgid "Marathi"
+msgstr "ภาษามราฐี"
+
+msgid "Marble"
+msgstr ""
+
+msgid "March"
+msgstr "มีนาคม"
+
+msgid "Margins"
+msgstr "ขอบ"
+
+msgid "Mark"
+msgstr "เครื่องหมาย"
+
+msgid "Mark as Read"
+msgstr ""
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Marker"
+msgstr ""
+
+msgid "Markers"
+msgstr ""
+
+msgid "Marshall Islands"
+msgstr "หมู่เกาะมาร์แชลล์"
+
+msgid "Mask"
+msgstr "มาสก์"
+
+msgid "Mass"
+msgstr "มวล"
+
+msgid "Match"
+msgstr ""
+
+msgid "Match case"
+msgstr "ตัวพิมพ์ใหญ่-เล็กตรงกัน"
+
+msgid "_Match case"
+msgstr "ตัวพิมพ์ใหญ่-เ_ล็กตรงกัน"
+
+msgid "Math"
+msgstr "คณิตศาสตร์"
+
+msgid "Matrix"
+msgstr ""
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "มอริเตเนีย"
+
+msgid "Mauritius"
+msgstr "มอริเชียส"
+
+msgid "Max"
+msgstr "ค่ามากที่สุด"
+
+msgid "max"
+msgstr ""
+
+msgid "Maximize"
+msgstr "ขยายใหญ่สุด"
+
+msgid "Maximum"
+msgstr "สูงสุด"
+
+msgid "May"
+msgstr "พฤษภาคม"
+
+msgid "Maze"
+msgstr "เขาวงกต"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "ค่าเฉลี่ย"
+
+msgid "Measure"
+msgstr "วัดค่า"
+
+msgid "Media"
+msgstr "สื่อ"
+
+msgid "Media Player"
+msgstr "เครื่องเล่นสื่อ"
+
+msgid "Median"
+msgstr "ค่ากลาง"
+
+msgid "Medium"
+msgstr "ปานกลาง"
+
+msgid "medium"
+msgstr "ปานกลาง"
+
+msgid "Member"
+msgstr "สมาชิก"
+
+msgid "Memory"
+msgstr "หน่วยความจำ"
+
+msgid "Menu"
+msgstr "เมนู"
+
+msgid "Mercury"
+msgstr "เมอร์คิวรี"
+
+msgid "Merge"
+msgstr "รวม"
+
+msgid "Message"
+msgstr "ข้อความ"
+
+msgid "message"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "ข้อมูลกำกับ"
+
+msgid "Metal"
+msgstr "เมทัล"
+
+msgid "meters"
+msgstr "เมตร"
+
+msgid "Method"
+msgstr "วิธีการ"
+
+msgid "Metric"
+msgstr "เมตริก"
+
+msgid "Mexico"
+msgstr "เม็กซิโก"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "ไมโครโฟน"
+
+msgid "Middle"
+msgstr "กลาง"
+
+msgid "Miha Čančula"
+msgstr "Miha Čančula"
+
+msgid "Milian Wolff"
+msgstr ""
+
+msgid "Millimeters"
+msgstr "มิลลิเมตร"
+
+msgid "Millimeters (mm)"
+msgstr "มิลลิเมตร (ม.ม.)"
+
+msgid "Milliseconds"
+msgstr ""
+
+msgid "milliseconds"
+msgstr "มิลลิวินาที"
+
+msgid "Min"
+msgstr "ค่าน้อยที่สุด"
+
+msgid "min"
+msgstr "นาที"
+
+msgid "Minimize"
+msgstr "ย่อหาย"
+
+msgid "Minimum"
+msgstr "ต่ำสุด"
+
+msgid "Minute"
+msgstr "นาที"
+
+msgid "Minutes"
+msgstr "นาที"
+
+msgid "minutes"
+msgstr "นาที"
+
+msgid "Mirror"
+msgstr "กระจกเงา"
+
+msgid "Misc"
+msgstr "เบ็ดเตล็ด"
+
+msgid "Miscellaneous"
+msgstr "เบ็ดเตล็ด"
+
+msgid "missing plugin file \"%s\""
+msgstr ""
+
+msgid "Miter limit"
+msgstr "ขีดจำกัดมุมแหลม"
+
+msgid "Mix"
+msgstr "ผสมเสียง"
+
+msgid "mm"
+msgstr "ม.ม."
+
+msgid "Mobile"
+msgstr "มือถือ"
+
+msgid "Mode"
+msgstr "โหมด"
+
+msgid "Model"
+msgstr "รุ่น"
+
+msgid "Modem"
+msgstr "โมเด็ม"
+
+msgid "Modified"
+msgstr "แก้ไขเมื่อ"
+
+msgid "modified"
+msgstr "ปรับเปลี่ยน"
+
+msgid "Modifiers"
+msgstr "ปุ่มประกอบ"
+
+msgid "Modify"
+msgstr "แก้ไข"
+
+msgid "Modify..."
+msgstr "แก้ไข..."
+
+msgid "&Modify..."
+msgstr "แก้ไข..."
+
+msgid "Modify search behavior"
+msgstr "แก้ไขพฤติกรรมในการค้นหา"
+
+msgid "Module"
+msgstr "มอดูล"
+
+msgid "Modules"
+msgstr "มอดูล"
+
+msgid "Moldova"
+msgstr "มอลโดวา"
+
+msgid "Monaco"
+msgstr "โมนาโก"
+
+msgid "Monday"
+msgstr "จันทร์"
+
+msgid "Mongolia"
+msgstr "มองโกเลีย"
+
+msgid "Mongolian"
+msgstr "มองโกเลีย"
+
+msgid "Monitor"
+msgstr "ดูการทำงาน"
+
+msgid "Mono"
+msgstr "โมโน"
+
+msgid "Monochrome"
+msgstr "ภาพโทนสีเดียว"
+
+msgid "Monospace"
+msgstr ""
+
+msgid "Montenegro"
+msgstr "มอนเตเนโกร"
+
+msgid "Month"
+msgstr "เดือน"
+
+msgid "Month View"
+msgstr "มุมมองรายเดือน"
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "More"
+msgstr "ตัวเลือกเพิ่มเติม"
+
+msgid "More..."
+msgstr "เพิ่มเติม..."
+
+msgid "More actions"
+msgstr ""
+
+msgid "More Information"
+msgstr "ข้อมูลเพิ่มเติม"
+
+msgid "More options"
+msgstr ""
+
+msgid "Morocco"
+msgstr "โมร็อกโก"
+
+msgid "Mount"
+msgstr "เมานท์"
+
+msgid "Mount point"
+msgstr "จุดเมานท์"
+
+msgid "Mouse"
+msgstr "เมาส์"
+
+msgid "Mouse Wheel"
+msgstr "ล้อเมาส์"
+
+msgid "Move"
+msgstr "ย้าย"
+
+msgid "&Move"
+msgstr "&ย้าย"
+
+msgid "_Move"
+msgstr "_ย้าย"
+
+msgid "Move %1"
+msgstr "ย้าย %1"
+
+msgid "Move Down"
+msgstr "ย้ายลง"
+
+msgid "Move down"
+msgstr "ย้ายลง"
+
+msgid "Move &Down"
+msgstr "เลื่อน&ลง"
+
+msgid "&Move Here"
+msgstr "ย้าย&มาไว้ที่นี่"
+
+msgid "Move Left"
+msgstr ""
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr ""
+
+msgid "Move Tab Left"
+msgstr "ย้ายแท็บไปด้านซ้าย"
+
+msgid "Move Tab Right"
+msgstr "ย้ายแท็บไปด้านขวา"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "ขยับไป"
+
+msgid "Move to Bottom"
+msgstr ""
+
+msgid "Move to Top"
+msgstr ""
+
+msgid "Move to Trash"
+msgstr "ทิ้งลงถังขยะ"
+
+msgid "&Move to Trash"
+msgstr "&ทิ้งลงถังขยะ"
+
+msgid "Move Up"
+msgstr "ย้ายขึ้น"
+
+msgid "Move up"
+msgstr "ย้ายขึ้น"
+
+msgid "Move &Up"
+msgstr "เลื่อน&ขึ้น"
+
+msgid "Mozambique"
+msgstr "โมซัมบิก"
+
+msgid "ms"
+msgstr " มิลลิวินาที"
+
+msgid "m/s"
+msgstr "ม./วินาที"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "มัลติมีเดีย"
+
+msgid "Multiply"
+msgstr "ทวีคูณ"
+
+msgid "Music"
+msgstr "เพลง"
+
+msgid "Music Player"
+msgstr "เครื่องเล่นเพลง"
+
+msgid "Mute"
+msgstr "ตัดเสียง"
+
+msgid "Myanmar"
+msgstr "พม่า"
+
+msgid "N"
+msgstr "N"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "ไม่ปรากฏ"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "Name"
+msgstr "ชื่อ"
+
+msgid "name"
+msgstr "ชื่อ"
+
+msgid "&Name"
+msgstr "&ชื่อ"
+
+msgid "_Name"
+msgstr "_ชื่อ"
+
+msgid "Name: %1"
+msgstr "ชื่อ: %1"
+
+msgid "Namespace"
+msgstr ""
+
+msgid "Namibia"
+msgstr "นามิเบีย"
+
+msgid "Nature"
+msgstr ""
+
+msgid "Nauru"
+msgstr "นาอูรู"
+
+msgid "Navigation"
+msgstr "การนำทาง"
+
+msgid "Negative"
+msgstr "เนกาตีฟ"
+
+msgid "Neon"
+msgstr ""
+
+msgid "Nepal"
+msgstr "เนปาล"
+
+msgid "Nepali"
+msgstr "ภาษาเนปาล"
+
+msgid "Netherlands"
+msgstr "เนเธอรแลนด์"
+
+msgid "Network"
+msgstr "เครือข่าย"
+
+msgid "Networks"
+msgstr ""
+
+msgid "Never"
+msgstr "ไม่ทำ"
+
+msgid "never"
+msgstr "ไม่เคยใช้"
+
+msgid "New"
+msgstr "ใหม่"
+
+msgid "&New"
+msgstr "สร้างใ&หม่"
+
+msgid "_New"
+msgstr "ใ_หม่"
+
+msgid "New..."
+msgstr "สร้าง..."
+
+msgid "&New..."
+msgstr "สร้างใ&หม่..."
+
+msgid "_New..."
+msgstr "ใ_หม่..."
+
+msgid "New Bookmark"
+msgstr "คั่นหน้าใหม่"
+
+msgid "New Connection"
+msgstr "การเชื่อมต่อใหม่"
+
+msgid "New File"
+msgstr ""
+
+msgid "New Folder"
+msgstr "โฟลเดอร์ใหม่"
+
+msgid "New folder"
+msgstr "โฟลเดอร์ใหม่"
+
+msgid "New Folder..."
+msgstr "โฟลเดอร์ใหม่..."
+
+msgid "New Game"
+msgstr "เกมใหม่"
+
+msgid "New Group"
+msgstr "กลุ่มใหม่"
+
+msgid "New Item"
+msgstr "สร้างรายการใหม่"
+
+msgid "New Layer"
+msgstr "ชั้นงานใหม่"
+
+msgid "New Message"
+msgstr ""
+
+msgid "New Name"
+msgstr "ชื่อใหม่"
+
+msgid "New name"
+msgstr "ชื่อใหม่"
+
+msgid "New Profile"
+msgstr "โปรไฟล์ใหม่"
+
+msgid "New Project"
+msgstr ""
+
+msgid "New Session"
+msgstr "วาระการใช้งานตัวใหม่"
+
+msgid "New South Wales"
+msgstr "นิวเซาท์เวลส์"
+
+msgid "New Tab"
+msgstr "แท็บใหม่"
+
+msgid "New tag"
+msgstr ""
+
+msgid "New Window"
+msgstr "หน้าต่างใหม่"
+
+msgid "_New Window"
+msgstr "_หน้าต่างใหม่"
+
+msgid "New &Window"
+msgstr "&หน้าต่างใหม่"
+
+msgid "New _Window"
+msgstr "_หน้าต่างใหม่"
+
+msgid "New Zealand"
+msgstr "นิวซีแลนด์"
+
+msgid "News"
+msgstr "ข่าว"
+
+msgid "Newton"
+msgstr "นิวตัน"
+
+msgid "Next"
+msgstr "ถัดไป"
+
+msgid "&Next"
+msgstr "&ถัดไป"
+
+msgid "_Next"
+msgstr "_ถัดไป"
+
+msgid "Next Image"
+msgstr "ภาพถัดไป"
+
+msgid "Next month"
+msgstr ""
+
+msgid "Next Page"
+msgstr "หน้าถัดไป"
+
+msgid "Next Tab"
+msgstr "แท็บถัดไป"
+
+msgid "Next Track"
+msgstr "แทร็กถัดไป"
+
+msgid "Nicaragua"
+msgstr "นิการากัว"
+
+msgid "Nickname"
+msgstr "ชื่อเล่น"
+
+msgid "Niger"
+msgstr "ไนเจอร์"
+
+msgid "Nigeria"
+msgstr "ไนจีเรีย"
+
+msgid "Night"
+msgstr "กลางคืน"
+
+msgid "No"
+msgstr "ไม่ใช่"
+
+msgid "no"
+msgstr "ไม่ใช่"
+
+msgid "_No"
+msgstr "ไ_ม่"
+
+msgid "No."
+msgstr "ลำดับ"
+
+msgid "No description available"
+msgstr "ไม่มีข้อมูลรายละเอียด"
+
+msgid "No devices found"
+msgstr ""
+
+msgid "No error"
+msgstr ""
+
+msgid "No file selected"
+msgstr "ไม่ได้เลือกแฟ้ม"
+
+msgid "No filter"
+msgstr ""
+
+msgid "No Limit"
+msgstr "ไม่จำกัด"
+
+msgid "No matches"
+msgstr "ไม่มีคู่"
+
+msgid "No Name"
+msgstr ""
+
+msgid "No name"
+msgstr "ไม่มีชื่อ"
+
+msgid "No network connection"
+msgstr "ไม่ได้เชื่อมกับเครือข่าย"
+
+msgid "No results"
+msgstr ""
+
+msgid "No Results Found"
+msgstr "ไม่พบผลลัพธ์"
+
+msgid "No results found"
+msgstr ""
+
+msgid "No search results"
+msgstr ""
+
+msgid "No selection"
+msgstr "ไม่มีการเลือก"
+
+msgid "No Subject"
+msgstr "ไม่มีชื่อเรื่อง"
+
+msgid "No VPN configuration options."
+msgstr ""
+
+msgid "Noise"
+msgstr "นอยส์"
+
+msgid "None"
+msgstr "ไม่มี"
+
+msgid "none"
+msgstr "ไม่มี"
+
+msgid "&None"
+msgstr "&ไม่มี"
+
+msgid "_None"
+msgstr "ไ_ม่เลือก"
+
+msgid "(None)"
+msgstr "(ไม่มี)"
+
+msgid "(none)"
+msgstr "(ไม่มี)"
+
+msgid "Nordic"
+msgstr "นอร์ดิก"
+
+msgid "Normal"
+msgstr "ปกติ"
+
+msgid "_Normal Size"
+msgstr "ขนาด_ปกติ"
+
+msgid "Normalize"
+msgstr ""
+
+msgid "North"
+msgstr "เหนือ"
+
+msgid "North America"
+msgstr "อเมริกาเหนือ"
+
+msgid "Norway"
+msgstr "นอรเวย์"
+
+msgid "Norwegian"
+msgstr ""
+
+msgid "Not a launchable item"
+msgstr "ไม่ใช่รายการที่เรียกทำงานได้"
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "ไม่สามารถเขียนแฟ้ม '%1' ได้ พื้นที่ดิสก์เต็มหรือไม่ ?"
+
+msgid "Not Available"
+msgstr "ใช้ไม่ได้"
+
+msgid "Not available"
+msgstr "ไม่มีอยู่"
+
+msgid "not available"
+msgstr ""
+
+msgid "Not Connected"
+msgstr ""
+
+msgid "Not connected"
+msgstr "ไม่ได้เชื่อมต่อ"
+
+msgid "Not defined"
+msgstr "ไม่ระบุ"
+
+msgid "Not found"
+msgstr "ไม่พบ"
+
+msgid "Not implemented"
+msgstr "ยังไม่มีการจัดเตรียมไว้"
+
+msgid "Not running"
+msgstr "ยังไม่ทำงาน"
+
+msgid "Not supported"
+msgstr "ไม่รองรับ"
+
+msgid "Note"
+msgstr "บันทึก"
+
+msgid "Notes"
+msgstr "บันทึก"
+
+msgid "Nothing"
+msgstr "ไม่มีอะไร"
+
+msgid "Notice"
+msgstr "ข้อสังเกต"
+
+msgid "Notification"
+msgstr "การแจ้งเตือน"
+
+msgid "Notifications"
+msgstr "การแจ้งเหตุ"
+
+msgid "Noun"
+msgstr "คำนาม"
+
+msgid "November"
+msgstr "พฤศจิกายน"
+
+msgid "Now"
+msgstr "เดี๋ยวนี้"
+
+msgid "now"
+msgstr "เดี๋ยวนี้"
+
+msgid "NT Domain"
+msgstr ""
+
+msgid "NUMBER"
+msgstr "NUMBER"
+
+msgid "Number"
+msgstr "หมายเลข"
+
+msgid "number"
+msgstr ""
+
+msgid "Number of columns"
+msgstr ""
+
+msgid "Numbers"
+msgstr "ตัวเลข"
+
+msgid "Numeric"
+msgstr ""
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "วัตถุ"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr ""
+
+msgid "Objects"
+msgstr "อ็อบเจกต์"
+
+msgid "Oblique"
+msgstr "ตัวเฉียง"
+
+msgid "Octal"
+msgstr "ฐานแปด"
+
+msgid "October"
+msgstr "ตุลาคม"
+
+msgid "Off"
+msgstr "ปิด"
+
+msgid "off"
+msgstr "ปิด"
+
+msgid "Office"
+msgstr "สำนักงาน"
+
+msgid "Offline"
+msgstr "ออฟไลน์"
+
+msgid "Offset"
+msgstr "ออฟเซต"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "ตกลง"
+
+msgid "Ok"
+msgstr "ตกลง"
+
+msgid "&OK"
+msgstr "ต&กลง"
+
+msgid "_OK"
+msgstr "_ตกลง"
+
+msgid "Okular"
+msgstr "โอกูลาร์"
+
+msgid "Oman"
+msgstr "โอมาน"
+
+msgid "On"
+msgstr "เปิด"
+
+msgid "on"
+msgstr "เปิด"
+
+msgid "One"
+msgstr "หนึ่ง"
+
+msgid "Online"
+msgstr "ต่ออยู่"
+
+msgid "Online Accounts"
+msgstr "บัญชีออนไลน์"
+
+msgid "Opacity"
+msgstr "ความทึบ"
+
+msgid "Opaque"
+msgstr "ทึบ"
+
+msgid "Open"
+msgstr "เปิด"
+
+msgid "&Open"
+msgstr "เ&ปิด"
+
+msgid "_Open"
+msgstr "เ_ปิด"
+
+msgid "Open..."
+msgstr "เปิด…"
+
+msgid "&Open..."
+msgstr "เ&ปิด..."
+
+msgid "_Open..."
+msgstr "_เปิด..."
+
+msgid "Open %1"
+msgstr "เปิด %1"
+
+msgid "Open a file"
+msgstr "เปิดแฟ้ม"
+
+msgid "Open a new tab"
+msgstr "เปิดแท็บใหม่"
+
+msgid "Open a new window"
+msgstr "เปิดหน้าต่างใหม่"
+
+msgid "Open an existing document"
+msgstr "เปิดเอกสาร"
+
+msgid "Open Audio"
+msgstr ""
+
+msgid "Open Containing Folder"
+msgstr "เปิดโฟลเดอร์ที่บรรจุ"
+
+msgid "&Open Containing Folder"
+msgstr "&เปิดโฟลเดอร์ที่บรรจุ"
+
+msgid "Open Document"
+msgstr "เปิดเอกสาร"
+
+msgid "Open File"
+msgstr "เปิดไฟล์"
+
+msgid "Open file"
+msgstr "เปิดแฟ้ม"
+
+msgid "Open Folder"
+msgstr "เปิดโฟลเดอร์"
+
+msgid "Open folder"
+msgstr "เปิดโฟลเดอร์"
+
+msgid "Open Image"
+msgstr "เปิดภาพ"
+
+msgid "Open in Browser"
+msgstr ""
+
+msgid "Open in File Manager"
+msgstr "เปิดในตัวจัดการไฟล์"
+
+msgid "Open in New Tab"
+msgstr "เปิดในแท็บใหม่"
+
+msgid "Open in New Window"
+msgstr "เปิดในหน้าต่างใหม่"
+
+msgid "Open Link"
+msgstr "เปิดที่อยู่เชื่อมโยง"
+
+msgid "_Open Link"
+msgstr "_เปิดลิงก์"
+
+msgid "Open Location"
+msgstr "เปิดจากตำแหน่ง"
+
+msgid "Open Menu"
+msgstr "เปิดเมนู"
+
+msgid "Open Project"
+msgstr "เปิดโครงการ"
+
+msgid "Open &Recent"
+msgstr "เปิดที่เ&คยเรียกใช้"
+
+msgid "Open Terminal Here"
+msgstr ""
+
+msgid "Open URL"
+msgstr "เปิดที่อยู่ URL"
+
+msgid "Open Video"
+msgstr "เปิดวิดีโอ"
+
+msgid "Open With"
+msgstr "เปิดใช้ด้วย"
+
+msgid "Open with"
+msgstr ""
+
+msgid "&Open With"
+msgstr "เปิดใช้&ด้วย"
+
+msgid "Open With..."
+msgstr "_เปิด…"
+
+msgid "Open &with %1"
+msgstr "เ&ปิดใช้ด้วย %1"
+
+msgid "OpenGL"
+msgstr ""
+
+msgid "Opening file..."
+msgstr "กำลังเปิดเอกสาร..."
+
+msgid "OpenStreetMap"
+msgstr ""
+
+msgid "Opera"
+msgstr "โอเปรา"
+
+msgid "Operation"
+msgstr "ปฏิบัติการ"
+
+msgid "Operation was cancelled"
+msgstr "ปฏิบัติการถูกยกเลิก"
+
+msgid "Operations"
+msgstr "ปฏิบัติการต่าง ๆ"
+
+msgid "Operator"
+msgstr ""
+
+msgid "Optical Character Recognition"
+msgstr "การเปลี่ยนภาพเป็นอักขระ"
+
+msgid "Optimize"
+msgstr "ปรับ"
+
+msgid "Option"
+msgstr ""
+
+msgid "Optional"
+msgstr "ตัวเลือกเสริม"
+
+msgid "Options"
+msgstr "ตัวเลือก"
+
+msgid "&Options"
+msgstr "ตัวเ&ลือก"
+
+msgid "OR"
+msgstr "หรือ"
+
+msgid "Or"
+msgstr "หรือ"
+
+msgid "or"
+msgstr "หรือ"
+
+msgid "Orange"
+msgstr "ส้ม"
+
+msgid "Order"
+msgstr ""
+
+msgid "Organization"
+msgstr "องค์กร"
+
+msgid "Orientation"
+msgstr "ทิศทางการวาง"
+
+msgid "Origin"
+msgstr ""
+
+msgid "Original"
+msgstr "ต้นฉบับ"
+
+msgid "Original Author"
+msgstr "ผู้เขียนแรกเริ่ม"
+
+msgid "Original author"
+msgstr "ผู้เขียนแรกเริ่ม"
+
+msgid "Original Size"
+msgstr "ขนาดดั้งเดิม"
+
+msgid "Oriya"
+msgstr "ภาษาโอริยา"
+
+msgid "Other"
+msgstr "อื่น ๆ"
+
+msgid "other"
+msgstr "อื่นๆ"
+
+msgid "Other..."
+msgstr "อื่นๆ..."
+
+msgid "Other Application..."
+msgstr "โปรแกรมอื่น..."
+
+msgid "Other Options"
+msgstr "ตัวเลือกอื่น ๆ"
+
+msgid "Others"
+msgstr "อื่น ๆ"
+
+msgid "Out"
+msgstr "ออก"
+
+msgid "Out of memory"
+msgstr "หน่วยความจำหมด"
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Outline"
+msgstr "เค้าโครง"
+
+msgid "Output"
+msgstr "ค่าส่งออก"
+
+msgid "Overlay"
+msgstr "ภาพซ้อนทับ"
+
+msgid "Overview"
+msgstr "เนื้อหาโดยรวม"
+
+msgid "Overwrite"
+msgstr "เขียนทับ"
+
+msgid "Overwrite File?"
+msgstr "เขียนทับแฟ้มหรือไม่ ?"
+
+msgid "Owner"
+msgstr "เจ้าของ"
+
+msgid "Ownership"
+msgstr "ความเป็นเจ้าของ"
+
+msgid "Oxygen"
+msgstr "รูปแบบ Oxygen"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "แพกเกจ"
+
+msgid "Padding"
+msgstr ""
+
+msgid "Page"
+msgstr "หน้า"
+
+msgid "page"
+msgstr "หน้า"
+
+msgid "Page %1"
+msgstr "หน้า %1"
+
+msgid "Page %1 of %2"
+msgstr ""
+
+msgid "Page Break"
+msgstr ""
+
+msgid "Page Count"
+msgstr "จำนวนหน้า"
+
+msgid "Page Number"
+msgstr "จำนวนหน้า"
+
+msgid "Page Setup"
+msgstr "ตั้งค่าหน้ากระดาษ"
+
+msgid "Pager"
+msgstr "เพจเจอร์"
+
+msgid "Pages"
+msgstr "จำนวนหน้า"
+
+msgid "Paint"
+msgstr "ระบายสี"
+
+msgid "Pair"
+msgstr ""
+
+msgid "Pakistan"
+msgstr "ปากีสถาน"
+
+msgid "Palau"
+msgstr "ปาเลา"
+
+msgid "Palette"
+msgstr "จานสี"
+
+msgid "Panama"
+msgstr "ปานามา"
+
+msgid "Panel"
+msgstr "พาเนล"
+
+msgid "Panels"
+msgstr "แถบพาแนล"
+
+msgid "&Panels"
+msgstr "แถบพาแ&นล"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr ""
+
+msgid "Paper Size"
+msgstr "ขนาดกระดาษ"
+
+msgid "Papua New Guinea"
+msgstr "ปาปัวนิวกีนี"
+
+msgid "Paragraph"
+msgstr "ย่อหน้า"
+
+msgid "Paraguay"
+msgstr "ปารากวัย"
+
+msgid "Parallel"
+msgstr ""
+
+msgid "Parameter"
+msgstr ""
+
+msgid "Parameters"
+msgstr "พารามิเตอร์"
+
+msgid "Parent"
+msgstr "ระดับบน"
+
+msgid "Partition"
+msgstr "พาร์ทิชัน"
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+msgid "password"
+msgstr "รหัสผ่าน"
+
+msgid "&Password"
+msgstr "&รหัสผ่าน"
+
+msgid "_Password"
+msgstr "_รหัสผ่าน"
+
+msgid "Password..."
+msgstr "รหัสผ่าน…"
+
+msgid "Passwords"
+msgstr "รหัสผ่าน"
+
+msgid "Paste"
+msgstr "วาง"
+
+msgid "&Paste"
+msgstr "&วาง"
+
+msgid "_Paste"
+msgstr "_วาง"
+
+msgid "Path"
+msgstr "พาธ"
+
+msgid "path"
+msgstr "พาธ"
+
+msgid "Paths"
+msgstr "ตำแหน่ง"
+
+msgid "Pattern"
+msgstr "ลวดลาย"
+
+msgid "Patterns"
+msgstr "ลวดลาย"
+
+msgid "Pause"
+msgstr "พัก"
+
+msgid "&Pause"
+msgstr ""
+
+msgid "Pause playback"
+msgstr "พักการเล่นกลับ"
+
+msgid "PAUSED"
+msgstr "หยุดชั่วคราว"
+
+msgid "Paused"
+msgstr "หยุดชั่วคราว"
+
+msgid "PDF"
+msgstr "เอกสาร PDF"
+
+msgid "Peak"
+msgstr ""
+
+msgid "Peek at Desktop"
+msgstr ""
+
+msgid "Pencil"
+msgstr "ดินสอ"
+
+msgid "Pending"
+msgstr "ถูกพักอยู่"
+
+msgid "Pentagon"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Percent"
+msgstr "ร้อยละ"
+
+msgid "Percentage"
+msgstr "ร้อยละ"
+
+msgid "Perceptual"
+msgstr "เชิงรับรู้"
+
+msgid "Performance"
+msgstr "ประสิทธิภาพ"
+
+msgid "Period"
+msgstr ""
+
+msgid "Permission denied"
+msgstr "ไม่ได้รับอนุญาต"
+
+msgid "Permissions"
+msgstr "สิทธิ์ที่อนุญาต"
+
+msgid "Persian"
+msgstr "เปอร์เซีย"
+
+msgid "Person"
+msgstr ""
+
+msgid "Personal"
+msgstr "ส่วนบุคคล"
+
+msgid "Personal Information"
+msgstr ""
+
+msgid "Peru"
+msgstr "เปรู"
+
+msgid "Phase"
+msgstr "ระยะ"
+
+msgid "Philippines"
+msgstr "ฟิลิปปินส์"
+
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+msgid "Photo"
+msgstr "ภาพถ่าย"
+
+msgid "PHP Documentation"
+msgstr ""
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "เลือกสี"
+
+msgid "Picture"
+msgstr "รูปภาพ"
+
+msgid "Pictures"
+msgstr "รูปภาพ"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr ""
+
+msgid "Pin"
+msgstr ""
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "พิกเซล"
+
+msgid "pixels"
+msgstr "พิกเซล"
+
+msgid "Placement"
+msgstr ""
+
+msgid "Places"
+msgstr "ที่หลัก ๆ"
+
+msgid "Plain"
+msgstr "ตัวเลขเปล่าๆ"
+
+msgid "Plain Text"
+msgstr "ข้อความธรรมดา"
+
+msgid "Plan"
+msgstr ""
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Platform"
+msgstr "แพลทฟอร์ม"
+
+msgid "Play"
+msgstr "เล่น"
+
+msgid "Play Next"
+msgstr ""
+
+msgid "Play Sounds"
+msgstr ""
+
+msgid "Playback"
+msgstr "การเล่น"
+
+msgid "Player"
+msgstr "เครื่องเล่น"
+
+msgid "Player %1"
+msgstr "ผู้เล่น %1"
+
+msgid "Players"
+msgstr ""
+
+msgid "Playground"
+msgstr "พื้นที่ทดสอบ"
+
+msgid "Playing"
+msgstr "กำลังเล่น"
+
+msgid "Playlist"
+msgstr "รายการเล่น"
+
+msgid "Playlists"
+msgstr "รายการการเล่น"
+
+msgid "Play/Pause"
+msgstr "เล่น/พัก"
+
+msgid "Please choose a file"
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Please wait..."
+msgstr "กรุณารอสักครู่…"
+
+msgid "Plot"
+msgstr "ลงจุด"
+
+msgid "Plots"
+msgstr ""
+
+msgid "Plugin"
+msgstr "ปลั๊กอิน"
+
+msgid "Plugins"
+msgstr "ปลั๊กอิน"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr ""
+
+msgid "Pointers"
+msgstr "ตัวชี้"
+
+msgid "Points"
+msgstr ""
+
+msgid "points"
+msgstr ""
+
+msgid "Poland"
+msgstr "โปแลนด์"
+
+msgid "Policy"
+msgstr "ข้อกำหนด"
+
+msgid "Polish"
+msgstr "ภาษาโปแลนด์"
+
+msgid "Polygon"
+msgstr "รูปเหลี่ยม"
+
+msgid "Pop"
+msgstr "ป๊อป"
+
+msgid "Port"
+msgstr "พอร์ต"
+
+msgid "&Port"
+msgstr "&พอร์ต"
+
+msgid "Portrait"
+msgstr "แนวตั้ง"
+
+msgid "Portugal"
+msgstr "โปรตุเกส"
+
+msgid "Portuguese"
+msgstr "ภาษาโปรตุเกส"
+
+msgid "Position"
+msgstr "ตำแหน่ง"
+
+msgid "Posterize"
+msgstr "ลดจำนวนสี"
+
+msgid "PostScript"
+msgstr ""
+
+msgid "Power"
+msgstr "พลังงาน"
+
+msgid "Power Management"
+msgstr "การจัดการพลังงาน"
+
+msgid "Precision"
+msgstr "ความละเอียด"
+
+msgid "Preferences"
+msgstr "ปรับแต่ง"
+
+msgid "_Preferences"
+msgstr "_ปรับแต่ง"
+
+msgid "Prefix"
+msgstr "Prefix"
+
+msgid "Presentation"
+msgstr "การนำเสนอ"
+
+msgid "Preset"
+msgstr "ค่าสำเร็จ"
+
+msgid "Presets"
+msgstr ""
+
+msgid "Pressure"
+msgstr "ความดัน"
+
+msgid "Preview"
+msgstr "แสดงตัวอย่าง"
+
+msgid "&Preview"
+msgstr "แส&ดงตัวอย่าง"
+
+msgid "Previews"
+msgstr "การแสดงตัวอย่าง"
+
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+msgid "&Previous"
+msgstr "&ก่อนหน้า"
+
+msgid "_Previous"
+msgstr "_ก่อนหน้า"
+
+msgid "Previous Image"
+msgstr "ภาพที่แล้ว"
+
+msgid "Previous month"
+msgstr ""
+
+msgid "Previous Page"
+msgstr "หน้าก่อน"
+
+msgid "Previous Tab"
+msgstr "แท็บก่อนหน้า"
+
+msgid "Previous Track"
+msgstr "แทร็กก่อนหน้า"
+
+msgid "Price"
+msgstr "ราคา"
+
+msgid "Primary"
+msgstr "กุญแจหลัก"
+
+msgid "Print"
+msgstr "พิมพ์"
+
+msgid "_Print"
+msgstr "_พิมพ์"
+
+msgid "Print..."
+msgstr "พิมพ์…"
+
+msgid "&Print..."
+msgstr ""
+
+msgid "_Print..."
+msgstr "_พิมพ์..."
+
+msgid "Print Image"
+msgstr "พิมพ์รูปภาพ"
+
+msgid "Print Preview"
+msgstr "แสดงตัวอย่างก่อนพิมพ์"
+
+msgid "Print version"
+msgstr "แสดงรุ่น"
+
+msgid "Print version information and exit"
+msgstr "พิมพ์ข้อมูลรุ่นแล้วจบโปรแกรม"
+
+msgid "Printer"
+msgstr "เครื่องพิมพ์"
+
+msgid "Printers"
+msgstr ""
+
+msgid "Printing"
+msgstr "การพิมพ์"
+
+msgid "Printing..."
+msgstr "กำลังพิมพ์ ..."
+
+msgid "Priority"
+msgstr "ลำดับความสำคัญ"
+
+msgid "Privacy"
+msgstr "ความเป็นส่วนตัว"
+
+msgid "Private"
+msgstr "ส่วนตัว"
+
+msgid "Process"
+msgstr "ขั้นตอน"
+
+msgid "Processor"
+msgstr "ตัวประมวลผล"
+
+msgid "Producer"
+msgstr "ผู้ผลิต"
+
+msgid "Product"
+msgstr "ผลิตภัณฑ์"
+
+msgid "Profession"
+msgstr "อาชีพ"
+
+msgid "Profile"
+msgstr "โพรไฟล์"
+
+msgid "Profile name"
+msgstr "ชื่อโปรไฟล์"
+
+msgid "Profiles"
+msgstr "โปรไฟล์"
+
+msgid "Program"
+msgstr "โปรแกรม"
+
+msgid "Progress"
+msgstr "ความคืบหน้า"
+
+msgid "Project"
+msgstr "โครงการ"
+
+msgid "&Project"
+msgstr "โ&ครงการ"
+
+msgid "Projects"
+msgstr "โปรเจกต์"
+
+msgid "Properties"
+msgstr "คุณสมบัติ"
+
+msgid "&Properties"
+msgstr "คุณ&สมบัติ"
+
+msgid "_Properties"
+msgstr "คุณ_สมบัติ"
+
+msgid "Properties..."
+msgstr "คุณสมบัติ..."
+
+msgid "&Properties..."
+msgstr ""
+
+msgid "Property"
+msgstr "คุณสมบัติ"
+
+msgid "property “%s” invalid or not supported"
+msgstr ""
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr ""
+
+msgid "Proportional"
+msgstr "ตัวความกว้างคงที่"
+
+msgid "Protected"
+msgstr ""
+
+msgid "Protocol"
+msgstr ""
+
+msgid "Provider"
+msgstr "ผู้ให้บริการ"
+
+msgid "Proxy"
+msgstr "พร็อกซี"
+
+msgid "Proxy Settings"
+msgstr ""
+
+msgid "Public"
+msgstr "สาธารณะ"
+
+msgid "Public Key"
+msgstr "คีย์สาธารณะ"
+
+msgid "Publisher"
+msgstr "ผู้จัดพิมพ์"
+
+msgid "Publishing"
+msgstr "งานพิมพ์"
+
+msgid "Puerto Rico"
+msgstr "เปอร์โตริโก"
+
+msgid "Punjabi"
+msgstr "ภาษาปัญจาบี"
+
+msgid "Push"
+msgstr ""
+
+msgid "px"
+msgstr "พิกเซล"
+
+msgid "Python"
+msgstr ""
+
+msgid "Qatar"
+msgstr "กาตาร์"
+
+msgid "QR Code"
+msgstr ""
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+
+msgid "Quality"
+msgstr "คุณภาพ"
+
+msgid "Quebec"
+msgstr "ควิเบก"
+
+msgid "Query"
+msgstr ""
+
+msgid "Question"
+msgstr "คำถาม"
+
+msgid "Queue"
+msgstr "เข้าคิวรอส่ง"
+
+msgid "Queued"
+msgstr "รอคิวอยู่"
+
+msgid "Quit"
+msgstr "ออก"
+
+msgid "&Quit"
+msgstr "&ออก"
+
+msgid "_Quit"
+msgstr "_ออก"
+
+msgid "Quit application"
+msgstr "ออกจากโปรแกรม"
+
+msgid "Quit the application"
+msgstr ""
+
+msgid "Quits the application"
+msgstr "ออกจากโปรแกรม"
+
+msgid "Quote"
+msgstr ""
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr ""
+
+msgid "Radio"
+msgstr "วิทยุ"
+
+msgid "Radius"
+msgstr "รัศมี"
+
+msgid "Raise"
+msgstr "ให้อยู่ด้านบน"
+
+msgid "Random"
+msgstr "สุ่ม"
+
+msgid "Range"
+msgstr "ช่วง"
+
+msgid "Rank"
+msgstr ""
+
+msgid "Rate"
+msgstr "อัตรา"
+
+msgid "Rating"
+msgstr "คะแนน"
+
+msgid "Raw"
+msgstr ""
+
+msgid "Read"
+msgstr "อ่าน"
+
+msgid "Read error"
+msgstr ""
+
+msgid "Read Only"
+msgstr ""
+
+msgid "Read only"
+msgstr ""
+
+msgid "Reading"
+msgstr "การอ่านจดหมาย"
+
+msgid "read-only"
+msgstr "อ่านได้อย่างเดียว"
+
+msgid "Ready"
+msgstr "พร้อม"
+
+msgid "Ready."
+msgstr ""
+
+msgid "Reason"
+msgstr "สาเหตุ"
+
+msgid "Reassign"
+msgstr "กำหนดใหม่"
+
+msgid "Recent"
+msgstr "ล่าสุด"
+
+msgid "Recent Documents"
+msgstr "เอกสารล่าสุด"
+
+msgid "Recent Files"
+msgstr "ไฟล์ที่ใช้ล่าสุด"
+
+msgid "Recent files"
+msgstr "ไฟล์ล่าสุด"
+
+msgid "Record"
+msgstr "บันทึก"
+
+msgid "Recording"
+msgstr ""
+
+msgid "Rectangle"
+msgstr "สี่เหลี่ยม"
+
+msgid "Recursive"
+msgstr "เรียกซ้ำ"
+
+msgid "Red"
+msgstr "แดง"
+
+msgid "red"
+msgstr "แดง"
+
+msgid "Redo"
+msgstr "ทำซ้ำ"
+
+msgid "&Redo"
+msgstr "&ทำซ้ำ"
+
+msgid "_Redo"
+msgstr "_ทำซ้ำ"
+
+msgid "Re&do"
+msgstr "&ทำซ้ำ"
+
+msgid "Redo %1"
+msgstr ""
+
+msgid "Reference"
+msgstr "อ้างอิง"
+
+msgid "References"
+msgstr ""
+
+msgid "Refresh"
+msgstr "ปรับปรุงใหม่"
+
+msgid "_Refresh"
+msgstr "_รีเฟรช"
+
+msgid "Reggae"
+msgstr "แร็กเก้"
+
+msgid "Region"
+msgstr "เขต/อำเภอ"
+
+msgid "Register"
+msgstr ""
+
+msgid "Regular"
+msgstr "ตัวปกติ"
+
+msgid "Regular Expression"
+msgstr "รูปแบบเงื่อนไขการค้นหา"
+
+msgid "Regular expression"
+msgstr "เงื่อนไขการค้นหา"
+
+msgid "Reject"
+msgstr "ปฏิเสธ"
+
+msgid "Relative"
+msgstr ""
+
+msgid "Reload"
+msgstr "โหลดใหม่"
+
+msgid "&Reload"
+msgstr "เ&รียกใหม่"
+
+msgid "_Reload"
+msgstr "_อ่านใหม่"
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Remote"
+msgstr "ระยะไกล"
+
+msgid "Removable"
+msgstr "ถอดเสียบได้"
+
+msgid "Remove"
+msgstr "เอาออก"
+
+msgid "&Remove"
+msgstr "เ&อาออก"
+
+msgid "_Remove"
+msgstr "_ลบ"
+
+msgid "R&emove"
+msgstr ""
+
+msgid "Re&move"
+msgstr "ลบออ&ก"
+
+msgid "Remove..."
+msgstr ""
+
+msgid "Remove %1"
+msgstr ""
+
+msgid "Remove Account"
+msgstr ""
+
+msgid "Remove All"
+msgstr "เอาออกทั้งหมด"
+
+msgid "Remove Bookmark"
+msgstr "ลบที่คั่นหน้า"
+
+msgid "Remove Folder"
+msgstr "ลบโฟลเดอร์"
+
+msgid "Remove from Favorites"
+msgstr ""
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "ลบกลุ่ม"
+
+msgid "Remove Rule"
+msgstr ""
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "เปลี่ยนชื่อ"
+
+msgid "&Rename"
+msgstr "เ&ปลี่ยนชื่อ"
+
+msgid "_Rename"
+msgstr "เ_ปลี่ยนชื่อ"
+
+msgid "Rename..."
+msgstr "เปลี่ยนชื่อ..."
+
+msgid "&Rename..."
+msgstr "เ&ปลี่ยนชื่อ"
+
+msgid "Rename Bookmark"
+msgstr "เปลี่ยนชื่อคั่นหน้า"
+
+msgid "Rename File"
+msgstr "เปลี่ยนชื่อแฟ้ม"
+
+msgid "Repeat"
+msgstr "ซ้ำ"
+
+msgid "Replace"
+msgstr "แทนที่"
+
+msgid "&Replace"
+msgstr "แ&ทนที่"
+
+msgid "_Replace"
+msgstr "แ_ทนที่"
+
+msgid "Replace All"
+msgstr "แทนที่ทั้งหมด"
+
+msgid "Replace _All"
+msgstr "แทนที่ทั้ง_หมด"
+
+msgid "Replace an existing instance"
+msgstr "แทนที่กรณีที่มีอยู่"
+
+msgid "Replacement"
+msgstr "การแทนที่"
+
+msgid "Reply"
+msgstr "การตอบกลับ"
+
+msgid "Report"
+msgstr "รายงาน"
+
+msgid "Report a bug"
+msgstr ""
+
+msgid "Report Bug"
+msgstr ""
+
+msgid "Report Bug..."
+msgstr ""
+
+msgid "&Report Bug..."
+msgstr "&รายงานข้อผิดพลาด..."
+
+msgid "Reports"
+msgstr ""
+
+msgid "Required"
+msgstr "จำเป็น"
+
+msgid "Rescan"
+msgstr ""
+
+msgid "Resend"
+msgstr "ส่งอีกครั้ง"
+
+msgid "Reset"
+msgstr "ตั้งค่าใหม่"
+
+msgid "&Reset"
+msgstr "ตั้&งค่าใหม่"
+
+msgid "_Reset"
+msgstr "_ตั้งค่าใหม่"
+
+msgid "Reset to Default"
+msgstr "ปรับกลับไปใช้ค่าปริยาย"
+
+msgid "Reset to default"
+msgstr "ล้างค่าเป็นค่าเริ่มต้น"
+
+msgid "Reset Zoom"
+msgstr "ล้างค่าการซูม"
+
+msgid "Resize"
+msgstr "ปรับขนาด"
+
+msgid "_Resize"
+msgstr "_ปรับขนาด"
+
+msgid "Resize Image"
+msgstr "ปรับขนาดภาพ"
+
+msgid "Resolution"
+msgstr "ความละเอียด"
+
+msgid "Resource"
+msgstr ""
+
+msgid "Resources"
+msgstr "ทรัพยากร"
+
+msgid "Restart"
+msgstr "เริ่มเปิดเครื่องใหม่"
+
+msgid "Restore"
+msgstr "เรียกคืน"
+
+msgid "Restore Session"
+msgstr ""
+
+msgid "Result"
+msgstr "ผลลัพธ์"
+
+msgid "Results"
+msgstr "ผลลัพธ์"
+
+msgid "Resume"
+msgstr "เล่นต่อ"
+
+msgid "&Resume"
+msgstr "ทำงานที่ค้&างไว้"
+
+msgid "Retry"
+msgstr "ลองอีกครั้ง"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Reverse"
+msgstr "กลับทิศทาง"
+
+msgid "Revert"
+msgstr "กลับคืน"
+
+msgid "_Revert"
+msgstr "_ย้อนกลับ"
+
+msgid "Review"
+msgstr ""
+
+msgid "Revision"
+msgstr "ปรับปรุงใหม่"
+
+msgid "Revoked"
+msgstr "เพิกถอน"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "ขวา"
+
+msgid "right"
+msgstr "ขวา"
+
+msgid "&Right"
+msgstr ""
+
+msgid "_Right"
+msgstr "_ขวา"
+
+msgid "Right to Left"
+msgstr "จากขวาไปซ้าย"
+
+msgid "Right-click"
+msgstr ""
+
+msgid "River"
+msgstr ""
+
+msgid "RKWard Team"
+msgstr ""
+
+msgid "Rock"
+msgstr "ร็อก"
+
+msgid "Role"
+msgstr "บทบาท"
+
+msgid "Roman"
+msgstr "ตัวโรมัน"
+
+msgid "Romania"
+msgstr "โรมาเนีย"
+
+msgid "Romanian"
+msgstr "โรมาเนีย"
+
+msgid "Room"
+msgstr ""
+
+msgid "Root"
+msgstr "รูท"
+
+msgid "Rotate"
+msgstr "หมุน"
+
+msgid "Rotate Left"
+msgstr "หมุนไปทางซ้าย"
+
+msgid "Rotate Right"
+msgstr "หมุนไปทางขวา"
+
+msgid "Rotation"
+msgstr "การหมุน"
+
+msgid "Round"
+msgstr "โค้ง"
+
+msgid "Row"
+msgstr "แถว"
+
+msgid "Rows"
+msgstr "จำนวนแถว"
+
+msgid "rows"
+msgstr "บรรทัด"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr ""
+
+msgid "Run"
+msgstr "ทำงาน"
+
+msgid "&Run"
+msgstr "ดำเนิน&งาน"
+
+msgid "Run in terminal"
+msgstr "เปิดในเทอร์มินัล"
+
+msgid "Running"
+msgstr "ทำงานอยู่"
+
+msgid "Russia"
+msgstr "รัสเซีย"
+
+msgid "Russian"
+msgstr "ภาษารัสเซีย"
+
+msgid "Rwanda"
+msgstr "รวันดา"
+
+msgid "S"
+msgstr "S"
+
+msgid "s"
+msgstr "s"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "คุณสมบัติของ %s"
+
+msgid "%s, %s"
+msgstr "%s %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "ปูมของ Samba"
+
+msgid "Samoa"
+msgstr "ซามัว"
+
+msgid "Sample"
+msgstr "ตัวอย่าง"
+
+msgid "Sample Rate"
+msgstr "อัตราสุ่มตัวอย่าง (Hz)"
+
+msgid "Sample rate"
+msgstr "อัตราการสุ่มตัวอย่าง"
+
+msgid "Samples"
+msgstr ""
+
+msgid "San Marino"
+msgstr "ซานมารีโน"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Satellite"
+msgstr "ดาวเทียม"
+
+msgid "Saturation"
+msgstr "ความอิ่มสี"
+
+msgid "Saturday"
+msgstr "เสาร์"
+
+msgid "Saudi Arabia"
+msgstr "ซาอุดีอาระเบีย"
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "&Save"
+msgstr "&บันทึก"
+
+msgid "_Save"
+msgstr "_บันทึก"
+
+msgid "Save..."
+msgstr "บันทึก..."
+
+msgid "Save All"
+msgstr "จัดเก็บทั้งหมด"
+
+msgid "Save As"
+msgstr "บันทึกเป็น"
+
+msgid "Save as"
+msgstr "บันทึกเป็น"
+
+msgid "Save _As"
+msgstr "บันทึกเป็_น"
+
+msgid "Save As..."
+msgstr "บันทึกเป็น..."
+
+msgid "Save as..."
+msgstr "บันทึกเป็น..."
+
+msgid "_Save As..."
+msgstr "_บันทึกเป็น…"
+
+msgid "Save &As..."
+msgstr "บัน&ทึกเป็น..."
+
+msgid "Save _As..."
+msgstr "บันทึกเป็_น..."
+
+msgid "Save Attachment"
+msgstr "บันทึกแฟ้มแนบ"
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Save Changes?"
+msgstr "บันทึกการเปลี่ยนแปลง?"
+
+msgid "Save File"
+msgstr "บันทึกแฟ้ม"
+
+msgid "Save file"
+msgstr "บันทึกแฟ้ม"
+
+msgid "Save Game"
+msgstr ""
+
+msgid "Save Image"
+msgstr "บันทึกภาพ"
+
+msgid "_Save Image As..."
+msgstr "_บันทึกภาพเป็น…"
+
+msgid "Save Project"
+msgstr ""
+
+msgid "Save Session"
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving"
+msgstr "การบันทึก"
+
+msgid "Saving..."
+msgstr "กำลังจัดเก็บ..."
+
+msgid "Saving file..."
+msgstr "กำลังบันทึกแฟ้ม..."
+
+msgid "Scale"
+msgstr "ปรับสัดส่วน"
+
+msgid "_Scale"
+msgstr "ปรั_บสัดส่วน"
+
+msgid "Scaled"
+msgstr "ขยายให้พอดี"
+
+msgid "Scaling"
+msgstr "การปรับขนาด"
+
+msgid "Scan"
+msgstr "ตรวจค้นหา"
+
+msgid "Scanner"
+msgstr "สแกนเนอร์"
+
+msgid "Scanning..."
+msgstr ""
+
+msgid "Schedule"
+msgstr "ตารางเวลา"
+
+msgid "Scheduling"
+msgstr ""
+
+msgid "Scheme"
+msgstr ""
+
+msgid "School"
+msgstr "โรงเรียน"
+
+msgid "Scientific"
+msgstr "วิทยาศาสตร์"
+
+msgid "Scope"
+msgstr "ขอบเขต"
+
+msgid "Score"
+msgstr "คะแนน"
+
+msgid "Score: %1"
+msgstr "คะแนน: %1"
+
+msgid "Screen"
+msgstr "หน้าจอ"
+
+msgid "Screenshot"
+msgstr "ภาพหน้าจอ"
+
+msgid "Screenshots"
+msgstr "Screenshots"
+
+msgid "Script"
+msgstr "สคริปต์"
+
+msgid "Scripting"
+msgstr ""
+
+msgid "Scripts"
+msgstr "สคริปต์"
+
+msgid "Scroll"
+msgstr "เลื่อน"
+
+msgid "Scroll Down"
+msgstr "เลื่อนลง"
+
+msgid "Scroll Left"
+msgstr "เลื่อนซ้าย"
+
+msgid "Scroll Right"
+msgstr "เลือนขวา"
+
+msgid "Scroll Up"
+msgstr "เลื่อนขึ้น"
+
+msgid "Scrolling"
+msgstr "การเลื่อน"
+
+msgid "Search"
+msgstr "ค้นหา"
+
+msgid "&Search"
+msgstr "&ค้นหา"
+
+msgid "_Search"
+msgstr "_ค้นหา"
+
+msgid "S&earch"
+msgstr "ค้&นหา"
+
+msgid "Search..."
+msgstr "ค้นหา..."
+
+msgid "Search Bar"
+msgstr "แถบค้นข้อมูล"
+
+msgid "_Search for"
+msgstr "_ค้นหา"
+
+msgid "Search for '%1' with"
+msgstr "ค้นหา '%1' ด้วย"
+
+msgid "Search Options"
+msgstr "ตัวเลือกการค้นหา"
+
+msgid "Search Results"
+msgstr "ผลการค้นหา"
+
+msgid "Search results"
+msgstr ""
+
+msgid "Searching..."
+msgstr "กำลังค้นหา..."
+
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+msgid "Second"
+msgstr "วินาที"
+
+msgid "Seconds"
+msgstr "วินาที"
+
+msgid "seconds"
+msgstr "วินาที"
+
+msgid "Section"
+msgstr "หัวข้อ"
+
+msgid "Security"
+msgstr "ความปลอดภัย"
+
+msgid "Seek"
+msgstr "เลื่อนไป"
+
+msgid "Select"
+msgstr "เลือก"
+
+msgid "_Select"
+msgstr "เ_ลือก"
+
+msgid "Select..."
+msgstr "เลือก..."
+
+msgid "Select All"
+msgstr "เลือกทั้งหมด"
+
+msgid "Select all"
+msgstr "เลือกทั้งหมด"
+
+msgid "&Select All"
+msgstr "เลือก&ทั้งหมด"
+
+msgid "_Select All"
+msgstr "เ_ลือกทั้งหมด"
+
+msgid "Select &All"
+msgstr "เลือกทั้ง&หมด"
+
+msgid "Select _All"
+msgstr "เลือก_ทั้งหมด"
+
+msgid "Select an authentication mode."
+msgstr ""
+
+msgid "Select an image"
+msgstr ""
+
+msgid "Select Color"
+msgstr "เลือกสี"
+
+msgid "Select Directory"
+msgstr ""
+
+msgid "Select File"
+msgstr "เลือกแฟ้ม"
+
+msgid "Select file"
+msgstr ""
+
+msgid "Select Folder"
+msgstr "เลือกโฟลเดอร์"
+
+msgid "Select folder"
+msgstr ""
+
+msgid "Select Font"
+msgstr "เลือกแบบอักษร"
+
+msgid "Select None"
+msgstr "ไม่เลือกเลย"
+
+msgid "Select Source"
+msgstr "เลือกแหล่ง"
+
+msgid "Selected"
+msgstr "ที่เลือกไว้"
+
+msgid "Selection"
+msgstr "การเลือก"
+
+msgid "Selections"
+msgstr "การเลือก"
+
+msgid "Semicolon"
+msgstr "อัฒภาค"
+
+msgid "Send"
+msgstr "ส่ง"
+
+msgid "Send an email to %1"
+msgstr ""
+
+msgid "Send File"
+msgstr ""
+
+msgid "Send to %1"
+msgstr "ส่งไปยัง %1"
+
+msgid "Sender"
+msgstr "ผู้ส่ง"
+
+msgid "Senegal"
+msgstr "เซเนกัล"
+
+msgid "Sensitivity"
+msgstr "ความไว"
+
+msgid "Sent"
+msgstr "ส่งแล้ว"
+
+msgid "Separator"
+msgstr "เส้นแบ่ง"
+
+msgid "September"
+msgstr "กันยายน"
+
+msgid "Serbia"
+msgstr "ซานมารีโน"
+
+msgid "Serbian"
+msgstr "ภาษาเซอร์เบีย"
+
+msgid "Serial Number"
+msgstr "หมายเลขลำดับ"
+
+msgid "Serial number"
+msgstr "หมายเลขลำดับ"
+
+msgid "Series"
+msgstr "ลำดับ"
+
+msgid "Serif"
+msgstr "มีเชิง"
+
+msgid "Server"
+msgstr "เซิร์ฟเวอร์"
+
+msgid "Server URL"
+msgstr "ที่อยู่ URL ของเซิร์ฟเวอร์"
+
+msgid "Service"
+msgstr ""
+
+msgid "Services"
+msgstr "บริการ"
+
+msgid "Session"
+msgstr "เซสชัน"
+
+msgid "Session management options"
+msgstr "ตัวเลือกเกี่ยวกับการจัดการวาระ"
+
+msgid "Sessions"
+msgstr "วาระการเชื่อมต่อต่าง ๆ"
+
+msgid "Set"
+msgstr "ตั้งค่า"
+
+msgid "Set as Default"
+msgstr ""
+
+msgid "Set as default"
+msgstr "กำหนดเป็นค่าปริยาย"
+
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+msgid "&Settings"
+msgstr "&ตั้งค่า"
+
+msgid "_Settings"
+msgstr "_ตั้งค่า"
+
+msgid "Settings..."
+msgstr "ตั้งค่าต่าง ๆ ..."
+
+msgid "Severity"
+msgstr "ระดับความรุนแรง"
+
+msgid "Seychelles"
+msgstr "เซเชลส์"
+
+msgid "SHA-256"
+msgstr ""
+
+msgid "Shading"
+msgstr "การไล่สี"
+
+msgid "Shadow"
+msgstr ""
+
+msgid "Shadows"
+msgstr "เงา"
+
+msgid "Shape"
+msgstr "รูปทรง"
+
+msgid "Share"
+msgstr "แชร์"
+
+msgid "Share..."
+msgstr ""
+
+msgid "Shared"
+msgstr "รายการใช้ร่วม"
+
+msgid "Sharing"
+msgstr "การให้ใช้ร่วม"
+
+msgid "Sharing failed"
+msgstr ""
+
+msgid "Sharpen"
+msgstr "ปรับความคม"
+
+msgid "Sharpness"
+msgstr ""
+
+msgid "Shear"
+msgstr "เฉือน"
+
+msgid "Shell"
+msgstr "เชลล์"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr ""
+
+msgid "Shortcut"
+msgstr "ปุ่มพิมพ์ลัด"
+
+msgid "Shortcuts"
+msgstr "ปุ่มพิมพ์ลัด"
+
+msgid "Show"
+msgstr "แสดง"
+
+msgid "Show All"
+msgstr ""
+
+msgid "Show Details"
+msgstr "แสดงรายละเอียด"
+
+msgid "Show details"
+msgstr "แสดงรายละเอียด"
+
+msgid "Show Grid"
+msgstr ""
+
+msgid "Show grid"
+msgstr "แสดงเส้นตารางกริด"
+
+msgid "Show Help"
+msgstr "แสดงวิธีใช้"
+
+msgid "Show help"
+msgstr "แสดงวิธีใช้"
+
+msgid "Show Hidden Files"
+msgstr "แสดงแฟ้มที่ซ่อน"
+
+msgid "Show in folder"
+msgstr "แสดงในโฟลเดอร์"
+
+msgid "Show legend"
+msgstr ""
+
+msgid "Show Password"
+msgstr "แสดงรหัสผ่าน"
+
+msgid "Show Preview"
+msgstr "แสดงตัวอย่าง"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr "แสดงตัวเลือกเกี่ยวกับการจัดการวาระ"
+
+msgid "Show Shortcuts"
+msgstr "แสดงปุ่มลัด"
+
+msgid "Show Status Bar"
+msgstr ""
+
+msgid "Show St&atusbar"
+msgstr "แสดงแถบ&สถานะ"
+
+msgid "Show the application's version"
+msgstr "แสดงรุ่นของแอปพลิเคชัน"
+
+msgid "Show Toolbar"
+msgstr "แสดงแถบเครื่องมือ"
+
+msgid "Show toolbar"
+msgstr "แสดงแถบเครื่องมือ"
+
+msgid "Show &Toolbar"
+msgstr "แสดงแถบเ&ครื่องมือ"
+
+msgid "Shuffle"
+msgstr "สับเปลี่ยน"
+
+msgid "Shut Down"
+msgstr "ปิดเครื่อง"
+
+msgid "Shutdown"
+msgstr "ปิดเครื่อง"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "แถบด้านข้าง"
+
+msgid "Sierra Leone"
+msgstr "เซียรราลีโอน"
+
+msgid "Sign"
+msgstr "เซ็น"
+
+msgid "Signal"
+msgstr "สัญญาณ"
+
+msgid "Signature"
+msgstr "ลายเซ็น"
+
+msgid "Simple"
+msgstr "พื้นฐาน"
+
+msgid "Singapore"
+msgstr "สิงคโปร์"
+
+msgid "Single"
+msgstr "เส้นเดี่ยว"
+
+msgid "Sinhala"
+msgstr "ภาษาสิงหล"
+
+msgid "Size"
+msgstr "ขนาด"
+
+msgid "size"
+msgstr "ขนาด"
+
+msgid "&Size"
+msgstr ""
+
+msgid "Size: %1"
+msgstr "ขนาด: %1"
+
+msgid "Skip"
+msgstr "ข้าม"
+
+msgid "&Skip"
+msgstr "&ข้าม"
+
+msgid "_Skip"
+msgstr "_ข้าม"
+
+msgid "Skip forward"
+msgstr "ข้ามไปข้างหน้า"
+
+msgid "Sleep"
+msgstr ""
+
+msgid "Slide"
+msgstr "ภาพนิ่ง"
+
+msgid "Slider"
+msgstr "ตัวเลื่อน"
+
+msgid "Slideshow"
+msgstr "นำเสนอภาพนิ่ง"
+
+msgid "Slovak"
+msgstr "ภาษาสโลวัก"
+
+msgid "Slovenia"
+msgstr "สโลวีเนีย"
+
+msgid "Slovenian"
+msgstr "ภาษาสโลวีเนีย"
+
+msgid "Slow"
+msgstr "ช้า"
+
+msgid "Slower"
+msgstr ""
+
+msgid "Small"
+msgstr "เล็ก"
+
+msgid "Smooth"
+msgstr "เรียบ"
+
+msgid "Smoothing"
+msgstr ""
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr ""
+
+msgid "Snap to Grid"
+msgstr ""
+
+msgid "Snow"
+msgstr ""
+
+msgid "SOCKS"
+msgstr ""
+
+msgid "Socks5"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Solid"
+msgstr "ทึบ"
+
+msgid "Solid color"
+msgstr "สีทึบ"
+
+msgid "Solomon Islands"
+msgstr "หมู่เกาะโซโลมอน"
+
+msgid "Somalia"
+msgstr "โซมาเลีย"
+
+msgid "Sort"
+msgstr "เรียงลำดับ"
+
+msgid "Sort By"
+msgstr "เรียงตาม"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Sorting"
+msgstr "การเรียงลำดับ"
+
+msgid "Sound"
+msgstr "เสียง"
+
+msgid "Soundtrack"
+msgstr "เพลงประกอบ"
+
+msgid "Source"
+msgstr "ต้นทาง"
+
+msgid "Sources"
+msgstr ""
+
+msgid "South"
+msgstr "ใต้"
+
+msgid "South Africa"
+msgstr "แอฟริกาใต้"
+
+msgid "South European"
+msgstr "ยุโรปตอนใต้"
+
+msgid "Space"
+msgstr "ช่องว่าง"
+
+msgid "Spacing"
+msgstr "ระยะห่าง"
+
+msgid "Spain"
+msgstr "สเปน"
+
+msgid "Spam"
+msgstr "สแปม"
+
+msgid "Spanish"
+msgstr "ภาษาสเปน"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "พูด"
+
+msgid "Speak Text"
+msgstr "พูดออกเสียงข้อความ"
+
+msgid "Speaker"
+msgstr "ลำโพง"
+
+msgid "Special"
+msgstr "พิเศษ"
+
+msgid "Special Characters"
+msgstr ""
+
+msgid "Specials"
+msgstr "พิเศษ"
+
+msgid "Specify file containing saved configuration"
+msgstr "ระบุแฟ้มที่บันทึกค่าตั้งไว้"
+
+msgid "Specify session management ID"
+msgstr "ระบุ ID ของการจัดการวาระ"
+
+msgid "Speed"
+msgstr "ความเร็ว"
+
+msgid "Spell Check"
+msgstr "สะกดคำ"
+
+msgid "Spell Checking"
+msgstr "ตรวจคำสะกด"
+
+msgid "Spelling"
+msgstr "การสะกดคำ"
+
+msgid "Spiral"
+msgstr ""
+
+msgid "Split"
+msgstr "แบ่ง"
+
+msgid "Split View"
+msgstr "แยกมุมมอง"
+
+msgid "Sports"
+msgstr ""
+
+msgid "Spreadsheet"
+msgstr ""
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "สี่เหลี่ยมจตุรัส"
+
+msgid "Sri Lanka"
+msgstr "ศรีลังกา"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+
+msgid "SSL/TLS"
+msgstr ""
+
+msgid "Stack"
+msgstr ""
+
+msgid "Stacked"
+msgstr "เรียงบนล่างชิดกัน"
+
+msgid "Standard"
+msgstr "มาตรฐาน"
+
+msgid "Standard deviation"
+msgstr "ส่วนเบี่ยงเบนมาตรฐาน"
+
+msgid "Star"
+msgstr ""
+
+msgid "Start"
+msgstr "เริ่ม"
+
+msgid "&Start"
+msgstr "เ&ริ่ม"
+
+msgid "Start a new game"
+msgstr "เปิดเกมใหม่"
+
+msgid "Start Date"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+msgid "Start Presentation"
+msgstr "เริ่มการนำเสนอ"
+
+msgid "Start Time"
+msgstr ""
+
+msgid "Started"
+msgstr ""
+
+msgid "Starting"
+msgstr "กำลังเริ่ม"
+
+msgid "Starting..."
+msgstr "กำลังเริ่ม…"
+
+msgid "Starting %s"
+msgstr "กำลังเริ่ม %s"
+
+msgid "starts with"
+msgstr "ขึ้นต้นด้วย"
+
+msgid "Startup"
+msgstr "เริ่มการทำงาน"
+
+msgid "Stash"
+msgstr ""
+
+msgid "State"
+msgstr "สถานะ"
+
+msgid "States"
+msgstr "รัฐ"
+
+msgid "Statistics"
+msgstr "สถิติ"
+
+msgid "Status"
+msgstr "สถานะ"
+
+msgid "Status: %1"
+msgstr "สถานะ: %1"
+
+msgid "Statusbar"
+msgstr ""
+
+msgid "_Statusbar"
+msgstr "แถบ_สถานะ"
+
+msgid "Step"
+msgstr "Step"
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr ""
+
+msgid "Stereo"
+msgstr "สเตริโอ"
+
+msgid "Stop"
+msgstr "หยุด"
+
+msgid "&Stop"
+msgstr "&หยุด"
+
+msgid "_Stop"
+msgstr "_หยุด"
+
+msgid "S&top"
+msgstr "หยุด"
+
+msgid "Stop Recording"
+msgstr "หยุดบันทึก"
+
+msgid "Stopped"
+msgstr "หยุดแล้ว"
+
+msgid "Storage"
+msgstr "ที่เก็บข้อมูล"
+
+msgid "Store"
+msgstr "เก็บค่า"
+
+msgid "Stream"
+msgstr "สายข้อมูล"
+
+msgid "Street"
+msgstr "ถนน"
+
+msgid "Strength"
+msgstr "ความเข้ม"
+
+msgid "Stretch"
+msgstr ""
+
+msgid "Strike Out"
+msgstr "เส้นพาดกลาง"
+
+msgid "Strikethrough"
+msgstr "ขีดทับ"
+
+msgid "String"
+msgstr "ข้อความ"
+
+msgid "string"
+msgstr "สตริง"
+
+msgid "Strings"
+msgstr ""
+
+msgid "Stroke"
+msgstr "เส้น"
+
+msgid "Strong"
+msgstr "เก่ง"
+
+msgid "Structure"
+msgstr "โครงสร้าง"
+
+msgid "Style"
+msgstr "สไตล์"
+
+msgid "Subject"
+msgstr "เรื่อง"
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subscribe"
+msgstr "บอกรับ"
+
+msgid "Subscript"
+msgstr "ตัวห้อย"
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "บทบรรยาย"
+
+msgid "Subtitles"
+msgstr "บทบรรยาย"
+
+msgid "Subtract"
+msgstr "ลบ"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "สำเร็จ"
+
+msgid "Sudan"
+msgstr "ซูดาน"
+
+msgid "Suffix"
+msgstr ""
+
+msgid "Sum"
+msgstr "ผลรวม"
+
+msgid "Summary"
+msgstr "สรุป"
+
+msgid "Sun"
+msgstr "อา."
+
+msgid "Sundanese"
+msgstr "ซุนดา"
+
+msgid "Sunday"
+msgstr "อาทิตย์"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "ตัวยก"
+
+msgid "Support"
+msgstr "สนับสนุน"
+
+msgid "Suriname"
+msgstr "ซูรินาเม"
+
+msgid "Surname"
+msgstr "นามสกุล"
+
+msgid "Suspend"
+msgstr "พักเครื่อง"
+
+msgid "Suspended"
+msgstr ""
+
+msgid "SVG"
+msgstr ""
+
+msgid "Swap"
+msgstr "สลับ"
+
+msgid "Sweden"
+msgstr "สวีเดน"
+
+msgid "Swedish"
+msgstr "ภาษาสวีเดน"
+
+msgid "Switch"
+msgstr "สลับ"
+
+msgid "Switches"
+msgstr "สวิตช์"
+
+msgid "Switzerland"
+msgstr "สวิตเซอรแลนด์"
+
+msgid "Symbol"
+msgstr "รหัสหลักทรัพย์"
+
+msgid "Symbols"
+msgstr "สัญลักษณ์"
+
+msgid "Sync"
+msgstr "Sync"
+
+msgid "Synchronization"
+msgstr ""
+
+msgid "Synchronize"
+msgstr "ปรับเทียบข้อมูล"
+
+msgid "Syriac"
+msgstr "ซีริแอก"
+
+msgid "System"
+msgstr "ระบบ"
+
+msgid "System Default"
+msgstr "ค่าเริ่มต้นของระบบ"
+
+msgid "System Settings"
+msgstr "ตั้งค่าระบบ"
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "แท็บ"
+
+msgid "Table"
+msgstr ""
+
+msgid "Table of Contents"
+msgstr ""
+
+msgid "Tablet"
+msgstr "แท็บเล็ต"
+
+msgid "Tabs"
+msgstr "แท็บ"
+
+msgid "Tag"
+msgstr "ป้ายกำกับ"
+
+msgid "Tagalog"
+msgstr "ตากาล็อก"
+
+msgid "Tagged"
+msgstr "ติดป้ายอยู่"
+
+msgid "Tags"
+msgstr "ป้ายกำกับ"
+
+msgid "Taiwan"
+msgstr "ไต้หวัน"
+
+msgid "Tajikistan"
+msgstr "ทาจิกิสถาน"
+
+msgid "Take Screenshot"
+msgstr "เก็บภาพหน้าจอ"
+
+msgid "Tamil"
+msgstr "ทมิฬ"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "แทนซาเนีย"
+
+msgid "Target"
+msgstr "คำแปล"
+
+msgid "Task"
+msgstr "งาน"
+
+msgid "Tasks"
+msgstr "ภารกิจ"
+
+msgid "Tatar"
+msgstr ""
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr "ทีม"
+
+msgid "Technology"
+msgstr "เทคโนโลยี"
+
+msgid "Telephone"
+msgstr "โทรศัพท์"
+
+msgid "Telugu"
+msgstr "ภาษาเทลูกู"
+
+msgid "Temperature"
+msgstr "อุณหภูมิ"
+
+msgid "Template"
+msgstr "แม่แบบ"
+
+msgid "Templates"
+msgstr "แม่แบบ"
+
+msgid "Tentative"
+msgstr ""
+
+msgid "Terminal"
+msgstr "เทอร์มินัล"
+
+msgid "Terminal Emulator"
+msgstr "เครื่องมือจำลองเทอร์มินัล"
+
+msgid "Test"
+msgstr "ทดสอบ"
+
+msgid "Testing"
+msgstr ""
+
+msgid "Text"
+msgstr "ข้อความ"
+
+msgid "text"
+msgstr "ข้อความ"
+
+msgid "_Text"
+msgstr "_ข้อความ"
+
+msgid "Text Color"
+msgstr "สีข้อความ"
+
+msgid "Text color"
+msgstr "สีข้อความ"
+
+msgid "Text Editor"
+msgstr "เครื่องมือแก้ไขข้อความ"
+
+msgid "Text File"
+msgstr "แฟ้มข้อความ"
+
+msgid "Text Files"
+msgstr "ไฟล์ข้อความ"
+
+msgid "Text Only"
+msgstr "ข้อความเท่านั้น"
+
+msgid "Text only"
+msgstr "ข้อความเท่านั้น"
+
+msgid "Text to search for"
+msgstr "ข้อความที่จะค้นหา"
+
+msgid "Text Tool"
+msgstr "เครื่องมือข้อความ"
+
+msgid "TextLabel"
+msgstr ""
+
+msgid "Thai"
+msgstr "ไทย"
+
+msgid "Thailand"
+msgstr "ไทย"
+
+msgid "The file %1 does not exist."
+msgstr "ยังไม่มีแฟ้ม %1"
+
+msgid "The GNOME Project"
+msgstr "โครงการ GNOME"
+
+msgid "The graphical theme to be used."
+msgstr "ธีมกราฟิกที่จะใช้"
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+msgid "The NetworkManager Developers"
+msgstr "ผู้พัฒนา NetworkManager"
+
+msgid "Theme"
+msgstr "ชุดตกแต่ง"
+
+msgid "Themes"
+msgstr "ชุดตกแต่ง"
+
+msgid "There was a problem sharing the document: %1"
+msgstr ""
+
+msgid "Thin"
+msgstr "ตัวบาง"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "ขีดเริ่ม"
+
+msgid "Thumbnail"
+msgstr "ภาพตัวอย่าง"
+
+msgid "Thumbnails"
+msgstr "ภาพย่อ"
+
+msgid "Thursday"
+msgstr "พฤหัสบดี"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "ทิเบต"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "ปูเรียง"
+
+msgid "Tiled"
+msgstr "เรียงต่อกัน"
+
+msgid "Tilt"
+msgstr "เอียง"
+
+msgid "Time"
+msgstr "เวลา"
+
+msgid "time"
+msgstr "เวลา"
+
+msgid "Time: %1"
+msgstr "เวลา: %1"
+
+msgid "Time and Date"
+msgstr "เวลาและวันที่"
+
+msgid "Time Zone"
+msgstr "เขตเวลา"
+
+msgid "Timeline"
+msgstr "เส้นเวลา"
+
+msgid "Timeout"
+msgstr ""
+
+msgid "Timer"
+msgstr "ตัวจับเวลา"
+
+msgid "Timestamp"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "Tiny"
+msgstr "จิ๋ว"
+
+msgid "Title"
+msgstr "ชื่อ"
+
+msgid "title"
+msgstr "ชื่อ"
+
+msgid "&Title"
+msgstr "&ชื่อ"
+
+msgid "_Title"
+msgstr "_ชื่อ"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "ถึง"
+
+msgid "to"
+msgstr ""
+
+msgid "Tobias Fella"
+msgstr ""
+
+msgid "Today"
+msgstr "วันนี้"
+
+msgid "today"
+msgstr "วันนี้"
+
+msgid "TODO"
+msgstr ""
+
+msgid "Todo"
+msgstr ""
+
+msgid "Toggle Fullscreen"
+msgstr "สลับแบบเต็มหน้าจอ"
+
+msgid "Toggle Sidebar"
+msgstr "เปิด/ปิดแถบข้าง"
+
+msgid "Toggle sidebar"
+msgstr "แสดง-ซ่อนแถบด้านข้าง"
+
+msgid "Togo"
+msgstr "โตโก"
+
+msgid "Token"
+msgstr ""
+
+msgid "Tolerance"
+msgstr ""
+
+msgid "Tomorrow"
+msgstr "พรุ่งนี้"
+
+msgid "Tonga"
+msgstr "ตองกา"
+
+msgid "Tool"
+msgstr "เครื่องมือ"
+
+msgid "Tool Options"
+msgstr "ตัวเลือกเครื่องมือ"
+
+msgid "_Toolbar"
+msgstr "แถบเ_ครื่องมือ"
+
+msgid "T_oolbar"
+msgstr ""
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "กล่องเครื่องมือ"
+
+msgid "Tools"
+msgstr "เครื่องมือ"
+
+msgid "&Tools"
+msgstr "เ&ครื่องมือ"
+
+msgid "_Tools"
+msgstr "เ_ครื่องมือ"
+
+msgid "Top"
+msgstr "บน"
+
+msgid "_Top"
+msgstr "_บน"
+
+msgid "Top Left"
+msgstr "ซ้ายบน"
+
+msgid "Top left"
+msgstr ""
+
+msgid "Top Right"
+msgstr "ด้านบนขวา"
+
+msgid "Top right"
+msgstr ""
+
+msgid "Topic"
+msgstr ""
+
+msgid "Top-left"
+msgstr "ซ้ายบน"
+
+msgid "Top-right"
+msgstr "ขวาบน"
+
+msgid "Total"
+msgstr "ทั้งหมด"
+
+msgid "Track"
+msgstr "แทร็กที่"
+
+msgid "Track Number"
+msgstr "ลำดับเพลง"
+
+msgid "Tracker"
+msgstr ""
+
+msgid "Tracks"
+msgstr "เพลง"
+
+msgid "Traditional"
+msgstr ""
+
+msgid "Transfer"
+msgstr ""
+
+msgid "Transform"
+msgstr "แปลงรูปร่าง"
+
+msgid "Transformation"
+msgstr "การเปลี่ยนรูปร่าง"
+
+msgid "Translate"
+msgstr "แปลภาษา"
+
+msgid "Translation"
+msgstr "การแปล"
+
+msgid "Translator"
+msgstr "ผู้แปล"
+
+msgid "translator-credits"
+msgstr "Aefgh Threenine <aefgh39622@gmail.com>"
+
+msgid "translator_credits"
+msgstr ""
+"Sapa <sapac@hotmail.com>\n"
+"Chanchai Junlouchai <taz@opentle.org>\n"
+"Supranee Thirawatthanasuk <supranee@opentle.org>\n"
+"Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
+"Manatsawin Hanmongkolchai <manatsawin@gmail.com>\n"
+"Sira Nokyoongtong <gumaraa@gmail.com>"
+
+msgid "Translators"
+msgstr "ผู้แปล"
+
+msgid "Transparency"
+msgstr "โปร่งใส"
+
+msgid "Transparent"
+msgstr "ความโปร่งแสง"
+
+msgid "Transport"
+msgstr "การส่งข้อมูล"
+
+msgid "Transpose"
+msgstr ""
+
+msgid "Trash"
+msgstr "ถังขยะ"
+
+msgid "Travel"
+msgstr "ท่องเที่ยว"
+
+msgid "Tree"
+msgstr "มุมมองต้นไม้"
+
+msgid "Tree View"
+msgstr "มุมมองต้นไม้"
+
+msgid "Triangle"
+msgstr ""
+
+msgid "True"
+msgstr "จริง"
+
+msgid "true"
+msgstr "จริง"
+
+msgid "Trusted"
+msgstr "เชื่อถือได้"
+
+msgid "Try a different search"
+msgstr "ลองค้นหาด้วยคำอื่น"
+
+msgid "Try Again"
+msgstr "ลองอีกครั้ง"
+
+msgid "Tuesday"
+msgstr "อังคาร"
+
+msgid "Tunisia"
+msgstr "ตูนิเซีย"
+
+msgid "Turkey"
+msgstr "ตุรกี"
+
+msgid "Turkish"
+msgstr "ตุรกี"
+
+msgid "Turkmenistan"
+msgstr "เติรกเมนิสถาน"
+
+msgid "Tuvalu"
+msgstr "ตูวาลู"
+
+msgid "TV"
+msgstr "โทรทัศน์"
+
+msgid "Twitter"
+msgstr ""
+
+msgid "TYPE"
+msgstr "TYPE"
+
+msgid "Type"
+msgstr "ชนิด"
+
+msgid "type"
+msgstr ""
+
+msgid "&Type"
+msgstr ""
+
+msgid "Type: %1"
+msgstr ""
+
+msgid "Uganda"
+msgstr "ยูกันดา"
+
+msgid "Ukraine"
+msgstr "ยูเครน"
+
+msgid "Ukrainian"
+msgstr "ภาษายูเครน"
+
+msgid "Unable to create a temporary file."
+msgstr "ไม่สามารถสร้างไฟล์ชั่วคราวได้"
+
+msgid "unable to get editor plugin name: %s"
+msgstr ""
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+
+msgid "Unavailable"
+msgstr "ไม่มี"
+
+msgid "Undefined"
+msgstr "ไม่ได้กำหนด"
+
+msgid "Underline"
+msgstr "ขีดเส้นใต้"
+
+msgid "&Underline"
+msgstr "ขี&ดเส้นใต้"
+
+msgid "_Underline"
+msgstr "_ขีดเส้นใต้"
+
+msgid "Undo"
+msgstr "เรียกคืน"
+
+msgid "&Undo"
+msgstr "เ&ลิกทำ"
+
+msgid "_Undo"
+msgstr "เรี_ยกคืน"
+
+msgid "Undo %1"
+msgstr ""
+
+msgid "Undo History"
+msgstr "ประวัติการเรียกคืน"
+
+msgid "UnFav it"
+msgstr ""
+
+msgid "unhandled property “%s” type %s"
+msgstr ""
+
+msgid "Unicode"
+msgstr "ยูนิโค้ด"
+
+msgid "Uniform"
+msgstr ""
+
+msgid "Union"
+msgstr "หาส่วนรวม"
+
+msgid "Unit"
+msgstr "หน่วย"
+
+msgid "United Arab Emirates"
+msgstr "สหรัฐอาหรับเอมิเรตส์"
+
+msgid "United Kingdom"
+msgstr "สหราชอาณาจักร"
+
+msgid "United States"
+msgstr "สหรัฐอเมริกา"
+
+msgid "United States Minor Outlying Islands"
+msgstr "เกาะเล็กรอบนอกของสหรัฐอเมริกา"
+
+msgid "Units"
+msgstr "หน่วย"
+
+msgid "University"
+msgstr ""
+
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+msgid "unknown"
+msgstr "ไม่ทราบ"
+
+msgid "(unknown)"
+msgstr "(ไม่ทราบ)"
+
+msgid "Unknown Error"
+msgstr "ข้อผิดพลาดที่ไม่รู้จัก"
+
+msgid "Unknown error"
+msgstr "ข้อผิดพลาดไม่ทราบสาเหตุ"
+
+msgid "Unknown error."
+msgstr "ข้อผิดพลาดไม่ทราบสาเหตุ"
+
+msgid "unknown error creating editor instance"
+msgstr ""
+
+msgid "Unknown file type"
+msgstr "ประเภทแฟ้มที่ไม่รู้จัก"
+
+msgid "Unlimited"
+msgstr "ไม่จำกัด"
+
+msgid "unlimited"
+msgstr ""
+
+msgid "Unlock"
+msgstr "ปลดล็อก"
+
+msgid "_Unlock"
+msgstr "_ปลดล็อก"
+
+msgid "Unmount"
+msgstr "ยกเลิกการเมานท์"
+
+msgid "Unmute"
+msgstr "เปิดเสียง"
+
+msgid "Unnamed"
+msgstr "ไม่มีชื่อ"
+
+msgid "unnamed"
+msgstr "ยังไม่มีชื่อ"
+
+msgid "Unread"
+msgstr "ยังไม่ได้อ่าน"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "ไม่รู้จักแฟ้มเดสก์ท็อปรุ่น '%s'"
+
+msgid "Unrecognized launch option: %d"
+msgstr "ไม่รู้จักตัวเลือกของการเรียกโปรแกรม: %d"
+
+msgid "Unsaved Changes"
+msgstr "ยังไม่ได้บันทึกการเปลี่ยนแปลง"
+
+msgid "Unselect All"
+msgstr "ไม่เลือกทั้งหมด"
+
+msgid "Unselect all"
+msgstr "ล้างการเลือกทั้งหมด"
+
+msgid "Unspecified"
+msgstr "ยังไม่ระบุ"
+
+msgid "Untitled"
+msgstr "ยังไม่กำหนดชื่อ"
+
+msgid "untitled"
+msgstr "ไม่มีชื่อ"
+
+msgid "Unused"
+msgstr "ไม่ได้ใช้"
+
+msgid "Up"
+msgstr "ขึ้น"
+
+msgid "&Up"
+msgstr "&ขึ้น"
+
+msgid "Update"
+msgstr "ปรับข้อมูล"
+
+msgid "&Update"
+msgstr "ป&รับปรุง"
+
+msgid "_Update"
+msgstr "_ปรับข้อมูล"
+
+msgid "Updates"
+msgstr "ปรับข้อมูล"
+
+msgid "Updating"
+msgstr "กำลังปรับปรุง"
+
+msgid "Updating..."
+msgstr "กำลังปรับข้อมูล..."
+
+msgid "Upload"
+msgstr "อัปโหลด"
+
+msgid "_Upload"
+msgstr "_อัปโหลด"
+
+msgid "Uploaded"
+msgstr "อัปโหลดแล้ว"
+
+msgid "Upper"
+msgstr "ตัวพิมพ์ใหญ่"
+
+msgid "Uppercase"
+msgstr "ตัวพิมพ์ใหญ่"
+
+msgid "Urdu"
+msgstr ""
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "ที่อยู่ Url"
+
+msgid "Uruguay"
+msgstr "อุรุกวัย"
+
+msgid "US Letter"
+msgstr "กระดาษจดหมาย US"
+
+msgid "Usage"
+msgstr "วิธีใช้"
+
+msgid "USB"
+msgstr "พอร์ต USB"
+
+msgid "Use"
+msgstr "ใช้"
+
+msgid "Used"
+msgstr "ใช้ไป"
+
+msgid "User"
+msgstr "ผู้ใช้"
+
+msgid "User Certificate"
+msgstr ""
+
+msgid "User Defined"
+msgstr ""
+
+msgid "User Feedback"
+msgstr ""
+
+msgid "User ID"
+msgstr "ID ผู้ใช้"
+
+msgid "User Interface"
+msgstr "ส่วนติดต่อผู้ใฃ้"
+
+msgid "User name"
+msgstr "ชื่อผู้ใช้"
+
+msgid "User Password"
+msgstr ""
+
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+msgid "_Username"
+msgstr "_ชื่อผู้ใช้"
+
+msgid "Users"
+msgstr "ผู้ใช้งาน"
+
+msgid "Utilities"
+msgstr "Utilities"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "อุซเบกิสถาน"
+
+msgid "V"
+msgstr ""
+
+msgid "%v%"
+msgstr ""
+
+msgid "Valid"
+msgstr ""
+
+msgid "Valid from"
+msgstr ""
+
+msgid "Validity"
+msgstr "การตรวจสอบ"
+
+msgid "Value"
+msgstr "ค่า"
+
+msgid "value"
+msgstr ""
+
+msgid "&Value"
+msgstr "ค่&า"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+
+msgid "Values"
+msgstr ""
+
+msgid "Vanuatu"
+msgstr "วานูอาตู"
+
+msgid "Variable"
+msgstr "ตัวแปร"
+
+msgid "Variables"
+msgstr "ตัวแปร"
+
+msgid "Variance"
+msgstr "ตัวแปร"
+
+msgid "Vector"
+msgstr ""
+
+msgid "Velocity"
+msgstr "ความเร็ว"
+
+msgid "Vendor"
+msgstr "ผู้จำหน่าย"
+
+msgid "Venezuela"
+msgstr "เวเนซุเอลา"
+
+msgid "Verb"
+msgstr "คำกริยา"
+
+msgid "Verify"
+msgstr "ตรวจสอบ"
+
+msgid "Version"
+msgstr "รุ่น"
+
+msgid "Version %1"
+msgstr "รุ่น %1"
+
+msgid "Vertical"
+msgstr "แนวตั้ง"
+
+msgid "Very Large"
+msgstr "ใหญ่มาก"
+
+msgid "Video"
+msgstr "วิดีโอ"
+
+msgid "Video CD"
+msgstr "แผ่นซีดีวีดิโอ"
+
+msgid "Video Codec"
+msgstr ""
+
+msgid "Video Files"
+msgstr ""
+
+msgid "Videos"
+msgstr "วิดีโอ"
+
+msgid "Vietnam"
+msgstr "เวียดนาม"
+
+msgid "Vietnamese"
+msgstr "เวียดนาม"
+
+msgid "View"
+msgstr "มุมมอง"
+
+msgid "&View"
+msgstr "&มุมมอง"
+
+msgid "_View"
+msgstr "มุ_มมอง"
+
+msgid "View Options"
+msgstr "ตัวเลือกมุมมอง"
+
+msgid "View Settings"
+msgstr ""
+
+msgid "Viewer"
+msgstr "การดูภาพ"
+
+msgid "Views"
+msgstr "มุมมอง"
+
+msgid "Virtual"
+msgstr ""
+
+msgid "Virtual Keyboard"
+msgstr ""
+
+msgid "Visibility"
+msgstr "ทัศนวิสัย"
+
+msgid "Visible"
+msgstr "มองเห็นได้"
+
+msgid "Voltage"
+msgstr "ศักย์ไฟฟ้า"
+
+msgid "Volume"
+msgstr "ระดับเสียง"
+
+msgid "Volume Down"
+msgstr "ลดเสียง"
+
+msgid "Volume Up"
+msgstr "เพิ่มเสียง"
+
+msgid "W"
+msgstr "W"
+
+msgid "w"
+msgstr "สัปดาห์"
+
+msgid "Waiting"
+msgstr "กำลังรอ"
+
+msgid "Wallpaper"
+msgstr ""
+
+msgid "Wallpaper type"
+msgstr ""
+
+msgid "WARNING"
+msgstr "คำเตือน"
+
+msgid "Warning"
+msgstr "คำเตือน"
+
+msgid "warning"
+msgstr ""
+
+msgid "Warnings"
+msgstr "คำเตือน"
+
+msgid "Water"
+msgstr ""
+
+msgid "Wave"
+msgstr "Wave"
+
+msgid "Weak"
+msgstr "หละหลวม"
+
+msgid "Weather"
+msgstr "รายงานอากาศ"
+
+msgid "Web Browser"
+msgstr "เว็บเบราว์เซอร์"
+
+msgid "Web browser"
+msgstr "เว็บเบราว์เซอร์"
+
+msgid "Website"
+msgstr "เว็บไซต์"
+
+msgid "Wednesday"
+msgstr "พุธ"
+
+msgid "Week"
+msgstr "สัปดาห์"
+
+msgid "Week View"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "weeks"
+msgstr "สัปดาห์"
+
+msgid "Weight"
+msgstr "น้ำหนัก"
+
+msgid "Welcome"
+msgstr "ยินดีต้อนรับ"
+
+msgid "Welsh"
+msgstr "ภาษาเวลช์"
+
+msgid "West"
+msgstr "ตะวันตก"
+
+msgid "Western"
+msgstr "ตะวันตก"
+
+msgid "Western Sahara"
+msgstr "เวสเทิร์นสะฮารา"
+
+msgid "What's new"
+msgstr ""
+
+msgid "Wheel"
+msgstr "ล้อเมาส์"
+
+msgid "Whether sound effects should be played."
+msgstr "มีการเล่นเสียงในเกม"
+
+msgid "White"
+msgstr "สีขาว"
+
+msgid "white"
+msgstr "ขาว"
+
+msgid "White Balance"
+msgstr "สมดุลสีขาว"
+
+msgid "Wide"
+msgstr "กว้าง"
+
+msgid "Widgets"
+msgstr ""
+
+msgid "Width"
+msgstr "ความกว้าง"
+
+msgid "&Width"
+msgstr "ความ&กว้าง"
+
+msgid "_Width"
+msgstr "ความ_กว้าง"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgid "Window"
+msgstr "หน้าต่าง"
+
+msgid "&Window"
+msgstr "&หน้าต่าง"
+
+msgid "&Window Color Scheme"
+msgstr ""
+
+msgid "Window height"
+msgstr "ความสูงของหน้าต่าง"
+
+msgid "Window Management"
+msgstr "การจัดการหน้าต่าง"
+
+msgid "Window maximized"
+msgstr "หน้าต่างขยายแผ่"
+
+msgid "Window size"
+msgstr "ขนาดหน้าต่าง"
+
+msgid "Window Title"
+msgstr ""
+
+msgid "Window width"
+msgstr "ความกว้างของหน้าต่าง"
+
+msgid "Windows"
+msgstr "หน้าต่าง"
+
+msgid "_Windows"
+msgstr "_หน้าต่าง"
+
+msgid "with"
+msgstr "ด้วย"
+
+msgid "Word"
+msgstr "คำ"
+
+msgid "Word Count"
+msgstr "จำนวนคำ"
+
+msgid "Words"
+msgstr "คำ"
+
+msgid "Work"
+msgstr "ที่ทำงาน"
+
+msgid "World"
+msgstr "โลก"
+
+msgid "Wrap"
+msgstr "ตัดคำ"
+
+msgid "_Wrap around"
+msgstr "หมดแล้วเ_ริ่มใหม่"
+
+msgid "Wrap Text"
+msgstr "ตัดข้อความ"
+
+msgid "Write"
+msgstr "เขียน"
+
+msgid "Writing"
+msgstr "การเขียน"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "ปี"
+
+msgid "Yearly"
+msgstr ""
+
+msgid "Years"
+msgstr "ปี"
+
+msgid "years"
+msgstr "ปี"
+
+msgid "Yellow"
+msgstr "เหลือง"
+
+msgid "yellow"
+msgstr "เหลือง"
+
+msgid "Yemen"
+msgstr "เยเมน"
+
+msgid "Yes"
+msgstr "ใช่"
+
+msgid "yes"
+msgstr "ใช่"
+
+msgid "_Yes"
+msgstr "ใ_ช่"
+
+msgid "Yesterday"
+msgstr "เมื่อวาน"
+
+msgid "Yiddish"
+msgstr ""
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+
+msgid "Yukon"
+msgstr "ยูคอน"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "แซมเบีย"
+
+msgid "Zero"
+msgstr "ศูนย์"
+
+msgid "Zimbabwe"
+msgstr "ซิมบับเว"
+
+msgid "Zoom"
+msgstr "ซูม"
+
+msgid "&Zoom"
+msgstr "&ดูย่อ/ดูขยาย"
+
+msgid "_Zoom"
+msgstr "_ซูม"
+
+msgid "Zoom In"
+msgstr "ซูมเข้า"
+
+msgid "Zoom in"
+msgstr "ซูมเข้า"
+
+msgid "Zoom &In"
+msgstr "ดู&ขยาย"
+
+msgid "Zoom _In"
+msgstr "ซูมเ_ข้า"
+
+msgid "Zoom Out"
+msgstr "ซูมออก"
+
+msgid "Zoom out"
+msgstr "ซูมออก"
+
+msgid "Zoom &Out"
+msgstr "ดู&ย่อ"
+
+msgid "Zoom _Out"
+msgstr "ซูม_ออก"
+
+msgid "Zoom to Fit"
+msgstr "ปรับขนาดให้พอดี"

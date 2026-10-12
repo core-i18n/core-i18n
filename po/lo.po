@@ -1,0 +1,9451 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: core-i18n\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "\""
+msgstr "\""
+
+msgid "#"
+msgstr ""
+
+msgid "%"
+msgstr "%"
+
+msgid "'"
+msgstr "'"
+
+msgid "*"
+msgstr "*"
+
+msgid "+"
+msgstr "+"
+
+msgid ","
+msgstr ","
+
+msgid "-"
+msgstr "-"
+
+msgid "/"
+msgstr "/"
+
+msgid "<"
+msgstr "<"
+
+msgid "="
+msgstr ""
+
+msgid ">"
+msgstr ">"
+
+msgid "?"
+msgstr ""
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr ""
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr ""
+
+msgid " %"
+msgstr ""
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr ""
+
+msgid "    "
+msgstr ""
+
+msgid " and "
+msgstr " ແລະ "
+
+msgid " (default)"
+msgstr " (ເລີ່ມຕົ້ນ)"
+
+msgid "© KDE Community"
+msgstr ""
+
+msgid " MB"
+msgstr " MB"
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " ນາທີ"
+
+msgid " minutes"
+msgstr " ນາທີ"
+
+msgid " ms"
+msgstr " ms"
+
+msgid " px"
+msgstr " px"
+
+msgid " s"
+msgstr ""
+
+msgid " sec"
+msgstr ""
+
+msgid " seconds"
+msgstr " ວິນາທີ"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 %"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr ""
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr ""
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 ແລະ %2"
+
+msgid "%1 bytes"
+msgstr "%1 ໄບ"
+
+msgid "1 day"
+msgstr ""
+
+msgid "%1 does not exist"
+msgstr ""
+
+msgid "%1 free"
+msgstr "ວ່າງ %1"
+
+msgid "1 hour"
+msgstr ""
+
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+msgid "%1 MB"
+msgstr ""
+
+msgid "%1 ms"
+msgstr "%1 ມິນລິວິນາທີ"
+
+msgid "%1 of %2"
+msgstr "%1 ຈາກ %2"
+
+msgid "%1 on %2"
+msgstr ""
+
+msgid "%1 s"
+msgstr "%1 ວິນາທີ"
+
+msgid "%1 seconds"
+msgstr "%1 ວິນາທີ"
+
+msgid "%1 to %2"
+msgstr ""
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 ນາທີ"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr ""
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr ""
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 ນາທີ"
+
+msgid "150%"
+msgstr ""
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1 ມ"
+
+msgid "%1/s"
+msgstr ""
+
+msgid "1st"
+msgstr ""
+
+msgid "%1x%2"
+msgstr ""
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr ""
+
+msgid "2nd"
+msgstr ""
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 ນາທີ"
+
+msgid "300%"
+msgstr ""
+
+msgid "3rd"
+msgstr ""
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr ""
+
+msgid "4th"
+msgstr ""
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 ນາທີ"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr ""
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "ມີໄຟລ໌ຊື່ \"%1\" ຢູ່ແລ້ວ. ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການຂຽນທັບມັນ?"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "Abort"
+msgstr "ຍົກເລີກ"
+
+msgid "&Abort"
+msgstr "&ຍົກເລີກ"
+
+msgid "Aborted"
+msgstr "ຍົກເລີກແລ້ວ"
+
+msgid "About"
+msgstr "ກ່ຽວກັບ"
+
+msgid "&About"
+msgstr "&ກ່ຽວກັບ"
+
+msgid "_About"
+msgstr "_ກ່ຽວກັບ"
+
+msgid "About %1"
+msgstr "ກ່ຽວກັບ %1"
+
+msgid "About KDE"
+msgstr "ກ່ຽວກັບ KDE"
+
+msgid "Abstract"
+msgstr "ນາມມະທຳ (Abstract)"
+
+msgid "Accept"
+msgstr "ຍອມຮັບ"
+
+msgid "Accepted"
+msgstr "ຍອມຮັບແລ້ວ"
+
+msgid "Accessed"
+msgstr "ເຂົ້າເຖິງ"
+
+msgid "Accessibility"
+msgstr "ການເຂົ້າເຖິງ"
+
+msgid "Account"
+msgstr "ບັນຊີ"
+
+msgid "Account Details"
+msgstr "ລາຍລະອຽດບັນຊີ"
+
+msgid "Account Information"
+msgstr "ຂໍ້ມູນບັນຊີ"
+
+msgid "Account Name"
+msgstr "ຊື່ບັນຊີ"
+
+msgid "Accounts"
+msgstr "ບັນຊີ"
+
+msgid "Accuracy"
+msgstr "ຄວາມຖືກຕ້ອງ"
+
+msgid "Action"
+msgstr "ການກະທຳ"
+
+msgid "Actions"
+msgstr "ການກະທຳ"
+
+msgid "Activate"
+msgstr ""
+
+msgid "Active"
+msgstr "ເປີດໃຊ້ງານ"
+
+msgid "Activities"
+msgstr ""
+
+msgid "Activity"
+msgstr "ກິດຈະກຳ"
+
+msgid "Adaptive"
+msgstr ""
+
+msgid "Add"
+msgstr "ເພີ່ມ"
+
+msgid "&Add"
+msgstr "&ເພີ່ມ"
+
+msgid "_Add"
+msgstr "_ເພີ່ມ"
+
+msgid "Add..."
+msgstr "ເພີ່ມ..."
+
+msgid "&Add..."
+msgstr "&ເພີ່ມ..."
+
+msgid "A&dd..."
+msgstr ""
+
+msgid "Add Account"
+msgstr ""
+
+msgid "Add Bookmark"
+msgstr "ເພີ່ມທີ່ຄັ່ນໜ້າ"
+
+msgid "_Add Bookmark"
+msgstr ""
+
+msgid "Add Filter"
+msgstr "ເພີ່ມຕົວຂັດຕອງ"
+
+msgid "Add Folder"
+msgstr "ເພີ່ມໂຟນເດີ"
+
+msgid "Add Folder..."
+msgstr ""
+
+msgid "Add Group"
+msgstr "ເພີ່ມກຸ່ມ"
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add Rule..."
+msgstr ""
+
+msgid "Add Tag"
+msgstr "ເພີ່ມແທັກ"
+
+msgid "Add tag"
+msgstr ""
+
+msgid "Add to Dictionary"
+msgstr "ເພີ່ມເຂົ້າວັດຈະນານຸກົມ"
+
+msgid "Add to Favorites"
+msgstr ""
+
+msgid "Added"
+msgstr "ຖືກເພີ່ມ"
+
+msgid "Addition"
+msgstr "Addition"
+
+msgid "Additional Information"
+msgstr "ຂໍ້ມູນເພີ່ມເຕີມ"
+
+msgid "Address"
+msgstr "ທີ່ຢູ່"
+
+msgid "Address Book"
+msgstr ""
+
+msgid "Addresses"
+msgstr ""
+
+msgid "Adjust"
+msgstr "ປັບແຕ່ງ"
+
+msgid "Advanced"
+msgstr "ຂັ້ນສູງ"
+
+msgid "Advanced..."
+msgstr ""
+
+msgid "Ad_vanced..."
+msgstr ""
+
+msgid "Advanced options"
+msgstr "ຕົວເລືອກຂັ້ນສູງ"
+
+msgid "Advanced Properties"
+msgstr ""
+
+msgid "Advanced Settings"
+msgstr "ການຕັ້ງຄ່າຂັ້ນສູງ"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "ອັບການິສະຖານ"
+
+msgid "Africa"
+msgstr "ອາຟຣິກາ"
+
+msgid "Afrikaans"
+msgstr "ອາຟຣິກາ"
+
+msgid "After"
+msgstr "ຫຼັງ"
+
+msgid "Agenda"
+msgstr ""
+
+msgid "Alarm"
+msgstr "ໂມງປຸກ"
+
+msgid "Alarms"
+msgstr ""
+
+msgid "Albania"
+msgstr "ອານບານີ"
+
+msgid "Albanian"
+msgstr "ອານບານີ"
+
+msgid "Albert Vaca Cintora"
+msgstr ""
+
+msgid "Album"
+msgstr "ອັນລະບັ້ມ"
+
+msgid "Album Artist"
+msgstr "ສິນລະປິນຂອງອັນບັ້ມ"
+
+msgid "Albums"
+msgstr "ອະລະບ້ຳ"
+
+msgid "Alert"
+msgstr "ແຈ້ງເຕືອນ"
+
+msgid "Alexander Neundorf"
+msgstr ""
+
+msgid "Algeria"
+msgstr "ອານຈີເຣຍ"
+
+msgid "Algorithm"
+msgstr ""
+
+msgid "Alias"
+msgstr ""
+
+msgid "Aliases"
+msgstr "ຊື່ແຝງ"
+
+msgid "Align"
+msgstr "Align"
+
+msgid "Align Bottom"
+msgstr ""
+
+msgid "Align Center"
+msgstr "ຈັດເຄິ່ງກາງ"
+
+msgid "Align Left"
+msgstr "ຈັດຊິດຊ້າຍ"
+
+msgid "Align left"
+msgstr "ຈັດຊິດຊ້າຍ"
+
+msgid "Align Right"
+msgstr "ຈັດຊິດຂວາ"
+
+msgid "Align right"
+msgstr "ຈັດຊິດຂວາ"
+
+msgid "Align Top"
+msgstr ""
+
+msgid "Alignment"
+msgstr "ການຈັດວາງ"
+
+msgid "All"
+msgstr "ທັງໝົດ"
+
+msgid "all"
+msgstr "all"
+
+msgid "_All"
+msgstr "_ທັງໝົດ"
+
+msgid "All Files"
+msgstr "ໄຟລ໌ທັງໝົດ"
+
+msgid "All files"
+msgstr "ໄຟລ໌ທັງໝົດ"
+
+msgid "All Files (*)"
+msgstr "ໄຟລ໌ທັງໝົດ (*)"
+
+msgid "All files (*)"
+msgstr "ໄຟລ໌ທັງໝົດ (*)"
+
+msgid "All Supported Files"
+msgstr "ໄຟລ໌ທີ່ຮອງຮັບທັງໝົດ"
+
+msgid "Allen Winter"
+msgstr ""
+
+msgid "Allow"
+msgstr "ອະນຸຍາດ"
+
+msgid "Allow Deflate compression"
+msgstr ""
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Alphabetically"
+msgstr ""
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr ""
+
+msgid "Always"
+msgstr "ສະເໝີ"
+
+msgid "Always ask"
+msgstr "ຖາມສະເໝີ"
+
+msgid "Always visible"
+msgstr ""
+
+msgid "AM"
+msgstr "ເຊົ້າ"
+
+msgid "Ambient"
+msgstr "ສະພາບແວດລ້ອມ"
+
+msgid "Amount"
+msgstr "ຈຳນວນເງິນ"
+
+msgid "An error occurred"
+msgstr ""
+
+msgid "An unknown error occurred."
+msgstr ""
+
+msgid "Analysis"
+msgstr "ການວິເຄາະ"
+
+msgid "Anchor"
+msgstr ""
+
+msgid "AND"
+msgstr "ແລະ"
+
+msgid "and"
+msgstr "ແລະ"
+
+msgid "Andorra"
+msgstr "ອັນດໍຣາ"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "ມຸມ"
+
+msgid "angle"
+msgstr "ມຸມ"
+
+msgid "Angola"
+msgstr "ອັງໂກລາ"
+
+msgid "Animation"
+msgstr "ພາບເຄື່ອນໄຫວ"
+
+msgid "Animations"
+msgstr ""
+
+msgid "Anniversary"
+msgstr ""
+
+msgid "Annotate"
+msgstr ""
+
+msgid "Annotation"
+msgstr "ຄຳອະທິບາຍປະກອບ"
+
+msgid "Annotations"
+msgstr ""
+
+msgid "Anonymous"
+msgstr "ບໍ່ລະບຸຕົວຕົນ"
+
+msgid "Antarctica"
+msgstr "ອັງຕາກຕິກາ"
+
+msgid "Any"
+msgstr "ໃດໆ"
+
+msgid "Aperture"
+msgstr "ຮູຮັບແສງ"
+
+msgid "Appearance"
+msgstr "ຮູບລັກສະນະ"
+
+msgid "Append"
+msgstr ""
+
+msgid "AppImage"
+msgstr "AppImage"
+
+msgid "Application"
+msgstr "ແອັບພລິເຄຊັນ"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr ""
+
+msgid "Applications"
+msgstr "ແອັບພລິເຄຊັນ"
+
+msgid "Apply"
+msgstr "ນຳໃຊ້"
+
+msgid "&Apply"
+msgstr "&ນຳໃຊ້"
+
+msgid "_Apply"
+msgstr "_ນຳໃຊ້"
+
+msgid "Apply Settings"
+msgstr ""
+
+msgid "April"
+msgstr "ເມສາ"
+
+msgid "Arabic"
+msgstr "ອາຣັບ"
+
+msgid "Archive"
+msgstr "ຈັດເກັບ (Archive)"
+
+msgid "Archives"
+msgstr ""
+
+msgid "Area"
+msgstr "ເນື້ອທີ່"
+
+msgid "Argentina"
+msgstr "ອາກຊັງຕິນ"
+
+msgid "Arguments"
+msgstr ""
+
+msgid "Armenia"
+msgstr "ອາເມເນຍ"
+
+msgid "Armenian"
+msgstr "ອາເມເນຍ"
+
+msgid "Arrow"
+msgstr ""
+
+msgid "Arrows"
+msgstr "ລູກສອນ"
+
+msgid "Articles"
+msgstr ""
+
+msgid "Artist"
+msgstr "ສິລະປິນ"
+
+msgid "Artists"
+msgstr "ສິນລະປິນ"
+
+msgid "Artwork"
+msgstr "Artwork"
+
+msgid "Ascending"
+msgstr "ຈາກນ້ອຍຫາໃຫຍ່"
+
+msgid "Asia"
+msgstr "ອາຊີ"
+
+msgid "Ask"
+msgstr "ຖາມ"
+
+msgid "Aspect Ratio"
+msgstr "ອັດຕາສ່ວນ"
+
+msgid "Aspect ratio"
+msgstr "ອັດຕາສ່ວນ"
+
+msgid "Assamese"
+msgstr "Assamese"
+
+msgid "Assign Tags"
+msgstr "ກຳນົດແທັກ"
+
+msgid "Assistant"
+msgstr ""
+
+msgid "ATM"
+msgstr "ATM"
+
+msgid "Attach"
+msgstr ""
+
+msgid "Attach File"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Attendees"
+msgstr ""
+
+msgid "Attribute"
+msgstr "ຄຸນລັກສະນະ"
+
+msgid "Attributes"
+msgstr "ຄຸນລັກສະນະ"
+
+msgid "Audio"
+msgstr "ສຽງ"
+
+msgid "Audio CD"
+msgstr "ຊີດີສຽງ"
+
+msgid "Audio Codec"
+msgstr "Audio Codec"
+
+msgid "Audio files"
+msgstr "ໄຟລ໌ສຽງ"
+
+msgid "August"
+msgstr "ສິງຫາ"
+
+msgid "Australia"
+msgstr "ອົດສະຕຣາລີ"
+
+msgid "Austria"
+msgstr "ອົດສະຕຣິດ"
+
+msgid "Authenticate"
+msgstr ""
+
+msgid "Authenticate VPN"
+msgstr ""
+
+msgid "Authentication"
+msgstr ""
+
+msgid "Authentication Required"
+msgstr ""
+
+msgid "Author"
+msgstr "ຜູ້ຂຽນ"
+
+msgid "Authors"
+msgstr "ຜູ້ພັດທະນາ"
+
+msgid "Auto"
+msgstr "ອັດຕະໂນມັດ"
+
+msgid "auto"
+msgstr "ອັດຕະໂນມັດ"
+
+msgid "Auto Detect"
+msgstr ""
+
+msgid "Auto Save"
+msgstr "ບັນທຶກອັດຕະໂນມັດ"
+
+msgid "Autodetect"
+msgstr "ກວດຈັບອັດຕະໂນມັດ"
+
+msgid "Automatic"
+msgstr "ອັດຕະໂນມັດ"
+
+msgid "Autosave interval"
+msgstr ""
+
+msgid "Available"
+msgstr "ມີໃຫ້"
+
+msgid "A&vailable actions"
+msgstr "ການກະທຳທີ່ມີ&ຢູ່"
+
+msgid "Average"
+msgstr "ສະເລ່ຍ"
+
+msgid "Axes"
+msgstr "ແກນ"
+
+msgid "Azerbaijan"
+msgstr "ອາເຊີໄບຈັນ"
+
+msgid "Azerbaijani"
+msgstr "Azerbaijani"
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "ກັບຄືນ"
+
+msgid "&Back"
+msgstr "&ກັບຄືນ"
+
+msgid "_Back"
+msgstr "_ກັບຄືນ"
+
+msgid "Background"
+msgstr "ພື້ນຫຼັງ"
+
+msgid "Background Color"
+msgstr "ສີພື້ນຫຼັງ"
+
+msgid "Background color"
+msgstr "ສີພື້ນ"
+
+msgid "&Background color"
+msgstr "&ສີພື້ນຫຼັງ"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "ສຳຮອງຂໍ້ມູນ"
+
+msgid "Bahamas"
+msgstr "ບາຮາມາສ"
+
+msgid "Bahrain"
+msgstr "ບາເຣນ"
+
+msgid "Balance"
+msgstr "ຍອດຄົງເຫຼືອ"
+
+msgid "Balanced"
+msgstr "ສົມດຸນ"
+
+msgid "Baltic"
+msgstr "ບອລຕິກ"
+
+msgid "Bangladesh"
+msgstr "ບັງກະລາເທດ"
+
+msgid "Bank"
+msgstr "ທະນາຄານ"
+
+msgid "Bar"
+msgstr "ບາ"
+
+msgid "Barbados"
+msgstr "ບາບາໂດສ"
+
+msgid "Base"
+msgstr "ພື້ນຖານ"
+
+msgid "Basic"
+msgstr ""
+
+msgid "Basque"
+msgstr "ບາສກ໌"
+
+msgid "Bass"
+msgstr "Bass"
+
+msgid "Battery"
+msgstr ""
+
+msgid "Bcc"
+msgstr ""
+
+msgid "Before"
+msgstr "ກ່ອນ"
+
+msgid "Behavior"
+msgstr "ພຶດຕິກຳ"
+
+msgid "Belarus"
+msgstr "ເບລາຣຸດ"
+
+msgid "Belarusian"
+msgstr "Belarusian"
+
+msgid "Belgium"
+msgstr "ແບນຊິກ"
+
+msgid "Belize"
+msgstr "ເບລີຊ"
+
+msgid "Bengali"
+msgstr "Bengali"
+
+msgid "Benin"
+msgstr "ເບນິນ"
+
+msgid "Best"
+msgstr ""
+
+msgid "Bhutan"
+msgstr "ພູຖານ"
+
+msgid "Bibliography"
+msgstr "ບັນນານຸກົມ"
+
+msgid "Binary"
+msgstr "ໄບນາຣີ"
+
+msgid "Birthday"
+msgstr ""
+
+msgid "Bitrate"
+msgstr "ບິດເຣດ"
+
+msgid "Black"
+msgstr "ສີດຳ"
+
+msgid "black"
+msgstr ""
+
+msgid "Blend"
+msgstr "ປະສົມ"
+
+msgid "Block"
+msgstr "ບລັອກ (Block)"
+
+msgid "Block Elements"
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Blue"
+msgstr "ສີຟ້າ"
+
+msgid "Blues"
+msgstr "ສີຟ້າ"
+
+msgid "Bluetooth"
+msgstr ""
+
+msgid "Blur"
+msgstr "ຄວາມມົວ"
+
+msgid "<b>Name:</b>"
+msgstr ""
+
+msgid "Body"
+msgstr "ສ່ວນເນື້ອຫາ"
+
+msgid "Bold"
+msgstr "ຕົວໜາ"
+
+msgid "&Bold"
+msgstr "&ໜາ"
+
+msgid "_Bold"
+msgstr "_ໂຕໜາ"
+
+msgid "Bold text"
+msgstr ""
+
+msgid "Bolivia"
+msgstr "ໂບລິເວຍ"
+
+msgid "Book"
+msgstr ""
+
+msgid "Bookmark"
+msgstr "ບຸກມາກ"
+
+msgid "Bookmarks"
+msgstr "ບຸກມາກ"
+
+msgid "&Bookmarks"
+msgstr "&ບຸກມາກ"
+
+msgid "_Bookmarks"
+msgstr ""
+
+msgid "Boolean"
+msgstr "ບູລີນ"
+
+msgid "Border"
+msgstr "ຊາຍແດນ"
+
+msgid "Bosnian"
+msgstr "Bosnian"
+
+msgid "Both"
+msgstr "ທັງສອງ"
+
+msgid "Botswana"
+msgstr "ບອດສະວານາ"
+
+msgid "Bottom"
+msgstr "ລຸ່ມ"
+
+msgid "_Bottom"
+msgstr "ລຸ່ມ"
+
+msgid "Bottom Left"
+msgstr "ລຸ່ມຊ້າຍ"
+
+msgid "Bottom Right"
+msgstr "ລຸ່ມຂວາ"
+
+msgid "Bottom-left"
+msgstr ""
+
+msgid "Bottom-right"
+msgstr ""
+
+msgid "Box"
+msgstr "Box"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Branch"
+msgstr "ສາຂາ"
+
+msgid "Brazil"
+msgstr "ບຣາຊິນ"
+
+msgid "Breeze"
+msgstr "Breeze"
+
+msgid "Breeze by the KDE VDG"
+msgstr "ບຣີສ ໂດຍ KDE VDG"
+
+msgid "Breeze Dark"
+msgstr "Breeze Dark"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "ບຣີສ ສີເຂັ້ມ ໂດຍ KDE VDG"
+
+msgid "Breton"
+msgstr "Breton"
+
+msgid "Brian Croom"
+msgstr ""
+
+msgid "Bridge"
+msgstr "ຂົວ"
+
+msgid "Brightness"
+msgstr "ຄວາມສະຫວ່າງ"
+
+msgid "Broken"
+msgstr ""
+
+msgid "Browse"
+msgstr "ເລືອກເບິ່ງ"
+
+msgid "Browse..."
+msgstr "ເລືອກ..."
+
+msgid "_Browse..."
+msgstr ""
+
+msgid "Browser"
+msgstr ""
+
+msgid "Buffer"
+msgstr "ບັບເຟີ"
+
+msgid "Bug fixes"
+msgstr ""
+
+msgid "Build"
+msgstr "ສ້າງ"
+
+msgid "Built-in Screen"
+msgstr ""
+
+msgid "Bulgaria"
+msgstr "ບຸນກາຣີ"
+
+msgid "Bulgarian"
+msgstr "ບຸນກາຣີ"
+
+msgid "Burkina Faso"
+msgstr "ບູກິນາ ຟາໂຊ"
+
+msgid "Burn"
+msgstr "Burn"
+
+msgid "Burundi"
+msgstr "ບູຣຸນດີ"
+
+msgid "Bus"
+msgstr "Bus"
+
+msgid "Busy"
+msgstr "ບໍ່ຫວ່າງ"
+
+msgid "Butt"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Buttons"
+msgstr ""
+
+msgid "by"
+msgstr "ໂດຍ"
+
+msgid "By %1"
+msgstr ""
+
+msgid "By extension"
+msgstr ""
+
+msgid "Bytes"
+msgstr ""
+
+msgid "bytes"
+msgstr "ໄບ"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr ""
+
+msgid "Cache"
+msgstr "ແຄຊ"
+
+msgid "Calculate"
+msgstr "ຄິດໄລ່"
+
+msgid "Calculating..."
+msgstr "ກຳລັງຄິດໄລ່..."
+
+msgid "Calculator"
+msgstr "ເຄື່ອງຄິດເລກ"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Calendars"
+msgstr ""
+
+msgid "Call"
+msgstr ""
+
+msgid "Calls"
+msgstr "ການໂທ"
+
+msgid "Cambodia"
+msgstr "ກຳປູເຈຍ"
+
+msgid "Camera"
+msgstr "ກ້ອງຖ່າຍຮູບ"
+
+msgid "Cameroon"
+msgstr "ຄາເມຣູນ"
+
+msgid "Canada"
+msgstr "ການາດາ"
+
+msgid "Cancel"
+msgstr "ຍົກເລີກ"
+
+msgid "&Cancel"
+msgstr "&ຍົກເລີກ"
+
+msgid "_Cancel"
+msgstr "_ຍົກເລີກ"
+
+msgid "C&ancel"
+msgstr "&ຍົກເລີກ"
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Cancelled"
+msgstr "ຍົກເລີກແລ້ວ"
+
+msgid "cannot load editor plugin: %s"
+msgstr ""
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "ຜ້າໃບ"
+
+msgid "Capabilities"
+msgstr ""
+
+msgid "Capacity"
+msgstr ""
+
+msgid "Cape Verde"
+msgstr "ກາແວກ"
+
+msgid "Capitalize"
+msgstr "ຂຶ້ນຕົ້ນດ້ວຍຕົວພິມໃຫຍ່"
+
+msgid "Caps Lock is on"
+msgstr ""
+
+msgid "Capture"
+msgstr "ຖ່າຍຮູບ"
+
+msgid "Car"
+msgstr ""
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "ຄາສເຄດ"
+
+msgid "Case Sensitive"
+msgstr "ຕົວພິມນ້ອຍໃຫຍ່ມີຄວາມໝາຍ"
+
+msgid "Case sensitive"
+msgstr "ຕົວພິມນ້ອຍ/ໃຫຍ່ມີຜົນ"
+
+msgid "Castle"
+msgstr "ປາສາດ"
+
+msgid "Catalan"
+msgstr "Catalan"
+
+msgid "Categories"
+msgstr "ໝວດໝູ່"
+
+msgid "Category"
+msgstr "ໝວດໝູ່"
+
+msgid "CC"
+msgstr "CC"
+
+msgid "Cc"
+msgstr ""
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr ""
+
+msgid "CD-R"
+msgstr ""
+
+msgid "CD-RW"
+msgstr ""
+
+msgid "Cell"
+msgstr ""
+
+msgid "Celsius"
+msgstr "ເຊລຊຽດ"
+
+msgid "Celtic"
+msgstr "ແຊນຕິກ"
+
+msgid "Center"
+msgstr "ເຄິ່ງກາງ"
+
+msgid "Centered"
+msgstr "ກາງ"
+
+msgid "Centimeters"
+msgstr "ຊັງ​ຕີ​ແມັດ"
+
+msgid "Centimeters (cm)"
+msgstr "ຊັງຕີແມັດ (cm)"
+
+msgid "Central"
+msgstr "ພາກກາງ"
+
+msgid "Central African Republic"
+msgstr "ສາທາລະນະລັດ ອາຟຣິກາກາງ"
+
+msgid "Central European"
+msgstr "ເອີຣົບກາງ"
+
+msgid "Certificate"
+msgstr "ໃບຮັບຮອງ"
+
+msgid "Certificates (TLS)"
+msgstr ""
+
+msgid "Chad"
+msgstr "ຊາດ"
+
+msgid "Change"
+msgstr "ປ່ຽນ"
+
+msgid "Change..."
+msgstr "ປ່ຽນ…"
+
+msgid "Changed"
+msgstr ""
+
+msgid "Channel"
+msgstr "ຊ່ອງ"
+
+msgid "Channels"
+msgstr "ຊ່ອງ"
+
+msgid "CHAP"
+msgstr ""
+
+msgid "Chapter"
+msgstr ""
+
+msgid "Chapters"
+msgstr ""
+
+msgid "Character"
+msgstr "ຕົວອັກສອນ"
+
+msgid "Characters"
+msgstr "ຕົວອັກສອນ"
+
+msgid "Charging"
+msgstr ""
+
+msgid "Chart"
+msgstr "ແຜນວາດ"
+
+msgid "Chat"
+msgstr ""
+
+msgid "Check"
+msgstr "ແຊັກ"
+
+msgid "Check for updates"
+msgstr "ກວດສອບການອັບເດດ"
+
+msgid "Check Spelling"
+msgstr "ກວດການສະກົດຄຳ"
+
+msgid "Checkbox"
+msgstr ""
+
+msgid "Checkout"
+msgstr "ການດຶງອອກມາໃຊ້"
+
+msgid "Cherokee"
+msgstr "ເຊີໂຣກີ"
+
+msgid "Children"
+msgstr "ລາຍການຍ່ອຍ"
+
+msgid "Chile"
+msgstr "ຊີລີ"
+
+msgid "China"
+msgstr "ຈີນ"
+
+msgid "Chinese"
+msgstr "Chinese"
+
+msgid "Chinese Simplified"
+msgstr "ຈີນແບບຫຍໍ້"
+
+msgid "Chinese Traditional"
+msgstr "ຈີນດັ້ງເດີມ"
+
+msgid "Choose"
+msgstr "ເລືອກ"
+
+msgid "Choose..."
+msgstr "ເລືອກ..."
+
+msgid "Cinema"
+msgstr "ໂຮງໜັງ"
+
+msgid "Circle"
+msgstr "ວົງມົນ"
+
+msgid "City"
+msgstr "ເມືອງ"
+
+msgid "Class"
+msgstr "Class"
+
+msgid "Classes"
+msgstr "ຄລາສ"
+
+msgid "Classic"
+msgstr "ຄລາດສິກ"
+
+msgid "Classical"
+msgstr "Classical"
+
+msgid "Clean"
+msgstr "ທຳຄວາມສະອາດ"
+
+msgid "Cleanup"
+msgstr "ທຳຄວາມສະອາດ"
+
+msgid "Clear"
+msgstr "ລ້າງ"
+
+msgid "&Clear"
+msgstr "&ລຶບລ້າງ"
+
+msgid "_Clear"
+msgstr "_ລ້າງ"
+
+msgid "C&lear"
+msgstr ""
+
+msgid "Clear All"
+msgstr "ລຶບທັງໝົດ"
+
+msgid "Clear History"
+msgstr "ລຶບປະຫວັດ"
+
+msgid "Clear history"
+msgstr ""
+
+msgid "Clear List"
+msgstr "ລຶບລ້າງລາຍຊື່"
+
+msgid "Client"
+msgstr "ໄຄລແອນ"
+
+msgid "Clip"
+msgstr "ຄລິບ"
+
+msgid "Clipboard"
+msgstr "ຄລິບບອດ"
+
+msgid "Clock"
+msgstr "ໂມງ"
+
+msgid "Clockwise"
+msgstr "ຕາມເຂັມໂມງ"
+
+msgid "Clone"
+msgstr "ສຳເນົາ"
+
+msgid "Close"
+msgstr "ປິດ"
+
+msgid "&Close"
+msgstr "&ປິດ"
+
+msgid "_Close"
+msgstr "_ປິດ"
+
+msgid "Close All"
+msgstr "ປິດທັງໝົດ"
+
+msgid "Close Document"
+msgstr "ປິດເອກະສານ"
+
+msgid "Close message"
+msgstr "ປິດຂໍ້ຄວາມ"
+
+msgid "Close Tab"
+msgstr "ປິດແຖບ"
+
+msgid "Close tab"
+msgstr ""
+
+msgid "Close the current tab"
+msgstr "ປິດແຖບປັດຈຸບັນ"
+
+msgid "Close this window"
+msgstr ""
+
+msgid "Close Window"
+msgstr "ປິດໜ້າຕ່າງ"
+
+msgid "Close window"
+msgstr "ປິດໜ້າຕ່າງ"
+
+msgid "Close _without Saving"
+msgstr ""
+
+msgid "Closed"
+msgstr "ປິດແລ້ວ"
+
+msgid "Cloud"
+msgstr "ຄລາວ"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "ລະຫັດ"
+
+msgid "code"
+msgstr ""
+
+msgid "Codec"
+msgstr "ໂຄເລັກ"
+
+msgid "Collapse"
+msgstr "ຫຍໍ້"
+
+msgid "Collapse All"
+msgstr "ຫຍໍ້ທັງໝົດ"
+
+msgid "Collection"
+msgstr "ຄັງເພງ"
+
+msgid "Collections"
+msgstr "ຄໍເລັກຊັນ"
+
+msgid "Colombia"
+msgstr "ໂຄລົມເບຍ"
+
+msgid "Color"
+msgstr "ສີ"
+
+msgid "color"
+msgstr ""
+
+msgid "&Color"
+msgstr "&ສີ"
+
+msgid "Color Balance"
+msgstr "ຄວາມສົມດຸນສີ"
+
+msgid "Color Management"
+msgstr "ການຈັດການສີ"
+
+msgid "Color Mode"
+msgstr "ໂໝດສີ"
+
+msgid "Color Picker"
+msgstr "ເຄື່ອງເລືອກສີ"
+
+msgid "Color Scheme"
+msgstr "ຊຸດສີ"
+
+msgid "Color scheme"
+msgstr "ຊຸດສີ"
+
+msgid "Color Space"
+msgstr "Color Space"
+
+msgid "Color theme"
+msgstr "ຮູບແບບສີ"
+
+msgid "Colorize"
+msgstr "ຍ້ອມສີ (Colorize)"
+
+msgid "Colors"
+msgstr "ສີ"
+
+msgid "Column"
+msgstr ""
+
+msgid "Column %1"
+msgstr ""
+
+msgid "Columns"
+msgstr "ຖັນ"
+
+msgid "Comma"
+msgstr ""
+
+msgid "COMMAND"
+msgstr "ຄຳສັ່ງ"
+
+msgid "Command"
+msgstr "ຄຳສັ່ງ"
+
+msgid "command"
+msgstr "ຄຳສັ່ງ"
+
+msgid "Command Line"
+msgstr "ບັນທັດຄຳສັ່ງ"
+
+msgid "Command to execute"
+msgstr ""
+
+msgid "Commands"
+msgstr "ຄຳສັ່ງ"
+
+msgid "Comment"
+msgstr "ຄຳເຫັນ"
+
+msgid "Comments"
+msgstr "ຄວາມຄິດເຫັນ"
+
+msgid "Commit"
+msgstr "ສົ່ງຂໍ້ມູນ (Commit)"
+
+msgid "Common"
+msgstr "ທົ່ວໄປ"
+
+msgid "Comoros"
+msgstr "ໂຄໂມໂຣສ"
+
+msgid "Compact"
+msgstr "ກະທັດຮັດ"
+
+msgid "Compare"
+msgstr ""
+
+msgid "Complete"
+msgstr "ສົມບູນ"
+
+msgid "Completed"
+msgstr "ສຳເລັດແລ້ວ"
+
+msgid "Completion"
+msgstr "ການຕື່ມຄຳສັ່ງ"
+
+msgid "Component"
+msgstr ""
+
+msgid "Components"
+msgstr "ອົງປະກອບ"
+
+msgid "Composer"
+msgstr "ນັກແຕ່ງເພງ"
+
+msgid "Composition"
+msgstr "ອົງປະກອບ"
+
+msgid "Compress"
+msgstr ""
+
+msgid "Compression"
+msgstr "ການບີບອັດ"
+
+msgid "Computer"
+msgstr "ຄອມພິວເຕີ"
+
+msgid "Condition"
+msgstr "ເງື່ອນໄຂ"
+
+msgid "Confidential"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Configure"
+msgstr "ຕັ້ງຄ່າ"
+
+msgid "Configure..."
+msgstr "ກຳນົດຄ່າ..."
+
+msgid "Configure %1"
+msgstr "ກຳນົດຄ່າ %1"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "ກຳນົດຄ່າທາງລັດແປ້ນພິມ"
+
+msgid "Configure Plugins"
+msgstr "ຕັ້ງຄ່າປັ໊ກອິນ"
+
+msgid "Configure Toolbars"
+msgstr "ກຳນົດຄ່າແຖບເຄື່ອງມື"
+
+msgid "Configure Web Shortcuts..."
+msgstr ""
+
+msgid "Confirm"
+msgstr "ຢືນຢັນ"
+
+msgid "Confirmation"
+msgstr "ການຢືນຢັນ"
+
+msgid "Confirmation Required"
+msgstr ""
+
+msgid "Confirmed"
+msgstr ""
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "ຂັດແຍ່ງກັບທາງລັດແອັບພລິເຄຊັນມາດຕະຖານ"
+
+msgid "Connect"
+msgstr "ເຊື່ອມຕໍ່"
+
+msgid "C_onnect"
+msgstr "_ເຊື່ອມຕໍ່"
+
+msgid "Connected"
+msgstr "ເຊື່ອມຕໍ່ແລ້ວ"
+
+msgid "Connecting"
+msgstr ""
+
+msgid "Connecting..."
+msgstr "ກຳລັງເຊື່ອມຕໍ່..."
+
+msgid "Connection"
+msgstr ""
+
+msgid "Connection Failed"
+msgstr ""
+
+msgid "Connection Settings"
+msgstr "ການຕັ້ງຄ່າການເຊື່ອມຕໍ່"
+
+msgid "Connections"
+msgstr "ການເຊື່ອມຕໍ່"
+
+msgid "Console"
+msgstr "ຄອນໂຊນ"
+
+msgid "Constant"
+msgstr "ຄ່າຄົງທີ່"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+
+msgid "Contact"
+msgstr "ຂໍ້ມູນຕິດຕໍ່"
+
+msgid "Contacts"
+msgstr "ລາຍຊື່ຜູ້ຕິດຕໍ່"
+
+msgid "Container"
+msgstr ""
+
+msgid "Contains"
+msgstr "ມີຄຳວ່າ"
+
+msgid "contains"
+msgstr "ມີຄຳວ່າ"
+
+msgid "Content"
+msgstr "ເນື້ອຫາ"
+
+msgid "Content Type"
+msgstr "ປະເພດເນື້ອຫາ"
+
+msgid "Contents"
+msgstr "ຈຳນວນໄຟລ໌"
+
+msgid "_Contents"
+msgstr ""
+
+msgid "Context"
+msgstr "ບໍລິບົດ"
+
+msgid "Continue"
+msgstr "ດຳເນີນການຕໍ່"
+
+msgid "_Continue"
+msgstr ""
+
+msgid "Contrast"
+msgstr "ຄວາມຄົມຊັດ"
+
+msgid "Contributor"
+msgstr "ຜູ້ປະກອບສ່ວນ"
+
+msgid "Control"
+msgstr ""
+
+msgid "Convert"
+msgstr "ແປງ"
+
+msgid "Convert to Path"
+msgstr ""
+
+msgid "Cookies"
+msgstr "ຄຸກກີ້"
+
+msgid "Coordinates"
+msgstr "Coordinates"
+
+msgid "Copied to clipboard"
+msgstr "ສຳເນົາໃສ່ຄລິບບອດແລ້ວ"
+
+msgid "Coptic"
+msgstr ""
+
+msgid "Copy"
+msgstr "ສຳເນົາ"
+
+msgid "copy"
+msgstr "ສຳເນົາ"
+
+msgid "&Copy"
+msgstr "&ກັອບປີ້"
+
+msgid "_Copy"
+msgstr "_ສຳເນົາ"
+
+msgid "Copy Email Address"
+msgstr ""
+
+msgid "&Copy Here"
+msgstr "&ສຳເນົາມາບ່ອນນີ້"
+
+msgid "Copy Image"
+msgstr ""
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Link Address"
+msgstr ""
+
+msgid "_Copy Link Address"
+msgstr "_ຄັດລອກທີ່ຢູ່ລິ້ງ"
+
+msgid "Copy Location"
+msgstr "ສຳເນົາທີ່ຢູ່"
+
+msgid "Copy of %1"
+msgstr "ສຳເນົາຂອງ %1"
+
+msgid "Copy selection to clipboard"
+msgstr ""
+
+msgid "Copy Text"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "ສຳເນົາໃສ່ຄລິບບອດ"
+
+msgid "Copy to clipboard"
+msgstr "ຄັດລອກໄປຍັງຄລິບບອດ"
+
+msgid "Copy URL"
+msgstr "ຄັດລອກ URL"
+
+msgid "Copying files"
+msgstr ""
+
+msgid "Copyright"
+msgstr "ລິຂະສິດ"
+
+msgid "Cost"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "ຄອສຕາຣິກາ"
+
+msgid "Could not open %1"
+msgstr ""
+
+msgid "Could not open file."
+msgstr ""
+
+msgid "Count"
+msgstr "ຈຳນວນ"
+
+msgid "Counter"
+msgstr "ຕົວນັບ"
+
+msgid "Country"
+msgstr "ປະເທດ"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "ສ້າງ"
+
+msgid "C_reate"
+msgstr "ສ້_າງ"
+
+msgid "Create Folder"
+msgstr "ສ້າງໂຟນເດີ"
+
+msgid "Create New"
+msgstr "ສ້າງໃຫມ່"
+
+msgid "Created"
+msgstr "ສ້າງ"
+
+msgid "Creation Date"
+msgstr ""
+
+msgid "Creation date"
+msgstr "ວັນທີສ້າງ"
+
+msgid "Creator"
+msgstr "ຜູ້ສ້າງ"
+
+msgid "Credentials"
+msgstr "ຂໍ້ມູນປະຈຳຕົວ"
+
+msgid "Credits"
+msgstr "ເຄຣດິດ"
+
+msgid "Criteria"
+msgstr "ເງື່ອນໄຂ"
+
+msgid "Critical"
+msgstr "ຂັ້ນວິກິດ"
+
+msgid "Croatia"
+msgstr "ໂຄຣເອເຊຍ"
+
+msgid "Croatian"
+msgstr "ໂຄຣເອເຊຍ"
+
+msgid "Crop"
+msgstr "ຕັດຂອບ"
+
+msgid "Crop image"
+msgstr "ຕັດຮູບ"
+
+msgid "Cross"
+msgstr ""
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr ""
+
+msgid "Cuba"
+msgstr "ກູບາ"
+
+msgid "Currency"
+msgstr "ສະກຸນເງິນ"
+
+msgid "Current"
+msgstr "ປັດຈຸບັນ"
+
+msgid "Current Maintainer"
+msgstr ""
+
+msgid "Current maintainer"
+msgstr ""
+
+msgid "Cursor"
+msgstr ""
+
+msgid "Curve"
+msgstr "ເສັ້ນໂຄ້ງ"
+
+msgid "Curves"
+msgstr "ເສັ້ນໂຄ້ງ"
+
+msgid "Custom"
+msgstr "ກຳນົດເອງ"
+
+msgid "Custom..."
+msgstr "ກຳນົດເອງ..."
+
+msgid "Custom Font"
+msgstr "ຟອນກຳນົດເອງ"
+
+msgid "Cut"
+msgstr "ຕັດ"
+
+msgid "Cu&t"
+msgstr "&ຕັດ"
+
+msgid "Cu_t"
+msgstr "_ຕັດ"
+
+msgid "Cyan"
+msgstr "ສີຟ້າຂຽວ"
+
+msgid "Cyprus"
+msgstr "ໄຊປຣັສ"
+
+msgid "Cyrillic"
+msgstr "ຊີຣີລລິກ"
+
+msgid "Czech"
+msgstr "ເຊັກ"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr ""
+
+msgid "%d:%02d"
+msgstr ""
+
+msgid "Daily"
+msgstr "ລາຍວັນ"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Daniel Molkentin"
+msgstr ""
+
+msgid "Daniel Vrátil"
+msgstr ""
+
+msgid "Danish"
+msgstr "Danish"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr "ມືດ"
+
+msgid "Dark Mode"
+msgstr ""
+
+msgid "Darken"
+msgstr "Darken"
+
+msgid "Dashboard"
+msgstr "ແດສບອດ"
+
+msgid "Dashed"
+msgstr ""
+
+msgid "Data"
+msgstr "ຂໍ້ມູນ"
+
+msgid "Database"
+msgstr "ຖານຂໍ້ມູນ"
+
+msgid "Date"
+msgstr "ວັນທີ"
+
+msgid "date"
+msgstr "ວັນທີ"
+
+msgid "Date & Time"
+msgstr "ວັນທີ & ເວລາ"
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "Date Format"
+msgstr "ຮູບແບບວັນທີ"
+
+msgid "Date Modified"
+msgstr ""
+
+msgid "David Edmundson"
+msgstr ""
+
+msgid "Day"
+msgstr "ວັນ"
+
+msgid "Days"
+msgstr "ວັນ"
+
+msgid "days"
+msgstr "ມື້"
+
+msgid "day(s)"
+msgstr ""
+
+msgid "D-Bus name to use for this instance"
+msgstr ""
+
+msgid "Debug"
+msgstr "ດີບັກ"
+
+msgid "Debugger"
+msgstr ""
+
+msgid "Debugging"
+msgstr "ການດີບັກ"
+
+msgid "December"
+msgstr "ທັນວາ"
+
+msgid "Decimal"
+msgstr ""
+
+msgid "Decline"
+msgstr "ປະຕິເສດ"
+
+msgid "Decrease Font Size"
+msgstr "ຫຼຸດຂະໜາດຟອນ"
+
+msgid "Decrease Indent"
+msgstr ""
+
+msgid "Decrease Volume"
+msgstr "ຫຼຸດລະດັບສຽງ"
+
+msgid "Decrypt"
+msgstr "ຖອດລະຫັດ"
+
+msgid "Default"
+msgstr "ຄ່າເລີ່ມຕົ້ນ"
+
+msgid "default"
+msgstr ""
+
+msgid "Defaults"
+msgstr "ຄ່າເລີ່ມຕົ້ນ"
+
+msgid "Definition"
+msgstr ""
+
+msgid "degrees"
+msgstr "ອົງສາ"
+
+msgid "Del"
+msgstr "ລຶບ"
+
+msgid "Delay"
+msgstr "ຄວາມໜ່ວງ"
+
+msgid "Delete"
+msgstr "ລຶບ"
+
+msgid "&Delete"
+msgstr "&ລຶບ"
+
+msgid "_Delete"
+msgstr "_ລຶບ"
+
+msgid "D&elete"
+msgstr "&ລຶບ"
+
+msgid "Delete..."
+msgstr "ລຶບ…"
+
+msgid "Delete %1"
+msgstr ""
+
+msgid "Delete All"
+msgstr "ລຶບທັງໝົດ"
+
+msgid "Delete File"
+msgstr "ລຶບໄຟລ໌"
+
+msgid "Delete Folder"
+msgstr "ລຶບໂຟນເດີ"
+
+msgid "Delete Image"
+msgstr "ລຶບຮູບ"
+
+msgid "Delete Selected"
+msgstr "ລຶບທີ່ເລືອກ"
+
+msgid "Delete selection"
+msgstr "ລຶບທີ່ເລືອກ"
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "ຖືກລຶບ"
+
+msgid "Deletion"
+msgstr ""
+
+msgid "Delimiter"
+msgstr ""
+
+msgid "Delta"
+msgstr "ເດລຕາ"
+
+msgid "Denmark"
+msgstr "ເດນມາກ"
+
+msgid "Density"
+msgstr "ຄວາມໜາແໜ້ນ"
+
+msgid "Deny"
+msgstr "ປະຕິເສດ"
+
+msgid "Dependencies"
+msgstr ""
+
+msgid "Depth"
+msgstr "ຄວາມເລິກ"
+
+msgid "Desaturate"
+msgstr "ລົດຄວາມອີ່ມຕົວຂອງສີ"
+
+msgid "Descending"
+msgstr "ຈາກໃຫຍ່ຫານ້ອຍ"
+
+msgid "Description"
+msgstr "ຄຳອະທິບາຍ"
+
+msgid "&Description"
+msgstr "&ຄຳອະທິບາຍ"
+
+msgid "Deselect"
+msgstr "ຍົກເລີກການເລືອກ"
+
+msgid "Deselect All"
+msgstr ""
+
+msgid "Desert"
+msgstr ""
+
+msgid "Desktop"
+msgstr "ໜ້າຈໍ"
+
+msgid "Destination"
+msgstr "ປາຍທາງ"
+
+msgid "Detach"
+msgstr ""
+
+msgid "_Detach Tab"
+msgstr "_ແຍກແຖບອອກ"
+
+msgid "Details"
+msgstr "ລາຍລະອຽດ"
+
+msgid "&Details"
+msgstr "&ລາຍລະອຽດ"
+
+msgid "_Details"
+msgstr "_ລາຍລະອຽດ"
+
+msgid "Details..."
+msgstr "ລາຍລະອຽດ..."
+
+msgid "Devanagari"
+msgstr "ຕົວອັກສອນເທວະນາກາລີ"
+
+msgid "Developer"
+msgstr "ນັກພັດທະນາ"
+
+msgid "Development"
+msgstr "ການພັດທະນາ"
+
+msgid "Device"
+msgstr "ອຸປະກອນ"
+
+msgid "device"
+msgstr ""
+
+msgid "Device Information"
+msgstr "ຂໍ້ມູນອຸປະກອນ"
+
+msgid "Device Status"
+msgstr "ສະຖານະອຸປະກອນ"
+
+msgid "Device type"
+msgstr "ປະເພດອຸປະກອນ"
+
+msgid "Devices"
+msgstr "ອຸປະກອນ"
+
+msgid "Diagnostics"
+msgstr "ການວິເຄາະບັນຫາ"
+
+msgid "Diagonal"
+msgstr ""
+
+msgid "Dialog"
+msgstr "ກ່ອງໂຕ້ຕອບ"
+
+msgid "Dialogs"
+msgstr "ກ່ອງໂຕ້ຕອບ"
+
+msgid "Diamond"
+msgstr ""
+
+msgid "Dictionary"
+msgstr "ວັດຈະນານຸກົມ"
+
+msgid "Diff"
+msgstr ""
+
+msgid "Difference"
+msgstr "ຄວາມແຕກຕ່າງ"
+
+msgid "Difficulty"
+msgstr ""
+
+msgid "Digit"
+msgstr "ຕົວເລກ"
+
+msgid "Dimensions"
+msgstr "ຂະໜາດ"
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "Direction"
+msgstr "ທິດທາງ"
+
+msgid "Directories"
+msgstr ""
+
+msgid "Directory"
+msgstr "ໄດເຣັກທໍຣີ"
+
+msgid "directory"
+msgstr ""
+
+msgid "Directory Name"
+msgstr "ຊື່ໄດເຣັກທໍຣີ"
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disable connection to session manager"
+msgstr ""
+
+msgid "Disabled"
+msgstr "ປິດໃຊ້ງານ"
+
+msgid "disabled"
+msgstr "ປິດການໃຊ້ງານ"
+
+msgid "Disc"
+msgstr ""
+
+msgid "Disc Number"
+msgstr "ເລກລຳດັບແຜ່ນ"
+
+msgid "Discard"
+msgstr "ຖິ້ມ"
+
+msgid "_Discard"
+msgstr "_ຍົກເລີກ"
+
+msgid "Discard All"
+msgstr "ບໍ່ບັນທຶກທັງໝົດ"
+
+msgid "Discard Changes"
+msgstr "ຖິ້ມການປ່ຽນແປງ"
+
+msgid "Discard changes"
+msgstr ""
+
+msgid "_Discard Changes"
+msgstr "_ບໍ່ເອົາການປ່ຽນແປງ"
+
+msgid "Discharging"
+msgstr ""
+
+msgid "Disconnect"
+msgstr "ຕັດການເຊື່ອມຕໍ່"
+
+msgid "Disconnected"
+msgstr "ຕັດການເຊື່ອມຕໍ່ແລ້ວ"
+
+msgid "Discover"
+msgstr ""
+
+msgid "Discrete"
+msgstr "Discrete"
+
+msgid "Disk"
+msgstr "Disk"
+
+msgid "Dismiss"
+msgstr "ຍົກເລີກ"
+
+msgid "Display"
+msgstr "ການສະແດງຜົນ"
+
+msgid "Display Configuration"
+msgstr ""
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "Dissolve"
+msgstr "Dissolve"
+
+msgid "Distance"
+msgstr "ໄລຍະຫ່າງ"
+
+msgid "Divide"
+msgstr "Divide"
+
+msgid "Djibouti"
+msgstr "ຈິບູຕີ"
+
+msgid "Dmitry Suzdalev"
+msgstr ""
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "ບໍ່ຕ້ອງຖາມອີກ"
+
+msgid "Do Not Cancel"
+msgstr ""
+
+msgid "Do not change the actual backend data."
+msgstr ""
+
+msgid "Do not show again"
+msgstr ""
+
+msgid "Do not show this message again"
+msgstr "ບໍ່ຕ້ອງສະແດງຂໍ້ຄວາມນີ້ອີກ"
+
+msgid "Do Nothing"
+msgstr ""
+
+msgid "Do nothing"
+msgstr "ບໍ່ຕ້ອງເຮັດຫຍັງ"
+
+msgid "Document"
+msgstr "ເອກະສານ"
+
+msgid "Document Properties"
+msgstr ""
+
+msgid "Document to open"
+msgstr "ເອກະສານທີ່ຈະເປີດ"
+
+msgid "Document Viewer"
+msgstr "ຕົວເບິ່ງເອກະສານ"
+
+msgid "Documentation"
+msgstr "ເອກະສານ"
+
+msgid "Documents"
+msgstr "ເອກະສານ"
+
+msgid "does not contain"
+msgstr ""
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "ໂດເມນ"
+
+msgid "Dominica"
+msgstr "ໂດມິນິກາ"
+
+msgid "Dominican Republic"
+msgstr "ສາທາລະນະລັດ ໂດມິນິກັນ"
+
+msgid "Donate"
+msgstr "ບໍລິຈາກ"
+
+msgid "Done"
+msgstr "ສຳເລັດ"
+
+msgid "Dot"
+msgstr ""
+
+msgid "Dots"
+msgstr ""
+
+msgid "Dotted"
+msgstr ""
+
+msgid "Double"
+msgstr "ດັບເບິນ"
+
+msgid "Down"
+msgstr "ລົງ"
+
+msgid "Download"
+msgstr "ດາວໂຫຼດ"
+
+msgid "Download Manager"
+msgstr ""
+
+msgid "Downloaded"
+msgstr "ດາວໂຫຼດແລ້ວ"
+
+msgid "Downloading"
+msgstr "ກຳລັງດາວໂຫລດ"
+
+msgid "Downloading..."
+msgstr "ກຳລັງດາວໂຫຼດ…"
+
+msgid "Downloads"
+msgstr "ດາວໂຫຼດ"
+
+msgid "Dr."
+msgstr ""
+
+msgid "Draft"
+msgstr "ສະບັບຮ່າງ"
+
+msgid "Drafts"
+msgstr ""
+
+msgid "Draw"
+msgstr ""
+
+msgid "Drive"
+msgstr "Drive"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr ""
+
+msgid "Due Date"
+msgstr ""
+
+msgid "Duplicate"
+msgstr "ສຳເນົາ"
+
+msgid "_Duplicate"
+msgstr "_ສຳເນົາ"
+
+msgid "Duplicates"
+msgstr "ຊ້ຳກັນ"
+
+msgid "Duration"
+msgstr "ໄລຍະເວລາ"
+
+msgid "Dutch"
+msgstr "ດັດຊ໌"
+
+msgid "DVD"
+msgstr "ດີວີດີ"
+
+msgid "DVD+R"
+msgstr ""
+
+msgid "DVD-R"
+msgstr ""
+
+msgid "DVD-RAM"
+msgstr ""
+
+msgid "DVD+RW"
+msgstr ""
+
+msgid "DVD-RW"
+msgstr ""
+
+msgid "E"
+msgstr "E"
+
+msgid "EAP"
+msgstr ""
+
+msgid "East"
+msgstr "ຕາເວັນອອກ"
+
+msgid "Easy"
+msgstr ""
+
+msgid "Echo"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "ເອກວາດໍ"
+
+msgid "Edge"
+msgstr "ຂອບ"
+
+msgid "Edit"
+msgstr "ແກ້ໄຂ"
+
+msgid "&Edit"
+msgstr "&ແກ້ໄຂ"
+
+msgid "_Edit"
+msgstr "_ແກ້ໄຂ"
+
+msgid "Edit..."
+msgstr "ແກ້ໄຂ..."
+
+msgid "&Edit..."
+msgstr "&ແກ້ໄຂ..."
+
+msgid "Edit %1"
+msgstr "ແກ້ໄຂ %1"
+
+msgid "Edit Bookmark"
+msgstr "ແກ້ໄຂທີ່ຄັ່ນໜ້າ"
+
+msgid "Edit Filter"
+msgstr "ແກ້ໄຂຕົວຂັດຕອງ"
+
+msgid "Edit Image"
+msgstr ""
+
+msgid "Editing"
+msgstr "ການແກ້ໄຂ"
+
+msgid "Editor"
+msgstr "ຕົວແກ້ໄຂ"
+
+msgid "Education"
+msgstr "ການສຶກສາ"
+
+msgid "Effects"
+msgstr "ເອັບເຟັກ"
+
+msgid "Egypt"
+msgstr "ເອຢິບ"
+
+msgid "Egyptian"
+msgstr ""
+
+msgid "Eike Hein"
+msgstr ""
+
+msgid "Eject"
+msgstr ""
+
+msgid "_Eject"
+msgstr ""
+
+msgid "El Salvador"
+msgstr "ເອລ ຊັນວາດໍ"
+
+msgid "Electronic"
+msgstr ""
+
+msgid "Element"
+msgstr "ທາດ"
+
+msgid "Ellipse"
+msgstr "ເອລິບ"
+
+msgid "Email"
+msgstr "ອີເມວ"
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Email Address"
+msgstr "ທີ່ຢູ່ອີເມວ"
+
+msgid "Email address"
+msgstr ""
+
+msgid "Emails"
+msgstr ""
+
+msgid "Embedded"
+msgstr "ຝັງໃນຕົວ"
+
+msgid "Emboss"
+msgstr "ນູນ"
+
+msgid "Emphasis"
+msgstr ""
+
+msgid "Empty"
+msgstr ""
+
+msgid "empty"
+msgstr "ວ່າງເປົ່າ"
+
+msgid "(empty)"
+msgstr ""
+
+msgid "<empty>"
+msgstr "<ວ່າງ>"
+
+msgid "Empty Trash"
+msgstr "ເທຖັງຂີ້ເຫຍື້ອ"
+
+msgid "Enable"
+msgstr "ເປີດໃຊ້ງານ"
+
+msgid "Enable system tray icon"
+msgstr ""
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+
+msgid "Enabled"
+msgstr "ເປີດໃຊ້ງານ"
+
+msgid "Encoder"
+msgstr "ຕົວເຂົ້າລະຫັດ"
+
+msgid "Encoding"
+msgstr "ການເຂົ້າລະຫັດ"
+
+msgid "_Encoding"
+msgstr "_ການເຂົ້າລະຫັດ"
+
+msgid "Encrypt"
+msgstr ""
+
+msgid "&Encrypt"
+msgstr ""
+
+msgid "Encrypted"
+msgstr ""
+
+msgid "Encryption"
+msgstr "ການເຂົ້າລະຫັດ"
+
+msgid "End"
+msgstr "ສິ້ນສຸດ"
+
+msgid "end"
+msgstr "ສິ້ນສຸດ"
+
+msgid "End Date"
+msgstr ""
+
+msgid "End Time"
+msgstr "ເວລາສິ້ນສຸດ"
+
+msgid "ends with"
+msgstr "ລົງທ້າຍດ້ວຍ"
+
+msgid "Energy"
+msgstr "ພະລັງງານ"
+
+msgid "Engine"
+msgstr ""
+
+msgid "Engineering"
+msgstr ""
+
+msgid "English"
+msgstr "ອັງກິດ"
+
+msgid "Enter"
+msgstr "ປ້ອນ"
+
+msgid "Enter password"
+msgstr ""
+
+msgid "Entry"
+msgstr "ບັນທຶກ"
+
+msgid "Environment"
+msgstr "ສະພາບແວດລ້ອມ"
+
+msgid "equals"
+msgstr "ເທົ່າກັບ"
+
+msgid "Equation"
+msgstr "ສົມຜົນ"
+
+msgid "Equatorial Guinea"
+msgstr "ກີເນເອກົວໂຕຣຽວ"
+
+msgid "Erase"
+msgstr "ລຶບ"
+
+msgid "Eraser"
+msgstr "ຢາງລຶບ"
+
+msgid "Eritrea"
+msgstr "ເອຣິເທຣຍ"
+
+msgid "ERROR"
+msgstr ""
+
+msgid "Error"
+msgstr "ຂໍ້ຜິດພາດ"
+
+msgid "error"
+msgstr "ຂໍ້ຜິດພາດ"
+
+msgid "Error: %1"
+msgstr "ຂໍ້ຜິດພາດ: %1"
+
+msgid "Error message"
+msgstr "ຂໍ້ຄວາມຜິດພາດ"
+
+msgid "Errors"
+msgstr "ຂໍ້ຜິດພາດ"
+
+msgid "Escape"
+msgstr ""
+
+msgid "Esperanto"
+msgstr "ເອສເປຣັນໂຕ"
+
+msgid "Estonia"
+msgstr "ເອສໂຕເນຍ"
+
+msgid "Estonian"
+msgstr "ເອສໂຕເນຍ"
+
+msgid "Ethiopia"
+msgstr "ເອທິໂອເປຍ"
+
+msgid "Ethiopic"
+msgstr ""
+
+msgid "Europe"
+msgstr "ເອີຣົບ"
+
+msgid "Evaluate"
+msgstr "ປະເມີນຄ່າ"
+
+msgid "Event"
+msgstr "ເຫດການ"
+
+msgid "Events"
+msgstr ""
+
+msgid "Everyone"
+msgstr "ທຸກຄົນ"
+
+msgid "Everything"
+msgstr ""
+
+msgid "Exact"
+msgstr "ຕົງກັນທັງໝົດ"
+
+msgid "Example"
+msgstr "ຕົວຢ່າງ"
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exception"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Exclusion"
+msgstr "ການຍົກເວັ້ນ"
+
+msgid "Executable"
+msgstr ""
+
+msgid "Execute"
+msgstr "ປະຕິບັດການ"
+
+msgid "Exit"
+msgstr ""
+
+msgid "Exit Full Screen"
+msgstr ""
+
+msgid "Exit Fullscreen"
+msgstr "ອອກຈາກໂໝດເຕັມຈໍ"
+
+msgid "Exiting..."
+msgstr ""
+
+msgid "Expand"
+msgstr "ຂະຫຍາຍ"
+
+msgid "Expand All"
+msgstr "ຂະຫຍາຍທັງໝົດ"
+
+msgid "Experimental"
+msgstr "ທົດລອງ"
+
+msgid "Expired"
+msgstr ""
+
+msgid "Expires"
+msgstr "ໝົດອາຍຸ"
+
+msgid "Export"
+msgstr "ສົ່ງອອກ"
+
+msgid "&Export"
+msgstr "&ສົ່ງອອກ"
+
+msgid "_Export"
+msgstr "_ສົ່ງອອກ"
+
+msgid "Export..."
+msgstr "ສົ່ງອອກ…"
+
+msgid "&Export..."
+msgstr ""
+
+msgid "_Export..."
+msgstr "_ສົ່ງອອກ…"
+
+msgid "E&xport..."
+msgstr "&ສົ່ງອອກ..."
+
+msgid "Export As..."
+msgstr ""
+
+msgid "Export failed"
+msgstr ""
+
+msgid "Export Options"
+msgstr ""
+
+msgid "Exposure"
+msgstr "ການຮັບແສງ"
+
+msgid "Expression"
+msgstr ""
+
+msgid "Extended"
+msgstr ""
+
+msgid "Extension"
+msgstr "ນາມສະກຸນ"
+
+msgid "Extensions"
+msgstr "ນາມສະກຸນ"
+
+msgid "Extra Toolbar"
+msgstr "ແຖບເຄື່ອງມືເພີ່ມເຕີມ"
+
+msgid "Extract"
+msgstr "ແຍກອອກ"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "Fade"
+
+msgid "Fahrenheit"
+msgstr "ຟາເຣນຮາຍ"
+
+msgid "Failed"
+msgstr "ລົ້ມເຫຼວ"
+
+msgid "False"
+msgstr "ເທັດ"
+
+msgid "false"
+msgstr "ເທັດ"
+
+msgid "Family"
+msgstr "ຄອບຄົວ"
+
+msgid "Family Name"
+msgstr ""
+
+msgid "Fast"
+msgstr ""
+
+msgid "Faster"
+msgstr ""
+
+msgid "Fatal Error"
+msgstr "ຂໍ້ຜິດພາດຮ້າຍແຮງ"
+
+msgid "Favorite"
+msgstr "ລາຍການໂປດ"
+
+msgid "Favorites"
+msgstr "ລາຍການໂປດ"
+
+msgid "Fax"
+msgstr ""
+
+msgid "Features"
+msgstr "ຄຸນສົມບັດ"
+
+msgid "February"
+msgstr "ກຸມພາ"
+
+msgid "Feeds"
+msgstr ""
+
+msgid "Felipe Kinoshita"
+msgstr ""
+
+msgid "Fetch"
+msgstr ""
+
+msgid "Fiji"
+msgstr "ຟິຈິ"
+
+msgid "FILE"
+msgstr "ໄຟລ໌"
+
+msgid "File"
+msgstr "ໄຟລ໌"
+
+msgid "file"
+msgstr ""
+
+msgid "&File"
+msgstr "&ໄຟລ໌"
+
+msgid "_File"
+msgstr "_ໄຟລ໌"
+
+msgid "[FILE...]"
+msgstr ""
+
+msgid "File Already Exists"
+msgstr "ມີໄຟລ໌ຢູ່ແລ້ວ"
+
+msgid "File already exists"
+msgstr "ໄຟລມີຢູ່ແລ້ວ"
+
+msgid "File Exists"
+msgstr "ມີໄຟລ໌ຢູ່ແລ້ວ"
+
+msgid "File Format"
+msgstr "ຮູບແບບໄຟລ໌"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "ຕົວຈັດການໄຟລ໌"
+
+msgid "File Name"
+msgstr "ຊື່ໄຟລ໌"
+
+msgid "File name"
+msgstr "ຊື່ໄຟລ໌"
+
+msgid "File Not Found"
+msgstr "ບໍ່ພົບໄຟລ໌"
+
+msgid "File not found"
+msgstr "ບໍ່ພົບໄຟລ໌"
+
+msgid "File Path"
+msgstr ""
+
+msgid "File Properties"
+msgstr "ຄຸນສົມບັດໄຟລ໌"
+
+msgid "File Size"
+msgstr "ຂະໜາດໄຟລ໌"
+
+msgid "File size"
+msgstr "ຂະໜາດໄຟລ໌"
+
+msgid "File System"
+msgstr "ລະບົບໄຟລ໌"
+
+msgid "File to open"
+msgstr ""
+
+msgid "File Transfer"
+msgstr "ການສົ່ງໄຟລ"
+
+msgid "File Type"
+msgstr "ປະເພດໄຟລ໌"
+
+msgid "Filename"
+msgstr "ຊື່ໄຟລ໌"
+
+msgid "Files"
+msgstr "ໄຟລ໌"
+
+msgid "Filesystem"
+msgstr "ລະບົບໄຟລ໌"
+
+msgid "Fill"
+msgstr "ຕື່ມສີ"
+
+msgid "Fill Color"
+msgstr "ສີຕື່ມ"
+
+msgid "Filter"
+msgstr "ກັ່ນຕອງ"
+
+msgid "Filter..."
+msgstr "ກັ່ນຕອງ…"
+
+msgid "Filters"
+msgstr "ຕົວຂັດຕອງ"
+
+msgid "Final"
+msgstr "ສະບັບສົມບູນ"
+
+msgid "Find"
+msgstr "ຄົ້ນຫາ"
+
+msgid "&Find"
+msgstr ""
+
+msgid "_Find"
+msgstr ""
+
+msgid "F&ind"
+msgstr "&ຄົ້ນຫາ"
+
+msgid "Find..."
+msgstr ""
+
+msgid "_Find..."
+msgstr "_ຄົ້ນຫາ…"
+
+msgid "Find and Replace"
+msgstr ""
+
+msgid "Find Next"
+msgstr ""
+
+msgid "Find _Next"
+msgstr ""
+
+msgid "Find Ne_xt"
+msgstr ""
+
+msgid "Find Previous"
+msgstr ""
+
+msgid "Find Pre_vious"
+msgstr ""
+
+msgid "Fingerprint"
+msgstr ""
+
+msgid "Finish"
+msgstr "ສຳເລັດ"
+
+msgid "Finished"
+msgstr "ສຳເລັດ"
+
+msgid "Finland"
+msgstr "ຟິນແລນ"
+
+msgid "Finnish"
+msgstr "ຟິນແລນ"
+
+msgid "First"
+msgstr "ກ່ອນໝູ່"
+
+msgid "First Page"
+msgstr ""
+
+msgid "Fit"
+msgstr ""
+
+msgid "Fit Width"
+msgstr ""
+
+msgid "Fixed"
+msgstr "ຄົງທີ່"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr ""
+
+msgid "Flags"
+msgstr "ແຟລັກ (Flags)"
+
+msgid "Flash"
+msgstr "ແຟລຊ"
+
+msgid "Flat"
+msgstr ""
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "ພິກ"
+
+msgid "Flip Horizontally"
+msgstr "ພິກລວງນອນ"
+
+msgid "Flip horizontally"
+msgstr "ປີ້ນຕາມແນວນອນ"
+
+msgid "Flip Vertically"
+msgstr "ພິກລວງຕັ້ງ"
+
+msgid "Flip vertically"
+msgstr "ປີ້ນຕາມແນວຕັ້ງ"
+
+msgid "Float"
+msgstr ""
+
+msgid "Floating"
+msgstr ""
+
+msgid "Flow"
+msgstr "ການໄຫຼ"
+
+msgid "flower"
+msgstr ""
+
+msgid "Focal Length"
+msgstr "ຄວາມຍາວໂຟກັສ"
+
+msgid "Focus"
+msgstr "ໂຟກັສ"
+
+msgid "Folder"
+msgstr "ໂຟນເດີ"
+
+msgid "Folder name"
+msgstr "ຊື່ໂຟນເດີ"
+
+msgid "Folders"
+msgstr "ໂຟນເດີ"
+
+msgid "Folk"
+msgstr ""
+
+msgid "Font"
+msgstr "ຟອນ"
+
+msgid "&Font"
+msgstr ""
+
+msgid "Font Color"
+msgstr ""
+
+msgid "Font Family"
+msgstr "ຕະກຸນຕົວອັກສອນ"
+
+msgid "Font Size"
+msgstr "ຂະໜາດຟອນ"
+
+msgid "Font size"
+msgstr "ຂະໜາດຕົວອັກສອນ"
+
+msgid "Fonts"
+msgstr "ຟອນ"
+
+msgid "_Fonts"
+msgstr "_ຟອນ"
+
+msgid "Food"
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid "Force"
+msgstr "ແຮງ"
+
+msgid "Forecast"
+msgstr "ການຄາດຄະເນ"
+
+msgid "Foreground"
+msgstr "ພື້ນໜ້າ"
+
+msgid "Foreground Color"
+msgstr "ສີພື້ນໜ້າ"
+
+msgid "Foreground color"
+msgstr "ສີພື້ນໜ້າ"
+
+msgid "forever"
+msgstr ""
+
+msgid "Form"
+msgstr "ຟອມ"
+
+msgid "Format"
+msgstr "ຮູບແບບ"
+
+msgid "Formatting"
+msgstr "ການຈັດຮູບແບບ"
+
+msgid "Former Maintainer"
+msgstr ""
+
+msgid "Former maintainer"
+msgstr ""
+
+msgid "Formula"
+msgstr ""
+
+msgid "Forward"
+msgstr "ໄປໜ້າ"
+
+msgid "&Forward"
+msgstr ""
+
+msgid "_Forward"
+msgstr "_ຕໍ່ໄປ"
+
+msgid "Fraction"
+msgstr "ເສດສ່ວນ"
+
+msgid "Frame"
+msgstr "ເຟຣມ"
+
+msgid "Framerate"
+msgstr ""
+
+msgid "Frames"
+msgstr "ເຟຣມ"
+
+msgid "France"
+msgstr "ຝຣັ່ງ"
+
+msgid "Free"
+msgstr ""
+
+msgid "French"
+msgstr "ຝຣັ່ງ"
+
+msgid "French Guiana"
+msgstr "ຝຣັ່ງກາຍອານາ"
+
+msgid "Frequency"
+msgstr "ຄວາມຖີ່"
+
+msgid "Friday"
+msgstr ""
+
+msgid "Friends"
+msgstr "ເພື່ອນ"
+
+msgid "From"
+msgstr "ຈາກ"
+
+msgid "from"
+msgstr "ຈາກ"
+
+msgid "From %1"
+msgstr ""
+
+msgid "Frozen"
+msgstr "ຖືກແຊ່ແຂງ"
+
+msgid "Full"
+msgstr ""
+
+msgid "Full Name"
+msgstr "ຊື່ ແລະ ນາມສະກຸນ"
+
+msgid "Full Screen"
+msgstr "ເຕັມໜ້າຈໍ"
+
+msgid "Full Screen Mode"
+msgstr ""
+
+msgid "F&ull Screen Mode"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr "ເຕັມຈໍ"
+
+msgid "_Fullscreen"
+msgstr "_ເຕັມຈໍ"
+
+msgid "Function"
+msgstr "ຟັງຊັນ"
+
+msgid "function"
+msgstr ""
+
+msgid "Functions"
+msgstr "ຟັງຊັນ"
+
+msgid "Future"
+msgstr ""
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "ກາບອງ"
+
+msgid "Galician"
+msgstr "Galician"
+
+msgid "Gallery"
+msgstr ""
+
+msgid "Gambia"
+msgstr "ແກມເບຍ"
+
+msgid "Game"
+msgstr ""
+
+msgid "&Game"
+msgstr "ເກ&ມ"
+
+msgid "Game Over"
+msgstr ""
+
+msgid "Games"
+msgstr "ເກມ"
+
+msgid "Gamma"
+msgstr "ແກມມາ"
+
+msgid "Gas"
+msgstr ""
+
+msgid "Gate"
+msgstr "ປະຕູ"
+
+msgid "Gateway"
+msgstr ""
+
+msgid "Gaussian Blur"
+msgstr "ຄວາມມົວແບບ Gaussian"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "ເພດ"
+
+msgid "General"
+msgstr "ທົ່ວໄປ"
+
+msgid "&General"
+msgstr ""
+
+msgid "General Options"
+msgstr "ຕົວເລືອກທົ່ວໄປ"
+
+msgid "General options"
+msgstr ""
+
+msgid "General Settings"
+msgstr "ການຕັ້ງຄ່າທົ່ວໄປ"
+
+msgid "Generate"
+msgstr "ສ້າງ (Generate)"
+
+msgid "Generic"
+msgstr "ທົ່ວໄປ"
+
+msgid "Genre"
+msgstr "ປະເພດ"
+
+msgid "Genres"
+msgstr "ປະເພດ"
+
+msgid "Geometry"
+msgstr "ເລຂາຄະນິດ"
+
+msgid "George Staikos"
+msgstr ""
+
+msgid "Georgia"
+msgstr "ຈໍເຈຍ"
+
+msgid "Georgian"
+msgstr "ຈໍເຈຍ"
+
+msgid "German"
+msgstr "ເຢຍລະມັນ"
+
+msgid "Germany"
+msgstr "ເຢຍລະມັນ"
+
+msgid "Get New..."
+msgstr ""
+
+msgid "Get New Plugins..."
+msgstr ""
+
+msgid "Ghana"
+msgstr "ການາ"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "ຊື່"
+
+msgid "Global"
+msgstr "ທົ່ວໄປ"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr ""
+
+msgid "&Go"
+msgstr "&ໄປ"
+
+msgid "_Go"
+msgstr ""
+
+msgid "Go Back"
+msgstr "ກັບຄືນ"
+
+msgid "Go back"
+msgstr "ກັບຄືນ"
+
+msgid "Go forward"
+msgstr "ໄປໜ້າ"
+
+msgid "Go To"
+msgstr "ໄປທີ່"
+
+msgid "Go to first page"
+msgstr ""
+
+msgid "Go to last page"
+msgstr ""
+
+msgid "Go to Line"
+msgstr ""
+
+msgid "Go to next page"
+msgstr ""
+
+msgid "Go to previous page"
+msgstr ""
+
+msgid "Goa"
+msgstr "ໂກອາ"
+
+msgid "Gold"
+msgstr "ຄຳ"
+
+msgid "Good"
+msgstr ""
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr ""
+
+msgid "Gradient"
+msgstr "ການໄລ່ສີ"
+
+msgid "Gradients"
+msgstr "ການໄລ່ສີ"
+
+msgid "Graph"
+msgstr ""
+
+msgid "Graphics"
+msgstr "ກຣາບຟິກ"
+
+msgid "Gray"
+msgstr "ສີເທົາ"
+
+msgid "gray"
+msgstr "ສີເທົາ"
+
+msgid "Grayscale"
+msgstr "ສີເທົາ"
+
+msgid "Greece"
+msgstr "ເກຣັກ"
+
+msgid "Greek"
+msgstr "ເກຣັກ"
+
+msgid "Green"
+msgstr "ສີຂຽວ"
+
+msgid "green"
+msgstr ""
+
+msgid "Grenada"
+msgstr "ເກຣນາດາ"
+
+msgid "Grey"
+msgstr "ເທົາ"
+
+msgid "Grid"
+msgstr "ຕາຕະລາງ"
+
+msgid "Group"
+msgstr "ກຸ່ມ"
+
+msgid "Group name"
+msgstr ""
+
+msgid "Grouping"
+msgstr "ການຈັດກຸ່ມ"
+
+msgid "Groups"
+msgstr "ກຸ່ມ"
+
+msgid "GSM"
+msgstr ""
+
+msgid "Guatemala"
+msgstr "ກົວເຕມາລາ"
+
+msgid "Guides"
+msgstr "ເສັ້ນນຳ"
+
+msgid "Guinea"
+msgstr "ກິນີ"
+
+msgid "Gujarati"
+msgstr "ກູຈາຣາຕີ"
+
+msgid "Gurmukhi"
+msgstr ""
+
+msgid "Guyana"
+msgstr "ກາຍຢານາ"
+
+msgid "H"
+msgstr "H"
+
+msgid "Haiti"
+msgstr "ເຮຕິ"
+
+msgid "Hard"
+msgstr "ແຂງ"
+
+msgid "Hardware"
+msgstr "ຮາດແວ"
+
+msgid "Hawaiian"
+msgstr "Hawaiian"
+
+msgid "Header"
+msgstr ""
+
+msgid "Headers"
+msgstr ""
+
+msgid "Heading"
+msgstr ""
+
+msgid "Heading 1"
+msgstr ""
+
+msgid "Heading 2"
+msgstr ""
+
+msgid "Heading 3"
+msgstr ""
+
+msgid "Heading 4"
+msgstr ""
+
+msgid "Headphones"
+msgstr "ຫູຟັງ"
+
+msgid "Headset"
+msgstr "ຊຸດຫູຟັງ"
+
+msgid "Health"
+msgstr ""
+
+msgid "Hebrew"
+msgstr "ຮີບຣູ"
+
+msgid "Height"
+msgstr "ຄວາມສູງ"
+
+msgid "&Height"
+msgstr ""
+
+msgid "Help"
+msgstr "ຊ່ວຍເຫຼືອ"
+
+msgid "&Help"
+msgstr "&ຊ່ວຍເຫຼືອ"
+
+msgid "_Help"
+msgstr "_ຊ່ວຍເຫຼືອ"
+
+msgid "Helsinki"
+msgstr "ເຮລຊິນກິ"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hexadecimal"
+msgstr ""
+
+msgid "Hexagon"
+msgstr ""
+
+msgid "Hibernate"
+msgstr ""
+
+msgid "Hidden"
+msgstr "ເຊື່ອງໄວ້"
+
+msgid "hidden"
+msgstr "ເຊື່ອງໄວ້"
+
+msgid "Hide"
+msgstr "ເຊື່ອງ"
+
+msgid "&Hide"
+msgstr "&ເຊື່ອງ"
+
+msgid "Hide menu bar"
+msgstr "ເຊື່ອງແຖບເມນູ"
+
+msgid "High"
+msgstr "ສູງ"
+
+msgid "Highlight"
+msgstr "ເນັ້ນ"
+
+msgid "Highlighter"
+msgstr ""
+
+msgid "Highlights"
+msgstr "ແສງສະຫວ່າງ"
+
+msgid "Hindi"
+msgstr "ຮິນດີ"
+
+msgid "Hint"
+msgstr ""
+
+msgid "Histogram"
+msgstr "ຮິສໂຕແກຣມ"
+
+msgid "History"
+msgstr "ປະຫວັດ"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Holidays"
+msgstr "ວັນພັກ"
+
+msgid "Home"
+msgstr "ໜ້າຫຼັກ"
+
+msgid "&Home"
+msgstr ""
+
+msgid "Home Folder"
+msgstr "ໂຟລເດີບ້ານ"
+
+msgid "Home Page"
+msgstr "ໜ້າຫຼັກ"
+
+msgid "Homepage"
+msgstr "ໜ້າທຳອິດ"
+
+msgid "Honduras"
+msgstr "ຮອນດູຣັສ"
+
+msgid "Hong Kong"
+msgstr "ຮ່ອງກົງ"
+
+msgid "Horizontal"
+msgstr "ແນວນອນ"
+
+msgid "Host"
+msgstr ""
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "Hotspot"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "Hours"
+msgstr "ຊົ່ວໂມງ"
+
+msgid "hours"
+msgstr "ຊົ່ວໂມງ"
+
+msgid "House"
+msgstr ""
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "ສີສັນ"
+
+msgid "Huge"
+msgstr "ໃຫຍ່ຫຼາຍ"
+
+msgid "Hungarian"
+msgstr "Hungarian"
+
+msgid "Hungary"
+msgstr "ຮົງກາຣີ"
+
+msgid "Hz"
+msgstr "Hz"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr ""
+
+msgid "Iceland"
+msgstr "ໄອສແລນ"
+
+msgid "Icelandic"
+msgstr "Icelandic"
+
+msgid "Icon"
+msgstr "ໄອຄອນ"
+
+msgid "Icon Size"
+msgstr "ຂະໜາດໄອຄອນ"
+
+msgid "Icon size"
+msgstr "ຂະໜາດໄອຄອນ"
+
+msgid "Icon View"
+msgstr "ມຸມມອງໄອຄອນ"
+
+msgid "Icons"
+msgstr "ໄອຄອນ"
+
+msgid "ID"
+msgstr "ໄອດີ"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "id"
+msgstr ""
+
+msgid "Identifier"
+msgstr "ຕົວລະບຸ"
+
+msgid "Identity"
+msgstr "ຕົວຕົນ"
+
+msgid "Idle"
+msgstr ""
+
+msgid "Ignore"
+msgstr "ບໍ່ສົນໃຈ"
+
+msgid "_Ignore"
+msgstr "_ຂ້າມ"
+
+msgid "Ignore Case"
+msgstr "ບໍ່ສົນຕົວພິມໃຫຍ່/ນ້ອຍ"
+
+msgid "Ignored"
+msgstr "ຖືກເພີກເສີຍ"
+
+msgid "Image"
+msgstr "ຮູບພາບ"
+
+msgid "image"
+msgstr ""
+
+msgid "&Image"
+msgstr ""
+
+msgid "_Image"
+msgstr "_ຮູບພາບ"
+
+msgid "Image Editor"
+msgstr "ຕົວແກ້ໄຂຮູບພາບ"
+
+msgid "Image Files"
+msgstr "ໄຟລ໌ຮູບພາບ"
+
+msgid "Image files"
+msgstr "ໄຟລ໌ຮູບພາບ"
+
+msgid "Image Gallery"
+msgstr ""
+
+msgid "Image Properties"
+msgstr "ຄຸນສົມບັດຮູບພາບ"
+
+msgid "Image Settings"
+msgstr "ການ​ຕັ້ງ​ຄ່າ​ຮູບ​ພາບ"
+
+msgid "Image Size"
+msgstr "ຂະໜາດຮູບພາບ"
+
+msgid "Image Viewer"
+msgstr ""
+
+msgid "Images"
+msgstr "ຮູບພາບ"
+
+msgid "Images (%1)"
+msgstr ""
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "ນຳເຂົ້າ"
+
+msgid "&Import"
+msgstr "&ນຳເຂົ້າ"
+
+msgid "_Import"
+msgstr "_ນຳເຂົ້າ"
+
+msgid "Import..."
+msgstr "ນຳເຂົ້າ…"
+
+msgid "&Import..."
+msgstr "&ນຳເຂົ້າ..."
+
+msgid "Import failed"
+msgstr ""
+
+msgid "Important"
+msgstr "ສຳຄັນ"
+
+msgid "In"
+msgstr "ເຂົ້າ"
+
+msgid "in"
+msgstr "in"
+
+msgid "Inactive"
+msgstr "ບໍ່ເຄື່ອນໄຫວ"
+
+msgid "Inbox"
+msgstr ""
+
+msgid "inch"
+msgstr ""
+
+msgid "Inches"
+msgstr "ນິ້ວ"
+
+msgid "inches"
+msgstr "ນິ້ວ"
+
+msgid "Inches (in)"
+msgstr "ນິ້ວ (in)"
+
+msgid "Include"
+msgstr ""
+
+msgid "Includes"
+msgstr "Includes"
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Increase Font Size"
+msgstr "ເພີ່ມຂະໜາດຟອນ"
+
+msgid "Increase Indent"
+msgstr ""
+
+msgid "Increase Volume"
+msgstr "ເພີ່ມລະດັບສຽງ"
+
+msgid "Incremental"
+msgstr "ເພີ່ມຂຶ້ນເທື່ອລະນ້ອຍ"
+
+msgid "Indentation"
+msgstr "ການຫຍໍ້ໜ້າ"
+
+msgid "Index"
+msgstr "ດັດຊະນີ"
+
+msgid "Indexed"
+msgstr "Indexed"
+
+msgid "India"
+msgstr "ອິນເດຍ"
+
+msgid "Indonesia"
+msgstr "ອິນໂດເນເຊຍ"
+
+msgid "Indonesian"
+msgstr "ອິນໂດເນເຊຍ"
+
+msgid "Industrial"
+msgstr "ເຂດອຸດສາຫະກຳ"
+
+msgid "Info"
+msgstr "ຂໍ້ມູນ"
+
+msgid "Information"
+msgstr "ຂໍ້ມູນ"
+
+msgid "Initials"
+msgstr "ຊື່ຫຍໍ້"
+
+msgid "Input"
+msgstr "ການນຳເຂົ້າ"
+
+msgid "Input Devices"
+msgstr "ອຸປະກອນປ້ອນຂໍ້ມູນ"
+
+msgid "Insert"
+msgstr "ແຊກ"
+
+msgid "&Insert"
+msgstr ""
+
+msgid "Insert Image"
+msgstr ""
+
+msgid "Insert Link"
+msgstr ""
+
+msgid "Insert Table"
+msgstr ""
+
+msgid "Insert Text"
+msgstr "ແຊກ​ຂໍ້​ຄວາມ"
+
+msgid "Install"
+msgstr "ຕິດຕັ້ງ"
+
+msgid "Install..."
+msgstr "ຕິດຕັ້ງ..."
+
+msgid "Install from File..."
+msgstr ""
+
+msgid "Installed"
+msgstr "ຕິດຕັ້ງແລ້ວ"
+
+msgid "Installing"
+msgstr "ກຳລັງຕິດຕັ້ງ"
+
+msgid "Instant"
+msgstr "Instant"
+
+msgid "Integer"
+msgstr "ຈຳນວນເຕັມ"
+
+msgid "Integrate"
+msgstr ""
+
+msgid "Intensity"
+msgstr "ຄວາມເຂັ້ມຂຸ້ນ"
+
+msgid "Interface"
+msgstr "ອິນເຕີເຟດ"
+
+msgid "Internal"
+msgstr "ພາຍໃນ"
+
+msgid "Internal Error"
+msgstr "ຂໍ້ຜິດພາດພາຍໃນ"
+
+msgid "Internal error"
+msgstr "ຂໍ້ຜິດພາດພາຍໃນ"
+
+msgid "International"
+msgstr ""
+
+msgid "Internet"
+msgstr "ອິນເຕີເນັດ"
+
+msgid "Interpolation"
+msgstr "ການຊອກຫາຄ່າລະຫວ່າງກາງ (Interpolation)"
+
+msgid "Interrupt"
+msgstr ""
+
+msgid "Interval"
+msgstr "ໄລຍະຫ່າງ"
+
+msgid "Introduction"
+msgstr "ບົດນຳ"
+
+msgid "Invalid"
+msgstr "ບໍ່ຖືກຕ້ອງ"
+
+msgid "invalid"
+msgstr ""
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr ""
+
+msgid "Invalid date"
+msgstr "ວັນທີບໍ່ຖືກຕ້ອງ"
+
+msgid "Invalid password"
+msgstr ""
+
+msgid "Invalid URL"
+msgstr ""
+
+msgid "Invert"
+msgstr "ກັບ​ດ້ານ​ສີ"
+
+msgid "Invert Selection"
+msgstr "ກັບດ້ານການເລືອກ"
+
+msgid "IP"
+msgstr ""
+
+msgid "IP Address"
+msgstr "ທີ່ຢູ່ IP"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "ອີຣານ"
+
+msgid "Iraq"
+msgstr "ອີຣັກ"
+
+msgid "Ireland"
+msgstr "ໄອແລນ"
+
+msgid "Irish"
+msgstr "ໄອຣິຊ"
+
+msgid "is"
+msgstr ""
+
+msgid "Israel"
+msgstr "ອິດສະຣາແອນ"
+
+msgid "Issued By"
+msgstr ""
+
+msgid "Issuer"
+msgstr ""
+
+msgid "Italian"
+msgstr "ອິຕາລີ"
+
+msgid "Italic"
+msgstr "ຕົວອຽງ"
+
+msgid "&Italic"
+msgstr "&ອຽງ"
+
+msgid "_Italic"
+msgstr "_ໂຕອຽງ"
+
+msgid "Italy"
+msgstr "ອີຕາລີ"
+
+msgid "Item"
+msgstr ""
+
+msgid "Items"
+msgstr "ລາຍການ"
+
+msgid "Iterations"
+msgstr "ການເຮັດຊ້ຳ"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "ຈາໄມກາ"
+
+msgid "January"
+msgstr "ມັງກອນ"
+
+msgid "Japan"
+msgstr "ຍີ່ປຸ່ນ"
+
+msgid "Japanese"
+msgstr "ຍີ່ປຸ່ນ"
+
+msgid "Javanese"
+msgstr "ຊວາ"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr ""
+
+msgid "Johann Ollivier Lapeyre"
+msgstr ""
+
+msgid "Join"
+msgstr ""
+
+msgid "Jonah Brüchert"
+msgstr ""
+
+msgid "Jordan"
+msgstr "ຈໍແດນ"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr ""
+
+msgid "Journal"
+msgstr ""
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "ກໍລະກົດ"
+
+msgid "Jump to next match"
+msgstr "ໄປທີ່ລາຍການຖັດໄປ"
+
+msgid "Jump to previous match"
+msgstr "ໄປທີ່ລາຍການກ່ອນໜ້າ"
+
+msgid "June"
+msgstr "ມິຖຸນາ"
+
+msgid "Justify"
+msgstr "ຈັດແຄມ"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Kate"
+msgstr ""
+
+msgid "Kazakh"
+msgstr "Kazakh"
+
+msgid "Kazakhstan"
+msgstr "ຄາຊັກສະຖານ"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr ""
+
+msgid "KDE Connect"
+msgstr ""
+
+msgid "KDevelop"
+msgstr ""
+
+msgid "Keep"
+msgstr ""
+
+msgid "_Keep"
+msgstr "_ເກັບໄວ້"
+
+msgid "Keep aspect ratio"
+msgstr "ຮັກສາອັດຕາສ່ວນ"
+
+msgid "Keep Open"
+msgstr ""
+
+msgid "Kenya"
+msgstr "ເຄນຢາ"
+
+msgid "Kernel"
+msgstr "ເຄີເນິນ"
+
+msgid "Key"
+msgstr "ຄີ"
+
+msgid "Key ID"
+msgstr ""
+
+msgid "Keyboard"
+msgstr "ຄີບອດ"
+
+msgid "Keyboard Layout"
+msgstr "ໂຄງຮ່າງແປ້ນພິມ"
+
+msgid "Keyboard Shortcuts"
+msgstr "ປຸ່ມລັດແປ້ນພິມ"
+
+msgid "Keyboard shortcuts"
+msgstr "ປຸ່ມລັດແປ້ນພິມ"
+
+msgid "_Keyboard Shortcuts"
+msgstr "_ທາງລັດແປ້ນພິມ"
+
+msgid "Keys"
+msgstr ""
+
+msgid "Keyword"
+msgstr "ຄຳສັ່ງຫຼັກ"
+
+msgid "Keywords"
+msgstr "ຄຳຫຼັກ"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "ປະເພດ"
+
+msgid "Kiribati"
+msgstr "ກິຣິບາສ"
+
+msgid "km"
+msgstr "km"
+
+msgid "KMail"
+msgstr ""
+
+msgid "Konqueror"
+msgstr ""
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "ເກົາຫຼີ"
+
+msgid "KOrganizer"
+msgstr ""
+
+msgid "Kuwait"
+msgstr "ຄູເວດ"
+
+msgid "KWin"
+msgstr ""
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "ຄ້າຍເພງ"
+
+msgid "label"
+msgstr "ຄ້າຍເພງ"
+
+msgid "Labels"
+msgstr "ປ້າຍກຳກັບ"
+
+msgid "Landscape"
+msgstr "ທິວທັດ"
+
+msgid "Language"
+msgstr "ພາສາ"
+
+msgid "_Language"
+msgstr "_ພາສາ"
+
+msgid "Languages"
+msgstr "ພາສາ"
+
+msgid "Lao"
+msgstr "ລາວ"
+
+msgid "Laos"
+msgstr "ລາວ"
+
+msgid "Large"
+msgstr "ໃຫຍ່"
+
+msgid "Last"
+msgstr "ທ້າຍໝູ່"
+
+msgid "Last Modified"
+msgstr "ແກ້ໄຂລ່າສຸດ"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "ລາຕິນ"
+
+msgid "Latitude"
+msgstr "ເສັ້ນຂະໜານ (Latitude)"
+
+msgid "Latvia"
+msgstr "ລັດເວຍ"
+
+msgid "Latvian"
+msgstr "Latvian"
+
+msgid "Launch %1"
+msgstr ""
+
+msgid "Layer"
+msgstr "ເລເຢີ"
+
+msgid "Layers"
+msgstr "ເລເຢີ"
+
+msgid "Layout"
+msgstr "ເຄົ້າໂຄງ"
+
+msgid "Leave Fullscreen"
+msgstr "ອອກຈາກເຕັມຈໍ"
+
+msgid "Lebanon"
+msgstr "ເລບານອນ"
+
+msgid "Left"
+msgstr "ຊ້າຍ"
+
+msgid "left"
+msgstr ""
+
+msgid "&Left"
+msgstr "&ຊ້າຍ"
+
+msgid "_Left"
+msgstr "ຊ້າຍ"
+
+msgid "Left to Right"
+msgstr ""
+
+msgid "Legacy"
+msgstr "ດັ້ງເດີມ"
+
+msgid "Legend"
+msgstr "ຄຳອະທິບາຍສັນຍາລັກ"
+
+msgid "Length"
+msgstr "ຄວາມຍາວ"
+
+msgid "Lesotho"
+msgstr "ເລໂຊໂທ"
+
+msgid "Letter"
+msgstr ""
+
+msgid "Level"
+msgstr "ລະດັບ"
+
+msgid "Level %1"
+msgstr ""
+
+msgid "Levels"
+msgstr "ລະດັບ"
+
+msgid "Liberia"
+msgstr "ລິເບເຣຍ"
+
+msgid "Library"
+msgstr "ຄັງສຳຮອງ (Library)"
+
+msgid "License"
+msgstr "ໃບອະນຸຍາດ"
+
+msgid "Liechtenstein"
+msgstr "ລິກເຕນສະຕາຍ"
+
+msgid "Light"
+msgstr "ບາງ"
+
+msgid "Lighten"
+msgstr "Lighten"
+
+msgid "Lightness"
+msgstr "ຄວາມສະຫວ່າງ"
+
+msgid "Limit"
+msgstr "ຂີດຈຳກັດ"
+
+msgid "Limits"
+msgstr "ຂີດຈຳກັດ"
+
+msgid "Line"
+msgstr "ເສັ້ນ"
+
+msgid "line"
+msgstr "ເສັ້ນຊື່"
+
+msgid "Line Break"
+msgstr "ຕັດແຖວ"
+
+msgid "Line Color"
+msgstr ""
+
+msgid "Line Numbers"
+msgstr "ເລກແຖວ"
+
+msgid "Line Width"
+msgstr ""
+
+msgid "Line width"
+msgstr "ຄວາມກວ້າງເສັ້ນ"
+
+msgid "Linear"
+msgstr "Linear"
+
+msgid "Lines"
+msgstr "ເສັ້ນ"
+
+msgid "Link"
+msgstr "ລິ້ງ"
+
+msgid "link"
+msgstr "ລິ້ງ"
+
+msgid "Link URL"
+msgstr ""
+
+msgid "Links"
+msgstr "ລິ້ງ"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "ລາຍການ"
+
+msgid "List View"
+msgstr ""
+
+msgid "Lists"
+msgstr "ລາຍການ"
+
+msgid "Lists the available options for user feedback"
+msgstr ""
+
+msgid "Lithuania"
+msgstr "ລິທົວເນຍ"
+
+msgid "Lithuanian"
+msgstr "ລິທົວເນຍ"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "ໂຫຼດ"
+
+msgid "Load..."
+msgstr "ໂຫຼດ..."
+
+msgid "Load Game"
+msgstr ""
+
+msgid "Loading"
+msgstr "ກຳລັງໂຫຼດ"
+
+msgid "Loading..."
+msgstr "ກຳລັງໂຫຼດ..."
+
+msgid "Loading %1..."
+msgstr ""
+
+msgid "Local"
+msgstr "ພາຍໃນເຄື່ອງ"
+
+msgid "Locale"
+msgstr ""
+
+msgid "Locality"
+msgstr "ທ້ອງຖິ່ນ"
+
+msgid "Location"
+msgstr "ທີ່ຕັ້ງ"
+
+msgid "Locations"
+msgstr ""
+
+msgid "Lock"
+msgstr "ລັອກ"
+
+msgid "Lock Screen"
+msgstr ""
+
+msgid "Locked"
+msgstr ""
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Log in"
+msgstr ""
+
+msgid "Log Out"
+msgstr ""
+
+msgid "Logarithmic"
+msgstr "Logarithmic"
+
+msgid "Logging"
+msgstr "ການບັນທຶກ"
+
+msgid "Logging in..."
+msgstr ""
+
+msgid "Logic"
+msgstr ""
+
+msgid "Login"
+msgstr "ເຂົ້າສູ່ລະບົບ"
+
+msgid "_Login"
+msgstr "ເຂົ້າສູ່ລະບົບ"
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logs"
+msgstr "ບັນທຶກ (Logs)"
+
+msgid "Longitude"
+msgstr "ເສັ້ນແວງ (Longitude)"
+
+msgid "Loop"
+msgstr "ວົນຮອບ"
+
+msgid "Low"
+msgstr "ຕ່ຳ"
+
+msgid "Lower"
+msgstr "ຕົວພິມນ້ອຍ"
+
+msgid "Lowercase"
+msgstr "ຕົວພິມນ້ອຍ"
+
+msgid "Lukáš Tinkl"
+msgstr ""
+
+msgid "Luminance"
+msgstr "ຄວາມສະຫວ່າງ (Luminance)"
+
+msgid "Luxembourg"
+msgstr "ລຸກຊຳບວກ"
+
+msgid "Lyricist"
+msgstr ""
+
+msgid "Lyrics"
+msgstr "ເນື້ອເພງ"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr "m"
+
+msgid "Macedonian"
+msgstr "ມາເຊໂດເນຍ"
+
+msgid "Macro"
+msgstr "ມາໂຄຣ"
+
+msgid "Macros"
+msgstr ""
+
+msgid "Madagascar"
+msgstr "ມາດາກັດສະກາ"
+
+msgid "Magenta"
+msgstr "ມ່ວງແດງ"
+
+msgid "Mail"
+msgstr "ອີເມວ"
+
+msgid "Main"
+msgstr "ຫຼັກ"
+
+msgid "Main Menu"
+msgstr "ເມນູຫຼັກ"
+
+msgid "Main Toolbar"
+msgstr "ແຖບເຄື່ອງມືຫຼັກ"
+
+msgid "Main Window"
+msgstr "ໜ້າຕ່າງຫຼັກ"
+
+msgid "Main window"
+msgstr ""
+
+msgid "Maintainer"
+msgstr "ຜູ້ບຳລຸງຮັກສາ"
+
+msgid "Malawi"
+msgstr "ມາລາວີ"
+
+msgid "Malay"
+msgstr "Malay"
+
+msgid "Malayalam"
+msgstr "ມາລາຢາລຳ"
+
+msgid "Malaysia"
+msgstr "ມາເລເຊຍ"
+
+msgid "Maldives"
+msgstr "ມັລດີຟ"
+
+msgid "Male"
+msgstr "ມາເລ"
+
+msgid "Mali"
+msgstr "ມາລີ"
+
+msgid "Malta"
+msgstr "ມານຕາ"
+
+msgid "Maltese"
+msgstr "Maltese"
+
+msgid "Manager"
+msgstr ""
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "Manufacturer"
+msgstr "ຜູ້ຜະລິດ"
+
+msgid "Map"
+msgstr "ແຜນທີ່"
+
+msgid "Maps"
+msgstr ""
+
+msgid "Marathi"
+msgstr "ມາຣາທີ"
+
+msgid "Marble"
+msgstr "ຫິນອ່ອນ"
+
+msgid "March"
+msgstr "ມີນາ"
+
+msgid "Margins"
+msgstr ""
+
+msgid "Mark"
+msgstr "ເຄື່ອງໝາຍ"
+
+msgid "Mark as Read"
+msgstr ""
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Marker"
+msgstr "ເຄື່ອງໝາຍ (Marker)"
+
+msgid "Markers"
+msgstr "ເຄື່ອງໝາຍ"
+
+msgid "Marshall Islands"
+msgstr "ຫມູ່ເກາະມາແຊລ"
+
+msgid "Mask"
+msgstr "ໜ້າກາກ (Mask)"
+
+msgid "Mass"
+msgstr "ມວນສານ"
+
+msgid "Match"
+msgstr "ຈັບຄູ່"
+
+msgid "Match case"
+msgstr ""
+
+msgid "_Match case"
+msgstr ""
+
+msgid "Math"
+msgstr "ຄະນິດສາດ"
+
+msgid "Matrix"
+msgstr "Matrix"
+
+msgid "Matthias Ettrich"
+msgstr ""
+
+msgid "Mauricio Piacentini"
+msgstr ""
+
+msgid "Mauritania"
+msgstr "ມົວຣິຕາເນຍ"
+
+msgid "Mauritius"
+msgstr "ມໍຣິເຊຍ"
+
+msgid "Max"
+msgstr "ສູງສຸດ"
+
+msgid "max"
+msgstr "max"
+
+msgid "Maximize"
+msgstr ""
+
+msgid "Maximum"
+msgstr "ສູງສຸດ"
+
+msgid "May"
+msgstr "ພຶດສະພາ"
+
+msgid "Maze"
+msgstr ""
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr ""
+
+msgid "Mean"
+msgstr ""
+
+msgid "Measure"
+msgstr "ວັດແທກ"
+
+msgid "Media"
+msgstr "ສື່"
+
+msgid "Media Player"
+msgstr "ຕົວຫຼິ້ນມີເດຍ"
+
+msgid "Median"
+msgstr "Median"
+
+msgid "Medium"
+msgstr "ກາງ"
+
+msgid "medium"
+msgstr ""
+
+msgid "Member"
+msgstr "ສະມາຊິກ"
+
+msgid "Memory"
+msgstr "ໜ່ວຍຄວາມຈຳ"
+
+msgid "Menu"
+msgstr "ເມນູ"
+
+msgid "Mercury"
+msgstr "ດາວພຸດ"
+
+msgid "Merge"
+msgstr "ຮວມ"
+
+msgid "Message"
+msgstr "ຂໍ້ຄວາມ"
+
+msgid "message"
+msgstr ""
+
+msgid "Messages"
+msgstr "ຂໍ້ຄວາມ"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "Metadata"
+
+msgid "Metal"
+msgstr ""
+
+msgid "meters"
+msgstr "ແມັດ"
+
+msgid "Method"
+msgstr "ວິທີການ"
+
+msgid "Metric"
+msgstr "ເມຕຣິກ"
+
+msgid "Mexico"
+msgstr "ເມັກຊິໂກ"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr ""
+
+msgid "Middle"
+msgstr ""
+
+msgid "Miha Čančula"
+msgstr ""
+
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+msgid "Millimeters"
+msgstr "ມິນ​ລິ​ແມັດ"
+
+msgid "Millimeters (mm)"
+msgstr "ມິນລີແມັດ (mm)"
+
+msgid "Milliseconds"
+msgstr "ມິນລິວິນາທີ"
+
+msgid "milliseconds"
+msgstr "milliseconds"
+
+msgid "Min"
+msgstr "ຕ່ຳສຸດ"
+
+msgid "min"
+msgstr "min"
+
+msgid "Minimize"
+msgstr "ຍໍ້ລົງ"
+
+msgid "Minimum"
+msgstr "ຄ່າຕ່ຳສຸດ"
+
+msgid "Minute"
+msgstr ""
+
+msgid "Minutes"
+msgstr "ນາທີ"
+
+msgid "minutes"
+msgstr "ນາທີ"
+
+msgid "Mirror"
+msgstr "ກະຈົກ"
+
+msgid "Misc"
+msgstr "ອື່ນໆ"
+
+msgid "Miscellaneous"
+msgstr "ເບັດຕະເລັດ"
+
+msgid "missing plugin file \"%s\""
+msgstr ""
+
+msgid "Miter limit"
+msgstr "ຂີດຈຳກັດມູມແຫຼມ"
+
+msgid "Mix"
+msgstr "ທາດປະສົມ"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Mobile"
+msgstr "ມືຖື"
+
+msgid "Mode"
+msgstr "ໂໝດ"
+
+msgid "Model"
+msgstr "ລຸ້ນ"
+
+msgid "Modem"
+msgstr "ໂມເດັມ"
+
+msgid "Modified"
+msgstr "ແກ້ໄຂຫຼ້າສຸດ"
+
+msgid "modified"
+msgstr "modified"
+
+msgid "Modifiers"
+msgstr "ຕົວດັດແປງ"
+
+msgid "Modify"
+msgstr "ປັບປຸງແກ້ໄຂ"
+
+msgid "Modify..."
+msgstr ""
+
+msgid "&Modify..."
+msgstr ""
+
+msgid "Modify search behavior"
+msgstr ""
+
+msgid "Module"
+msgstr "ໂມດູນ"
+
+msgid "Modules"
+msgstr "ໂມດູນ"
+
+msgid "Moldova"
+msgstr "ມອນໂດວາ"
+
+msgid "Monaco"
+msgstr "ໂມນາໂກ"
+
+msgid "Monday"
+msgstr ""
+
+msgid "Mongolia"
+msgstr "ມົງໂກລີ"
+
+msgid "Mongolian"
+msgstr "Mongolian"
+
+msgid "Monitor"
+msgstr "ຈໍພາບ"
+
+msgid "Mono"
+msgstr "ໂມໂນ"
+
+msgid "Monochrome"
+msgstr "Monochrome"
+
+msgid "Monospace"
+msgstr "Monospace"
+
+msgid "Montenegro"
+msgstr "ມອນເຕເນໂກຣ"
+
+msgid "Month"
+msgstr "ເດືອນ"
+
+msgid "Month View"
+msgstr ""
+
+msgid "Monthly"
+msgstr "ລາຍເດືອນ"
+
+msgid "Months"
+msgstr "ເດືອນ"
+
+msgid "More"
+msgstr "ເພີ່ມເຕີມ"
+
+msgid "More..."
+msgstr "ເພີ່ມເຕີມ..."
+
+msgid "More actions"
+msgstr ""
+
+msgid "More Information"
+msgstr "ຂໍ້ມູນເພີ່ມເຕີມ"
+
+msgid "More options"
+msgstr "ຕົວເລືອກເພີ່ມເຕີມ"
+
+msgid "Morocco"
+msgstr "ໂມຣັອກໂຄ"
+
+msgid "Mount"
+msgstr "ເຊື່ອມຕໍ່"
+
+msgid "Mount point"
+msgstr ""
+
+msgid "Mouse"
+msgstr "ເມົາສ໌"
+
+msgid "Mouse Wheel"
+msgstr "ລໍ້ເມົ້າ"
+
+msgid "Move"
+msgstr "ຍ້າຍ"
+
+msgid "&Move"
+msgstr "&ຍ້າຍ"
+
+msgid "_Move"
+msgstr "_ຍ້າຍ"
+
+msgid "Move %1"
+msgstr ""
+
+msgid "Move Down"
+msgstr "ຍ້າຍລົງ"
+
+msgid "Move down"
+msgstr "ຍ້າຍລົງ"
+
+msgid "Move &Down"
+msgstr "ຍ້າຍ&ລົງ"
+
+msgid "&Move Here"
+msgstr "&ຍ້າຍມາບ່ອນນີ້"
+
+msgid "Move Left"
+msgstr ""
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr ""
+
+msgid "Move Tab Left"
+msgstr "ຍ້າຍແຖບໄປຊ້າຍ"
+
+msgid "Move Tab Right"
+msgstr "ຍ້າຍແຖບໄປຂວາ"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr ""
+
+msgid "Move to Bottom"
+msgstr ""
+
+msgid "Move to Top"
+msgstr ""
+
+msgid "Move to Trash"
+msgstr "ຍ້າຍໄປຖັງຂີ້ເຫຍື້ອ"
+
+msgid "&Move to Trash"
+msgstr "&ຍ້າຍໄປຖັງຂີ້ເຫຍື້ອ"
+
+msgid "Move Up"
+msgstr "ຍ້າຍຂຶ້ນ"
+
+msgid "Move up"
+msgstr "ຍ້າຍຂຶ້ນ"
+
+msgid "Move &Up"
+msgstr "ຍ້າຍ&ຂຶ້ນ"
+
+msgid "Mozambique"
+msgstr "ໂມຊຳບິກ"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr ""
+
+msgid "MSCHAPv2"
+msgstr ""
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "Multiply"
+msgstr "Multiply"
+
+msgid "Music"
+msgstr "ເພງ"
+
+msgid "Music Player"
+msgstr ""
+
+msgid "Mute"
+msgstr "ປິດສຽງ"
+
+msgid "Myanmar"
+msgstr "ມຽນມາ"
+
+msgid "N"
+msgstr "N"
+
+msgid "n"
+msgstr "ບ"
+
+msgid "N/A"
+msgstr "ບໍ່ມີ"
+
+msgid "n/a"
+msgstr "ບໍ່ມີ"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "Name"
+msgstr "ຊື່"
+
+msgid "name"
+msgstr ""
+
+msgid "&Name"
+msgstr "&ຊື່"
+
+msgid "_Name"
+msgstr "_ຊື່"
+
+msgid "Name: %1"
+msgstr "ຊື່: %1"
+
+msgid "Namespace"
+msgstr ""
+
+msgid "Namibia"
+msgstr "ນາມິເບຍ"
+
+msgid "Nature"
+msgstr "ທຳມະຊາດ"
+
+msgid "Nauru"
+msgstr "ນາອູຣູ"
+
+msgid "Navigation"
+msgstr "ການນຳທາງ"
+
+msgid "Negative"
+msgstr ""
+
+msgid "Neon"
+msgstr "Neon"
+
+msgid "Nepal"
+msgstr "ເນປານ"
+
+msgid "Nepali"
+msgstr "ເນປານ"
+
+msgid "Netherlands"
+msgstr "ເນເທີແລນ"
+
+msgid "Network"
+msgstr "ເຄືອຂ່າຍ"
+
+msgid "Networks"
+msgstr ""
+
+msgid "Never"
+msgstr "ບໍ່ເຄີຍ"
+
+msgid "never"
+msgstr "ບໍ່ເຄີຍ"
+
+msgid "New"
+msgstr "ໃໝ່"
+
+msgid "&New"
+msgstr "&ໃໝ່"
+
+msgid "_New"
+msgstr ""
+
+msgid "New..."
+msgstr "ໃໝ່..."
+
+msgid "&New..."
+msgstr "&ໃໝ່..."
+
+msgid "_New..."
+msgstr "_ໃໝ່..."
+
+msgid "New Bookmark"
+msgstr "ທີ່ຄັ່ນໜ້າໃໝ່"
+
+msgid "New Connection"
+msgstr "ການເຊື່ອມຕໍ່ໃໝ່"
+
+msgid "New File"
+msgstr "ໄຟລ໌ໃໝ່"
+
+msgid "New Folder"
+msgstr "ໂຟນເດີໃໝ່"
+
+msgid "New folder"
+msgstr ""
+
+msgid "New Folder..."
+msgstr ""
+
+msgid "New Game"
+msgstr ""
+
+msgid "New Group"
+msgstr "ກຸ່ມໃໝ່"
+
+msgid "New Item"
+msgstr "ລາຍການໃໝ່"
+
+msgid "New Layer"
+msgstr "ເລເຢີໃໝ່"
+
+msgid "New Message"
+msgstr ""
+
+msgid "New Name"
+msgstr "ຊື່ໃໝ່"
+
+msgid "New name"
+msgstr "ຊື່ໃໝ່"
+
+msgid "New Profile"
+msgstr ""
+
+msgid "New Project"
+msgstr ""
+
+msgid "New Session"
+msgstr ""
+
+msgid "New South Wales"
+msgstr "ນິວ ເຊົາທ໌ ເວລສ໌"
+
+msgid "New Tab"
+msgstr "ແຖບໃໝ່"
+
+msgid "New tag"
+msgstr "ປ້າຍກຳກັບໃໝ່"
+
+msgid "New Window"
+msgstr "ໜ້າຕ່າງໃໝ່"
+
+msgid "_New Window"
+msgstr "_ໜ້າຕ່າງໃໝ່"
+
+msgid "New &Window"
+msgstr "&ປ່ອງຢ້ຽມໃຫມ່"
+
+msgid "New _Window"
+msgstr "ໜ້າຕ່າງໃໝ່"
+
+msgid "New Zealand"
+msgstr "ນິວຊີແລນ"
+
+msgid "News"
+msgstr "ຂ່າວ"
+
+msgid "Newton"
+msgstr "ນິວຕັນ"
+
+msgid "Next"
+msgstr "ຕໍ່ໄປ"
+
+msgid "&Next"
+msgstr "&ຕໍ່ໄປ"
+
+msgid "_Next"
+msgstr ""
+
+msgid "Next Image"
+msgstr "ຮູບຕໍ່ໄປ"
+
+msgid "Next month"
+msgstr "ເດືອນໜ້າ"
+
+msgid "Next Page"
+msgstr ""
+
+msgid "Next Tab"
+msgstr "ແຖບຖັດໄປ"
+
+msgid "Next Track"
+msgstr "ເພງຖັດໄປ"
+
+msgid "Nicaragua"
+msgstr "ນິກາຣາກົວ"
+
+msgid "Nickname"
+msgstr "ຊື່ຫຼິ້ນ"
+
+msgid "Niger"
+msgstr "ນີເຈີ"
+
+msgid "Nigeria"
+msgstr "ໄນຈີເຣຍ"
+
+msgid "Night"
+msgstr "ກາງຄືນ"
+
+msgid "No"
+msgstr "ບໍ່"
+
+msgid "no"
+msgstr "ບໍ່​ໄດ້"
+
+msgid "_No"
+msgstr "_ບໍ່"
+
+msgid "No."
+msgstr "ເລກທີ"
+
+msgid "No description available"
+msgstr "ບໍ່ມີຄຳອະທິບາຍ"
+
+msgid "No devices found"
+msgstr ""
+
+msgid "No error"
+msgstr ""
+
+msgid "No file selected"
+msgstr ""
+
+msgid "No filter"
+msgstr "ບໍ່ມີການກັ່ນຕອງ"
+
+msgid "No Limit"
+msgstr ""
+
+msgid "No matches"
+msgstr "ບໍ່ພົບລາຍການທີ່ກົງກັນ"
+
+msgid "No Name"
+msgstr "ບໍ່ມີຊື່"
+
+msgid "No name"
+msgstr "ບໍ່ມີຊື່"
+
+msgid "No network connection"
+msgstr "ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ"
+
+msgid "No results"
+msgstr ""
+
+msgid "No Results Found"
+msgstr "ບໍ່ພົບຜົນການຊອກຫາ"
+
+msgid "No results found"
+msgstr ""
+
+msgid "No search results"
+msgstr ""
+
+msgid "No selection"
+msgstr "ບໍ່ມີການເລືອກ"
+
+msgid "No Subject"
+msgstr ""
+
+msgid "No VPN configuration options."
+msgstr ""
+
+msgid "Noise"
+msgstr "ສັນຍານລົບກວນ"
+
+msgid "None"
+msgstr "ບໍ່ມີ"
+
+msgid "none"
+msgstr "ບໍ່ມີ"
+
+msgid "&None"
+msgstr ""
+
+msgid "_None"
+msgstr "_ບໍ່ມີ"
+
+msgid "(None)"
+msgstr "(ບໍ່ມີ)"
+
+msgid "(none)"
+msgstr "(ບໍ່ມີ)"
+
+msgid "Nordic"
+msgstr "ນໍດິກ"
+
+msgid "Normal"
+msgstr "ປົກກະຕິ"
+
+msgid "_Normal Size"
+msgstr ""
+
+msgid "Normalize"
+msgstr "ປັບລະດັບສຽງ (Normalize)"
+
+msgid "North"
+msgstr "ເໜືອ"
+
+msgid "North America"
+msgstr "ອາເມຣິກາເໜືອ"
+
+msgid "Norway"
+msgstr "ນໍເວ"
+
+msgid "Norwegian"
+msgstr "ນໍເວ"
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr ""
+
+msgid "Not Available"
+msgstr ""
+
+msgid "Not available"
+msgstr "ບໍ່ມີໃຫ້ໃຊ້"
+
+msgid "not available"
+msgstr "ບໍ່ມີໃຫ້ໃຊ້ງານ"
+
+msgid "Not Connected"
+msgstr ""
+
+msgid "Not connected"
+msgstr "ບໍ່ໄດ້ເຊື່ອມຕໍ່"
+
+msgid "Not defined"
+msgstr "ບໍ່ໄດ້ກຳນົດ"
+
+msgid "Not found"
+msgstr "ຊອກບໍ່ເຫັນ"
+
+msgid "Not implemented"
+msgstr "ບໍ່​ໄດ້​ຖືກ​ຈັດ​ຕັ້ງ​ປະ​ຕິ​ບັດ"
+
+msgid "Not running"
+msgstr ""
+
+msgid "Not supported"
+msgstr "ບໍ່ຮອງຮັບ"
+
+msgid "Note"
+msgstr "ໝາຍເຫດ"
+
+msgid "Notes"
+msgstr "ບັນທຶກ"
+
+msgid "Nothing"
+msgstr "ບໍ່ມີຫຍັງ"
+
+msgid "Notice"
+msgstr "ແຈ້ງເຕືອນ"
+
+msgid "Notification"
+msgstr ""
+
+msgid "Notifications"
+msgstr "ການແຈ້ງເຕືອນ"
+
+msgid "Noun"
+msgstr "ນູນ"
+
+msgid "November"
+msgstr "ພະຈິກ"
+
+msgid "Now"
+msgstr "ຕອນນີ້"
+
+msgid "now"
+msgstr ""
+
+msgid "NT Domain"
+msgstr ""
+
+msgid "NUMBER"
+msgstr "ໝາຍເລກ"
+
+msgid "Number"
+msgstr "ເລກທີ"
+
+msgid "number"
+msgstr ""
+
+msgid "Number of columns"
+msgstr "ຈຳນວນຖັນ"
+
+msgid "Numbers"
+msgstr "ຕົວເລກ"
+
+msgid "Numeric"
+msgstr ""
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "ວັດຖຸ"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr ""
+
+msgid "Objects"
+msgstr "ອັອບເຈັກ"
+
+msgid "Oblique"
+msgstr "ໂຕອຽງ (Oblique)"
+
+msgid "Octal"
+msgstr ""
+
+msgid "October"
+msgstr "ຕຸລາ"
+
+msgid "Off"
+msgstr "ປິດ"
+
+msgid "off"
+msgstr ""
+
+msgid "Office"
+msgstr "ໂປຣເເກຣມຫ້ອງການ"
+
+msgid "Offline"
+msgstr "ອອບໄລນ໌"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "ຕົກລົງ"
+
+msgid "Ok"
+msgstr ""
+
+msgid "&OK"
+msgstr "&ຕົກລົງ"
+
+msgid "_OK"
+msgstr "_ຕົກລົງ"
+
+msgid "Okular"
+msgstr ""
+
+msgid "Oman"
+msgstr "ໂອມານ"
+
+msgid "On"
+msgstr "ເປີດ"
+
+msgid "on"
+msgstr "ເມື່ອ"
+
+msgid "One"
+msgstr "ໜຶ່ງ"
+
+msgid "Online"
+msgstr "ອອນລາຍ"
+
+msgid "Online Accounts"
+msgstr "ບັນຊີອອນລາຍ"
+
+msgid "Opacity"
+msgstr "ຄວາມທຶບແສງ"
+
+msgid "Opaque"
+msgstr ""
+
+msgid "Open"
+msgstr "ເປີດ"
+
+msgid "&Open"
+msgstr "ເປີດ (&O)"
+
+msgid "_Open"
+msgstr "_ເປີດ"
+
+msgid "Open..."
+msgstr "ເປີດ..."
+
+msgid "&Open..."
+msgstr ""
+
+msgid "_Open..."
+msgstr "_ເປີດ..."
+
+msgid "Open %1"
+msgstr "ເປີດ %1"
+
+msgid "Open a file"
+msgstr ""
+
+msgid "Open a new tab"
+msgstr "ເປີດແຖບໃໝ່"
+
+msgid "Open a new window"
+msgstr "ເປີດໜ້າຕ່າງໃໝ່"
+
+msgid "Open an existing document"
+msgstr ""
+
+msgid "Open Audio"
+msgstr ""
+
+msgid "Open Containing Folder"
+msgstr "ເປີດໂຟນເດີທີ່ບັນຈຸ"
+
+msgid "&Open Containing Folder"
+msgstr "&ເປີດໂຟນເດີທີ່ບັນຈຸ"
+
+msgid "Open Document"
+msgstr ""
+
+msgid "Open File"
+msgstr "ເປີດໄຟລ໌"
+
+msgid "Open file"
+msgstr "ເປີດຟາຍ"
+
+msgid "Open Folder"
+msgstr ""
+
+msgid "Open folder"
+msgstr "ເປີດໂຟນເດີ"
+
+msgid "Open Image"
+msgstr "ເປີດຮູບ"
+
+msgid "Open in Browser"
+msgstr ""
+
+msgid "Open in File Manager"
+msgstr "ເປີດໃນໂຕຈັດການໄຟລ໌"
+
+msgid "Open in New Tab"
+msgstr "ເປີດໃນແຖບໃຫມ່"
+
+msgid "Open in New Window"
+msgstr "ເປີດໃນປ່ອງຢ້ຽມໃຫມ່"
+
+msgid "Open Link"
+msgstr "ເປີດລິ້ງ"
+
+msgid "_Open Link"
+msgstr "_ເປີດລິ້ງ"
+
+msgid "Open Location"
+msgstr "ເປີດຕຳແໜ່ງ"
+
+msgid "Open Menu"
+msgstr "ເປີດເມນູ"
+
+msgid "Open Project"
+msgstr "ເປີດໂຄງການ"
+
+msgid "Open &Recent"
+msgstr ""
+
+msgid "Open Terminal Here"
+msgstr "ເປີດ Terminal ທີ່ນີ້"
+
+msgid "Open URL"
+msgstr "ເປີດ URL"
+
+msgid "Open Video"
+msgstr "ເປີດວິດີໂອ"
+
+msgid "Open With"
+msgstr "ເປີດດ້ວຍ"
+
+msgid "Open with"
+msgstr ""
+
+msgid "&Open With"
+msgstr "ເປີດດ້ວຍ (&O)"
+
+msgid "Open With..."
+msgstr "ເປີດດ້ວຍ..."
+
+msgid "Open &with %1"
+msgstr ""
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr ""
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr ""
+
+msgid "Operation"
+msgstr "ການດຳເນີນການ"
+
+msgid "Operation was cancelled"
+msgstr "ການດຳເນີນການຖືກຍົກເລີກ"
+
+msgid "Operations"
+msgstr ""
+
+msgid "Operator"
+msgstr "ຕົວດຳເນີນການ"
+
+msgid "Optical Character Recognition"
+msgstr ""
+
+msgid "Optimize"
+msgstr "ເພີ່ມປະສິດທິພາບ"
+
+msgid "Option"
+msgstr "ທາງເລືອກ"
+
+msgid "Optional"
+msgstr ""
+
+msgid "Options"
+msgstr "ທາງເລືອກ"
+
+msgid "&Options"
+msgstr ""
+
+msgid "OR"
+msgstr "ຫຼື"
+
+msgid "Or"
+msgstr "ຫຼື"
+
+msgid "or"
+msgstr "ຫຼື"
+
+msgid "Orange"
+msgstr "ສີສົ້ມ"
+
+msgid "Order"
+msgstr "ລຳດັບ"
+
+msgid "Organization"
+msgstr "ອົງກອນ"
+
+msgid "Orientation"
+msgstr "ທິດທາງ"
+
+msgid "Origin"
+msgstr "ແຫຼ່ງກຳເນີດ"
+
+msgid "Original"
+msgstr "ຕົ້ນສະບັບ"
+
+msgid "Original Author"
+msgstr ""
+
+msgid "Original author"
+msgstr ""
+
+msgid "Original Size"
+msgstr "ຂະໜາດຕົ້ນສະບັບ"
+
+msgid "Oriya"
+msgstr "ໂອຣິຢາ"
+
+msgid "Other"
+msgstr "ອື່ນໆ"
+
+msgid "other"
+msgstr ""
+
+msgid "Other..."
+msgstr "ອື່ນໆ..."
+
+msgid "Other Application..."
+msgstr ""
+
+msgid "Other Options"
+msgstr "ຕົວເລືອກອື່ນໆ"
+
+msgid "Others"
+msgstr "ອື່ນໆ"
+
+msgid "Out"
+msgstr "ອອກ"
+
+msgid "Out of memory"
+msgstr ""
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Outline"
+msgstr "ເສັ້ນຂອບ"
+
+msgid "Output"
+msgstr "ຜົນໄດ້ຮັບ"
+
+msgid "Overlay"
+msgstr "Overlay"
+
+msgid "Overview"
+msgstr "ພາບລວມ"
+
+msgid "Overwrite"
+msgstr "ຂຽນທັບ"
+
+msgid "Overwrite File?"
+msgstr "ຂຽນທັບໄຟລ໌ບໍ?"
+
+msgid "Owner"
+msgstr "ເຈົ້າຂອງ"
+
+msgid "Ownership"
+msgstr ""
+
+msgid "Oxygen"
+msgstr "Oxygen"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "ແພັກເກັດ"
+
+msgid "Padding"
+msgstr "ໄລຍະຫ່າງຂອບ"
+
+msgid "Page"
+msgstr "ເພຈ"
+
+msgid "page"
+msgstr ""
+
+msgid "Page %1"
+msgstr ""
+
+msgid "Page %1 of %2"
+msgstr "ໜ້າ %1 ຈາກ %2"
+
+msgid "Page Break"
+msgstr "ຕັດໜ້າ"
+
+msgid "Page Count"
+msgstr "ຈຳນວນໜ້າ"
+
+msgid "Page Number"
+msgstr "ເລກໜ້າ"
+
+msgid "Page Setup"
+msgstr ""
+
+msgid "Pager"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Paint"
+msgstr "ທາສີ"
+
+msgid "Pair"
+msgstr ""
+
+msgid "Pakistan"
+msgstr "ປາກີສະຖານ"
+
+msgid "Palau"
+msgstr "ປາເລົາ"
+
+msgid "Palette"
+msgstr "ກະດານສີ"
+
+msgid "Panama"
+msgstr "ປານາມາ"
+
+msgid "Panel"
+msgstr ""
+
+msgid "Panels"
+msgstr "ພາເນລ"
+
+msgid "&Panels"
+msgstr ""
+
+msgid "PAP"
+msgstr ""
+
+msgid "Paper"
+msgstr "ເຈ້ຍ"
+
+msgid "Paper Size"
+msgstr ""
+
+msgid "Papua New Guinea"
+msgstr "ປາປົວນິວກີນີ"
+
+msgid "Paragraph"
+msgstr "ວັກ"
+
+msgid "Paraguay"
+msgstr "ປາຣາກວາຍ"
+
+msgid "Parallel"
+msgstr "ເສັ້ນຂະໜານ"
+
+msgid "Parameter"
+msgstr "ຕົວປ່ຽນ"
+
+msgid "Parameters"
+msgstr "ພາຣາມິເຕີ"
+
+msgid "Parent"
+msgstr "ປາຣັງ"
+
+msgid "Partition"
+msgstr "ພາກສ່ວນ"
+
+msgid "Password"
+msgstr "ລະຫັດຜ່ານ"
+
+msgid "password"
+msgstr "ລະຫັດຜ່ານ"
+
+msgid "&Password"
+msgstr "&ລະຫັດຜ່ານ"
+
+msgid "_Password"
+msgstr "_ລະຫັດຜ່ານ"
+
+msgid "Password..."
+msgstr ""
+
+msgid "Passwords"
+msgstr "ລະຫັດຜ່ານ"
+
+msgid "Paste"
+msgstr "ວາງ"
+
+msgid "&Paste"
+msgstr ""
+
+msgid "_Paste"
+msgstr "_ວາງ"
+
+msgid "Path"
+msgstr "ເສັ້ນທາງ"
+
+msgid "path"
+msgstr ""
+
+msgid "Paths"
+msgstr "ເສັ້ນທາງ"
+
+msgid "Pattern"
+msgstr "ລວດລາຍ"
+
+msgid "Patterns"
+msgstr "ລວດລາຍ"
+
+msgid "Pause"
+msgstr "ຢຸດຊົ່ວຄາວ"
+
+msgid "&Pause"
+msgstr ""
+
+msgid "Pause playback"
+msgstr "ຢຸດການຫຼິ້ນຊົ່ວຄາວ"
+
+msgid "PAUSED"
+msgstr ""
+
+msgid "Paused"
+msgstr "ຢຸດຊົ່ວຄາວ"
+
+msgid "PDF"
+msgstr ""
+
+msgid "Peak"
+msgstr "ຍອດພູ"
+
+msgid "Peek at Desktop"
+msgstr ""
+
+msgid "Pencil"
+msgstr "ສໍ"
+
+msgid "Pending"
+msgstr "ລໍຖ້າດຳເນີນການ"
+
+msgid "Pentagon"
+msgstr ""
+
+msgid "People"
+msgstr "ຜູ້ຄົນ"
+
+msgid "Percent"
+msgstr ""
+
+msgid "Percentage"
+msgstr "ສ່ວນຮ້ອຍ"
+
+msgid "Perceptual"
+msgstr "ການຮັບຮູ້"
+
+msgid "Performance"
+msgstr "ປະສິດທິພາບ"
+
+msgid "Period"
+msgstr "ໄລຍະເວລາ"
+
+msgid "Permission denied"
+msgstr "ການອະນຸຍາດຖືກປະຕິເສດ"
+
+msgid "Permissions"
+msgstr "ການອະນຸຍາດ"
+
+msgid "Persian"
+msgstr "Persian"
+
+msgid "Person"
+msgstr ""
+
+msgid "Personal"
+msgstr "ສ່ວນຕົວ"
+
+msgid "Personal Information"
+msgstr ""
+
+msgid "Peru"
+msgstr "ເປຣູ"
+
+msgid "Phase"
+msgstr "ເຟສ"
+
+msgid "Philippines"
+msgstr "ຟິລິບປິນ"
+
+msgid "Phone"
+msgstr "ໂທລະສັບ"
+
+msgid "Photo"
+msgstr "ຮູບພາບ"
+
+msgid "PHP Documentation"
+msgstr ""
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr ""
+
+msgid "Picture"
+msgstr ""
+
+msgid "Pictures"
+msgstr "ຮູບ​ພາບ"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr "ວົງມົນ"
+
+msgid "Pin"
+msgstr ""
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "ພິກເຊວ"
+
+msgid "pixels"
+msgstr "ພິກເຊວ"
+
+msgid "Placement"
+msgstr ""
+
+msgid "Places"
+msgstr "ສະຖານທີ່"
+
+msgid "Plain"
+msgstr "ທຳມະດາ"
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Plan"
+msgstr ""
+
+msgid "Plasma"
+msgstr ""
+
+msgid "Platform"
+msgstr "ຊານຊະລາ"
+
+msgid "Play"
+msgstr "ຫຼິ້ນ"
+
+msgid "Play Next"
+msgstr ""
+
+msgid "Play Sounds"
+msgstr ""
+
+msgid "Playback"
+msgstr "ການຫຼິ້ນ"
+
+msgid "Player"
+msgstr "ເຄື່ອງຫຼິ້ນ"
+
+msgid "Player %1"
+msgstr ""
+
+msgid "Players"
+msgstr ""
+
+msgid "Playground"
+msgstr "ສະໜາມເດັກຫຼິ້ນ"
+
+msgid "Playing"
+msgstr ""
+
+msgid "Playlist"
+msgstr "ລາຍການຫຼິ້ນ"
+
+msgid "Playlists"
+msgstr "ລາຍການເພງ"
+
+msgid "Play/Pause"
+msgstr "ຫຼິ້ນ/ຢຸດຊົ່ວຄາວ"
+
+msgid "Please choose a file"
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Plot"
+msgstr ""
+
+msgid "Plots"
+msgstr ""
+
+msgid "Plugin"
+msgstr ""
+
+msgid "Plugins"
+msgstr "ປລັກອິນ"
+
+msgid "PM"
+msgstr "ແລງ"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "Point"
+
+msgid "Pointers"
+msgstr "ຕົວຊີ້"
+
+msgid "Points"
+msgstr "ຈຸດ"
+
+msgid "points"
+msgstr ""
+
+msgid "Poland"
+msgstr "ໂປໂລຍ"
+
+msgid "Policy"
+msgstr "ນະໂຍບາຍ"
+
+msgid "Polish"
+msgstr "Polish"
+
+msgid "Polygon"
+msgstr "ຮູບຫຼາຍແຈ"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Port"
+msgstr "ພອດ"
+
+msgid "&Port"
+msgstr ""
+
+msgid "Portrait"
+msgstr "ບຸກຄົນ"
+
+msgid "Portugal"
+msgstr "ປອກຕຸຍການ"
+
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgid "Position"
+msgstr "ຕຳແໜ່ງ"
+
+msgid "Posterize"
+msgstr "Posterize"
+
+msgid "PostScript"
+msgstr ""
+
+msgid "Power"
+msgstr "Power"
+
+msgid "Power Management"
+msgstr ""
+
+msgid "Precision"
+msgstr "ຄວາມຊັດເຈນ"
+
+msgid "Preferences"
+msgstr "ການຕັ້ງຄ່າ"
+
+msgid "_Preferences"
+msgstr "_ການຕັ້ງຄ່າ"
+
+msgid "Prefix"
+msgstr "ຄຳນຳໜ້າ"
+
+msgid "Presentation"
+msgstr "ການນຳສະເໜີ"
+
+msgid "Preset"
+msgstr "ຄ່າທີ່ຕັ້ງໄວ້"
+
+msgid "Presets"
+msgstr "ຄ່າທີ່ຕັ້ງໄວ້ (Presets)"
+
+msgid "Pressure"
+msgstr "ຄວາມດັນ"
+
+msgid "Preview"
+msgstr "ສະແດງຕົວຢ່າງ"
+
+msgid "&Preview"
+msgstr "&ສະແດງຕົວຢ່າງ"
+
+msgid "Previews"
+msgstr "ການສະແດງຕົວຢ່າງ"
+
+msgid "Previous"
+msgstr "ກ່ອນໜ້າ"
+
+msgid "&Previous"
+msgstr "&ກ່ອນໜ້າ"
+
+msgid "_Previous"
+msgstr ""
+
+msgid "Previous Image"
+msgstr "ຮູບກ່ອນໜ້າ"
+
+msgid "Previous month"
+msgstr "ເດືອນກ່ອນ"
+
+msgid "Previous Page"
+msgstr ""
+
+msgid "Previous Tab"
+msgstr "ແຖບກ່ອນໜ້າ"
+
+msgid "Previous Track"
+msgstr "ເພງກ່ອນໜ້າ"
+
+msgid "Price"
+msgstr "ລາຄາ"
+
+msgid "Primary"
+msgstr ""
+
+msgid "Print"
+msgstr "ພິມ"
+
+msgid "_Print"
+msgstr ""
+
+msgid "Print..."
+msgstr ""
+
+msgid "&Print..."
+msgstr ""
+
+msgid "_Print..."
+msgstr "_ພິມ…"
+
+msgid "Print Image"
+msgstr "ພິມ​ຮູບ​ພາບ"
+
+msgid "Print Preview"
+msgstr ""
+
+msgid "Print version"
+msgstr ""
+
+msgid "Print version information and exit"
+msgstr "ພິມຂໍ້ມູນເວີຊັນ ແລະ ອອກຈາກລະບົບ"
+
+msgid "Printer"
+msgstr "ເຄື່ອງພິມ"
+
+msgid "Printers"
+msgstr ""
+
+msgid "Printing"
+msgstr "ກຳລັງພິມ"
+
+msgid "Printing..."
+msgstr ""
+
+msgid "Priority"
+msgstr "ຄວາມສຳຄັນ"
+
+msgid "Privacy"
+msgstr "ຄວາມເປັນສ່ວນຕົວ"
+
+msgid "Private"
+msgstr "ສ່ວນຕົວ"
+
+msgid "Process"
+msgstr "ປະມວນຜົນ"
+
+msgid "Processor"
+msgstr ""
+
+msgid "Producer"
+msgstr ""
+
+msgid "Product"
+msgstr "ຜະລິດຕະພັນ"
+
+msgid "Profession"
+msgstr ""
+
+msgid "Profile"
+msgstr "ໂປຣໄຟລ໌"
+
+msgid "Profile name"
+msgstr ""
+
+msgid "Profiles"
+msgstr "ໂປຣໄຟລ໌"
+
+msgid "Program"
+msgstr ""
+
+msgid "Progress"
+msgstr "ຄວາມຄືບໜ້າ"
+
+msgid "Project"
+msgstr "ໂຄງການ"
+
+msgid "&Project"
+msgstr ""
+
+msgid "Projects"
+msgstr "ໂຄງການ"
+
+msgid "Properties"
+msgstr "ຄຸນສົມບັດ"
+
+msgid "&Properties"
+msgstr ""
+
+msgid "_Properties"
+msgstr "_ຄຸນສົມບັດ"
+
+msgid "Properties..."
+msgstr "ຄຸນສົມບັດ..."
+
+msgid "&Properties..."
+msgstr ""
+
+msgid "Property"
+msgstr "ຄຸນສົມບັດ"
+
+msgid "property “%s” invalid or not supported"
+msgstr ""
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr ""
+
+msgid "Proportional"
+msgstr ""
+
+msgid "Protected"
+msgstr ""
+
+msgid "Protocol"
+msgstr "ໂປຣໂຕຄໍ"
+
+msgid "Provider"
+msgstr ""
+
+msgid "Proxy"
+msgstr "ພຣັອກຊີ"
+
+msgid "Proxy Settings"
+msgstr ""
+
+msgid "Public"
+msgstr "ສາທາລະນະ"
+
+msgid "Public Key"
+msgstr "ກຸນແຈສາທາລະນະ"
+
+msgid "Publisher"
+msgstr "ຜູ້ເຜີຍແຜ່"
+
+msgid "Publishing"
+msgstr ""
+
+msgid "Puerto Rico"
+msgstr "ເປີໂຕຣິໂກ"
+
+msgid "Punjabi"
+msgstr "ປັນຈາບີ"
+
+msgid "Push"
+msgstr "ສົ່ງ"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "ກາຕາ"
+
+msgid "QR Code"
+msgstr ""
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+
+msgid "Quality"
+msgstr "ຄຸນນະພາບ"
+
+msgid "Quebec"
+msgstr "ເກເບັກ"
+
+msgid "Query"
+msgstr ""
+
+msgid "Question"
+msgstr "ຄຳຖາມ"
+
+msgid "Queue"
+msgstr ""
+
+msgid "Queued"
+msgstr "ຢູ່ໃນຄິວ"
+
+msgid "Quit"
+msgstr "ອອກ"
+
+msgid "&Quit"
+msgstr ""
+
+msgid "_Quit"
+msgstr "_ອອກ"
+
+msgid "Quit application"
+msgstr ""
+
+msgid "Quit the application"
+msgstr ""
+
+msgid "Quits the application"
+msgstr ""
+
+msgid "Quote"
+msgstr "ຄຳອ້າງອີງສັ້ນ"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "Radial"
+
+msgid "Radio"
+msgstr ""
+
+msgid "Radius"
+msgstr "ລັດສະໝີ"
+
+msgid "Raise"
+msgstr ""
+
+msgid "Random"
+msgstr "ແບບສຸ່ມ"
+
+msgid "Range"
+msgstr "ຊ່ວງ"
+
+msgid "Rank"
+msgstr ""
+
+msgid "Rate"
+msgstr "ອັດຕາ"
+
+msgid "Rating"
+msgstr "ການໃຫ້ຄະແນນ"
+
+msgid "Raw"
+msgstr ""
+
+msgid "Read"
+msgstr "ອ່ານ"
+
+msgid "Read error"
+msgstr ""
+
+msgid "Read Only"
+msgstr ""
+
+msgid "Read only"
+msgstr ""
+
+msgid "Reading"
+msgstr "ເຣດດິງ"
+
+msgid "read-only"
+msgstr "ອ່ານເທົ່ານັ້ນ"
+
+msgid "Ready"
+msgstr "ພ້ອມແລ້ວ"
+
+msgid "Ready."
+msgstr "ພ້ອມ."
+
+msgid "Reason"
+msgstr "ເຫດຜົນ"
+
+msgid "Reassign"
+msgstr "ກຳນົດໃໝ່"
+
+msgid "Recent"
+msgstr "ລາຍການຫຼ້າສຸດ"
+
+msgid "Recent Documents"
+msgstr ""
+
+msgid "Recent Files"
+msgstr ""
+
+msgid "Recent files"
+msgstr ""
+
+msgid "Record"
+msgstr "ບັນທຶກ"
+
+msgid "Recording"
+msgstr "ກຳລັງບັນທຶກ"
+
+msgid "Rectangle"
+msgstr "ສີ່ແຈສາກ"
+
+msgid "Recursive"
+msgstr "ຕໍ່ເນື່ອງ"
+
+msgid "Red"
+msgstr "ສີແດງ"
+
+msgid "red"
+msgstr ""
+
+msgid "Redo"
+msgstr "ເຮັດຄືນ"
+
+msgid "&Redo"
+msgstr ""
+
+msgid "_Redo"
+msgstr "_ເຮັດຄືນ"
+
+msgid "Re&do"
+msgstr ""
+
+msgid "Redo %1"
+msgstr ""
+
+msgid "Reference"
+msgstr "ການອ້າງອີງ"
+
+msgid "References"
+msgstr "ການອ້າງອີງ"
+
+msgid "Refresh"
+msgstr "ຣີເຟຣຊ"
+
+msgid "_Refresh"
+msgstr "_ໂຫຼດໃໝ່"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Region"
+msgstr "ເຂດ (Region)"
+
+msgid "Register"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Regular Expression"
+msgstr "ນິພົດປົກກະຕິ"
+
+msgid "Regular expression"
+msgstr "Regular expression"
+
+msgid "Reject"
+msgstr ""
+
+msgid "Relative"
+msgstr "ສຳພັດ (Relative)"
+
+msgid "Reload"
+msgstr "ໂຫຼດໃໝ່"
+
+msgid "&Reload"
+msgstr "&ໂຫຼດຄືນ"
+
+msgid "_Reload"
+msgstr "_ໂຫຼດຄືນໃໝ່"
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Remote"
+msgstr ""
+
+msgid "Removable"
+msgstr ""
+
+msgid "Remove"
+msgstr "ລຶບອອກ"
+
+msgid "&Remove"
+msgstr "&ເອົາອອກ"
+
+msgid "_Remove"
+msgstr "_ລຶບອອກ"
+
+msgid "R&emove"
+msgstr ""
+
+msgid "Re&move"
+msgstr ""
+
+msgid "Remove..."
+msgstr ""
+
+msgid "Remove %1"
+msgstr ""
+
+msgid "Remove Account"
+msgstr "ລຶບບັນຊີ"
+
+msgid "Remove All"
+msgstr "ລຶບທັງໝົດ"
+
+msgid "Remove Bookmark"
+msgstr "ລຶບບຸກໝາກ"
+
+msgid "Remove Folder"
+msgstr "ລຶບໂຟນເດີ"
+
+msgid "Remove from Favorites"
+msgstr ""
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "ລຶບກຸ່ມ"
+
+msgid "Remove Rule"
+msgstr ""
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "ປ່ຽນຊື່"
+
+msgid "&Rename"
+msgstr "&ປ່ຽນຊື່"
+
+msgid "_Rename"
+msgstr ""
+
+msgid "Rename..."
+msgstr "ປ່ຽນຊື່..."
+
+msgid "&Rename..."
+msgstr "&ປ່ຽນຊື່..."
+
+msgid "Rename Bookmark"
+msgstr ""
+
+msgid "Rename File"
+msgstr ""
+
+msgid "Repeat"
+msgstr "ເຮັດຊ້ຳ"
+
+msgid "Replace"
+msgstr "ແທນທີ່"
+
+msgid "&Replace"
+msgstr "&ແທນທີ່"
+
+msgid "_Replace"
+msgstr "_ແທນທີ່"
+
+msgid "Replace All"
+msgstr "ແທນທີ່ທັງໝົດ"
+
+msgid "Replace _All"
+msgstr ""
+
+msgid "Replace an existing instance"
+msgstr ""
+
+msgid "Replacement"
+msgstr "ການແທນທີ່"
+
+msgid "Reply"
+msgstr "ຕອບກັບ"
+
+msgid "Report"
+msgstr "ລາຍງານ"
+
+msgid "Report a bug"
+msgstr ""
+
+msgid "Report Bug"
+msgstr ""
+
+msgid "Report Bug..."
+msgstr ""
+
+msgid "&Report Bug..."
+msgstr "&ລາຍງານຂໍ້ຜິດພາດ..."
+
+msgid "Reports"
+msgstr "ລາຍງານ"
+
+msgid "Required"
+msgstr "ຈຳເປັນ"
+
+msgid "Rescan"
+msgstr "ສະແກນໃໝ່"
+
+msgid "Resend"
+msgstr ""
+
+msgid "Reset"
+msgstr "ຣີເຊັດ"
+
+msgid "&Reset"
+msgstr "&ຄືນ​ຄ່າ"
+
+msgid "_Reset"
+msgstr "_ຕັ້ງຄ່າໃໝ່"
+
+msgid "Reset to Default"
+msgstr "ຣີເຊັດເປັນຄ່າເລີ່ມຕົ້ນ"
+
+msgid "Reset to default"
+msgstr "ຣີເຊັດເປັນຄ່າເລີ່ມຕົ້ນ"
+
+msgid "Reset Zoom"
+msgstr "ຣີເຊັດການຊູມ"
+
+msgid "Resize"
+msgstr "ປັບຂະໜາດ"
+
+msgid "_Resize"
+msgstr "_ປັບຂະໜາດ"
+
+msgid "Resize Image"
+msgstr "ປັບຂະໜາດຮູບ"
+
+msgid "Resolution"
+msgstr "ຄວາມລະອຽດ"
+
+msgid "Resource"
+msgstr ""
+
+msgid "Resources"
+msgstr ""
+
+msgid "Restart"
+msgstr "ເລີ່ມໃໝ່"
+
+msgid "Restore"
+msgstr "ກູ້ຄືນ"
+
+msgid "Restore Session"
+msgstr ""
+
+msgid "Result"
+msgstr "ຜົນລັບ"
+
+msgid "Results"
+msgstr "ຜົນລັບ"
+
+msgid "Resume"
+msgstr "ຫຼີ້ນຕໍ່"
+
+msgid "&Resume"
+msgstr ""
+
+msgid "Retry"
+msgstr "ລອງໃໝ່"
+
+msgid "Return"
+msgstr "ຜົນຕອບແທນ"
+
+msgid "Reverse"
+msgstr "ກັບດ້ານ"
+
+msgid "Revert"
+msgstr "ຍົກເລີກການປ່ຽນແປງ"
+
+msgid "_Revert"
+msgstr "_ກັບຄືນ"
+
+msgid "Review"
+msgstr ""
+
+msgid "Revision"
+msgstr "Revision"
+
+msgid "Revoked"
+msgstr ""
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "ຂວາ"
+
+msgid "right"
+msgstr ""
+
+msgid "&Right"
+msgstr "&ຂວາ"
+
+msgid "_Right"
+msgstr "ຂວາ"
+
+msgid "Right to Left"
+msgstr ""
+
+msgid "Right-click"
+msgstr ""
+
+msgid "River"
+msgstr "ແມ່ນ້ຳ"
+
+msgid "RKWard Team"
+msgstr ""
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Role"
+msgstr "ບົດບາດ"
+
+msgid "Roman"
+msgstr "Roman"
+
+msgid "Romania"
+msgstr "ໂຣມາເນຍ"
+
+msgid "Romanian"
+msgstr "ໂຣມາເນຍ"
+
+msgid "Room"
+msgstr "ຫ້ອງ"
+
+msgid "Root"
+msgstr "ຮາກ (Root)"
+
+msgid "Rotate"
+msgstr "ໝຸນ"
+
+msgid "Rotate Left"
+msgstr "ໝຸນຊ້າຍ"
+
+msgid "Rotate Right"
+msgstr "ໝຸນຂວາ"
+
+msgid "Rotation"
+msgstr "ການໝຸນ"
+
+msgid "Round"
+msgstr "ປັດເສດ"
+
+msgid "Row"
+msgstr ""
+
+msgid "Rows"
+msgstr "ແຖວ"
+
+msgid "rows"
+msgstr ""
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr ""
+
+msgid "Run"
+msgstr "ແລ່ນ"
+
+msgid "&Run"
+msgstr ""
+
+msgid "Run in terminal"
+msgstr ""
+
+msgid "Running"
+msgstr "ກຳລັງທຳງານ"
+
+msgid "Russia"
+msgstr "ຣັດເຊຍ"
+
+msgid "Russian"
+msgstr "ລັດເຊຍ"
+
+msgid "Rwanda"
+msgstr "ຣວັນດາ"
+
+msgid "S"
+msgstr "S"
+
+msgid "s"
+msgstr "ວິນາທີ"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr ""
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr ""
+
+msgid "Samoa"
+msgstr "ຊາມົວ"
+
+msgid "Sample"
+msgstr "ຕົວຢ່າງ"
+
+msgid "Sample Rate"
+msgstr "ອັດຕາສຸ່ມ"
+
+msgid "Sample rate"
+msgstr "ອັດຕາ Sample"
+
+msgid "Samples"
+msgstr ""
+
+msgid "San Marino"
+msgstr "ຊານ ມາຣິໂນ"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Satellite"
+msgstr "ດາວທຽມ"
+
+msgid "Saturation"
+msgstr "ຄວາມອີ່ມຕົວ (Saturation)"
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Saudi Arabia"
+msgstr "ຊາອຸດິ ອາຣາເບຍ"
+
+msgid "Save"
+msgstr "ບັນທຶກ"
+
+msgid "&Save"
+msgstr "&ບັນທຶກ"
+
+msgid "_Save"
+msgstr "_ບັນທຶກ"
+
+msgid "Save..."
+msgstr ""
+
+msgid "Save All"
+msgstr "ບັນທຶກທັງໝົດ"
+
+msgid "Save As"
+msgstr "ບັນທຶກເປັນ"
+
+msgid "Save as"
+msgstr "ບັນທຶກເປັນ"
+
+msgid "Save _As"
+msgstr "ບັນທຶກ_ເປັນ"
+
+msgid "Save As..."
+msgstr "ບັນທຶກເປັນ..."
+
+msgid "Save as..."
+msgstr "ບັນທຶກເປັນ..."
+
+msgid "_Save As..."
+msgstr "ບັນທຶກ_ເປັນ…"
+
+msgid "Save &As..."
+msgstr ""
+
+msgid "Save _As..."
+msgstr "ບັນທຶກ_ເປັນ..."
+
+msgid "Save Attachment"
+msgstr ""
+
+msgid "Save Changes"
+msgstr "ບັນທຶກການປ່ຽນແປງ"
+
+msgid "Save Changes?"
+msgstr ""
+
+msgid "Save File"
+msgstr "ບັນທຶກໄຟລ໌"
+
+msgid "Save file"
+msgstr "ບັນທຶກໄຟລ໌"
+
+msgid "Save Game"
+msgstr ""
+
+msgid "Save Image"
+msgstr "ບັນທຶກຮູບ"
+
+msgid "_Save Image As..."
+msgstr "_ບັນທຶກຮູບພາບເປັນ…"
+
+msgid "Save Project"
+msgstr "ບັນທຶກໂຄງການ"
+
+msgid "Save Session"
+msgstr ""
+
+msgid "Save Settings"
+msgstr "ການຕັ້ງຄ່າການບັນທຶກ"
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving"
+msgstr "ກຳລັງບັນທຶກ"
+
+msgid "Saving..."
+msgstr ""
+
+msgid "Saving file..."
+msgstr "ກຳລັງບັນທຶກໄຟລ໌..."
+
+msgid "Scale"
+msgstr "ຂະໜາດ"
+
+msgid "_Scale"
+msgstr "_ປັບຂະໜາດ"
+
+msgid "Scaled"
+msgstr ""
+
+msgid "Scaling"
+msgstr "ການປັບຂະໜາດ"
+
+msgid "Scan"
+msgstr "ສະແກນ"
+
+msgid "Scanner"
+msgstr "ເຄື່ອງສະແກນ"
+
+msgid "Scanning..."
+msgstr ""
+
+msgid "Schedule"
+msgstr "ຕາຕະລາງ"
+
+msgid "Scheduling"
+msgstr ""
+
+msgid "Scheme"
+msgstr "ຮູບແບບ (Scheme)"
+
+msgid "School"
+msgstr "ໂຮງຮຽນ"
+
+msgid "Scientific"
+msgstr "ວິທະຍາສາດ"
+
+msgid "Scope"
+msgstr ""
+
+msgid "Score"
+msgstr "ຄະແນນ"
+
+msgid "Score: %1"
+msgstr "ຄະແນນ: %1"
+
+msgid "Screen"
+msgstr "Screen"
+
+msgid "Screenshot"
+msgstr "ພາບໜ້າຈໍ"
+
+msgid "Screenshots"
+msgstr ""
+
+msgid "Script"
+msgstr "ສະຄຣິບ"
+
+msgid "Scripting"
+msgstr "ການຂຽນສະຄຣິບ"
+
+msgid "Scripts"
+msgstr "ສະຄຣິບ"
+
+msgid "Scroll"
+msgstr "ເລື່ອນ (Scroll)"
+
+msgid "Scroll Down"
+msgstr "ເລື່ອນລົງ"
+
+msgid "Scroll Left"
+msgstr "ເລື່ອນຊ້າຍ"
+
+msgid "Scroll Right"
+msgstr "ເລື່ອນຂວາ"
+
+msgid "Scroll Up"
+msgstr "ເລື່ອນຂຶ້ນ"
+
+msgid "Scrolling"
+msgstr "ການເລື່ອນ"
+
+msgid "Search"
+msgstr "ຄົ້ນຫາ"
+
+msgid "&Search"
+msgstr "&ຄົ້ນຫາ"
+
+msgid "_Search"
+msgstr "_ຄົ້ນຫາ"
+
+msgid "S&earch"
+msgstr ""
+
+msgid "Search..."
+msgstr "ຄົ້ນຫາ..."
+
+msgid "Search Bar"
+msgstr ""
+
+msgid "_Search for"
+msgstr ""
+
+msgid "Search for '%1' with"
+msgstr ""
+
+msgid "Search Options"
+msgstr "ຕົວເລືອກການຄົ້ນຫາ"
+
+msgid "Search Results"
+msgstr "ຜົນການຄົ້ນຫາ"
+
+msgid "Search results"
+msgstr "ຜົນການຊອກຫາ"
+
+msgid "Searching..."
+msgstr "ກຳລັງຄົ້ນຫາ…"
+
+msgid "Sebastian Kügler"
+msgstr ""
+
+msgid "Second"
+msgstr ""
+
+msgid "Seconds"
+msgstr "ວິນາທີ"
+
+msgid "seconds"
+msgstr "ວິນາທີ"
+
+msgid "Section"
+msgstr ""
+
+msgid "Security"
+msgstr "ຫຼັກຊັບ"
+
+msgid "Seek"
+msgstr "ເລື່ອນຫາ"
+
+msgid "Select"
+msgstr "ເລືອກ"
+
+msgid "_Select"
+msgstr "_ເລືອກ"
+
+msgid "Select..."
+msgstr "ເລືອກ..."
+
+msgid "Select All"
+msgstr "ເລືອກທັງໝົດ"
+
+msgid "Select all"
+msgstr "ເລືອກທັງໝົດ"
+
+msgid "&Select All"
+msgstr ""
+
+msgid "_Select All"
+msgstr "_ເລືອກທັງໝົດ"
+
+msgid "Select &All"
+msgstr "ເລືອກທັງໝົດ"
+
+msgid "Select _All"
+msgstr "ເລືອກ_ທັງໝົດ"
+
+msgid "Select an authentication mode."
+msgstr ""
+
+msgid "Select an image"
+msgstr "ເລືອກຮູບພາບ"
+
+msgid "Select Color"
+msgstr ""
+
+msgid "Select Directory"
+msgstr "ເລືອກໂຟນເດີ"
+
+msgid "Select File"
+msgstr "ເລືອກໄຟລ໌"
+
+msgid "Select file"
+msgstr ""
+
+msgid "Select Folder"
+msgstr "ເລືອກໂຟລເດີ"
+
+msgid "Select folder"
+msgstr ""
+
+msgid "Select Font"
+msgstr ""
+
+msgid "Select None"
+msgstr "ບໍ່ເລືອກ"
+
+msgid "Select Source"
+msgstr "ເລືອກແຫຼ່ງ"
+
+msgid "Selected"
+msgstr "ຖືກເລືອກ"
+
+msgid "Selection"
+msgstr "ການເລືອກ"
+
+msgid "Selections"
+msgstr ""
+
+msgid "Semicolon"
+msgstr ""
+
+msgid "Send"
+msgstr "ສົ່ງ"
+
+msgid "Send an email to %1"
+msgstr ""
+
+msgid "Send File"
+msgstr ""
+
+msgid "Send to %1"
+msgstr ""
+
+msgid "Sender"
+msgstr "ຜູ້ສົ່ງ"
+
+msgid "Senegal"
+msgstr "ເຊເນການ"
+
+msgid "Sensitivity"
+msgstr "ຄວາມໄວແສງ"
+
+msgid "Sent"
+msgstr ""
+
+msgid "Separator"
+msgstr "ຕົວຂັ້ນ"
+
+msgid "September"
+msgstr "ກັນຍາ"
+
+msgid "Serbia"
+msgstr "ເຊີເບຍ"
+
+msgid "Serbian"
+msgstr "Serbian"
+
+msgid "Serial Number"
+msgstr "ເລກປະຈຳເຄື່ອງ"
+
+msgid "Serial number"
+msgstr ""
+
+msgid "Series"
+msgstr ""
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Server"
+msgstr "ເຊີບເວີ"
+
+msgid "Server URL"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Session"
+msgstr "ເຊດຊັນ"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr ""
+
+msgid "Set"
+msgstr ""
+
+msgid "Set as Default"
+msgstr ""
+
+msgid "Set as default"
+msgstr ""
+
+msgid "Settings"
+msgstr "ການຕັ້ງຄ່າ"
+
+msgid "&Settings"
+msgstr "&ການຕັ້ງຄ່າ"
+
+msgid "_Settings"
+msgstr "_ການຕັ້ງຄ່າ"
+
+msgid "Settings..."
+msgstr "ການ​ຕັ້ງ​ຄ່າ..."
+
+msgid "Severity"
+msgstr "ລະດັບຄວາມຮຸນແຮງ"
+
+msgid "Seychelles"
+msgstr "ເຊເຊລ"
+
+msgid "SHA-256"
+msgstr ""
+
+msgid "Shading"
+msgstr ""
+
+msgid "Shadow"
+msgstr "ເງົາ"
+
+msgid "Shadows"
+msgstr "ເງົາ"
+
+msgid "Shape"
+msgstr "ຮູບຮ່າງ"
+
+msgid "Share"
+msgstr "ແບ່ງປັນ"
+
+msgid "Share..."
+msgstr ""
+
+msgid "Shared"
+msgstr ""
+
+msgid "Sharing"
+msgstr "ການແບ່ງປັນ"
+
+msgid "Sharing failed"
+msgstr ""
+
+msgid "Sharpen"
+msgstr "ເຮັດ​ໃຫ້​ຄົມ​ຊັດ"
+
+msgid "Sharpness"
+msgstr "ຄວາມຄົມຊັດ"
+
+msgid "Shear"
+msgstr "ບິດ"
+
+msgid "Shell"
+msgstr ""
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "ຫຍໍ້"
+
+msgid "Shortcut"
+msgstr "ທາງລັດ"
+
+msgid "Shortcuts"
+msgstr "ທາງລັດ"
+
+msgid "Show"
+msgstr "ສະແດງ"
+
+msgid "Show All"
+msgstr ""
+
+msgid "Show Details"
+msgstr "ສະແດງລາຍລະອຽດ"
+
+msgid "Show details"
+msgstr "ສະແດງລາຍລະອຽດ"
+
+msgid "Show Grid"
+msgstr "ສະແດງຕາຕະລາງ"
+
+msgid "Show grid"
+msgstr "ສະແດງຕາຕະລາງ"
+
+msgid "Show Help"
+msgstr "ສະແດງການຊ່ວຍເຫຼືອ"
+
+msgid "Show help"
+msgstr "ສະແດງການຊ່ວຍເຫຼືອ"
+
+msgid "Show Hidden Files"
+msgstr "ສະແດງໄຟລ໌ທີ່ເຊື່ອງໄວ້"
+
+msgid "Show in folder"
+msgstr ""
+
+msgid "Show legend"
+msgstr ""
+
+msgid "Show Password"
+msgstr ""
+
+msgid "Show Preview"
+msgstr "ສະແດງຕົວຢ່າງ"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr "ສະແດງທາງລັດ"
+
+msgid "Show Status Bar"
+msgstr ""
+
+msgid "Show St&atusbar"
+msgstr ""
+
+msgid "Show the application's version"
+msgstr "ສະແດງເວີຊັນຂອງແອັບພລິເຄຊັນ"
+
+msgid "Show Toolbar"
+msgstr ""
+
+msgid "Show toolbar"
+msgstr ""
+
+msgid "Show &Toolbar"
+msgstr ""
+
+msgid "Shuffle"
+msgstr "ສຸ່ມ"
+
+msgid "Shut Down"
+msgstr ""
+
+msgid "Shutdown"
+msgstr "ປິດເຄື່ອງ"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "ແຖບດ້ານຂ້າງ"
+
+msgid "Sierra Leone"
+msgstr "ເຊຍຣາ ລີໂອນ"
+
+msgid "Sign"
+msgstr ""
+
+msgid "Signal"
+msgstr "ສັນຍານ"
+
+msgid "Signature"
+msgstr "ຊິກເນເຈີ"
+
+msgid "Simple"
+msgstr "Simple"
+
+msgid "Singapore"
+msgstr "ສິງກະໂປ"
+
+msgid "Single"
+msgstr "ດ່ຽວ"
+
+msgid "Sinhala"
+msgstr "Sinhala"
+
+msgid "Size"
+msgstr "ຂະໜາດ"
+
+msgid "size"
+msgstr ""
+
+msgid "&Size"
+msgstr "&ຂະໜາດ"
+
+msgid "Size: %1"
+msgstr "ຂະໜາດ: %1"
+
+msgid "Skip"
+msgstr "ຂ້າມ"
+
+msgid "&Skip"
+msgstr "&ຂ້າມ"
+
+msgid "_Skip"
+msgstr ""
+
+msgid "Skip forward"
+msgstr ""
+
+msgid "Sleep"
+msgstr ""
+
+msgid "Slide"
+msgstr "Slide"
+
+msgid "Slider"
+msgstr "ແຖບເລື່ອນ"
+
+msgid "Slideshow"
+msgstr "ສະໄລໂຊ"
+
+msgid "Slovak"
+msgstr "ສະໂລວັກ"
+
+msgid "Slovenia"
+msgstr "ສະໂລເວເນຍ"
+
+msgid "Slovenian"
+msgstr "ສະໂລເວເນຍ"
+
+msgid "Slow"
+msgstr ""
+
+msgid "Slower"
+msgstr ""
+
+msgid "Small"
+msgstr "ນ້ອຍ"
+
+msgid "Smooth"
+msgstr "ກ້ຽງ"
+
+msgid "Smoothing"
+msgstr "ການເຮັດໃຫ້ລຽບ (Smoothing)"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Snap"
+
+msgid "Snap to Grid"
+msgstr ""
+
+msgid "Snow"
+msgstr "Snow"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr "Socks5"
+
+msgid "Software"
+msgstr ""
+
+msgid "Solid"
+msgstr "ຂອງແຂງ"
+
+msgid "Solid color"
+msgstr "ສີດຽວ"
+
+msgid "Solomon Islands"
+msgstr "ໝູ່ເກາະໂຊໂລມອນ"
+
+msgid "Somalia"
+msgstr "ໂຊມາເລຍ"
+
+msgid "Sort"
+msgstr "ຊອດ"
+
+msgid "Sort By"
+msgstr "ຈັດລຽງຕາມ"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Sorting"
+msgstr "ການຈັດລຽງ"
+
+msgid "Sound"
+msgstr "ສຽງ"
+
+msgid "Soundtrack"
+msgstr "ສຽງປະກອບ"
+
+msgid "Source"
+msgstr "ຕົ້ນທາງ"
+
+msgid "Sources"
+msgstr ""
+
+msgid "South"
+msgstr "ໃຕ້"
+
+msgid "South Africa"
+msgstr "ອາຟຣິກາໃຕ້"
+
+msgid "South European"
+msgstr "ເອີຣົບໃຕ້"
+
+msgid "Space"
+msgstr "ຍະວ່າງ"
+
+msgid "Spacing"
+msgstr "ໄລຍະຫ່າງ"
+
+msgid "Spain"
+msgstr "ແອດສະປາຍ"
+
+msgid "Spam"
+msgstr ""
+
+msgid "Spanish"
+msgstr "ສະເປນ"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr ""
+
+msgid "Speak Text"
+msgstr ""
+
+msgid "Speaker"
+msgstr ""
+
+msgid "Special"
+msgstr ""
+
+msgid "Special Characters"
+msgstr "ຕົວອັກສອນພິເສດ"
+
+msgid "Specials"
+msgstr ""
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr ""
+
+msgid "Speed"
+msgstr "ຄວາມໄວ"
+
+msgid "Spell Check"
+msgstr ""
+
+msgid "Spell Checking"
+msgstr ""
+
+msgid "Spelling"
+msgstr "ການສະກົດຄຳ"
+
+msgid "Spiral"
+msgstr "ກົ້ນຫອຍ"
+
+msgid "Split"
+msgstr "ແຍກ"
+
+msgid "Split View"
+msgstr ""
+
+msgid "Sports"
+msgstr ""
+
+msgid "Spreadsheet"
+msgstr ""
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "ສີ່ຫຼ່ຽມ"
+
+msgid "Sri Lanka"
+msgstr "ສີລັງກາ"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+
+msgid "SSL/TLS"
+msgstr ""
+
+msgid "Stack"
+msgstr "ສະແຕັກ"
+
+msgid "Stacked"
+msgstr ""
+
+msgid "Standard"
+msgstr "ມາດຕະຖານ"
+
+msgid "Standard deviation"
+msgstr "ຄ່າຜັນປ່ຽນມາດຕະຖານ"
+
+msgid "Star"
+msgstr ""
+
+msgid "Start"
+msgstr "ເລີ່ມຕົ້ນ"
+
+msgid "&Start"
+msgstr "&ເລີ່ມ"
+
+msgid "Start a new game"
+msgstr ""
+
+msgid "Start Date"
+msgstr "ວັນທີເລີ່ມຕົ້ນ"
+
+msgid "Start date"
+msgstr "ວັນທີເລີ່ມຕົ້ນ"
+
+msgid "Start Presentation"
+msgstr "ເລີ່ມການນຳສະເໜີ"
+
+msgid "Start Time"
+msgstr ""
+
+msgid "Started"
+msgstr ""
+
+msgid "Starting"
+msgstr ""
+
+msgid "Starting..."
+msgstr "ກຳລັງເລີ່ມຕົ້ນ…"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "ຂຶ້ນຕົ້ນດ້ວຍ"
+
+msgid "Startup"
+msgstr ""
+
+msgid "Stash"
+msgstr "Stash"
+
+msgid "State"
+msgstr "ສະຖານະ"
+
+msgid "States"
+msgstr "ລັດ"
+
+msgid "Statistics"
+msgstr "ສະຖິຕິ"
+
+msgid "Status"
+msgstr "ສະຖານະ"
+
+msgid "Status: %1"
+msgstr ""
+
+msgid "Statusbar"
+msgstr "ແຖບສະຖານະ"
+
+msgid "_Statusbar"
+msgstr ""
+
+msgid "Step"
+msgstr ""
+
+msgid "Stephan Kulow"
+msgstr ""
+
+msgid "Steps"
+msgstr "ຂັ້ນຕອນ"
+
+msgid "Stereo"
+msgstr "ສະເຕີຣິໂອ"
+
+msgid "Stop"
+msgstr "ຢຸດ"
+
+msgid "&Stop"
+msgstr "&ຢຸດ"
+
+msgid "_Stop"
+msgstr ""
+
+msgid "S&top"
+msgstr ""
+
+msgid "Stop Recording"
+msgstr "ຢຸດການບັນທຶກ"
+
+msgid "Stopped"
+msgstr "ຢຸດແລ້ວ"
+
+msgid "Storage"
+msgstr "ບ່ອນເກັບຂໍ້ມູນ"
+
+msgid "Store"
+msgstr ""
+
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Street"
+msgstr "ຖະໜົນ"
+
+msgid "Strength"
+msgstr "ຄວາມແຮງ"
+
+msgid "Stretch"
+msgstr "ຢືດ (Stretch)"
+
+msgid "Strike Out"
+msgstr ""
+
+msgid "Strikethrough"
+msgstr "ຂີດຂ້າ"
+
+msgid "String"
+msgstr "ຂໍ້ຄວາມ (String)"
+
+msgid "string"
+msgstr "ສະຕຣິງ"
+
+msgid "Strings"
+msgstr "ຂໍ້ຄວາມ (Strings)"
+
+msgid "Stroke"
+msgstr "ເສັ້ນຂີດ"
+
+msgid "Strong"
+msgstr "ໜັກແໜ້ນ"
+
+msgid "Structure"
+msgstr "ໂຄງສ້າງ"
+
+msgid "Style"
+msgstr "ຮູບແບບ"
+
+msgid "Subject"
+msgstr "ຫົວຂໍ້"
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subscribe"
+msgstr "ຕິດຕາມ"
+
+msgid "Subscript"
+msgstr "ຕົວຫ້ອຍ"
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Subtitle"
+msgstr ""
+
+msgid "Subtitles"
+msgstr "ຄຳບັນຍາຍ"
+
+msgid "Subtract"
+msgstr "ລົບ"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "ສຳເລັດ"
+
+msgid "Sudan"
+msgstr "ຊູດານ"
+
+msgid "Suffix"
+msgstr ""
+
+msgid "Sum"
+msgstr "ຜົນລວມ"
+
+msgid "Summary"
+msgstr "ສະຫຼຸບ"
+
+msgid "Sun"
+msgstr "ດວງອາທິດ"
+
+msgid "Sundanese"
+msgstr "Sundanese"
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Super"
+msgstr ""
+
+msgid "Superscript"
+msgstr "ຕົວຍົກ"
+
+msgid "Support"
+msgstr "ການຊ່ວຍເຫຼືອ"
+
+msgid "Suriname"
+msgstr "ຊູຣິນາມ"
+
+msgid "Surname"
+msgstr "ນາມສະກຸນ"
+
+msgid "Suspend"
+msgstr ""
+
+msgid "Suspended"
+msgstr "ຖືກລະງັບ"
+
+msgid "SVG"
+msgstr ""
+
+msgid "Swap"
+msgstr "ສວັອບ"
+
+msgid "Sweden"
+msgstr "ສະວີເດັນ"
+
+msgid "Swedish"
+msgstr "ສະວີເດັນ"
+
+msgid "Switch"
+msgstr "ສະຫຼັບ"
+
+msgid "Switches"
+msgstr "ສະວິດ"
+
+msgid "Switzerland"
+msgstr "ສະວິດເຊີແລນ"
+
+msgid "Symbol"
+msgstr "ສັນຍາລັກ"
+
+msgid "Symbols"
+msgstr "ສັນຍະລັກ"
+
+msgid "Sync"
+msgstr "ຊິງຄ໌"
+
+msgid "Synchronization"
+msgstr ""
+
+msgid "Synchronize"
+msgstr "ຊິງຄ໌"
+
+msgid "Syriac"
+msgstr ""
+
+msgid "System"
+msgstr "ລະບົບ"
+
+msgid "System Default"
+msgstr ""
+
+msgid "System Settings"
+msgstr ""
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Table"
+msgstr "ຕາຕະລາງ"
+
+msgid "Table of Contents"
+msgstr "ສາລະບານ"
+
+msgid "Tablet"
+msgstr "ແທັບເລັດ"
+
+msgid "Tabs"
+msgstr "ແຖບ"
+
+msgid "Tag"
+msgstr "ແທັກ"
+
+msgid "Tagalog"
+msgstr "ຕາກາລັອກ"
+
+msgid "Tagged"
+msgstr "ຕິດປ້າຍກຳກັບແລ້ວ"
+
+msgid "Tags"
+msgstr "ແທັກ"
+
+msgid "Taiwan"
+msgstr "ໄຕ້ຫວັນ"
+
+msgid "Tajikistan"
+msgstr "ທາຈິກິສະຖານ"
+
+msgid "Take Screenshot"
+msgstr "ຖ່າຍພາບໜ້າຈໍ"
+
+msgid "Tamil"
+msgstr "ທະມິນ"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "ຕັງຊານີ"
+
+msgid "Target"
+msgstr "ເປົ້າໝາຍ"
+
+msgid "Task"
+msgstr ""
+
+msgid "Tasks"
+msgstr "ໜ້າວຽກ"
+
+msgid "Tatar"
+msgstr "Tatar"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr ""
+
+msgid "Technology"
+msgstr ""
+
+msgid "Telephone"
+msgstr "ໂທລະສັບ"
+
+msgid "Telugu"
+msgstr "ເຕລູກູ"
+
+msgid "Temperature"
+msgstr "ອຸນຫະພູມ"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "Templates"
+msgstr "ແມ່ແບບ"
+
+msgid "Tentative"
+msgstr ""
+
+msgid "Terminal"
+msgstr "Terminal"
+
+msgid "Terminal Emulator"
+msgstr "ຕົວຈຳລອງເທີມິນໍ"
+
+msgid "Test"
+msgstr "ທົດສອບ"
+
+msgid "Testing"
+msgstr "ການທົດສອບ"
+
+msgid "Text"
+msgstr "ຂໍ້ຄວາມ"
+
+msgid "text"
+msgstr "ຂໍ້ຄວາມ"
+
+msgid "_Text"
+msgstr "_ຂໍ້ຄວາມ"
+
+msgid "Text Color"
+msgstr "ສີຂໍ້ຄວາມ"
+
+msgid "Text color"
+msgstr "ສີຂໍ້ຄວາມ"
+
+msgid "Text Editor"
+msgstr "ເຄື່ອງມືແກ້ໄຂຂໍ້ຄວາມ"
+
+msgid "Text File"
+msgstr "ໄຟລ໌ຂໍ້ຄວາມ"
+
+msgid "Text Files"
+msgstr ""
+
+msgid "Text Only"
+msgstr "ຂໍ້ຄວາມເທົ່ານັ້ນ"
+
+msgid "Text only"
+msgstr ""
+
+msgid "Text to search for"
+msgstr "ຂໍ້ຄວາມທີ່ຈະຄົ້ນຫາ"
+
+msgid "Text Tool"
+msgstr "ເຄື່ອງມືຂໍ້ຄວາມ"
+
+msgid "TextLabel"
+msgstr "TextLabel"
+
+msgid "Thai"
+msgstr "ໄທ"
+
+msgid "Thailand"
+msgstr "ໄທ"
+
+msgid "The file %1 does not exist."
+msgstr "ໄຟລ໌ %1 ບໍ່ມີຢູ່."
+
+msgid "The GNOME Project"
+msgstr "ໂຄງການ GNOME"
+
+msgid "The graphical theme to be used."
+msgstr ""
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+msgid "The NetworkManager Developers"
+msgstr ""
+
+msgid "Theme"
+msgstr "ຮູບແບບ"
+
+msgid "Themes"
+msgstr "ຮູບແບບສີສັນ"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "ມີບັນຫາໃນການແບ່ງປັນເອກະສານ: %1"
+
+msgid "Thin"
+msgstr ""
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"ນີ້ຈະເຊື່ອງແຖບເມນູຢ່າງສົມບູນ. ເຈົ້າສາມາດສະແດງມັນໄດ້ອີກຄັ້ງໂດຍການພິມ %1."
+
+msgid "Thomas Zander"
+msgstr ""
+
+msgid "Threshold"
+msgstr "ເກນ"
+
+msgid "Thumbnail"
+msgstr "ຮູບຕົວຢ່າງ"
+
+msgid "Thumbnails"
+msgstr "ຮູບຕົວຢ່າງ"
+
+msgid "Thursday"
+msgstr ""
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "Tibetan"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "ກະ​ເບື້ອງ"
+
+msgid "Tiled"
+msgstr ""
+
+msgid "Tilt"
+msgstr "ຄວາມອຽງ"
+
+msgid "Time"
+msgstr "ເວລາ"
+
+msgid "time"
+msgstr ""
+
+msgid "Time: %1"
+msgstr ""
+
+msgid "Time and Date"
+msgstr ""
+
+msgid "Time Zone"
+msgstr ""
+
+msgid "Timeline"
+msgstr "ທາມລາຍ"
+
+msgid "Timeout"
+msgstr ""
+
+msgid "Timer"
+msgstr "ໂມງຈັບເວລາ"
+
+msgid "Timestamp"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "Tiny"
+msgstr "ນ້ອຍຈິ໋ວ"
+
+msgid "Title"
+msgstr "ຫົວຂໍ້"
+
+msgid "title"
+msgstr "ຊື່"
+
+msgid "&Title"
+msgstr "&ຫົວຂໍ້"
+
+msgid "_Title"
+msgstr ""
+
+msgid "TLS"
+msgstr ""
+
+msgid "To"
+msgstr "ເຖິງ"
+
+msgid "to"
+msgstr "ຫາ"
+
+msgid "Tobias Fella"
+msgstr ""
+
+msgid "Today"
+msgstr "ມື້ນີ້"
+
+msgid "today"
+msgstr "ມື້ນີ້"
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "Todo"
+msgstr "ສິ່ງທີ່ຕ້ອງເຮັດ"
+
+msgid "Toggle Fullscreen"
+msgstr "ສະລັບເຕັມຈໍ"
+
+msgid "Toggle Sidebar"
+msgstr "ສະຫຼັບແຖບຂ້າງ"
+
+msgid "Toggle sidebar"
+msgstr ""
+
+msgid "Togo"
+msgstr "ໂຕໂກ"
+
+msgid "Token"
+msgstr ""
+
+msgid "Tolerance"
+msgstr "ຄ່າຄວາມຜິດພາດທີ່ຍອມຮັບໄດ້"
+
+msgid "Tomorrow"
+msgstr "ມື້ອື່ນ"
+
+msgid "Tonga"
+msgstr "ຕອງກາ"
+
+msgid "Tool"
+msgstr "ເຄື່ອງມື"
+
+msgid "Tool Options"
+msgstr "ຕົວເລືອກເຄື່ອງມື"
+
+msgid "_Toolbar"
+msgstr ""
+
+msgid "T_oolbar"
+msgstr ""
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "ກ່ອງເຄື່ອງມື"
+
+msgid "Tools"
+msgstr "ເຄື່ອງມື"
+
+msgid "&Tools"
+msgstr "&ເຄື່ອງມື"
+
+msgid "_Tools"
+msgstr "_ເຄື່ອງມື"
+
+msgid "Top"
+msgstr "ເທິງ"
+
+msgid "_Top"
+msgstr "ເທິງ"
+
+msgid "Top Left"
+msgstr "ເທິງຊ້າຍ"
+
+msgid "Top left"
+msgstr "ຊ້າຍເທິງ"
+
+msgid "Top Right"
+msgstr "ເທິງຂວາ"
+
+msgid "Top right"
+msgstr "ຂວາເທິງ"
+
+msgid "Topic"
+msgstr "ຫົວຂໍ້"
+
+msgid "Top-left"
+msgstr ""
+
+msgid "Top-right"
+msgstr ""
+
+msgid "Total"
+msgstr "ລວມ"
+
+msgid "Track"
+msgstr "ແທຣັກ"
+
+msgid "Track Number"
+msgstr "ລຳດັບເພງ"
+
+msgid "Tracker"
+msgstr "Tracker"
+
+msgid "Tracks"
+msgstr "Tracks"
+
+msgid "Traditional"
+msgstr ""
+
+msgid "Transfer"
+msgstr "ໂອນເງິນ"
+
+msgid "Transform"
+msgstr "Transform"
+
+msgid "Transformation"
+msgstr "ການປ່ຽນຮູບ"
+
+msgid "Translate"
+msgstr "ແປ"
+
+msgid "Translation"
+msgstr "ການແປພາສາ"
+
+msgid "Translator"
+msgstr ""
+
+msgid "translator-credits"
+msgstr "ຜູ້ແປພາສາ"
+
+msgid "translator_credits"
+msgstr "ທີມງານແປພາສາລາວ"
+
+msgid "Translators"
+msgstr "ນັກແປ"
+
+msgid "Transparency"
+msgstr "ຄວາມໂປ່ງໃສ"
+
+msgid "Transparent"
+msgstr ""
+
+msgid "Transport"
+msgstr "ການສົ່ງຜ່ານ"
+
+msgid "Transpose"
+msgstr "Transpose"
+
+msgid "Trash"
+msgstr "ຖັງຂີ້ເຫຍື້ອ"
+
+msgid "Travel"
+msgstr "ການທ່ອງທ່ຽວ"
+
+msgid "Tree"
+msgstr "ຕົ້ນໄມ້"
+
+msgid "Tree View"
+msgstr "ມຸມມອງແບບຕົ້ນໄມ້"
+
+msgid "Triangle"
+msgstr ""
+
+msgid "True"
+msgstr "ຈິງ"
+
+msgid "true"
+msgstr "ຈິງ"
+
+msgid "Trusted"
+msgstr ""
+
+msgid "Try a different search"
+msgstr "ລອງຄົ້ນຫາດ້ວຍຄຳອື່ນ"
+
+msgid "Try Again"
+msgstr "ລອງອີກຄັ້ງ"
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Tunisia"
+msgstr "ຕູນິເຊຍ"
+
+msgid "Turkey"
+msgstr "ຕວກກີ"
+
+msgid "Turkish"
+msgstr "ຕຸຣກີ"
+
+msgid "Turkmenistan"
+msgstr "ຕວກເມນິສະຖານ"
+
+msgid "Tuvalu"
+msgstr "ຕູວາລູ"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Twitter"
+msgstr ""
+
+msgid "TYPE"
+msgstr "TYPE"
+
+msgid "Type"
+msgstr "ປະເພດ"
+
+msgid "type"
+msgstr ""
+
+msgid "&Type"
+msgstr "ປະເພດ (&T)"
+
+msgid "Type: %1"
+msgstr "ປະເພດ: %1"
+
+msgid "Uganda"
+msgstr "ອູການດາ"
+
+msgid "Ukraine"
+msgstr "ຢູເຄຣນ"
+
+msgid "Ukrainian"
+msgstr "ຢູເຄຣນ"
+
+msgid "Unable to create a temporary file."
+msgstr ""
+
+msgid "unable to get editor plugin name: %s"
+msgstr ""
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+
+msgid "Unavailable"
+msgstr "ບໍ່ພ້ອມໃຊ້ງານ"
+
+msgid "Undefined"
+msgstr "ບໍ່ໄດ້ກຳນົດ"
+
+msgid "Underline"
+msgstr "ຂີດກ້ອງ"
+
+msgid "&Underline"
+msgstr "&ຂີດກ້ອງ"
+
+msgid "_Underline"
+msgstr "_ຂີດກ້ອງ"
+
+msgid "Undo"
+msgstr "ກັບຄືນ"
+
+msgid "&Undo"
+msgstr ""
+
+msgid "_Undo"
+msgstr "_ຍ້ອນກັບ"
+
+msgid "Undo %1"
+msgstr ""
+
+msgid "Undo History"
+msgstr "ປະຫວັດການຍົກເລີກ"
+
+msgid "UnFav it"
+msgstr ""
+
+msgid "unhandled property “%s” type %s"
+msgstr ""
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Uniform"
+msgstr ""
+
+msgid "Union"
+msgstr "ຮວມ"
+
+msgid "Unit"
+msgstr "ຫົວໜ່ວຍ"
+
+msgid "United Arab Emirates"
+msgstr "ສະຫະລັດ ອາຣັບ ເອມີເຣດ"
+
+msgid "United Kingdom"
+msgstr "ສະຫະລາຊະອານາຈັກ"
+
+msgid "United States"
+msgstr "ສະຫະລັດອາເມຣິກາ"
+
+msgid "United States Minor Outlying Islands"
+msgstr "ຫມູ່ເກາະນ້ອຍນອກເຂດສະຫະລັດ"
+
+msgid "Units"
+msgstr "ຫົວໜ່ວຍ"
+
+msgid "University"
+msgstr "ມະຫາວິທະຍາໄລ"
+
+msgid "Unknown"
+msgstr "ບໍ່ຮູ້ຈັກ"
+
+msgid "unknown"
+msgstr "ບໍ່ຮູ້ຈັກ"
+
+msgid "(unknown)"
+msgstr "(ບໍ່ຮູ້ຈັກ)"
+
+msgid "Unknown Error"
+msgstr "ຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກ"
+
+msgid "Unknown error"
+msgstr "ຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກ"
+
+msgid "Unknown error."
+msgstr "ຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກ."
+
+msgid "unknown error creating editor instance"
+msgstr ""
+
+msgid "Unknown file type"
+msgstr "ປະເພດໄຟລ໌ທີ່ບໍ່ຮູ້ຈັກ"
+
+msgid "Unlimited"
+msgstr "ບໍ່ຈຳກັດ"
+
+msgid "unlimited"
+msgstr ""
+
+msgid "Unlock"
+msgstr "ປົດລັອກ"
+
+msgid "_Unlock"
+msgstr ""
+
+msgid "Unmount"
+msgstr "ຕັດການເຊື່ອມຕໍ່"
+
+msgid "Unmute"
+msgstr "ເປີດສຽງ"
+
+msgid "Unnamed"
+msgstr "ບໍ່ມີຊື່"
+
+msgid "unnamed"
+msgstr ""
+
+msgid "Unread"
+msgstr ""
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "ການປ່ຽນແປງທີ່ຍັງບໍ່ໄດ້ບັນທຶກ"
+
+msgid "Unselect All"
+msgstr "ຍົກເລີກການເລືອກທັງໝົດ"
+
+msgid "Unselect all"
+msgstr "ຍົກເລີກການເລືອກທັງໝົດ"
+
+msgid "Unspecified"
+msgstr "ບໍ່ໄດ້ລະບຸ"
+
+msgid "Untitled"
+msgstr "ບໍ່ມີຊື່"
+
+msgid "untitled"
+msgstr "ບໍ່ມີຊື່"
+
+msgid "Unused"
+msgstr "ບໍ່ໄດ້ໃຊ້"
+
+msgid "Up"
+msgstr "ຂຶ້ນ"
+
+msgid "&Up"
+msgstr "ຂຶ້ນ (&U)"
+
+msgid "Update"
+msgstr "ອັບເດດ"
+
+msgid "&Update"
+msgstr "&ອັບເດດ"
+
+msgid "_Update"
+msgstr ""
+
+msgid "Updates"
+msgstr "ການອັບເດດ"
+
+msgid "Updating"
+msgstr ""
+
+msgid "Updating..."
+msgstr ""
+
+msgid "Upload"
+msgstr "ອັບໂຫຼດ"
+
+msgid "_Upload"
+msgstr ""
+
+msgid "Uploaded"
+msgstr "ອັບໂຫຼດແລ້ວ"
+
+msgid "Upper"
+msgstr "ຕົວພິມໃຫຍ່"
+
+msgid "Uppercase"
+msgstr "ຕົວພິມໃຫຍ່"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Uruguay"
+msgstr "ອູຣູກວາຍ"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "Usage"
+msgstr "ການໃຊ້ງານ"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "ໃຊ້"
+
+msgid "Used"
+msgstr "ໃຊ້ແລ້ວ"
+
+msgid "User"
+msgstr "ຜູ້ໃຊ້"
+
+msgid "User Certificate"
+msgstr ""
+
+msgid "User Defined"
+msgstr "ຜູ້ໃຊ້ກຳນົດເອງ"
+
+msgid "User Feedback"
+msgstr "ຄຳຕິຊົມຈາກຜູ້ໃຊ້"
+
+msgid "User ID"
+msgstr "ໄອດີຜູ້ໃຊ້"
+
+msgid "User Interface"
+msgstr "ສ່ວນຕິດຕໍ່ຜູ້ໃຊ້"
+
+msgid "User name"
+msgstr ""
+
+msgid "User Password"
+msgstr ""
+
+msgid "Username"
+msgstr "ຊື່ຜູ້ໃຊ້"
+
+msgid "_Username"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Utilities"
+msgstr "Utilities"
+
+msgid "UUID"
+msgstr ""
+
+msgid "Uzbekistan"
+msgstr "ອຸສເບກິສະຖານ"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr ""
+
+msgid "Valid"
+msgstr ""
+
+msgid "Valid from"
+msgstr "ມີຜົນຕັ້ງແຕ່"
+
+msgid "Validity"
+msgstr "ຄວາມຖືກຕ້ອງ"
+
+msgid "Value"
+msgstr "ຄ່າ"
+
+msgid "value"
+msgstr "ຄ່າ"
+
+msgid "&Value"
+msgstr "&ຄ່າ"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+
+msgid "Values"
+msgstr ""
+
+msgid "Vanuatu"
+msgstr "ວານົວຕູ"
+
+msgid "Variable"
+msgstr "ຕົວປ່ຽນ"
+
+msgid "Variables"
+msgstr "ຕົວປ່ຽນ"
+
+msgid "Variance"
+msgstr "ຄວາມຜັນປ່ຽນ"
+
+msgid "Vector"
+msgstr "ເວັກເຕີ"
+
+msgid "Velocity"
+msgstr "ຄວາມໄວ"
+
+msgid "Vendor"
+msgstr "ຜູ້ຂາຍ"
+
+msgid "Venezuela"
+msgstr "ເວເນຊູເອລາ"
+
+msgid "Verb"
+msgstr ""
+
+msgid "Verify"
+msgstr ""
+
+msgid "Version"
+msgstr "ເວີຊັນ"
+
+msgid "Version %1"
+msgstr "ເວີຊັນ %1"
+
+msgid "Vertical"
+msgstr "ແນວຕັ້ງ"
+
+msgid "Very Large"
+msgstr ""
+
+msgid "Video"
+msgstr "ວິດີໂອ"
+
+msgid "Video CD"
+msgstr "ຊີດີວິດີໂອ"
+
+msgid "Video Codec"
+msgstr "Video Codec"
+
+msgid "Video Files"
+msgstr "ໄຟລ໌ວິດີໂອ"
+
+msgid "Videos"
+msgstr "ວິດີໂອ"
+
+msgid "Vietnam"
+msgstr "ຫວຽດນາມ"
+
+msgid "Vietnamese"
+msgstr "ຫວຽດນາມ"
+
+msgid "View"
+msgstr "ມຸມມອງ"
+
+msgid "&View"
+msgstr "&ມຸມມອງ"
+
+msgid "_View"
+msgstr "_ມຸມມອງ"
+
+msgid "View Options"
+msgstr "ຕົວເລືອກມຸມມອງ"
+
+msgid "View Settings"
+msgstr "ການຕັ້ງຄ່າມຸມມອງ"
+
+msgid "Viewer"
+msgstr ""
+
+msgid "Views"
+msgstr "ມຸມມອງ"
+
+msgid "Virtual"
+msgstr ""
+
+msgid "Virtual Keyboard"
+msgstr ""
+
+msgid "Visibility"
+msgstr ""
+
+msgid "Visible"
+msgstr "ເຫັນໄດ້"
+
+msgid "Voltage"
+msgstr "ແຮງດັນໄຟຟ້າ"
+
+msgid "Volume"
+msgstr "ລະດັບສຽງ"
+
+msgid "Volume Down"
+msgstr ""
+
+msgid "Volume Up"
+msgstr ""
+
+msgid "W"
+msgstr "W"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr ""
+
+msgid "Wallpaper"
+msgstr ""
+
+msgid "Wallpaper type"
+msgstr ""
+
+msgid "WARNING"
+msgstr "ຄຳເຕືອນ"
+
+msgid "Warning"
+msgstr "ຄຳເຕືອນ"
+
+msgid "warning"
+msgstr ""
+
+msgid "Warnings"
+msgstr "ຄຳເຕືອນ"
+
+msgid "Water"
+msgstr "ນ້ຳ"
+
+msgid "Wave"
+msgstr "ຄື້ນ (Wave)"
+
+msgid "Weak"
+msgstr ""
+
+msgid "Weather"
+msgstr "ສະພາບອາກາດ"
+
+msgid "Web Browser"
+msgstr "ຕົວທ່ອງເວັບ"
+
+msgid "Web browser"
+msgstr "ເບຣາວເຊີເວັບ"
+
+msgid "Website"
+msgstr "ເວັບໄຊ"
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Week"
+msgstr "ອາທິດ"
+
+msgid "Week View"
+msgstr ""
+
+msgid "Weekly"
+msgstr "ລາຍອາທິດ"
+
+msgid "Weeks"
+msgstr "ອາທິດ"
+
+msgid "weeks"
+msgstr "ອາທິດ"
+
+msgid "Weight"
+msgstr "ຄວາມໜາ"
+
+msgid "Welcome"
+msgstr "ຍິນດີຕ້ອນຮັບ"
+
+msgid "Welsh"
+msgstr "ເວວ"
+
+msgid "West"
+msgstr "ຕາເວັນຕົກ"
+
+msgid "Western"
+msgstr "ຕາເວັນຕົກ"
+
+msgid "Western Sahara"
+msgstr "ຊາຮາຣາຕາເວັນຕົກ"
+
+msgid "What's new"
+msgstr ""
+
+msgid "Wheel"
+msgstr "ລໍ້"
+
+msgid "Whether sound effects should be played."
+msgstr ""
+
+msgid "White"
+msgstr "ສີຂາວ"
+
+msgid "white"
+msgstr ""
+
+msgid "White Balance"
+msgstr "ຄວາມສົມດຸນແສງຂາວ"
+
+msgid "Wide"
+msgstr ""
+
+msgid "Widgets"
+msgstr ""
+
+msgid "Width"
+msgstr "ຄວາມກວ້າງ"
+
+msgid "&Width"
+msgstr ""
+
+msgid "_Width"
+msgstr "_ຄວາມກວ້າງ"
+
+msgid "Wi-Fi"
+msgstr ""
+
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgid "Window"
+msgstr "ໜ້າຕ່າງ"
+
+msgid "&Window"
+msgstr ""
+
+msgid "&Window Color Scheme"
+msgstr "&ໂທນສີປ່ອງຢ້ຽມ"
+
+msgid "Window height"
+msgstr ""
+
+msgid "Window Management"
+msgstr "ການຈັດການໜ້າຕ່າງ"
+
+msgid "Window maximized"
+msgstr "ຂະຫຍາຍວິນໂດໃຫ້ໃຫຍ່ສຸດ"
+
+msgid "Window size"
+msgstr "ຂະໜາດປ່ອງຢ້ຽມ"
+
+msgid "Window Title"
+msgstr ""
+
+msgid "Window width"
+msgstr ""
+
+msgid "Windows"
+msgstr "ໜ້າຈໍ"
+
+msgid "_Windows"
+msgstr "_ໜ້າຕ່າງ"
+
+msgid "with"
+msgstr "ດ້ວຍ"
+
+msgid "Word"
+msgstr ""
+
+msgid "Word Count"
+msgstr "ຈຳນວນຄຳ"
+
+msgid "Words"
+msgstr "ຄຳສັບ"
+
+msgid "Work"
+msgstr ""
+
+msgid "World"
+msgstr "ໂລກ"
+
+msgid "Wrap"
+msgstr ""
+
+msgid "_Wrap around"
+msgstr ""
+
+msgid "Wrap Text"
+msgstr "ຕັດແຖວຂໍ້ຄວາມ"
+
+msgid "Write"
+msgstr "ຂຽນ"
+
+msgid "Writing"
+msgstr ""
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "ປີ"
+
+msgid "Yearly"
+msgstr "ລາຍປີ"
+
+msgid "Years"
+msgstr "ປີ"
+
+msgid "years"
+msgstr "ປີ"
+
+msgid "Yellow"
+msgstr "ສີເຫຼືອງ"
+
+msgid "yellow"
+msgstr ""
+
+msgid "Yemen"
+msgstr "ເຢເມນ"
+
+msgid "Yes"
+msgstr "ແມ່ນ"
+
+msgid "yes"
+msgstr "ແມ່ນ"
+
+msgid "_Yes"
+msgstr "_ແມ່ນ"
+
+msgid "Yesterday"
+msgstr "ມື້ວານນີ້"
+
+msgid "Yiddish"
+msgstr "ຢິດດິຊ"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+
+msgid "Yukon"
+msgstr "ຢູຄອນ"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "ຊຳເບຍ"
+
+msgid "Zero"
+msgstr "Zero"
+
+msgid "Zimbabwe"
+msgstr "ຊິມບັບເວ"
+
+msgid "Zoom"
+msgstr "ຊູມ"
+
+msgid "&Zoom"
+msgstr "&ຂະຫຍາຍ"
+
+msgid "_Zoom"
+msgstr "_ຊູມ"
+
+msgid "Zoom In"
+msgstr "ຂະຫຍາຍເຂົ້າ"
+
+msgid "Zoom in"
+msgstr "ຊູມເຂົ້າ"
+
+msgid "Zoom &In"
+msgstr ""
+
+msgid "Zoom _In"
+msgstr "ຊູມ_ເຂົ້າ"
+
+msgid "Zoom Out"
+msgstr "ຊູມອອກ"
+
+msgid "Zoom out"
+msgstr "ຊູມອອກ"
+
+msgid "Zoom &Out"
+msgstr ""
+
+msgid "Zoom _Out"
+msgstr "ຊູມ_ອອກ"
+
+msgid "Zoom to Fit"
+msgstr "ພໍດີໜ້າຈໍ"

@@ -7,1415 +7,9450 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "Glavna alatna traka"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "Opšte"
+msgid "#"
+msgstr "#"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "Ukloni"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "Odustani"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "&Datoteka"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "Obriši"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "Nijedan"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "Ime"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "Održava"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "Ime:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "&Izmijeni"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "&Postavke"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "Greška"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "&Pogled"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "Dodaj"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "Lozinka:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "Programer"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "Autor"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "Zatvori"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "Opcije"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "Postavke"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "Nepoznato"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "&Alati"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "Tip"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "&Obriši"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "Izmijeni"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "Snimi"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "Opis"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "Opis:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "Datum"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "Datoteka"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "Pregled"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "Podesi"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "Izgled"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "Svojstva"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "Tip:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "Veličina"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "&Ukloni"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "Traži"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "Podrazumijevano"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "Korisničko ime:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&Pomoć"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "Kopiraj"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "Zaustavi"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "Pogled"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "Upozorenje"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "Normalno"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "Preimenuj"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "Da"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "Napredno"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "Ne"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "Status"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "Tekst"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "Vrijednost"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "Boje"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "Dijalog"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "Naslov"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "Prvobitni autor"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "Traži..."
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "Dodaj..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "Informacija"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "Vrijeme"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "Komentar"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "Visina:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "Lijevo"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "Novo"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "Otvori"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "Veličina:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "Širina:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "Port:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "Desno"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "Snimi kao"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "Naslov:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&Izvezi"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "Automatski"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "Očisti"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "Napravi"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "Izvezi"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "Pomoć"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "U redu"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "&Ime:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "Provjera autentičnosti"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "Detalji"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "Filter"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "Ignoriši"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "Slika"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "Lokacija:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "Osvježi"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "Sve"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "Centar"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "Posebno"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "Font"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "Ubaci"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "Nikad"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "Alati"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "Poništi"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "Neimenovano"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "&Kreni"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "Izmijeni..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "Uključeno"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "Uvezi"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "Lokacija"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "Pomjeri nadolje"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "Pomjeri nagore"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "Izaberi sve"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "Ažuriraj"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "&Dodaj"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "O programu"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "Komentar:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "Konfiguriši..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "Ime datoteke:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "Opšte postavke"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "Sljedeće"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "Drugo"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "Izaberi"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "Vrh"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "Vertikalno"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "&Zatvori"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "Autor:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "Uključi"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "Horizontalno"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "Uvezi..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "Vrati"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "Odbaci"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "Zamijeni"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "&Izmijeni..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "Akcije"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "Uvijek"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "Zabilješke"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "Datum:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "Izvezi..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "Informacije"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "Broj"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "Prvobitni autor"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "Pusti"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "Ponovo učitaj"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "Pokreni"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "Oznake"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "Tema"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "Do:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "&Novi"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "Prihvati"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "Pozadina"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "Boja:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "Naredba"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "Isključeno"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "Gotovo"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "Fontovi"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "Od:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "Linija"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "Razno"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "Mreža"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "Umetni"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "Pauza"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "Položaj"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "nepoznato"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "Konfiguriši"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " ms"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "Primijeni"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "Automatski"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "Dno"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "Kolone"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "Preuzimanje"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "Uređivač"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "Font:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "Format"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "Od"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "Jezik"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "Razno"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "Otvori datoteku"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "Lozinka"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "Spreman"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "Resetuj"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "Tema"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "Za"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "Uvećaj"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "&Odustani"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "Nalog:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "Sve datoteke"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "Crna"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "Masno"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "Nastavi"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "Podaci"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "Odredište"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "Email:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "Direktorij"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "Grupa"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "Ikona:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "Kurzivno"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "Raspored"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "Srednje"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "Poruka"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "Priključci"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "Prethodni"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "Crvena"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "Sačuvaj kao..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "Izvor"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "Stanje"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "Nepoznata greška"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "Gore"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "Širina"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "Ime"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "&Dodaj..."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "&Snimi"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "Aplikacije"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "Nazad"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "Ponašanje"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "Razlikuj velika i mala slova"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "Kopiraj u Clipboard"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "Trenutno održava"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "Praćenje grešaka"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "Format:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "Dužina"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "Ručno"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "Režim"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "Izlaz"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "Putanja:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "Pozicija:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "Izbor"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "Podijeli"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "Stil"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "Uveličaj"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "Umanji"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "&Igra"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "&Uvezi"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&Traži"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "Sve datoteke (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "Plava"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "Boja"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "Poveži se"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "Država"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "Dokumentacija"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "Dolje"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "E-mail"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "Ime datoteke"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "Direktoriji"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "Zelena"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "Slike"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "Oznaka"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "Nisko"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "Mjesec"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "Ugašen zvuk"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "Izlaz"
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "Status:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "Tabela"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "Oznaka"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "TextLabel"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "Godina"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "ne"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "da"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " px"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "&Zabilješke"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "&Opšte"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "&Novi..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "&Otvori"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "&Zaustavi"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "Nalog"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "Postavke računa"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "Akcija"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "Boja pozadine"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "Kategorije"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "Kategorija"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "Kategorija:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "Sažmi sve"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "Isijeci"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "Ne mijenjaj aktuelne pozadinske podatke."
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "Raširi sve"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "Ime datoteke"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "Filter:"
-
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "Mrežni izlaz:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "Geometrija"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "Visina"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "Kuća"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "Ikone"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "Ključ"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "Linije"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "Lista"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "Učitavam..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "Mjeseci"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "Premjesti"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "Nadimak:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "Bilješka"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "Otvorite fasciklu koja sadrži"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "Prebrisati datoteku?"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "Ponovo pokreni"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "Pokreni"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "Traži:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "Pošalji"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "Server:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "Brzina"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "URL"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "URL:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "Korisnik:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "minuta"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "Greška"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "&Kopiraj"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr "?"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " i "
+
+msgid " (default)"
+msgstr " (podrazumijevano)"
+
+msgid "© KDE Community"
+msgstr ""
+
+msgid " MB"
+msgstr " MB"
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " min"
+
+msgid " minutes"
+msgstr " minuta"
+
+msgid " ms"
+msgstr " ms"
+
+msgid " px"
+msgstr " px"
+
+msgid " s"
+msgstr " s"
+
+msgid " sec"
+msgstr " sek"
+
+msgid " seconds"
+msgstr " sekundi"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 %"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr ""
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 i %2"
+
+msgid "%1 bytes"
+msgstr "%1 bajtova"
+
+msgid "1 day"
+msgstr "1 dan"
+
+msgid "%1 does not exist"
+msgstr "%1 ne postoji"
+
+msgid "%1 free"
+msgstr "%1 slobodno"
+
+msgid "1 hour"
+msgstr ""
+
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgid "%1 ms"
+msgstr "%1 ms"
+
+msgid "%1 of %2"
+msgstr "%1 od %2"
+
+msgid "%1 on %2"
+msgstr "%1 na %2"
+
+msgid "%1 s"
+msgstr ""
+
+msgid "%1 seconds"
+msgstr "%1 sekundi"
+
+msgid "%1 to %2"
+msgstr "%1 do %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 minuta"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr ""
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "128 bit"
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 minuta"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr ""
+
+msgid "%1/s"
+msgstr "%1/s"
+
+msgid "1st"
+msgstr "1."
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "4."
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 minuta"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr "5."
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"Dokument pod imenom \"%1\" već postoji. Da li ga želite da prepišem preko "
+"njega?"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
 msgstr "Prekini"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "Napredne opcije"
+msgid "&Abort"
+msgstr "Pre&kini"
 
-#. Occurs in 10 KDE PO files
-msgid "Album"
-msgstr "Album"
+msgid "Aborted"
+msgstr "Prekinuto"
 
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
+msgid "About"
+msgstr "O programu"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "&About"
+msgstr "&O programu"
 
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
-msgstr "&Odustani"
+msgid "_About"
+msgstr "_O programu"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "Očisti historijat"
+msgid "About %1"
+msgstr "O %1"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "Kompresija"
+msgid "About KDE"
+msgstr "O KDE-u"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "Kontakti"
+msgid "Abstract"
+msgstr "Sažetak"
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "Autorska prava"
+msgid "Accept"
+msgstr "Prihvati"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "Uređaj:"
+msgid "Accepted"
+msgstr "Prihvaćeno"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "Prekini vezu"
+msgid "Accessed"
+msgstr "Pristupljeno"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "Trajanje"
+msgid "Accessibility"
+msgstr "Pristupačnost"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "Greška: %1"
+msgid "Account"
+msgstr "Nalog"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Account Details"
+msgstr "Detalji o korisničkom računu"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "Datoteka:"
+msgid "Account Information"
+msgstr "Podaci o nalogu"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "Datoteke"
+msgid "Account Name"
+msgstr "Ime računa"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "Nađi"
+msgid "Accounts"
+msgstr "Nalozi"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "Funkcija"
+msgid "Accuracy"
+msgstr "Preciznost"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "Grupa:"
+msgid "Action"
+msgstr "Akcija"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "Sakrij traku menija"
+msgid "Actions"
+msgstr "Akcije"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "Visoko"
+msgid "Activate"
+msgstr "Aktiviraj"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "Historija"
+msgid "Active"
+msgstr "Aktivan"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "Activities"
+msgstr "Aktivnosti"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "Pomjeri &gore"
+msgid "Activity"
+msgstr "Aktivnost"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "Obavještenja"
+msgid "Adaptive"
+msgstr ""
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "Organizacija"
-
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "Putanja"
-
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "Port"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "Prioritet"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "Prioritet:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "Projekat"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "Ukloni grupu"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "Razmak"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "Danas"
-
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "Vrijednost:"
-
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "Verzija"
-
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "Verzija:"
-
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "Video"
-
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "Godina"
-
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
 msgid "Add"
 msgstr "Dodaj"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "&Add"
+msgstr "&Dodaj"
+
+msgid "_Add"
+msgstr "_Dodaj"
+
+msgid "Add..."
+msgstr "Dodaj..."
+
+msgid "&Add..."
+msgstr "&Dodaj..."
+
+msgid "A&dd..."
+msgstr ""
+
+msgid "Add Account"
+msgstr "Dodaj nalog"
+
+msgid "Add Bookmark"
+msgstr "Dodaj zabilješku"
+
+msgid "_Add Bookmark"
+msgstr "_Dodaj zabilješku"
+
+msgid "Add Filter"
+msgstr "Dodaj filter"
+
+msgid "Add Folder"
+msgstr "Dodaj direktorij"
+
+msgid "Add Folder..."
+msgstr "Dodaj direktorij..."
+
+msgid "Add Group"
+msgstr "Dodaj grupu"
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add Rule..."
+msgstr ""
+
+msgid "Add Tag"
+msgstr "Dodaj oznaku"
+
+msgid "Add tag"
+msgstr "Dodaj oznaku"
+
+msgid "Add to Dictionary"
+msgstr "Dodaj u rječnik"
+
+msgid "Add to Favorites"
+msgstr "Dodaj u omiljene"
+
+msgid "Added"
+msgstr "Dodato"
+
+msgid "Addition"
+msgstr "Sabiranje"
+
+msgid "Additional Information"
+msgstr "Dodatne informacije"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Address Book"
+msgstr "Adresar"
+
+msgid "Addresses"
+msgstr "Adrese"
+
+msgid "Adjust"
+msgstr "Podesi"
+
+msgid "Advanced"
+msgstr "Napredno"
+
+msgid "Advanced..."
+msgstr "Napredno..."
+
+msgid "Ad_vanced..."
+msgstr "Na_predno..."
+
+msgid "Advanced options"
+msgstr "Napredne opcije"
+
+msgid "Advanced Properties"
+msgstr "Napredna svojstva"
+
+msgid "Advanced Settings"
+msgstr "Napredna podešavanja"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "Afrikaans"
+msgstr "afrikanerski"
+
+msgid "After"
+msgstr "Nakon"
+
+msgid "Agenda"
+msgstr "Podsjetnik"
+
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Alarms"
+msgstr "Alarmi"
+
+msgid "Albania"
+msgstr "Albanija"
+
+msgid "Albanian"
+msgstr "Albanski"
+
+msgid "Albert Vaca Cintora"
+msgstr "Albert Vaca Cintora"
+
+msgid "Album"
+msgstr "Album"
+
+msgid "Album Artist"
+msgstr "Izvođač albuma"
+
+msgid "Albums"
+msgstr "Albumi"
+
+msgid "Alert"
+msgstr "Upozorenje"
+
+msgid "Alexander Neundorf"
+msgstr "Aleksander Nojndorf"
+
+msgid "Algeria"
+msgstr "Alžir"
+
+msgid "Algorithm"
+msgstr "Algoritam"
+
+msgid "Alias"
+msgstr "Alijas"
+
+msgid "Aliases"
+msgstr "Pseudonimi"
+
+msgid "Align"
+msgstr "Poravnanje"
+
+msgid "Align Bottom"
+msgstr "Dole poravnato"
+
+msgid "Align Center"
+msgstr "Centrirano"
+
+msgid "Align Left"
+msgstr "Poravnaj lijevo"
+
+msgid "Align left"
+msgstr "Poravnajte na lijevo"
+
+msgid "Align Right"
+msgstr "Poravnaj desno"
+
+msgid "Align right"
+msgstr "Desno poravnanje"
+
+msgid "Align Top"
+msgstr "Gore poravnato"
+
+msgid "Alignment"
+msgstr "Poravnanje"
+
+msgid "All"
+msgstr "Sve"
+
+msgid "all"
+msgstr "sve"
+
+msgid "_All"
+msgstr "_Sve"
+
+msgid "All Files"
+msgstr "Sve datoteke"
+
+msgid "All files"
+msgstr "Sve datoteke"
+
+msgid "All Files (*)"
+msgstr "Sve datoteke (*)"
+
+msgid "All files (*)"
+msgstr ""
+
+msgid "All Supported Files"
+msgstr "Sve podržane datoteke"
+
+msgid "Allen Winter"
+msgstr ""
+
+msgid "Allow"
+msgstr "Dozvoli"
+
+msgid "Allow Deflate compression"
+msgstr "Dozoli Umanjenu kompresiju"
+
+msgid "Alpha"
+msgstr "Alfa"
+
+msgid "Alphabetically"
+msgstr "Abecedno"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "Alternativa"
+
+msgid "Always"
+msgstr "Uvijek"
+
+msgid "Always ask"
+msgstr "Uvijek pitaj"
+
+msgid "Always visible"
+msgstr ""
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Ambient"
+msgstr "Ambijent"
+
+msgid "Amount"
+msgstr "Iznos"
+
+msgid "An error occurred"
+msgstr "Došlo je do greške"
+
+msgid "An unknown error occurred."
+msgstr "Desila se nepoznata greška."
+
+msgid "Analysis"
+msgstr "Analiza"
+
+msgid "Anchor"
+msgstr "Sidro"
+
+msgid "AND"
+msgstr "I"
+
+msgid "and"
+msgstr "i"
+
+msgid "Andorra"
+msgstr "Andora"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "Ugao"
+
+msgid "angle"
+msgstr "ugao"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animation"
+msgstr "Animacija"
+
+msgid "Animations"
+msgstr "Animacije"
+
+msgid "Anniversary"
+msgstr "Godišnjica"
+
+msgid "Annotate"
+msgstr "Pribilježiti"
+
+msgid "Annotation"
+msgstr "Pribilješka"
+
+msgid "Annotations"
+msgstr "Pribilješke"
+
+msgid "Anonymous"
+msgstr "Anonimno"
+
+msgid "Antarctica"
+msgstr "Antarktik"
+
+msgid "Any"
+msgstr "Bilo koji"
+
+msgid "Aperture"
+msgstr "Blenda"
+
+msgid "Appearance"
+msgstr "Izgled"
+
+msgid "Append"
+msgstr "Dodavanje"
+
+msgid "AppImage"
+msgstr ""
+
+msgid "Application"
+msgstr "Aplikacija"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "Aplikacijski meni"
+
+msgid "Applications"
+msgstr "Aplikacije"
+
+msgid "Apply"
+msgstr "Primijeni"
+
+msgid "&Apply"
+msgstr "&Primijeni"
+
+msgid "_Apply"
+msgstr "_Primijeni"
+
+msgid "Apply Settings"
+msgstr "Primjena postavki"
+
+msgid "April"
+msgstr "April"
+
+msgid "Arabic"
+msgstr "Arapski"
+
+msgid "Archive"
+msgstr "Arhiva"
+
+msgid "Archives"
+msgstr "Arhive"
+
+msgid "Area"
+msgstr "Oblast"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Arguments"
+msgstr "Argumenti"
+
+msgid "Armenia"
+msgstr "Armenija"
+
+msgid "Armenian"
+msgstr "Armenski"
+
+msgid "Arrow"
+msgstr "Strelica"
+
+msgid "Arrows"
+msgstr "Strelice"
+
+msgid "Articles"
+msgstr "Članovi"
+
+msgid "Artist"
+msgstr "Izvođač"
+
+msgid "Artists"
+msgstr "Izvođači"
+
+msgid "Artwork"
+msgstr "Grafika"
+
+msgid "Ascending"
+msgstr "Rastuće"
+
+msgid "Asia"
+msgstr "Azija"
+
+msgid "Ask"
+msgstr "Pitaj"
+
+msgid "Aspect Ratio"
+msgstr "Omjer"
+
+msgid "Aspect ratio"
+msgstr "Omjer"
+
+msgid "Assamese"
+msgstr "asamski"
+
+msgid "Assign Tags"
+msgstr "Dodjeli Oznake"
+
+msgid "Assistant"
+msgstr "Pomoćnik"
+
+msgid "ATM"
+msgstr "Bankomat"
+
+msgid "Attach"
+msgstr "Priloži"
+
+msgid "Attach File"
+msgstr "Dodaj datoteku"
+
+msgid "Attachment"
+msgstr "Prilog"
+
+msgid "Attachments"
+msgstr "Prilozi"
+
+msgid "Attendees"
+msgstr "Prisutni"
+
+msgid "Attribute"
+msgstr "Atribut"
+
+msgid "Attributes"
+msgstr "Atributi"
+
+msgid "Audio"
+msgstr "Zvuk"
+
+msgid "Audio CD"
+msgstr "Audio CD"
+
+msgid "Audio Codec"
+msgstr ""
+
+msgid "Audio files"
+msgstr "Zvučne datoteke"
+
+msgid "August"
+msgstr "August"
+
+msgid "Australia"
+msgstr "Australija"
+
+msgid "Austria"
+msgstr "Austrija"
+
+msgid "Authenticate"
+msgstr "Autenticiraj"
+
+msgid "Authenticate VPN"
+msgstr "Autentificiraj VPN"
+
+msgid "Authentication"
+msgstr "Provjera autentičnosti"
+
+msgid "Authentication Required"
+msgstr "Autentikacija Potrebna"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Authors"
+msgstr "Autori"
+
+msgid "Auto"
+msgstr "Automatski"
+
+msgid "auto"
+msgstr "automatski"
+
+msgid "Auto Detect"
+msgstr "Automatska Detekcija"
+
+msgid "Auto Save"
+msgstr "Automatski sačuvaj"
+
+msgid "Autodetect"
+msgstr "Autodetekcija"
+
+msgid "Automatic"
+msgstr "Automatski"
+
+msgid "Autosave interval"
+msgstr "Interval automatskog snimanja"
+
+msgid "Available"
+msgstr "Dostupan"
+
+msgid "A&vailable actions"
+msgstr "&Dostupne akcije"
+
+msgid "Average"
+msgstr "Prosjek"
+
+msgid "Axes"
+msgstr "Ose"
+
+msgid "Azerbaijan"
+msgstr "Azerbejdžan"
+
+msgid "Azerbaijani"
+msgstr ""
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "Nazad"
+
+msgid "&Back"
+msgstr "&Nazad"
+
+msgid "_Back"
+msgstr "_Nazad"
+
+msgid "Background"
+msgstr "Pozadina"
+
+msgid "Background Color"
+msgstr "Boja pozadine"
+
+msgid "Background color"
+msgstr "Boja pozadine"
+
+msgid "&Background color"
+msgstr "&Boja pozadine"
+
+msgid "Backspace"
+msgstr "Brisanje"
+
+msgid "Backup"
+msgstr "Arhiviraj"
+
+msgid "Bahamas"
+msgstr "Bahami"
+
+msgid "Bahrain"
+msgstr "Bahrein"
+
+msgid "Balance"
+msgstr "Ravnoteža"
+
+msgid "Balanced"
+msgstr ""
+
+msgid "Baltic"
+msgstr "Baltički"
+
+msgid "Bangladesh"
+msgstr "Bangladeš"
+
+msgid "Bank"
+msgstr "Banka"
+
+msgid "Bar"
+msgstr "Traka"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Base"
+msgstr "Osnova"
+
+msgid "Basic"
+msgstr "Osnovno"
+
+msgid "Basque"
+msgstr "baskijski"
+
+msgid "Bass"
+msgstr "Bas"
+
+msgid "Battery"
+msgstr "Baterija"
+
+msgid "Bcc"
+msgstr "Bcc"
+
+msgid "Before"
+msgstr "Prije"
+
+msgid "Behavior"
+msgstr "Ponašanje"
+
+msgid "Belarus"
+msgstr "Bjelorusija"
+
+msgid "Belarusian"
+msgstr "bjeloruski"
+
+msgid "Belgium"
+msgstr "Belgija"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Bengali"
+msgstr "Bengalski"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Best"
+msgstr "Najbolje"
+
+msgid "Bhutan"
+msgstr "Butan"
+
+msgid "Bibliography"
+msgstr "Bibliografija"
+
+msgid "Binary"
+msgstr "Binarno"
+
+msgid "Birthday"
+msgstr "Rođendan"
+
+msgid "Bitrate"
+msgstr "Bitski protok"
+
+msgid "Black"
+msgstr "Crna"
+
+msgid "black"
+msgstr "crna"
+
+msgid "Blend"
+msgstr "Stapanje"
+
+msgid "Block"
+msgstr "Blok"
+
+msgid "Block Elements"
+msgstr "Blokovski elementi"
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Blue"
+msgstr "Plava"
+
+msgid "Blues"
+msgstr "Bluz"
+
+msgid "Bluetooth"
+msgstr "Blutut"
+
+msgid "Blur"
+msgstr "Zamagli"
+
+msgid "<b>Name:</b>"
+msgstr "<b>Naziv:</b>"
+
+msgid "Body"
+msgstr "Tijelo"
+
+msgid "Bold"
+msgstr "Podebljano"
+
+msgid "&Bold"
+msgstr "&Masna"
+
+msgid "_Bold"
+msgstr "_Masno"
+
+msgid "Bold text"
+msgstr "Bodebljani tekst"
+
+msgid "Bolivia"
+msgstr "Bolivija"
+
+msgid "Book"
+msgstr "Knjiga"
+
+msgid "Bookmark"
+msgstr "Obeleživač"
+
+msgid "Bookmarks"
+msgstr "Zabilješke"
+
+msgid "&Bookmarks"
+msgstr "&Zabilješke"
+
+msgid "_Bookmarks"
+msgstr "_Zabilješke"
+
+msgid "Boolean"
+msgstr "Logički"
+
+msgid "Border"
+msgstr "Granica"
+
+msgid "Bosnian"
+msgstr "bosanski"
+
+msgid "Both"
+msgstr "Oboje"
+
+msgid "Botswana"
+msgstr "Bocvana"
+
+msgid "Bottom"
+msgstr "Dno"
+
+msgid "_Bottom"
+msgstr "_Dno"
+
+msgid "Bottom Left"
+msgstr "Dolje lijevo"
+
+msgid "Bottom Right"
+msgstr "Dole desno"
+
+msgid "Bottom-left"
+msgstr "Dolje - lijevo"
+
+msgid "Bottom-right"
+msgstr "Dolje - desno"
+
+msgid "Box"
+msgstr "Kutija"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Branch"
+msgstr "Grana"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Breeze"
+msgstr "Breeze"
+
+msgid "Breeze by the KDE VDG"
+msgstr ""
+
+msgid "Breeze Dark"
+msgstr "Breeze tamna"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr ""
+
+msgid "Breton"
+msgstr "bretonski"
+
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+msgid "Bridge"
+msgstr "Most"
+
+msgid "Brightness"
+msgstr "Osvijetljenost"
+
+msgid "Broken"
+msgstr "Oštećeni"
+
+msgid "Browse"
+msgstr "Potraži"
+
+msgid "Browse..."
+msgstr "Potraži..."
+
+msgid "_Browse..."
+msgstr "_Pretraži..."
+
+msgid "Browser"
+msgstr "Preglednik"
+
+msgid "Buffer"
+msgstr "Bafer"
+
+msgid "Bug fixes"
+msgstr "Ispravke grešaka"
+
+msgid "Build"
+msgstr "Izgradi"
+
+msgid "Built-in Screen"
+msgstr ""
+
+msgid "Bulgaria"
+msgstr "Bugarska"
+
+msgid "Bulgarian"
+msgstr "bugarski"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burn"
+msgstr "Sprži"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Bus"
+msgstr "Sabirnica"
+
+msgid "Busy"
+msgstr "Zauzet"
+
+msgid "Butt"
+msgstr "Deblji kraj"
+
+msgid "Button"
+msgstr "Dugme"
+
+msgid "Buttons"
+msgstr "Dugmad"
+
+msgid "by"
+msgstr "sa"
+
+msgid "By %1"
+msgstr "Napravio: %1"
+
+msgid "By extension"
+msgstr "Po ekstenziji"
+
+msgid "Bytes"
+msgstr "Bajtova"
+
+msgid "bytes"
+msgstr "bajtova"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "&CA Certifickat"
+
+msgid "Cache"
+msgstr ""
+
+msgid "Calculate"
+msgstr "Izračunaj"
+
+msgid "Calculating..."
+msgstr "Računam..."
+
+msgid "Calculator"
+msgstr "Kalkulator"
+
+msgid "Calendar"
+msgstr "Kalendar"
+
+msgid "Calendars"
+msgstr "Kalendari"
+
+msgid "Call"
+msgstr "Poziv"
+
+msgid "Calls"
+msgstr "Pozivi"
+
+msgid "Cambodia"
+msgstr "Kambodža"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "Cameroon"
+msgstr "Kamerun"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Cancel"
+msgstr "Odustani"
+
+msgid "&Cancel"
+msgstr "&Odustani"
+
+msgid "_Cancel"
+msgstr "_Otkaži"
+
+msgid "C&ancel"
+msgstr "&Odustani"
+
+msgid "Canceled"
+msgstr "Otkazano"
+
+msgid "Cancelled"
+msgstr "Otkazano"
+
+msgid "cannot load editor plugin: %s"
+msgstr ""
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "Platno"
+
+msgid "Capabilities"
+msgstr "Mogućnosti"
+
+msgid "Capacity"
+msgstr "Kapacitet"
+
+msgid "Cape Verde"
+msgstr "Zelenortska ostrva"
+
+msgid "Capitalize"
+msgstr "Veliko prvo slovo"
+
+msgid "Caps Lock is on"
+msgstr "\"Velika slova\" su aktivirana"
+
+msgid "Capture"
+msgstr "Dohvati"
+
+msgid "Car"
+msgstr "Automobil"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "Cascade"
+
+msgid "Case Sensitive"
+msgstr "Razlikovanje malih i velikih slova"
+
+msgid "Case sensitive"
+msgstr "Razlikuj velika i mala slova"
+
+msgid "Castle"
+msgstr "Dvorac"
+
+msgid "Catalan"
+msgstr "Katalonski"
+
+msgid "Categories"
+msgstr "Kategorije"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "CC"
+msgstr "CC"
+
+msgid "Cc"
+msgstr "Cc"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R:"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "Polje"
+
+msgid "Celsius"
+msgstr "Celzij"
+
+msgid "Celtic"
+msgstr "Keltski"
+
+msgid "Center"
+msgstr "Centar"
+
+msgid "Centered"
+msgstr "Centrirano"
+
+msgid "Centimeters"
+msgstr "Centimetara"
+
+msgid "Centimeters (cm)"
+msgstr "Centimetara (cm)"
+
+msgid "Central"
+msgstr "Centralna"
+
+msgid "Central African Republic"
+msgstr "Centralnoafrička Republika"
+
+msgid "Central European"
+msgstr "Srednjoevropski"
+
+msgid "Certificate"
+msgstr "Certifikat"
+
+msgid "Certificates (TLS)"
+msgstr "Certifikati (TLS)"
+
+msgid "Chad"
+msgstr "Čad"
+
+msgid "Change"
+msgstr "Promjena"
+
+msgid "Change..."
+msgstr "Izmijeni..."
+
+msgid "Changed"
+msgstr ""
+
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Channels"
+msgstr "Kanali"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "Poglavlje"
+
+msgid "Chapters"
+msgstr "Poglavlja"
+
+msgid "Character"
+msgstr "Znak"
+
+msgid "Characters"
+msgstr "Znakovi"
+
+msgid "Charging"
+msgstr "Puni se"
+
+msgid "Chart"
+msgstr "Grafikon"
+
+msgid "Chat"
+msgstr "Ćaskanje"
+
+msgid "Check"
+msgstr "Provjeri"
+
+msgid "Check for updates"
+msgstr "Provjeri najnovije informacije"
+
+msgid "Check Spelling"
+msgstr "Provjera pravopisa"
+
+msgid "Checkbox"
+msgstr "Kućica"
+
+msgid "Checkout"
+msgstr "Izdvajanje"
+
+msgid "Cherokee"
+msgstr "Čiroki"
+
+msgid "Children"
+msgstr "Djeca"
+
+msgid "Chile"
+msgstr "Čile"
+
+msgid "China"
+msgstr "Kina"
+
+msgid "Chinese"
+msgstr "Kineski"
+
+msgid "Chinese Simplified"
+msgstr "Kineski pojednostavljeni"
+
+msgid "Chinese Traditional"
+msgstr "Kineski tradicionalni"
+
+msgid "Choose"
+msgstr "Odaberi"
+
+msgid "Choose..."
+msgstr "Izaberi..."
+
+msgid "Cinema"
+msgstr "Kino"
+
+msgid "Circle"
+msgstr "Krug"
+
+msgid "City"
+msgstr "Grad"
+
+msgid "Class"
+msgstr "Klasa"
+
+msgid "Classes"
+msgstr "Klase"
+
+msgid "Classic"
+msgstr "Klasično"
+
+msgid "Classical"
+msgstr "Klasična"
+
+msgid "Clean"
+msgstr "Čisto"
+
+msgid "Cleanup"
+msgstr "Očisti"
+
+msgid "Clear"
+msgstr "Očisti"
+
+msgid "&Clear"
+msgstr "&Očisti"
+
+msgid "_Clear"
+msgstr "_Očisti"
+
+msgid "C&lear"
+msgstr "&Očisti"
+
+msgid "Clear All"
+msgstr "Očisti sve"
+
+msgid "Clear History"
+msgstr "Očisti historijat"
+
+msgid "Clear history"
+msgstr "Očisti historiju"
+
+msgid "Clear List"
+msgstr "Očisti listu"
+
+msgid "Client"
+msgstr "Klijent"
+
+msgid "Clip"
+msgstr "Isječak"
+
+msgid "Clipboard"
+msgstr "Klipbord"
+
+msgid "Clock"
+msgstr "Sat"
+
+msgid "Clockwise"
+msgstr "U smijeru kazaljke na satu"
+
+msgid "Clone"
+msgstr "Kloniraj"
+
+msgid "Close"
+msgstr "Zatvori"
+
+msgid "&Close"
+msgstr "&Zatvori"
+
+msgid "_Close"
+msgstr "_Zatvori"
+
+msgid "Close All"
+msgstr "Zatvori sve"
+
+msgid "Close Document"
+msgstr "Zatvori dokument"
+
+msgid "Close message"
+msgstr ""
+
+msgid "Close Tab"
+msgstr "Zatvori karticu"
+
+msgid "Close tab"
+msgstr "Zatvori karticu"
+
+msgid "Close the current tab"
+msgstr "Zatvori trenutnu karticu"
+
+msgid "Close this window"
+msgstr "Zatvori ovaj prozor"
+
+msgid "Close Window"
+msgstr "Zatvori prozor"
+
+msgid "Close window"
+msgstr "Zatvori prozor"
+
+msgid "Close _without Saving"
+msgstr "Zatvori bez _čuvanja"
+
+msgid "Closed"
+msgstr "Zatvoreno"
+
+msgid "Cloud"
+msgstr "Oblak"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "Kôd"
+
+msgid "code"
+msgstr "kod"
+
+msgid "Codec"
+msgstr "Kodek"
+
+msgid "Collapse"
+msgstr "Sažmi"
+
+msgid "Collapse All"
+msgstr "Sažmi sve"
+
+msgid "Collection"
+msgstr "Kolekcija"
+
+msgid "Collections"
+msgstr "Kolekcije"
+
+msgid "Colombia"
+msgstr "Kolumbija"
+
+msgid "Color"
+msgstr "Boja"
+
+msgid "color"
+msgstr "boja"
+
+msgid "&Color"
+msgstr "&Boja"
+
+msgid "Color Balance"
+msgstr "Balans boje"
+
+msgid "Color Management"
+msgstr "Upravljanje bojama"
+
+msgid "Color Mode"
+msgstr "Režim boja"
+
+msgid "Color Picker"
+msgstr "Birač boja"
+
+msgid "Color Scheme"
+msgstr "Šema boja"
+
+msgid "Color scheme"
+msgstr "Šema boja"
+
+msgid "Color Space"
+msgstr "Opseg boja"
+
+msgid "Color theme"
+msgstr ""
+
+msgid "Colorize"
+msgstr "Oboji"
+
+msgid "Colors"
+msgstr "Boje"
+
+msgid "Column"
+msgstr "Kolona"
+
+msgid "Column %1"
+msgstr "Kolona %1"
+
+msgid "Columns"
+msgstr "Kolone"
+
+msgid "Comma"
+msgstr "Zarez"
+
+msgid "COMMAND"
+msgstr "KOMANDA"
+
+msgid "Command"
+msgstr "Naredba"
+
+msgid "command"
+msgstr "naredba"
+
+msgid "Command Line"
+msgstr "Komandna linija"
+
+msgid "Command to execute"
+msgstr "Naredba koju treba izvršiti"
+
+msgid "Commands"
+msgstr "Komande"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Comments"
+msgstr "Komentari"
+
+msgid "Commit"
+msgstr "Izvrši"
+
+msgid "Common"
+msgstr "Zajednički"
+
+msgid "Comoros"
+msgstr "Komori"
+
+msgid "Compact"
+msgstr "Kompaktan"
+
+msgid "Compare"
+msgstr "Uporedi"
+
+msgid "Complete"
+msgstr "Završeno"
+
+msgid "Completed"
+msgstr "Završeno"
+
+msgid "Completion"
+msgstr "Dovršavanje"
+
+msgid "Component"
+msgstr "Komponenta"
+
+msgid "Components"
+msgstr "Komponente"
+
+msgid "Composer"
+msgstr "Kompozitor"
+
+msgid "Composition"
+msgstr "Kompozijcija"
+
+msgid "Compress"
+msgstr "Kompresuj"
+
+msgid "Compression"
+msgstr "Kompresija"
+
+msgid "Computer"
+msgstr "Računar"
+
+msgid "Condition"
+msgstr "Uslov"
+
+msgid "Confidential"
+msgstr "Povjerljivi"
+
+msgid "Configuration"
+msgstr "Podešavanje"
+
+msgid "Configure"
+msgstr "Podesi"
+
+msgid "Configure..."
+msgstr "Konfiguriši..."
+
+msgid "Configure %1"
+msgstr "Podesi %1"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "Podesi prečice sa tastature"
+
+msgid "Configure Plugins"
+msgstr "Podesi dodatke"
+
+msgid "Configure Toolbars"
+msgstr "Podesi alatne trake"
+
+msgid "Configure Web Shortcuts..."
+msgstr "Podesi internetske prečice..."
+
+msgid "Confirm"
+msgstr "Potvrdi"
+
+msgid "Confirmation"
+msgstr "Potvrda"
+
+msgid "Confirmation Required"
+msgstr "Potrebna je potvrda"
+
+msgid "Confirmed"
+msgstr "Potvrđeno"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "Sukob sa standardnom prečicom aplikacije"
+
+msgid "Connect"
+msgstr "Poveži se"
+
+msgid "C_onnect"
+msgstr "P_oveži se"
+
+msgid "Connected"
+msgstr "Povezan"
+
+msgid "Connecting"
+msgstr "Povezujem se"
+
+msgid "Connecting..."
+msgstr "Povezivanje..."
+
+msgid "Connection"
+msgstr "Veza"
+
+msgid "Connection Failed"
+msgstr "Neuspješno povezivanje"
+
+msgid "Connection Settings"
+msgstr "Postavke povezivanja"
+
+msgid "Connections"
+msgstr "Veze"
+
+msgid "Console"
+msgstr "Konzola"
+
+msgid "Constant"
+msgstr "Konstanta"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Contacts"
+msgstr "Kontakti"
+
+msgid "Container"
+msgstr "Sadržalac"
+
+msgid "Contains"
+msgstr "Sadrži"
+
+msgid "contains"
+msgstr "sadrži"
+
+msgid "Content"
+msgstr "Sadržaj"
+
+msgid "Content Type"
+msgstr "Vrsta sadržaja"
+
+msgid "Contents"
+msgstr "Sadržaj"
+
+msgid "_Contents"
+msgstr "_Sadržaj"
+
+msgid "Context"
+msgstr "Kontekst"
+
+msgid "Continue"
+msgstr "Nastavi"
+
+msgid "_Continue"
+msgstr "_Nastavi"
+
+msgid "Contrast"
+msgstr "Kontrast"
+
+msgid "Contributor"
+msgstr "Doprinosilac"
+
+msgid "Control"
+msgstr "Kontrola"
+
+msgid "Convert"
+msgstr "Pretvori"
+
+msgid "Convert to Path"
+msgstr "Pretvori u stazu"
+
+msgid "Cookies"
+msgstr "Kolačići"
+
+msgid "Coordinates"
+msgstr "Koordinate"
+
+msgid "Copied to clipboard"
+msgstr "Kopirano u međuspremnik"
+
+msgid "Coptic"
+msgstr "Koptski"
+
+msgid "Copy"
+msgstr "Kopiraj"
+
+msgid "copy"
+msgstr "kopija"
+
+msgid "&Copy"
+msgstr "&Kopiraj"
+
+msgid "_Copy"
+msgstr "_Kopiraj"
+
+msgid "Copy Email Address"
+msgstr "Kopiraj adresu e-pošte"
+
+msgid "&Copy Here"
+msgstr "&Kopiraj ovdje"
+
+msgid "Copy Image"
+msgstr "Kopiraj sliku"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Link Address"
+msgstr "Kopiraj adresu veze"
+
+msgid "_Copy Link Address"
+msgstr "_Kopiraj adresu linka"
+
+msgid "Copy Location"
+msgstr ""
+
+msgid "Copy of %1"
+msgstr "Kopija od %1"
+
+msgid "Copy selection to clipboard"
+msgstr "Kopiraj izabrane objekte u međuspremnik"
+
+msgid "Copy Text"
+msgstr "Kopiraj tekst"
+
+msgid "Copy to Clipboard"
+msgstr "Kopiraj u Clipboard"
+
+msgid "Copy to clipboard"
+msgstr "Kopiraj na međuspremnik"
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copying files"
+msgstr "Kopiranje datoteka"
+
+msgid "Copyright"
+msgstr "Autorska prava"
+
+msgid "Cost"
+msgstr "Cijena"
+
+msgid "Costa Rica"
+msgstr "Kostarika"
+
+msgid "Could not open %1"
+msgstr "Ne mogu otvoriti %1"
+
+msgid "Could not open file."
+msgstr "Ne mogu da otvorim datoteku."
+
+msgid "Count"
+msgstr "Broj"
+
+msgid "Counter"
+msgstr "Brojač"
+
+msgid "Country"
+msgstr "Država"
+
+msgid "CPU"
+msgstr ""
+
+msgid "Create"
+msgstr "Kreiraj"
+
+msgid "C_reate"
+msgstr "_Napravi"
+
+msgid "Create Folder"
+msgstr "Napravi direktorij"
+
+msgid "Create New"
+msgstr "Napravi novi"
+
+msgid "Created"
+msgstr "Napravljeno"
+
+msgid "Creation Date"
+msgstr "Datum kreiranja"
+
+msgid "Creation date"
+msgstr "Datum kreiranja"
+
+msgid "Creator"
+msgstr "Autor"
+
+msgid "Credentials"
+msgstr "Akreditivi"
+
+msgid "Credits"
+msgstr "Autori i saradnici"
+
+msgid "Criteria"
+msgstr "Kriterijum"
+
+msgid "Critical"
+msgstr "Kritična"
+
+msgid "Croatia"
+msgstr "Hrvatska"
+
+msgid "Croatian"
+msgstr "Hrvatski"
+
+msgid "Crop"
+msgstr "Izreži"
+
+msgid "Crop image"
+msgstr "Izreži sliku"
+
+msgid "Cross"
+msgstr "Krst"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr ""
+
+msgid "Cuba"
+msgstr "Kuba"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Current"
+msgstr "Trenutni"
+
+msgid "Current Maintainer"
+msgstr "Trenutni održavalac"
+
+msgid "Current maintainer"
+msgstr "Trenutno održava"
+
+msgid "Cursor"
+msgstr "Kursor"
+
+msgid "Curve"
+msgstr "Kriva"
+
+msgid "Curves"
+msgstr "Krivine"
+
+msgid "Custom"
+msgstr "Prilagođeno"
+
+msgid "Custom..."
+msgstr "Prilagođeno..."
+
+msgid "Custom Font"
+msgstr "Prilagođena slova"
+
+msgid "Cut"
+msgstr "Isijeci"
+
+msgid "Cu&t"
+msgstr "&Isijeci"
+
+msgid "Cu_t"
+msgstr "_Isijeci"
+
+msgid "Cyan"
+msgstr "Cijan"
+
+msgid "Cyprus"
+msgstr "Kipar"
+
+msgid "Cyrillic"
+msgstr "Ćirilica"
+
+msgid "Czech"
+msgstr "češki"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "Dnevno"
+
+msgid "Dance"
+msgstr "Dens"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr ""
+
+msgid "Danish"
+msgstr "danski"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr ""
+
+msgid "Darken"
+msgstr "Tamnije"
+
+msgid "Dashboard"
+msgstr "Instrument tabla"
+
+msgid "Dashed"
+msgstr "Isprekidan"
+
+msgid "Data"
+msgstr "Podaci"
+
+msgid "Database"
+msgstr "Baza podataka"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "date"
+msgstr "datum"
+
+msgid "Date & Time"
+msgstr "Datum i vrijeme"
+
+msgid "Date and Time"
+msgstr "Datum i vrijeme"
+
+msgid "Date Format"
+msgstr "Format datuma"
+
+msgid "Date Modified"
+msgstr "Datum izmjene"
+
+msgid "David Edmundson"
+msgstr ""
+
+msgid "Day"
+msgstr "Dan"
+
+msgid "Days"
+msgstr "Dana"
+
+msgid "days"
+msgstr "dani"
+
+msgid "day(s)"
+msgstr "dan(a)"
+
+msgid "D-Bus name to use for this instance"
+msgstr ""
+
+msgid "Debug"
+msgstr "Praćenje grešaka"
+
+msgid "Debugger"
+msgstr "Ispravljač grešaka"
+
+msgid "Debugging"
+msgstr "Ispravljanje grešaka"
+
+msgid "December"
+msgstr "Decembar"
+
+msgid "Decimal"
+msgstr "Decimalni"
+
+msgid "Decline"
+msgstr "Odbij"
+
+msgid "Decrease Font Size"
+msgstr "Smanji slova"
+
+msgid "Decrease Indent"
+msgstr "Smanji uvlačenje"
+
+msgid "Decrease Volume"
+msgstr "Smanji jačinu zvuka"
+
+msgid "Decrypt"
+msgstr "Dešifriraj"
+
+msgid "Default"
+msgstr "Podrazumijevano"
+
+msgid "default"
+msgstr "podrazumijevano"
+
+msgid "Defaults"
+msgstr "Podrazumijevano"
+
+msgid "Definition"
+msgstr "Definicija"
+
+msgid "degrees"
+msgstr "stepeni"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay"
+msgstr "Kašnjenje"
+
 msgid "Delete"
 msgstr "Obriši"
+
+msgid "&Delete"
+msgstr "&Obriši"
+
+msgid "_Delete"
+msgstr "_Obriši"
+
+msgid "D&elete"
+msgstr "O&briši"
+
+msgid "Delete..."
+msgstr "Obriši..."
+
+msgid "Delete %1"
+msgstr "Obriši %1"
+
+msgid "Delete All"
+msgstr ""
+
+msgid "Delete File"
+msgstr "Izbriši datoteku"
+
+msgid "Delete Folder"
+msgstr "Obriši direktorij"
+
+msgid "Delete Image"
+msgstr "Obriši sliku"
+
+msgid "Delete Selected"
+msgstr "Izbriši označene"
+
+msgid "Delete selection"
+msgstr "Briši selekciju"
+
+msgid "_Delete Toolbar"
+msgstr "O_briši alatnu traku"
+
+msgid "Deleted"
+msgstr "Obrisano"
+
+msgid "Deletion"
+msgstr "Brisanje"
+
+msgid "Delimiter"
+msgstr "Razdvajač"
+
+msgid "Delta"
+msgstr "Delta"
+
+msgid "Denmark"
+msgstr "Danska"
+
+msgid "Density"
+msgstr "Gustina"
+
+msgid "Deny"
+msgstr "Zabrani"
+
+msgid "Dependencies"
+msgstr "Zavisnosti"
+
+msgid "Depth"
+msgstr "Dubina"
+
+msgid "Desaturate"
+msgstr "Smanji zasićenje"
+
+msgid "Descending"
+msgstr "Opadajuće"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "&Description"
+msgstr "&Opis"
+
+msgid "Deselect"
+msgstr "Poništi izbor"
+
+msgid "Deselect All"
+msgstr "Poništi izbor"
+
+msgid "Desert"
+msgstr "Pustinja"
+
+msgid "Desktop"
+msgstr "Radna površina"
+
+msgid "Destination"
+msgstr "Odredište"
+
+msgid "Detach"
+msgstr "Odvoji"
+
+msgid "_Detach Tab"
+msgstr "_Odvoji karticu"
+
+msgid "Details"
+msgstr "Detalji"
+
+msgid "&Details"
+msgstr "&Detalji"
+
+msgid "_Details"
+msgstr "_Detalji"
+
+msgid "Details..."
+msgstr "Detalji..."
+
+msgid "Devanagari"
+msgstr "Devanagari"
+
+msgid "Developer"
+msgstr "Programer"
+
+msgid "Development"
+msgstr "Razvoj"
+
+msgid "Device"
+msgstr "Uređaj"
+
+msgid "device"
+msgstr "uređaj"
+
+msgid "Device Information"
+msgstr "Podaci o uređajima"
+
+msgid "Device Status"
+msgstr "Stanje uređaja"
+
+msgid "Device type"
+msgstr "Tip uređaja"
+
+msgid "Devices"
+msgstr "Uređaji"
+
+msgid "Diagnostics"
+msgstr "Dijagnostika"
+
+msgid "Diagonal"
+msgstr "Dijagonalno"
+
+msgid "Dialog"
+msgstr "Dijalog"
+
+msgid "Dialogs"
+msgstr "Prozorčići"
+
+msgid "Diamond"
+msgstr "Dijamant"
+
+msgid "Dictionary"
+msgstr "Rječnik"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "Razlika"
+
+msgid "Difficulty"
+msgstr "Težina"
+
+msgid "Digit"
+msgstr "Cifra"
+
+msgid "Dimensions"
+msgstr "Dimenzije"
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "Direction"
+msgstr "Pravac"
+
+msgid "Directories"
+msgstr "Direktoriji"
+
+msgid "Directory"
+msgstr "Direktorij"
+
+msgid "directory"
+msgstr "direktorij"
+
+msgid "Directory Name"
+msgstr "Ime direktorija"
+
+msgid "Disable"
+msgstr "Isključi"
+
+msgid "Disable connection to session manager"
+msgstr "Onemogući spajanje sa upraviteljem sesije"
+
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+msgid "disabled"
+msgstr "isključeno"
+
+msgid "Disc"
+msgstr "Disk"
+
+msgid "Disc Number"
+msgstr "Broj diska"
+
+msgid "Discard"
+msgstr "Odbaci"
+
+msgid "_Discard"
+msgstr "_Odbaci"
+
+msgid "Discard All"
+msgstr ""
+
+msgid "Discard Changes"
+msgstr "Odbaci izmjene"
+
+msgid "Discard changes"
+msgstr "Odbaci izmjene"
+
+msgid "_Discard Changes"
+msgstr "O_dbaci izmjene"
+
+msgid "Discharging"
+msgstr "Prazni se"
+
+msgid "Disconnect"
+msgstr "Prekini vezu"
+
+msgid "Disconnected"
+msgstr "Odspojen"
+
+msgid "Discover"
+msgstr "Otkrij"
+
+msgid "Discrete"
+msgstr "Diskretan"
+
+msgid "Disk"
+msgstr "Disk"
+
+msgid "Dismiss"
+msgstr "Odbaci"
+
+msgid "Display"
+msgstr "Prikaz"
+
+msgid "Display Configuration"
+msgstr ""
+
+msgid "Display Name"
+msgstr "Prikazano ime"
+
+msgid "Display Settings"
+msgstr "Podešavanje ekrana"
+
+msgid "Dissolve"
+msgstr "Rastopi"
+
+msgid "Distance"
+msgstr "Udaljenost"
+
+msgid "Divide"
+msgstr "Podijeli"
+
+msgid "Djibouti"
+msgstr "Džibuti"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "Ne pitaj ponovo"
+
+msgid "Do Not Cancel"
+msgstr ""
+
+msgid "Do not change the actual backend data."
+msgstr "Ne mijenjaj aktuelne pozadinske podatke."
+
+msgid "Do not show again"
+msgstr "Ne prikazuj ponovo"
+
+msgid "Do not show this message again"
+msgstr "Ne prikazuj više ovu poruku"
+
+msgid "Do Nothing"
+msgstr "Ne čini ništa"
+
+msgid "Do nothing"
+msgstr "Ne radi ništa"
+
+msgid "Document"
+msgstr "Dokument"
+
+msgid "Document Properties"
+msgstr "Svojstva dokumenta"
+
+msgid "Document to open"
+msgstr "Dokument za otvaranje"
+
+msgid "Document Viewer"
+msgstr "Pregledač dokumenta"
+
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+msgid "Documents"
+msgstr "Dokumenti"
+
+msgid "does not contain"
+msgstr "ne sadrži"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "Domena"
+
+msgid "Dominica"
+msgstr "Dominika"
+
+msgid "Dominican Republic"
+msgstr "Dominikanska Republika"
+
+msgid "Donate"
+msgstr ""
+
+msgid "Done"
+msgstr "Gotovo"
+
+msgid "Dot"
+msgstr "Tačka"
+
+msgid "Dots"
+msgstr "Tačke"
+
+msgid "Dotted"
+msgstr "Tačkast"
+
+msgid "Double"
+msgstr "Dvostruko"
+
+msgid "Down"
+msgstr "Dolje"
+
+msgid "Download"
+msgstr "Preuzimanje"
+
+msgid "Download Manager"
+msgstr "Download menadžer"
+
+msgid "Downloaded"
+msgstr "Preuzeto"
+
+msgid "Downloading"
+msgstr "Preuzimam"
+
+msgid "Downloading..."
+msgstr ""
+
+msgid "Downloads"
+msgstr "Preuzimanja"
+
+msgid "Dr."
+msgstr "Dr."
+
+msgid "Draft"
+msgstr "Nacrt"
+
+msgid "Drafts"
+msgstr "Skice"
+
+msgid "Draw"
+msgstr "Crtaj"
+
+msgid "Drive"
+msgstr "Uređaj"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "Rok"
+
+msgid "Due Date"
+msgstr "Krajnji rok"
+
+msgid "Duplicate"
+msgstr "Dupliciraj"
+
+msgid "_Duplicate"
+msgstr "_Dupliciraj"
+
+msgid "Duplicates"
+msgstr "Duplikati"
+
+msgid "Duration"
+msgstr "Trajanje"
+
+msgid "Dutch"
+msgstr "holandski"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "E"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "Istok"
+
+msgid "Easy"
+msgstr "Lako"
+
+msgid "Echo"
+msgstr "Echo"
+
+msgid "Ecuador"
+msgstr "Ekvador"
+
+msgid "Edge"
+msgstr "Ivica"
+
+msgid "Edit"
+msgstr "Izmijeni"
+
+msgid "&Edit"
+msgstr "&Izmijeni"
+
+msgid "_Edit"
+msgstr "_Izmijeni"
+
+msgid "Edit..."
+msgstr "Izmijeni..."
+
+msgid "&Edit..."
+msgstr "&Izmijeni..."
+
+msgid "Edit %1"
+msgstr "Izmijeni %1"
+
+msgid "Edit Bookmark"
+msgstr "Uredi zabilješke"
+
+msgid "Edit Filter"
+msgstr "Uredi filter"
+
+msgid "Edit Image"
+msgstr "Izmijeni sliku"
+
+msgid "Editing"
+msgstr "Izmjena"
+
+msgid "Editor"
+msgstr "Uređivač"
+
+msgid "Education"
+msgstr "Obrazovanje"
+
+msgid "Effects"
+msgstr "Efekti"
+
+msgid "Egypt"
+msgstr "Egipat"
+
+msgid "Egyptian"
+msgstr "Egipatski"
+
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+msgid "Eject"
+msgstr "Izbaci"
+
+msgid "_Eject"
+msgstr "_Izbaci"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Electronic"
+msgstr "Elektronski"
+
+msgid "Element"
+msgstr "Element"
+
+msgid "Ellipse"
+msgstr "Elipsa"
+
+msgid "Email"
+msgstr "E-pošta"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Email Address"
+msgstr "E-mail adresa"
+
+msgid "Email address"
+msgstr "Adresa e‑pošte"
+
+msgid "Emails"
+msgstr "E-Pošta"
+
+msgid "Embedded"
+msgstr "Ugnježden"
+
+msgid "Emboss"
+msgstr "Reljef"
+
+msgid "Emphasis"
+msgstr "Naglašenost"
+
+msgid "Empty"
+msgstr "Prazno"
+
+msgid "empty"
+msgstr "prazno"
+
+msgid "(empty)"
+msgstr "(prazno)"
+
+msgid "<empty>"
+msgstr "<prazno>"
+
+msgid "Empty Trash"
+msgstr "Isprazni smeće"
+
+msgid "Enable"
+msgstr "Uključi"
+
+msgid "Enable system tray icon"
+msgstr "Ikona u sistemskom tray-u"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr "Omogući detaljno praćenje grešaka (može otkriti lozinke)"
+
+msgid "Enabled"
+msgstr "Omogućeno"
+
+msgid "Encoder"
+msgstr "Enkoder"
+
+msgid "Encoding"
+msgstr "Kodiranje"
+
+msgid "_Encoding"
+msgstr "_Kodiranje"
+
+msgid "Encrypt"
+msgstr "Šifruj"
+
+msgid "&Encrypt"
+msgstr "&Šifruj"
+
+msgid "Encrypted"
+msgstr "Šifrovano"
+
+msgid "Encryption"
+msgstr "Šifrovanje"
+
+msgid "End"
+msgstr "Kraj"
+
+msgid "end"
+msgstr "kraj"
+
+msgid "End Date"
+msgstr "Datum završetka"
+
+msgid "End Time"
+msgstr "Vrijeme kraja"
+
+msgid "ends with"
+msgstr "završava se sa"
+
+msgid "Energy"
+msgstr "Energija"
+
+msgid "Engine"
+msgstr ""
+
+msgid "Engineering"
+msgstr "Inženjerstvo"
+
+msgid "English"
+msgstr "Engleski"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Enter password"
+msgstr "Ukucajte lozinku"
+
+msgid "Entry"
+msgstr "Unos"
+
+msgid "Environment"
+msgstr "Okruženje"
+
+msgid "equals"
+msgstr "jednako"
+
+msgid "Equation"
+msgstr "Jednačina"
+
+msgid "Equatorial Guinea"
+msgstr "Ekvatorijalna Gvineja"
+
+msgid "Erase"
+msgstr "Briši"
+
+msgid "Eraser"
+msgstr "Brisač"
+
+msgid "Eritrea"
+msgstr "Eritreja"
+
+msgid "ERROR"
+msgstr "GREŠKA"
+
+msgid "Error"
+msgstr "Greška"
+
+msgid "error"
+msgstr "greška"
+
+msgid "Error: %1"
+msgstr "Greška: %1"
+
+msgid "Error message"
+msgstr "Poruka o greški"
+
+msgid "Errors"
+msgstr "Greške"
+
+msgid "Escape"
+msgstr "Izbjegavanje"
+
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgid "Estonia"
+msgstr "Estonija"
+
+msgid "Estonian"
+msgstr "estonski"
+
+msgid "Ethiopia"
+msgstr "Etiopija"
+
+msgid "Ethiopic"
+msgstr "Etiopski"
+
+msgid "Europe"
+msgstr "Evropa"
+
+msgid "Evaluate"
+msgstr "Procijeni"
+
+msgid "Event"
+msgstr "Događaj"
+
+msgid "Events"
+msgstr "Događaji"
+
+msgid "Everyone"
+msgstr "Svi"
+
+msgid "Everything"
+msgstr "Sve"
+
+msgid "Exact"
+msgstr "Tačno"
+
+msgid "Example"
+msgstr "Primjer"
+
+msgid "Examples"
+msgstr "Primjeri"
+
+msgid "Exception"
+msgstr "Izuzetak"
+
+msgid "Exclude"
+msgstr "Isključi"
+
+msgid "Exclusion"
+msgstr "Isključenje"
+
+msgid "Executable"
+msgstr "Izvršni program"
+
+msgid "Execute"
+msgstr "Izvrši"
+
+msgid "Exit"
+msgstr "Izlaz"
+
+msgid "Exit Full Screen"
+msgstr ""
+
+msgid "Exit Fullscreen"
+msgstr ""
+
+msgid "Exiting..."
+msgstr "Izlazim..."
+
+msgid "Expand"
+msgstr "Raširi"
+
+msgid "Expand All"
+msgstr "Raširi sve"
+
+msgid "Experimental"
+msgstr "Eksperimentalno"
+
+msgid "Expired"
+msgstr "Istekao"
+
+msgid "Expires"
+msgstr "Ističe"
+
+msgid "Export"
+msgstr "Izvezi"
+
+msgid "&Export"
+msgstr "&Izvezi"
+
+msgid "_Export"
+msgstr "_Izvezi"
+
+msgid "Export..."
+msgstr "Izvezi..."
+
+msgid "&Export..."
+msgstr "&Izvezi..."
+
+msgid "_Export..."
+msgstr "_Izvezi"
+
+msgid "E&xport..."
+msgstr "I&zvezi..."
+
+msgid "Export As..."
+msgstr "Eksportuj kao..."
+
+msgid "Export failed"
+msgstr "Neuspješan izvoz"
+
+msgid "Export Options"
+msgstr "Opcije izvoza"
+
+msgid "Exposure"
+msgstr "Ekspozicija"
+
+msgid "Expression"
+msgstr "Izraz"
+
+msgid "Extended"
+msgstr "Prošireno"
+
+msgid "Extension"
+msgstr "Ekstenzija"
+
+msgid "Extensions"
+msgstr "Ekstenzije"
+
+msgid "Extra Toolbar"
+msgstr "Dodatna traka s alatima"
+
+msgid "Extract"
+msgstr "Raspakivanje"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "Utapanje"
+
+msgid "Fahrenheit"
+msgstr "Farenhajt"
+
+msgid "Failed"
+msgstr "Neuspjelo"
+
+msgid "False"
+msgstr "Netačno"
+
+msgid "false"
+msgstr "netačno"
+
+msgid "Family"
+msgstr "Porodica"
+
+msgid "Family Name"
+msgstr "Prezime"
+
+msgid "Fast"
+msgstr "Brzo"
+
+msgid "Faster"
+msgstr "Brže"
+
+msgid "Fatal Error"
+msgstr "Kobna greška"
+
+msgid "Favorite"
+msgstr "Omiljeni"
+
+msgid "Favorites"
+msgstr "Omiljeni"
+
+msgid "Fax"
+msgstr "Faks"
+
+msgid "Features"
+msgstr "Mogućnosti"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "Feeds"
+msgstr "Dovodi"
+
+msgid "Felipe Kinoshita"
+msgstr ""
+
+msgid "Fetch"
+msgstr "Dobavi"
+
+msgid "Fiji"
+msgstr "Fidži"
+
+msgid "FILE"
+msgstr "DATOTEKA"
+
+msgid "File"
+msgstr "Datoteka"
+
+msgid "file"
+msgstr "datoteka"
+
+msgid "&File"
+msgstr "&Datoteka"
+
+msgid "_File"
+msgstr "_Datoteka"
+
+msgid "[FILE...]"
+msgstr "[DATOTEKA...]"
+
+msgid "File Already Exists"
+msgstr "Datoteka već postoji"
+
+msgid "File already exists"
+msgstr "Datoteka već postoji"
+
+msgid "File Exists"
+msgstr "Datoteka postoji"
+
+msgid "File Format"
+msgstr "Format datoteke"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "Menadžer datoteka"
+
+msgid "File Name"
+msgstr "Ime datoteke"
+
+msgid "File name"
+msgstr "Naziv datoteke"
+
+msgid "File Not Found"
+msgstr "Datoteka nije pronađena"
+
+msgid "File not found"
+msgstr "Datoteka nije pronađena"
+
+msgid "File Path"
+msgstr "Putanja datoteke"
+
+msgid "File Properties"
+msgstr "Osobine datoteke"
+
+msgid "File Size"
+msgstr "Veličina datoteke"
+
+msgid "File size"
+msgstr "Veličina datoteke"
+
+msgid "File System"
+msgstr "Datotečni sistem"
+
+msgid "File to open"
+msgstr "Datoteka za otvaranje"
+
+msgid "File Transfer"
+msgstr "Prijenos podataka"
+
+msgid "File Type"
+msgstr "Tip datoteke"
+
+msgid "Filename"
+msgstr "Ime datoteke"
+
+msgid "Files"
+msgstr "Datoteke"
+
+msgid "Filesystem"
+msgstr "Sistem datoteka"
+
+msgid "Fill"
+msgstr "Popuni"
+
+msgid "Fill Color"
+msgstr "Boja popune"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Filter..."
+msgstr ""
+
+msgid "Filters"
+msgstr "Filteri"
+
+msgid "Final"
+msgstr "Konačni"
+
+msgid "Find"
+msgstr "Nađi"
+
+msgid "&Find"
+msgstr "&Nađi"
+
+msgid "_Find"
+msgstr "_Nađi"
+
+msgid "F&ind"
+msgstr "&Nađi"
+
+msgid "Find..."
+msgstr "Nađi…"
+
+msgid "_Find..."
+msgstr "_Nađi..."
+
+msgid "Find and Replace"
+msgstr "Nađi i zamijeni"
+
+msgid "Find Next"
+msgstr "Nađi sljedeće"
+
+msgid "Find _Next"
+msgstr "Nađi _sljedeće"
+
+msgid "Find Ne_xt"
+msgstr "Nađi _sljedeće"
+
+msgid "Find Previous"
+msgstr "Nađi prethodne"
+
+msgid "Find Pre_vious"
+msgstr "Nađi _prethodno"
+
+msgid "Fingerprint"
+msgstr "Otisak"
+
+msgid "Finish"
+msgstr "Završi"
+
+msgid "Finished"
+msgstr "Završeno"
+
+msgid "Finland"
+msgstr "Finska"
+
+msgid "Finnish"
+msgstr "finski"
+
+msgid "First"
+msgstr "Prvo"
+
+msgid "First Page"
+msgstr "Prva stranica"
+
+msgid "Fit"
+msgstr "Uklopi"
+
+msgid "Fit Width"
+msgstr "Prilagodi po širini"
+
+msgid "Fixed"
+msgstr "Fiksno"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "Označeno"
+
+msgid "Flags"
+msgstr "Indikatori"
+
+msgid "Flash"
+msgstr "Fleš"
+
+msgid "Flat"
+msgstr "Ravno"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "Okreni"
+
+msgid "Flip Horizontally"
+msgstr "Prevrni vodoravno"
+
+msgid "Flip horizontally"
+msgstr "Obrni horizontalno"
+
+msgid "Flip Vertically"
+msgstr "Prevrni uspravno"
+
+msgid "Flip vertically"
+msgstr "Obrni vertikalno"
+
+msgid "Float"
+msgstr "Realan broj"
+
+msgid "Floating"
+msgstr "Plutajuće"
+
+msgid "Flow"
+msgstr "Protok"
+
+msgid "flower"
+msgstr "cvijet"
+
+msgid "Focal Length"
+msgstr "Dužina fokusa"
+
+msgid "Focus"
+msgstr "Fokus"
+
+msgid "Folder"
+msgstr "Direktorij"
+
+msgid "Folder name"
+msgstr "Naziv direktorija"
+
+msgid "Folders"
+msgstr "Direktoriji"
+
+msgid "Folk"
+msgstr "Folk"
+
+msgid "Font"
+msgstr "Font"
+
+msgid "&Font"
+msgstr "&Font"
+
+msgid "Font Color"
+msgstr "Boja fonta"
+
+msgid "Font Family"
+msgstr "Porodica fontova"
+
+msgid "Font Size"
+msgstr "Veličina slova"
+
+msgid "Font size"
+msgstr "Veličina fonta"
+
+msgid "Fonts"
+msgstr "Fontovi"
+
+msgid "_Fonts"
+msgstr "_Fontovi"
+
+msgid "Food"
+msgstr ""
+
+msgid "Footer"
+msgstr "Podnožje"
+
+msgid "Force"
+msgstr "Sila"
+
+msgid "Forecast"
+msgstr "Prognoza"
+
+msgid "Foreground"
+msgstr "Prednji plan"
+
+msgid "Foreground Color"
+msgstr "Boja iscrtavanja"
+
+msgid "Foreground color"
+msgstr "Boja teksta"
+
+msgid "forever"
+msgstr "zauvijek"
+
+msgid "Form"
+msgstr "Formular"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Formatting"
+msgstr "Formatiranje"
+
+msgid "Former Maintainer"
+msgstr "Prethodni održavatelj"
+
+msgid "Former maintainer"
+msgstr "Bivši održavatelj"
+
+msgid "Formula"
+msgstr "Formula"
+
+msgid "Forward"
+msgstr "Naprijed"
+
+msgid "&Forward"
+msgstr "P&roslijedi:"
+
+msgid "_Forward"
+msgstr "_Naprijed"
+
+msgid "Fraction"
+msgstr "Dio"
+
+msgid "Frame"
+msgstr "Okvir"
+
+msgid "Framerate"
+msgstr "Protok kadrova"
+
+msgid "Frames"
+msgstr "Okviri"
+
+msgid "France"
+msgstr "Francuska"
+
+msgid "Free"
+msgstr "Slobodno"
+
+msgid "French"
+msgstr "Francuski"
+
+msgid "French Guiana"
+msgstr "Francuska Gijana"
+
+msgid "Frequency"
+msgstr "Frekvencija"
+
+msgid "Friday"
+msgstr "Petak"
+
+msgid "Friends"
+msgstr "Prijatelji"
+
+msgid "From"
+msgstr "Od"
+
+msgid "from"
+msgstr "od"
+
+msgid "From %1"
+msgstr "Od %1"
+
+msgid "Frozen"
+msgstr "Zamrznut"
+
+msgid "Full"
+msgstr "Puno"
+
+msgid "Full Name"
+msgstr "Ime i prezime"
+
+msgid "Full Screen"
+msgstr "Cijeli ekran"
+
+msgid "Full Screen Mode"
+msgstr "Režim punog ekrana"
+
+msgid "F&ull Screen Mode"
+msgstr "Preko &cijelog ekrana"
+
+msgid "Fullscreen"
+msgstr "Preko cijelog ekrana"
+
+msgid "_Fullscreen"
+msgstr "_Cijeli ekran"
+
+msgid "Function"
+msgstr "Funkcija"
+
+msgid "function"
+msgstr "funkcija"
+
+msgid "Functions"
+msgstr "Funkcije"
+
+msgid "Future"
+msgstr "Buduće"
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Galician"
+msgstr "galicijski"
+
+msgid "Gallery"
+msgstr "Galerija"
+
+msgid "Gambia"
+msgstr "Gambija"
+
+msgid "Game"
+msgstr "Igra"
+
+msgid "&Game"
+msgstr "&Igra"
+
+msgid "Game Over"
+msgstr "Igra je završena"
+
+msgid "Games"
+msgstr "Igre"
+
+msgid "Gamma"
+msgstr "Gama"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Gate"
+msgstr "Ulaz"
+
+msgid "Gateway"
+msgstr "Mrežni izlaz"
+
+msgid "Gaussian Blur"
+msgstr "Gausovo zamućenje"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "Pol"
+
+msgid "General"
+msgstr "Opšte"
+
+msgid "&General"
+msgstr "&Općenito"
+
+msgid "General Options"
+msgstr "Opšte opcije"
+
+msgid "General options"
+msgstr "Generalne opcije"
+
+msgid "General Settings"
+msgstr "Opšte postavke"
+
+msgid "Generate"
+msgstr "Generiši"
+
+msgid "Generic"
+msgstr "Opšte"
+
+msgid "Genre"
+msgstr "Žanr"
+
+msgid "Genres"
+msgstr "Žanrovi"
+
+msgid "Geometry"
+msgstr "Geometrija"
+
+msgid "George Staikos"
+msgstr "Džordž Stajkos"
+
+msgid "Georgia"
+msgstr "Gruzija"
+
+msgid "Georgian"
+msgstr "Gruzijski"
+
+msgid "German"
+msgstr "njemački"
+
+msgid "Germany"
+msgstr "Njemačka"
+
+msgid "Get New..."
+msgstr ""
+
+msgid "Get New Plugins..."
+msgstr ""
+
+msgid "Ghana"
+msgstr "Gana"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr ""
+
+msgid "Given Name"
+msgstr "Ime"
+
+msgid "Global"
+msgstr "Globalno"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "Kreni"
+
+msgid "&Go"
+msgstr "&Kreni"
+
+msgid "_Go"
+msgstr "_Idi na"
+
+msgid "Go Back"
+msgstr "Idi nazad"
+
+msgid "Go back"
+msgstr "Idi nazad"
+
+msgid "Go forward"
+msgstr "Idi naprijed"
+
+msgid "Go To"
+msgstr "Idi na"
+
+msgid "Go to first page"
+msgstr "Idi na prvu stranu"
+
+msgid "Go to last page"
+msgstr "Idi na posljednju stranu"
+
+msgid "Go to Line"
+msgstr "Idi na liniju"
+
+msgid "Go to next page"
+msgstr "Idi na sljedeću stranu"
+
+msgid "Go to previous page"
+msgstr "Idi na prethodnu stranicu"
+
+msgid "Goa"
+msgstr "Goa"
+
+msgid "Gold"
+msgstr "Zlato"
+
+msgid "Good"
+msgstr "Dobro"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "Gotika"
+
+msgid "Gradient"
+msgstr "Gradijent"
+
+msgid "Gradients"
+msgstr "Gradijenti"
+
+msgid "Graph"
+msgstr "Grafik"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "Gray"
+msgstr "Siva"
+
+msgid "gray"
+msgstr "siva"
+
+msgid "Grayscale"
+msgstr "Sive nijanse"
+
+msgid "Greece"
+msgstr "Grčka"
+
+msgid "Greek"
+msgstr "Grčki"
+
+msgid "Green"
+msgstr "Zelena"
+
+msgid "green"
+msgstr "zelena"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Grid"
+msgstr "Mreža"
+
+msgid "Group"
+msgstr "Grupa"
+
+msgid "Group name"
+msgstr "Naziv grupe"
+
+msgid "Grouping"
+msgstr "Grupisanje"
+
+msgid "Groups"
+msgstr "Grupe"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "Gvatemala"
+
+msgid "Guides"
+msgstr "Vodiči"
+
+msgid "Guinea"
+msgstr "Gvineja"
+
+msgid "Gujarati"
+msgstr "Gujaratski"
+
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+msgid "Guyana"
+msgstr "Gvajana"
+
+msgid "H"
+msgstr "V"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Hard"
+msgstr "Teško"
+
+msgid "Hardware"
+msgstr "Hardver"
+
+msgid "Hawaiian"
+msgstr ""
+
+msgid "Header"
+msgstr "Zaglavlje"
+
+msgid "Headers"
+msgstr "Zaglavlja"
+
+msgid "Heading"
+msgstr "Zaglavlje"
+
+msgid "Heading 1"
+msgstr "Zaglavlje 1"
+
+msgid "Heading 2"
+msgstr "Zaglavlje 2"
+
+msgid "Heading 3"
+msgstr "Zaglavlje 3"
+
+msgid "Heading 4"
+msgstr "Heading 4"
+
+msgid "Headphones"
+msgstr "Slušalice"
+
+msgid "Headset"
+msgstr "Slušalice sa mikrofonom"
+
+msgid "Health"
+msgstr "Zdravlje"
+
+msgid "Hebrew"
+msgstr "Hebrejski"
+
+msgid "Height"
+msgstr "Visina"
+
+msgid "&Height"
+msgstr "&Visina"
+
+msgid "Help"
+msgstr "Pomoć"
+
+msgid "&Help"
+msgstr "&Pomoć"
+
+msgid "_Help"
+msgstr "_Pomoć"
+
+msgid "Helsinki"
+msgstr "Helsinki"
+
+msgid "Hex"
+msgstr "Heks."
+
+msgid "Hexadecimal"
+msgstr "Heksadecimalno"
+
+msgid "Hexagon"
+msgstr "Šestougao"
+
+msgid "Hibernate"
+msgstr "Hibernacija"
+
+msgid "Hidden"
+msgstr "Sakriveno"
+
+msgid "hidden"
+msgstr "skriveno"
+
+msgid "Hide"
+msgstr "Sakrij"
+
+msgid "&Hide"
+msgstr "&Sakrij"
+
+msgid "Hide menu bar"
+msgstr "Sakrij meni"
+
+msgid "High"
+msgstr "Visoko"
+
+msgid "Highlight"
+msgstr "Istaknuto"
+
+msgid "Highlighter"
+msgstr "Istaknuto"
+
+msgid "Highlights"
+msgstr "Isticanja"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hint"
+msgstr "Savjet"
+
+msgid "Histogram"
+msgstr "Histogram"
+
+msgid "History"
+msgstr "Historija"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "Zadržati"
+
+msgid "Holidays"
+msgstr "Praznici"
+
+msgid "Home"
+msgstr "Početak"
+
+msgid "&Home"
+msgstr "&Početna"
+
+msgid "Home Folder"
+msgstr "Početni direktorij"
+
+msgid "Home Page"
+msgstr "Domaća stranica"
+
+msgid "Homepage"
+msgstr "Početna stranica"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Horizontal"
+msgstr "Horizontalno"
+
+msgid "Host"
+msgstr "Domaćin"
+
+msgid "Hostname"
+msgstr "Ime domaćina"
+
+msgid "Hotspot"
+msgstr ""
+
+msgid "Hour"
+msgstr "Sat"
+
+msgid "Hours"
+msgstr "Sati"
+
+msgid "hours"
+msgstr "sati"
+
+msgid "House"
+msgstr "Kuća"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "Nijansa"
+
+msgid "Huge"
+msgstr "Ogromna"
+
+msgid "Hungarian"
+msgstr "mađarski"
+
+msgid "Hungary"
+msgstr "Mađarska"
+
+msgid "Hz"
+msgstr "Hz"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+msgid "Iceland"
+msgstr "Island"
+
+msgid "Icelandic"
+msgstr "Islandski"
+
+msgid "Icon"
+msgstr "Ikona"
+
+msgid "Icon Size"
+msgstr "Veličina ikone"
+
+msgid "Icon size"
+msgstr "Veličina ikone"
+
+msgid "Icon View"
+msgstr "Prikaz ikona"
+
+msgid "Icons"
+msgstr "Ikone"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "id"
+msgstr "id"
+
+msgid "Identifier"
+msgstr "Identifikator"
+
+msgid "Identity"
+msgstr "Identitet"
+
+msgid "Idle"
+msgstr "Neaktivan"
+
+msgid "Ignore"
+msgstr "Ignoriši"
+
+msgid "_Ignore"
+msgstr "_Ignoriši"
+
+msgid "Ignore Case"
+msgstr "Ignoriši veličinu slova"
+
+msgid "Ignored"
+msgstr "Ignorisano"
+
+msgid "Image"
+msgstr "Slika"
+
+msgid "image"
+msgstr "slika"
+
+msgid "&Image"
+msgstr "&Slika"
+
+msgid "_Image"
+msgstr "_Slika"
+
+msgid "Image Editor"
+msgstr "Obrada slika"
+
+msgid "Image Files"
+msgstr "Datoteke slika"
+
+msgid "Image files"
+msgstr "Datoteka odraza"
+
+msgid "Image Gallery"
+msgstr "Galerija slika"
+
+msgid "Image Properties"
+msgstr "Osobine slike"
+
+msgid "Image Settings"
+msgstr "Postavke slike"
+
+msgid "Image Size"
+msgstr "Veličina slike"
+
+msgid "Image Viewer"
+msgstr "Preglednik slika"
+
+msgid "Images"
+msgstr "Slike"
+
+msgid "Images (%1)"
+msgstr ""
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "Uvezi"
+
+msgid "&Import"
+msgstr "&Uvezi"
+
+msgid "_Import"
+msgstr "_Uvezi"
+
+msgid "Import..."
+msgstr "Uvezi..."
+
+msgid "&Import..."
+msgstr "&Uvezi..."
+
+msgid "Import failed"
+msgstr "Neuspješan uvoz"
+
+msgid "Important"
+msgstr "Važno"
+
+msgid "In"
+msgstr "Ulaz"
+
+msgid "in"
+msgstr "in"
+
+msgid "Inactive"
+msgstr "Neaktivan"
+
+msgid "Inbox"
+msgstr "Dolazna pošta"
+
+msgid "inch"
+msgstr "inč"
+
+msgid "Inches"
+msgstr "Inči"
+
+msgid "inches"
+msgstr "inča"
+
+msgid "Inches (in)"
+msgstr "Inča (in)"
+
+msgid "Include"
+msgstr "Uključi"
+
+msgid "Includes"
+msgstr "Uključuje"
+
+msgid "Incoming"
+msgstr "Dolazeći"
+
+msgid "Increase Font Size"
+msgstr "Povećaj slova"
+
+msgid "Increase Indent"
+msgstr "Povećaj uvlačenje"
+
+msgid "Increase Volume"
+msgstr "Povećaj jačinu zvuka"
+
+msgid "Incremental"
+msgstr "Rastuće"
+
+msgid "Indentation"
+msgstr "Uvlačenje"
+
+msgid "Index"
+msgstr "Indeks"
+
+msgid "Indexed"
+msgstr "Indeksirano"
+
+msgid "India"
+msgstr "Indija"
+
+msgid "Indonesia"
+msgstr "Indonezija"
+
+msgid "Indonesian"
+msgstr "indonežanski"
+
+msgid "Industrial"
+msgstr "Industrijska"
+
+msgid "Info"
+msgstr "Informacije"
+
+msgid "Information"
+msgstr "Informacija"
+
+msgid "Initials"
+msgstr "Inicijali"
+
+msgid "Input"
+msgstr "Ulaz"
+
+msgid "Input Devices"
+msgstr "Ulazni uređaji"
+
+msgid "Insert"
+msgstr "Ubaci"
+
+msgid "&Insert"
+msgstr "&Ubaci"
+
+msgid "Insert Image"
+msgstr "Dodaj Sliku"
+
+msgid "Insert Link"
+msgstr "Ubaci link"
+
+msgid "Insert Table"
+msgstr "Umetni tabelu"
+
+msgid "Insert Text"
+msgstr "Ubaci tekst..."
+
+msgid "Install"
+msgstr "Instaliraj"
+
+msgid "Install..."
+msgstr "Instaliraj..."
+
+msgid "Install from File..."
+msgstr ""
+
+msgid "Installed"
+msgstr "Instalirano"
+
+msgid "Installing"
+msgstr "Instaliram"
+
+msgid "Instant"
+msgstr ""
+
+msgid "Integer"
+msgstr "Cijeli broj"
+
+msgid "Integrate"
+msgstr "Integriši"
+
+msgid "Intensity"
+msgstr "Intenzitet"
+
+msgid "Interface"
+msgstr "Interfejs"
+
+msgid "Internal"
+msgstr "Unutrašnji"
+
+msgid "Internal Error"
+msgstr "Interna greška"
+
+msgid "Internal error"
+msgstr "Interna greška"
+
+msgid "International"
+msgstr "Međunarodno"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Interpolation"
+msgstr "Interpolacija"
+
+msgid "Interrupt"
+msgstr "Ometanje"
+
+msgid "Interval"
+msgstr "Interval"
+
+msgid "Introduction"
+msgstr "Uvod"
+
+msgid "Invalid"
+msgstr "Neispravan"
+
+msgid "invalid"
+msgstr "neispravno"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr ""
+
+msgid "Invalid date"
+msgstr "Neispravan datum"
+
+msgid "Invalid password"
+msgstr "Neispravna šifra"
+
+msgid "Invalid URL"
+msgstr "Pogrešan URL"
+
+msgid "Invert"
+msgstr "Invertuj"
+
+msgid "Invert Selection"
+msgstr "Obrni izbor"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP Adresa"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "Iran"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Irska"
+
+msgid "Irish"
+msgstr "irski"
+
+msgid "is"
+msgstr "je"
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Issued By"
+msgstr "Izdato od"
+
+msgid "Issuer"
+msgstr "IzdavaÄ"
+
+msgid "Italian"
+msgstr "Italijanski"
+
+msgid "Italic"
+msgstr "Kurzivno"
+
+msgid "&Italic"
+msgstr "&Kurziv"
+
+msgid "_Italic"
+msgstr "_Kurziv"
+
+msgid "Italy"
+msgstr "Italija"
+
+msgid "Item"
+msgstr "Stavka"
+
+msgid "Items"
+msgstr "Predmeti"
+
+msgid "Iterations"
+msgstr "Iteracije"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "Jamajka"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Japanese"
+msgstr "Japanski"
+
+msgid "Javanese"
+msgstr "Javanski"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "Džez"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr "Pridruži se"
+
+msgid "Jonah Brüchert"
+msgstr ""
+
+msgid "Jordan"
+msgstr "Jordan"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr ""
+
+msgid "Journal"
+msgstr "Dnevnik"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "Jump to next match"
+msgstr "Skoči na sljedeće poklapanje"
+
+msgid "Jump to previous match"
+msgstr "Skoči na prethodno poklapanje"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "Justify"
+msgstr "Poravnaj obostrano"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "Kanadaski"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "kazaški"
+
+msgid "Kazakhstan"
+msgstr "Kazahstan"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr ""
+
+msgid "KDE Connect"
+msgstr "Konekcija KDE"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "Sačuvaj"
+
+msgid "_Keep"
+msgstr "_Zadrži"
+
+msgid "Keep aspect ratio"
+msgstr "Zadrži odnos širine i visine"
+
+msgid "Keep Open"
+msgstr ""
+
+msgid "Kenya"
+msgstr "Kenija"
+
+msgid "Kernel"
+msgstr "Jezgro"
+
+msgid "Key"
+msgstr "Ključ"
+
+msgid "Key ID"
+msgstr "ID ključa"
+
+msgid "Keyboard"
+msgstr "Tastatura"
+
+msgid "Keyboard Layout"
+msgstr "Raspored tastature"
+
+msgid "Keyboard Shortcuts"
+msgstr "Prečice sa tastature"
+
+msgid "Keyboard shortcuts"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr "Prečice na _tastaturi"
+
+msgid "Keys"
+msgstr "Tasteri"
+
+msgid "Keyword"
+msgstr "Ključna riječ"
+
+msgid "Keywords"
+msgstr "Ključne riječi"
+
+msgid "Khmer"
+msgstr "Kmerski"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "Vrsta"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "km"
+msgstr "km"
+
+msgid "KMail"
+msgstr "KMail"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konzola"
+
+msgid "Korean"
+msgstr "Korejski"
+
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+msgid "Kuwait"
+msgstr "Kuvajt"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "Oznaka"
+
+msgid "label"
+msgstr "oznaka"
+
+msgid "Labels"
+msgstr "Labele"
+
+msgid "Landscape"
+msgstr "Položeno"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "_Language"
+msgstr "_Jezik"
+
+msgid "Languages"
+msgstr "Jezici"
+
+msgid "Lao"
+msgstr "Lao"
+
+msgid "Laos"
+msgstr "Laos"
+
+msgid "Large"
+msgstr "Velika"
+
+msgid "Last"
+msgstr "Posljednji"
+
+msgid "Last Modified"
+msgstr "Posljednji put mijenjan"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "Latinica"
+
+msgid "Latitude"
+msgstr "Geografska širina"
+
+msgid "Latvia"
+msgstr "Latvija"
+
+msgid "Latvian"
+msgstr "letonski"
+
+msgid "Launch %1"
+msgstr ""
+
+msgid "Layer"
+msgstr "Sloj"
+
+msgid "Layers"
+msgstr "Slojevi"
+
+msgid "Layout"
+msgstr "Raspored"
+
+msgid "Leave Fullscreen"
+msgstr ""
+
+msgid "Lebanon"
+msgstr "Liban"
+
+msgid "Left"
+msgstr "Lijevo"
+
+msgid "left"
+msgstr "lijevo"
+
+msgid "&Left"
+msgstr "&Lijevo"
+
+msgid "_Left"
+msgstr "_Lijevo"
+
+msgid "Left to Right"
+msgstr "Sa lijeva na desno"
+
+msgid "Legacy"
+msgstr "Naslijeđe"
+
+msgid "Legend"
+msgstr "Legenda"
+
+msgid "Length"
+msgstr "Dužina"
+
+msgid "Lesotho"
+msgstr "Lesoto"
+
+msgid "Letter"
+msgstr "Pismo"
+
+msgid "Level"
+msgstr "Nivo"
+
+msgid "Level %1"
+msgstr "Nivo %1"
+
+msgid "Levels"
+msgstr "Nivoi"
+
+msgid "Liberia"
+msgstr "Liberija"
+
+msgid "Library"
+msgstr "Biblioteka"
+
+msgid "License"
+msgstr "Licenca"
+
+msgid "Liechtenstein"
+msgstr "Lihtenštajn"
+
+msgid "Light"
+msgstr "Lagano"
+
+msgid "Lighten"
+msgstr "Posvijetli"
+
+msgid "Lightness"
+msgstr "Osvijetljenost"
+
+msgid "Limit"
+msgstr "Ograničenje"
+
+msgid "Limits"
+msgstr "Ograničenja"
+
+msgid "Line"
+msgstr "Linija"
+
+msgid "line"
+msgstr "linija"
+
+msgid "Line Break"
+msgstr "Prelom linije"
+
+msgid "Line Color"
+msgstr "Boja linije"
+
+msgid "Line Numbers"
+msgstr "Brojevi linija:"
+
+msgid "Line Width"
+msgstr "Širina linije"
+
+msgid "Line width"
+msgstr "Širina linije"
+
+msgid "Linear"
+msgstr "Linearno"
+
+msgid "Lines"
+msgstr "Linije"
+
+msgid "Link"
+msgstr "Veza"
+
+msgid "link"
+msgstr "veza"
+
+msgid "Link URL"
+msgstr "URL veze"
+
+msgid "Links"
+msgstr "Linkovi"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "List View"
+msgstr "Prikaz liste"
+
+msgid "Lists"
+msgstr "Liste"
+
+msgid "Lists the available options for user feedback"
+msgstr ""
+
+msgid "Lithuania"
+msgstr "Litva"
+
+msgid "Lithuanian"
+msgstr "litvanski"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "Opterećenje"
+
+msgid "Load..."
+msgstr "Učitaj..."
+
+msgid "Load Game"
+msgstr "Učitaj igru"
+
+msgid "Loading"
+msgstr "Učitavam"
+
+msgid "Loading..."
+msgstr "Učitavanje..."
+
+msgid "Loading %1..."
+msgstr "Učitavanja %1..."
+
+msgid "Local"
+msgstr "Lokalno"
+
+msgid "Locale"
+msgstr "Lokalne postavke"
+
+msgid "Locality"
+msgstr "Lokalitet"
+
+msgid "Location"
+msgstr "Lokacija"
+
+msgid "Locations"
+msgstr "Lokacije"
+
+msgid "Lock"
+msgstr "Zaključaj"
+
+msgid "Lock Screen"
+msgstr "Zaključaj ekran"
+
+msgid "Locked"
+msgstr "Zaključan"
+
+msgid "Log"
+msgstr "Dnevnik"
+
+msgid "Log in"
+msgstr "Prijava"
+
+msgid "Log Out"
+msgstr "Odjava"
+
+msgid "Logarithmic"
+msgstr "Logaritamski"
+
+msgid "Logging"
+msgstr "Beleženje"
+
+msgid "Logging in..."
+msgstr "Prijavljujem se..."
+
+msgid "Logic"
+msgstr "Logika"
+
+msgid "Login"
+msgstr "Prijava"
+
+msgid "_Login"
+msgstr "_Login"
+
+msgid "Logout"
+msgstr "Odjava"
+
+msgid "Logs"
+msgstr "Dnevnik"
+
+msgid "Longitude"
+msgstr "Geografska dužina"
+
+msgid "Loop"
+msgstr "Petlja"
+
+msgid "Low"
+msgstr "Nisko"
+
+msgid "Lower"
+msgstr "Niži"
+
+msgid "Lowercase"
+msgstr "Mala slova"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "Osvjetljenje"
+
+msgid "Luxembourg"
+msgstr "Luksemburg"
+
+msgid "Lyricist"
+msgstr "Tekstopisac"
+
+msgid "Lyrics"
+msgstr "Tekst"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr "m"
+
+msgid "Macedonian"
+msgstr "makedonski"
+
+msgid "Macro"
+msgstr "Makro"
+
+msgid "Macros"
+msgstr "Macros"
+
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Mail"
+msgstr "Elektronska pošta"
+
+msgid "Main"
+msgstr "Glavni"
+
+msgid "Main Menu"
+msgstr "Glavni meni"
+
+msgid "Main Toolbar"
+msgstr "Glavna alatna traka"
+
+msgid "Main Window"
+msgstr "Glavni prozor"
+
+msgid "Main window"
+msgstr ""
+
+msgid "Maintainer"
+msgstr "Održava"
+
+msgid "Malawi"
+msgstr "Malavi"
+
+msgid "Malay"
+msgstr "malajski"
+
+msgid "Malayalam"
+msgstr "Malajalamski"
+
+msgid "Malaysia"
+msgstr "Malezija"
+
+msgid "Maldives"
+msgstr "Maldivi"
+
+msgid "Male"
+msgstr "Muško"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Maltese"
+msgstr ""
+
+msgid "Manager"
+msgstr "Menadžer"
+
+msgid "Manual"
+msgstr "Ručno"
+
+msgid "Manufacturer"
+msgstr "Proizvođač"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Maps"
+msgstr "Mape"
+
+msgid "Marathi"
+msgstr "Marati"
+
+msgid "Marble"
+msgstr "Marble"
+
+msgid "March"
+msgstr "Mart"
+
+msgid "Margins"
+msgstr "Margine"
+
+msgid "Mark"
+msgstr "Označi"
+
+msgid "Mark as Read"
+msgstr "Označi pročitanim"
+
+msgid "Markdown"
+msgstr "Markiranje"
+
+msgid "Marker"
+msgstr "Marker"
+
+msgid "Markers"
+msgstr "Markeri"
+
+msgid "Marshall Islands"
+msgstr "Maršalovi Otoci"
+
+msgid "Mask"
+msgstr "Maska"
+
+msgid "Mass"
+msgstr "Masa"
+
+msgid "Match"
+msgstr "Poklopi"
+
+msgid "Match case"
+msgstr "Da se podudaraju velika i mala slova"
+
+msgid "_Match case"
+msgstr "_Razlikuj mala i velika slova"
+
+msgid "Math"
+msgstr "Matematika"
+
+msgid "Matrix"
+msgstr "Matrica"
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "Mauritanija"
+
+msgid "Mauritius"
+msgstr "Mauricijus"
+
+msgid "Max"
+msgstr "Maksimum"
+
+msgid "max"
+msgstr "maks"
+
+msgid "Maximize"
+msgstr "Maksimizacija"
+
+msgid "Maximum"
+msgstr "Maksimum"
+
+msgid "May"
+msgstr "Maj"
+
+msgid "Maze"
+msgstr "Lavirint"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "Srednje"
+
+msgid "Measure"
+msgstr "Mjerenje"
+
+msgid "Media"
+msgstr "Mediji"
+
+msgid "Media Player"
+msgstr "Izvođač medija"
+
+msgid "Median"
+msgstr "Medijan"
+
+msgid "Medium"
+msgstr "Srednje"
+
+msgid "medium"
+msgstr "srednje"
+
+msgid "Member"
+msgstr "Član"
+
+msgid "Memory"
+msgstr "Memorija"
+
+msgid "Menu"
+msgstr "Meni"
+
+msgid "Mercury"
+msgstr "Merkuri"
+
+msgid "Merge"
+msgstr "Spoji"
+
+msgid "Message"
+msgstr "Poruka"
+
+msgid "message"
+msgstr "poruka"
+
+msgid "Messages"
+msgstr "Poruke"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "Meta podaci"
+
+msgid "Metal"
+msgstr "Metal"
+
+msgid "meters"
+msgstr "metar"
+
+msgid "Method"
+msgstr "Metod"
+
+msgid "Metric"
+msgstr "Metrika"
+
+msgid "Mexico"
+msgstr "Meksiko"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "Mikrofon"
+
+msgid "Middle"
+msgstr "Sredina"
+
+msgid "Miha Čančula"
+msgstr "Miha Čančula"
+
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+msgid "Millimeters"
+msgstr "Milimetri"
+
+msgid "Millimeters (mm)"
+msgstr "Milimetara (mm)"
+
+msgid "Milliseconds"
+msgstr "Milisekunde"
+
+msgid "milliseconds"
+msgstr "milisekundi"
+
+msgid "Min"
+msgstr "Minimum"
+
+msgid "min"
+msgstr "min"
+
+msgid "Minimize"
+msgstr "Minimizacija"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Minute"
+msgstr "Minuta"
+
+msgid "Minutes"
+msgstr "Minuta"
+
+msgid "minutes"
+msgstr "minute"
+
+msgid "Mirror"
+msgstr "Ogledalo"
+
+msgid "Misc"
+msgstr "Razno"
+
+msgid "Miscellaneous"
+msgstr "Razno"
+
+msgid "missing plugin file \"%s\""
+msgstr ""
+
+msgid "Miter limit"
+msgstr "Pravougli limit"
+
+msgid "Mix"
+msgstr "Mješavina"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Mobile"
+msgstr "Mobajl"
+
+msgid "Mode"
+msgstr "Režim"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Modem"
+msgstr "Modem"
+
+msgid "Modified"
+msgstr "Izmijenjen"
+
+msgid "modified"
+msgstr "izmijenjen"
+
+msgid "Modifiers"
+msgstr "Modifikatori"
+
+msgid "Modify"
+msgstr "Izmijeni"
+
+msgid "Modify..."
+msgstr "Mijenjaj..."
+
+msgid "&Modify..."
+msgstr "&Izmijeni..."
+
+msgid "Modify search behavior"
+msgstr "Podesi ponašanje pretrage"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Modules"
+msgstr "Moduli"
+
+msgid "Moldova"
+msgstr "Moldavija"
+
+msgid "Monaco"
+msgstr "Monako"
+
+msgid "Monday"
+msgstr "Ponedjeljak"
+
+msgid "Mongolia"
+msgstr "Mongolija"
+
+msgid "Mongolian"
+msgstr "Mongolski"
+
+msgid "Monitor"
+msgstr "Monitor"
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Monochrome"
+msgstr "Monohromatski"
+
+msgid "Monospace"
+msgstr "Fiksna širina"
+
+msgid "Montenegro"
+msgstr "Crna Gora"
+
+msgid "Month"
+msgstr "Mjesec"
+
+msgid "Month View"
+msgstr "Prikaz mjeseca"
+
+msgid "Monthly"
+msgstr "Mjesečno"
+
+msgid "Months"
+msgstr "Mjeseci"
+
+msgid "More"
+msgstr "Više"
+
+msgid "More..."
+msgstr "Još..."
+
+msgid "More actions"
+msgstr ""
+
+msgid "More Information"
+msgstr "Više informacija"
+
+msgid "More options"
+msgstr "Više opcija"
+
+msgid "Morocco"
+msgstr "Maroko"
+
+msgid "Mount"
+msgstr "Montiraj"
+
+msgid "Mount point"
+msgstr "Tačka montiranja"
+
+msgid "Mouse"
+msgstr "Miš"
+
+msgid "Mouse Wheel"
+msgstr "Točkić miša"
+
+msgid "Move"
+msgstr "Premjesti"
+
+msgid "&Move"
+msgstr "&Pomjeri"
+
+msgid "_Move"
+msgstr "_Premjesti"
+
+msgid "Move %1"
+msgstr "Premjesti %1"
+
+msgid "Move Down"
+msgstr "Pomjeri nadolje"
+
+msgid "Move down"
+msgstr "Pomjeri dolje"
+
+msgid "Move &Down"
+msgstr "Pomjeri &dolje"
+
+msgid "&Move Here"
+msgstr "&Premjesti ovdje"
+
+msgid "Move Left"
+msgstr "Pomjeri ulijevo"
+
+msgid "_Move on Toolbar"
+msgstr "_Pomjeri na Alatnoj Traci"
+
+msgid "Move Right"
+msgstr "Pomjeri udesno"
+
+msgid "Move Tab Left"
+msgstr "Pomjeri karticu lijevo"
+
+msgid "Move Tab Right"
+msgstr "Pomjeri karticu desno"
+
+msgid "Move the selected item on the toolbar"
+msgstr "Postavi označenu stavku na liniju sa alatkama"
+
+msgid "Move To"
+msgstr "Premjesti u"
+
+msgid "Move to Bottom"
+msgstr "Pomjeri na dno"
+
+msgid "Move to Top"
+msgstr "Pomjeri na vrh"
+
+msgid "Move to Trash"
+msgstr "Premjesti u smeće"
+
+msgid "&Move to Trash"
+msgstr "&Premjesti u Smeće"
+
+msgid "Move Up"
+msgstr "Pomjeri nagore"
+
+msgid "Move up"
+msgstr "Pomjeri gore"
+
+msgid "Move &Up"
+msgstr "Pomjeri &gore"
+
+msgid "Mozambique"
+msgstr "Mozambik"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "Multimedija"
+
+msgid "Multiply"
+msgstr "Pomnoži"
+
+msgid "Music"
+msgstr "Muzika"
+
+msgid "Music Player"
+msgstr "Muzički plejer"
+
+msgid "Mute"
+msgstr "Ugašen zvuk"
+
+msgid "Myanmar"
+msgstr "Mijanmar"
+
+msgid "N"
+msgstr "N"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "N/D"
+
+msgid "n/a"
+msgstr "n/d"
+
+msgid "NAME"
+msgstr "IME"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "name"
+msgstr "ime"
+
+msgid "&Name"
+msgstr "&Ime"
+
+msgid "_Name"
+msgstr "_Ime"
+
+msgid "Name: %1"
+msgstr "Ime: %1"
+
+msgid "Namespace"
+msgstr "Imenski prostor"
+
+msgid "Namibia"
+msgstr "Namibija"
+
+msgid "Nature"
+msgstr ""
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Navigation"
+msgstr "Navigacija"
+
+msgid "Negative"
+msgstr "Negativno"
+
+msgid "Neon"
+msgstr "Neon"
+
+msgid "Nepal"
+msgstr "Nepal"
+
+msgid "Nepali"
+msgstr "nepalski"
+
+msgid "Netherlands"
+msgstr "Nizozemska"
+
+msgid "Network"
+msgstr "Mreža"
+
+msgid "Networks"
+msgstr "Mreže"
+
+msgid "Never"
+msgstr "Nikad"
+
+msgid "never"
+msgstr "nikad"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "&New"
+msgstr "&Nova"
+
+msgid "_New"
+msgstr "_Novi"
+
+msgid "New..."
+msgstr "Novo..."
+
+msgid "&New..."
+msgstr "&Novi..."
+
+msgid "_New..."
+msgstr "_Nova..."
+
+msgid "New Bookmark"
+msgstr "Nova zabilješka"
+
+msgid "New Connection"
+msgstr "Nova veza"
+
+msgid "New File"
+msgstr "Nova datoteka"
+
+msgid "New Folder"
+msgstr "Novi direktorij"
+
+msgid "New folder"
+msgstr "Nova fascikla"
+
+msgid "New Folder..."
+msgstr "Novi direktorij..."
+
+msgid "New Game"
+msgstr "Nova igra"
+
+msgid "New Group"
+msgstr "Nova grupa"
+
+msgid "New Item"
+msgstr "Nova stavka"
+
+msgid "New Layer"
+msgstr "Novi sloj"
+
+msgid "New Message"
+msgstr "Nova poruka"
+
+msgid "New Name"
+msgstr "Novi naziv"
+
+msgid "New name"
+msgstr "Novo ime"
+
+msgid "New Profile"
+msgstr "Novi profil"
+
+msgid "New Project"
+msgstr "Novi projekat"
+
+msgid "New Session"
+msgstr "Nova sesija"
+
+msgid "New South Wales"
+msgstr "Novi Južni Vels"
+
+msgid "New Tab"
+msgstr "Nova kartica"
+
+msgid "New tag"
+msgstr "Nova oznaka"
+
+msgid "New Window"
+msgstr "Novi prozor"
+
+msgid "_New Window"
+msgstr "_Novi prozor"
+
+msgid "New &Window"
+msgstr "&Novi prozor"
+
+msgid "New _Window"
+msgstr "Novi _prozor"
+
+msgid "New Zealand"
+msgstr "Novi Zeland"
+
+msgid "News"
+msgstr "Novosti"
+
+msgid "Newton"
+msgstr "Newton"
+
+msgid "Next"
+msgstr "Sljedeći"
+
+msgid "&Next"
+msgstr "&Sljedeći"
+
+msgid "_Next"
+msgstr "_Sljedeće"
+
+msgid "Next Image"
+msgstr "Sljedeća slika"
+
+msgid "Next month"
+msgstr "Sljedeći mjesec"
+
+msgid "Next Page"
+msgstr "Sljedeća stranica"
+
+msgid "Next Tab"
+msgstr "Sljedeća kartica"
+
+msgid "Next Track"
+msgstr "Sljedeća numera"
+
+msgid "Nicaragua"
+msgstr "Nikaragva"
+
+msgid "Nickname"
+msgstr "Nadimak"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nigeria"
+msgstr "Nigerija"
+
+msgid "Night"
+msgstr "Noć"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "no"
+msgstr "ne"
+
+msgid "_No"
+msgstr "_Ne"
+
+msgid "No."
+msgstr "Br."
+
+msgid "No description available"
+msgstr "Opis nije dostupan"
+
+msgid "No devices found"
+msgstr ""
+
+msgid "No error"
+msgstr "Nema greške"
+
+msgid "No file selected"
+msgstr "Datoteke nisu označene"
+
+msgid "No filter"
+msgstr "Bez filtera"
+
+msgid "No Limit"
+msgstr "Bez ograničenja"
+
+msgid "No matches"
+msgstr ""
+
+msgid "No Name"
+msgstr "Bez imena"
+
+msgid "No name"
+msgstr "Bez Imena"
+
+msgid "No network connection"
+msgstr "Nema mrežnih veza"
+
+msgid "No results"
+msgstr "Nema rezultata"
+
+msgid "No Results Found"
+msgstr "Nema rezultata"
+
+msgid "No results found"
+msgstr "Bez rezultata"
+
+msgid "No search results"
+msgstr ""
+
+msgid "No selection"
+msgstr "Nema izbora"
+
+msgid "No Subject"
+msgstr "Nema teme"
+
+msgid "No VPN configuration options."
+msgstr "Nema VPN konfiguracijskih opcija."
+
+msgid "Noise"
+msgstr "Šum"
+
+msgid "None"
+msgstr "Ništa"
+
+msgid "none"
+msgstr "ništa"
+
+msgid "&None"
+msgstr "&Nijedan"
+
+msgid "_None"
+msgstr "_Ništa"
+
+msgid "(None)"
+msgstr "(Nijedan)"
+
+msgid "(none)"
+msgstr "(ništa)"
+
+msgid "Nordic"
+msgstr "Nordijski"
+
+msgid "Normal"
+msgstr "Normalno"
+
+msgid "_Normal Size"
+msgstr "_Normalna veličina"
+
+msgid "Normalize"
+msgstr "Normalizuj"
+
+msgid "North"
+msgstr "Sjever"
+
+msgid "North America"
+msgstr "Sjeverna Amerika"
+
+msgid "Norway"
+msgstr "Norveška"
+
+msgid "Norwegian"
+msgstr ""
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "Nije moguće zapisati '%1'. Particija puna?"
+
+msgid "Not Available"
+msgstr "Nije dostupno"
+
+msgid "Not available"
+msgstr "Nije dostupno"
+
+msgid "not available"
+msgstr "nije dostupno"
+
+msgid "Not Connected"
+msgstr ""
+
+msgid "Not connected"
+msgstr "Nepovezan"
+
+msgid "Not defined"
+msgstr "Nije definisano"
+
+msgid "Not found"
+msgstr "Nije nađeno"
+
+msgid "Not implemented"
+msgstr "Nije implementirano"
+
+msgid "Not running"
+msgstr ""
+
+msgid "Not supported"
+msgstr "Nije podržano"
+
+msgid "Note"
+msgstr "Bilješka"
+
+msgid "Notes"
+msgstr "Bilješke"
+
+msgid "Nothing"
+msgstr "Ništa"
+
+msgid "Notice"
+msgstr "Napomena"
+
+msgid "Notification"
+msgstr "Obavještenje"
+
+msgid "Notifications"
+msgstr "Obavještenja"
+
+msgid "Noun"
+msgstr "Imenica"
+
+msgid "November"
+msgstr "Novembar"
+
+msgid "Now"
+msgstr "Sada"
+
+msgid "now"
+msgstr "sad"
+
+msgid "NT Domain"
+msgstr "NT Domena"
+
+msgid "NUMBER"
+msgstr "BROJ"
+
+msgid "Number"
+msgstr "Broj"
+
+msgid "number"
+msgstr "broj"
+
+msgid "Number of columns"
+msgstr "Broj kolona"
+
+msgid "Numbers"
+msgstr "Brojevi"
+
+msgid "Numeric"
+msgstr "Numerično"
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "Objekat"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr ""
+
+msgid "Objects"
+msgstr "Objekti"
+
+msgid "Oblique"
+msgstr "Iskošeni"
+
+msgid "Octal"
+msgstr "Oktalno"
+
+msgid "October"
+msgstr "Oktobar"
+
+msgid "Off"
+msgstr "Isključena"
+
+msgid "off"
+msgstr "isključeno"
+
+msgid "Office"
+msgstr "Kancelarija"
+
+msgid "Offline"
+msgstr "Van mreže"
+
+msgid "Offset"
+msgstr "Ofset"
+
+msgid "Ogg Vorbis"
+msgstr "OGG Vorbis"
+
+msgid "OK"
+msgstr "U redu"
+
+msgid "Ok"
+msgstr "Uredu"
+
+msgid "&OK"
+msgstr "&U redu"
+
+msgid "_OK"
+msgstr "_U redu"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Oman"
+msgstr "Oman"
+
+msgid "On"
+msgstr "Od"
+
+msgid "on"
+msgstr "na"
+
+msgid "One"
+msgstr "Jedan"
+
+msgid "Online"
+msgstr "Povezan"
+
+msgid "Online Accounts"
+msgstr "Nalozi na mreži"
+
+msgid "Opacity"
+msgstr "Neprozirnost"
+
+msgid "Opaque"
+msgstr "Neprozirno"
+
+msgid "Open"
+msgstr "Otvori"
+
+msgid "&Open"
+msgstr "&Otvori"
+
+msgid "_Open"
+msgstr "_Otvori"
+
+msgid "Open..."
+msgstr "Otvori..."
+
+msgid "&Open..."
+msgstr "&Otvori..."
+
+msgid "_Open..."
+msgstr "_Otvori..."
+
+msgid "Open %1"
+msgstr "Otvori „%1“"
+
+msgid "Open a file"
+msgstr "Otvori datoteku"
+
+msgid "Open a new tab"
+msgstr "Otvori novu karticu"
+
+msgid "Open a new window"
+msgstr "Otvaranje novog prozora"
+
+msgid "Open an existing document"
+msgstr "Otvori postojeći dokument"
+
+msgid "Open Audio"
+msgstr ""
+
+msgid "Open Containing Folder"
+msgstr "Otvorite fasciklu koja sadrži"
+
+msgid "&Open Containing Folder"
+msgstr ""
+
+msgid "Open Document"
+msgstr "Otvori dokument"
+
+msgid "Open File"
+msgstr "Otvori datoteku"
+
+msgid "Open file"
+msgstr "Otvori datoteku"
+
+msgid "Open Folder"
+msgstr "Otvori direktorij"
+
+msgid "Open folder"
+msgstr "Otvori direktorij"
+
+msgid "Open Image"
+msgstr "Otvori sliku"
+
+msgid "Open in Browser"
+msgstr ""
+
+msgid "Open in File Manager"
+msgstr "Otvori u menadžeru datoteka"
+
+msgid "Open in New Tab"
+msgstr "Otvori u novoj kartici"
+
+msgid "Open in New Window"
+msgstr "Otvori u novom prozoru"
+
+msgid "Open Link"
+msgstr "Otvori vezu"
+
+msgid "_Open Link"
+msgstr "Otvo_ri vezu"
+
+msgid "Open Location"
+msgstr "Otvori lokaciju"
+
+msgid "Open Menu"
+msgstr "Otvoreni izbornik"
+
+msgid "Open Project"
+msgstr "Otvori projekat"
+
+msgid "Open &Recent"
+msgstr "Otvori &skorašnje"
+
+msgid "Open Terminal Here"
+msgstr ""
+
+msgid "Open URL"
+msgstr "Otvori URL"
+
+msgid "Open Video"
+msgstr "Otvori video"
+
+msgid "Open With"
+msgstr "Otvori pomoću"
+
+msgid "Open with"
+msgstr ""
+
+msgid "&Open With"
+msgstr "&Otvori pomoću"
+
+msgid "Open With..."
+msgstr "Otvori sa..."
+
+msgid "Open &with %1"
+msgstr "Otvori &pomoÄ‡u %1"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "Otvaram datoteku..."
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr "Opera"
+
+msgid "Operation"
+msgstr "Operacija"
+
+msgid "Operation was cancelled"
+msgstr "Operacija je prekinuta"
+
+msgid "Operations"
+msgstr "Operacije"
+
+msgid "Operator"
+msgstr "Operater"
+
+msgid "Optical Character Recognition"
+msgstr "Optičko prepoznavanje znakova"
+
+msgid "Optimize"
+msgstr "Optimiziraj"
+
+msgid "Option"
+msgstr "Opcija"
+
+msgid "Optional"
+msgstr "Opciono"
+
+msgid "Options"
+msgstr "Opcije"
+
+msgid "&Options"
+msgstr "&Opcije"
+
+msgid "OR"
+msgstr "ILI"
+
+msgid "Or"
+msgstr "Ili"
+
+msgid "or"
+msgstr "ili"
+
+msgid "Orange"
+msgstr "Oranž"
+
+msgid "Order"
+msgstr "Redoslijed"
+
+msgid "Organization"
+msgstr "Organizacija"
+
+msgid "Orientation"
+msgstr "Orijentacija"
+
+msgid "Origin"
+msgstr "Originalno"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Original Author"
+msgstr "Prvobitni autor"
+
+msgid "Original author"
+msgstr "Prvobitni autor"
+
+msgid "Original Size"
+msgstr "Originalna veličina"
+
+msgid "Oriya"
+msgstr "orija"
+
+msgid "Other"
+msgstr "Ostalo"
+
+msgid "other"
+msgstr ""
+
+msgid "Other..."
+msgstr "Ostalo..."
+
+msgid "Other Application..."
+msgstr "Drugi program..."
+
+msgid "Other Options"
+msgstr "Ostale opcije"
+
+msgid "Others"
+msgstr "Ostali"
+
+msgid "Out"
+msgstr "Izlaz"
+
+msgid "Out of memory"
+msgstr "Nema više memorije"
+
+msgid "Outgoing"
+msgstr "Odlazeći"
+
+msgid "Outline"
+msgstr "Kontura"
+
+msgid "Output"
+msgstr "Izlaz"
+
+msgid "Overlay"
+msgstr "Preklapanje"
+
+msgid "Overview"
+msgstr "Pregled"
+
+msgid "Overwrite"
+msgstr "Prebriši"
+
+msgid "Overwrite File?"
+msgstr "Da pišem preko postojeće datoteke?"
+
+msgid "Owner"
+msgstr "Vlasnik"
+
+msgid "Ownership"
+msgstr "Vlasništvo"
+
+msgid "Oxygen"
+msgstr "Kiseonik"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr ""
+
+msgid "Package"
+msgstr "Paket"
+
+msgid "Padding"
+msgstr "Popunjavanje"
+
+msgid "Page"
+msgstr "Stranica"
+
+msgid "page"
+msgstr "strana"
+
+msgid "Page %1"
+msgstr "Stranica %1"
+
+msgid "Page %1 of %2"
+msgstr "Strana %1 od %2"
+
+msgid "Page Break"
+msgstr "Prelom stranice"
+
+msgid "Page Count"
+msgstr "Ukupno strana"
+
+msgid "Page Number"
+msgstr "Broj stranice"
+
+msgid "Page Setup"
+msgstr "Podešavanje strane"
+
+msgid "Pager"
+msgstr "Pejdžer"
+
+msgid "Pages"
+msgstr "Stranice"
+
+msgid "Paint"
+msgstr "Boja"
+
+msgid "Pair"
+msgstr ""
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Palette"
+msgstr "Paleta"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Panel"
+msgstr "Panel"
+
+msgid "Panels"
+msgstr "Paneli"
+
+msgid "&Panels"
+msgstr "&Paneli"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "Papir"
+
+msgid "Paper Size"
+msgstr "Veličina papira"
+
+msgid "Papua New Guinea"
+msgstr "Papua Nova Gvineja"
+
+msgid "Paragraph"
+msgstr "Paragraf"
+
+msgid "Paraguay"
+msgstr "Paragvaj"
+
+msgid "Parallel"
+msgstr "Paralelno"
+
+msgid "Parameter"
+msgstr "Parametar"
+
+msgid "Parameters"
+msgstr "Parametri"
+
+msgid "Parent"
+msgstr "Roditelj"
+
+msgid "Partition"
+msgstr "Particija"
+
+msgid "Password"
+msgstr "Lozinka"
+
+msgid "password"
+msgstr "lozinka"
+
+msgid "&Password"
+msgstr "&Lozinka"
+
+msgid "_Password"
+msgstr "_Lozinka"
+
+msgid "Password..."
+msgstr ""
+
+msgid "Passwords"
+msgstr "Lozinke"
+
+msgid "Paste"
+msgstr "Umetni"
+
+msgid "&Paste"
+msgstr "&Umetni"
+
+msgid "_Paste"
+msgstr "_Umetni"
+
+msgid "Path"
+msgstr "Putanja"
+
+msgid "path"
+msgstr "putanja"
+
+msgid "Paths"
+msgstr "Putanje"
+
+msgid "Pattern"
+msgstr "Uzorak"
+
+msgid "Patterns"
+msgstr "Mustre"
+
+msgid "Pause"
+msgstr "Pauza"
+
+msgid "&Pause"
+msgstr "&Pauza"
+
+msgid "Pause playback"
+msgstr "Pauziraj izvođenje"
+
+msgid "PAUSED"
+msgstr "ZAUSTAVLJENO"
+
+msgid "Paused"
+msgstr "Pauzirano"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr "Vrh"
+
+msgid "Peek at Desktop"
+msgstr ""
+
+msgid "Pencil"
+msgstr "Olovka"
+
+msgid "Pending"
+msgstr "Nastupa"
+
+msgid "Pentagon"
+msgstr "Petougao"
+
+msgid "People"
+msgstr "Ljudi"
+
+msgid "Percent"
+msgstr "Procenat"
+
+msgid "Percentage"
+msgstr "Procenat"
+
+msgid "Perceptual"
+msgstr "Opažanjem"
+
+msgid "Performance"
+msgstr "Performanse"
+
+msgid "Period"
+msgstr "Period"
+
+msgid "Permission denied"
+msgstr "Dozvola odbijena"
+
+msgid "Permissions"
+msgstr "Dozvole"
+
+msgid "Persian"
+msgstr "Perzijski"
+
+msgid "Person"
+msgstr "Osoba"
+
+msgid "Personal"
+msgstr "Lično"
+
+msgid "Personal Information"
+msgstr ""
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Phase"
+msgstr "Faza"
+
+msgid "Philippines"
+msgstr "Filipini"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Photo"
+msgstr "Fotografija"
+
+msgid "PHP Documentation"
+msgstr ""
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "Izaberite boju"
+
+msgid "Picture"
+msgstr "Slika"
+
+msgid "Pictures"
+msgstr "Slike"
+
+msgid "PID"
+msgstr ""
+
+msgid "Pie"
+msgstr "Pita"
+
+msgid "Pin"
+msgstr "Pin"
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "Tačaka"
+
+msgid "pixels"
+msgstr "pikseli"
+
+msgid "Placement"
+msgstr "Raspoređivanje"
+
+msgid "Places"
+msgstr "Mjesta"
+
+msgid "Plain"
+msgstr "Jasan"
+
+msgid "Plain Text"
+msgstr "Običan tekst"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Plasma"
+msgstr "Plazma"
+
+msgid "Platform"
+msgstr "Platforma"
+
+msgid "Play"
+msgstr "Pusti"
+
+msgid "Play Next"
+msgstr ""
+
+msgid "Play Sounds"
+msgstr ""
+
+msgid "Playback"
+msgstr "Reprodukcija"
+
+msgid "Player"
+msgstr "Igrač"
+
+msgid "Player %1"
+msgstr "Igrač %1"
+
+msgid "Players"
+msgstr "Igrači"
+
+msgid "Playground"
+msgstr "Igralište"
+
+msgid "Playing"
+msgstr "Puštam"
+
+msgid "Playlist"
+msgstr "Lista pjesama"
+
+msgid "Playlists"
+msgstr "Lista numera"
+
+msgid "Play/Pause"
+msgstr "Pokreni/pauza"
+
+msgid "Please choose a file"
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Please wait..."
+msgstr "Molim sačekajte…"
+
+msgid "Plot"
+msgstr "Crtaj"
+
+msgid "Plots"
+msgstr "Nacrti"
+
+msgid "Plugin"
+msgstr "Dodatak"
+
+msgid "Plugins"
+msgstr "Dodaci"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "Tačka"
+
+msgid "Pointers"
+msgstr ""
+
+msgid "Points"
+msgstr "Tačke"
+
+msgid "points"
+msgstr "tačaka"
+
+msgid "Poland"
+msgstr "Poljska"
+
+msgid "Policy"
+msgstr "Pravila"
+
+msgid "Polish"
+msgstr "Polirano"
+
+msgid "Polygon"
+msgstr "Poligon"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "&Port"
+msgstr "&Port"
+
+msgid "Portrait"
+msgstr "Uspravno"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Portuguese"
+msgstr "Portugalski"
+
+msgid "Position"
+msgstr "Položaj"
+
+msgid "Posterize"
+msgstr "Smanji broj boja"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "Snaga"
+
+msgid "Power Management"
+msgstr "Upravljanje napajanjem"
+
+msgid "Precision"
+msgstr "Preciznost"
+
+msgid "Preferences"
+msgstr "Postavke"
+
+msgid "_Preferences"
+msgstr "_Postavke"
+
+msgid "Prefix"
+msgstr "Prefiks"
+
+msgid "Presentation"
+msgstr "Prezentacija"
+
+msgid "Preset"
+msgstr "Pre-podešeno"
+
+msgid "Presets"
+msgstr "Prepodešavanja"
+
+msgid "Pressure"
+msgstr "Pritisak"
+
+msgid "Preview"
+msgstr "Pregled"
+
+msgid "&Preview"
+msgstr "&Pregled"
+
+msgid "Previews"
+msgstr "Pregledi"
+
+msgid "Previous"
+msgstr "Prethodni"
+
+msgid "&Previous"
+msgstr "&Prethodni"
+
+msgid "_Previous"
+msgstr "_Prethodno"
+
+msgid "Previous Image"
+msgstr "Prethodna slika"
+
+msgid "Previous month"
+msgstr "Prethodni mjesec"
+
+msgid "Previous Page"
+msgstr "Prethodna stranica"
+
+msgid "Previous Tab"
+msgstr "Prethodna kartica"
+
+msgid "Previous Track"
+msgstr "Prethodna numera"
+
+msgid "Price"
+msgstr "Cijena"
+
+msgid "Primary"
+msgstr "Glavni"
+
+msgid "Print"
+msgstr "Štampaj"
+
+msgid "_Print"
+msgstr "_Štampaj"
+
+msgid "Print..."
+msgstr "Štampaj…"
+
+msgid "&Print..."
+msgstr "&Štampaj..."
+
+msgid "_Print..."
+msgstr "_Ispis..."
+
+msgid "Print Image"
+msgstr "Štampaj sliku"
+
+msgid "Print Preview"
+msgstr "Pregled pred štampanje"
+
+msgid "Print version"
+msgstr "Ispiši verziju"
+
+msgid "Print version information and exit"
+msgstr "Ispiši podatke o izdanju i izađi"
+
+msgid "Printer"
+msgstr "Štampač"
+
+msgid "Printers"
+msgstr "Štampači"
+
+msgid "Printing"
+msgstr "Štampanje"
+
+msgid "Printing..."
+msgstr "Štampam..."
+
+msgid "Priority"
+msgstr "Prioritet"
+
+msgid "Privacy"
+msgstr "Privatnost"
+
+msgid "Private"
+msgstr "Privatni"
+
+msgid "Process"
+msgstr "Proces"
+
+msgid "Processor"
+msgstr "Procesor"
+
+msgid "Producer"
+msgstr "Proizvođač"
+
+msgid "Product"
+msgstr "Proizvod"
+
+msgid "Profession"
+msgstr "Zanimanje"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile name"
+msgstr "Ime profila"
+
+msgid "Profiles"
+msgstr "Profili"
+
+msgid "Program"
+msgstr "Program"
+
+msgid "Progress"
+msgstr "Napredak"
+
+msgid "Project"
+msgstr "Projekat"
+
+msgid "&Project"
+msgstr "&Projekat"
+
+msgid "Projects"
+msgstr "Projekti"
+
+msgid "Properties"
+msgstr "Svojstva"
+
+msgid "&Properties"
+msgstr "&Svojstva"
+
+msgid "_Properties"
+msgstr "_Osobine"
+
+msgid "Properties..."
+msgstr "Osobine..."
+
+msgid "&Properties..."
+msgstr "&Svojstva..."
+
+msgid "Property"
+msgstr "Svojstvo"
+
+msgid "property “%s” invalid or not supported"
+msgstr ""
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr ""
+
+msgid "Proportional"
+msgstr "Proporcionalni"
+
+msgid "Protected"
+msgstr "Zaštićeno"
+
+msgid "Protocol"
+msgstr "Protokol"
+
+msgid "Provider"
+msgstr "Provajder"
+
+msgid "Proxy"
+msgstr "Proksi"
+
+msgid "Proxy Settings"
+msgstr "Postavke mrežnog posrednika"
+
+msgid "Public"
+msgstr "Javni"
+
+msgid "Public Key"
+msgstr "Javni ključ"
+
+msgid "Publisher"
+msgstr "Izdavač"
+
+msgid "Publishing"
+msgstr "Objavljivanje"
+
+msgid "Puerto Rico"
+msgstr "Portoriko"
+
+msgid "Punjabi"
+msgstr "pandžabi"
+
+msgid "Push"
+msgstr "Gurni"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "Katar"
+
+msgid "QR Code"
+msgstr ""
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>Ovo će potpuno sakriti meni. Možete ga ponovo uključiti kucajuči "
+"%1.</qt>"
+
+msgid "Quality"
+msgstr "Kvalitet"
+
+msgid "Quebec"
+msgstr "Kvebek"
+
+msgid "Query"
+msgstr "Upit"
+
+msgid "Question"
+msgstr "Pitanje"
+
+msgid "Queue"
+msgstr "Red čekanja"
+
+msgid "Queued"
+msgstr "Na redu"
+
+msgid "Quit"
+msgstr "Izlaz"
+
+msgid "&Quit"
+msgstr "&Izlaz"
+
+msgid "_Quit"
+msgstr "_Izlaz"
+
+msgid "Quit application"
+msgstr "Napusti program"
+
+msgid "Quit the application"
+msgstr "Izađi iz programa"
+
+msgid "Quits the application"
+msgstr "Izlazi se iz programa"
+
+msgid "Quote"
+msgstr "Citat"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "Radijalan"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Radius"
+msgstr "Poluprečnik"
+
+msgid "Raise"
+msgstr "Podigni"
+
+msgid "Random"
+msgstr "Nasumično"
+
+msgid "Range"
+msgstr "Opseg"
+
+msgid "Rank"
+msgstr "Pozicija"
+
+msgid "Rate"
+msgstr "Ocijeni"
+
+msgid "Rating"
+msgstr "Ocjena"
+
+msgid "Raw"
+msgstr "Sirovi"
+
+msgid "Read"
+msgstr "Pročitana"
+
+msgid "Read error"
+msgstr "Greška u čitanju"
+
+msgid "Read Only"
+msgstr "Samo za čitanje"
+
+msgid "Read only"
+msgstr "Samo za čitanje"
+
+msgid "Reading"
+msgstr "Reading"
+
+msgid "read-only"
+msgstr "samo-čitanje"
+
+msgid "Ready"
+msgstr "Spreman"
+
+msgid "Ready."
+msgstr "Spreman."
+
+msgid "Reason"
+msgstr "Razlog"
+
+msgid "Reassign"
+msgstr "Ponovo dodijeli"
+
+msgid "Recent"
+msgstr "Skorašnji"
+
+msgid "Recent Documents"
+msgstr "Skorašnji dokumenti"
+
+msgid "Recent Files"
+msgstr "Nedavne datoteke"
+
+msgid "Recent files"
+msgstr "Nedavne datoteke"
+
+msgid "Record"
+msgstr "Zapis"
+
+msgid "Recording"
+msgstr "Snimanje"
+
+msgid "Rectangle"
+msgstr "Pravougaonik"
+
+msgid "Recursive"
+msgstr "Rekurzivno"
+
+msgid "Red"
+msgstr "Crvena"
+
+msgid "red"
+msgstr "crvena"
+
+msgid "Redo"
+msgstr "Ponovi"
+
+msgid "&Redo"
+msgstr "&Vrati"
+
+msgid "_Redo"
+msgstr "_Ponovi"
+
+msgid "Re&do"
+msgstr "&Ponovi"
+
+msgid "Redo %1"
+msgstr "Ponovi %1"
+
+msgid "Reference"
+msgstr "Referenca"
+
+msgid "References"
+msgstr "Reference"
+
+msgid "Refresh"
+msgstr "Osvježi"
+
+msgid "_Refresh"
+msgstr "_Osvježi"
+
+msgid "Reggae"
+msgstr "Rege"
+
+msgid "Region"
+msgstr "Oblast"
+
+msgid "Register"
+msgstr ""
+
+msgid "Regular"
+msgstr "Običan"
+
+msgid "Regular Expression"
+msgstr "Regularni Izraz"
+
+msgid "Regular expression"
+msgstr "Regularni izraz"
+
+msgid "Reject"
+msgstr "Odbaci"
+
+msgid "Relative"
+msgstr "Relativno"
+
+msgid "Reload"
+msgstr "Ponovo učitaj"
+
+msgid "&Reload"
+msgstr "&Ponovo učitaj"
+
+msgid "_Reload"
+msgstr "_Ponovo učitaj"
+
+msgid "Reminders"
+msgstr "Podsjetnici"
+
+msgid "Remote"
+msgstr "Udaljen"
+
+msgid "Removable"
+msgstr "Uklonjiv"
+
+msgid "Remove"
+msgstr "Ukloni"
+
+msgid "&Remove"
+msgstr "&Ukloni"
+
+msgid "_Remove"
+msgstr "_Ukloni"
+
+msgid "R&emove"
+msgstr "U&kloni"
+
+msgid "Re&move"
+msgstr "&Izbriši"
+
+msgid "Remove..."
+msgstr ""
+
+msgid "Remove %1"
+msgstr ""
+
+msgid "Remove Account"
+msgstr ""
+
+msgid "Remove All"
+msgstr "Ukloni sve"
+
+msgid "Remove Bookmark"
+msgstr "Ukloni obilježivač"
+
+msgid "Remove Folder"
+msgstr "Ukloni direktorij"
+
+msgid "Remove from Favorites"
+msgstr "Ukloni iz omiljenih"
+
+msgid "_Remove from Toolbar"
+msgstr "_Skloni iz alatki"
+
+msgid "Remove Group"
+msgstr "Ukloni grupu"
+
+msgid "Remove Rule"
+msgstr ""
+
+msgid "Remove the selected item from the toolbar"
+msgstr "Skloni označenu stavku sa linije sa alatkama"
+
+msgid "Remove the selected toolbar"
+msgstr "Obriši odabranu alatnu traku"
+
+msgid "Rename"
+msgstr "Preimenuj"
+
+msgid "&Rename"
+msgstr "&Preimenuj"
+
+msgid "_Rename"
+msgstr "_Preimenuj"
+
+msgid "Rename..."
+msgstr "Preimenuj..."
+
+msgid "&Rename..."
+msgstr "&Preimenuj..."
+
+msgid "Rename Bookmark"
+msgstr "Promijeni ime zabilješke"
+
+msgid "Rename File"
+msgstr "Preimenuj datoteku"
+
+msgid "Repeat"
+msgstr "Ponovi"
+
+msgid "Replace"
+msgstr "Zamijeni"
+
+msgid "&Replace"
+msgstr "&Zamijeni"
+
+msgid "_Replace"
+msgstr "_Zamijeni"
+
+msgid "Replace All"
+msgstr "Zamijeni sve"
+
+msgid "Replace _All"
+msgstr "Zamijeni _sve"
+
+msgid "Replace an existing instance"
+msgstr ""
+
+msgid "Replacement"
+msgstr "Zamjena"
+
+msgid "Reply"
+msgstr "Odgovor"
+
+msgid "Report"
+msgstr "Izvještaj"
+
+msgid "Report a bug"
+msgstr ""
+
+msgid "Report Bug"
+msgstr "Prijavi grešku"
+
+msgid "Report Bug..."
+msgstr ""
+
+msgid "&Report Bug..."
+msgstr "P&rijavi grešku..."
+
+msgid "Reports"
+msgstr "Izvještaji"
+
+msgid "Required"
+msgstr "Potrebno"
+
+msgid "Rescan"
+msgstr "Ponovo skeniraj"
+
+msgid "Resend"
+msgstr "Ponovi slanje"
+
+msgid "Reset"
+msgstr "Resetuj"
+
+msgid "&Reset"
+msgstr "&Resetuj"
+
+msgid "_Reset"
+msgstr "_Resetuj"
+
+msgid "Reset to Default"
+msgstr "Resetuj na podrazumevano"
+
+msgid "Reset to default"
+msgstr ""
+
+msgid "Reset Zoom"
+msgstr ""
+
+msgid "Resize"
+msgstr "Promijeni veličinu"
+
+msgid "_Resize"
+msgstr "_Promijeni veličinu"
+
+msgid "Resize Image"
+msgstr "Promijeni veličinu slike"
+
+msgid "Resolution"
+msgstr "Rezolucija"
+
+msgid "Resource"
+msgstr "Resurs"
+
+msgid "Resources"
+msgstr "Resursi"
+
+msgid "Restart"
+msgstr "Ponovo pokreni"
+
+msgid "Restore"
+msgstr "Obnovi"
+
+msgid "Restore Session"
+msgstr "Obnovi sesiju"
+
+msgid "Result"
+msgstr "Rezultat"
+
+msgid "Results"
+msgstr "Rezultati"
+
+msgid "Resume"
+msgstr "Nastavi"
+
+msgid "&Resume"
+msgstr "&Nastavi"
+
+msgid "Retry"
+msgstr "Pokušaj ponovo"
+
+msgid "Return"
+msgstr "Enter"
+
+msgid "Reverse"
+msgstr "Obrni"
+
+msgid "Revert"
+msgstr "Vrati"
+
+msgid "_Revert"
+msgstr "_Vrati"
+
+msgid "Review"
+msgstr "Pregled"
+
+msgid "Revision"
+msgstr "Posljednja izmjena"
+
+msgid "Revoked"
+msgstr "Opozvan"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "Desno"
+
+msgid "right"
+msgstr "desno"
+
+msgid "&Right"
+msgstr "&Desno"
+
+msgid "_Right"
+msgstr "_Desno"
+
+msgid "Right to Left"
+msgstr "Sa desna na lijevo"
+
+msgid "Right-click"
+msgstr ""
+
+msgid "River"
+msgstr "Rijeka"
+
+msgid "RKWard Team"
+msgstr ""
+
+msgid "Rock"
+msgstr "Rok"
+
+msgid "Role"
+msgstr "Uloga"
+
+msgid "Roman"
+msgstr "Latinica"
+
+msgid "Romania"
+msgstr "Rumunija"
+
+msgid "Romanian"
+msgstr "Rumunski"
+
+msgid "Room"
+msgstr ""
+
+msgid "Root"
+msgstr "Korijen"
+
+msgid "Rotate"
+msgstr "Rotiraj"
+
+msgid "Rotate Left"
+msgstr "Rotiraj lijevo"
+
+msgid "Rotate Right"
+msgstr "Rotiraj desno"
+
+msgid "Rotation"
+msgstr "Rotacija"
+
+msgid "Round"
+msgstr "Oblo"
+
+msgid "Row"
+msgstr "Red"
+
+msgid "Rows"
+msgstr "Redovi"
+
+msgid "rows"
+msgstr "redovi"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "Pravila"
+
+msgid "Run"
+msgstr "Pokreni"
+
+msgid "&Run"
+msgstr "&Pokreni"
+
+msgid "Run in terminal"
+msgstr "Pokreni u terminalu"
+
+msgid "Running"
+msgstr "Pokrenuto"
+
+msgid "Russia"
+msgstr "Rusija"
+
+msgid "Russian"
+msgstr "ruski"
+
+msgid "Rwanda"
+msgstr "Ruanda"
+
+msgid "S"
+msgstr "S"
+
+msgid "s"
+msgstr "s"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "%s osobine"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "Sample"
+msgstr "Uzorak"
+
+msgid "Sample Rate"
+msgstr "Učestanost uzorkovanja"
+
+msgid "Sample rate"
+msgstr "Frekvencija uzorka"
+
+msgid "Samples"
+msgstr "Uzorci"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Satellite"
+msgstr "Satelit"
+
+msgid "Saturation"
+msgstr "Zasićenje"
+
+msgid "Saturday"
+msgstr "Subota"
+
+msgid "Saudi Arabia"
+msgstr "Saudijska Arabija"
+
+msgid "Save"
+msgstr "Snimi"
+
+msgid "&Save"
+msgstr "&Snimi"
+
+msgid "_Save"
+msgstr "_Snimi"
+
+msgid "Save..."
+msgstr "Snimi..."
+
+msgid "Save All"
+msgstr "Snimi sve"
+
+msgid "Save As"
+msgstr "Snimi kao"
+
+msgid "Save as"
+msgstr "Sačuvaj kao"
+
+msgid "Save _As"
+msgstr "Sačuvaj _kao"
+
+msgid "Save As..."
+msgstr "Sačuvaj kao..."
+
+msgid "Save as..."
+msgstr "Sačuvaj kao..."
+
+msgid "_Save As..."
+msgstr "Spremi kao"
+
+msgid "Save &As..."
+msgstr "Snimi k&ao..."
+
+msgid "Save _As..."
+msgstr "Snimi _kao..."
+
+msgid "Save Attachment"
+msgstr "Sačuvaj prilog"
+
+msgid "Save Changes"
+msgstr "Snimi izmjene"
+
+msgid "Save Changes?"
+msgstr ""
+
+msgid "Save File"
+msgstr "Snimi datoteku"
+
+msgid "Save file"
+msgstr "Spremi datoteku"
+
+msgid "Save Game"
+msgstr ""
+
+msgid "Save Image"
+msgstr "Sačuvaj sliku"
+
+msgid "_Save Image As..."
+msgstr "Sačuvaj sliku _kao…"
+
+msgid "Save Project"
+msgstr "Snimi projekat"
+
+msgid "Save Session"
+msgstr "Sačuvaj sesiju"
+
+msgid "Save Settings"
+msgstr "Sačuvaj postavke"
+
+msgid "Saved"
+msgstr "Snimljeno"
+
+msgid "Saving"
+msgstr "Snimanje"
+
+msgid "Saving..."
+msgstr "Snimam..."
+
+msgid "Saving file..."
+msgstr "Snimam datoteku..."
+
+msgid "Scale"
+msgstr "Skaliraj"
+
+msgid "_Scale"
+msgstr "_Veličina"
+
+msgid "Scaled"
+msgstr "Rašireno"
+
+msgid "Scaling"
+msgstr "Skaliranje"
+
+msgid "Scan"
+msgstr "Pronađi"
+
+msgid "Scanner"
+msgstr "Skener"
+
+msgid "Scanning..."
+msgstr ""
+
+msgid "Schedule"
+msgstr "Raspored"
+
+msgid "Scheduling"
+msgstr "Raspoređivanje"
+
+msgid "Scheme"
+msgstr "Shema"
+
+msgid "School"
+msgstr "Škola"
+
+msgid "Scientific"
+msgstr "Naučni"
+
+msgid "Scope"
+msgstr "Opseg"
+
+msgid "Score"
+msgstr "Rezultat"
+
+msgid "Score: %1"
+msgstr "Rezultat: %1"
+
+msgid "Screen"
+msgstr "Ekran"
+
+msgid "Screenshot"
+msgstr "Snimak ekrana"
+
+msgid "Screenshots"
+msgstr "Snimci ekrana"
+
+msgid "Script"
+msgstr "Skripta"
+
+msgid "Scripting"
+msgstr "Skriptovanje"
+
+msgid "Scripts"
+msgstr "Skripte"
+
+msgid "Scroll"
+msgstr "Klizanje"
+
+msgid "Scroll Down"
+msgstr "Klizaj naniže"
+
+msgid "Scroll Left"
+msgstr "Klizaj lijevo"
+
+msgid "Scroll Right"
+msgstr "Klizaj desno"
+
+msgid "Scroll Up"
+msgstr "Klizaj naviše"
+
+msgid "Scrolling"
+msgstr "Klizanje"
+
+msgid "Search"
+msgstr "Traži"
+
+msgid "&Search"
+msgstr "&Traži"
+
+msgid "_Search"
+msgstr "_Traži"
+
+msgid "S&earch"
+msgstr "&Traži"
+
+msgid "Search..."
+msgstr "Pretražite..."
+
+msgid "Search Bar"
+msgstr "Traka za Pretragu"
+
+msgid "_Search for"
+msgstr "_Traži"
+
+msgid "Search for '%1' with"
+msgstr "Traži „%1“ pomoću"
+
+msgid "Search Options"
+msgstr "Opcije pretrage"
+
+msgid "Search Results"
+msgstr "Rezultati pretrage"
+
+msgid "Search results"
+msgstr "Rezultati pretrage"
+
+msgid "Searching..."
+msgstr "Tražim..."
+
+msgid "Sebastian Kügler"
+msgstr ""
+
+msgid "Second"
+msgstr "Drugo"
+
+msgid "Seconds"
+msgstr "Sekundi"
+
+msgid "seconds"
+msgstr "sekunde"
+
+msgid "Section"
+msgstr "Dio"
+
+msgid "Security"
+msgstr "Sigurnost"
+
+msgid "Seek"
+msgstr "Skoči"
+
+msgid "Select"
+msgstr "Izaberi"
+
+msgid "_Select"
+msgstr "_Izaberi"
+
+msgid "Select..."
+msgstr "Izaberite..."
+
+msgid "Select All"
+msgstr "Izaberi sve"
+
+msgid "Select all"
+msgstr "Označi sve"
+
+msgid "&Select All"
+msgstr "&Izaberi sve"
+
+msgid "_Select All"
+msgstr "_Izaberi sve"
+
+msgid "Select &All"
+msgstr "Izaberi &sve"
+
+msgid "Select _All"
+msgstr "Izaberi _sve"
+
+msgid "Select an authentication mode."
+msgstr "Odaberi način autentifikacije."
+
+msgid "Select an image"
+msgstr "Izaberite sliku"
+
+msgid "Select Color"
+msgstr "Izaberi boju"
+
+msgid "Select Directory"
+msgstr "Izaberite direktorijum"
+
+msgid "Select File"
+msgstr "Izaberite datoteku"
+
+msgid "Select file"
+msgstr ""
+
+msgid "Select Folder"
+msgstr "Izaberi direktorij"
+
+msgid "Select folder"
+msgstr ""
+
+msgid "Select Font"
+msgstr "Izbor fonta"
+
+msgid "Select None"
+msgstr "Bez izbora"
+
+msgid "Select Source"
+msgstr "Izaberi izvor"
+
+msgid "Selected"
+msgstr "Odabrano"
+
+msgid "Selection"
+msgstr "Izbor"
+
+msgid "Selections"
+msgstr "Selekcije"
+
+msgid "Semicolon"
+msgstr "Tačka-zarez"
+
+msgid "Send"
+msgstr "Pošalji"
+
+msgid "Send an email to %1"
+msgstr ""
+
+msgid "Send File"
+msgstr "Pošalji datoteku"
+
+msgid "Send to %1"
+msgstr "Pošalji igraču %1"
+
+msgid "Sender"
+msgstr "Pošiljalac"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Sensitivity"
+msgstr "Osjetljivost"
+
+msgid "Sent"
+msgstr "Poslana"
+
+msgid "Separator"
+msgstr "Separator"
+
+msgid "September"
+msgstr "Septembar"
+
+msgid "Serbia"
+msgstr "Srbija"
+
+msgid "Serbian"
+msgstr "srpski"
+
+msgid "Serial Number"
+msgstr "Serijski broj"
+
+msgid "Serial number"
+msgstr "Serijski broj"
+
+msgid "Series"
+msgstr "Redovi"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Server URL"
+msgstr "URL servera"
+
+msgid "Service"
+msgstr "Usluga"
+
+msgid "Services"
+msgstr "Servisi"
+
+msgid "Session"
+msgstr "Sesija"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "Sesije"
+
+msgid "Set"
+msgstr "Podesi"
+
+msgid "Set as Default"
+msgstr "Postavi kao podrazumijevano"
+
+msgid "Set as default"
+msgstr "Postavi kao zadani"
+
+msgid "Settings"
+msgstr "Postavke"
+
+msgid "&Settings"
+msgstr "&Postavke"
+
+msgid "_Settings"
+msgstr "_Podešavanja"
+
+msgid "Settings..."
+msgstr "Postavke..."
+
+msgid "Severity"
+msgstr "Ozbiljnost"
+
+msgid "Seychelles"
+msgstr "Sejšeli"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "Sjenčenje"
+
+msgid "Shadow"
+msgstr "Sjenka"
+
+msgid "Shadows"
+msgstr "Sjene"
+
+msgid "Shape"
+msgstr "Oblik"
+
+msgid "Share"
+msgstr "Dijeli"
+
+msgid "Share..."
+msgstr ""
+
+msgid "Shared"
+msgstr "Dijeljen"
+
+msgid "Sharing"
+msgstr "Dijeljenje"
+
+msgid "Sharing failed"
+msgstr ""
+
+msgid "Sharpen"
+msgstr "Izoštri"
+
+msgid "Sharpness"
+msgstr "Oštrina"
+
+msgid "Shear"
+msgstr "Ostriži"
+
+msgid "Shell"
+msgstr "Okvir"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "Kratko"
+
+msgid "Shortcut"
+msgstr "Prečica"
+
+msgid "Shortcuts"
+msgstr "Prečice"
+
+msgid "Show"
+msgstr "Prikaži"
+
+msgid "Show All"
+msgstr ""
+
+msgid "Show Details"
+msgstr "Prikaži detalje"
+
+msgid "Show details"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "Prikaži mrežu"
+
+msgid "Show grid"
+msgstr "Prikaži mrežu"
+
+msgid "Show Help"
+msgstr ""
+
+msgid "Show help"
+msgstr "Prikaži pomoć"
+
+msgid "Show Hidden Files"
+msgstr "Prikaži skrivene datoteke"
+
+msgid "Show in folder"
+msgstr "Prikaži u direktoriju"
+
+msgid "Show legend"
+msgstr "Pokazivanje legende"
+
+msgid "Show Password"
+msgstr "Prikaži lozinku"
+
+msgid "Show Preview"
+msgstr "Pregled"
+
+msgid "Show “_%s”"
+msgstr "Prikaži „_%s“"
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr ""
+
+msgid "Show Status Bar"
+msgstr "Prikaži statusnu traku"
+
+msgid "Show St&atusbar"
+msgstr "Prikaži traku &stanja"
+
+msgid "Show the application's version"
+msgstr "Prikaži verziju programa"
+
+msgid "Show Toolbar"
+msgstr "Prikaži alatnu traku"
+
+msgid "Show toolbar"
+msgstr "Prikazuj traku sa alatima"
+
+msgid "Show &Toolbar"
+msgstr "Prikaži &Alatnu traku"
+
+msgid "Shuffle"
+msgstr "Izmiješaj"
+
+msgid "Shut Down"
+msgstr ""
+
+msgid "Shutdown"
+msgstr "Gašenje"
+
+msgid "Side _Pane"
+msgstr "Bočna _površ"
+
+msgid "Sidebar"
+msgstr "Bočna traka"
+
+msgid "Sierra Leone"
+msgstr "Sijera Leone"
+
+msgid "Sign"
+msgstr "Potpis"
+
+msgid "Signal"
+msgstr "Signal"
+
+msgid "Signature"
+msgstr "Potpis"
+
+msgid "Simple"
+msgstr "Jednostavno"
+
+msgid "Singapore"
+msgstr "Singapur"
+
+msgid "Single"
+msgstr "Jednostruko"
+
+msgid "Sinhala"
+msgstr "Singalijski"
+
+msgid "Size"
+msgstr "Veličina"
+
+msgid "size"
+msgstr "veličina"
+
+msgid "&Size"
+msgstr "&Veličina"
+
+msgid "Size: %1"
+msgstr "Veličina: %1"
+
+msgid "Skip"
+msgstr "Preskoči"
+
+msgid "&Skip"
+msgstr "&Preskoči"
+
+msgid "_Skip"
+msgstr "_Preskoči"
+
+msgid "Skip forward"
+msgstr ""
+
+msgid "Sleep"
+msgstr ""
+
+msgid "Slide"
+msgstr "Slajd"
+
+msgid "Slider"
+msgstr "Klizač"
+
+msgid "Slideshow"
+msgstr "Slajd-šou"
+
+msgid "Slovak"
+msgstr "slovački"
+
+msgid "Slovenia"
+msgstr "Slovenija"
+
+msgid "Slovenian"
+msgstr "slovenački"
+
+msgid "Slow"
+msgstr "Sporo"
+
+msgid "Slower"
+msgstr "Sporije"
+
+msgid "Small"
+msgstr "Mala"
+
+msgid "Smooth"
+msgstr "Glatko"
+
+msgid "Smoothing"
+msgstr "Uglađivanje"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Prijanjanje"
+
+msgid "Snap to Grid"
+msgstr "Poravnaj s mrežom"
+
+msgid "Snow"
+msgstr "Snijeg"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr ""
+
+msgid "Software"
+msgstr "Softver"
+
+msgid "Solid"
+msgstr "Čvrsto"
+
+msgid "Solid color"
+msgstr "Jednobojno"
+
+msgid "Solomon Islands"
+msgstr "Salomonski Otoci"
+
+msgid "Somalia"
+msgstr "Somalija"
+
+msgid "Sort"
+msgstr "Sortiraj"
+
+msgid "Sort By"
+msgstr "Sortiraj po"
+
+msgid "Sort by"
+msgstr "Sortiraj po"
+
+msgid "Sorting"
+msgstr "Sortiranje"
+
+msgid "Sound"
+msgstr "Zvuk"
+
+msgid "Soundtrack"
+msgstr "Filmska"
+
+msgid "Source"
+msgstr "Izvor"
+
+msgid "Sources"
+msgstr "Izvori"
+
+msgid "South"
+msgstr "Jug"
+
+msgid "South Africa"
+msgstr "Južna Afrika"
+
+msgid "South European"
+msgstr "Južnoevropski"
+
+msgid "Space"
+msgstr "Razmak"
+
+msgid "Spacing"
+msgstr "Razmak"
+
+msgid "Spain"
+msgstr "Španija"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Spanish"
+msgstr "Španski"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "Govor"
+
+msgid "Speak Text"
+msgstr "Izgovori tekst"
+
+msgid "Speaker"
+msgstr "Zvučnik"
+
+msgid "Special"
+msgstr "Posebno"
+
+msgid "Special Characters"
+msgstr "Posebni znakovi"
+
+msgid "Specials"
+msgstr "Posebni"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr "Navedi ID upravitelja sesije"
+
+msgid "Speed"
+msgstr "Brzina"
+
+msgid "Spell Check"
+msgstr "Provjera pravopisa"
+
+msgid "Spell Checking"
+msgstr "Provjera pravopisa"
+
+msgid "Spelling"
+msgstr "Pravopis"
+
+msgid "Spiral"
+msgstr "Spirala"
+
+msgid "Split"
+msgstr "Razdvoji"
+
+msgid "Split View"
+msgstr "Razdvojeni prikaz"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Spreadsheet"
+msgstr "Tablica"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "Kvadrat"
+
+msgid "Sri Lanka"
+msgstr "Šri Lanka"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr ""
+
+msgid "Stacked"
+msgstr "Nagomilano"
+
+msgid "Standard"
+msgstr "Standardno"
+
+msgid "Standard deviation"
+msgstr "Standardna devijacija"
+
+msgid "Star"
+msgstr "Zvijezda"
+
+msgid "Start"
+msgstr "Početak"
+
+msgid "&Start"
+msgstr "&Počni"
+
+msgid "Start a new game"
+msgstr "Započni novu igru"
+
+msgid "Start Date"
+msgstr "Početni datum"
+
+msgid "Start date"
+msgstr "Početni datum"
+
+msgid "Start Presentation"
+msgstr "Počni prezentaciju"
+
+msgid "Start Time"
+msgstr "Vrijeme početka"
+
+msgid "Started"
+msgstr "Započet"
+
+msgid "Starting"
+msgstr "Pokrećem"
+
+msgid "Starting..."
+msgstr "Započinje…"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "počinje sa"
+
+msgid "Startup"
+msgstr "Pokretanje"
+
+msgid "Stash"
+msgstr ""
+
+msgid "State"
+msgstr "Stanje"
+
+msgid "States"
+msgstr "Savezne države"
+
+msgid "Statistics"
+msgstr "Statistika"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Status: %1"
+msgstr "Status: %1"
+
+msgid "Statusbar"
+msgstr "Statusna traka"
+
+msgid "_Statusbar"
+msgstr "_Statusna linija"
+
+msgid "Step"
+msgstr "Korak"
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr "Koraci"
+
+msgid "Stereo"
+msgstr "Stereo"
+
+msgid "Stop"
+msgstr "Zaustavi"
+
+msgid "&Stop"
+msgstr "&Zaustavi"
+
+msgid "_Stop"
+msgstr "_Zaustavi"
+
+msgid "S&top"
+msgstr "&Zaustavi"
+
+msgid "Stop Recording"
+msgstr "Zaustavi snimanje"
+
+msgid "Stopped"
+msgstr "Zaustavljen"
+
+msgid "Storage"
+msgstr "Skladište"
+
+msgid "Store"
+msgstr "Pohrani"
+
+msgid "Stream"
+msgstr "Tok"
+
+msgid "Street"
+msgstr "Ulica"
+
+msgid "Strength"
+msgstr "Jačina"
+
+msgid "Stretch"
+msgstr "Razvuci"
+
+msgid "Strike Out"
+msgstr "Precrtano"
+
+msgid "Strikethrough"
+msgstr "Precrtano"
+
+msgid "String"
+msgstr "Niz znakova"
+
+msgid "string"
+msgstr "niz znakova"
+
+msgid "Strings"
+msgstr "Stringovi"
+
+msgid "Stroke"
+msgstr "Potez"
+
+msgid "Strong"
+msgstr "Jak"
+
+msgid "Structure"
+msgstr "Struktura"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Subject"
+msgstr "Tema"
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subscribe"
+msgstr "Pretplati se"
+
+msgid "Subscript"
+msgstr "Indeks"
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "Podnaslov"
+
+msgid "Subtitles"
+msgstr "Prijevodi"
+
+msgid "Subtract"
+msgstr "Oduzmi"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "Uspjeh"
+
+msgid "Sudan"
+msgstr "Sudan"
+
+msgid "Suffix"
+msgstr "Sufiks"
+
+msgid "Sum"
+msgstr "Suma"
+
+msgid "Summary"
+msgstr "Rezime"
+
+msgid "Sun"
+msgstr "Ned"
+
+msgid "Sundanese"
+msgstr "Sudanski"
+
+msgid "Sunday"
+msgstr "Nedjelja"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "Eksponent"
+
+msgid "Support"
+msgstr "Podrška"
+
+msgid "Suriname"
+msgstr "Surinam"
+
+msgid "Surname"
+msgstr "Prezime"
+
+msgid "Suspend"
+msgstr "Obustavi"
+
+msgid "Suspended"
+msgstr "Suspendovan"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "Razmjena"
+
+msgid "Sweden"
+msgstr "Švedska"
+
+msgid "Swedish"
+msgstr "švedski"
+
+msgid "Switch"
+msgstr "Prebaci"
+
+msgid "Switches"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Švicarska"
+
+msgid "Symbol"
+msgstr "Simbol"
+
+msgid "Symbols"
+msgstr "Simboli"
+
+msgid "Sync"
+msgstr "Sinhronizacija"
+
+msgid "Synchronization"
+msgstr "Usklađivanje"
+
+msgid "Synchronize"
+msgstr "Uskladi"
+
+msgid "Syriac"
+msgstr "Sirijski"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "System Default"
+msgstr "Uobičajni sistem"
+
+msgid "System Settings"
+msgstr "Sistemske postavke"
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "Tabulator"
+
+msgid "Table"
+msgstr "Tabela"
+
+msgid "Table of Contents"
+msgstr "Sadržaj"
+
+msgid "Tablet"
+msgstr "Tablet"
+
+msgid "Tabs"
+msgstr "Kartice"
+
+msgid "Tag"
+msgstr "Oznaka"
+
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Tagged"
+msgstr "Označeno"
+
+msgid "Tags"
+msgstr "Oznake"
+
+msgid "Taiwan"
+msgstr "Tajvan"
+
+msgid "Tajikistan"
+msgstr "Tadžikistan"
+
+msgid "Take Screenshot"
+msgstr "Snimi ekran"
+
+msgid "Tamil"
+msgstr "Tamilski"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "Tanzanija"
+
+msgid "Target"
+msgstr "Cilj"
+
+msgid "Task"
+msgstr "Zadatak"
+
+msgid "Tasks"
+msgstr "Zadaci"
+
+msgid "Tatar"
+msgstr "Tatarski"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr "Tim"
+
+msgid "Technology"
+msgstr "Tehnologija"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Temperature"
+msgstr "Temperatura"
+
+msgid "Template"
+msgstr "Šablon"
+
+msgid "Templates"
+msgstr "Šabloni"
+
+msgid "Tentative"
+msgstr "Privremen"
+
+msgid "Terminal"
+msgstr "Terminal"
+
+msgid "Terminal Emulator"
+msgstr "Oponašanje terminala"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Testing"
+msgstr "Testiranje"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "text"
+msgstr "tekst"
+
+msgid "_Text"
+msgstr "_Tekst"
+
+msgid "Text Color"
+msgstr "Boja teksta"
+
+msgid "Text color"
+msgstr "Boja teksta"
+
+msgid "Text Editor"
+msgstr "Uređivač teksta"
+
+msgid "Text File"
+msgstr "Tekstualna datoteka"
+
+msgid "Text Files"
+msgstr "Tekstualne datoteke"
+
+msgid "Text Only"
+msgstr "Samo tekst"
+
+msgid "Text only"
+msgstr ""
+
+msgid "Text to search for"
+msgstr "Tekst koji treba potražiti"
+
+msgid "Text Tool"
+msgstr "Alat za tekst"
+
+msgid "TextLabel"
+msgstr "TextLabel"
+
+msgid "Thai"
+msgstr "Tajlandski"
+
+msgid "Thailand"
+msgstr "Tajland"
+
+msgid "The file %1 does not exist."
+msgstr "Datoteka %1 ne postoji."
+
+msgid "The GNOME Project"
+msgstr ""
+
+msgid "The graphical theme to be used."
+msgstr "Grafička tema koju treba koristiti."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+msgid "The NetworkManager Developers"
+msgstr ""
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Themes"
+msgstr "Teme"
+
+msgid "There was a problem sharing the document: %1"
+msgstr ""
+
+msgid "Thin"
+msgstr "Tanka"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "Prag"
+
+msgid "Thumbnail"
+msgstr "Sličica"
+
+msgid "Thumbnails"
+msgstr "Sličice"
+
+msgid "Thursday"
+msgstr "Četvrtak"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "Tibetanski|/|$[svojstva pismo 'tibetansko']"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "Popločaj"
+
+msgid "Tiled"
+msgstr "Popločan"
+
+msgid "Tilt"
+msgstr "Nagib"
+
+msgid "Time"
+msgstr "Vrijeme"
+
+msgid "time"
+msgstr "vrijeme"
+
+msgid "Time: %1"
+msgstr "Vrijeme: %1"
+
+msgid "Time and Date"
+msgstr "Vrijeme i datum"
+
+msgid "Time Zone"
+msgstr "Vremenska zona"
+
+msgid "Timeline"
+msgstr "Vremenska linija"
+
+msgid "Timeout"
+msgstr "Vremenski rok"
+
+msgid "Timer"
+msgstr "Tajmer"
+
+msgid "Timestamp"
+msgstr "Vremenski pečat"
+
+msgid "Timezone"
+msgstr "Vremenska zona"
+
+msgid "Tiny"
+msgstr "Sićušan"
+
+msgid "Title"
+msgstr "Naslov"
+
+msgid "title"
+msgstr "naslov"
+
+msgid "&Title"
+msgstr "&Naslov"
+
+msgid "_Title"
+msgstr "_Naslov"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "Za"
+
+msgid "to"
+msgstr "do"
+
+msgid "Tobias Fella"
+msgstr ""
+
+msgid "Today"
+msgstr "Danas"
+
+msgid "today"
+msgstr "danas"
+
+msgid "TODO"
+msgstr "ZADACI"
+
+msgid "Todo"
+msgstr "Zadaci"
+
+msgid "Toggle Fullscreen"
+msgstr "Preklapanje cijelog ekrana"
+
+msgid "Toggle Sidebar"
+msgstr "Bočni prikaz"
+
+msgid "Toggle sidebar"
+msgstr ""
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Tolerance"
+msgstr "Tolerancija"
+
+msgid "Tomorrow"
+msgstr "Sutra"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Tool"
+msgstr "Alat"
+
+msgid "Tool Options"
+msgstr "Opcije Alata"
+
+msgid "_Toolbar"
+msgstr "Alatna _Traka"
+
+msgid "T_oolbar"
+msgstr ""
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "Alatnica"
+
+msgid "Tools"
+msgstr "Alati"
+
+msgid "&Tools"
+msgstr "&Alati"
+
+msgid "_Tools"
+msgstr "_Alati"
+
+msgid "Top"
+msgstr "Vrh"
+
+msgid "_Top"
+msgstr "_Vrh"
+
+msgid "Top Left"
+msgstr "Gore lijevo"
+
+msgid "Top left"
+msgstr "Gore lijevo"
+
+msgid "Top Right"
+msgstr "Gore desno"
+
+msgid "Top right"
+msgstr "Gore desno"
+
+msgid "Topic"
+msgstr "Tema"
+
+msgid "Top-left"
+msgstr "Gore - lijevo"
+
+msgid "Top-right"
+msgstr "Gore - desno"
+
+msgid "Total"
+msgstr "Ukupno"
+
+msgid "Track"
+msgstr "Numera"
+
+msgid "Track Number"
+msgstr "Broj pjesme"
+
+msgid "Tracker"
+msgstr "Tragač"
+
+msgid "Tracks"
+msgstr "Staze"
+
+msgid "Traditional"
+msgstr "Tradicionalna"
+
+msgid "Transfer"
+msgstr "Prijenos"
+
+msgid "Transform"
+msgstr "Trasformiši"
+
+msgid "Transformation"
+msgstr "Transformacija"
+
+msgid "Translate"
+msgstr "Izvrši translaciju"
+
+msgid "Translation"
+msgstr "Prijevod"
+
+msgid "Translator"
+msgstr "Prevodilac"
+
+msgid "translator-credits"
+msgstr ""
+"   Azra Jarebica https://launchpad.net/~ajarebica1\n"
+"  Samir Ribić https://launchpad.net/~megaribi"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "Prevodioci"
+
+msgid "Transparency"
+msgstr "Providnost"
+
+msgid "Transparent"
+msgstr "Providno"
+
+msgid "Transport"
+msgstr "Transportuj"
+
+msgid "Transpose"
+msgstr "Transpozicija"
+
+msgid "Trash"
+msgstr "Smeće"
+
+msgid "Travel"
+msgstr "Putovanja"
+
+msgid "Tree"
+msgstr "Stablo"
+
+msgid "Tree View"
+msgstr "Prikaz stabla"
+
+msgid "Triangle"
+msgstr "Trougao"
+
+msgid "True"
+msgstr "Tačno"
+
+msgid "true"
+msgstr "tačno"
+
+msgid "Trusted"
+msgstr "Povjerljiv"
+
+msgid "Try a different search"
+msgstr "Pokušaj s drugačijom pretragom"
+
+msgid "Try Again"
+msgstr "Pokušaj ponovo"
+
+msgid "Tuesday"
+msgstr "Utorak"
+
+msgid "Tunisia"
+msgstr "Tunis"
+
+msgid "Turkey"
+msgstr "Turska"
+
+msgid "Turkish"
+msgstr "Turski"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Twitter"
+msgstr ""
+
+msgid "TYPE"
+msgstr "TIP"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "type"
+msgstr "tip"
+
+msgid "&Type"
+msgstr "&Tip"
+
+msgid "Type: %1"
+msgstr "Tip: %1"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+msgid "Ukrainian"
+msgstr "Ukrajinsko"
+
+msgid "Unable to create a temporary file."
+msgstr "Ne mogu kreirati privremenu datoteku."
+
+msgid "unable to get editor plugin name: %s"
+msgstr ""
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+
+msgid "Unavailable"
+msgstr "Nedostupno"
+
+msgid "Undefined"
+msgstr "Nedefinisano"
+
+msgid "Underline"
+msgstr "Podvučeno"
+
+msgid "&Underline"
+msgstr "&Podvučeno"
+
+msgid "_Underline"
+msgstr "_Podvučeno"
+
+msgid "Undo"
+msgstr "Poništi"
+
+msgid "&Undo"
+msgstr "&Poništi"
+
+msgid "_Undo"
+msgstr "_Poništi"
+
+msgid "Undo %1"
+msgstr "Poništi %1"
+
+msgid "Undo History"
+msgstr "Istorijat poništavanja"
+
+msgid "UnFav it"
+msgstr ""
+
+msgid "unhandled property “%s” type %s"
+msgstr ""
+
+msgid "Unicode"
+msgstr "Unikod"
+
+msgid "Uniform"
+msgstr "Jednobrazno"
+
+msgid "Union"
+msgstr "Unija"
+
+msgid "Unit"
+msgstr "Jedinica"
+
+msgid "United Arab Emirates"
+msgstr "Ujedinjeni Arapski Emirati"
+
+msgid "United Kingdom"
+msgstr "Velika Britanija"
+
+msgid "United States"
+msgstr "Sjedinjene Američke Države"
+
+msgid "United States Minor Outlying Islands"
+msgstr "Manji udaljeni otoci Sjedinjenih Američkih Država"
+
+msgid "Units"
+msgstr "Jedinice"
+
+msgid "University"
+msgstr "Univerzitet"
+
+msgid "Unknown"
+msgstr "Nepoznato"
+
+msgid "unknown"
+msgstr "nepoznato"
+
+msgid "(unknown)"
+msgstr "(nepoznat)"
+
+msgid "Unknown Error"
+msgstr "Nepoznata greška"
+
+msgid "Unknown error"
+msgstr "Nepoznata greška"
+
+msgid "Unknown error."
+msgstr "Nepoznata greška."
+
+msgid "unknown error creating editor instance"
+msgstr ""
+
+msgid "Unknown file type"
+msgstr "Nepoznat tip datoteke"
+
+msgid "Unlimited"
+msgstr "Neograničeno"
+
+msgid "unlimited"
+msgstr "neograničeno"
+
+msgid "Unlock"
+msgstr "Otključaj"
+
+msgid "_Unlock"
+msgstr "_Otključaj"
+
+msgid "Unmount"
+msgstr "Demontiraj"
+
+msgid "Unmute"
+msgstr "Uključi zvuk"
+
+msgid "Unnamed"
+msgstr "Neimenovano"
+
+msgid "unnamed"
+msgstr "Bez naziva"
+
+msgid "Unread"
+msgstr "Nepročitano"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "Promjene nisu snimljene"
+
+msgid "Unselect All"
+msgstr "Odznači sve"
+
+msgid "Unselect all"
+msgstr "Poništi sve"
+
+msgid "Unspecified"
+msgstr "Nenavedeno"
+
+msgid "Untitled"
+msgstr "Bez naslova"
+
+msgid "untitled"
+msgstr "bez naslova"
+
+msgid "Unused"
+msgstr "Nekorišteno"
+
+msgid "Up"
+msgstr "Gore"
+
+msgid "&Up"
+msgstr "&Gore"
+
+msgid "Update"
+msgstr "Ažuriraj"
+
+msgid "&Update"
+msgstr "&Ažuriraj"
+
+msgid "_Update"
+msgstr "_Ažuriraj"
+
+msgid "Updates"
+msgstr "Nadogradnje"
+
+msgid "Updating"
+msgstr "Ažuriram"
+
+msgid "Updating..."
+msgstr "Ažiriram..."
+
+msgid "Upload"
+msgstr "Okači"
+
+msgid "_Upload"
+msgstr "_Učitaj"
+
+msgid "Uploaded"
+msgstr "Poslato"
+
+msgid "Upper"
+msgstr "Gornja"
+
+msgid "Uppercase"
+msgstr "Velika slova"
+
+msgid "Urdu"
+msgstr ""
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Uruguay"
+msgstr "Urugvaj"
+
+msgid "US Letter"
+msgstr "Američko pismo"
+
+msgid "Usage"
+msgstr "Upotreba"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "Koristi"
+
+msgid "Used"
+msgstr "Korišteno"
+
+msgid "User"
+msgstr "Korisnik"
+
+msgid "User Certificate"
+msgstr "Potvrda korisnika"
+
+msgid "User Defined"
+msgstr "Korisnički definisano"
+
+msgid "User Feedback"
+msgstr ""
+
+msgid "User ID"
+msgstr "Korisnički id."
+
+msgid "User Interface"
+msgstr "Korisnički interfejs"
+
+msgid "User name"
+msgstr "Korisničko ime"
+
+msgid "User Password"
+msgstr "Korisnička lozinka"
+
+msgid "Username"
+msgstr "Korisničko ime"
+
+msgid "_Username"
+msgstr "_Korisničko ime"
+
+msgid "Users"
+msgstr "Korisnici"
+
+msgid "Utilities"
+msgstr "Usluge"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr ""
+
+msgid "Valid"
+msgstr "Ispravan"
+
+msgid "Valid from"
+msgstr "Vrijedi od"
+
+msgid "Validity"
+msgstr "Ispravnost"
+
+msgid "Value"
+msgstr "Vrijednost"
+
+msgid "value"
+msgstr "vrijednost"
+
+msgid "&Value"
+msgstr "&Vrednost"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+
+msgid "Values"
+msgstr "Vrijednosti"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Variable"
+msgstr "Promjenljiva"
+
+msgid "Variables"
+msgstr "Promjenljive"
+
+msgid "Variance"
+msgstr "Varijanca"
+
+msgid "Vector"
+msgstr "Vektor"
+
+msgid "Velocity"
+msgstr "Brzina"
+
+msgid "Vendor"
+msgstr "Proizvođač"
+
+msgid "Venezuela"
+msgstr "Venecuela"
+
+msgid "Verb"
+msgstr "Glagol"
+
+msgid "Verify"
+msgstr "Provjera"
+
+msgid "Version"
+msgstr "Verzija"
+
+msgid "Version %1"
+msgstr "Verzija %1"
+
+msgid "Vertical"
+msgstr "Vertikalno"
+
+msgid "Very Large"
+msgstr "vrlo velike"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video CD"
+msgstr "Video CD"
+
+msgid "Video Codec"
+msgstr "Video kodek"
+
+msgid "Video Files"
+msgstr "Video datoteke"
+
+msgid "Videos"
+msgstr "Videi"
+
+msgid "Vietnam"
+msgstr "Vijetnam"
+
+msgid "Vietnamese"
+msgstr "Vijetnamski"
+
+msgid "View"
+msgstr "Pogled"
+
+msgid "&View"
+msgstr "&Pogled"
+
+msgid "_View"
+msgstr "_Pogled"
+
+msgid "View Options"
+msgstr ""
+
+msgid "View Settings"
+msgstr "Podešavanje pogleda"
+
+msgid "Viewer"
+msgstr "Preglednik"
+
+msgid "Views"
+msgstr "Pogledi"
+
+msgid "Virtual"
+msgstr "Virtuelno"
+
+msgid "Virtual Keyboard"
+msgstr ""
+
+msgid "Visibility"
+msgstr "Vidljivost"
+
+msgid "Visible"
+msgstr "Vidljivo"
+
+msgid "Voltage"
+msgstr "Napon"
+
+msgid "Volume"
+msgstr "Jačina"
+
+msgid "Volume Down"
+msgstr "Utišaj"
+
+msgid "Volume Up"
+msgstr "Pojačaj"
+
+msgid "W"
+msgstr "W"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "Čekam"
+
+msgid "Wallpaper"
+msgstr "Pozadina"
+
+msgid "Wallpaper type"
+msgstr ""
+
+msgid "WARNING"
+msgstr "UPOZORENJE"
+
+msgid "Warning"
+msgstr "Upozorenje"
+
+msgid "warning"
+msgstr "upozorenje"
+
+msgid "Warnings"
+msgstr "Upozorenja"
+
+msgid "Water"
+msgstr "Voda"
+
+msgid "Wave"
+msgstr "Talas"
+
+msgid "Weak"
+msgstr "Slabo"
+
+msgid "Weather"
+msgstr "Vrijeme"
+
+msgid "Web Browser"
+msgstr "Veb pregledač"
+
+msgid "Web browser"
+msgstr "Web preglednik"
+
+msgid "Website"
+msgstr ""
+
+msgid "Wednesday"
+msgstr "Srijeda"
+
+msgid "Week"
+msgstr "Sedmica"
+
+msgid "Week View"
+msgstr ""
+
+msgid "Weekly"
+msgstr "Sedmično"
+
+msgid "Weeks"
+msgstr "Sedmica"
+
+msgid "weeks"
+msgstr "sedmice"
+
+msgid "Weight"
+msgstr "Težina"
+
+msgid "Welcome"
+msgstr "Dobrodošli"
+
+msgid "Welsh"
+msgstr "velški"
+
+msgid "West"
+msgstr "Zapad"
+
+msgid "Western"
+msgstr "Zapadni"
+
+msgid "Western Sahara"
+msgstr "Zapadna Sahara"
+
+msgid "What's new"
+msgstr ""
+
+msgid "Wheel"
+msgstr "Točak"
+
+msgid "Whether sound effects should be played."
+msgstr "Da li puštati zvučne efekte."
+
+msgid "White"
+msgstr "Bijela"
+
+msgid "white"
+msgstr "bijela"
+
+msgid "White Balance"
+msgstr "Balans bijelog"
+
+msgid "Wide"
+msgstr "Širok"
+
+msgid "Widgets"
+msgstr "Elementi"
+
+msgid "Width"
+msgstr "Širina"
+
+msgid "&Width"
+msgstr "&Širina"
+
+msgid "_Width"
+msgstr "_Širina"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgid "Window"
+msgstr "Prozor"
+
+msgid "&Window"
+msgstr "&Prozor"
+
+msgid "&Window Color Scheme"
+msgstr ""
+
+msgid "Window height"
+msgstr "Visina prozora"
+
+msgid "Window Management"
+msgstr "Upravljanje prozorima"
+
+msgid "Window maximized"
+msgstr "Uvećan prozor"
+
+msgid "Window size"
+msgstr "Veličina prozora"
+
+msgid "Window Title"
+msgstr "naslov prozora"
+
+msgid "Window width"
+msgstr "Širina prozora"
+
+msgid "Windows"
+msgstr "Prozori"
+
+msgid "_Windows"
+msgstr "_Prozori"
+
+msgid "with"
+msgstr "sa"
+
+msgid "Word"
+msgstr "Riječ"
+
+msgid "Word Count"
+msgstr "Broj riječi"
+
+msgid "Words"
+msgstr "Riječi"
+
+msgid "Work"
+msgstr "Posao"
+
+msgid "World"
+msgstr "Svijet"
+
+msgid "Wrap"
+msgstr "Umotaj"
+
+msgid "_Wrap around"
+msgstr "Nastavi od početka nakon kraja"
+
+msgid "Wrap Text"
+msgstr "Prelomi tekst"
+
+msgid "Write"
+msgstr "Pisanje"
+
+msgid "Writing"
+msgstr "Pišem"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "Godina"
+
+msgid "Yearly"
+msgstr "Godišnje"
+
+msgid "Years"
+msgstr "Godina"
+
+msgid "years"
+msgstr "godina"
+
+msgid "Yellow"
+msgstr "Žuta"
+
+msgid "yellow"
+msgstr "žuta"
+
+msgid "Yemen"
+msgstr "Jemen"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "yes"
+msgstr "da"
+
+msgid "_Yes"
+msgstr "_Da"
+
+msgid "Yesterday"
+msgstr "Juče"
+
+msgid "Yiddish"
+msgstr ""
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+
+msgid "Yukon"
+msgstr "Jukon"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "Zambija"
+
+msgid "Zero"
+msgstr "Nula"
+
+msgid "Zimbabwe"
+msgstr "Zimbabve"
+
+msgid "Zoom"
+msgstr "Uvećaj"
+
+msgid "&Zoom"
+msgstr "&Uvećaj"
+
+msgid "_Zoom"
+msgstr "U_većanje"
+
+msgid "Zoom In"
+msgstr "Uvećaj"
+
+msgid "Zoom in"
+msgstr "Uvećaj"
+
+msgid "Zoom &In"
+msgstr "&Uvećaj"
+
+msgid "Zoom _In"
+msgstr "U_većaj"
+
+msgid "Zoom Out"
+msgstr "Umanji"
+
+msgid "Zoom out"
+msgstr "Umanji"
+
+msgid "Zoom &Out"
+msgstr "&Umanji"
+
+msgid "Zoom _Out"
+msgstr "U_manji"
+
+msgid "Zoom to Fit"
+msgstr "Uveličaj do uklapanja"

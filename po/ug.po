@@ -7,1407 +7,9449 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "ئاساسىي قورال بالداق"
+msgid "\""
+msgstr ""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "ئادەتتىكى"
+msgid "#"
+msgstr ""
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "چىقىرىۋەت"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "ئەمەلدىن قالدۇر"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "ھۆججەت(&F)"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "ئۆچۈر"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "يوق"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "ئاتى"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "مەسئۇل كىشى"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "ئاتى:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "تەھرىر(&E)"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "تەڭشەك(&S)"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "خاتالىق"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "كۆرۈنۈش(&V)"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "قوش"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "ئىم:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "ئىجادىيەتچى"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "ئاپتور"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "…"
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "ياپ"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "تاللانما"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "تەڭشەكلەر"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "نامەلۇم"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "قوراللار(&T)"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "تىپى"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "ئۆچۈر(&D)"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "تەھرىرلەش"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "ساقلا"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "چۈشەندۈرۈش"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "چۈشەندۈرۈش:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "چېسلا"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "ھۆججەت"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "ئالدىن كۆزەت"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "سەپلە"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "كۆرۈنۈشى"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "خاسلىق"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "تىپى:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "چوڭلۇقى"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "چىقىرىۋەت(&R)"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "ئىزدە"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "كۆڭۈلدىكى"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "ئىشلەتكۈچى ئاتى:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "ياردەم(&H)"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "كۆچۈر"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "توختا"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "كۆرۈنۈش"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "ئاگاھلاندۇرۇش"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "نورمال"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "ئات ئۆزگەرت"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "ھەئە"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "ئالىي"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "ياق"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "ھالىتى"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "تېكىست"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "قىممەت"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "رەڭلەر"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "سۆزلەشكۈ"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "ماۋزۇ"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "ئەسلى ئاپتور"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "ئىزدە…"
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "قوش…"
-
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "ئۇچۇر"
-
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "ۋاقىت"
-
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "ئىزاھات"
-
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "ئېگىزلىك:"
-
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "سول"
-
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "يېڭى"
-
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "ئاچ"
-
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "چوڭلۇقى:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "كەڭلىك:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "ئېغىز:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "ئوڭ"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "باشقا ئاتتا ساقلا"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "ماۋزۇ:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "چىقار(&E)"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "ئاپتوماتىك"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "تازىلا"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "ياسا"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "ئېكسپورت قىل"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "ياردەم"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "تامام"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "ئاتى(&N):"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "كىملىك دەلىللەش"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "تەپسىلاتلار"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "سۈزگۈچ"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "پەرۋا قىلما"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "سۈرەت"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "ئورنى:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "يېڭىلا"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "ھەممىسى"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "مەركەز"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "ئىختىيارى"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "خەت نۇسخا"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "قىستۇر"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "ھەرگىز"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "قوراللار"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "يېنىۋال"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "ماۋزۇسىز"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "يۆتكەل(&G)"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "تەھرىر…"
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "ئىناۋەتلىك قىلىنغان"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "ئىمپورت قىل"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "ئورنى"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "پەسكە"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "ئۈستىگە"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "ھەممىنى تاللا"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "يېڭىلا"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "قوش(&A)"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "ھەققىدە"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "ئىزاھات:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "سەپلە…"
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "ھۆججەت ئاتى:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "ئادەتتىكى تەڭشەك"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "كېيىنكى"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "باشقا"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "تاللا"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "ئۈستى"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "تىك"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "ياپ(&C)"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "ئاپتور:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "قوزغات"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "توغرا"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "ئەكىر…"
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "قايتىلا"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "رەت قىل"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "ئالماشتۇر"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "تەھرىر(&E)…"
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "مەشغۇلاتلار"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "ھەمىشە"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "خەتكۈشلەر"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "چېسلا:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "چىقار…"
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "ئۇچۇر"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "نومۇرى"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "ئەسلى ئاپتور"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "قوي"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "قايتا يۈكلە"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "باشلاش"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "خەتكۈشلەر"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "ئۆرنەك"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "خەت تاپشۇرۇۋالغۇچى："
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "يېڭى(&N)"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "قوشۇل"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "تەگلىك"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "رەڭ:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "بۇيرۇق"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "ئىناۋەتسىز قىلىنغان"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "تامام"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "خەت نۇسخىلىرى"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "ئەۋەتكۈچى:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "قۇر"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "باشقىلار"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "تور"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "چاپلا"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "ۋاقىتلىق توختا"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "ئورنى"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "نامەلۇم"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "سەپلە"
-
-#. Occurs in 15 KDE PO files
+msgid "'"
+msgstr ""
+
+msgid "*"
+msgstr ""
+
+msgid "+"
+msgstr "+"
+
+msgid ","
+msgstr "،"
+
+msgid "-"
+msgstr ""
+
+msgid "/"
+msgstr ""
+
+msgid "<"
+msgstr ""
+
+msgid "="
+msgstr "="
+
+msgid ">"
+msgstr ""
+
+msgid "?"
+msgstr "؟"
+
+msgid "°"
+msgstr ""
+
+msgid "×"
+msgstr ""
+
+msgid "..."
+msgstr "…"
+
+msgid "???"
+msgstr "؟؟؟"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr "، "
+
+msgid " - "
+msgstr ""
+
+msgid " – "
+msgstr ""
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " ۋە "
+
+msgid " (default)"
+msgstr " (كۆڭۈلدىكى)"
+
+msgid "© KDE Community"
+msgstr "© KDE جامائىتى"
+
+msgid " MB"
+msgstr ""
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " مىنۇت"
+
+msgid " minutes"
+msgstr " مىنۇت"
+
 msgid " ms"
 msgstr " ms"
 
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "قوللان"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "ئاپتوماتىك"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "ئاستى"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "ئىستونلار"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "چۈشۈرۈش"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "تەھرىرلىگۈچ"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "خەت نۇسخا:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "پىچىمى"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "يوللىغۇچى"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "تىل"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "ئارىلاش"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "ھۆججەت ئاچ"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "ئىم"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "تەييار"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "ئەسلىگە قايتۇرۇش"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "تېما"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "تاپشۇرۇپ ئالغۇچى"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "كېڭەيت-تارايت"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "ۋاز كەچ(&C)"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "ھېسابات:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "بارلىق ھۆججەتلەر"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "قارا"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "توم"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "داۋاملاشتۇر"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "سانلىق-مەلۇمات"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "نىشان"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "ئېلخەت:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "قىسقۇچ"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "گۇرۇپپا"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "سىنبەلگە:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "يانتۇ"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "جايلاشتۇرۇش"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "ئوتتۇراھال"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "ئۇچۇر"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "قىستۇرما"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "ئالدىنقى"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "قىزىل"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "باشقا ئاتتا ساقلا…"
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "مەنبە"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "ھالەت"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "نامەلۇم خاتالىق"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "ئۈستى"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "كەڭلىك"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "ئاتى"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "قوش(&A)…"
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "ساقلا(&S)"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "پروگراممىلار"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "كەينى"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "ھەرىكەت"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "چوڭ كىچىك يېزىلىشنى پەرقلەندۈر"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "چاپلاش تاختىسىغا كۆچۈر"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "نۆۋەتتىكى مەسئۇلى"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "سازلا"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "فورمات:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "ئۇزۇنلۇقى"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "قولدا"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "ھالىتى"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "چىقار"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "يول:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "ئورنى:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "تاللاش"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "ئۇسلۇب"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "چوڭايت"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "كىچىكلىتىش"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "ئويۇن(&G)"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "ئەكىر(&I)"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "ئىزدە(&S)"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "ھەممە ھۆججەتلەر(*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "كۆك"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "رەڭ"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "باغلان"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "دۆلەت"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "قوللانمىلار"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "ئاستى"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "ئېلخەت"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "ھۆججەت ئاتى"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "قىسقۇچلار"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "يېشىل"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "سۈرەتلەر"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "ئەن"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "تۆۋەن"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "ئاي"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "ئۈنسىز"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "ئاخىرلاشتۇر"
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "ھالىتى:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "جەدۋەل"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "خەتكۈش"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "تېكىستلىك ئەن"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "يىل"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "ياق"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "ھەئە"
-
-#. Occurs in 11 KDE PO files
 msgid " px"
 msgstr " px"
 
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "خەتكۈچلەر(&B)"
+msgid " s"
+msgstr " s"
 
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "ئادەتتىكى(&G)"
+msgid " sec"
+msgstr " سېكۇنت"
 
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "يېڭى(&N)…"
+msgid " seconds"
+msgstr " سېكۇنت"
 
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "ئاچ(&O)"
+msgid "0"
+msgstr "0"
 
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "توختا(&S)"
+msgid "0%"
+msgstr "0%"
 
-#. Occurs in 11 KDE PO files
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr ""
+
+msgid "%1 %"
+msgstr "%1 %"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr ""
+
+msgid "%1 × %2"
+msgstr ""
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1، %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1، %2، %3"
+
+msgid "%1 and %2"
+msgstr "%1 ۋە %2"
+
+msgid "%1 bytes"
+msgstr "%1 بايت"
+
+msgid "1 day"
+msgstr "1 كۈن"
+
+msgid "%1 does not exist"
+msgstr "%1 مەۋجۇت ئەمەس"
+
+msgid "%1 free"
+msgstr "%1 بوش"
+
+msgid "1 hour"
+msgstr "1‎‏ سائەت"
+
+msgid "%1 Hz"
+msgstr ""
+
+msgid "%1 MB"
+msgstr ""
+
+msgid "%1 ms"
+msgstr "%1 ms"
+
+msgid "%1 of %2"
+msgstr "%1 / %2"
+
+msgid "%1 on %2"
+msgstr "%2 دىكى %1"
+
+msgid "%1 s"
+msgstr "%1 s"
+
+msgid "%1 seconds"
+msgstr "%1 سېكۇنت"
+
+msgid "%1 to %2"
+msgstr "%1 دىن %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 مىنۇت"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr ""
+
+msgid "12"
+msgstr ""
+
+msgid "%1/%2"
+msgstr ""
+
+msgid "%1:%2"
+msgstr ""
+
+msgid "128 bit"
+msgstr "128 بىت"
+
+msgid "14"
+msgstr ""
+
+msgid "15 minutes"
+msgstr "15 مىنۇت"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr ""
+
+msgid "%1m"
+msgstr ""
+
+msgid "%1/s"
+msgstr "%1/s"
+
+msgid "1st"
+msgstr "1-كۈنى"
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
 msgid "2"
 msgstr "2"
 
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "ھېسابات"
+msgid "20"
+msgstr "20"
 
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "ھېسابات مايىللىقى"
+msgid "200%"
+msgstr "200%"
 
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "مەشغۇلات"
+msgid "25%"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "تەگلىك رەڭگى"
+msgid "2nd"
+msgstr "2-كۈنى"
 
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "كاتېگورىيە"
+msgid "3"
+msgstr "3"
 
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "كاتېگورىيە"
+msgid "30 minutes"
+msgstr "30 مىنۇت"
 
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "تۈرى:"
+msgid "300%"
+msgstr "300%"
 
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "ھەممىنى قاتلا"
+msgid "3rd"
+msgstr "3-كۈنى"
 
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "كەس"
+msgid "4"
+msgstr "4"
 
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "ئەمەلىي ئارقا ئۇچ سانلىق-مەلۇماتىنى ئۆزگەرتمەيدۇ."
+msgid "400%"
+msgstr "400%"
 
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "ھەممىنى ياي"
+msgid "4th"
+msgstr "4-كۈنى"
 
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "ھۆججەت ئاتى"
+msgid "5"
+msgstr "5"
 
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "سۈزگۈچ:"
+msgid "5 minutes"
+msgstr "5 مىنۇت"
 
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "تور ئۆتكىلى:"
+msgid "50%"
+msgstr "50%"
 
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "گېئومېتىرىيە"
+msgid "5th"
+msgstr "5-كۈنى"
 
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "ئېگىزلىك"
+msgid "6"
+msgstr "6"
 
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "ماكان"
+msgid "7"
+msgstr "7"
 
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "سىنبەلگىلەر"
+msgid "75%"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "ئاچقۇچ"
+msgid "8"
+msgstr "8"
 
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "سىزىقلار"
+msgid "9"
+msgstr "9"
 
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "تىزىم"
+msgid "A"
+msgstr "قوشۇمچە ئاتنىڭ بىرىنچى ھەرپى"
 
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "ئوقۇۋاتىدۇ…"
+msgid "a"
+msgstr "a"
 
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "ئاي"
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "يۆتكە"
+msgid "A4"
+msgstr "A4"
 
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "تەخەللۇس:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "ئىزاھات"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "ھۆججەت قاپلامسىز؟"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "قايتا قوزغات"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "ئىجرا"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "ئىزدە:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "يوللا"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "مۇلازىمېتىر:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "سۈرئىتى"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "URL"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "URL:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "ئىشلەتكۈچى:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "مىنۇت"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "خاتالىق"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "كۆچۈر(&C)"
-
-#. Occurs in 10 KDE PO files
-msgid ">"
-msgstr ">"
-
-#. Occurs in 10 KDE PO files
 msgid "Abort"
 msgstr "توختات"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "ئالىي تاللانما"
+msgid "&Abort"
+msgstr "توختات(&A)"
 
-#. Occurs in 10 KDE PO files
-msgid "Album"
-msgstr "ئالبوم"
+msgid "Aborted"
+msgstr "توختىتىلدى"
 
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
+msgid "About"
+msgstr "ھەققىدە"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "&About"
+msgstr "ھەققىدە(&A)"
 
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
-msgstr "ۋاز كەچ(&A)"
+msgid "_About"
+msgstr "ھەققىدە(_A)"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "تارىخنى تازىلاش"
+msgid "About %1"
+msgstr "%1 ھەققىدە"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "پرېسلاش"
+msgid "About KDE"
+msgstr "KDE ھەققىدە"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "ئالاقەداشلار"
+msgid "Abstract"
+msgstr "مۇھىم مەزمۇن"
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "نەشر ھوقۇقى"
+msgid "Accept"
+msgstr "قوشۇل"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "ئۈسكۈنە:"
+msgid "Accepted"
+msgstr "قوشۇلغان"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "ئۈز"
+msgid "Accessed"
+msgstr "ﺯﯨﻴﺎﺭﻩﺕ ﯞﺍﻗﺘﻰ"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "ۋاقتى"
+msgid "Accessibility"
+msgstr "قولايلىق"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "خاتالىق: %1"
+msgid "Account"
+msgstr "ھېسابات"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Account Details"
+msgstr "ھېسابات تەپسىلاتى"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "ھۆججەت:"
+msgid "Account Information"
+msgstr "ھېساب ئۇچۇرى"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "ھۆججەتلەر"
+msgid "Account Name"
+msgstr "ھېسابات ئاتى"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "ئىزدە"
+msgid "Accounts"
+msgstr "ھېساب"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "فۇنكسىيە"
+msgid "Accuracy"
+msgstr "توغرىلىقى"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "گۇرۇپپا:"
+msgid "Action"
+msgstr "مەشغۇلات"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "تىزىملىك بالدىقىنى يوشۇر"
+msgid "Actions"
+msgstr "مەشغۇلات"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "يۇقىرى"
+msgid "Activate"
+msgstr "ئاكتىپلا"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "ئىز"
+msgid "Active"
+msgstr "ئاكتىپ"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "Activities"
+msgstr "پائالىيەت"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "يۇقىرىغا(&U)"
+msgid "Activity"
+msgstr "پائالىيەت"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "ئۇقتۇرۇشلار"
+msgid "Adaptive"
+msgstr "ماسلىشىشچان"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "ئورگان"
-
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "يول"
-
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "ئېغىز"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "مەرتىۋە"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "مەرتىۋىسى:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "قۇرۇلۇش"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "گۇرۇپپىنى چىقىرىۋەت"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "بوشلۇق"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "بۈگۈن"
-
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "قىممىتى:"
-
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "نەشرى"
-
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "نەشرى:"
-
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "سىن"
-
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "يىل"
-
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
 msgid "Add"
 msgstr "قوش"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "&Add"
+msgstr "قوش(&A)"
+
+msgid "_Add"
+msgstr "قوش(_A)"
+
+msgid "Add..."
+msgstr "قوش…"
+
+msgid "&Add..."
+msgstr "قوش(&A)…"
+
+msgid "A&dd..."
+msgstr ""
+
+msgid "Add Account"
+msgstr "ھېساب قوش"
+
+msgid "Add Bookmark"
+msgstr "خەتكۈش قوش"
+
+msgid "_Add Bookmark"
+msgstr "خەتكۈش قوش(_A)"
+
+msgid "Add Filter"
+msgstr "سۈزگۈچ قوش"
+
+msgid "Add Folder"
+msgstr "قىسقۇچ قوش"
+
+msgid "Add Folder..."
+msgstr "قىسقۇچ قوش…"
+
+msgid "Add Group"
+msgstr "گۇرۇپپا قوش"
+
+msgid "Add New"
+msgstr "يېڭىدىن قوش"
+
+msgid "Add Rule..."
+msgstr "قائىدە قوش…"
+
+msgid "Add Tag"
+msgstr "بەلگە قوش"
+
+msgid "Add tag"
+msgstr "بەلگە قوش"
+
+msgid "Add to Dictionary"
+msgstr "لۇغەتكە قوش"
+
+msgid "Add to Favorites"
+msgstr "يىغقۇچقا قوش"
+
+msgid "Added"
+msgstr "قوشۇلدى"
+
+msgid "Addition"
+msgstr "قوشۇش"
+
+msgid "Additional Information"
+msgstr "قوشۇمچە ئۇچۇر"
+
+msgid "Address"
+msgstr "ئادرېس"
+
+msgid "Address Book"
+msgstr "ئادرېس دەپتىرى"
+
+msgid "Addresses"
+msgstr "ئادرېس"
+
+msgid "Adjust"
+msgstr "تەڭشە"
+
+msgid "Advanced"
+msgstr "ئالىي"
+
+msgid "Advanced..."
+msgstr "ئالىي…"
+
+msgid "Ad_vanced..."
+msgstr "ئالىي(_V)..."
+
+msgid "Advanced options"
+msgstr ""
+
+msgid "Advanced Properties"
+msgstr "ئالىي خاسلىق"
+
+msgid "Advanced Settings"
+msgstr "ئالىي تەڭشەك"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "ئافغانىستان"
+
+msgid "Africa"
+msgstr "ئافرىقا"
+
+msgid "Afrikaans"
+msgstr "جەنۇبى ئافرىقا گوللاندىيەچە"
+
+msgid "After"
+msgstr "داۋامى"
+
+msgid "Agenda"
+msgstr "كۈنتەرتىپ"
+
+msgid "Alarm"
+msgstr "قوڭغۇراق"
+
+msgid "Alarms"
+msgstr "قوڭغۇراق"
+
+msgid "Albania"
+msgstr "ئالبانىيە"
+
+msgid "Albanian"
+msgstr "ئالبانچە"
+
+msgid "Albert Vaca Cintora"
+msgstr ""
+
+msgid "Album"
+msgstr "ئالبوم"
+
+msgid "Album Artist"
+msgstr "ناخشا توپلىمى سەنئەتكارى"
+
+msgid "Albums"
+msgstr "سۈرەتدان"
+
+msgid "Alert"
+msgstr "ئاگاھلاندۇرۇش"
+
+msgid "Alexander Neundorf"
+msgstr ""
+
+msgid "Algeria"
+msgstr "ئالجىرىيە"
+
+msgid "Algorithm"
+msgstr ""
+
+msgid "Alias"
+msgstr "تەخەللۇس"
+
+msgid "Aliases"
+msgstr "تەخەللۇس"
+
+msgid "Align"
+msgstr "توغرىلا"
+
+msgid "Align Bottom"
+msgstr "ئاستىغا توغرىلا"
+
+msgid "Align Center"
+msgstr "مەركەزگە توغرىلا"
+
+msgid "Align Left"
+msgstr "سولغا توغرىلا"
+
+msgid "Align left"
+msgstr "سولغا توغرىلا"
+
+msgid "Align Right"
+msgstr "ئوڭغا توغرىلا"
+
+msgid "Align right"
+msgstr "ئوڭغا توغرىلا"
+
+msgid "Align Top"
+msgstr "ئۈستىگە توغرىلا"
+
+msgid "Alignment"
+msgstr "توغرىلاش"
+
+msgid "All"
+msgstr "ھەممىسى"
+
+msgid "all"
+msgstr "ھەممىسى"
+
+msgid "_All"
+msgstr ""
+
+msgid "All Files"
+msgstr "بارلىق ھۆججەت"
+
+msgid "All files"
+msgstr "ھەممە ھۆججەت"
+
+msgid "All Files (*)"
+msgstr "ھەممە ھۆججەت(*)"
+
+msgid "All files (*)"
+msgstr "ھەممە ھۆججەت(*)"
+
+msgid "All Supported Files"
+msgstr "قوللايدىغان ھەممە ھۆججەت"
+
+msgid "Allen Winter"
+msgstr ""
+
+msgid "Allow"
+msgstr "يول قوي"
+
+msgid "Allow Deflate compression"
+msgstr "Deflate قىسىشقا يول قويىدۇ"
+
+msgid "Alpha"
+msgstr "ئالفا"
+
+msgid "Alphabetically"
+msgstr "ئېلىپبە تەرتىپى بويىچە"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "زاپاس"
+
+msgid "Always"
+msgstr "ھەمىشە"
+
+msgid "Always ask"
+msgstr "ئىزچىل سورا"
+
+msgid "Always visible"
+msgstr "ھەمىشە كۆرسەت"
+
+msgid "AM"
+msgstr "چ ب"
+
+msgid "Ambient"
+msgstr "ئەتراپتىكى"
+
+msgid "Amount"
+msgstr "مىقدارى"
+
+msgid "An error occurred"
+msgstr "خاتالىق كۆرۈلدى"
+
+msgid "An unknown error occurred."
+msgstr "نامەلۇم خاتالىق كۆرۈلدى."
+
+msgid "Analysis"
+msgstr "تەھلىل"
+
+msgid "Anchor"
+msgstr "قۇلۇپلا"
+
+msgid "AND"
+msgstr "ۋە"
+
+msgid "and"
+msgstr "ۋە"
+
+msgid "Andorra"
+msgstr "ئاندوررا بەگلىكى"
+
+msgid "Andrius Štikonas"
+msgstr ""
+
+msgid "Angle"
+msgstr "بۇلۇڭ"
+
+msgid "angle"
+msgstr "بۇلۇڭ"
+
+msgid "Angola"
+msgstr "ئانگولا"
+
+msgid "Animation"
+msgstr "جانلاندۇرۇم"
+
+msgid "Animations"
+msgstr "جانلاندۇرۇم"
+
+msgid "Anniversary"
+msgstr "خاتىرە كۈن"
+
+msgid "Annotate"
+msgstr "ئىزاھ"
+
+msgid "Annotation"
+msgstr "ئىزاھ"
+
+msgid "Annotations"
+msgstr "ئىزاھات"
+
+msgid "Anonymous"
+msgstr "ئاتسىز"
+
+msgid "Antarctica"
+msgstr "ئانتاركتىكا"
+
+msgid "Any"
+msgstr "خالىغان"
+
+msgid "Aperture"
+msgstr "نۇر گەردىشى"
+
+msgid "Appearance"
+msgstr "قىياپەت"
+
+msgid "Append"
+msgstr "قوش"
+
+msgid "AppImage"
+msgstr ""
+
+msgid "Application"
+msgstr "پىروگرامما"
+
+msgid "Application does not accept documents on command line"
+msgstr "پروگرامما بۇيرۇق قۇرىدا پۈتۈكنى قوبۇل قىلالمايدۇ"
+
+msgid "Application Menu"
+msgstr "پىروگرامما تىزىملىكى"
+
+msgid "Applications"
+msgstr "پىروگرامما"
+
+msgid "Apply"
+msgstr "قوللان"
+
+msgid "&Apply"
+msgstr "قوللان(&A)"
+
+msgid "_Apply"
+msgstr "قوللان(_A)"
+
+msgid "Apply Settings"
+msgstr "تەڭشەك قوللان"
+
+msgid "April"
+msgstr "ئاپرېل"
+
+msgid "Arabic"
+msgstr "ئەرەبچە"
+
+msgid "Archive"
+msgstr "ئارخىپ"
+
+msgid "Archives"
+msgstr "ئارخىپلار"
+
+msgid "Area"
+msgstr "دائىرە"
+
+msgid "Argentina"
+msgstr "ئارگېنتىنا"
+
+msgid "Arguments"
+msgstr "ئەركىن ئۆزگەرگۈچى"
+
+msgid "Armenia"
+msgstr "ئەرمېنىيە"
+
+msgid "Armenian"
+msgstr "ئەرمەنچە"
+
+msgid "Arrow"
+msgstr "يا ئوق"
+
+msgid "Arrows"
+msgstr "يا ئوق"
+
+msgid "Articles"
+msgstr "ماقالە"
+
+msgid "Artist"
+msgstr "ئورۇنلىغۇچى"
+
+msgid "Artists"
+msgstr "سەنئەتكار"
+
+msgid "Artwork"
+msgstr "سەنئەت بۇيۇمى"
+
+msgid "Ascending"
+msgstr "ئۆسكۈچى"
+
+msgid "Asia"
+msgstr "ئاسىيا"
+
+msgid "Ask"
+msgstr "سورا"
+
+msgid "Aspect Ratio"
+msgstr "تەرەپ نىسبىتى"
+
+msgid "Aspect ratio"
+msgstr ""
+
+msgid "Assamese"
+msgstr "ئاسسامچە"
+
+msgid "Assign Tags"
+msgstr "بەلگە تەقسىملە"
+
+msgid "Assistant"
+msgstr "ياردەمچى"
+
+msgid "ATM"
+msgstr ""
+
+msgid "Attach"
+msgstr "قوشۇمچە"
+
+msgid "Attach File"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Attachments"
+msgstr "قوشۇلمىلار"
+
+msgid "Attendees"
+msgstr "قاتناشقۇچىلار"
+
+msgid "Attribute"
+msgstr "خاسلىق"
+
+msgid "Attributes"
+msgstr "خاسلىق"
+
+msgid "Audio"
+msgstr "ئۈن"
+
+msgid "Audio CD"
+msgstr "ئۈن CD"
+
+msgid "Audio Codec"
+msgstr "ئۈن كودلىغۇچ"
+
+msgid "Audio files"
+msgstr "ئۈن ھۆججەتلىرى"
+
+msgid "August"
+msgstr "ئاۋغۇست"
+
+msgid "Australia"
+msgstr "ئاۋسترالىيە"
+
+msgid "Austria"
+msgstr "ئاۋسترىيە"
+
+msgid "Authenticate"
+msgstr "كىملىك دەلىللەش"
+
+msgid "Authenticate VPN"
+msgstr "VPN دەلىللەش"
+
+msgid "Authentication"
+msgstr "كىملىك دەلىللەش"
+
+msgid "Authentication Required"
+msgstr "كىملىك دەلىللەش زۆرۈر"
+
+msgid "Author"
+msgstr "يازغۇچى"
+
+msgid "Authors"
+msgstr "يازغۇچى"
+
+msgid "Auto"
+msgstr "ئاپتوماتىك"
+
+msgid "auto"
+msgstr "ئاپتوماتىك"
+
+msgid "Auto Detect"
+msgstr "ئۆزلۈكىدىن بايقا"
+
+msgid "Auto Save"
+msgstr ""
+
+msgid "Autodetect"
+msgstr "ئۆزلۈكىدىن بايقا"
+
+msgid "Automatic"
+msgstr "ئاپتوماتىك"
+
+msgid "Autosave interval"
+msgstr "ئاپتوماتىك ساقلاش ئىنتېرۋالى"
+
+msgid "Available"
+msgstr "ئىشلەتكىلى بولىدۇ"
+
+msgid "A&vailable actions"
+msgstr "ئىشلەتكىلى بولىدىغان مەشغۇلات(&V)"
+
+msgid "Average"
+msgstr "ئوتتۇرىچە"
+
+msgid "Axes"
+msgstr ""
+
+msgid "Azerbaijan"
+msgstr "ئەزەربەيجان"
+
+msgid "Azerbaijani"
+msgstr "ئەزەربەيجانچە"
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "قايت"
+
+msgid "&Back"
+msgstr "قايت(&B)"
+
+msgid "_Back"
+msgstr "قايت(_B)"
+
+msgid "Background"
+msgstr "تەگلىك"
+
+msgid "Background Color"
+msgstr "تەگلىك رەڭگى"
+
+msgid "Background color"
+msgstr "تەگلىك رەڭگى"
+
+msgid "&Background color"
+msgstr "تەگلىك رەڭگى(&B)"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "زاپاسلاش"
+
+msgid "Bahamas"
+msgstr "باھاما"
+
+msgid "Bahrain"
+msgstr "بەھرەين"
+
+msgid "Balance"
+msgstr "تەڭپۇڭ"
+
+msgid "Balanced"
+msgstr "تەڭپۇڭ"
+
+msgid "Baltic"
+msgstr "بالتىق"
+
+msgid "Bangladesh"
+msgstr "باڭلادىش"
+
+msgid "Bank"
+msgstr ""
+
+msgid "Bar"
+msgstr "تۈۋرۈكسىمان دىياگرامما"
+
+msgid "Barbados"
+msgstr "باربادوس"
+
+msgid "Base"
+msgstr "ئاساسى"
+
+msgid "Basic"
+msgstr "ئاساس"
+
+msgid "Basque"
+msgstr "باسىكچە"
+
+msgid "Bass"
+msgstr "تۆۋەن ئاۋاز"
+
+msgid "Battery"
+msgstr "توكدان"
+
+msgid "Bcc"
+msgstr "مەخپىي كۆچۈرۈپ يوللا"
+
+msgid "Before"
+msgstr "ئاۋۋال"
+
+msgid "Behavior"
+msgstr "قىلمىش"
+
+msgid "Belarus"
+msgstr "بېلارۇسىيە"
+
+msgid "Belarusian"
+msgstr "بېلورۇسچە"
+
+msgid "Belgium"
+msgstr "بېلگىيە"
+
+msgid "Belize"
+msgstr "بېلىز"
+
+msgid "Bengali"
+msgstr "بېنگالچە"
+
+msgid "Benin"
+msgstr "بېنىن"
+
+msgid "Best"
+msgstr "ئەڭ ياخشى"
+
+msgid "Bhutan"
+msgstr "بۇتان"
+
+msgid "Bibliography"
+msgstr "كىتابلار مۇندەرىجىسى"
+
+msgid "Binary"
+msgstr "ئىككىلىك"
+
+msgid "Birthday"
+msgstr "تۇغۇلغان كۈن"
+
+msgid "Bitrate"
+msgstr "بايت نىسبىتى"
+
+msgid "Black"
+msgstr "قارا"
+
+msgid "black"
+msgstr "قارا"
+
+msgid "Blend"
+msgstr "ئارىلاشتۇر"
+
+msgid "Block"
+msgstr "بۆلەك"
+
+msgid "Block Elements"
+msgstr "بوش ئېلېمېنت"
+
+msgid "Blocked"
+msgstr "توسۇلدى"
+
+msgid "Blue"
+msgstr "كۆك"
+
+msgid "Blues"
+msgstr "كۆك"
+
+msgid "Bluetooth"
+msgstr "كۆكچىش"
+
+msgid "Blur"
+msgstr "غۇۋا"
+
+msgid "<b>Name:</b>"
+msgstr ""
+
+msgid "Body"
+msgstr "جىسىم"
+
+msgid "Bold"
+msgstr "توم"
+
+msgid "&Bold"
+msgstr "توم(&B)"
+
+msgid "_Bold"
+msgstr ""
+
+msgid "Bold text"
+msgstr "توم خەت"
+
+msgid "Bolivia"
+msgstr "بولىۋىيە"
+
+msgid "Book"
+msgstr "كىتاب"
+
+msgid "Bookmark"
+msgstr "خەتكۈش"
+
+msgid "Bookmarks"
+msgstr "خەتكۈش"
+
+msgid "&Bookmarks"
+msgstr "خەتكۈچ(&B)"
+
+msgid "_Bookmarks"
+msgstr "خەتكۈچلەر(_B)"
+
+msgid "Boolean"
+msgstr "بۇلىن"
+
+msgid "Border"
+msgstr "گىرۋەك"
+
+msgid "Bosnian"
+msgstr "بوسنىيەچە"
+
+msgid "Both"
+msgstr "ئىككىلىسى"
+
+msgid "Botswana"
+msgstr "بوتسۋانا"
+
+msgid "Bottom"
+msgstr "ئاستى"
+
+msgid "_Bottom"
+msgstr ""
+
+msgid "Bottom Left"
+msgstr "سول ئاستى"
+
+msgid "Bottom Right"
+msgstr "ئوڭ ئاستى"
+
+msgid "Bottom-left"
+msgstr "سول ئاستى"
+
+msgid "Bottom-right"
+msgstr "ئوڭ ئاستى"
+
+msgid "Box"
+msgstr "كۆزنەكچە"
+
+msgid "BPM"
+msgstr ""
+
+msgid "Branch"
+msgstr "شاخ"
+
+msgid "Brazil"
+msgstr "بىرازىلىيە"
+
+msgid "Breeze"
+msgstr "مەيىن شامال"
+
+msgid "Breeze by the KDE VDG"
+msgstr "KDE VDG لايىھەلىگەن مەيىن شامال ئۆرنىكى"
+
+msgid "Breeze Dark"
+msgstr "مەيىن شامال قاراڭغۇ"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "KDE VDG لايىھەلىگەن مەيىن شامال قاراڭغۇ ئۆرنىكى"
+
+msgid "Breton"
+msgstr "بىرېتونچە"
+
+msgid "Brian Croom"
+msgstr ""
+
+msgid "Bridge"
+msgstr "كۆۋرۈك"
+
+msgid "Brightness"
+msgstr "يورۇقلۇق"
+
+msgid "Broken"
+msgstr "بۇزۇلغان"
+
+msgid "Browse"
+msgstr "كۆز يۈگۈرت"
+
+msgid "Browse..."
+msgstr "كۆز يۈگۈرت…"
+
+msgid "_Browse..."
+msgstr "كۆز يۈگۈرت(_B)…"
+
+msgid "Browser"
+msgstr "توركۆرگۈ"
+
+msgid "Buffer"
+msgstr "يىغلەك"
+
+msgid "Bug fixes"
+msgstr "كەمتۈك تۈزىتىش"
+
+msgid "Build"
+msgstr "قۇر"
+
+msgid "Built-in Screen"
+msgstr "ئىچكى ئېكران"
+
+msgid "Bulgaria"
+msgstr "بۇلغارىيە"
+
+msgid "Bulgarian"
+msgstr "بۇلغارچە"
+
+msgid "Burkina Faso"
+msgstr "بۇركىنا فاسو"
+
+msgid "Burn"
+msgstr "ئوي"
+
+msgid "Burundi"
+msgstr "بۇرۇندى"
+
+msgid "Bus"
+msgstr "باش لىنىيە"
+
+msgid "Busy"
+msgstr "ئالدىراش"
+
+msgid "Butt"
+msgstr "تىكىش"
+
+msgid "Button"
+msgstr "توپچە"
+
+msgid "Buttons"
+msgstr "توپچە"
+
+msgid "by"
+msgstr "ئارىلىق"
+
+msgid "By %1"
+msgstr ""
+
+msgid "By extension"
+msgstr "كېڭەيتىلمە بويىچە"
+
+msgid "Bytes"
+msgstr "بايت"
+
+msgid "bytes"
+msgstr "بايت"
+
+msgid "C"
+msgstr ""
+
+msgid "CA Certificate"
+msgstr "CA گۇۋاھنامە"
+
+msgid "Cache"
+msgstr "غەملەك"
+
+msgid "Calculate"
+msgstr "ھېسابلا"
+
+msgid "Calculating..."
+msgstr "ھېسابلاۋاتىدۇ…"
+
+msgid "Calculator"
+msgstr "ھېسابلىغۇچ"
+
+msgid "Calendar"
+msgstr "يىلنامە"
+
+msgid "Calendars"
+msgstr "يىلنامىلەر"
+
+msgid "Call"
+msgstr "چاقىر"
+
+msgid "Calls"
+msgstr "چاقىرىش"
+
+msgid "Cambodia"
+msgstr "كامبودژا"
+
+msgid "Camera"
+msgstr "كامېرا"
+
+msgid "Cameroon"
+msgstr "كامېرون"
+
+msgid "Canada"
+msgstr "كانادا"
+
+msgid "Cancel"
+msgstr "ۋاز كەچ"
+
+msgid "&Cancel"
+msgstr "ۋاز كەچ(&C)"
+
+msgid "_Cancel"
+msgstr "ۋاز كەچ(_C)"
+
+msgid "C&ancel"
+msgstr "ۋاز كەچ(&A)"
+
+msgid "Canceled"
+msgstr "ۋاز كەچتى"
+
+msgid "Cancelled"
+msgstr "ئەمەلدىن قالدۇرۇلدى"
+
+msgid "cannot load editor plugin: %s"
+msgstr ""
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "URI پۈتۈكنى 'Type=Link' ئۈستەلئۈستى تۈرىگە يوللىيالمىدى."
+
+msgid "Canvas"
+msgstr ""
+
+msgid "Capabilities"
+msgstr "ئىقتىدارى"
+
+msgid "Capacity"
+msgstr "سىغىمى"
+
+msgid "Cape Verde"
+msgstr "يېشىل تۇمشۇق"
+
+msgid "Capitalize"
+msgstr "باش ھەرپنى چوڭايت"
+
+msgid "Caps Lock is on"
+msgstr "Caps Lock ئوچوق"
+
+msgid "Capture"
+msgstr "تۇت"
+
+msgid "Car"
+msgstr "ماشىنا"
+
+msgid "Carsten Pfeiffer"
+msgstr ""
+
+msgid "Cascade"
+msgstr "دەستىلە"
+
+msgid "Case Sensitive"
+msgstr "چوڭ كىچىك ھەرپنى پەرقلەندۈر"
+
+msgid "Case sensitive"
+msgstr "چوڭ كىچىك ھەرپنى پەرقلەندۈر"
+
+msgid "Castle"
+msgstr ""
+
+msgid "Catalan"
+msgstr "كاتالانچە"
+
+msgid "Categories"
+msgstr "سەھىپە"
+
+msgid "Category"
+msgstr "كاتېگورىيە"
+
+msgid "CC"
+msgstr "كۆچۈرۈپ يوللا(CC)"
+
+msgid "Cc"
+msgstr "كۆچۈرۈپ يوللا"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr ""
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "كاتەكچە"
+
+msgid "Celsius"
+msgstr "سېلسىيە گىرادۇس"
+
+msgid "Celtic"
+msgstr "كېلتىك"
+
+msgid "Center"
+msgstr "ئوتتۇرا"
+
+msgid "Centered"
+msgstr "ئوتتۇرىدا"
+
+msgid "Centimeters"
+msgstr "سانتىمېتىر"
+
+msgid "Centimeters (cm)"
+msgstr "سانتىمېتىر(cm)"
+
+msgid "Central"
+msgstr "ئوتتۇرا"
+
+msgid "Central African Republic"
+msgstr "ئوتتۇرا ئافرىقا جۇمھۇرىيىتى"
+
+msgid "Central European"
+msgstr "ئوتتۇرا ياۋروپا"
+
+msgid "Certificate"
+msgstr "گۇۋاھنامە"
+
+msgid "Certificates (TLS)"
+msgstr "گۇۋاھنامە (TLS)"
+
+msgid "Chad"
+msgstr "چاد"
+
+msgid "Change"
+msgstr "ئۆزگەرت"
+
+msgid "Change..."
+msgstr "ئۆزگەرت…"
+
+msgid "Changed"
+msgstr ""
+
+msgid "Channel"
+msgstr "قانال"
+
+msgid "Channels"
+msgstr "قانال"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "باب"
+
+msgid "Chapters"
+msgstr "بابلار"
+
+msgid "Character"
+msgstr "ھەرپ"
+
+msgid "Characters"
+msgstr "ھەرپلەر"
+
+msgid "Charging"
+msgstr "توكلاۋاتىدۇ"
+
+msgid "Chart"
+msgstr "دىئاگرامما"
+
+msgid "Chat"
+msgstr "سۆھبەت"
+
+msgid "Check"
+msgstr "تەكشۈر"
+
+msgid "Check for updates"
+msgstr "يېڭىلانما بارمۇ تەكشۈرۈش"
+
+msgid "Check Spelling"
+msgstr "ئىملا تەكشۈر"
+
+msgid "Checkbox"
+msgstr "كۆپ تاللاش"
+
+msgid "Checkout"
+msgstr "تەكشۈر"
+
+msgid "Cherokee"
+msgstr "چېروكىچە"
+
+msgid "Children"
+msgstr "بالا"
+
+msgid "Chile"
+msgstr "چىلى"
+
+msgid "China"
+msgstr "جۇڭگو"
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Chinese Simplified"
+msgstr "ئاددىي خەنزۇچە"
+
+msgid "Chinese Traditional"
+msgstr "مۇرەككەپ خەنزۇچە"
+
+msgid "Choose"
+msgstr "تاللا"
+
+msgid "Choose..."
+msgstr "تاللا…"
+
+msgid "Cinema"
+msgstr ""
+
+msgid "Circle"
+msgstr "چەمبەر"
+
+msgid "City"
+msgstr "شەھەر"
+
+msgid "Class"
+msgstr "تىپ"
+
+msgid "Classes"
+msgstr "تىپ"
+
+msgid "Classic"
+msgstr "ئەنئەنىۋى"
+
+msgid "Classical"
+msgstr "كىلاسسىك"
+
+msgid "Clean"
+msgstr "پاكىز"
+
+msgid "Cleanup"
+msgstr "تازىلا"
+
+msgid "Clear"
+msgstr "تازىلا"
+
+msgid "&Clear"
+msgstr "تازىلا(&C)"
+
+msgid "_Clear"
+msgstr "تازىلا(_C)"
+
+msgid "C&lear"
+msgstr "تازىلا(&L)"
+
+msgid "Clear All"
+msgstr "ھەممىنى تازىلا"
+
+msgid "Clear History"
+msgstr "تارىخنى تازىلا"
+
+msgid "Clear history"
+msgstr "تارىخ خاتىرىسىنى تازىلا"
+
+msgid "Clear List"
+msgstr "تىزىملىكنى تازىلا"
+
+msgid "Client"
+msgstr "خېرىدار"
+
+msgid "Clip"
+msgstr ""
+
+msgid "Clipboard"
+msgstr "چاپلاش تاختىسى"
+
+msgid "Clock"
+msgstr "سائەت"
+
+msgid "Clockwise"
+msgstr ""
+
+msgid "Clone"
+msgstr "نۇسخىلا"
+
+msgid "Close"
+msgstr "ياپ"
+
+msgid "&Close"
+msgstr "ياپ(&C)"
+
+msgid "_Close"
+msgstr "ياپ(_C)"
+
+msgid "Close All"
+msgstr "ھەممىنى ياپ"
+
+msgid "Close Document"
+msgstr "پۈتۈك ياپ"
+
+msgid "Close message"
+msgstr "ئۇچۇرنى ياپ"
+
+msgid "Close Tab"
+msgstr "بەتكۈچ ياپ"
+
+msgid "Close tab"
+msgstr "بەتكۈچ ياپ"
+
+msgid "Close the current tab"
+msgstr "ھازىرقى بەتكۈچنى تاقايدۇ"
+
+msgid "Close this window"
+msgstr "بۇ كۆزنەكنى ياپىدۇ"
+
+msgid "Close Window"
+msgstr "كۆزنەك ياپ"
+
+msgid "Close window"
+msgstr "كۆزنەك ياپ"
+
+msgid "Close _without Saving"
+msgstr "ساقلىماي تاقا(_W)"
+
+msgid "Closed"
+msgstr "يېپىلغان"
+
+msgid "Cloud"
+msgstr "بۇلۇت"
+
+msgid "cm"
+msgstr "سانتىمېتىر"
+
+msgid "CMake"
+msgstr ""
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "كودى"
+
+msgid "code"
+msgstr "كودى"
+
+msgid "Codec"
+msgstr "كود يەشكۈچ"
+
+msgid "Collapse"
+msgstr "يىغ"
+
+msgid "Collapse All"
+msgstr "ھەممىنى يىغ"
+
+msgid "Collection"
+msgstr "توپلام"
+
+msgid "Collections"
+msgstr "توپلام"
+
+msgid "Colombia"
+msgstr "كولومبىيە"
+
+msgid "Color"
+msgstr "رەڭ"
+
+msgid "color"
+msgstr "رەڭ"
+
+msgid "&Color"
+msgstr "رەڭ(&C)"
+
+msgid "Color Balance"
+msgstr "رەڭ تەڭپۇڭلۇقى"
+
+msgid "Color Management"
+msgstr "رەڭ باشقۇرۇش"
+
+msgid "Color Mode"
+msgstr "رەڭلىك"
+
+msgid "Color Picker"
+msgstr "رەڭ ئالغۇچ"
+
+msgid "Color Scheme"
+msgstr "رەڭ لايىھەسى"
+
+msgid "Color scheme"
+msgstr "رەڭ لايىھەسى"
+
+msgid "Color Space"
+msgstr "رەڭ بوشلۇقى"
+
+msgid "Color theme"
+msgstr ""
+
+msgid "Colorize"
+msgstr ""
+
+msgid "Colors"
+msgstr "رەڭ"
+
+msgid "Column"
+msgstr "رەت"
+
+msgid "Column %1"
+msgstr "رەت %1"
+
+msgid "Columns"
+msgstr "رەت"
+
+msgid "Comma"
+msgstr "پەش"
+
+msgid "COMMAND"
+msgstr "بۇيرۇق"
+
+msgid "Command"
+msgstr "بۇيرۇق"
+
+msgid "command"
+msgstr "بۇيرۇق"
+
+msgid "Command Line"
+msgstr "بۇيرۇق قۇرى"
+
+msgid "Command to execute"
+msgstr "ئىجرا قىلىدىغان بۇيرۇق"
+
+msgid "Commands"
+msgstr "بۇيرۇق"
+
+msgid "Comment"
+msgstr "ئىزاھات"
+
+msgid "Comments"
+msgstr "ئىزاھات"
+
+msgid "Commit"
+msgstr "تاپشۇر(_C)"
+
+msgid "Common"
+msgstr "ئورتاق"
+
+msgid "Comoros"
+msgstr "كومورو"
+
+msgid "Compact"
+msgstr "ئىخچام"
+
+msgid "Compare"
+msgstr "سېلىشتۇر"
+
+msgid "Complete"
+msgstr "تولۇق"
+
+msgid "Completed"
+msgstr "تاماملاندى"
+
+msgid "Completion"
+msgstr "تاماملاش"
+
+msgid "Component"
+msgstr "بۆلەك"
+
+msgid "Components"
+msgstr "بۆلەك"
+
+msgid "Composer"
+msgstr "مۇزىكىسىنى ئىشلىگۈچى"
+
+msgid "Composition"
+msgstr "يېزىقچىلىق"
+
+msgid "Compress"
+msgstr "قىس"
+
+msgid "Compression"
+msgstr "قىسىش"
+
+msgid "Computer"
+msgstr "كومپيۇتېر"
+
+msgid "Condition"
+msgstr "شەرت"
+
+msgid "Confidential"
+msgstr "قەتئىي مەخپىي"
+
+msgid "Configuration"
+msgstr "سەپلىمە"
+
+msgid "Configure"
+msgstr "سەپلە"
+
+msgid "Configure..."
+msgstr "سەپلە…"
+
+msgid "Configure %1"
+msgstr "%1 نى سەپلە"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "ھەرپتاختا تېزلەتمە سەپلىمىسى"
+
+msgid "Configure Plugins"
+msgstr "قىستۇرما سەپلەش"
+
+msgid "Configure Toolbars"
+msgstr "قورال بالداق سەپلە"
+
+msgid "Configure Web Shortcuts..."
+msgstr "تور تېزلەتمىسىنى سەپلەش…"
+
+msgid "Confirm"
+msgstr "جەزملە"
+
+msgid "Confirmation"
+msgstr "جەزملەش"
+
+msgid "Confirmation Required"
+msgstr "جەزملەش زۆرۈر"
+
+msgid "Confirmed"
+msgstr "جەزملەنگەن"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "پىروگراممىنىڭ ئۆلچەملىك تېزلەتمىسى بىلەن توقۇنۇشۇپ قالدى"
+
+msgid "Connect"
+msgstr "باغلان"
+
+msgid "C_onnect"
+msgstr "ئۇلا(_O)"
+
+msgid "Connected"
+msgstr "باغلاندى"
+
+msgid "Connecting"
+msgstr "باغلىنىۋاتىدۇ"
+
+msgid "Connecting..."
+msgstr "باغلىنىۋاتىدۇ…"
+
+msgid "Connection"
+msgstr "باغلىنىش"
+
+msgid "Connection Failed"
+msgstr "باغلىنالمىدى"
+
+msgid "Connection Settings"
+msgstr "باغلىنىش تەڭشىكى"
+
+msgid "Connections"
+msgstr "باغلىنىشلار"
+
+msgid "Console"
+msgstr "تىزگىن سۇپا"
+
+msgid "Constant"
+msgstr "تۇراقلىق سان"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+
+msgid "Contact"
+msgstr "ئالاقەداش"
+
+msgid "Contacts"
+msgstr "ئالاقەداش"
+
+msgid "Container"
+msgstr "قاچا"
+
+msgid "Contains"
+msgstr "ئىچىدە"
+
+msgid "contains"
+msgstr "ئىچىدە"
+
+msgid "Content"
+msgstr "مەزمۇن"
+
+msgid "Content Type"
+msgstr "مەزمۇن تىپى"
+
+msgid "Contents"
+msgstr "مەزمۇن"
+
+msgid "_Contents"
+msgstr "مەزمۇنلار(_C)"
+
+msgid "Context"
+msgstr "مەزمۇن"
+
+msgid "Continue"
+msgstr "داۋاملاشتۇر"
+
+msgid "_Continue"
+msgstr "داۋاملاشتۇر(_C)"
+
+msgid "Contrast"
+msgstr "سېلىشتۇرمىسى"
+
+msgid "Contributor"
+msgstr "تۆھپىكار"
+
+msgid "Control"
+msgstr "Ctrl"
+
+msgid "Convert"
+msgstr "CONVERT"
+
+msgid "Convert to Path"
+msgstr "يولغا ئۆزگەرت"
+
+msgid "Cookies"
+msgstr "ساقلانما"
+
+msgid "Coordinates"
+msgstr "كوئوردېنات"
+
+msgid "Copied to clipboard"
+msgstr "چاپلاش تاختىسىغا كۆچۈرۈلدى"
+
+msgid "Coptic"
+msgstr "كوپچە"
+
+msgid "Copy"
+msgstr "كۆچۈر"
+
+msgid "copy"
+msgstr "كۆچۈر"
+
+msgid "&Copy"
+msgstr "كۆچۈر(&C)"
+
+msgid "_Copy"
+msgstr "كۆچۈر(_C)"
+
+msgid "Copy Email Address"
+msgstr "ئېلخەت ئادرېسنى كۆچۈر"
+
+msgid "&Copy Here"
+msgstr "بۇ جايغا كۆچۈر(&C)"
+
+msgid "Copy Image"
+msgstr "سۈرەت كۆچۈر"
+
+msgid "Copy Link"
+msgstr "ئۇلانما كۆچۈر"
+
+msgid "Copy Link Address"
+msgstr "ئۇلانما ئادرېسىنى كۆچۈر"
+
+msgid "_Copy Link Address"
+msgstr "ئۇلانما ئاتىنى كۆچۈر(_C)"
+
+msgid "Copy Location"
+msgstr "ئورنىنى كۆچۈر"
+
+msgid "Copy of %1"
+msgstr "%1 نىڭ كۆپەيتىلمىسى"
+
+msgid "Copy selection to clipboard"
+msgstr "تاللىغاننى چاپلاش تاختىسىغا كۆچۈر"
+
+msgid "Copy Text"
+msgstr "تېكىست كۆچۈر"
+
+msgid "Copy to Clipboard"
+msgstr "چاپلاش تاختىسىغا كۆچۈر"
+
+msgid "Copy to clipboard"
+msgstr "چاپلاش تاختىسىغا كۆچۈر"
+
+msgid "Copy URL"
+msgstr "تور ئادرېس كۆچۈر"
+
+msgid "Copying files"
+msgstr "ھۆججەتنى كۆچۈرۈۋاتىدۇ"
+
+msgid "Copyright"
+msgstr "نەشر ھوقۇقى"
+
+msgid "Cost"
+msgstr "تەننەرخ"
+
+msgid "Costa Rica"
+msgstr "كوستارىكا"
+
+msgid "Could not open %1"
+msgstr "%1 نى ئاچالمىدى"
+
+msgid "Could not open file."
+msgstr "ھۆججەتنى ئاچقىلى بولمىدى."
+
+msgid "Count"
+msgstr "سانى"
+
+msgid "Counter"
+msgstr "سانىغۇچ"
+
+msgid "Country"
+msgstr "دۆلەت"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "ياسا"
+
+msgid "C_reate"
+msgstr "قۇر(_R)"
+
+msgid "Create Folder"
+msgstr "قىسقۇچ قۇر"
+
+msgid "Create New"
+msgstr "يېڭىدىن قۇر"
+
+msgid "Created"
+msgstr "قۇرغان ۋاقتى"
+
+msgid "Creation Date"
+msgstr "قۇرغان ۋاقىت"
+
+msgid "Creation date"
+msgstr "قۇرغان ۋاقىت"
+
+msgid "Creator"
+msgstr "تۈزگۈچى"
+
+msgid "Credentials"
+msgstr "كىملىك ئىسپاتى"
+
+msgid "Credits"
+msgstr "تەشەككۈر"
+
+msgid "Criteria"
+msgstr "شەرت"
+
+msgid "Critical"
+msgstr "ئاچقۇچلۇق"
+
+msgid "Croatia"
+msgstr "كىرودىيە"
+
+msgid "Croatian"
+msgstr "كىرودىيە تىلى"
+
+msgid "Crop"
+msgstr "كەس"
+
+msgid "Crop image"
+msgstr "سۈرەت كەس"
+
+msgid "Cross"
+msgstr "كېسىشىش"
+
+msgid "CSV"
+msgstr ""
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr ""
+
+msgid "Ctrl+O"
+msgstr ""
+
+msgid "Cuba"
+msgstr "كۇبا"
+
+msgid "Currency"
+msgstr "پۇل"
+
+msgid "Current"
+msgstr "نۆۋەتتىكى"
+
+msgid "Current Maintainer"
+msgstr "نۆۋەتتىكى ئاسرىغۇچى"
+
+msgid "Current maintainer"
+msgstr "نۆۋەتتىكى ئاسرىغۇچى"
+
+msgid "Cursor"
+msgstr "نۇربەلگە"
+
+msgid "Curve"
+msgstr "ئەگرى سىزىق"
+
+msgid "Curves"
+msgstr "ئەگرى سىزىقلار"
+
+msgid "Custom"
+msgstr "ئىختىيارى"
+
+msgid "Custom..."
+msgstr "ئىختىيارىي…"
+
+msgid "Custom Font"
+msgstr "ئىختىيارى خەت نۇسخا"
+
+msgid "Cut"
+msgstr "كەس"
+
+msgid "Cu&t"
+msgstr "كەس(&T)"
+
+msgid "Cu_t"
+msgstr "كەس(_T)"
+
+msgid "Cyan"
+msgstr "كۆكۈچ"
+
+msgid "Cyprus"
+msgstr "سىپرۇس"
+
+msgid "Cyrillic"
+msgstr "سلاۋيانچە"
+
+msgid "Czech"
+msgstr "چېخچە"
+
+msgid "D"
+msgstr ""
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "كۈندە"
+
+msgid "Dance"
+msgstr "ئۇسۇل"
+
+msgid "Daniel Molkentin"
+msgstr ""
+
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+msgid "Danish"
+msgstr "دانىشچە"
+
+msgid "Danny Allen"
+msgstr ""
+
+msgid "Dark"
+msgstr "قاراڭغۇ"
+
+msgid "Dark Mode"
+msgstr "قاراڭغۇ ھالەت"
+
+msgid "Darken"
+msgstr "قارايت"
+
+msgid "Dashboard"
+msgstr "باشقۇرۇش بېتى"
+
+msgid "Dashed"
+msgstr ""
+
+msgid "Data"
+msgstr "سانلىق مەلۇمات"
+
+msgid "Database"
+msgstr "ساندان"
+
+msgid "Date"
+msgstr "چېسلا"
+
+msgid "date"
+msgstr "چېسلا"
+
+msgid "Date & Time"
+msgstr "چېسلا & ۋاقىت"
+
+msgid "Date and Time"
+msgstr "چېسلا ۋە ۋاقىت"
+
+msgid "Date Format"
+msgstr "چېسلا پىچىمى"
+
+msgid "Date Modified"
+msgstr "ئۆزگەرتكەن چېسلا"
+
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+msgid "Day"
+msgstr "كۈن"
+
+msgid "Days"
+msgstr "كۈن"
+
+msgid "days"
+msgstr "كۈن"
+
+msgid "day(s)"
+msgstr "كۈن"
+
+msgid "D-Bus name to use for this instance"
+msgstr ""
+
+msgid "Debug"
+msgstr "سازلا"
+
+msgid "Debugger"
+msgstr "سازلىغۇچ"
+
+msgid "Debugging"
+msgstr "سازلاش"
+
+msgid "December"
+msgstr "دېكابىر"
+
+msgid "Decimal"
+msgstr "ئونلۇق كەسىر"
+
+msgid "Decline"
+msgstr "قوشۇلما"
+
+msgid "Decrease Font Size"
+msgstr "خەت چوڭلۇقىنى كىچىكلىتىش"
+
+msgid "Decrease Indent"
+msgstr "تارايت"
+
+msgid "Decrease Volume"
+msgstr "ئاۋازنى تۆۋەنلەت"
+
+msgid "Decrypt"
+msgstr "شىفىر يەش"
+
+msgid "Default"
+msgstr "كۆڭۈلدىكى"
+
+msgid "default"
+msgstr "كۆڭۈلدىكى"
+
+msgid "Defaults"
+msgstr "كۆڭۈلدىكى"
+
+msgid "Definition"
+msgstr "ئېنىقلىما"
+
+msgid "degrees"
+msgstr "گىرادۇس"
+
+msgid "Del"
+msgstr ""
+
+msgid "Delay"
+msgstr "كېچىكتۈر"
+
 msgid "Delete"
 msgstr "ئۆچۈر"
+
+msgid "&Delete"
+msgstr "ئۆچۈر(&D)"
+
+msgid "_Delete"
+msgstr "ئۆچۈر(_D)"
+
+msgid "D&elete"
+msgstr "ئۆچۈر(&E)"
+
+msgid "Delete..."
+msgstr "ئۆچۈر…"
+
+msgid "Delete %1"
+msgstr "%1 ئۆچۈر"
+
+msgid "Delete All"
+msgstr ""
+
+msgid "Delete File"
+msgstr "ھۆججەت ئۆچۈر"
+
+msgid "Delete Folder"
+msgstr "قىسقۇچ ئۆچۈر"
+
+msgid "Delete Image"
+msgstr "سۈرەت ئۆچۈر"
+
+msgid "Delete Selected"
+msgstr "تاللانغاننى ئۆچۈر"
+
+msgid "Delete selection"
+msgstr ""
+
+msgid "_Delete Toolbar"
+msgstr "قورال بالداقنى ئۆچۈر(_D)"
+
+msgid "Deleted"
+msgstr "ئۆچۈرۈلدى"
+
+msgid "Deletion"
+msgstr "ئۆچۈر"
+
+msgid "Delimiter"
+msgstr "ئايرىش بەلگىسى"
+
+msgid "Delta"
+msgstr "دېلتا"
+
+msgid "Denmark"
+msgstr "دانىيە"
+
+msgid "Density"
+msgstr "زىچلىق"
+
+msgid "Deny"
+msgstr "رەت قىل"
+
+msgid "Dependencies"
+msgstr "بېقىنىشچانلىق"
+
+msgid "Depth"
+msgstr "چوڭقۇرلۇقى"
+
+msgid "Desaturate"
+msgstr "ئۆڭدۈر"
+
+msgid "Descending"
+msgstr "كېمەيگۈچى"
+
+msgid "Description"
+msgstr "چۈشەندۈرۈش"
+
+msgid "&Description"
+msgstr "چۈشەندۈرۈش(&D)"
+
+msgid "Deselect"
+msgstr "تاللىما"
+
+msgid "Deselect All"
+msgstr "ھەممىنى تاللىما"
+
+msgid "Desert"
+msgstr "قۇملۇق"
+
+msgid "Desktop"
+msgstr "ئۈستەلئۈستى"
+
+msgid "Destination"
+msgstr "نىشان"
+
+msgid "Detach"
+msgstr "لەيلەت"
+
+msgid "_Detach Tab"
+msgstr "بەتكۈچنى ئايرىۋەت(_D)"
+
+msgid "Details"
+msgstr "تەپسىلاتى"
+
+msgid "&Details"
+msgstr "تەپسىلاتى(&D)"
+
+msgid "_Details"
+msgstr "تەپسىلاتى(_D)"
+
+msgid "Details..."
+msgstr "تەپسىلاتى…"
+
+msgid "Devanagari"
+msgstr "سانسكرىتچە"
+
+msgid "Developer"
+msgstr "ئىجادكار"
+
+msgid "Development"
+msgstr "ئىجادىيەت"
+
+msgid "Device"
+msgstr "ئۈسكۈنە"
+
+msgid "device"
+msgstr "ئۈسكۈنە"
+
+msgid "Device Information"
+msgstr "ئۈسكۈنە ئۇچۇرى"
+
+msgid "Device Status"
+msgstr "ئۈسكۈنە ھالىتى"
+
+msgid "Device type"
+msgstr "ئۈسكۈنە تۈرى"
+
+msgid "Devices"
+msgstr "ئۈسكۈنە"
+
+msgid "Diagnostics"
+msgstr "ئېنىقلاش"
+
+msgid "Diagonal"
+msgstr "دىئاگونال"
+
+msgid "Dialog"
+msgstr "سۆزلەشكۈ"
+
+msgid "Dialogs"
+msgstr "سۆزلىشىش رامكىلىرى"
+
+msgid "Diamond"
+msgstr "رومبا"
+
+msgid "Dictionary"
+msgstr "لۇغەت"
+
+msgid "Diff"
+msgstr "پەرق"
+
+msgid "Difference"
+msgstr "پەرق"
+
+msgid "Difficulty"
+msgstr "قىيىنلىقى"
+
+msgid "Digit"
+msgstr "رەقەم"
+
+msgid "Dimensions"
+msgstr "ئۆلچەم"
+
+msgid "DIR"
+msgstr "مۇندەرىجە"
+
+msgid "Direction"
+msgstr "يۆنىلىش"
+
+msgid "Directories"
+msgstr "مۇندەرىجىلەر"
+
+msgid "Directory"
+msgstr "مۇندەرىجە"
+
+msgid "directory"
+msgstr "مۇندەرىجە"
+
+msgid "Directory Name"
+msgstr "مۇندەرىجە ئاتى"
+
+msgid "Disable"
+msgstr "چەكلە"
+
+msgid "Disable connection to session manager"
+msgstr "ئەڭگىمە باشقۇرغۇچقا باغلىنىشنى ئىناۋەتسىز قىل"
+
+msgid "Disabled"
+msgstr "چەكلەنگەن"
+
+msgid "disabled"
+msgstr "چەكلەنگەن"
+
+msgid "Disc"
+msgstr "دىسكا"
+
+msgid "Disc Number"
+msgstr "دىسكا نومۇرى"
+
+msgid "Discard"
+msgstr "تاشلىۋەت"
+
+msgid "_Discard"
+msgstr "تاشلىۋەت(_D)"
+
+msgid "Discard All"
+msgstr "ھەممىنى تاشلىۋەت"
+
+msgid "Discard Changes"
+msgstr "ئۆزگەرتىشنى تاشلىۋەت"
+
+msgid "Discard changes"
+msgstr "ئۆزگەرتىشلەرنى تاشلىۋېتىدۇ"
+
+msgid "_Discard Changes"
+msgstr "ئۆزگەرتىشلەرنى تاشلىۋەت(_D)"
+
+msgid "Discharging"
+msgstr "توكسىزلاۋاتىدۇ"
+
+msgid "Disconnect"
+msgstr "ئۈز"
+
+msgid "Disconnected"
+msgstr "ئۈزۈلدى"
+
+msgid "Discover"
+msgstr "Discover"
+
+msgid "Discrete"
+msgstr "تارقاق"
+
+msgid "Disk"
+msgstr "دىسكا"
+
+msgid "Dismiss"
+msgstr "تاشلىۋەت"
+
+msgid "Display"
+msgstr "كۆرسەتكۈچ"
+
+msgid "Display Configuration"
+msgstr "كۆرسەتكۈچ سەپلىمىسى"
+
+msgid "Display Name"
+msgstr "كۆرسىتىش ئىسمى"
+
+msgid "Display Settings"
+msgstr "كۆرسىتىش تەڭشەك"
+
+msgid "Dissolve"
+msgstr "ئېرىت"
+
+msgid "Distance"
+msgstr "ئارىلىق"
+
+msgid "Divide"
+msgstr "بۆل"
+
+msgid "Djibouti"
+msgstr "جىبۇتى"
+
+msgid "Dmitry Suzdalev"
+msgstr ""
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "قايتا سورىما"
+
+msgid "Do Not Cancel"
+msgstr ""
+
+msgid "Do not change the actual backend data."
+msgstr "ئەمەلىي ئارقا ئۇچ سانلىق مەلۇماتىنى ئۆزگەرتمەيدۇ."
+
+msgid "Do not show again"
+msgstr "قايتا كۆرسەتمە"
+
+msgid "Do not show this message again"
+msgstr "بۇ ئۇچۇرنى قايتا كۆرسەتمە"
+
+msgid "Do Nothing"
+msgstr "ھېچقانداق قىلما"
+
+msgid "Do nothing"
+msgstr "ھېچقانداق قىلما"
+
+msgid "Document"
+msgstr "پۈتۈك"
+
+msgid "Document Properties"
+msgstr "پۈتۈك خاسلىقى"
+
+msgid "Document to open"
+msgstr "ئاچىدىغان پۈتۈك"
+
+msgid "Document Viewer"
+msgstr "پۈتۈك كۆرگۈچ"
+
+msgid "Documentation"
+msgstr "قوللانما"
+
+msgid "Documents"
+msgstr "پۈتۈك"
+
+msgid "does not contain"
+msgstr "ئىچىدە ئەمەس"
+
+msgid "Dolphin"
+msgstr "Dolphin ھۆججەت باشقۇرغۇچ"
+
+msgid "Domain"
+msgstr "دائىرە"
+
+msgid "Dominica"
+msgstr "دومىنىكا"
+
+msgid "Dominican Republic"
+msgstr "دومىنىكا جۇمھۇرىيىتى"
+
+msgid "Donate"
+msgstr "ئىئانە"
+
+msgid "Done"
+msgstr "تامام"
+
+msgid "Dot"
+msgstr "چېكىت"
+
+msgid "Dots"
+msgstr "چېكىت"
+
+msgid "Dotted"
+msgstr ""
+
+msgid "Double"
+msgstr "قوش"
+
+msgid "Down"
+msgstr "ئاستى"
+
+msgid "Download"
+msgstr "چۈشۈرۈش"
+
+msgid "Download Manager"
+msgstr "چۈشۈرۈش باشقۇرغۇچ"
+
+msgid "Downloaded"
+msgstr "چۈشۈرۈلدى"
+
+msgid "Downloading"
+msgstr "چۈشۈرۈۋاتىدۇ"
+
+msgid "Downloading..."
+msgstr "چۈشۈرۈۋاتىدۇ…"
+
+msgid "Downloads"
+msgstr "چۈشۈرۈلمە"
+
+msgid "Dr."
+msgstr "دوكتور"
+
+msgid "Draft"
+msgstr "دەسلەپكى نۇسخا"
+
+msgid "Drafts"
+msgstr "دەسلەپكى نۇسخا"
+
+msgid "Draw"
+msgstr "سىز"
+
+msgid "Drive"
+msgstr "قوزغاتقۇچ"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "قەرەلى"
+
+msgid "Due Date"
+msgstr "مۆھلىتى(چېسلا)"
+
+msgid "Duplicate"
+msgstr "كۆپەيت"
+
+msgid "_Duplicate"
+msgstr "كۆچۈر(_D)"
+
+msgid "Duplicates"
+msgstr ""
+
+msgid "Duration"
+msgstr "ۋاقتى"
+
+msgid "Dutch"
+msgstr "گوللاندىيەچە"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "شە"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "شەرق"
+
+msgid "Easy"
+msgstr "ئاسان"
+
+msgid "Echo"
+msgstr "ئەكس سادا"
+
+msgid "Ecuador"
+msgstr "ئېكۋادور"
+
+msgid "Edge"
+msgstr "گىرۋەك"
+
+msgid "Edit"
+msgstr "تەھرىر"
+
+msgid "&Edit"
+msgstr "تەھرىر(&E)"
+
+msgid "_Edit"
+msgstr "تەھرىر(_E)"
+
+msgid "Edit..."
+msgstr "تەھرىر…"
+
+msgid "&Edit..."
+msgstr "تەھرىر(&E)…"
+
+msgid "Edit %1"
+msgstr "%1 نى تەھرىرلەش"
+
+msgid "Edit Bookmark"
+msgstr ""
+
+msgid "Edit Filter"
+msgstr "سۈزگۈچ تەھرىرلەش"
+
+msgid "Edit Image"
+msgstr "سۈرەت تەھرىرلەش"
+
+msgid "Editing"
+msgstr "تەھرىرلەۋاتىدۇ"
+
+msgid "Editor"
+msgstr "تەھرىرلىگۈچ"
+
+msgid "Education"
+msgstr "مائارىپ"
+
+msgid "Effects"
+msgstr "ئۈنۈم"
+
+msgid "Egypt"
+msgstr "مىسىر"
+
+msgid "Egyptian"
+msgstr "مىسىرلىق"
+
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+msgid "Eject"
+msgstr "قاڭقىت"
+
+msgid "_Eject"
+msgstr "دىسكىنى چىقىرىش(_E)"
+
+msgid "El Salvador"
+msgstr "سالۋادور"
+
+msgid "Electronic"
+msgstr "ئېلېكترونلۇق مۇزىكا"
+
+msgid "Element"
+msgstr "ئېلېمېنت"
+
+msgid "Ellipse"
+msgstr "ئېللىپىس"
+
+msgid "Email"
+msgstr "ئېلخەت"
+
+msgid "E-mail"
+msgstr "ئېلخەت"
+
+msgid "Email Address"
+msgstr "ئېلخەت ئادرېسى"
+
+msgid "Email address"
+msgstr "ئېلخەت ئادرېسى"
+
+msgid "Emails"
+msgstr "ئېلخەت"
+
+msgid "Embedded"
+msgstr "سىڭدۈرۈلگەن"
+
+msgid "Emboss"
+msgstr "قاپارتما"
+
+msgid "Emphasis"
+msgstr "تەكىتلەش"
+
+msgid "Empty"
+msgstr "بوش"
+
+msgid "empty"
+msgstr "بوش"
+
+msgid "(empty)"
+msgstr "(بوش)"
+
+msgid "<empty>"
+msgstr "<بوش>"
+
+msgid "Empty Trash"
+msgstr "ئەخلەتخانىنى بوشات"
+
+msgid "Enable"
+msgstr "قوزغات"
+
+msgid "Enable system tray icon"
+msgstr "سىستېما قونداق سىنبەلگىسىنى قوزغىتىدۇ"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+
+msgid "Enabled"
+msgstr "قوزغىتىلغان"
+
+msgid "Encoder"
+msgstr ""
+
+msgid "Encoding"
+msgstr "كودلاش"
+
+msgid "_Encoding"
+msgstr "كودلاش(_E)"
+
+msgid "Encrypt"
+msgstr "شىفىر"
+
+msgid "&Encrypt"
+msgstr "شىفىرلا(&E)"
+
+msgid "Encrypted"
+msgstr "شىفىرلانغان"
+
+msgid "Encryption"
+msgstr "شىفىرلاش"
+
+msgid "End"
+msgstr "ئاخىر"
+
+msgid "end"
+msgstr "end"
+
+msgid "End Date"
+msgstr "ئاخىرلىشىش چېسلاسى"
+
+msgid "End Time"
+msgstr "ئاخىرلىشىش ۋاقتى"
+
+msgid "ends with"
+msgstr "ئاخىرلىشىدۇ"
+
+msgid "Energy"
+msgstr "قۇۋۋىتى"
+
+msgid "Engine"
+msgstr "ماتور"
+
+msgid "Engineering"
+msgstr "ئىنژېنېرلىق ئىلمى"
+
+msgid "English"
+msgstr "ئىنگلىزچە"
+
+msgid "Enter"
+msgstr "كىرىش"
+
+msgid "Enter password"
+msgstr "ئىم كىرگۈزۈڭ"
+
+msgid "Entry"
+msgstr "تۈر"
+
+msgid "Environment"
+msgstr "مۇھىت"
+
+msgid "equals"
+msgstr "تەڭلىك"
+
+msgid "Equation"
+msgstr "تەڭلىمە"
+
+msgid "Equatorial Guinea"
+msgstr "ئېكۋاتور گىۋىنېيەسى"
+
+msgid "Erase"
+msgstr "ئۆچۈر"
+
+msgid "Eraser"
+msgstr "ئۆچۈرگۈچ"
+
+msgid "Eritrea"
+msgstr "ئېرىترېيە"
+
+msgid "ERROR"
+msgstr "ERROR"
+
+msgid "Error"
+msgstr "خاتالىق"
+
+msgid "error"
+msgstr "خاتالىق"
+
+msgid "Error: %1"
+msgstr "خاتالىق: %1"
+
+msgid "Error message"
+msgstr "خاتالىق ئۇچۇرى"
+
+msgid "Errors"
+msgstr "خاتالىق"
+
+msgid "Escape"
+msgstr ""
+
+msgid "Esperanto"
+msgstr "دۇنيا تىلى"
+
+msgid "Estonia"
+msgstr "ئېستونىيە"
+
+msgid "Estonian"
+msgstr "ئېستونچە"
+
+msgid "Ethiopia"
+msgstr "ئېفىيوپىيە"
+
+msgid "Ethiopic"
+msgstr "ئېفىيوپىيەچە"
+
+msgid "Europe"
+msgstr "ياۋروپا"
+
+msgid "Evaluate"
+msgstr "باھا"
+
+msgid "Event"
+msgstr "ھادىسە"
+
+msgid "Events"
+msgstr "ھادىسە"
+
+msgid "Everyone"
+msgstr "ھەممەيلەن"
+
+msgid "Everything"
+msgstr "ھەممىسى"
+
+msgid "Exact"
+msgstr "دەل"
+
+msgid "Example"
+msgstr "مىسال"
+
+msgid "Examples"
+msgstr "مىسال"
+
+msgid "Exception"
+msgstr "مۇستەسنا"
+
+msgid "Exclude"
+msgstr "سىرتىدا"
+
+msgid "Exclusion"
+msgstr ""
+
+msgid "Executable"
+msgstr "ئىجرا قىلغىلى بولىدۇ"
+
+msgid "Execute"
+msgstr "ئىجرا قىل"
+
+msgid "Exit"
+msgstr "چېكىن"
+
+msgid "Exit Full Screen"
+msgstr "پۈتۈن ئېكراننى ئاخىرلاشتۇر"
+
+msgid "Exit Fullscreen"
+msgstr "تولۇق ئېكراندىن چېكىن"
+
+msgid "Exiting..."
+msgstr "چېكىنىۋاتىدۇ…"
+
+msgid "Expand"
+msgstr "ياي"
+
+msgid "Expand All"
+msgstr "ھەممىنى ياي"
+
+msgid "Experimental"
+msgstr "سىناق"
+
+msgid "Expired"
+msgstr "ۋاقتى ئوتكەن"
+
+msgid "Expires"
+msgstr "ۋاقتى ئۆتتى"
+
+msgid "Export"
+msgstr "چىقار"
+
+msgid "&Export"
+msgstr "چىقار(&E)"
+
+msgid "_Export"
+msgstr "چىقار(_E)"
+
+msgid "Export..."
+msgstr "چىقار…"
+
+msgid "&Export..."
+msgstr "ئېكسپورت قىل(&E)…"
+
+msgid "_Export..."
+msgstr "چىقار(_E)…"
+
+msgid "E&xport..."
+msgstr "چىقار(&X)…"
+
+msgid "Export As..."
+msgstr ""
+
+msgid "Export failed"
+msgstr "چىقارالمىدى"
+
+msgid "Export Options"
+msgstr "چىقىرىشنى تاللاش تۈرى"
+
+msgid "Exposure"
+msgstr "نۇر ئۆتۈش"
+
+msgid "Expression"
+msgstr "ئىپادە"
+
+msgid "Extended"
+msgstr "كېڭەيتىلگەن"
+
+msgid "Extension"
+msgstr "كېڭەيتىلمە"
+
+msgid "Extensions"
+msgstr "كېڭەيتمىلەر"
+
+msgid "Extra Toolbar"
+msgstr "قوشۇمچە قورال بالداق"
+
+msgid "Extract"
+msgstr "ئايرىش"
+
+msgid "F"
+msgstr "بىرىنچى ھەرپ"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "سۇسلاشتۇر"
+
+msgid "Fahrenheit"
+msgstr "فارنىگىت"
+
+msgid "Failed"
+msgstr "مەغلۇپ بولدى"
+
+msgid "False"
+msgstr "يالغان"
+
+msgid "false"
+msgstr "يالغان"
+
+msgid "Family"
+msgstr "ئائىلە"
+
+msgid "Family Name"
+msgstr "تەگات"
+
+msgid "Fast"
+msgstr "تېز"
+
+msgid "Faster"
+msgstr "تېزرەك"
+
+msgid "Fatal Error"
+msgstr "ئېغىر خاتالىق"
+
+msgid "Favorite"
+msgstr ""
+
+msgid "Favorites"
+msgstr "يىغقۇچ"
+
+msgid "Fax"
+msgstr "فاكس"
+
+msgid "Features"
+msgstr "ئىقتىدار"
+
+msgid "February"
+msgstr "فېۋرال"
+
+msgid "Feeds"
+msgstr "قانال"
+
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+msgid "Fetch"
+msgstr "تۇت"
+
+msgid "Fiji"
+msgstr "فىجى"
+
+msgid "FILE"
+msgstr "ھۆججەت"
+
+msgid "File"
+msgstr "ھۆججەت"
+
+msgid "file"
+msgstr "ھۆججەت"
+
+msgid "&File"
+msgstr "ھۆججەت(&F)"
+
+msgid "_File"
+msgstr "ھۆججەت(_F)"
+
+msgid "[FILE...]"
+msgstr "[ھۆججەت…]"
+
+msgid "File Already Exists"
+msgstr "ھۆججەت مەۋجۇت"
+
+msgid "File already exists"
+msgstr "ھۆججەت مەۋجۇت"
+
+msgid "File Exists"
+msgstr "ھۆججەت مەۋجۇت"
+
+msgid "File Format"
+msgstr "ھۆججەت فورماتى"
+
+msgid "File is not a valid .desktop file"
+msgstr "ھۆججەت ئىناۋەتلىك .desktop ھۆججىتى ئەمەس."
+
+msgid "File Manager"
+msgstr "ھۆججەت باشقۇرغۇچ"
+
+msgid "File Name"
+msgstr "ھۆججەت ئاتى"
+
+msgid "File name"
+msgstr "ھۆججەت ئىسمى"
+
+msgid "File Not Found"
+msgstr "ھۆججەت تاپالمىدى"
+
+msgid "File not found"
+msgstr "ھۆججەت تېپىلمىدى"
+
+msgid "File Path"
+msgstr "ھۆججەت يولى"
+
+msgid "File Properties"
+msgstr "ھۆججەت خاسلىقى"
+
+msgid "File Size"
+msgstr "ھۆججەت چوڭلۇقى"
+
+msgid "File size"
+msgstr "ھۆججەت چوڭلۇقى"
+
+msgid "File System"
+msgstr "ھۆججەت سىستېمىسى"
+
+msgid "File to open"
+msgstr "ئاچىدىغان ھۆججەت"
+
+msgid "File Transfer"
+msgstr "ھۆججەت يوللاش"
+
+msgid "File Type"
+msgstr "ھۆججەت تۈرى"
+
+msgid "Filename"
+msgstr "ھۆججەت ئاتى"
+
+msgid "Files"
+msgstr "ھۆججەت"
+
+msgid "Filesystem"
+msgstr "ھۆججەت سىستېمىسى"
+
+msgid "Fill"
+msgstr "تولدۇر"
+
+msgid "Fill Color"
+msgstr "تولدۇرغان رەڭ"
+
+msgid "Filter"
+msgstr "سۈزگۈچ"
+
+msgid "Filter..."
+msgstr "سۈزگۈچ…"
+
+msgid "Filters"
+msgstr "سۈزگۈچ"
+
+msgid "Final"
+msgstr "ئاخىرقى"
+
+msgid "Find"
+msgstr "ئىزدە"
+
+msgid "&Find"
+msgstr "ئىزدە(&F)"
+
+msgid "_Find"
+msgstr "ئىزدە(_F)"
+
+msgid "F&ind"
+msgstr "ئىزدە(&I)"
+
+msgid "Find..."
+msgstr "ئىزدە…"
+
+msgid "_Find..."
+msgstr "ئىزدە(_F)…"
+
+msgid "Find and Replace"
+msgstr ""
+
+msgid "Find Next"
+msgstr "كېيىنكىنى ئىزدە"
+
+msgid "Find _Next"
+msgstr "كېيىنكىسىنى ئىزدە(_N)"
+
+msgid "Find Ne_xt"
+msgstr "كېيىنكىنى ئىزدە(_X)"
+
+msgid "Find Previous"
+msgstr "كېيىنكىنى ئىزدە"
+
+msgid "Find Pre_vious"
+msgstr "ئالدىنقىنى ئىزدە(_V)"
+
+msgid "Fingerprint"
+msgstr "بارماق ئىزى"
+
+msgid "Finish"
+msgstr "تامام"
+
+msgid "Finished"
+msgstr "تاماملاندى"
+
+msgid "Finland"
+msgstr "فىنلاندىيە"
+
+msgid "Finnish"
+msgstr "فىنچە"
+
+msgid "First"
+msgstr "بىرىنچى"
+
+msgid "First Page"
+msgstr "بىرىنچى بەت"
+
+msgid "Fit"
+msgstr "لايىق"
+
+msgid "Fit Width"
+msgstr "كەڭلىككە سىغدۇر"
+
+msgid "Fixed"
+msgstr "مۇقىم"
+
+msgid "FLAC"
+msgstr ""
+
+msgid "Flagged"
+msgstr ""
+
+msgid "Flags"
+msgstr "بايراق"
+
+msgid "Flash"
+msgstr "چاقماق لامپا"
+
+msgid "Flat"
+msgstr "تەكشى"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "ئۆرۈ"
+
+msgid "Flip Horizontally"
+msgstr "يانتۇ ئايلاندۇر"
+
+msgid "Flip horizontally"
+msgstr "توغرىسىغا ئۆرۈ"
+
+msgid "Flip Vertically"
+msgstr "تىك ئايلاندۇر"
+
+msgid "Flip vertically"
+msgstr "بويىغا ئۆرۈ"
+
+msgid "Float"
+msgstr "لەيلىمە كەسىر سان"
+
+msgid "Floating"
+msgstr "لەيلىتىش"
+
+msgid "Flow"
+msgstr "ئېقىن"
+
+msgid "flower"
+msgstr "گۈل"
+
+msgid "Focal Length"
+msgstr "فوكۇس ئارىلىقى"
+
+msgid "Focus"
+msgstr "فوكۇس"
+
+msgid "Folder"
+msgstr "قىسقۇچ"
+
+msgid "Folder name"
+msgstr "قىسقۇچ ئاتى"
+
+msgid "Folders"
+msgstr "قىسقۇچ"
+
+msgid "Folk"
+msgstr "خەلق كۈيلىرى"
+
+msgid "Font"
+msgstr "خەت نۇسخا"
+
+msgid "&Font"
+msgstr "خەت نۇسخا(&F)"
+
+msgid "Font Color"
+msgstr "خەت رەڭگى"
+
+msgid "Font Family"
+msgstr "خەت نۇسخا تۈركۈمى"
+
+msgid "Font Size"
+msgstr "خەت چوڭلۇقى"
+
+msgid "Font size"
+msgstr "خەت چوڭلۇقى"
+
+msgid "Fonts"
+msgstr "خەت نۇسخا"
+
+msgid "_Fonts"
+msgstr "خەت نۇسخا(_F)"
+
+msgid "Food"
+msgstr ""
+
+msgid "Footer"
+msgstr "بەت ئاستى"
+
+msgid "Force"
+msgstr "مەجبۇرىي"
+
+msgid "Forecast"
+msgstr "ئالدىن مەلۇمات"
+
+msgid "Foreground"
+msgstr "ئالدى كۆرۈنۈش"
+
+msgid "Foreground Color"
+msgstr "ئالدى رەڭ"
+
+msgid "Foreground color"
+msgstr "ئالدى كۆرۈنۈش رەڭگى"
+
+msgid "forever"
+msgstr "مەڭگۈ"
+
+msgid "Form"
+msgstr "كۆزنەك"
+
+msgid "Format"
+msgstr "پىچىمى"
+
+msgid "Formatting"
+msgstr "فورمات"
+
+msgid "Former Maintainer"
+msgstr "سابىق ئاسرىغۇچى"
+
+msgid "Former maintainer"
+msgstr "سابىق ئاسرىغۇچى"
+
+msgid "Formula"
+msgstr "فورمۇلا"
+
+msgid "Forward"
+msgstr "ئالدىغا"
+
+msgid "&Forward"
+msgstr "ئالدىغا(&F)"
+
+msgid "_Forward"
+msgstr "ئالدىغا(_F)"
+
+msgid "Fraction"
+msgstr "كەسىر"
+
+msgid "Frame"
+msgstr "كاندۇك"
+
+msgid "Framerate"
+msgstr "سۈرەت تېزلىكى"
+
+msgid "Frames"
+msgstr "كاندۇك"
+
+msgid "France"
+msgstr "فىرانسىيە"
+
+msgid "Free"
+msgstr "بوش"
+
+msgid "French"
+msgstr "فىرانسۇزچە"
+
+msgid "French Guiana"
+msgstr "فىرانسىيەگە قاراشلىق گىۋىيانا"
+
+msgid "Frequency"
+msgstr "چاستوتا"
+
+msgid "Friday"
+msgstr "جۈمە"
+
+msgid "Friends"
+msgstr "دوستلار"
+
+msgid "From"
+msgstr "كىمدىن"
+
+msgid "from"
+msgstr "ئەۋەتكۈچى"
+
+msgid "From %1"
+msgstr "ئەۋەتكۈچى %1"
+
+msgid "Frozen"
+msgstr "توڭلىتىلغان"
+
+msgid "Full"
+msgstr "تامامەن"
+
+msgid "Full Name"
+msgstr "تولۇق ئاتى"
+
+msgid "Full Screen"
+msgstr "تولۇق ئېكران"
+
+msgid "Full Screen Mode"
+msgstr "پۈتۈن ئېكران ھالىتى"
+
+msgid "F&ull Screen Mode"
+msgstr "پۈتۈن ئېكران ھالىتى(&U)"
+
+msgid "Fullscreen"
+msgstr "تولۇق ئېكران"
+
+msgid "_Fullscreen"
+msgstr "تولۇق ئېكران( _F)"
+
+msgid "Function"
+msgstr "فۇنكسىيە"
+
+msgid "function"
+msgstr "فۇنكسىيە"
+
+msgid "Functions"
+msgstr "فۇنكسىيە"
+
+msgid "Future"
+msgstr "كەلگۈسى"
+
+msgid "G"
+msgstr ""
+
+msgid "Gabon"
+msgstr "گابون"
+
+msgid "Galician"
+msgstr "گالىتسىيانچە"
+
+msgid "Gallery"
+msgstr "سۈرەت يىغقۇچ"
+
+msgid "Gambia"
+msgstr "گامبىيە"
+
+msgid "Game"
+msgstr "ئويۇن"
+
+msgid "&Game"
+msgstr "ئويۇن(&G)"
+
+msgid "Game Over"
+msgstr "ئويۇن ئاخىرلاشتى"
+
+msgid "Games"
+msgstr "ئويۇن"
+
+msgid "Gamma"
+msgstr "گامما"
+
+msgid "Gas"
+msgstr ""
+
+msgid "Gate"
+msgstr ""
+
+msgid "Gateway"
+msgstr "تور ئۆتكىلى"
+
+msgid "Gaussian Blur"
+msgstr "گاۋۇس غۇۋا"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "جىنسى"
+
+msgid "General"
+msgstr "ئادەتتىكى"
+
+msgid "&General"
+msgstr "ئادەتتىكى(&G)"
+
+msgid "General Options"
+msgstr "ئادەتتىكى تاللانما"
+
+msgid "General options"
+msgstr "ئادەتتىكى تاللانما"
+
+msgid "General Settings"
+msgstr "ئادەتتىكى تەڭشەك"
+
+msgid "Generate"
+msgstr "قۇر"
+
+msgid "Generic"
+msgstr "ئادەتتىكى"
+
+msgid "Genre"
+msgstr "ئېقىم"
+
+msgid "Genres"
+msgstr "ئېقىم"
+
+msgid "Geometry"
+msgstr "گېئومېتىرىيە"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "جورجىيە"
+
+msgid "Georgian"
+msgstr "گىرۇزىنچە"
+
+msgid "German"
+msgstr "گېرمانچە"
+
+msgid "Germany"
+msgstr "گېرمانىيە"
+
+msgid "Get New..."
+msgstr "يېڭىسىغا ئېرىش…"
+
+msgid "Get New Plugins..."
+msgstr "يېڭى قىستۇرمىغا ئېرىش…"
+
+msgid "Ghana"
+msgstr "گانا"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr ""
+
+msgid "Given Name"
+msgstr "بېرىلگەن ئاتى"
+
+msgid "Global"
+msgstr "ئومۇمىيەت"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "يۆتكەل"
+
+msgid "&Go"
+msgstr "يۆتكەل(&G)"
+
+msgid "_Go"
+msgstr "يۆتكەل(_G)"
+
+msgid "Go Back"
+msgstr "كەينىگە"
+
+msgid "Go back"
+msgstr "كەينىگە"
+
+msgid "Go forward"
+msgstr "ئالدىغا"
+
+msgid "Go To"
+msgstr "يۆتكەل"
+
+msgid "Go to first page"
+msgstr "بىرىنچى بەتكە يۆتكەل"
+
+msgid "Go to last page"
+msgstr "ئاخىرقى بەتكە يۆتكەل"
+
+msgid "Go to Line"
+msgstr "قۇرغا يۆتكەل"
+
+msgid "Go to next page"
+msgstr "كېيىنكى بەتكە يۆتكەل"
+
+msgid "Go to previous page"
+msgstr "ئالدىنقى بەتكە يۆتكەل"
+
+msgid "Goa"
+msgstr "گوئا"
+
+msgid "Gold"
+msgstr "ئالتۇن"
+
+msgid "Good"
+msgstr "ياخشى"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "گوتچە"
+
+msgid "Gradient"
+msgstr "گۈل نۇسخىسى"
+
+msgid "Gradients"
+msgstr "رەڭ ئۆزگىرىشى"
+
+msgid "Graph"
+msgstr "گىرافىك"
+
+msgid "Graphics"
+msgstr "گىرافىك"
+
+msgid "Gray"
+msgstr "كۈلرەڭ"
+
+msgid "gray"
+msgstr "كۈلرەڭ"
+
+msgid "Grayscale"
+msgstr "كۈلرەڭ"
+
+msgid "Greece"
+msgstr "گىرېتسىيە"
+
+msgid "Greek"
+msgstr "گىرېكچە"
+
+msgid "Green"
+msgstr "يېشىل"
+
+msgid "green"
+msgstr "يېشىل"
+
+msgid "Grenada"
+msgstr "گىرېنادا"
+
+msgid "Grey"
+msgstr "كۈلرەڭ"
+
+msgid "Grid"
+msgstr "شادا"
+
+msgid "Group"
+msgstr "گۇرۇپپا"
+
+msgid "Group name"
+msgstr "گۇرۇپپا ئاتى"
+
+msgid "Grouping"
+msgstr "گۇرۇپپىلاش"
+
+msgid "Groups"
+msgstr "گۇرۇپپا"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "گىۋاتېمالا"
+
+msgid "Guides"
+msgstr ""
+
+msgid "Guinea"
+msgstr "گىۋىنېيە"
+
+msgid "Gujarati"
+msgstr "گۇجاراتچە"
+
+msgid "Gurmukhi"
+msgstr "گۇرمۇكىچە"
+
+msgid "Guyana"
+msgstr "گىۋىيانا"
+
+msgid "H"
+msgstr ""
+
+msgid "Haiti"
+msgstr "ھايتى"
+
+msgid "Hard"
+msgstr "تەس"
+
+msgid "Hardware"
+msgstr "قاتتىق دېتال"
+
+msgid "Hawaiian"
+msgstr "ھاۋايچە"
+
+msgid "Header"
+msgstr "بەت قاش"
+
+msgid "Headers"
+msgstr "بەت قاش"
+
+msgid "Heading"
+msgstr "ماۋزۇ"
+
+msgid "Heading 1"
+msgstr ""
+
+msgid "Heading 2"
+msgstr ""
+
+msgid "Heading 3"
+msgstr ""
+
+msgid "Heading 4"
+msgstr ""
+
+msgid "Headphones"
+msgstr "تىڭشىغۇچ"
+
+msgid "Headset"
+msgstr "مىكروفونلۇق تىڭشىغۇچ"
+
+msgid "Health"
+msgstr "ساغلاملىق"
+
+msgid "Hebrew"
+msgstr "ئىبرانىچە"
+
+msgid "Height"
+msgstr "ئېگىزلىك"
+
+msgid "&Height"
+msgstr "ئېگىزلىك(&H)"
+
+msgid "Help"
+msgstr "ياردەم"
+
+msgid "&Help"
+msgstr "ياردەم(&H)"
+
+msgid "_Help"
+msgstr "ياردەم(_H)"
+
+msgid "Helsinki"
+msgstr "خېلسىنكى"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hexadecimal"
+msgstr "ئون ئالتىلىك سان"
+
+msgid "Hexagon"
+msgstr "ئالتە تەرەپلىك"
+
+msgid "Hibernate"
+msgstr "ئۈچەك"
+
+msgid "Hidden"
+msgstr "يوشۇرۇن"
+
+msgid "hidden"
+msgstr "يوشۇرۇن"
+
+msgid "Hide"
+msgstr "يوشۇر"
+
+msgid "&Hide"
+msgstr "يوشۇر(&H)"
+
+msgid "Hide menu bar"
+msgstr "تىزىملىك بالداقنى يوشۇر"
+
+msgid "High"
+msgstr "يۇقىرى"
+
+msgid "Highlight"
+msgstr "يورۇت"
+
+msgid "Highlighter"
+msgstr "يورۇتقۇچ"
+
+msgid "Highlights"
+msgstr "يورۇت"
+
+msgid "Hindi"
+msgstr "ھىندىچە"
+
+msgid "Hint"
+msgstr "كۆرسەتمە(Hint)"
+
+msgid "Histogram"
+msgstr "چاسا دىياگرامما"
+
+msgid "History"
+msgstr "تارىخ"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "كۈتۈش"
+
+msgid "Holidays"
+msgstr "دەم ئېلىش كۈنى"
+
+msgid "Home"
+msgstr "باش بەت"
+
+msgid "&Home"
+msgstr "باش قىسقۇچ(&H)"
+
+msgid "Home Folder"
+msgstr "باش قىسقۇچ"
+
+msgid "Home Page"
+msgstr "باش بەت"
+
+msgid "Homepage"
+msgstr "باش بەت"
+
+msgid "Honduras"
+msgstr "ھوندۇراس"
+
+msgid "Hong Kong"
+msgstr "شياڭگاڭ"
+
+msgid "Horizontal"
+msgstr "توغرىسىغا"
+
+msgid "Host"
+msgstr "مۇلازىمېتىر"
+
+msgid "Hostname"
+msgstr "كومپيۇتېر ئاتى"
+
+msgid "Hotspot"
+msgstr "قىزىق نۇقتا"
+
+msgid "Hour"
+msgstr "سائەت"
+
+msgid "Hours"
+msgstr "سائەت"
+
+msgid "hours"
+msgstr "سائەت"
+
+msgid "House"
+msgstr "House مۇزىكىسى"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "رەڭگى"
+
+msgid "Huge"
+msgstr "زور"
+
+msgid "Hungarian"
+msgstr "ھونگىرچە"
+
+msgid "Hungary"
+msgstr "ۋېنگىرىيە"
+
+msgid "Hz"
+msgstr ""
+
+msgid "I"
+msgstr ""
+
+msgid "Ian Wadham"
+msgstr ""
+
+msgid "Iceland"
+msgstr "ئىسلاندىيە"
+
+msgid "Icelandic"
+msgstr "ئىسلاندچە"
+
+msgid "Icon"
+msgstr "سىنبەلگە"
+
+msgid "Icon Size"
+msgstr "سىنبەلگە چوڭلۇقى"
+
+msgid "Icon size"
+msgstr "سىنبەلگە چوڭلۇقى"
+
+msgid "Icon View"
+msgstr "سىنبەلگە كۆرۈنۈش"
+
+msgid "Icons"
+msgstr "سىنبەلگە"
+
+msgid "ID"
+msgstr "كىملىك"
+
+msgid "Id"
+msgstr ""
+
+msgid "id"
+msgstr "كىملىك"
+
+msgid "Identifier"
+msgstr "پەرقلەندۈرگۈچ"
+
+msgid "Identity"
+msgstr "سالاھىيەت"
+
+msgid "Idle"
+msgstr "بىكار"
+
+msgid "Ignore"
+msgstr "پەرۋا قىلما"
+
+msgid "_Ignore"
+msgstr "پەرۋا قىلما(_I)"
+
+msgid "Ignore Case"
+msgstr ""
+
+msgid "Ignored"
+msgstr "پەرۋا قىلمىدى"
+
+msgid "Image"
+msgstr "سۈرەت"
+
+msgid "image"
+msgstr "سۈرەت"
+
+msgid "&Image"
+msgstr "سۈرەت(&I)"
+
+msgid "_Image"
+msgstr "سۈرەت(_I)"
+
+msgid "Image Editor"
+msgstr "سۈرەت تەھرىرلىگۈچ"
+
+msgid "Image Files"
+msgstr "رەسىم ھۆججەتلەر"
+
+msgid "Image files"
+msgstr "سۈرەت ھۆججەتلەر"
+
+msgid "Image Gallery"
+msgstr "سۈرەت يىغقۇچ"
+
+msgid "Image Properties"
+msgstr "سۈرەت خاسلىقى"
+
+msgid "Image Settings"
+msgstr "سۈرەت تەڭشەك"
+
+msgid "Image Size"
+msgstr "سۈرەت چوڭلۇقى"
+
+msgid "Image Viewer"
+msgstr "سۈرەت كۆرگۈچ"
+
+msgid "Images"
+msgstr "سۈرەت"
+
+msgid "Images (%1)"
+msgstr "سۈرەت (%1)"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "ئەكىر"
+
+msgid "&Import"
+msgstr "ئەكىر(&I)"
+
+msgid "_Import"
+msgstr "ئىمپورت قىل(_I)"
+
+msgid "Import..."
+msgstr "ئەكىر…"
+
+msgid "&Import..."
+msgstr "ئىمپورت قىل(&I)…"
+
+msgid "Import failed"
+msgstr "ئىمپورت قىلىش مەغلۇپ بولدى"
+
+msgid "Important"
+msgstr "مۇھىم"
+
+msgid "In"
+msgstr "ئىچى"
+
+msgid "in"
+msgstr "ئىچىدە"
+
+msgid "Inactive"
+msgstr "پاسسىپ"
+
+msgid "Inbox"
+msgstr "قوبۇللاش ساندۇقى"
+
+msgid "inch"
+msgstr ""
+
+msgid "Inches"
+msgstr "دىيۇيم"
+
+msgid "inches"
+msgstr "دىيۇيم"
+
+msgid "Inches (in)"
+msgstr "دىيۇيم(in)"
+
+msgid "Include"
+msgstr "ئىچىدە"
+
+msgid "Includes"
+msgstr "ئۆز ئىچىگە ئالىدۇ"
+
+msgid "Incoming"
+msgstr "كېلىۋاتىدۇ"
+
+msgid "Increase Font Size"
+msgstr "خەت چوڭلۇقىنى چوڭايتىش"
+
+msgid "Increase Indent"
+msgstr "كېڭەيت"
+
+msgid "Increase Volume"
+msgstr "ئاۋازنى يۇقىرىلات"
+
+msgid "Incremental"
+msgstr ""
+
+msgid "Indentation"
+msgstr "تارايتىش"
+
+msgid "Index"
+msgstr "مۇندەرىجە"
+
+msgid "Indexed"
+msgstr "ئىندېكسلانغان"
+
+msgid "India"
+msgstr "ھىندىستان"
+
+msgid "Indonesia"
+msgstr "ھىندونېزىيە"
+
+msgid "Indonesian"
+msgstr "ھىندونېزىيەچە"
+
+msgid "Industrial"
+msgstr "سانائەت"
+
+msgid "Info"
+msgstr "ئۇچۇر"
+
+msgid "Information"
+msgstr "ئۇچۇر"
+
+msgid "Initials"
+msgstr "قىسقارتىلمىسى"
+
+msgid "Input"
+msgstr "كىرگۈز"
+
+msgid "Input Devices"
+msgstr "كىرگۈزۈش ئۈسكۈنىسى"
+
+msgid "Insert"
+msgstr "قىستۇر"
+
+msgid "&Insert"
+msgstr "قىستۇر(&I)"
+
+msgid "Insert Image"
+msgstr "سۈرەت قىستۇر"
+
+msgid "Insert Link"
+msgstr "ئۇلانما قىستۇر"
+
+msgid "Insert Table"
+msgstr "جەدۋەل قىستۇر"
+
+msgid "Insert Text"
+msgstr "تېكىست قىستۇر"
+
+msgid "Install"
+msgstr "ئورنات"
+
+msgid "Install..."
+msgstr "ئورنات…"
+
+msgid "Install from File..."
+msgstr "ھۆججەتتىن ئورنات…"
+
+msgid "Installed"
+msgstr "ئورنىتىلغان"
+
+msgid "Installing"
+msgstr "ئورنىتىۋاتىدۇ"
+
+msgid "Instant"
+msgstr "ھازىر ئىزدە"
+
+msgid "Integer"
+msgstr "پۈتۈن سان"
+
+msgid "Integrate"
+msgstr "ئىنتېگرال"
+
+msgid "Intensity"
+msgstr "كۈچلۈكلۈك"
+
+msgid "Interface"
+msgstr "ئارايۈز"
+
+msgid "Internal"
+msgstr ""
+
+msgid "Internal Error"
+msgstr "ئىچكى خاتالىق"
+
+msgid "Internal error"
+msgstr "ئىچكى خاتالىق"
+
+msgid "International"
+msgstr "خەلقئارا"
+
+msgid "Internet"
+msgstr "ئىنتېرنېت"
+
+msgid "Interpolation"
+msgstr ""
+
+msgid "Interrupt"
+msgstr "ئۈزۈلۈش"
+
+msgid "Interval"
+msgstr "ئىنتېرۋال"
+
+msgid "Introduction"
+msgstr "تونۇشتۇرۇش"
+
+msgid "Invalid"
+msgstr "ئىناۋەتسىز"
+
+msgid "invalid"
+msgstr "ئىناۋەتسىز"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr ""
+
+msgid "Invalid date"
+msgstr "ئىناۋەتسىز چېسلا"
+
+msgid "Invalid password"
+msgstr "ئىناۋەتسىز ئىم"
+
+msgid "Invalid URL"
+msgstr ""
+
+msgid "Invert"
+msgstr "ئەكسى رەڭگە ئالماشتۇر"
+
+msgid "Invert Selection"
+msgstr "ئەكسىچە تاللا"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "‍IP ئادرېس"
+
+msgid "IPTC"
+msgstr ""
+
+msgid "Iran"
+msgstr "ئىران"
+
+msgid "Iraq"
+msgstr "ئىراق"
+
+msgid "Ireland"
+msgstr "ئىرېلاندىيە"
+
+msgid "Irish"
+msgstr "ئېرلاندىيەچە"
+
+msgid "is"
+msgstr "بولسا"
+
+msgid "Israel"
+msgstr "ئىسرائىلىيە"
+
+msgid "Issued By"
+msgstr "تارقاتقۇچى"
+
+msgid "Issuer"
+msgstr "تارقاتقۇچى"
+
+msgid "Italian"
+msgstr "ئىتاليانچە"
+
+msgid "Italic"
+msgstr "يانتۇ"
+
+msgid "&Italic"
+msgstr "يانتۇ(&I)"
+
+msgid "_Italic"
+msgstr ""
+
+msgid "Italy"
+msgstr "ئىتالىيە"
+
+msgid "Item"
+msgstr "تۈرلەر"
+
+msgid "Items"
+msgstr "تۈرلەر"
+
+msgid "Iterations"
+msgstr ""
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "يامايكا"
+
+msgid "January"
+msgstr "يانۋار"
+
+msgid "Japan"
+msgstr "ياپونىيە"
+
+msgid "Japanese"
+msgstr "ياپونچە"
+
+msgid "Javanese"
+msgstr "جاۋانىسچە"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "جاز"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr ""
+
+msgid "Join"
+msgstr "كىرىش"
+
+msgid "Jonah Brüchert"
+msgstr "Jonah Brüchert"
+
+msgid "Jordan"
+msgstr "ئىيوردانىيە"
+
+msgid "Joseph Wenninger"
+msgstr ""
+
+msgid "Joshua Goins"
+msgstr "Joshua Goins"
+
+msgid "Journal"
+msgstr "ژۇرنال"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "ئىيۇل"
+
+msgid "Jump to next match"
+msgstr "كېيىنكى ماس كەلگەنگە ئاتلا"
+
+msgid "Jump to previous match"
+msgstr "ئالدىنقى ماس كەلگەنگە ئاتلا"
+
+msgid "June"
+msgstr "ئىيۇن"
+
+msgid "Justify"
+msgstr "ئوڭ-سول تەرىپى تەكشى"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "كانناداچە"
+
+msgid "Kate"
+msgstr ""
+
+msgid "Kazakh"
+msgstr "قازاقچە"
+
+msgid "Kazakhstan"
+msgstr "قازاقىستان"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "KDE جامائىتى، Felipe Kinoshita"
+
+msgid "KDE Connect"
+msgstr "KDE باغلىنىش"
+
+msgid "KDevelop"
+msgstr ""
+
+msgid "Keep"
+msgstr "ساقلاپ قال"
+
+msgid "_Keep"
+msgstr "تەگمە(_K)"
+
+msgid "Keep aspect ratio"
+msgstr "تەرەپ نىسبىتىنى ساقلاپ قال"
+
+msgid "Keep Open"
+msgstr "ئوچۇق تۇت"
+
+msgid "Kenya"
+msgstr "كېنىيە"
+
+msgid "Kernel"
+msgstr "يادرو"
+
+msgid "Key"
+msgstr "ئاچقۇچ"
+
+msgid "Key ID"
+msgstr "ئاچقۇچ كىملىكى"
+
+msgid "Keyboard"
+msgstr "ھەرپتاختا"
+
+msgid "Keyboard Layout"
+msgstr "ھەرپتاختا ئورۇنلاشتۇرۇلۇشى"
+
+msgid "Keyboard Shortcuts"
+msgstr "ھەرپتاختا تېزلەتمىسى"
+
+msgid "Keyboard shortcuts"
+msgstr "ھەرپتاختا تېزلەتمىسى"
+
+msgid "_Keyboard Shortcuts"
+msgstr "ھەرپتاختا تېزلەتمىسى(_K)"
+
+msgid "Keys"
+msgstr "كۇنۇپكا"
+
+msgid "Keyword"
+msgstr "ھالقىلىق سۆز"
+
+msgid "Keywords"
+msgstr "ئاچقۇچلۇق سۆز"
+
+msgid "Khmer"
+msgstr "كېخمېرچە"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "تۈر"
+
+msgid "Kiribati"
+msgstr "كىرىباتى"
+
+msgid "km"
+msgstr "كىلومېتىر"
+
+msgid "KMail"
+msgstr "KMail  تور خەت"
+
+msgid "Konqueror"
+msgstr "Konqueror توركۆرگۈ"
+
+msgid "Konsole"
+msgstr ""
+
+msgid "Korean"
+msgstr "كورېيەچە"
+
+msgid "KOrganizer"
+msgstr ""
+
+msgid "Kuwait"
+msgstr "كۇۋەيت"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "سول"
+
+msgid "Label"
+msgstr "بەلگە"
+
+msgid "label"
+msgstr "ئەن"
+
+msgid "Labels"
+msgstr "ئەن"
+
+msgid "Landscape"
+msgstr "توغرىسىغا"
+
+msgid "Language"
+msgstr "تىل"
+
+msgid "_Language"
+msgstr "تىل(_L)"
+
+msgid "Languages"
+msgstr "تىل"
+
+msgid "Lao"
+msgstr "لائوسچە"
+
+msgid "Laos"
+msgstr "لائوس"
+
+msgid "Large"
+msgstr "چوڭ"
+
+msgid "Last"
+msgstr "ئاخىرقى"
+
+msgid "Last Modified"
+msgstr "ئاخىرقى ئۆزگەرتىش"
+
+msgid "LaTeX"
+msgstr ""
+
+msgid "Latin"
+msgstr "لاتىنچە"
+
+msgid "Latitude"
+msgstr "كەڭلىك"
+
+msgid "Latvia"
+msgstr "لاتۋىيە"
+
+msgid "Latvian"
+msgstr "لاتۋىيەچە"
+
+msgid "Launch %1"
+msgstr "%1 نى قوزغات"
+
+msgid "Layer"
+msgstr "قەۋەت"
+
+msgid "Layers"
+msgstr "قەۋەت"
+
+msgid "Layout"
+msgstr "جايلاشتۇرۇش"
+
+msgid "Leave Fullscreen"
+msgstr "تولۇق ئېكراندىن چېكىن"
+
+msgid "Lebanon"
+msgstr "لىۋان"
+
+msgid "Left"
+msgstr "سول"
+
+msgid "left"
+msgstr "سول"
+
+msgid "&Left"
+msgstr "سول(&L)"
+
+msgid "_Left"
+msgstr ""
+
+msgid "Left to Right"
+msgstr "سولدىن ئوڭغا"
+
+msgid "Legacy"
+msgstr "كونا"
+
+msgid "Legend"
+msgstr "چۈشەندۈرۈشى"
+
+msgid "Length"
+msgstr "ئۇزۇنلۇقى"
+
+msgid "Lesotho"
+msgstr "لېسوتو"
+
+msgid "Letter"
+msgstr "خەت-چەك"
+
+msgid "Level"
+msgstr "دەرىجە"
+
+msgid "Level %1"
+msgstr "دەرىجە %1"
+
+msgid "Levels"
+msgstr "رەڭ دەرىجىسى"
+
+msgid "Liberia"
+msgstr "لىبېرىيە"
+
+msgid "Library"
+msgstr ""
+
+msgid "License"
+msgstr "ئىجازەتنامە"
+
+msgid "Liechtenstein"
+msgstr "لىچتېنشتېين بەگلىكى"
+
+msgid "Light"
+msgstr "ئاق"
+
+msgid "Lighten"
+msgstr "يورۇت"
+
+msgid "Lightness"
+msgstr "يورۇقلۇق دەرىجىسى"
+
+msgid "Limit"
+msgstr "چېكى"
+
+msgid "Limits"
+msgstr "چەك"
+
+msgid "Line"
+msgstr "قۇر"
+
+msgid "line"
+msgstr "قۇر"
+
+msgid "Line Break"
+msgstr "قۇر ئالماشتۇرۇش بەلگىسى"
+
+msgid "Line Color"
+msgstr "سىزىق رەڭگى"
+
+msgid "Line Numbers"
+msgstr "قۇر نومۇرى"
+
+msgid "Line Width"
+msgstr "سىزىق توملۇقى"
+
+msgid "Line width"
+msgstr "سىزىق توملۇقى"
+
+msgid "Linear"
+msgstr "سىزىقلىق"
+
+msgid "Lines"
+msgstr "سىزىقلار"
+
+msgid "Link"
+msgstr "ئۇلانما"
+
+msgid "link"
+msgstr "ئۇلانما"
+
+msgid "Link URL"
+msgstr "ئۇلانما URL"
+
+msgid "Links"
+msgstr "ئۇلانما"
+
+msgid "Linux"
+msgstr "لىنۇكىس"
+
+msgid "List"
+msgstr "تىزىم"
+
+msgid "List View"
+msgstr "تىزىم كۆرۈنۈش"
+
+msgid "Lists"
+msgstr "تىزىم"
+
+msgid "Lists the available options for user feedback"
+msgstr ""
+"ئىشلەتكۈچى قايتۇرما ئىنكاسىنىڭ ئىشلەتكىلى بولىدىغان تاللانما تىزىمىنى "
+"كۆرسىتىدۇ"
+
+msgid "Lithuania"
+msgstr "لىتۋانىيە"
+
+msgid "Lithuanian"
+msgstr "لىتۋاچە"
+
+msgid "%l:%M %p"
+msgstr "%p %-l:%M"
+
+msgid "Load"
+msgstr "يۈكلە"
+
+msgid "Load..."
+msgstr "ئوقۇش..."
+
+msgid "Load Game"
+msgstr "ئويۇن ئوقۇش"
+
+msgid "Loading"
+msgstr "يۈكلەۋاتىدۇ"
+
+msgid "Loading..."
+msgstr "يۈكلەۋاتىدۇ…"
+
+msgid "Loading %1..."
+msgstr ""
+
+msgid "Local"
+msgstr "يەرلىك"
+
+msgid "Locale"
+msgstr "رايون"
+
+msgid "Locality"
+msgstr "ئورۇن"
+
+msgid "Location"
+msgstr "ئورنى"
+
+msgid "Locations"
+msgstr "ئورنى"
+
+msgid "Lock"
+msgstr "قۇلۇپلا"
+
+msgid "Lock Screen"
+msgstr "ئېكراننى قۇلۇپلا"
+
+msgid "Locked"
+msgstr "قۇلۇپلانغان"
+
+msgid "Log"
+msgstr "خاتىرە"
+
+msgid "Log in"
+msgstr "تىزىمغا كىر"
+
+msgid "Log Out"
+msgstr "تىزىمدىن چىق"
+
+msgid "Logarithmic"
+msgstr "لوگارىفما"
+
+msgid "Logging"
+msgstr "كۈندىلىك خاتىرە"
+
+msgid "Logging in..."
+msgstr "كىرىۋاتىدۇ…"
+
+msgid "Logic"
+msgstr "لوگىكا"
+
+msgid "Login"
+msgstr "تىزىمغا كىر"
+
+msgid "_Login"
+msgstr "تىزىمغا كىر(_L)"
+
+msgid "Logout"
+msgstr "تىزىمدىن چىق"
+
+msgid "Logs"
+msgstr "خاتىرىلەر"
+
+msgid "Longitude"
+msgstr "ئۇزۇنلۇق"
+
+msgid "Loop"
+msgstr "دەۋرىي"
+
+msgid "Low"
+msgstr "تۆۋەن"
+
+msgid "Lower"
+msgstr "تۆۋەنلەت"
+
+msgid "Lowercase"
+msgstr "كىچىك ھەرپ"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr ""
+
+msgid "Luxembourg"
+msgstr "لىيۇكسېمبۇرگ"
+
+msgid "Lyricist"
+msgstr ""
+
+msgid "Lyrics"
+msgstr "ناخشا سۆزى"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr ""
+
+msgid "Macedonian"
+msgstr "ماكېدونچە"
+
+msgid "Macro"
+msgstr ""
+
+msgid "Macros"
+msgstr "ماكرو"
+
+msgid "Madagascar"
+msgstr "ماداغاسقار"
+
+msgid "Magenta"
+msgstr "ھال رەڭ"
+
+msgid "Mail"
+msgstr "خەت"
+
+msgid "Main"
+msgstr "ئاساس"
+
+msgid "Main Menu"
+msgstr "ئاساسىي تىزىملىك"
+
+msgid "Main Toolbar"
+msgstr "ئاساسىي قورال بالداق"
+
+msgid "Main Window"
+msgstr "ئاساسىي كۆزنەك"
+
+msgid "Main window"
+msgstr "باش كۆزنەك"
+
+msgid "Maintainer"
+msgstr "ئاسرىغۇچى"
+
+msgid "Malawi"
+msgstr "مالاۋى"
+
+msgid "Malay"
+msgstr "مالايچە"
+
+msgid "Malayalam"
+msgstr "مالايالامچە"
+
+msgid "Malaysia"
+msgstr "مالايسىيا"
+
+msgid "Maldives"
+msgstr "مالدىۋې"
+
+msgid "Male"
+msgstr "مالې"
+
+msgid "Mali"
+msgstr "مالى"
+
+msgid "Malta"
+msgstr "مالتا"
+
+msgid "Maltese"
+msgstr "مالتاچە"
+
+msgid "Manager"
+msgstr "باشقۇرغۇچى"
+
+msgid "Manual"
+msgstr "قولدا"
+
+msgid "Manufacturer"
+msgstr "ئىشلەپچىقارغۇچى"
+
+msgid "Map"
+msgstr "خەرىتە"
+
+msgid "Maps"
+msgstr "خەرىتە"
+
+msgid "Marathi"
+msgstr "ماراتىچە"
+
+msgid "Marble"
+msgstr ""
+
+msgid "March"
+msgstr "مارت"
+
+msgid "Margins"
+msgstr "بەت ئارىلىقى"
+
+msgid "Mark"
+msgstr "بەلگە"
+
+msgid "Mark as Read"
+msgstr "ئوقۇلدى بەلگىسى قوي"
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Marker"
+msgstr "بەلگە قەلىمى"
+
+msgid "Markers"
+msgstr ""
+
+msgid "Marshall Islands"
+msgstr "مارشال تاقىم ئاراللىرى"
+
+msgid "Mask"
+msgstr "نىقاب"
+
+msgid "Mass"
+msgstr "ماسسا"
+
+msgid "Match"
+msgstr "مۇۋاپىق"
+
+msgid "Match case"
+msgstr "چوڭ كىچىك ھەرپنى پەرقلەندۈر"
+
+msgid "_Match case"
+msgstr "چوڭ كىچىك ھەرپنى پەرقلەندۈر(_M)"
+
+msgid "Math"
+msgstr "ماتېماتىكا"
+
+msgid "Matrix"
+msgstr "ماترىتسا"
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr ""
+
+msgid "Mauritania"
+msgstr "ماۋرىتانىيە"
+
+msgid "Mauritius"
+msgstr "ماۋرىتىئۇس"
+
+msgid "Max"
+msgstr "ئەڭ چوڭ قىممەت"
+
+msgid "max"
+msgstr "ئەڭ چوڭ"
+
+msgid "Maximize"
+msgstr "چوڭايت"
+
+msgid "Maximum"
+msgstr "ئەڭ چوڭ"
+
+msgid "May"
+msgstr "ماي"
+
+msgid "Maze"
+msgstr "Maze"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "ئوتتۇرىچە"
+
+msgid "Measure"
+msgstr ""
+
+msgid "Media"
+msgstr "ۋاسىتە"
+
+msgid "Media Player"
+msgstr "ۋاسىتە ياڭراتقۇچ"
+
+msgid "Median"
+msgstr "ئوتتۇرىسى"
+
+msgid "Medium"
+msgstr "ئوتتۇراھال"
+
+msgid "medium"
+msgstr "ئوتتۇرا"
+
+msgid "Member"
+msgstr "ئەزا"
+
+msgid "Memory"
+msgstr "ئەسلەك"
+
+msgid "Menu"
+msgstr "تىزىملىك"
+
+msgid "Mercury"
+msgstr "مېركۇرىي"
+
+msgid "Merge"
+msgstr "بىرلەشتۈر"
+
+msgid "Message"
+msgstr "ئۇچۇر"
+
+msgid "message"
+msgstr "ئۇچۇرلار"
+
+msgid "Messages"
+msgstr "ئۇچۇرلار"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "تەپسىلىي ئۇچۇر"
+
+msgid "Metal"
+msgstr "مېتال"
+
+msgid "meters"
+msgstr "مېتىر"
+
+msgid "Method"
+msgstr "چارە"
+
+msgid "Metric"
+msgstr "بىرلىك"
+
+msgid "Mexico"
+msgstr "مېكسىكا"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "مىكروفون"
+
+msgid "Middle"
+msgstr "ئوتتۇرا"
+
+msgid "Miha Čančula"
+msgstr ""
+
+msgid "Milian Wolff"
+msgstr ""
+
+msgid "Millimeters"
+msgstr "مىللىمېتىر"
+
+msgid "Millimeters (mm)"
+msgstr "مىللىمېتىر(mm)"
+
+msgid "Milliseconds"
+msgstr "مىللىسېكۇنت"
+
+msgid "milliseconds"
+msgstr "مىللىسېكۇنت"
+
+msgid "Min"
+msgstr "ئەڭ كىچىك قىممەت"
+
+msgid "min"
+msgstr "مىنۇت"
+
+msgid "Minimize"
+msgstr "كىچىكلەت"
+
+msgid "Minimum"
+msgstr "ئەڭ كىچىك"
+
+msgid "Minute"
+msgstr "مىنۇت"
+
+msgid "Minutes"
+msgstr "مىنۇت"
+
+msgid "minutes"
+msgstr "مىنۇت"
+
+msgid "Mirror"
+msgstr "تەسۋىر"
+
+msgid "Misc"
+msgstr "ئارىلاش"
+
+msgid "Miscellaneous"
+msgstr "باشقا"
+
+msgid "missing plugin file \"%s\""
+msgstr ""
+
+msgid "Miter limit"
+msgstr ""
+
+msgid "Mix"
+msgstr "كىرىشتۈر"
+
+msgid "mm"
+msgstr ""
+
+msgid "Mobile"
+msgstr "يانفون"
+
+msgid "Mode"
+msgstr "ھالىتى"
+
+msgid "Model"
+msgstr "ئەندىزە"
+
+msgid "Modem"
+msgstr "مودېم"
+
+msgid "Modified"
+msgstr "ئۆزگەرتىلگەن ۋاقتى"
+
+msgid "modified"
+msgstr "ئۆزگەرتكەن"
+
+msgid "Modifiers"
+msgstr "بىرىكمە كۇنۇپكا"
+
+msgid "Modify"
+msgstr "ئۆزگەرت"
+
+msgid "Modify..."
+msgstr "ئۆزگەرت…"
+
+msgid "&Modify..."
+msgstr "ئۆزگەرت(&M)..."
+
+msgid "Modify search behavior"
+msgstr "ئىزدەش قىلمىشىنى ئۆزگەرت"
+
+msgid "Module"
+msgstr "بۆلەك"
+
+msgid "Modules"
+msgstr "بۆلەك"
+
+msgid "Moldova"
+msgstr "مولدوۋا"
+
+msgid "Monaco"
+msgstr "موناكو"
+
+msgid "Monday"
+msgstr "دۈشەنبە"
+
+msgid "Mongolia"
+msgstr "موڭغۇلىيە"
+
+msgid "Mongolian"
+msgstr "موڭغۇلچە"
+
+msgid "Monitor"
+msgstr "ئېكران"
+
+msgid "Mono"
+msgstr "يەككە يوللۇق ئاۋاز"
+
+msgid "Monochrome"
+msgstr "رەڭسىز"
+
+msgid "Monospace"
+msgstr "Monospace"
+
+msgid "Montenegro"
+msgstr "مونتېنېگرو"
+
+msgid "Month"
+msgstr "ئاي"
+
+msgid "Month View"
+msgstr "ئاي كۆرۈنۈشى"
+
+msgid "Monthly"
+msgstr "ھەر ئايدا"
+
+msgid "Months"
+msgstr "ئاي"
+
+msgid "More"
+msgstr "تېخىمۇ كۆپ"
+
+msgid "More..."
+msgstr "تېخىمۇ كۆپ…"
+
+msgid "More actions"
+msgstr "تېخىمۇ كۆپ مەشغۇلات"
+
+msgid "More Information"
+msgstr "تېخىمۇ كۆپ ئۇچۇر"
+
+msgid "More options"
+msgstr "تېخىمۇ كۆپ تاللانما"
+
+msgid "Morocco"
+msgstr "ماراكەش"
+
+msgid "Mount"
+msgstr "ئېگەرلە"
+
+msgid "Mount point"
+msgstr "ئېگەرلەش نۇقتىسى"
+
+msgid "Mouse"
+msgstr "چاشقىنەك"
+
+msgid "Mouse Wheel"
+msgstr "چاشقىنەك غالتىكى"
+
+msgid "Move"
+msgstr "يۆتكە"
+
+msgid "&Move"
+msgstr "يۆتكە(&M)"
+
+msgid "_Move"
+msgstr "يۆتكە(_M)"
+
+msgid "Move %1"
+msgstr "%1 يۆتكە"
+
+msgid "Move Down"
+msgstr "ئاستىغا"
+
+msgid "Move down"
+msgstr "تۆۋەنگە"
+
+msgid "Move &Down"
+msgstr "تۆۋەنگە(&D)"
+
+msgid "&Move Here"
+msgstr "بۇ جايغا يۆتكە(&M)"
+
+msgid "Move Left"
+msgstr "سولغا يۆتكە"
+
+msgid "_Move on Toolbar"
+msgstr "قورال بالداققا يۆتكە(_M)"
+
+msgid "Move Right"
+msgstr "ئوڭغا يۆتكە"
+
+msgid "Move Tab Left"
+msgstr "بەتكۈچنى سولغا يۆتكە"
+
+msgid "Move Tab Right"
+msgstr "بەتكۈچنى ئوڭغا يۆتكە"
+
+msgid "Move the selected item on the toolbar"
+msgstr "تاللىغان تۈرنى قورال بالداققا يۆتكەيدۇ"
+
+msgid "Move To"
+msgstr "يۆتكە"
+
+msgid "Move to Bottom"
+msgstr ""
+
+msgid "Move to Top"
+msgstr ""
+
+msgid "Move to Trash"
+msgstr "ئەخلەتخانىغا يۆتكە"
+
+msgid "&Move to Trash"
+msgstr "ئەخلەتخانىغا يۆتكە(&M)"
+
+msgid "Move Up"
+msgstr "ئۈستىگە"
+
+msgid "Move up"
+msgstr "يۇقىرىغا"
+
+msgid "Move &Up"
+msgstr "يۇقىرىغا(&U)"
+
+msgid "Mozambique"
+msgstr "موزامبىك"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "كۆپ ۋاسىتە"
+
+msgid "Multiply"
+msgstr "ھەسسىلەپ ئېشىش"
+
+msgid "Music"
+msgstr "نەغمە"
+
+msgid "Music Player"
+msgstr "نەغمە ياڭراتقۇچ"
+
+msgid "Mute"
+msgstr "ئۈنسىز"
+
+msgid "Myanmar"
+msgstr "بىرماچە"
+
+msgid "N"
+msgstr "شىمال"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "ئىشلەتكىلى بولمايدۇ"
+
+msgid "n/a"
+msgstr "ئىشلەتكىلى بولمايدۇ"
+
+msgid "NAME"
+msgstr "ئاتى"
+
+msgid "Name"
+msgstr "ئاتى"
+
+msgid "name"
+msgstr "ئاتى"
+
+msgid "&Name"
+msgstr "ئاتى(&N)"
+
+msgid "_Name"
+msgstr "ئاتى(_N)"
+
+msgid "Name: %1"
+msgstr "ئاتى: %1"
+
+msgid "Namespace"
+msgstr "ئات بوشلۇقى"
+
+msgid "Namibia"
+msgstr "نامىبىيە"
+
+msgid "Nature"
+msgstr ""
+
+msgid "Nauru"
+msgstr "ناۋرۇچە"
+
+msgid "Navigation"
+msgstr "يولباشچى"
+
+msgid "Negative"
+msgstr "مەنپىي"
+
+msgid "Neon"
+msgstr "نېئون"
+
+msgid "Nepal"
+msgstr "نېپال"
+
+msgid "Nepali"
+msgstr "نېپالچە"
+
+msgid "Netherlands"
+msgstr "گوللاندىيە"
+
+msgid "Network"
+msgstr "تور"
+
+msgid "Networks"
+msgstr "تور"
+
+msgid "Never"
+msgstr "ھەرگىز"
+
+msgid "never"
+msgstr "ھەرگىز"
+
+msgid "New"
+msgstr "يېڭى"
+
+msgid "&New"
+msgstr "يېڭى(&N)"
+
+msgid "_New"
+msgstr "يېڭىدىن قۇر(_N)"
+
+msgid "New..."
+msgstr "يېڭى…"
+
+msgid "&New..."
+msgstr "يېڭى(&N)…"
+
+msgid "_New..."
+msgstr "يېڭى(_N)..."
+
+msgid "New Bookmark"
+msgstr "يېڭى خەتكۈش"
+
+msgid "New Connection"
+msgstr "يېڭى باغلىنىش"
+
+msgid "New File"
+msgstr "يېڭى ھۆججەت"
+
+msgid "New Folder"
+msgstr "يېڭى قىسقۇچ"
+
+msgid "New folder"
+msgstr "يېڭى مۇندەرىجە"
+
+msgid "New Folder..."
+msgstr "يېڭى قىسقۇچ…"
+
+msgid "New Game"
+msgstr "يېڭى ئويۇن"
+
+msgid "New Group"
+msgstr "يېڭى گۇرۇپپا"
+
+msgid "New Item"
+msgstr "يېڭى تۈر"
+
+msgid "New Layer"
+msgstr "يېڭى سۈرەت قەۋىتى"
+
+msgid "New Message"
+msgstr "يېڭى ئۇچۇر"
+
+msgid "New Name"
+msgstr "يېڭى ئات"
+
+msgid "New name"
+msgstr "يېڭى ئات"
+
+msgid "New Profile"
+msgstr "يېڭى سەپلىمە ھۆججەت"
+
+msgid "New Project"
+msgstr "يېڭى قۇرۇلۇش"
+
+msgid "New Session"
+msgstr "يېڭى جەريانچاق"
+
+msgid "New South Wales"
+msgstr "يېڭى جەنۇبىي ۋېيلىس"
+
+msgid "New Tab"
+msgstr "يېڭى بەتكۈچ"
+
+msgid "New tag"
+msgstr ""
+
+msgid "New Window"
+msgstr "يېڭى كۆزنەك"
+
+msgid "_New Window"
+msgstr "يېڭى كۆزنەك(_N)"
+
+msgid "New &Window"
+msgstr "يېڭى كۆزنەك(&W)"
+
+msgid "New _Window"
+msgstr "يېڭى كۆزنەك(_W)"
+
+msgid "New Zealand"
+msgstr "يېڭى زېلاندىيە"
+
+msgid "News"
+msgstr "خەۋەر"
+
+msgid "Newton"
+msgstr "نيۇتون"
+
+msgid "Next"
+msgstr "كېيىنكى"
+
+msgid "&Next"
+msgstr "كېيىنكى(&N)"
+
+msgid "_Next"
+msgstr "كېيىنكى(_N)"
+
+msgid "Next Image"
+msgstr "كېيىنكى سۈرەت"
+
+msgid "Next month"
+msgstr "كېيىنكى ئاي"
+
+msgid "Next Page"
+msgstr "كېيىنكى بەت"
+
+msgid "Next Tab"
+msgstr "كېيىنكى بەتكۈچ"
+
+msgid "Next Track"
+msgstr "كېيىنكى نەغمە"
+
+msgid "Nicaragua"
+msgstr "نىكاراگۇئا"
+
+msgid "Nickname"
+msgstr "تەخەللۇس"
+
+msgid "Niger"
+msgstr "نېگىر"
+
+msgid "Nigeria"
+msgstr "نىگېرىيە"
+
+msgid "Night"
+msgstr "كېچە"
+
+msgid "No"
+msgstr "ياق"
+
+msgid "no"
+msgstr "ياق"
+
+msgid "_No"
+msgstr "ياق(_N)"
+
+msgid "No."
+msgstr ""
+
+msgid "No description available"
+msgstr "چۈشەندۈرۈشى يوق"
+
+msgid "No devices found"
+msgstr "ھېچقانداق ئۈسكۈنە تېپىلمىدى"
+
+msgid "No error"
+msgstr "خاتالىق يوق"
+
+msgid "No file selected"
+msgstr "ھۆججەت تاللانمىغان"
+
+msgid "No filter"
+msgstr "سۈزگۈچ يوق"
+
+msgid "No Limit"
+msgstr "چەكلىمە يوق"
+
+msgid "No matches"
+msgstr "ماس كەلگىنى يوق"
+
+msgid "No Name"
+msgstr ""
+
+msgid "No name"
+msgstr "ئاتسىز"
+
+msgid "No network connection"
+msgstr "تور باغلىنىشى يوق"
+
+msgid "No results"
+msgstr "نەتىجە يوق"
+
+msgid "No Results Found"
+msgstr "ھېچقانداق نەتىجە تېپىلمىدى"
+
+msgid "No results found"
+msgstr "نەتىجە يوق"
+
+msgid "No search results"
+msgstr ""
+
+msgid "No selection"
+msgstr "تاللانمىدى"
+
+msgid "No Subject"
+msgstr "تېما يوق"
+
+msgid "No VPN configuration options."
+msgstr ""
+
+msgid "Noise"
+msgstr "شاۋقۇن"
+
+msgid "None"
+msgstr "يوق"
+
+msgid "none"
+msgstr "يوق"
+
+msgid "&None"
+msgstr "يوق(&N)"
+
+msgid "_None"
+msgstr ""
+
+msgid "(None)"
+msgstr "(يوق)"
+
+msgid "(none)"
+msgstr "(يوق)"
+
+msgid "Nordic"
+msgstr "شىمالىي ياۋروپا"
+
+msgid "Normal"
+msgstr "ئادەتتىكى"
+
+msgid "_Normal Size"
+msgstr "ئادەتتىكى چوڭلۇقى(_N)"
+
+msgid "Normalize"
+msgstr "نورماللاشتۇرۇش"
+
+msgid "North"
+msgstr "شىمال"
+
+msgid "North America"
+msgstr "شىمالىي ئامېرىكا"
+
+msgid "Norway"
+msgstr "نورۋېگىيە"
+
+msgid "Norwegian"
+msgstr "نورۋىگىيەچە"
+
+msgid "Not a launchable item"
+msgstr "ئىجراچان تۈر ئەمەس"
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr ""
+
+msgid "Not Available"
+msgstr "ئىشلەتكىلى بولمايدۇ"
+
+msgid "Not available"
+msgstr "ئىشلەتكىلى بولمايدۇ"
+
+msgid "not available"
+msgstr "ئىشلەتكىلى بولمايدۇ"
+
+msgid "Not Connected"
+msgstr "باغلانمىغان"
+
+msgid "Not connected"
+msgstr "باغلانمىغان"
+
+msgid "Not defined"
+msgstr "ئېنىقلىما بېرىلمىگەن"
+
+msgid "Not found"
+msgstr "تېپىلمىدى"
+
+msgid "Not implemented"
+msgstr "ئەمەلىيلەشتۈرۈلمىگەن"
+
+msgid "Not running"
+msgstr "ئىجرا قىلىنمايۋاتىدۇ"
+
+msgid "Not supported"
+msgstr "قوللىمايدۇ"
+
+msgid "Note"
+msgstr "ئىزاھات"
+
+msgid "Notes"
+msgstr "ئىزاھ"
+
+msgid "Nothing"
+msgstr "يوق"
+
+msgid "Notice"
+msgstr "ئەسكەرتىش"
+
+msgid "Notification"
+msgstr "ئۇقتۇرۇش"
+
+msgid "Notifications"
+msgstr "ئۇقتۇرۇش"
+
+msgid "Noun"
+msgstr "ئىسىم"
+
+msgid "November"
+msgstr "نويابىر"
+
+msgid "Now"
+msgstr "ھازىر"
+
+msgid "now"
+msgstr "ھازىر"
+
+msgid "NT Domain"
+msgstr "NT دائىرە"
+
+msgid "NUMBER"
+msgstr "NUMBER"
+
+msgid "Number"
+msgstr "نومۇرى"
+
+msgid "number"
+msgstr "نومۇر"
+
+msgid "Number of columns"
+msgstr "رەت سانى"
+
+msgid "Numbers"
+msgstr "سانلار"
+
+msgid "Numeric"
+msgstr "سان"
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "نەڭ"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr ""
+
+msgid "Objects"
+msgstr "جىسىم"
+
+msgid "Oblique"
+msgstr "قىيپاش"
+
+msgid "Octal"
+msgstr "سەككىزلىك"
+
+msgid "October"
+msgstr "ئۆكتەبىر"
+
+msgid "Off"
+msgstr "تاقاق"
+
+msgid "off"
+msgstr "چەكلە"
+
+msgid "Office"
+msgstr "ئىشخانا"
+
+msgid "Offline"
+msgstr "تورسىز"
+
+msgid "Offset"
+msgstr "ئېغىش"
+
+msgid "Ogg Vorbis"
+msgstr ""
+
+msgid "OK"
+msgstr "جەزملە"
+
+msgid "Ok"
+msgstr "جەزملە"
+
+msgid "&OK"
+msgstr "جەزملە(&O)"
+
+msgid "_OK"
+msgstr "جەزملە(_O)"
+
+msgid "Okular"
+msgstr "Okular پۈتۈك كۆرگۈچ"
+
+msgid "Oman"
+msgstr "ئومان"
+
+msgid "On"
+msgstr "ئوچۇق"
+
+msgid "on"
+msgstr "قوزغات"
+
+msgid "One"
+msgstr "بىر"
+
+msgid "Online"
+msgstr "توردا"
+
+msgid "Online Accounts"
+msgstr "توردىكى ھېساب"
+
+msgid "Opacity"
+msgstr "غۇۋالىقى"
+
+msgid "Opaque"
+msgstr "تۇتۇق"
+
+msgid "Open"
+msgstr "ئاچ"
+
+msgid "&Open"
+msgstr "ئاچ(&O)"
+
+msgid "_Open"
+msgstr "ئاچ(_O)"
+
+msgid "Open..."
+msgstr "ئاچ…"
+
+msgid "&Open..."
+msgstr "ئاچ(&O)…"
+
+msgid "_Open..."
+msgstr "ئاچ(_O)…"
+
+msgid "Open %1"
+msgstr "%1 نى ئاچ"
+
+msgid "Open a file"
+msgstr "ھۆججەت ئاچىدۇ"
+
+msgid "Open a new tab"
+msgstr "يېڭى بەتكۈچتىن بىرنى ئاچىدۇ"
+
+msgid "Open a new window"
+msgstr "يېڭى كۆزنەكتىن بىرنى ئاچ"
+
+msgid "Open an existing document"
+msgstr "مەۋجۇت پۈتۈكنى ئاچ"
+
+msgid "Open Audio"
+msgstr "ئۈن ئاچ"
+
+msgid "Open Containing Folder"
+msgstr "ئىچىدىكى قىسقۇچنى ئاچ"
+
+msgid "&Open Containing Folder"
+msgstr "ئىچىدىكى قىسقۇچنى ئاچ(&O)"
+
+msgid "Open Document"
+msgstr "پۈتۈك ئاچ"
+
+msgid "Open File"
+msgstr "ھۆججەت ئاچ"
+
+msgid "Open file"
+msgstr "ھۆججەت ئاچ"
+
+msgid "Open Folder"
+msgstr "قىسقۇچ ئاچ"
+
+msgid "Open folder"
+msgstr "قىسقۇچ ئاچ"
+
+msgid "Open Image"
+msgstr "سۈرەت ئاچ"
+
+msgid "Open in Browser"
+msgstr "توركۆرگۈدە ئاچ"
+
+msgid "Open in File Manager"
+msgstr "ھۆججەت باشقۇرغۇچتا ئاچ"
+
+msgid "Open in New Tab"
+msgstr "يېڭى بەتكۈچتە ئاچ"
+
+msgid "Open in New Window"
+msgstr "يېڭى كۆزنەكتە ئاچ"
+
+msgid "Open Link"
+msgstr "ئۇلانما ئاچ"
+
+msgid "_Open Link"
+msgstr "ئۇلانما ئاچ(_O)"
+
+msgid "Open Location"
+msgstr "ئورۇننى ئاچ"
+
+msgid "Open Menu"
+msgstr "تىزىملىك ئاچ"
+
+msgid "Open Project"
+msgstr "قۇرۇلۇش ئاچ"
+
+msgid "Open &Recent"
+msgstr "يېقىنقىنى ئاچ(&R)"
+
+msgid "Open Terminal Here"
+msgstr "بۇ يەردە تېرمىنالنى ئاچ"
+
+msgid "Open URL"
+msgstr "URL ئاچ"
+
+msgid "Open Video"
+msgstr "سىن ئاچ"
+
+msgid "Open With"
+msgstr "ئاچقۇز"
+
+msgid "Open with"
+msgstr ""
+
+msgid "&Open With"
+msgstr "ئاچقۇز(&O)"
+
+msgid "Open With..."
+msgstr "ئاچقۇز…"
+
+msgid "Open &with %1"
+msgstr "%1 دا ئاچ(&O)"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "ھۆججەتلەرنى ئېچىۋاتىدۇ…"
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap ئوچۇق كوچا خەرىتىسى"
+
+msgid "Opera"
+msgstr ""
+
+msgid "Operation"
+msgstr "مەشغۇلات"
+
+msgid "Operation was cancelled"
+msgstr "مەشغۇلات بىكار قىلىندى"
+
+msgid "Operations"
+msgstr "ھېسابلا"
+
+msgid "Operator"
+msgstr "ئەمەل بەلگىسى"
+
+msgid "Optical Character Recognition"
+msgstr "ئوپتىكىلىق يېزىق تونۇش"
+
+msgid "Optimize"
+msgstr "ئەلالاشتۇر"
+
+msgid "Option"
+msgstr "تاللانما"
+
+msgid "Optional"
+msgstr "تاللاشچان"
+
+msgid "Options"
+msgstr "تاللانما"
+
+msgid "&Options"
+msgstr "تاللانما(&O)"
+
+msgid "OR"
+msgstr "ياكى"
+
+msgid "Or"
+msgstr "ياكى"
+
+msgid "or"
+msgstr "ياكى"
+
+msgid "Orange"
+msgstr "قىزغۇچ سېرىق"
+
+msgid "Order"
+msgstr "تەرتىپلە"
+
+msgid "Organization"
+msgstr "تەشكىل"
+
+msgid "Orientation"
+msgstr "يۆنىلىش"
+
+msgid "Origin"
+msgstr "مەنبە"
+
+msgid "Original"
+msgstr "ئەسلى"
+
+msgid "Original Author"
+msgstr "ئەسلى يازغۇچى"
+
+msgid "Original author"
+msgstr "ئەسلى يازغۇچى"
+
+msgid "Original Size"
+msgstr "ئەسلى چوڭلۇقى"
+
+msgid "Oriya"
+msgstr "ئورىياچە"
+
+msgid "Other"
+msgstr "باشقا"
+
+msgid "other"
+msgstr ""
+
+msgid "Other..."
+msgstr "باشقا…"
+
+msgid "Other Application..."
+msgstr "باشقا پىروگرامما..."
+
+msgid "Other Options"
+msgstr "باشقا تاللانما"
+
+msgid "Others"
+msgstr "باشقا"
+
+msgid "Out"
+msgstr "سىرتى"
+
+msgid "Out of memory"
+msgstr "ئەسلەك يېتىشمىدى"
+
+msgid "Outgoing"
+msgstr "چىقىۋاتىدۇ"
+
+msgid "Outline"
+msgstr "ئىزنا"
+
+msgid "Output"
+msgstr "چىقار"
+
+msgid "Overlay"
+msgstr "دەستىلە"
+
+msgid "Overview"
+msgstr "ئىخچام كۆرۈنۈش"
+
+msgid "Overwrite"
+msgstr "قاپلا"
+
+msgid "Overwrite File?"
+msgstr "ھۆججەت قاپلامسىز؟"
+
+msgid "Owner"
+msgstr "ئىگىدار"
+
+msgid "Ownership"
+msgstr "ئىگىدارلىق"
+
+msgid "Oxygen"
+msgstr "ئوكسىگېن"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "بوغچا"
+
+msgid "Padding"
+msgstr "يان ئارىلىقى"
+
+msgid "Page"
+msgstr "بەت"
+
+msgid "page"
+msgstr "بەت"
+
+msgid "Page %1"
+msgstr "%1 -بەت"
+
+msgid "Page %1 of %2"
+msgstr "بەت %1 / %2"
+
+msgid "Page Break"
+msgstr "بەت ئايرىش بەلگىسى"
+
+msgid "Page Count"
+msgstr "بەت سانى"
+
+msgid "Page Number"
+msgstr "بەت نومۇرى"
+
+msgid "Page Setup"
+msgstr "بەت تەڭشەك"
+
+msgid "Pager"
+msgstr "چاقىرغۇ"
+
+msgid "Pages"
+msgstr "بەت"
+
+msgid "Paint"
+msgstr "سىزمىچىلىق"
+
+msgid "Pair"
+msgstr "جۈپلە"
+
+msgid "Pakistan"
+msgstr "پاكىستان"
+
+msgid "Palau"
+msgstr "پالاۋ"
+
+msgid "Palette"
+msgstr "رەڭ تاختىسى"
+
+msgid "Panama"
+msgstr "پاناما"
+
+msgid "Panel"
+msgstr "كۆزنەكچە"
+
+msgid "Panels"
+msgstr "كۆزنەكچە"
+
+msgid "&Panels"
+msgstr "تاختايلار(&P)"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr ""
+
+msgid "Paper Size"
+msgstr "قەغەز چوڭلۇقى"
+
+msgid "Papua New Guinea"
+msgstr "پاپۇئا يېڭى گىۋىنېيەسى"
+
+msgid "Paragraph"
+msgstr "ئابزاس"
+
+msgid "Paraguay"
+msgstr "پاراگۋاي"
+
+msgid "Parallel"
+msgstr "پاراللېل"
+
+msgid "Parameter"
+msgstr "پارامېتىر"
+
+msgid "Parameters"
+msgstr "پارامېتىر"
+
+msgid "Parent"
+msgstr "ئاتا"
+
+msgid "Partition"
+msgstr "رايون"
+
+msgid "Password"
+msgstr "ئىم"
+
+msgid "password"
+msgstr "ئىم"
+
+msgid "&Password"
+msgstr "ئىم(&P)"
+
+msgid "_Password"
+msgstr "ئىم(_P)"
+
+msgid "Password..."
+msgstr "ئىم…"
+
+msgid "Passwords"
+msgstr "ئىم"
+
+msgid "Paste"
+msgstr "چاپلا"
+
+msgid "&Paste"
+msgstr "چاپلا(&P)"
+
+msgid "_Paste"
+msgstr "چاپلا(_P)"
+
+msgid "Path"
+msgstr "يول"
+
+msgid "path"
+msgstr "يول"
+
+msgid "Paths"
+msgstr "يول"
+
+msgid "Pattern"
+msgstr "ئەندىزە"
+
+msgid "Patterns"
+msgstr "ئەندىزە"
+
+msgid "Pause"
+msgstr "ۋاقىتلىق توختا"
+
+msgid "&Pause"
+msgstr "ۋاقىتلىق توختا(&P)"
+
+msgid "Pause playback"
+msgstr "ۋاقىتلىق توختات"
+
+msgid "PAUSED"
+msgstr "ۋاقىتلىق توختىتىلدى"
+
+msgid "Paused"
+msgstr "ۋاقىتلىق توختىدى"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr ""
+
+msgid "Peek at Desktop"
+msgstr "ئۈستەلئۈستى كۆرسەت"
+
+msgid "Pencil"
+msgstr "قەلەم"
+
+msgid "Pending"
+msgstr "كۈتۈۋاتىدۇ"
+
+msgid "Pentagon"
+msgstr "بەش تەرەپلىك"
+
+msgid "People"
+msgstr "كىشى"
+
+msgid "Percent"
+msgstr "پىرسەنت"
+
+msgid "Percentage"
+msgstr "پىرسەنت"
+
+msgid "Perceptual"
+msgstr "سەزگۈ"
+
+msgid "Performance"
+msgstr "ئۈنۈم"
+
+msgid "Period"
+msgstr "مەزگىل"
+
+msgid "Permission denied"
+msgstr "ھوقۇقىڭىز يەتمىدى"
+
+msgid "Permissions"
+msgstr "ئىجازەت"
+
+msgid "Persian"
+msgstr "پارىسچە"
+
+msgid "Person"
+msgstr "كىشى"
+
+msgid "Personal"
+msgstr "شەخسىي"
+
+msgid "Personal Information"
+msgstr "شەخسىي ئۇچۇر"
+
+msgid "Peru"
+msgstr "پېرۇ"
+
+msgid "Phase"
+msgstr "باسقۇچ"
+
+msgid "Philippines"
+msgstr "فىلىپپىن"
+
+msgid "Phone"
+msgstr "تېلېفون"
+
+msgid "Photo"
+msgstr "سۈرەت"
+
+msgid "PHP Documentation"
+msgstr "PHP پۈتۈكى"
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "رەڭ ئال"
+
+msgid "Picture"
+msgstr "رەسىم"
+
+msgid "Pictures"
+msgstr "رەسىم"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr "دۈگىلەك دىئاگرامما"
+
+msgid "Pin"
+msgstr "مۇقىم"
+
+msgid "Pino Toscano"
+msgstr ""
+
+msgid "Pixels"
+msgstr "پىكسېل"
+
+msgid "pixels"
+msgstr "پىكسېل"
+
+msgid "Placement"
+msgstr "ئورۇنلاشتۇرۇش"
+
+msgid "Places"
+msgstr "ئورۇن"
+
+msgid "Plain"
+msgstr "تەكشىلىك"
+
+msgid "Plain Text"
+msgstr "ساپ تېكىست"
+
+msgid "Plan"
+msgstr ""
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Platform"
+msgstr "سۇپا"
+
+msgid "Play"
+msgstr "ياڭرات"
+
+msgid "Play Next"
+msgstr "كېيىنكىنى ياڭرات"
+
+msgid "Play Sounds"
+msgstr ""
+
+msgid "Playback"
+msgstr "ياڭرات"
+
+msgid "Player"
+msgstr "قويغۇچ"
+
+msgid "Player %1"
+msgstr "ئوينىغۇچى %1"
+
+msgid "Players"
+msgstr "ئوينىغۇچى"
+
+msgid "Playground"
+msgstr ""
+
+msgid "Playing"
+msgstr "قويۇۋاتىدۇ"
+
+msgid "Playlist"
+msgstr "قويۇش تىزىمى"
+
+msgid "Playlists"
+msgstr "قويۇش تىزىمى"
+
+msgid "Play/Pause"
+msgstr "ياڭرات/ۋاقىتلىق توختا"
+
+msgid "Please choose a file"
+msgstr "بىر ھۆججەت تاللاڭ"
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Please wait..."
+msgstr "سەل كۈتۈڭ…"
+
+msgid "Plot"
+msgstr "سىزمىچىلىق"
+
+msgid "Plots"
+msgstr ""
+
+msgid "Plugin"
+msgstr "قىستۇرما"
+
+msgid "Plugins"
+msgstr "قىستۇرما"
+
+msgid "PM"
+msgstr "چ ك"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "نۇقتا"
+
+msgid "Pointers"
+msgstr "نىشانلىغۇچ"
+
+msgid "Points"
+msgstr "نۇقتا"
+
+msgid "points"
+msgstr "نۇقتا"
+
+msgid "Poland"
+msgstr "پولشا"
+
+msgid "Policy"
+msgstr "تۈزۈم"
+
+msgid "Polish"
+msgstr "پولەكچە"
+
+msgid "Polygon"
+msgstr "كۆپ تەرەپلىك"
+
+msgid "Pop"
+msgstr "پوپ"
+
+msgid "Port"
+msgstr "ئېغىز"
+
+msgid "&Port"
+msgstr "ئېغىز(&P)"
+
+msgid "Portrait"
+msgstr "بويىغا"
+
+msgid "Portugal"
+msgstr "پورتۇگالىيە"
+
+msgid "Portuguese"
+msgstr "پورتۇگالچە"
+
+msgid "Position"
+msgstr "ئورنى"
+
+msgid "Posterize"
+msgstr "رەڭ تۈسى ئايرى"
+
+msgid "PostScript"
+msgstr ""
+
+msgid "Power"
+msgstr "توك مەنبە"
+
+msgid "Power Management"
+msgstr "توك مەنبە باشقۇرۇش"
+
+msgid "Precision"
+msgstr "ئېنىقلىقى"
+
+msgid "Preferences"
+msgstr "مايىللىق"
+
+msgid "_Preferences"
+msgstr "مايىللىق(_P)"
+
+msgid "Prefix"
+msgstr "ئالدى قوشۇلغۇچى"
+
+msgid "Presentation"
+msgstr "كۆرسەتمە"
+
+msgid "Preset"
+msgstr "ئەسلىگە قايتۇرۇش"
+
+msgid "Presets"
+msgstr "ئالدىن تەڭشەش"
+
+msgid "Pressure"
+msgstr "بېسىم"
+
+msgid "Preview"
+msgstr "ئالدىن كۆزەت"
+
+msgid "&Preview"
+msgstr "ئالدىن كۆزەت(&P)"
+
+msgid "Previews"
+msgstr "ئالدىن كۆزەت"
+
+msgid "Previous"
+msgstr "ئالدىنقى"
+
+msgid "&Previous"
+msgstr "ئالدىنقى(&P)"
+
+msgid "_Previous"
+msgstr "ئالدىنقى(_P)"
+
+msgid "Previous Image"
+msgstr "ئالدىنقى رەسىم"
+
+msgid "Previous month"
+msgstr "ئالدىنقى ئاي"
+
+msgid "Previous Page"
+msgstr "ئالدىنقى بەت"
+
+msgid "Previous Tab"
+msgstr "ئالدىنقى بەتكۈچ"
+
+msgid "Previous Track"
+msgstr "ئالدىنقى نەغمە"
+
+msgid "Price"
+msgstr "باھاسى"
+
+msgid "Primary"
+msgstr "ئاساسىي"
+
+msgid "Print"
+msgstr "باس"
+
+msgid "_Print"
+msgstr "باس(_P)"
+
+msgid "Print..."
+msgstr "باس…"
+
+msgid "&Print..."
+msgstr "باس(&P)…"
+
+msgid "_Print..."
+msgstr "باس(_P)…"
+
+msgid "Print Image"
+msgstr "سۈرەتنى بېسىپ چىقار"
+
+msgid "Print Preview"
+msgstr "بېسىشنى ئالدىن كۆزەت"
+
+msgid "Print version"
+msgstr "نەشرىنى باس"
+
+msgid "Print version information and exit"
+msgstr "نەشر ئۇچۇرىنى بېسىپ چېكىنىدۇ"
+
+msgid "Printer"
+msgstr "باسقۇ"
+
+msgid "Printers"
+msgstr "باسقۇ"
+
+msgid "Printing"
+msgstr "بېسىش"
+
+msgid "Printing..."
+msgstr "بېسىۋاتىدۇ…"
+
+msgid "Priority"
+msgstr "ئالدىنلىق"
+
+msgid "Privacy"
+msgstr "شەخسىيەت"
+
+msgid "Private"
+msgstr "شەخسىي"
+
+msgid "Process"
+msgstr "ئىجرا"
+
+msgid "Processor"
+msgstr "بىر تەرەپ قىلغۇچ"
+
+msgid "Producer"
+msgstr "فىلىم ئىشلىگۈچى"
+
+msgid "Product"
+msgstr "مەھسۇلات"
+
+msgid "Profession"
+msgstr "كەسىپ"
+
+msgid "Profile"
+msgstr "سەپلىمە ھۆججەت"
+
+msgid "Profile name"
+msgstr "سەپلىمە ھۆججەت ئاتى"
+
+msgid "Profiles"
+msgstr "سەپلىمە ھۆججەت"
+
+msgid "Program"
+msgstr "پىروگرامما"
+
+msgid "Progress"
+msgstr "سۈرئەت"
+
+msgid "Project"
+msgstr "قۇرۇلۇش"
+
+msgid "&Project"
+msgstr "قۇرۇلۇش(&P)"
+
+msgid "Projects"
+msgstr "قۇرۇلۇش"
+
+msgid "Properties"
+msgstr "خاسلىق"
+
+msgid "&Properties"
+msgstr "خاسلىق(&P)"
+
+msgid "_Properties"
+msgstr "خاسلىق(_P)"
+
+msgid "Properties..."
+msgstr "خاسلىق…"
+
+msgid "&Properties..."
+msgstr "خاسلىق(&P)…"
+
+msgid "Property"
+msgstr "خاسلىق"
+
+msgid "property “%s” invalid or not supported"
+msgstr ""
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr ""
+
+msgid "Proportional"
+msgstr "ئوڭ تاناسىپ"
+
+msgid "Protected"
+msgstr "قوغدالغان"
+
+msgid "Protocol"
+msgstr "كېلىشىم"
+
+msgid "Provider"
+msgstr "تەمىنلىگۈچى"
+
+msgid "Proxy"
+msgstr "ۋاكالەتچى"
+
+msgid "Proxy Settings"
+msgstr "ۋاكالەتچى تەڭشەك"
+
+msgid "Public"
+msgstr "ئاممىۋى"
+
+msgid "Public Key"
+msgstr "ئاممىۋى شىفىرلىق ئاچقۇچ"
+
+msgid "Publisher"
+msgstr "تارقاتقۇچى"
+
+msgid "Publishing"
+msgstr "تارقىتىش"
+
+msgid "Puerto Rico"
+msgstr "پۇئېرتو-رىكو"
+
+msgid "Punjabi"
+msgstr "پەنجابچە"
+
+msgid "Push"
+msgstr "ئىتتەر"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr ""
+
+msgid "Qatar"
+msgstr "قاتار"
+
+msgid "QR Code"
+msgstr "QR كودى"
+
+msgid "Qt"
+msgstr ""
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+
+msgid "Quality"
+msgstr "سۈپەت"
+
+msgid "Quebec"
+msgstr "كىۋېبېك"
+
+msgid "Query"
+msgstr "سۈرۈشتۈر"
+
+msgid "Question"
+msgstr "سوئال"
+
+msgid "Queue"
+msgstr "قاتار"
+
+msgid "Queued"
+msgstr "ئۆچىرەت"
+
+msgid "Quit"
+msgstr "چىكىن"
+
+msgid "&Quit"
+msgstr "چېكىن(&Q)"
+
+msgid "_Quit"
+msgstr "ئاخىرلاشتۇر(_Q)"
+
+msgid "Quit application"
+msgstr "پىروگراممىدىن چېكىنىدۇ"
+
+msgid "Quit the application"
+msgstr "پىروگراممىنى ئاخىرلاشتۇر"
+
+msgid "Quits the application"
+msgstr "پىروگراممىنى ئاخىرلاشتۇرىدۇ"
+
+msgid "Quote"
+msgstr "نەقىل"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "رادىئال"
+
+msgid "Radio"
+msgstr "رادىيو"
+
+msgid "Radius"
+msgstr "رادىئۇس"
+
+msgid "Raise"
+msgstr "ئۆرلەت"
+
+msgid "Random"
+msgstr "ئىختىيارىي"
+
+msgid "Range"
+msgstr "دائىرە"
+
+msgid "Rank"
+msgstr ""
+
+msgid "Rate"
+msgstr "نىسبىتى"
+
+msgid "Rating"
+msgstr "باھالاش"
+
+msgid "Raw"
+msgstr "ئەسلى"
+
+msgid "Read"
+msgstr "ئوقۇلغان"
+
+msgid "Read error"
+msgstr "ئوقۇش خاتالىقى"
+
+msgid "Read Only"
+msgstr "ئوقۇشقىلا بولىدىغان"
+
+msgid "Read only"
+msgstr "ئوقۇشقىلا"
+
+msgid "Reading"
+msgstr "ئوقۇش"
+
+msgid "read-only"
+msgstr "ئوقۇشقىلا بولىدۇ"
+
+msgid "Ready"
+msgstr "تەييار"
+
+msgid "Ready."
+msgstr "تەييار."
+
+msgid "Reason"
+msgstr "سەۋەب"
+
+msgid "Reassign"
+msgstr "قايتا تەقسىملە"
+
+msgid "Recent"
+msgstr "يېقىنقى"
+
+msgid "Recent Documents"
+msgstr "يېقىنقى پۈتۈك"
+
+msgid "Recent Files"
+msgstr "يېقىنقى ھۆججەت"
+
+msgid "Recent files"
+msgstr "يېقىنقى ھۆججەت"
+
+msgid "Record"
+msgstr "خاتىرە"
+
+msgid "Recording"
+msgstr ""
+
+msgid "Rectangle"
+msgstr "تىك تۆت بۇلۇڭ"
+
+msgid "Recursive"
+msgstr "قايتىلانما"
+
+msgid "Red"
+msgstr "قىزىل"
+
+msgid "red"
+msgstr "قىزىل"
+
+msgid "Redo"
+msgstr "قايتىلا"
+
+msgid "&Redo"
+msgstr "قايتىلا(&R)"
+
+msgid "_Redo"
+msgstr ""
+
+msgid "Re&do"
+msgstr "قايتىلا(&D)"
+
+msgid "Redo %1"
+msgstr "قايتىلا %1"
+
+msgid "Reference"
+msgstr "نەقىل"
+
+msgid "References"
+msgstr "نەقىل"
+
+msgid "Refresh"
+msgstr "يېڭىلا"
+
+msgid "_Refresh"
+msgstr "يېڭىلا(_R)"
+
+msgid "Reggae"
+msgstr "رېگگا"
+
+msgid "Region"
+msgstr "رايون"
+
+msgid "Register"
+msgstr ""
+
+msgid "Regular"
+msgstr "ئۆلچەملىك"
+
+msgid "Regular Expression"
+msgstr "مۇنتىزىم ئىپادە"
+
+msgid "Regular expression"
+msgstr "مۇنتىزىم ئىپادە"
+
+msgid "Reject"
+msgstr "رەت قىل"
+
+msgid "Relative"
+msgstr "نىسپىي"
+
+msgid "Reload"
+msgstr "قايتا يۈكلە"
+
+msgid "&Reload"
+msgstr "قايتا يۈكلە(&R)"
+
+msgid "_Reload"
+msgstr "قايتا يۈكلە(_R)"
+
+msgid "Reminders"
+msgstr "ئەسكەرتكۈچ"
+
+msgid "Remote"
+msgstr "يىراقتىكى"
+
+msgid "Removable"
+msgstr "كۆچمە"
+
+msgid "Remove"
+msgstr "چىقىرىۋەت"
+
+msgid "&Remove"
+msgstr "چىقىرىۋەت(&R)"
+
+msgid "_Remove"
+msgstr "چىقىرىۋەت(_R)"
+
+msgid "R&emove"
+msgstr "چىقىرىۋەت(&E)"
+
+msgid "Re&move"
+msgstr "چىقىرىۋەت(&M)"
+
+msgid "Remove..."
+msgstr "چىقىرىۋەت…"
+
+msgid "Remove %1"
+msgstr "%1 نى چىقىرىۋەت"
+
+msgid "Remove Account"
+msgstr ""
+
+msgid "Remove All"
+msgstr "ھەممىنى چىقىرىۋەت"
+
+msgid "Remove Bookmark"
+msgstr "خەتكۈش چىقىرىۋەت"
+
+msgid "Remove Folder"
+msgstr "قىسقۇچ چىقىرىۋەت"
+
+msgid "Remove from Favorites"
+msgstr "يىغقۇچتىن چىقىرىۋەت"
+
+msgid "_Remove from Toolbar"
+msgstr "قورال بالداقتىن چىقىرىۋەت(_R)"
+
+msgid "Remove Group"
+msgstr "گۇرۇپپىنى چىقىرىۋەت"
+
+msgid "Remove Rule"
+msgstr "قائىدىنى چىقىرىۋەت"
+
+msgid "Remove the selected item from the toolbar"
+msgstr "تاللىغان تۈرنى قورال بالداقتىن چىقىرىۋېتىدۇ"
+
+msgid "Remove the selected toolbar"
+msgstr "تاللانغان قورال بالداقنى چىقىرىۋېتىدۇ"
+
+msgid "Rename"
+msgstr "ئات ئۆزگەرت"
+
+msgid "&Rename"
+msgstr "ئات ئۆزگەرت(&R)"
+
+msgid "_Rename"
+msgstr "ئات ئۆزگەرت(_R)"
+
+msgid "Rename..."
+msgstr "ئات ئۆزگەرت…"
+
+msgid "&Rename..."
+msgstr "ئات ئۆزگەرت(&R)…"
+
+msgid "Rename Bookmark"
+msgstr "خەتكۈش ئاتىنى ئۆزگەرت"
+
+msgid "Rename File"
+msgstr "ھۆججەت ئاتىنى ئۆزگەرت"
+
+msgid "Repeat"
+msgstr "قايتىلا"
+
+msgid "Replace"
+msgstr "ئالماشتۇر"
+
+msgid "&Replace"
+msgstr "ئالماشتۇر(&R)"
+
+msgid "_Replace"
+msgstr "ئالماشتۇر(_R)"
+
+msgid "Replace All"
+msgstr "ھەممىنى ئالماشتۇر"
+
+msgid "Replace _All"
+msgstr "ھەممىنى ئالماشتۇر(_A)"
+
+msgid "Replace an existing instance"
+msgstr "مەۋجۇت ئۈلگىنى ئالماشتۇر"
+
+msgid "Replacement"
+msgstr "ئالماشتۇرۇش"
+
+msgid "Reply"
+msgstr "جاۋاب قايتۇر"
+
+msgid "Report"
+msgstr "دوكلات"
+
+msgid "Report a bug"
+msgstr "كەمتۈك مەلۇم قىل"
+
+msgid "Report Bug"
+msgstr "كەمتۈك مەلۇم قىل"
+
+msgid "Report Bug..."
+msgstr "كەمتۈك مەلۇم قىل…"
+
+msgid "&Report Bug..."
+msgstr "كەمتۈك مەلۇم قىل(&R)…"
+
+msgid "Reports"
+msgstr "دوكلات"
+
+msgid "Required"
+msgstr "تەلەپ"
+
+msgid "Rescan"
+msgstr "قايتا تەكشۈر"
+
+msgid "Resend"
+msgstr "قايتا يوللا"
+
+msgid "Reset"
+msgstr "ئەسلىگە قايتۇر"
+
+msgid "&Reset"
+msgstr "ئەسلىگە قايتۇر(&R)"
+
+msgid "_Reset"
+msgstr "ئەسلىگە قايتۇر(_R)"
+
+msgid "Reset to Default"
+msgstr ""
+
+msgid "Reset to default"
+msgstr "كۆڭۈلدىكىگە قايتۇر"
+
+msgid "Reset Zoom"
+msgstr "چوڭلۇقىنى ئەسلىگە قايتۇر"
+
+msgid "Resize"
+msgstr "چوڭلۇقىنى ئۆزگەرت"
+
+msgid "_Resize"
+msgstr "چوڭلۇقىنى ئۆزگەرت(_R)"
+
+msgid "Resize Image"
+msgstr "سۈرەت چوڭلۇقىنى ئۆزگەرت"
+
+msgid "Resolution"
+msgstr "ئېنىقلىق"
+
+msgid "Resource"
+msgstr "مەنبە"
+
+msgid "Resources"
+msgstr "مەنبەلەر"
+
+msgid "Restart"
+msgstr "قايتا قوزغات"
+
+msgid "Restore"
+msgstr "ئەسلىگە كەلتۈر"
+
+msgid "Restore Session"
+msgstr "جەريانچاقنى ئەسلىگە كەلتۈر"
+
+msgid "Result"
+msgstr "نەتىجە"
+
+msgid "Results"
+msgstr "نەتىجە"
+
+msgid "Resume"
+msgstr "داۋاملاشتۇر"
+
+msgid "&Resume"
+msgstr "داۋاملاشتۇر(&R)"
+
+msgid "Retry"
+msgstr "قايتا سىنا"
+
+msgid "Return"
+msgstr ""
+
+msgid "Reverse"
+msgstr "ئەكسىچە"
+
+msgid "Revert"
+msgstr "ئەسلىگە ياندۇر"
+
+msgid "_Revert"
+msgstr ""
+
+msgid "Review"
+msgstr "تەكشۈر"
+
+msgid "Revision"
+msgstr "تۈزىتىلمە"
+
+msgid "Revoked"
+msgstr "بىكار قىلىنغان"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "ئوڭ"
+
+msgid "right"
+msgstr "ئوڭ"
+
+msgid "&Right"
+msgstr "ئوڭ(&R)"
+
+msgid "_Right"
+msgstr ""
+
+msgid "Right to Left"
+msgstr "ئوڭدىن سولغا"
+
+msgid "Right-click"
+msgstr "ئوڭ چېكىش"
+
+msgid "River"
+msgstr "دەريا"
+
+msgid "RKWard Team"
+msgstr ""
+
+msgid "Rock"
+msgstr "تولغىما ئۇسسۇل"
+
+msgid "Role"
+msgstr "رول"
+
+msgid "Roman"
+msgstr "رىم"
+
+msgid "Romania"
+msgstr "رۇمىنىيە"
+
+msgid "Romanian"
+msgstr "رۇمىنچە"
+
+msgid "Room"
+msgstr ""
+
+msgid "Root"
+msgstr "غول مۇندەرىجە"
+
+msgid "Rotate"
+msgstr "چۆرگىلەت"
+
+msgid "Rotate Left"
+msgstr "سولغا ئايلاندۇر"
+
+msgid "Rotate Right"
+msgstr "ئوڭغا ئايلاندۇر"
+
+msgid "Rotation"
+msgstr "ئايلاندۇر"
+
+msgid "Round"
+msgstr ""
+
+msgid "Row"
+msgstr "قۇر"
+
+msgid "Rows"
+msgstr "قۇرلار"
+
+msgid "rows"
+msgstr "قۇرلار"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "تۈزۈملەر"
+
+msgid "Run"
+msgstr "ئىجرا قىل"
+
+msgid "&Run"
+msgstr "ئىجرا قىل(&R)"
+
+msgid "Run in terminal"
+msgstr "تېرمىنالدا ئىجرا قىل"
+
+msgid "Running"
+msgstr "ئىجرا قىلىنىۋاتىدۇ"
+
+msgid "Russia"
+msgstr "رۇسىيە"
+
+msgid "Russian"
+msgstr "رۇسچە"
+
+msgid "Rwanda"
+msgstr "رىۋاندا"
+
+msgid "S"
+msgstr "جەنۇب"
+
+msgid "s"
+msgstr "s"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "%s خاسلىقى"
+
+msgid "%s, %s"
+msgstr "%s، %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "ساموئا"
+
+msgid "Sample"
+msgstr "ئۈلگە"
+
+msgid "Sample Rate"
+msgstr "ئەۋرىشكە نىسبىتى"
+
+msgid "Sample rate"
+msgstr "ئەۋرىشكە ئېلىش نىسبىتى"
+
+msgid "Samples"
+msgstr "مىسال"
+
+msgid "San Marino"
+msgstr "سان-مارىنو"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Satellite"
+msgstr "سۈنئىي ھەمراھ"
+
+msgid "Saturation"
+msgstr "تويۇنۇش"
+
+msgid "Saturday"
+msgstr "شەنبە"
+
+msgid "Saudi Arabia"
+msgstr "سەئۇدى ئەرەبىستان"
+
+msgid "Save"
+msgstr "ساقلا"
+
+msgid "&Save"
+msgstr "ساقلا(&S)"
+
+msgid "_Save"
+msgstr "ساقلا(_S)"
+
+msgid "Save..."
+msgstr "ساقلاش…"
+
+msgid "Save All"
+msgstr "ھەممىنى ساقلا"
+
+msgid "Save As"
+msgstr "باشقا ئاتتا ساقلا"
+
+msgid "Save as"
+msgstr "باشقا ئاتتا ساقلا"
+
+msgid "Save _As"
+msgstr "باشقا ئاتتا ساقلا(_A)"
+
+msgid "Save As..."
+msgstr "باشقا ئاتتا ساقلا…"
+
+msgid "Save as..."
+msgstr "باشقا ئاتتا ساقلا…"
+
+msgid "_Save As..."
+msgstr "باشقا ئاتتا ساقلا(_S)…"
+
+msgid "Save &As..."
+msgstr "باشقا ئاتتا ساقلا(&A)…"
+
+msgid "Save _As..."
+msgstr "باشقا ئاتتا ساقلا(_A)…"
+
+msgid "Save Attachment"
+msgstr "قوشۇلمىنى ساقلا"
+
+msgid "Save Changes"
+msgstr "ئۆزگەرتكەننى ساقلا"
+
+msgid "Save Changes?"
+msgstr "ئۆزگىرىشنى ساقلامدۇ؟"
+
+msgid "Save File"
+msgstr "ھۆججەت ساقلا"
+
+msgid "Save file"
+msgstr "ھۆججەت ساقلا"
+
+msgid "Save Game"
+msgstr ""
+
+msgid "Save Image"
+msgstr "سۈرەت ساقلا"
+
+msgid "_Save Image As..."
+msgstr "سۈرەتنى باشقا ئاتتا ساقلا(_S)…"
+
+msgid "Save Project"
+msgstr ""
+
+msgid "Save Session"
+msgstr "جەريانچاقنى ساقلا"
+
+msgid "Save Settings"
+msgstr "ساقلاش تەڭشىكى"
+
+msgid "Saved"
+msgstr "ساقلاندى"
+
+msgid "Saving"
+msgstr "ساقلاۋاتىدۇ"
+
+msgid "Saving..."
+msgstr "ساقلاۋاتىدۇ…"
+
+msgid "Saving file..."
+msgstr "ھۆججەت ساقلاۋاتىدۇ…"
+
+msgid "Scale"
+msgstr "نىسبەت"
+
+msgid "_Scale"
+msgstr "كۆرسىتىش نىسبىتى(_S)"
+
+msgid "Scaled"
+msgstr "كىچىكلەت چوڭايت"
+
+msgid "Scaling"
+msgstr "كۆرسىتىش نىسبىتى"
+
+msgid "Scan"
+msgstr "تارا"
+
+msgid "Scanner"
+msgstr "تارىغۇچ"
+
+msgid "Scanning..."
+msgstr ""
+
+msgid "Schedule"
+msgstr "كۈنتەرتىپ"
+
+msgid "Scheduling"
+msgstr "پىلان"
+
+msgid "Scheme"
+msgstr "نۇسخا"
+
+msgid "School"
+msgstr "مەكتەپ"
+
+msgid "Scientific"
+msgstr "پەن-تېخنىكا"
+
+msgid "Scope"
+msgstr "دائىرە"
+
+msgid "Score"
+msgstr "ئېرىشكەن نومۇر"
+
+msgid "Score: %1"
+msgstr "نومۇرى: %1"
+
+msgid "Screen"
+msgstr "ئېكران"
+
+msgid "Screenshot"
+msgstr "ئېكران كۆرۈنۈشى"
+
+msgid "Screenshots"
+msgstr ""
+
+msgid "Script"
+msgstr "قوليازما"
+
+msgid "Scripting"
+msgstr "قوليازما"
+
+msgid "Scripts"
+msgstr "قوليازما"
+
+msgid "Scroll"
+msgstr "سىيرى"
+
+msgid "Scroll Down"
+msgstr "ئاستىغا سىيرىش"
+
+msgid "Scroll Left"
+msgstr "سولغا سۈر"
+
+msgid "Scroll Right"
+msgstr "ئوڭغا سۈر"
+
+msgid "Scroll Up"
+msgstr "ئۈستىگە سىيرىش"
+
+msgid "Scrolling"
+msgstr "سىيرىش"
+
+msgid "Search"
+msgstr "ئىزدە"
+
+msgid "&Search"
+msgstr "ئىزدە(&S)"
+
+msgid "_Search"
+msgstr "ئىزدە(_S)"
+
+msgid "S&earch"
+msgstr "ئىزدە(&E)"
+
+msgid "Search..."
+msgstr "ئىزدە…"
+
+msgid "Search Bar"
+msgstr "ئىزدەش بالدىقى"
+
+msgid "_Search for"
+msgstr "ئىزدە(_S)"
+
+msgid "Search for '%1' with"
+msgstr "«%1» نى ئىزدەش ئۇسۇلى"
+
+msgid "Search Options"
+msgstr "ئىزدەش تاللانما"
+
+msgid "Search Results"
+msgstr "ئىزدەش نەتىجىسى"
+
+msgid "Search results"
+msgstr "ئىزدەش نەتىجىسى"
+
+msgid "Searching..."
+msgstr "ئىزدەۋاتىدۇ…"
+
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+msgid "Second"
+msgstr "سېكۇنت"
+
+msgid "Seconds"
+msgstr "سېكۇنت"
+
+msgid "seconds"
+msgstr "سېكۇنت"
+
+msgid "Section"
+msgstr ""
+
+msgid "Security"
+msgstr "بىخەتەرلىك"
+
+msgid "Seek"
+msgstr "ئىزدەش"
+
+msgid "Select"
+msgstr "تاللا"
+
+msgid "_Select"
+msgstr "تاللا(_S)"
+
+msgid "Select..."
+msgstr "تاللا…"
+
+msgid "Select All"
+msgstr "ھەممىنى تاللا"
+
+msgid "Select all"
+msgstr "ھەممىنى تاللا"
+
+msgid "&Select All"
+msgstr "ھەممىنى تاللا(&S)"
+
+msgid "_Select All"
+msgstr "ھەممىنى تاللا(_S)"
+
+msgid "Select &All"
+msgstr "ھەممىنى تاللا(&A)"
+
+msgid "Select _All"
+msgstr "ھەممىنى تاللا(_A)"
+
+msgid "Select an authentication mode."
+msgstr "دەلىللەش ھالىتى تاللىنىدۇ."
+
+msgid "Select an image"
+msgstr "سۈرەت تاللا"
+
+msgid "Select Color"
+msgstr "رەڭ تاللا"
+
+msgid "Select Directory"
+msgstr ""
+
+msgid "Select File"
+msgstr "ھۆججەت تاللا"
+
+msgid "Select file"
+msgstr "ھۆججەت تاللا"
+
+msgid "Select Folder"
+msgstr "قىسقۇچ تاللا"
+
+msgid "Select folder"
+msgstr "قىسقۇچ تاللا"
+
+msgid "Select Font"
+msgstr "خەت نۇسخا تاللا"
+
+msgid "Select None"
+msgstr "ھەممىنى تاللىما"
+
+msgid "Select Source"
+msgstr "مەنبە تاللا"
+
+msgid "Selected"
+msgstr "تاللانغان"
+
+msgid "Selection"
+msgstr "تاللاش"
+
+msgid "Selections"
+msgstr "تاللاش"
+
+msgid "Semicolon"
+msgstr "چېكىتلىك پەش"
+
+msgid "Send"
+msgstr "يوللا"
+
+msgid "Send an email to %1"
+msgstr "%1 غا ئېلخەت يوللايدۇ"
+
+msgid "Send File"
+msgstr "ھۆججەت يوللا"
+
+msgid "Send to %1"
+msgstr "%1 غا ئەۋەت"
+
+msgid "Sender"
+msgstr "يوللىغۇچى"
+
+msgid "Senegal"
+msgstr "سېنېگال"
+
+msgid "Sensitivity"
+msgstr "سەزگۈرلۈك"
+
+msgid "Sent"
+msgstr "ئەۋەتكەنلىرى"
+
+msgid "Separator"
+msgstr "ئايرىغۇچ"
+
+msgid "September"
+msgstr "سېنتەبىر"
+
+msgid "Serbia"
+msgstr "سېربىيە-مونتېنېگرو"
+
+msgid "Serbian"
+msgstr "سېربچە"
+
+msgid "Serial Number"
+msgstr "تەرتىپ نومۇرى"
+
+msgid "Serial number"
+msgstr "تەرتىپ نومۇرى"
+
+msgid "Series"
+msgstr "يۈرۈشلۈك"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Server"
+msgstr "مۇلازىمېتىر"
+
+msgid "Server URL"
+msgstr "مۇلازىمېتىر URL"
+
+msgid "Service"
+msgstr "مۇلازىمەت"
+
+msgid "Services"
+msgstr "مۇلازىمەتلەر"
+
+msgid "Session"
+msgstr "جەريانچاق"
+
+msgid "Session management options"
+msgstr "ئەڭگىمە باشقۇرغۇ تاللانمىلىرى"
+
+msgid "Sessions"
+msgstr "جەريانچاق"
+
+msgid "Set"
+msgstr "بەلگىلەش"
+
+msgid "Set as Default"
+msgstr "كۆڭۈلدىكى قىلىپ بەلگىلە"
+
+msgid "Set as default"
+msgstr ""
+
+msgid "Settings"
+msgstr "تەڭشەك"
+
+msgid "&Settings"
+msgstr "تەڭشەك(&S)"
+
+msgid "_Settings"
+msgstr "تەڭشەك(_S)"
+
+msgid "Settings..."
+msgstr "تەڭشەك…"
+
+msgid "Severity"
+msgstr "مۇھىملىقى"
+
+msgid "Seychelles"
+msgstr "سېيشېل"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "سايە"
+
+msgid "Shadow"
+msgstr "سايە"
+
+msgid "Shadows"
+msgstr "سايە"
+
+msgid "Shape"
+msgstr "شەكىل"
+
+msgid "Share"
+msgstr "ھەمبەھىر"
+
+msgid "Share..."
+msgstr "ھەمبەھىر…"
+
+msgid "Shared"
+msgstr ""
+
+msgid "Sharing"
+msgstr "ھەمبەھىر"
+
+msgid "Sharing failed"
+msgstr "ھەمبەھىرلىيەلمىدى"
+
+msgid "Sharpen"
+msgstr "ئۇچلا"
+
+msgid "Sharpness"
+msgstr "ئۆتكۈرلۈك"
+
+msgid "Shear"
+msgstr ""
+
+msgid "Shell"
+msgstr "Shell"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "قىسقا"
+
+msgid "Shortcut"
+msgstr "تېزلەتمە"
+
+msgid "Shortcuts"
+msgstr "تېزلەتمە"
+
+msgid "Show"
+msgstr "كۆرسەت"
+
+msgid "Show All"
+msgstr "ھەممىنى كۆرسەت"
+
+msgid "Show Details"
+msgstr "تەپسىلاتلارنى كۆرسەت"
+
+msgid "Show details"
+msgstr "تەپسىلاتىنى كۆرسەت"
+
+msgid "Show Grid"
+msgstr "شادا كۆرسەت"
+
+msgid "Show grid"
+msgstr "سېتكا كۆرسەت"
+
+msgid "Show Help"
+msgstr "ياردەمنى كۆرسەت"
+
+msgid "Show help"
+msgstr "ياردەمنى كۆرسەت"
+
+msgid "Show Hidden Files"
+msgstr "يوشۇرۇن ھۆججەتنى كۆرسەت"
+
+msgid "Show in folder"
+msgstr ""
+
+msgid "Show legend"
+msgstr ""
+
+msgid "Show Password"
+msgstr "ئىم كۆرسەت"
+
+msgid "Show Preview"
+msgstr "ئالدىن كۆزىتىشنى كۆرسەت"
+
+msgid "Show “_%s”"
+msgstr "«_%s» نى كۆرسەت"
+
+msgid "Show session management options"
+msgstr "ئەڭگىمە باشقۇرغۇ تاللانمىلىرى كۆرسەت"
+
+msgid "Show Shortcuts"
+msgstr "تېزلەتمىنى كۆرسەت"
+
+msgid "Show Status Bar"
+msgstr "ھالەت بالداق كۆرسەت"
+
+msgid "Show St&atusbar"
+msgstr "ھالەت بالدىقىنى كۆرسەت(&A)"
+
+msgid "Show the application's version"
+msgstr "پىروگراممىنىڭ نەشرىنى كۆرسەت"
+
+msgid "Show Toolbar"
+msgstr "قورال بالداقنى كۆرسەت"
+
+msgid "Show toolbar"
+msgstr "قورال بالداق كۆرسەت"
+
+msgid "Show &Toolbar"
+msgstr "قورال بالداق كۆرسەت(&T)"
+
+msgid "Shuffle"
+msgstr "تەرتىپسىز"
+
+msgid "Shut Down"
+msgstr "تاقا"
+
+msgid "Shutdown"
+msgstr "تاقا"
+
+msgid "Side _Pane"
+msgstr "يان كۆزنەكچە(_P)"
+
+msgid "Sidebar"
+msgstr "يان قورال بالداق"
+
+msgid "Sierra Leone"
+msgstr "سېررالېئون"
+
+msgid "Sign"
+msgstr "ئىمزا"
+
+msgid "Signal"
+msgstr "سىگنال"
+
+msgid "Signature"
+msgstr "ئىمزا"
+
+msgid "Simple"
+msgstr "ئاددىي"
+
+msgid "Singapore"
+msgstr "سىنگاپور"
+
+msgid "Single"
+msgstr "يەككە"
+
+msgid "Sinhala"
+msgstr "سىنخالاچە"
+
+msgid "Size"
+msgstr "چوڭلۇقى"
+
+msgid "size"
+msgstr "چوڭلۇقى"
+
+msgid "&Size"
+msgstr "چوڭلۇقى(&S)"
+
+msgid "Size: %1"
+msgstr "چوڭلۇقى: %1"
+
+msgid "Skip"
+msgstr "ئاتلا"
+
+msgid "&Skip"
+msgstr "ئاتلا(&S)"
+
+msgid "_Skip"
+msgstr "ئۆتكۈزۈۋەت(_S)"
+
+msgid "Skip forward"
+msgstr "تېز ئالدىغا ماڭدۇرۇش"
+
+msgid "Sleep"
+msgstr "ئۇخلات"
+
+msgid "Slide"
+msgstr "تام تەسۋىر"
+
+msgid "Slider"
+msgstr "سۈرگۈچ"
+
+msgid "Slideshow"
+msgstr "تام تەسۋىر"
+
+msgid "Slovak"
+msgstr "سىلوۋاكچە"
+
+msgid "Slovenia"
+msgstr "سىلوۋېنىيە"
+
+msgid "Slovenian"
+msgstr "سىلوۋېنىيەچە"
+
+msgid "Slow"
+msgstr "ئاستا"
+
+msgid "Slower"
+msgstr "ئاستىراق"
+
+msgid "Small"
+msgstr "كىچىك"
+
+msgid "Smooth"
+msgstr "سىلىق"
+
+msgid "Smoothing"
+msgstr "سىيلىق"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "قادا"
+
+msgid "Snap to Grid"
+msgstr "سېتكىغا توغرىلا"
+
+msgid "Snow"
+msgstr "قار"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr ""
+
+msgid "Software"
+msgstr "يۇمشاق دېتال"
+
+msgid "Solid"
+msgstr "ئۇيۇل"
+
+msgid "Solid color"
+msgstr "ساپ رەڭ"
+
+msgid "Solomon Islands"
+msgstr "سولومون تاقىم ئاراللىرى"
+
+msgid "Somalia"
+msgstr "سومالى"
+
+msgid "Sort"
+msgstr "تەرتىپلە"
+
+msgid "Sort By"
+msgstr "تەرتىپى"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Sorting"
+msgstr "تەرتىپلەش"
+
+msgid "Sound"
+msgstr "ئاۋاز"
+
+msgid "Soundtrack"
+msgstr "قىستۇرما نەغمە"
+
+msgid "Source"
+msgstr "مەنبە"
+
+msgid "Sources"
+msgstr "مەنبە"
+
+msgid "South"
+msgstr "جەنۇب"
+
+msgid "South Africa"
+msgstr "جەنۇبىي ئافرىقا"
+
+msgid "South European"
+msgstr "جەنۇبى ياۋروپا"
+
+msgid "Space"
+msgstr "بوشلۇق"
+
+msgid "Spacing"
+msgstr "ئارىلىق"
+
+msgid "Spain"
+msgstr "ئىسپانىيە"
+
+msgid "Spam"
+msgstr "سپەم"
+
+msgid "Spanish"
+msgstr "ئىسپانچە"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "ئوقۇ"
+
+msgid "Speak Text"
+msgstr "تېكىستنى ئوقۇ"
+
+msgid "Speaker"
+msgstr "ياڭراتقۇ"
+
+msgid "Special"
+msgstr "ئالاھىدە"
+
+msgid "Special Characters"
+msgstr "ئالاھىدە ھەرپلەر"
+
+msgid "Specials"
+msgstr "ئالاھىدە بەلگە"
+
+msgid "Specify file containing saved configuration"
+msgstr "سەپلىمە ساقلانغان ھۆججەتنى بەلگىلە"
+
+msgid "Specify session management ID"
+msgstr "ئەڭگىمە باشقۇرغۇ ID سېنى بەلگىلە"
+
+msgid "Speed"
+msgstr "سۈرئىتى"
+
+msgid "Spell Check"
+msgstr "ئىملا تەكشۈر"
+
+msgid "Spell Checking"
+msgstr "ئىملا تەكشۈرۈش"
+
+msgid "Spelling"
+msgstr "ئىملا تەكشۈر"
+
+msgid "Spiral"
+msgstr "بۇرمىسىمان"
+
+msgid "Split"
+msgstr "پارچىلا"
+
+msgid "Split View"
+msgstr "كۆرۈنۈشنى بۆل"
+
+msgid "Sports"
+msgstr "تەنتەربىيە"
+
+msgid "Spreadsheet"
+msgstr "ئېلېكترونلۇق جەدۋەل"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "تۆت چاسا"
+
+msgid "Sri Lanka"
+msgstr "سىرىلانكا"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+
+msgid "SSL/TLS"
+msgstr ""
+
+msgid "Stack"
+msgstr "دەستىلە"
+
+msgid "Stacked"
+msgstr "دەستىلەنگەن"
+
+msgid "Standard"
+msgstr "ئۆلچەملىك"
+
+msgid "Standard deviation"
+msgstr "ئۆلچەملىك ئېغىش"
+
+msgid "Star"
+msgstr "يۇلتۇز"
+
+msgid "Start"
+msgstr "باشلا"
+
+msgid "&Start"
+msgstr "باشلا(&S)"
+
+msgid "Start a new game"
+msgstr "يېڭى ئويۇندىن بىرنى باشلا"
+
+msgid "Start Date"
+msgstr "باشلاش چېسلاسى"
+
+msgid "Start date"
+msgstr "باشلاش چېسلاسى"
+
+msgid "Start Presentation"
+msgstr "كۆرسەتمىنى باشلا"
+
+msgid "Start Time"
+msgstr "باشلىنىش ۋاقتى"
+
+msgid "Started"
+msgstr "باشلاندى"
+
+msgid "Starting"
+msgstr "باشلاۋاتىدۇ"
+
+msgid "Starting..."
+msgstr "باشلاۋاتىدۇ…"
+
+msgid "Starting %s"
+msgstr "قوزغىلىۋاتقىنى %s"
+
+msgid "starts with"
+msgstr "باشلىنىشى"
+
+msgid "Startup"
+msgstr "قوزغىلىش"
+
+msgid "Stash"
+msgstr "ۋاقىتلىق ساقلا"
+
+msgid "State"
+msgstr "ھالەت"
+
+msgid "States"
+msgstr "ھالەت"
+
+msgid "Statistics"
+msgstr "ئىستاتىستىكا"
+
+msgid "Status"
+msgstr "ھالىتى"
+
+msgid "Status: %1"
+msgstr "ھالىتى: %1"
+
+msgid "Statusbar"
+msgstr "ھالەت بالداق"
+
+msgid "_Statusbar"
+msgstr "ھالەت بالداق(_S)"
+
+msgid "Step"
+msgstr ""
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr "قەدەم"
+
+msgid "Stereo"
+msgstr "ئىستېرېئو"
+
+msgid "Stop"
+msgstr "توختا"
+
+msgid "&Stop"
+msgstr "توختا(&S)"
+
+msgid "_Stop"
+msgstr "توختا(_S)"
+
+msgid "S&top"
+msgstr "توختا(&T)"
+
+msgid "Stop Recording"
+msgstr "خاتىرىلەشنى توختات"
+
+msgid "Stopped"
+msgstr "توختىدى"
+
+msgid "Storage"
+msgstr "ساقلىغۇچ"
+
+msgid "Store"
+msgstr "ساقلا"
+
+msgid "Stream"
+msgstr "سانلىق مەلۇمات ئېقىمى"
+
+msgid "Street"
+msgstr "كوچا"
+
+msgid "Strength"
+msgstr "كۈچلۈكلۈك"
+
+msgid "Stretch"
+msgstr "سوز"
+
+msgid "Strike Out"
+msgstr "ئۆچۈرۈش سىزىقى"
+
+msgid "Strikethrough"
+msgstr "ئۆچۈرۈش سىزىقى"
+
+msgid "String"
+msgstr "تېكىست"
+
+msgid "string"
+msgstr "تېكىست"
+
+msgid "Strings"
+msgstr "ھەرب- بەلگە تىزىقى"
+
+msgid "Stroke"
+msgstr "سىزىق"
+
+msgid "Strong"
+msgstr "كۈچلۈك"
+
+msgid "Structure"
+msgstr "قۇرۇلما"
+
+msgid "Style"
+msgstr "ئۇسلۇب"
+
+msgid "Subject"
+msgstr "ماۋزۇ"
+
+msgid "Submit"
+msgstr "تاپشۇر"
+
+msgid "Subscribe"
+msgstr "مۇشتەرى"
+
+msgid "Subscript"
+msgstr "تۆۋەنكى ئىندېكس"
+
+msgid "Subscriptions"
+msgstr "مۇشتەرىلىك"
+
+msgid "Subtitle"
+msgstr "قوشۇمچە ماۋزۇ"
+
+msgid "Subtitles"
+msgstr "فىلىم خېتى"
+
+msgid "Subtract"
+msgstr "ئېلىش"
+
+msgid "Subversion"
+msgstr "تارماق نەشرى"
+
+msgid "Success"
+msgstr "مۇۋەپپەقىيەتلىك بولدى"
+
+msgid "Sudan"
+msgstr "سۇدان"
+
+msgid "Suffix"
+msgstr "كەينى قوشۇلغۇچى"
+
+msgid "Sum"
+msgstr "يىغىندا"
+
+msgid "Summary"
+msgstr "ئۈزۈندە"
+
+msgid "Sun"
+msgstr "ي"
+
+msgid "Sundanese"
+msgstr "سانداچە"
+
+msgid "Sunday"
+msgstr "يەكشەنبە"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "يۇقىرى ئىندېكس"
+
+msgid "Support"
+msgstr "قوللاش"
+
+msgid "Suriname"
+msgstr "سۇرىنام"
+
+msgid "Surname"
+msgstr "تەگات"
+
+msgid "Suspend"
+msgstr "توڭلات"
+
+msgid "Suspended"
+msgstr "ئېسىپ قويۇلدى"
+
+msgid "SVG"
+msgstr ""
+
+msgid "Swap"
+msgstr "ئالماشتۇر"
+
+msgid "Sweden"
+msgstr "شىۋېتسىيە"
+
+msgid "Swedish"
+msgstr "شىۋېدچە"
+
+msgid "Switch"
+msgstr "ئۈزچات"
+
+msgid "Switches"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "شىۋېيىتسارىيە"
+
+msgid "Symbol"
+msgstr "بەلگە"
+
+msgid "Symbols"
+msgstr "بەلگە"
+
+msgid "Sync"
+msgstr ""
+
+msgid "Synchronization"
+msgstr "قەدەمداشلاش"
+
+msgid "Synchronize"
+msgstr "قەدەمداش"
+
+msgid "Syriac"
+msgstr "سۈرىيەچە"
+
+msgid "System"
+msgstr "سىستېما"
+
+msgid "System Default"
+msgstr "سىستېما كۆڭۈلدىكى"
+
+msgid "System Settings"
+msgstr "سىستېما تەڭشىكى"
+
+msgid "T"
+msgstr "س"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Table"
+msgstr "جەدۋەل"
+
+msgid "Table of Contents"
+msgstr "مەزمۇن مۇندەرىجىسى"
+
+msgid "Tablet"
+msgstr "سەزگۈر تاختا"
+
+msgid "Tabs"
+msgstr "بەتكۈچ"
+
+msgid "Tag"
+msgstr "بەلگە"
+
+msgid "Tagalog"
+msgstr "تاگالوگچە"
+
+msgid "Tagged"
+msgstr "بەلگە سېلىندى"
+
+msgid "Tags"
+msgstr "بەلگە"
+
+msgid "Taiwan"
+msgstr "تەيۋەن"
+
+msgid "Tajikistan"
+msgstr "تاجىكىستان"
+
+msgid "Take Screenshot"
+msgstr "ئېكران كۆرۈنۈشى تۇت"
+
+msgid "Tamil"
+msgstr "تامىلچە"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "تانزانىيە"
+
+msgid "Target"
+msgstr "نىشان"
+
+msgid "Task"
+msgstr "ۋەزىپە"
+
+msgid "Tasks"
+msgstr "ۋەزىپە"
+
+msgid "Tatar"
+msgstr "تاتارچە"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr "قوشۇن"
+
+msgid "Technology"
+msgstr "تېخنىكا"
+
+msgid "Telephone"
+msgstr "تېلېفون"
+
+msgid "Telugu"
+msgstr "تېلۇگۇچە"
+
+msgid "Temperature"
+msgstr "تېمپېراتۇرا"
+
+msgid "Template"
+msgstr "قېلىپ"
+
+msgid "Templates"
+msgstr "قېلىپ"
+
+msgid "Tentative"
+msgstr "سىناق"
+
+msgid "Terminal"
+msgstr "تېرمىنال"
+
+msgid "Terminal Emulator"
+msgstr "تېرمىنال تەقلىدلەشتۈرگۈچ"
+
+msgid "Test"
+msgstr "سىنا"
+
+msgid "Testing"
+msgstr "سىناق"
+
+msgid "Text"
+msgstr "تېكىست"
+
+msgid "text"
+msgstr "تېكىست"
+
+msgid "_Text"
+msgstr ""
+
+msgid "Text Color"
+msgstr "تېكىست رەڭگى"
+
+msgid "Text color"
+msgstr "تېكىست رەڭگى"
+
+msgid "Text Editor"
+msgstr "تېكىست تەھرىرلىگۈچ"
+
+msgid "Text File"
+msgstr "تېكىست ھۆججەت"
+
+msgid "Text Files"
+msgstr "تېكىست ھۆججەتلەر"
+
+msgid "Text Only"
+msgstr "تېكىستلا"
+
+msgid "Text only"
+msgstr "تېكىستلا"
+
+msgid "Text to search for"
+msgstr "ئىزدەيدىغان تېكىست"
+
+msgid "Text Tool"
+msgstr ""
+
+msgid "TextLabel"
+msgstr "تېكىستلىك ئەن"
+
+msgid "Thai"
+msgstr "تايلاندچە"
+
+msgid "Thailand"
+msgstr "تايلاند"
+
+msgid "The file %1 does not exist."
+msgstr "ھۆججەت %1 مەۋجۇت ئەمەس."
+
+msgid "The GNOME Project"
+msgstr "GNOME قۇرۇلۇشى"
+
+msgid "The graphical theme to be used."
+msgstr "ئىشلىتىلىدىغان كۆزنەكلىك ئۆرنەك."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+msgid "The NetworkManager Developers"
+msgstr ""
+
+msgid "Theme"
+msgstr "ئۆرنەك"
+
+msgid "Themes"
+msgstr "ئۆرنەك"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "پۈتۈكنى ھەمبەھىرلەشتە مەسىلە كۆرۈلگەن: %1"
+
+msgid "Thin"
+msgstr "نېپىز"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+
+msgid "Thomas Zander"
+msgstr ""
+
+msgid "Threshold"
+msgstr "بوسۇغا قىممىتى"
+
+msgid "Thumbnail"
+msgstr "كىچىك سۈرەت"
+
+msgid "Thumbnails"
+msgstr "كىچىك سۈرەت"
+
+msgid "Thursday"
+msgstr "پەيشەنبە"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "تىبەتچە"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "ياي"
+
+msgid "Tiled"
+msgstr "يېيىلغان"
+
+msgid "Tilt"
+msgstr "قىيسايت"
+
+msgid "Time"
+msgstr "ۋاقىت"
+
+msgid "time"
+msgstr "ۋاقىت"
+
+msgid "Time: %1"
+msgstr "ۋاقىت: %1"
+
+msgid "Time and Date"
+msgstr "ۋاقىت ۋە چېسلا"
+
+msgid "Time Zone"
+msgstr "ۋاقىت رايونى"
+
+msgid "Timeline"
+msgstr "ۋاقىت سىزىقى"
+
+msgid "Timeout"
+msgstr "مۆھلىتى"
+
+msgid "Timer"
+msgstr "ۋاقىت خاتىرىلىگۈچ"
+
+msgid "Timestamp"
+msgstr "ۋاقىت تامغا"
+
+msgid "Timezone"
+msgstr "ۋاقىت رايونى"
+
+msgid "Tiny"
+msgstr "بەكلا كىچىك"
+
+msgid "Title"
+msgstr "ماۋزۇ"
+
+msgid "title"
+msgstr "ماۋزۇ"
+
+msgid "&Title"
+msgstr "ماۋزۇ(&T)"
+
+msgid "_Title"
+msgstr "ماۋزۇ (_T)"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "تاپشۇرۇپ ئالغۇچى"
+
+msgid "to"
+msgstr "غا"
+
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+msgid "Today"
+msgstr "بۈگۈن"
+
+msgid "today"
+msgstr "بۈگۈن"
+
+msgid "TODO"
+msgstr ""
+
+msgid "Todo"
+msgstr "بېجىرىدىغان"
+
+msgid "Toggle Fullscreen"
+msgstr "تولۇق ئېكرانغا ئالماش"
+
+msgid "Toggle Sidebar"
+msgstr "يان بالداق ئالماشتۇر"
+
+msgid "Toggle sidebar"
+msgstr ""
+
+msgid "Togo"
+msgstr "توگو"
+
+msgid "Token"
+msgstr "پەرمان تاختا"
+
+msgid "Tolerance"
+msgstr "پەرق"
+
+msgid "Tomorrow"
+msgstr "ئەتە"
+
+msgid "Tonga"
+msgstr "تونگا"
+
+msgid "Tool"
+msgstr "قورال"
+
+msgid "Tool Options"
+msgstr "قورال تاللانمىلىرى"
+
+msgid "_Toolbar"
+msgstr "قورال بالداق(_T)"
+
+msgid "T_oolbar"
+msgstr "قورال بالداق(_O)"
+
+msgid "Toolbar Editor"
+msgstr "قورال بالداق تەھرىرلىگۈچ"
+
+msgid "Toolbox"
+msgstr "قورال ساندۇقى"
+
+msgid "Tools"
+msgstr "قورال"
+
+msgid "&Tools"
+msgstr "قورال(&T)"
+
+msgid "_Tools"
+msgstr "قوراللار(_T)"
+
+msgid "Top"
+msgstr "ئۈستى"
+
+msgid "_Top"
+msgstr ""
+
+msgid "Top Left"
+msgstr "سول ئۈستى"
+
+msgid "Top left"
+msgstr "سول ئۈستى"
+
+msgid "Top Right"
+msgstr "ئوڭ ئۈستى"
+
+msgid "Top right"
+msgstr "ئوڭ ئۈستى"
+
+msgid "Topic"
+msgstr "باش تېما"
+
+msgid "Top-left"
+msgstr "سول ئۈستى"
+
+msgid "Top-right"
+msgstr "ئوڭ ئۈستى"
+
+msgid "Total"
+msgstr "جەمئىي"
+
+msgid "Track"
+msgstr "نەغمە"
+
+msgid "Track Number"
+msgstr "نەغمە نومۇرى"
+
+msgid "Tracker"
+msgstr "ئىزلىغۇچ"
+
+msgid "Tracks"
+msgstr "نەغمىلەر"
+
+msgid "Traditional"
+msgstr "مۇرەككەپ خەنزۇچە"
+
+msgid "Transfer"
+msgstr "يوللا"
+
+msgid "Transform"
+msgstr "ئالماشتۇر"
+
+msgid "Transformation"
+msgstr "ئۆزگەرتىش"
+
+msgid "Translate"
+msgstr "تەرجىمە"
+
+msgid "Translation"
+msgstr "تەرجىمە"
+
+msgid "Translator"
+msgstr "تەرجىمان"
+
+msgid "translator-credits"
+msgstr ""
+"Gheyret Kenji <gheyret@gmail.com>\n"
+"Sahran<sahran@live.com>\n"
+"Muhemmed Erdem <misran_erdem@hotmail.com>"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "تەرجىمان"
+
+msgid "Transparency"
+msgstr "سۈزۈكلۈك"
+
+msgid "Transparent"
+msgstr "سۈزۈك"
+
+msgid "Transport"
+msgstr "يوللاش"
+
+msgid "Transpose"
+msgstr ""
+
+msgid "Trash"
+msgstr "ئەخلەتخانا"
+
+msgid "Travel"
+msgstr ""
+
+msgid "Tree"
+msgstr "دەرەخ"
+
+msgid "Tree View"
+msgstr "شاخسىمان كۆرۈنۈش"
+
+msgid "Triangle"
+msgstr "ئۈچ بۇلۇڭ"
+
+msgid "True"
+msgstr "راست"
+
+msgid "true"
+msgstr "راست"
+
+msgid "Trusted"
+msgstr "ئىشەنچلىك"
+
+msgid "Try a different search"
+msgstr "باشقا بىر پەرقلىق ئىزدەشنى سىناڭ"
+
+msgid "Try Again"
+msgstr "قايتا سىنا"
+
+msgid "Tuesday"
+msgstr "سەيشەنبە"
+
+msgid "Tunisia"
+msgstr "تۇنىس"
+
+msgid "Turkey"
+msgstr "تۈركىيە"
+
+msgid "Turkish"
+msgstr "تۈركچە"
+
+msgid "Turkmenistan"
+msgstr "تۈركمەنىستان"
+
+msgid "Tuvalu"
+msgstr "تۇۋالۇچە"
+
+msgid "TV"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "TYPE"
+msgstr "تۈرى"
+
+msgid "Type"
+msgstr "تۈرى"
+
+msgid "type"
+msgstr "تۈرى"
+
+msgid "&Type"
+msgstr "تۈرى(&T)"
+
+msgid "Type: %1"
+msgstr "تۈرى: %1"
+
+msgid "Uganda"
+msgstr "ئۇگاندا"
+
+msgid "Ukraine"
+msgstr "ئۇكرائىنا"
+
+msgid "Ukrainian"
+msgstr "ئۇكرائىنچە"
+
+msgid "Unable to create a temporary file."
+msgstr "ۋاقىتلىق ھۆججەت قۇرالمايدۇ."
+
+msgid "unable to get editor plugin name: %s"
+msgstr ""
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+
+msgid "Unavailable"
+msgstr "ئىشلەتكىلى بولمايدۇ"
+
+msgid "Undefined"
+msgstr "ئېنىقلانمىغان"
+
+msgid "Underline"
+msgstr "ئاستى سىزىق"
+
+msgid "&Underline"
+msgstr "ئاستى سىزىق(&U)"
+
+msgid "_Underline"
+msgstr ""
+
+msgid "Undo"
+msgstr "يېنىۋال"
+
+msgid "&Undo"
+msgstr "يېنىۋال(&U)"
+
+msgid "_Undo"
+msgstr "يېنىۋال(_U)"
+
+msgid "Undo %1"
+msgstr "%1 يېنىۋال"
+
+msgid "Undo History"
+msgstr ""
+
+msgid "UnFav it"
+msgstr ""
+
+msgid "unhandled property “%s” type %s"
+msgstr ""
+
+msgid "Unicode"
+msgstr "يۇنىكود"
+
+msgid "Uniform"
+msgstr ""
+
+msgid "Union"
+msgstr "توپلام"
+
+msgid "Unit"
+msgstr "بىرلىك"
+
+msgid "United Arab Emirates"
+msgstr "ئەرەب بىرلەشمە خەلىپىلىكى"
+
+msgid "United Kingdom"
+msgstr "ئەنگلىيە پادىشاھلىقى"
+
+msgid "United States"
+msgstr "ئامېرىكا قوشما شتاتلىرى"
+
+msgid "United States Minor Outlying Islands"
+msgstr "ئامېرىكا تەۋەلىكىدىكى سىرتقى كىچىك ئاراللار"
+
+msgid "Units"
+msgstr "بىرلىكى"
+
+msgid "University"
+msgstr "ئالىي مەكتەپ"
+
+msgid "Unknown"
+msgstr "يوچۇن"
+
+msgid "unknown"
+msgstr "يوچۇن"
+
+msgid "(unknown)"
+msgstr "(يوچۇن)"
+
+msgid "Unknown Error"
+msgstr "يوچۇن خاتالىق"
+
+msgid "Unknown error"
+msgstr "نامەلۇم خاتالىق"
+
+msgid "Unknown error."
+msgstr "نامەلۇم خاتالىق."
+
+msgid "unknown error creating editor instance"
+msgstr ""
+
+msgid "Unknown file type"
+msgstr "نامەلۇم ھۆججەت تۈرى"
+
+msgid "Unlimited"
+msgstr "چەكسىز"
+
+msgid "unlimited"
+msgstr "چەكسىز"
+
+msgid "Unlock"
+msgstr "قۇلۇپ ئاچ"
+
+msgid "_Unlock"
+msgstr "قۇلۇپسىزلا(_U)"
+
+msgid "Unmount"
+msgstr "ئېگەرسىزلە"
+
+msgid "Unmute"
+msgstr "ئۈنلۈك"
+
+msgid "Unnamed"
+msgstr "ئاتسىز"
+
+msgid "unnamed"
+msgstr "ئاتسىز"
+
+msgid "Unread"
+msgstr "ئوقۇلمىغان"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "تونۇيالمىغان ئۈستەلئۈستى ھۆججەت نەشرى ‹%s›"
+
+msgid "Unrecognized launch option: %d"
+msgstr "تونۇمايدىغان ئىجرا تاللانمىسى: %d"
+
+msgid "Unsaved Changes"
+msgstr "ساقلانمىغان ئۆزگەرتىش"
+
+msgid "Unselect All"
+msgstr "ھەممىنى تاللىما"
+
+msgid "Unselect all"
+msgstr "ھەممىنى تاللىما"
+
+msgid "Unspecified"
+msgstr "بەلگىلەنمىگەن"
+
+msgid "Untitled"
+msgstr "ماۋزۇسىز"
+
+msgid "untitled"
+msgstr "ماۋزۇسىز"
+
+msgid "Unused"
+msgstr "ئىشلىتىلمىگىنى"
+
+msgid "Up"
+msgstr "ئۈستى"
+
+msgid "&Up"
+msgstr "يۇقىرىغا (&U)"
+
+msgid "Update"
+msgstr "يېڭىلا"
+
+msgid "&Update"
+msgstr "يېڭىلا(&U)"
+
+msgid "_Update"
+msgstr "يېڭىلا(_U)"
+
+msgid "Updates"
+msgstr "يېڭىلانما"
+
+msgid "Updating"
+msgstr "يېڭىلاۋاتىدۇ"
+
+msgid "Updating..."
+msgstr "يېڭىلىنىۋاتىدۇ…"
+
+msgid "Upload"
+msgstr "يۈكلە"
+
+msgid "_Upload"
+msgstr ""
+
+msgid "Uploaded"
+msgstr "يۈكلەندى"
+
+msgid "Upper"
+msgstr "يۇقىرىسى"
+
+msgid "Uppercase"
+msgstr "چوڭ ھەرپ"
+
+msgid "Urdu"
+msgstr "ئوردوچە"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "تور ئادرېسى"
+
+msgid "Url"
+msgstr "تور ئادرېس"
+
+msgid "Uruguay"
+msgstr "ئۇرۇگۋاي"
+
+msgid "US Letter"
+msgstr "ئا ق ش لېپاپى"
+
+msgid "Usage"
+msgstr "ئىشلىتىلىشى"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "ئىشلەت"
+
+msgid "Used"
+msgstr "ئىشلىتىلگىنى"
+
+msgid "User"
+msgstr "ئىشلەتكۈچى"
+
+msgid "User Certificate"
+msgstr "ئىشلەتكۈچى گۇۋاھنامىسى"
+
+msgid "User Defined"
+msgstr "ئىشلەتكۈچى بەلگىلىگەن"
+
+msgid "User Feedback"
+msgstr "ئىشلەتكۈچى قايتۇرما ئىنكاسى"
+
+msgid "User ID"
+msgstr "ئىشلەتكۈچى كىملىكى"
+
+msgid "User Interface"
+msgstr "كۆرۈنمەيۈز"
+
+msgid "User name"
+msgstr "ئىشلەتكۈچى ئاتى"
+
+msgid "User Password"
+msgstr "ئىشلەتكۈچى ئىم"
+
+msgid "Username"
+msgstr "ئىشلەتكۈچى ئاتى"
+
+msgid "_Username"
+msgstr "ئىشلەتكۈچى ئاتى(_U)"
+
+msgid "Users"
+msgstr "ئىشلەتكۈچى"
+
+msgid "Utilities"
+msgstr "قورال"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "ئۆزبېكىستان"
+
+msgid "V"
+msgstr ""
+
+msgid "%v%"
+msgstr ""
+
+msgid "Valid"
+msgstr "ئىناۋەتلىك"
+
+msgid "Valid from"
+msgstr "ئىناۋەتلىك ۋاقتى(باشلىنىشى)"
+
+msgid "Validity"
+msgstr "ئۈنۈملۈكلۈكى"
+
+msgid "Value"
+msgstr "قىممەت"
+
+msgid "value"
+msgstr "قىممىتى"
+
+msgid "&Value"
+msgstr "قىممىتى(&V)"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+
+msgid "Values"
+msgstr "قىممەتلەر"
+
+msgid "Vanuatu"
+msgstr "ۋانۇئاتۇ"
+
+msgid "Variable"
+msgstr "ئۆزگىرىشچان"
+
+msgid "Variables"
+msgstr "ئۆزگەرگۈچى"
+
+msgid "Variance"
+msgstr "كىۋادراتلىق پەرق"
+
+msgid "Vector"
+msgstr ""
+
+msgid "Velocity"
+msgstr ""
+
+msgid "Vendor"
+msgstr "تارقاتقۇچى"
+
+msgid "Venezuela"
+msgstr "ۋېنېزۇئېلا"
+
+msgid "Verb"
+msgstr "پېئىل"
+
+msgid "Verify"
+msgstr "دەلىللە"
+
+msgid "Version"
+msgstr "نەشرى"
+
+msgid "Version %1"
+msgstr "نەشرى  %1"
+
+msgid "Vertical"
+msgstr "بويىغا"
+
+msgid "Very Large"
+msgstr "بەك چوڭ"
+
+msgid "Video"
+msgstr "سىن"
+
+msgid "Video CD"
+msgstr "سىن CD"
+
+msgid "Video Codec"
+msgstr "سىن كودلىغۇچ"
+
+msgid "Video Files"
+msgstr "سىن ھۆججەتلىرى"
+
+msgid "Videos"
+msgstr "سىن"
+
+msgid "Vietnam"
+msgstr "ۋىيېتنام"
+
+msgid "Vietnamese"
+msgstr "ۋىيېتنامچە"
+
+msgid "View"
+msgstr "كۆرۈنۈش"
+
+msgid "&View"
+msgstr "كۆرۈنۈش(&V)"
+
+msgid "_View"
+msgstr "كۆرۈنۈش(_V)"
+
+msgid "View Options"
+msgstr "كۆرۈنۈش تاللانمىسى"
+
+msgid "View Settings"
+msgstr "كۆرۈنۈش تەڭشىكى"
+
+msgid "Viewer"
+msgstr "كۆرگۈچ"
+
+msgid "Views"
+msgstr "كۆرۈنۈش"
+
+msgid "Virtual"
+msgstr "مەۋھۇم"
+
+msgid "Virtual Keyboard"
+msgstr "مەۋھۇم ھەرپتاختا"
+
+msgid "Visibility"
+msgstr "كۆرۈشچانلىقى"
+
+msgid "Visible"
+msgstr "كۆرۈنۈشچان"
+
+msgid "Voltage"
+msgstr "توك بېسىمى"
+
+msgid "Volume"
+msgstr "ئاۋاز مىقدارى"
+
+msgid "Volume Down"
+msgstr "ئاۋازنى تۆۋەنلەت"
+
+msgid "Volume Up"
+msgstr "ئاۋازنى يۇقىرىلات"
+
+msgid "W"
+msgstr "غە"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "كۈتۈۋاتىدۇ"
+
+msgid "Wallpaper"
+msgstr "تام قەغەز"
+
+msgid "Wallpaper type"
+msgstr "تام قەغەز تۈرى"
+
+msgid "WARNING"
+msgstr "ئاگاھلاندۇرۇش"
+
+msgid "Warning"
+msgstr "ئاگاھلاندۇرۇش"
+
+msgid "warning"
+msgstr "ئاگاھلاندۇرۇش"
+
+msgid "Warnings"
+msgstr "ئاگاھلاندۇرۇش"
+
+msgid "Water"
+msgstr "سۇ"
+
+msgid "Wave"
+msgstr "دولقۇنسىمان سىزىق"
+
+msgid "Weak"
+msgstr "ئاجىز"
+
+msgid "Weather"
+msgstr "ھاۋا رايى"
+
+msgid "Web Browser"
+msgstr "توركۆرگۈ"
+
+msgid "Web browser"
+msgstr "توركۆرگۈ"
+
+msgid "Website"
+msgstr "تور بېكەت"
+
+msgid "Wednesday"
+msgstr "چارشەنبە"
+
+msgid "Week"
+msgstr "ھەپتە"
+
+msgid "Week View"
+msgstr "ھەپتە كۆرۈنۈشى"
+
+msgid "Weekly"
+msgstr "ھەر ھەپتىدە"
+
+msgid "Weeks"
+msgstr "ھەپتە"
+
+msgid "weeks"
+msgstr "ھەپتە"
+
+msgid "Weight"
+msgstr "ئېغىرلىق"
+
+msgid "Welcome"
+msgstr "مەرھابا"
+
+msgid "Welsh"
+msgstr "ۋېلشچە"
+
+msgid "West"
+msgstr "غەرب"
+
+msgid "Western"
+msgstr "غەربىي"
+
+msgid "Western Sahara"
+msgstr "غەربىي ساخارا"
+
+msgid "What's new"
+msgstr "يېڭىلىق"
+
+msgid "Wheel"
+msgstr "غالتەك"
+
+msgid "Whether sound effects should be played."
+msgstr "ئاۋاز ئۈنۈمىنى ياڭرىتامدۇ يوق."
+
+msgid "White"
+msgstr "ئاق"
+
+msgid "white"
+msgstr "ئاق"
+
+msgid "White Balance"
+msgstr "ئاق تەڭپۇڭلۇق"
+
+msgid "Wide"
+msgstr "كەڭ"
+
+msgid "Widgets"
+msgstr "ئەپچە"
+
+msgid "Width"
+msgstr "كەڭلىك"
+
+msgid "&Width"
+msgstr "كەڭلىك(&W)"
+
+msgid "_Width"
+msgstr "كەڭلىك(_W)"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Wikipedia"
+msgstr "ۋىكى قامۇسى"
+
+msgid "Window"
+msgstr "كۆزنەك"
+
+msgid "&Window"
+msgstr "كۆزنەك(&W)"
+
+msgid "&Window Color Scheme"
+msgstr "كۆزنەك رەڭ لايىھەسى(&W)"
+
+msgid "Window height"
+msgstr "كۆزنەك ئېگىزلىكى"
+
+msgid "Window Management"
+msgstr "كۆزنەك باشقۇرۇش"
+
+msgid "Window maximized"
+msgstr "كۆزنەك چوڭايتىلدى"
+
+msgid "Window size"
+msgstr "كۆزنەك چوڭلۇقى"
+
+msgid "Window Title"
+msgstr "كۆزنەك ماۋزۇسى"
+
+msgid "Window width"
+msgstr "كۆزنەك كەڭلىكى"
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "_Windows"
+msgstr "كۆزنەك(_W)"
+
+msgid "with"
+msgstr "بىللە"
+
+msgid "Word"
+msgstr "خەت"
+
+msgid "Word Count"
+msgstr "سۆز سانى"
+
+msgid "Words"
+msgstr "سۆزلەر"
+
+msgid "Work"
+msgstr "ئىش"
+
+msgid "World"
+msgstr "دۇنيا"
+
+msgid "Wrap"
+msgstr "قۇر يۆتكەش"
+
+msgid "_Wrap around"
+msgstr "ئايلاندۇرۇپ قەۋەتلە(_W)"
+
+msgid "Wrap Text"
+msgstr "ئۆزلۈكىدىن قۇر ئالماشتۇر"
+
+msgid "Write"
+msgstr "ياز"
+
+msgid "Writing"
+msgstr "يېزىۋاتىدۇ"
+
+msgid "X"
+msgstr ""
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr ""
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr ""
+
+msgid "Year"
+msgstr "يىل"
+
+msgid "Yearly"
+msgstr "ھەر يىلى"
+
+msgid "Years"
+msgstr "يىل"
+
+msgid "years"
+msgstr "يىل"
+
+msgid "Yellow"
+msgstr "سېرىق"
+
+msgid "yellow"
+msgstr "سېرىق"
+
+msgid "Yemen"
+msgstr "يەمەن"
+
+msgid "Yes"
+msgstr "ھەئە"
+
+msgid "yes"
+msgstr "ھەئە"
+
+msgid "_Yes"
+msgstr "ھەئە(_Y)"
+
+msgid "Yesterday"
+msgstr "تۈنۈگۈن"
+
+msgid "Yiddish"
+msgstr "يىددىشچە"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+
+msgid "Yukon"
+msgstr "يۇكون"
+
+msgid "Z"
+msgstr ""
+
+msgid "Zambia"
+msgstr "زامبىيە"
+
+msgid "Zero"
+msgstr "نۆل"
+
+msgid "Zimbabwe"
+msgstr "زىمبابۋې"
+
+msgid "Zoom"
+msgstr "نىسبەت"
+
+msgid "&Zoom"
+msgstr "نىسبەت(&Z)"
+
+msgid "_Zoom"
+msgstr ""
+
+msgid "Zoom In"
+msgstr "يېقىنلات"
+
+msgid "Zoom in"
+msgstr "چوڭايت"
+
+msgid "Zoom &In"
+msgstr "يېقىنلات(&I)"
+
+msgid "Zoom _In"
+msgstr "چوڭايت(_I)"
+
+msgid "Zoom Out"
+msgstr "يىراقلات"
+
+msgid "Zoom out"
+msgstr "كىچىكلەت"
+
+msgid "Zoom &Out"
+msgstr "يىراقلات(&O)"
+
+msgid "Zoom _Out"
+msgstr "كىچىكلەت(_O)"
+
+msgid "Zoom to Fit"
+msgstr "بەتكە ماسلاشتۇر"

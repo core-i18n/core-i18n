@@ -7,1437 +7,9464 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "Hoofdwerkbalk"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "Algemeen"
+msgid "#"
+msgstr "#"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "Verwijderen"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "Annuleren"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "&Bestand"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "Verwijderen"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "Geen"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "Naam"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "Onderhouder"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "Naam:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "Be&werken"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "&Instellingen"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "Fout"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "Beel&d"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "Toevoegen"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "Wachtwoord:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "Ontwikkelaar"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "Auteur"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "Sluiten"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "Opties"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "Instellingen"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "Onbekend"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "H&ulpmiddelen"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "Type"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "Verwij&deren"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "Bewerken"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "Opslaan"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "Beschrijving"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "Beschrijving:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "Datum"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "Bestand"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "Voorbeeld"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "Configureren"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "Uiterlijk"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "Eigenschappen"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "Type:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "Grootte"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "&Verwijderen"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "Zoeken"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "Standaard"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "Gebruikersnaam:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&Help"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "Kopiëren"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "Stoppen"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "Beeld"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "Waarschuwing"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "Normaal"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "Hernoemen"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "Ja"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "Geavanceerd"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "Nee"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "Status"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "Tekst"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "Waarde"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "Kleuren"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "Dialoog"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "Titel"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "Oorspronkelijke auteur"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "Zoeken..."
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "Toevoegen..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "Informatie"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "Tijd"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "Toelichting"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "Hoogte:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "Links"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "Nieuw"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "Openen"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "Grootte:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "Breedte:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "Poort:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "Rechts"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "Opslaan als"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "Titel:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&Exporteren"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "Automatisch"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "Wissen"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "Aanmaken"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "Exporteren"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "Help"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "OK"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "&Naam:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "Authenticatie"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "Details"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "Filter"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "Negeren"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "Afbeelding"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "Locatie:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "Vernieuwen"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "Alles"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "Midden"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "Aangepast"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "Lettertype"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "Invoegen"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "Nooit"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "Hulpmiddelen"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "Ongedaan maken"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "Naamloos"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "&Ga naar"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "Bewerken..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "Ingeschakeld"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "Importeren"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "Locatie"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "Omlaag verplaatsen"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "Omhoog verplaatsen"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "Alles selecteren"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "Bijwerken"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "&Toevoegen"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "Info over"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "Toelichting:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "Configureren..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "Bestandsnaam:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "Algemene instellingen"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "Volgende"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "Overig"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "Selecteren"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "Boven"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "Verticaal"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "Sl&uiten"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "Auteur:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "Inschakelen"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "Horizontaal"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "Importeren..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "Opnieuw"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "Afwijzen"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "Vervangen"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "B&ewerken..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "Acties"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "Altijd"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "Bladwijzers"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "Datum:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "Exporteren..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "Informatie"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "Nummer"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "Oorspronkelijke auteur"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "Afspelen"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "Herladen"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "Starten"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "Tags"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "Thema"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "Tot:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "&Nieuw"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "Accepteren"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "Achtergrond"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "Kleur:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "Commando"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "Uitgeschakeld"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "Gereed"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "Lettertypen"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "Van:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "Lijn"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "Diversen"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "Netwerk"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "Plakken"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "Pauzeren"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "Positie"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "onbekend"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "Configureren"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " ms"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "Toepassen"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "Auto"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "Onder"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "Kolommen"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "Downloaden"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "Editor"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "Lettertype:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "Opmaak"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "Van"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "Taal"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "Diversen"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "Bestand openen"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "Wachtwoord"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "Gereed"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "Reset"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "Onderwerp"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "Aan"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "Zoomen"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "&Annuleren"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "Account:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "Alle bestanden"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "Zwart"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "Vet"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "Doorgaan"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "Gegevens"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "Bestemming"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "E-mail:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "Map"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "Groep"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "Pictogram:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "Cursief"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "Opmaak"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "Middel"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "Bericht"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "Plug-ins"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "Vorige"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "Rood"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "Opslaan als..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "Bron"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "Status"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "Onbekende fout"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "Omhoog"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "Breedte"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "Naam"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "&Toevoegen..."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "Op&slaan"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "Toepassingen"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "Terug"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "Gedrag"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "Hoofdlettergevoelig"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "Naar klembord kopiëren"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "Huidige onderhouder"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "Debuggen"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "Opmaak:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "Lengte"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "Handmatig"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "Modus"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "Uitvoer"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "Pad:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "Positie:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "Selectie"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "Delen"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "Stijl"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "Inzoomen"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "Uitzoomen"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "&Spel"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "&Importeren"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&Zoeken"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "Alle bestanden (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "Blauw"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "Kleur"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "Verbinden"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "Land"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "Documentatie"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "Omlaag"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "E-mail"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "Bestandsnaam"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "Mappen"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "Groen"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "Afbeeldingen"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "Label"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "Laag"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "Maand"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "Dempen"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "Afsluiten"
-
-#. Occurs in 12 KDE PO files
-msgid "Search…"
-msgstr "Zoeken…"
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "Status:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "Tabel"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "Tag"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "Tekstlabel"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "Jaar"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "nee"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "ja"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " px"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "&Bladwijzers"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "Al&gemeen"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "&Nieuw..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "&Openen"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "&Stoppen"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "Account"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "Voorkeuren voor account"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "Actie"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "Achtergrondkleur"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "Categorieën"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "Categorie"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "Categorie:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "Alles invouwen"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "Knippen"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "Wijzig de actuele backend-data niet."
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "Alles uitvouwen"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "Bestandsnaam"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter..."
-msgstr "Filteren..."
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "Filter:"
-
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "Gateway:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "Afmeting"
-
-#. Occurs in 11 KDE PO files
-msgid "Harald Sitter"
-msgstr "Harald Sitter"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "Hoogte"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "Home"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "Pictogrammen"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "Sleutel"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "Lijnen"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "Lijst"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "Bezig met laden..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "Maanden"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "Verplaatsen"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "Schermnaam:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "Notitie"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "De map openen waarin het zich bevindt"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "Bestand overschrijven?"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "Herstarten"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "Uitvoeren"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "Zoeken:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "Verzenden"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "Server:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "Snelheid"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "URL-adres"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "URL-adres:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "Gebruiker:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "minuten"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "Fout"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "&Kopiëren"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr "?"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " en "
+
+msgid " (default)"
+msgstr " (standaard)"
+
+msgid "© KDE Community"
+msgstr "© KDE-gemeenschap"
+
+msgid " MB"
+msgstr " MB"
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " min"
+
+msgid " minutes"
+msgstr " minuten"
+
+msgid " ms"
+msgstr " ms"
+
+msgid " px"
+msgstr " px"
+
+msgid " s"
+msgstr " s"
+
+msgid " sec"
+msgstr " sec"
+
+msgid " seconds"
+msgstr " seconden"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 %"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 en %2"
+
+msgid "%1 bytes"
+msgstr "%1 bytes"
+
+msgid "1 day"
+msgstr "1 dag"
+
+msgid "%1 does not exist"
+msgstr "%1 bestaat niet"
+
+msgid "%1 free"
+msgstr "%1 beschikbaar"
+
+msgid "1 hour"
+msgstr "1 uur"
+
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgid "%1 ms"
+msgstr "%1 ms"
+
+msgid "%1 of %2"
+msgstr "%1 van %2"
+
+msgid "%1 on %2"
+msgstr "%1 op %2"
+
+msgid "%1 s"
+msgstr "%1 s"
+
+msgid "%1 seconds"
+msgstr "%1 seconden"
+
+msgid "%1 to %2"
+msgstr "%1 naar %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 minuten"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "128 bits"
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 minuten"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1m"
+
+msgid "%1/s"
+msgstr "%1/s"
+
+msgid "1st"
+msgstr "1e"
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "2nd"
+msgstr "2e"
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 minuten"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "3e"
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "4e"
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 minuten"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr "5e"
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "Een bestand met de naam \"%1\" bestaat al. Wilt u het overschrijven?"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
 msgstr "Afbreken"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "Geavanceerde opties"
+msgid "&Abort"
+msgstr "&Afbreken"
 
-#. Occurs in 10 KDE PO files
-msgid "Album"
-msgstr "Album"
+msgid "Aborted"
+msgstr "Afgebroken"
 
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
+msgid "About"
+msgstr "Info over"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "&About"
+msgstr "&Info over"
 
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
-msgstr "&Annuleren"
+msgid "_About"
+msgstr "I_nfo"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "Geschiedenis wissen"
+msgid "About %1"
+msgstr "Info over %1"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "Compressie"
+msgid "About KDE"
+msgstr "Over KDE"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "Contactpersonen"
+msgid "Abstract"
+msgstr "Samenvatting"
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "Copyright"
+msgid "Accept"
+msgstr "Accepteren"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "Apparaat:"
+msgid "Accepted"
+msgstr "Geaccepteerd"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "Verbinding verbreken"
+msgid "Accessed"
+msgstr "Geopend"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "Duur"
+msgid "Accessibility"
+msgstr "Toegankelijkheid"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "Fout: %1"
+msgid "Account"
+msgstr "Account"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Account Details"
+msgstr "Accountdetails"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "Bestand:"
+msgid "Account Information"
+msgstr "Accountinformatie"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "Bestanden"
+msgid "Account Name"
+msgstr "Accountnaam"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "Zoeken"
+msgid "Accounts"
+msgstr "Accounts"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "Functie"
+msgid "Accuracy"
+msgstr "Nauwkeurigheid"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "Groep:"
+msgid "Action"
+msgstr "Actie"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "Menubalk verbergen"
+msgid "Actions"
+msgstr "Acties"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "Hoog"
+msgid "Activate"
+msgstr "Activeren"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "Geschiedenis"
+msgid "Active"
+msgstr "Actief"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "Activities"
+msgstr "Activiteiten"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "&Omhoog"
+msgid "Activity"
+msgstr "Activiteit"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "Meldingen"
+msgid "Adaptive"
+msgstr "Adaptief"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "Organisatie"
-
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "Pad"
-
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "Poort"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "Prioriteit"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "Prioriteit:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "Project"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "Groep verwijderen"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "Spatie"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "Vandaag"
-
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "Waarde:"
-
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "Versie"
-
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "Versie:"
-
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "Video"
-
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "Jaren"
-
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
 msgid "Add"
 msgstr "Toevoegen"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
+msgid "&Add"
+msgstr "&Toevoegen"
+
+msgid "_Add"
+msgstr "_Toevoegen"
+
+msgid "Add..."
+msgstr "Toevoegen..."
+
+msgid "&Add..."
+msgstr "&Toevoegen..."
+
+msgid "A&dd..."
+msgstr "&Toevoegen…"
+
+msgid "Add Account"
+msgstr "Account toevoegen"
+
+msgid "Add Bookmark"
+msgstr "Bladwijzer toevoegen"
+
+msgid "_Add Bookmark"
+msgstr "Bl_adwijzer toevoegen"
+
+msgid "Add Filter"
+msgstr "Filter toevoegen"
+
+msgid "Add Folder"
+msgstr "Map toevoegen"
+
+msgid "Add Folder..."
+msgstr "Map toevoegen…"
+
+msgid "Add Group"
+msgstr "Groep toevoegen"
+
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+msgid "Add Rule..."
+msgstr "Regel toevoegen…"
+
+msgid "Add Tag"
+msgstr "Tag toevoegen"
+
+msgid "Add tag"
+msgstr "Tag toevoegen"
+
+msgid "Add to Dictionary"
+msgstr "Aan woordenboek toevoegen"
+
+msgid "Add to Favorites"
+msgstr "Aan Favorieten toevoegen"
+
+msgid "Added"
+msgstr "Toegevoegd"
+
+msgid "Addition"
+msgstr "Optellen"
+
+msgid "Additional Information"
+msgstr "Aanvullende informatie"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Address Book"
+msgstr "Adresboek"
+
+msgid "Addresses"
+msgstr "Adressen"
+
+msgid "Adjust"
+msgstr "Bijstellen"
+
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+msgid "Advanced..."
+msgstr "Geavanceerd…"
+
+msgid "Ad_vanced..."
+msgstr "Gea_vanceerd…"
+
+msgid "Advanced options"
+msgstr "Geavanceerde opties"
+
+msgid "Advanced Properties"
+msgstr "Geavanceerde eigenschappen"
+
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "After"
+msgstr "Na"
+
+msgid "Agenda"
+msgstr "Agenda"
+
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Alarms"
+msgstr "Herinneringen"
+
+msgid "Albania"
+msgstr "Albanië"
+
+msgid "Albanian"
+msgstr "Albanees"
+
+msgid "Albert Vaca Cintora"
+msgstr "Albert Vaca Cintora"
+
+msgid "Album"
+msgstr "Album"
+
+msgid "Album Artist"
+msgstr "Albumartiest"
+
+msgid "Albums"
+msgstr "Albums"
+
+msgid "Alert"
+msgstr "Attentie"
+
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+msgid "Algeria"
+msgstr "Algerije"
+
+msgid "Algorithm"
+msgstr "Algoritme"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "Aliases"
+msgstr "Aliassen"
+
+msgid "Align"
+msgstr "Uitlijnen"
+
+msgid "Align Bottom"
+msgstr "Onder uitlijnen"
+
+msgid "Align Center"
+msgstr "Centreren"
+
+msgid "Align Left"
+msgstr "Links uitlijnen"
+
+msgid "Align left"
+msgstr "Links uitlijnen"
+
+msgid "Align Right"
+msgstr "Rechts uitlijnen"
+
+msgid "Align right"
+msgstr "Rechts uitlijnen"
+
+msgid "Align Top"
+msgstr "Boven uitlijnen"
+
+msgid "Alignment"
+msgstr "Uitlijning"
+
+msgid "All"
+msgstr "Alles"
+
+msgid "all"
+msgstr "alles"
+
+msgid "_All"
+msgstr "_Alles"
+
+msgid "All Files"
+msgstr "Alle bestanden"
+
+msgid "All files"
+msgstr "Alle bestanden"
+
+msgid "All Files (*)"
+msgstr "Alle bestanden (*)"
+
+msgid "All files (*)"
+msgstr "Alle bestanden (*)"
+
+msgid "All Supported Files"
+msgstr "Alle ondersteunde bestanden"
+
+msgid "Allen Winter"
+msgstr "Allen Winter"
+
+msgid "Allow"
+msgstr "Toestaan"
+
+msgid "Allow Deflate compression"
+msgstr "Deflate compressie toestaan"
+
+msgid "Alpha"
+msgstr "Alfa"
+
+msgid "Alphabetically"
+msgstr "Alfabetisch"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "Alternatief"
+
+msgid "Always"
+msgstr "Altijd"
+
+msgid "Always ask"
+msgstr "Altijd vragen"
+
+msgid "Always visible"
+msgstr "Altijd zichtbaar"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Ambient"
+msgstr "Ambient"
+
+msgid "Amount"
+msgstr "Bedrag"
+
+msgid "An error occurred"
+msgstr "Er is een fout opgetreden"
+
+msgid "An unknown error occurred."
+msgstr "Er is een onbekende fout opgetreden."
+
+msgid "Analysis"
+msgstr "Analyse"
+
+msgid "Anchor"
+msgstr "Anker"
+
+msgid "AND"
+msgstr "EN"
+
+msgid "and"
+msgstr "en"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "Hoek"
+
+msgid "angle"
+msgstr "hoek"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animation"
+msgstr "Animatie"
+
+msgid "Animations"
+msgstr "Animaties"
+
+msgid "Anniversary"
+msgstr "Trouwdag"
+
+msgid "Annotate"
+msgstr "Annotatie maken"
+
+msgid "Annotation"
+msgstr "Annotatie"
+
+msgid "Annotations"
+msgstr "Annotaties"
+
+msgid "Anonymous"
+msgstr "Anoniem"
+
+msgid "Antarctica"
+msgstr "Antarctica"
+
+msgid "Any"
+msgstr "Elke"
+
+msgid "Aperture"
+msgstr "Diafragma"
+
+msgid "Appearance"
+msgstr "Uiterlijk"
+
+msgid "Append"
+msgstr "Achteraan toevoegen"
+
+msgid "AppImage"
+msgstr "AppImage"
+
+msgid "Application"
+msgstr "Toepassing"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "Menu Toepassingen"
+
+msgid "Applications"
+msgstr "Toepassingen"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "&Apply"
+msgstr "&Toepassen"
+
+msgid "_Apply"
+msgstr "Toep_assen"
+
+msgid "Apply Settings"
+msgstr "Instellingen toepassen"
+
+msgid "April"
+msgstr "April"
+
+msgid "Arabic"
+msgstr "Arabisch"
+
+msgid "Archive"
+msgstr "Archief"
+
+msgid "Archives"
+msgstr "Archieven"
+
+msgid "Area"
+msgstr "Gebied"
+
+msgid "Argentina"
+msgstr "Argentinië"
+
+msgid "Arguments"
+msgstr "Argumenten"
+
+msgid "Armenia"
+msgstr "Armenië"
+
+msgid "Armenian"
+msgstr "Armeens"
+
+msgid "Arrow"
+msgstr "Pijl"
+
+msgid "Arrows"
+msgstr "Pijlen"
+
+msgid "Articles"
+msgstr "Artikelen"
+
+msgid "Artist"
+msgstr "Artiest"
+
+msgid "Artists"
+msgstr "Artiesten"
+
+msgid "Artwork"
+msgstr "Illustraties"
+
+msgid "Ascending"
+msgstr "Oplopend"
+
+msgid "Asia"
+msgstr "Azië"
+
+msgid "Ask"
+msgstr "Vragen"
+
+msgid "Aspect Ratio"
+msgstr "Beeldverhouding"
+
+msgid "Aspect ratio"
+msgstr "Verhouding"
+
+msgid "Assamese"
+msgstr "Assamees"
+
+msgid "Assign Tags"
+msgstr "Tags toekennen"
+
+msgid "Assistant"
+msgstr "Assistent"
+
+msgid "ATM"
+msgstr "Pinautomaat"
+
+msgid "Attach"
+msgstr "Bijvoegen"
+
+msgid "Attach File"
+msgstr "Bestand bijvoegen"
+
+msgid "Attachment"
+msgstr "Bijlage"
+
+msgid "Attachments"
+msgstr "Bijlagen"
+
+msgid "Attendees"
+msgstr "Deelnemers"
+
+msgid "Attribute"
+msgstr "Attribuut"
+
+msgid "Attributes"
+msgstr "Attributen"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Audio CD"
+msgstr "Audio-cd"
+
+msgid "Audio Codec"
+msgstr "Audio-codec"
+
+msgid "Audio files"
+msgstr "Audiobestanden"
+
+msgid "August"
+msgstr "Augustus"
+
+msgid "Australia"
+msgstr "Australië"
+
+msgid "Austria"
+msgstr "Oostenrijk"
+
+msgid "Authenticate"
+msgstr "Authenticeren"
+
+msgid "Authenticate VPN"
+msgstr "Aanmeldingscontrole voor VPN"
+
+msgid "Authentication"
+msgstr "Authenticatie"
+
+msgid "Authentication Required"
+msgstr "Authenticatie vereist"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Authors"
+msgstr "Auteurs"
+
+msgid "Auto"
+msgstr "Automatisch"
+
+msgid "auto"
+msgstr "automatisch"
+
+msgid "Auto Detect"
+msgstr "Autodetecteren"
+
+msgid "Auto Save"
+msgstr "Automatisch opslaan"
+
+msgid "Autodetect"
+msgstr "Automatisch detecteren"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Autosave interval"
+msgstr "Automatisch opslaan iedere"
+
+msgid "Available"
+msgstr "Beschikbaar"
+
+msgid "A&vailable actions"
+msgstr "Bes&chikbare acties"
+
+msgid "Average"
+msgstr "Gemiddeld"
+
+msgid "Axes"
+msgstr "Assen"
+
+msgid "Azerbaijan"
+msgstr "Azerbeidzjan"
+
+msgid "Azerbaijani"
+msgstr "Azerbeidzjaans"
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "&Back"
+msgstr "&Terug"
+
+msgid "_Back"
+msgstr "_Terug"
+
+msgid "Background"
+msgstr "Achtergrond"
+
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+msgid "&Background color"
+msgstr "&Achtergrondkleur"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "Reservekopie"
+
+msgid "Bahamas"
+msgstr "Bahama's"
+
+msgid "Bahrain"
+msgstr "Bahrein"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Balanced"
+msgstr "Evenwichtig"
+
+msgid "Baltic"
+msgstr "Baltisch"
+
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Bar"
+msgstr "Balk"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Base"
+msgstr "Basis"
+
+msgid "Basic"
+msgstr "Basis"
+
+msgid "Basque"
+msgstr "Baskisch"
+
+msgid "Bass"
+msgstr "Lage tonen"
+
+msgid "Battery"
+msgstr "Batterij"
+
+msgid "Bcc"
+msgstr "Bcc"
+
+msgid "Before"
+msgstr "Ervoor"
+
+msgid "Behavior"
+msgstr "Gedrag"
+
+msgid "Belarus"
+msgstr "Wit-Rusland"
+
+msgid "Belarusian"
+msgstr "Wit-Russisch"
+
+msgid "Belgium"
+msgstr "België"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Bengali"
+msgstr "Bengaals"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Best"
+msgstr "Beste"
+
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgid "Bibliography"
+msgstr "Bibliografie"
+
+msgid "Binary"
+msgstr "Binair"
+
+msgid "Birthday"
+msgstr "Verjaardag"
+
+msgid "Bitrate"
+msgstr "Bitsnelheid"
+
+msgid "Black"
+msgstr "Zwart"
+
+msgid "black"
+msgstr "zwart"
+
+msgid "Blend"
+msgstr "Vermengen"
+
+msgid "Block"
+msgstr "Blok"
+
+msgid "Block Elements"
+msgstr "Blokelementen"
+
+msgid "Blocked"
+msgstr "Geblokkeerd"
+
+msgid "Blue"
+msgstr "Blauw"
+
+msgid "Blues"
+msgstr "Blues"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Blur"
+msgstr "Vervagen"
+
+msgid "<b>Name:</b>"
+msgstr "<b>Naam:</b>"
+
+msgid "Body"
+msgstr "Inhoud"
+
+msgid "Bold"
+msgstr "Vet"
+
+msgid "&Bold"
+msgstr "&Vet"
+
+msgid "_Bold"
+msgstr "_Vet"
+
+msgid "Bold text"
+msgstr "Vette tekst"
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Book"
+msgstr "Boek"
+
+msgid "Bookmark"
+msgstr "Bladwijzer"
+
+msgid "Bookmarks"
+msgstr "Bladwijzers"
+
+msgid "&Bookmarks"
+msgstr "&Bladwijzers"
+
+msgid "_Bookmarks"
+msgstr "Bl_adwijzers"
+
+msgid "Boolean"
+msgstr "Booleaanse waarde"
+
+msgid "Border"
+msgstr "Grens"
+
+msgid "Bosnian"
+msgstr "Bosnisch"
+
+msgid "Both"
+msgstr "Beide"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Bottom"
+msgstr "Onder"
+
+msgid "_Bottom"
+msgstr "_Onderaan"
+
+msgid "Bottom Left"
+msgstr "Linksonder"
+
+msgid "Bottom Right"
+msgstr "Rechtsonder"
+
+msgid "Bottom-left"
+msgstr "Linksonder"
+
+msgid "Bottom-right"
+msgstr "Rechtsonder"
+
+msgid "Box"
+msgstr "Vak"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Branch"
+msgstr "Branch"
+
+msgid "Brazil"
+msgstr "Brazilië"
+
+msgid "Breeze"
+msgstr "Breeze"
+
+msgid "Breeze by the KDE VDG"
+msgstr "Breeze door de KDE VDG"
+
+msgid "Breeze Dark"
+msgstr "Breeze Dark"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "Breeze Dark door de KDE VDG"
+
+msgid "Breton"
+msgstr "Bretons"
+
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+msgid "Bridge"
+msgstr "Brug"
+
+msgid "Brightness"
+msgstr "Helderheid"
+
+msgid "Broken"
+msgstr "Beschadigd"
+
+msgid "Browse"
+msgstr "Bladeren"
+
+msgid "Browse..."
+msgstr "Bladeren..."
+
+msgid "_Browse..."
+msgstr "_Bladeren…"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Buffer"
+msgstr "Buffer"
+
+msgid "Bug fixes"
+msgstr "Reparaties van bugs"
+
+msgid "Build"
+msgstr "Bouwen"
+
+msgid "Built-in Screen"
+msgstr "Ingebouwd scherm"
+
+msgid "Bulgaria"
+msgstr "Bulgarije"
+
+msgid "Bulgarian"
+msgstr "Bulgaars"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burn"
+msgstr "Branden"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Bus"
+msgstr "Bus"
+
+msgid "Busy"
+msgstr "Bezet"
+
+msgid "Butt"
+msgstr "Onderkant"
+
+msgid "Button"
+msgstr "Knop"
+
+msgid "Buttons"
+msgstr "Knoppen"
+
+msgid "by"
+msgstr "door"
+
+msgid "By %1"
+msgstr "Door %1"
+
+msgid "By extension"
+msgstr "Op extensie"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "bytes"
+msgstr "bytes"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "CA-certificaat"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Calculate"
+msgstr "Berekenen"
+
+msgid "Calculating..."
+msgstr "Berekenen..."
+
+msgid "Calculator"
+msgstr "Rekenmachine"
+
+msgid "Calendar"
+msgstr "Agenda"
+
+msgid "Calendars"
+msgstr "Agenda's"
+
+msgid "Call"
+msgstr "Oproep"
+
+msgid "Calls"
+msgstr "Aanroepen"
+
+msgid "Cambodia"
+msgstr "Cambodja"
+
+msgid "Camera"
+msgstr "Camera"
+
+msgid "Cameroon"
+msgstr "Kameroen"
+
+msgid "Canada"
+msgstr "Canada"
+
 msgid "Cancel"
 msgstr "Annuleren"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "&Cancel"
+msgstr "&Annuleren"
+
+msgid "_Cancel"
+msgstr "_Annuleren"
+
+msgid "C&ancel"
+msgstr "&Annuleren"
+
+msgid "Canceled"
+msgstr "Geannuleerd"
+
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+msgid "cannot load editor plugin: %s"
+msgstr "laden van verwerkersplug-in mislukt: %s"
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr "laden van factory %s uit plug-in %s mislukt"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "Werkveld"
+
+msgid "Capabilities"
+msgstr "Mogelijkheden"
+
+msgid "Capacity"
+msgstr "Capaciteit"
+
+msgid "Cape Verde"
+msgstr "Kaapverdië"
+
+msgid "Capitalize"
+msgstr "Kapitaliseren"
+
+msgid "Caps Lock is on"
+msgstr "Caps Lock staat aan"
+
+msgid "Capture"
+msgstr "Opname"
+
+msgid "Car"
+msgstr "Auto"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "Trapsgewijs"
+
+msgid "Case Sensitive"
+msgstr "Hoofdlettergevoelig"
+
+msgid "Case sensitive"
+msgstr "Hoofdlettergevoelig"
+
+msgid "Castle"
+msgstr "Kasteel"
+
+msgid "Catalan"
+msgstr "Catalaans"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "CC"
+msgstr "CC"
+
+msgid "Cc"
+msgstr "Cc"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "Cel"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Celtic"
+msgstr "Keltisch"
+
+msgid "Center"
+msgstr "Midden"
+
+msgid "Centered"
+msgstr "Gecentreerd"
+
+msgid "Centimeters"
+msgstr "Centimeters"
+
+msgid "Centimeters (cm)"
+msgstr "Centimeters (cm)"
+
+msgid "Central"
+msgstr "Midden"
+
+msgid "Central African Republic"
+msgstr "Centraal-Afrikaanse Republiek"
+
+msgid "Central European"
+msgstr "Centraal-Europees"
+
+msgid "Certificate"
+msgstr "Certificaat"
+
+msgid "Certificates (TLS)"
+msgstr "Certificaten (TLS)"
+
+msgid "Chad"
+msgstr "Tsjaad"
+
+msgid "Change"
+msgstr "Wijzigen"
+
+msgid "Change..."
+msgstr "Wijzigen..."
+
+msgid "Changed"
+msgstr "Gewijzigd"
+
+msgid "Channel"
+msgstr "Kanaal"
+
+msgid "Channels"
+msgstr "Kanalen"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "Hoofdstuk"
+
+msgid "Chapters"
+msgstr "Hoofdstukken"
+
+msgid "Character"
+msgstr "Teken"
+
+msgid "Characters"
+msgstr "Karakters"
+
+msgid "Charging"
+msgstr "Opladen"
+
+msgid "Chart"
+msgstr "Grafiek"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Check"
+msgstr "Controleren"
+
+msgid "Check for updates"
+msgstr "Controleren op bijwerken"
+
+msgid "Check Spelling"
+msgstr "Spelling controleren"
+
+msgid "Checkbox"
+msgstr "Keuzevakje"
+
+msgid "Checkout"
+msgstr "Checkout"
+
+msgid "Cherokee"
+msgstr "Cherokee"
+
+msgid "Children"
+msgstr "Dochters"
+
+msgid "Chile"
+msgstr "Chili"
+
+msgid "China"
+msgstr "China"
+
+msgid "Chinese"
+msgstr "Chinees"
+
+msgid "Chinese Simplified"
+msgstr "Vereenvoudigd Chinees"
+
+msgid "Chinese Traditional"
+msgstr "Traditioneel Chinees"
+
+msgid "Choose"
+msgstr "Kiezen"
+
+msgid "Choose..."
+msgstr "Kiezen..."
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Circle"
+msgstr "Cirkel"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Class"
+msgstr "Klasse"
+
+msgid "Classes"
+msgstr "Klassen"
+
+msgid "Classic"
+msgstr "Klassiek"
+
+msgid "Classical"
+msgstr "Klassiek"
+
+msgid "Clean"
+msgstr "Opschonen"
+
+msgid "Cleanup"
+msgstr "Opruimen (cleanup)"
+
+msgid "Clear"
+msgstr "Wissen"
+
+msgid "&Clear"
+msgstr "&Wissen"
+
+msgid "_Clear"
+msgstr "_Wissen"
+
+msgid "C&lear"
+msgstr "W&issen"
+
+msgid "Clear All"
+msgstr "Alles wissen"
+
+msgid "Clear History"
+msgstr "Geschiedenis wissen"
+
+msgid "Clear history"
+msgstr "Geschiedenis wissen"
+
+msgid "Clear List"
+msgstr "Lijst wissen"
+
+msgid "Client"
+msgstr "Client"
+
+msgid "Clip"
+msgstr "Clip"
+
+msgid "Clipboard"
+msgstr "Klembord"
+
+msgid "Clock"
+msgstr "Klok"
+
+msgid "Clockwise"
+msgstr "Rechtsom"
+
+msgid "Clone"
+msgstr "Klonen"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "&Close"
+msgstr "&Sluiten"
+
+msgid "_Close"
+msgstr "_Sluiten"
+
+msgid "Close All"
+msgstr "Alles sluiten"
+
+msgid "Close Document"
+msgstr "Document sluiten"
+
+msgid "Close message"
+msgstr "Bericht sluiten"
+
+msgid "Close Tab"
+msgstr "Tabblad sluiten"
+
+msgid "Close tab"
+msgstr "Tabblad sluiten"
+
+msgid "Close the current tab"
+msgstr "Het huidige tabblad sluiten"
+
+msgid "Close this window"
+msgstr "Dit venster sluiten"
+
+msgid "Close Window"
+msgstr "Venster sluiten"
+
+msgid "Close window"
+msgstr "Venster sluiten"
+
+msgid "Close _without Saving"
+msgstr "Sluiten _zonder op te slaan"
+
+msgid "Closed"
+msgstr "Gesloten"
+
+msgid "Cloud"
+msgstr "Wolk"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "code"
+msgstr "code"
+
+msgid "Codec"
+msgstr "Codec"
+
+msgid "Collapse"
+msgstr "Invouwen"
+
+msgid "Collapse All"
+msgstr "Alles invouwen"
+
+msgid "Collection"
+msgstr "Verzameling"
+
+msgid "Collections"
+msgstr "Verzamelingen"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Color"
+msgstr "Kleur"
+
+msgid "color"
+msgstr "kleur"
+
+msgid "&Color"
+msgstr "&Kleur"
+
+msgid "Color Balance"
+msgstr "Kleurbalans"
+
+msgid "Color Management"
+msgstr "Kleurbeheer"
+
+msgid "Color Mode"
+msgstr "Kleurmodus"
+
+msgid "Color Picker"
+msgstr "Kleurenkiezer"
+
+msgid "Color Scheme"
+msgstr "Kleurenschema"
+
+msgid "Color scheme"
+msgstr "Kleurenschema"
+
+msgid "Color Space"
+msgstr "Kleurruimte"
+
+msgid "Color theme"
+msgstr "Kleurenthema"
+
+msgid "Colorize"
+msgstr "Inkleuren"
+
+msgid "Colors"
+msgstr "Kleuren"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "Column %1"
+msgstr "Kolom %1"
+
+msgid "Columns"
+msgstr "Kolommen"
+
+msgid "Comma"
+msgstr "Komma"
+
+msgid "COMMAND"
+msgstr "OPDRACHT"
+
+msgid "Command"
+msgstr "Commando"
+
+msgid "command"
+msgstr "commando"
+
+msgid "Command Line"
+msgstr "Opdrachtregel"
+
+msgid "Command to execute"
+msgstr "Uit te voeren commando"
+
+msgid "Commands"
+msgstr "Commando's"
+
+msgid "Comment"
+msgstr "Toelichting"
+
+msgid "Comments"
+msgstr "Opmerkingen"
+
+msgid "Commit"
+msgstr "Commit"
+
+msgid "Common"
+msgstr "Algemeen"
+
+msgid "Comoros"
+msgstr "Comoren"
+
+msgid "Compact"
+msgstr "Compact"
+
+msgid "Compare"
+msgstr "Vergelijken"
+
+msgid "Complete"
+msgstr "Voltooid"
+
+msgid "Completed"
+msgstr "Voltooid"
+
+msgid "Completion"
+msgstr "Voltooiing"
+
+msgid "Component"
+msgstr "Component"
+
+msgid "Components"
+msgstr "Componenten"
+
+msgid "Composer"
+msgstr "Componist"
+
+msgid "Composition"
+msgstr "Compositie"
+
+msgid "Compress"
+msgstr "Comprimeren"
+
+msgid "Compression"
+msgstr "Compressie"
+
+msgid "Computer"
+msgstr "Computer"
+
+msgid "Condition"
+msgstr "Voorwaarde"
+
+msgid "Confidential"
+msgstr "Vertrouwelijk"
+
+msgid "Configuration"
+msgstr "Configuratie"
+
+msgid "Configure"
+msgstr "Configureren"
+
+msgid "Configure..."
+msgstr "Configureren..."
+
+msgid "Configure %1"
+msgstr "%1 configureren"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "Sneltoetsen configureren"
+
+msgid "Configure Plugins"
+msgstr "Plugins instellen"
+
+msgid "Configure Toolbars"
+msgstr "Werkbalken configureren"
+
+msgid "Configure Web Shortcuts..."
+msgstr "Websnelkoppelingen configureren…"
+
+msgid "Confirm"
+msgstr "Bevestigen"
+
+msgid "Confirmation"
+msgstr "Bevestiging"
+
+msgid "Confirmation Required"
+msgstr "Bevestiging vereist"
+
+msgid "Confirmed"
+msgstr "Bevestigd"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "Conflict met standaard-sneltoets van de toepassing"
+
+msgid "Connect"
+msgstr "Verbinden"
+
+msgid "C_onnect"
+msgstr "_Verbinden"
+
+msgid "Connected"
+msgstr "Verbonden"
+
+msgid "Connecting"
+msgstr "Bezig met verbinden"
+
+msgid "Connecting..."
+msgstr "Verbinden..."
+
+msgid "Connection"
+msgstr "Verbinding"
+
+msgid "Connection Failed"
+msgstr "Verbinding is mislukt"
+
+msgid "Connection Settings"
+msgstr "Verbindingsinstellingen"
+
+msgid "Connections"
+msgstr "Verbindingen"
+
+msgid "Console"
+msgstr "Console"
+
+msgid "Constant"
+msgstr "Constante"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+"bouweigenschap ‘%s’ voor object ‘%s’ kan niet worden ingesteld na de bouw"
+
+msgid "Contact"
+msgstr "Contactpersoon"
+
+msgid "Contacts"
+msgstr "Contactpersonen"
+
+msgid "Container"
+msgstr "Container"
+
+msgid "Contains"
+msgstr "Bevat"
+
+msgid "contains"
+msgstr "bevat"
+
+msgid "Content"
+msgstr "Inhoud"
+
+msgid "Content Type"
+msgstr "Type inhoud"
+
+msgid "Contents"
+msgstr "Inhoud"
+
+msgid "_Contents"
+msgstr "In_houd"
+
+msgid "Context"
+msgstr "Context"
+
+msgid "Continue"
+msgstr "Doorgaan"
+
+msgid "_Continue"
+msgstr "_Doorgaan"
+
+msgid "Contrast"
+msgstr "Contrast"
+
+msgid "Contributor"
+msgstr "Medewerker"
+
+msgid "Control"
+msgstr "Besturing"
+
+msgid "Convert"
+msgstr "Converteren"
+
+msgid "Convert to Path"
+msgstr "Converteren naar pad"
+
+msgid "Cookies"
+msgstr "Cookies"
+
+msgid "Coordinates"
+msgstr "Coördinaten"
+
+msgid "Copied to clipboard"
+msgstr "Gekopieerd naar klembord"
+
+msgid "Coptic"
+msgstr "Koptisch"
+
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgid "copy"
+msgstr "kopie"
+
+msgid "&Copy"
+msgstr "&Kopiëren"
+
+msgid "_Copy"
+msgstr "_Kopiëren"
+
+msgid "Copy Email Address"
+msgstr "E-mailadres kopiëren"
+
+msgid "&Copy Here"
+msgstr "Hierheen &kopiëren"
+
+msgid "Copy Image"
+msgstr "Afbeelding kopiëren"
+
+msgid "Copy Link"
+msgstr "Koppeling kopiëren"
+
+msgid "Copy Link Address"
+msgstr "Koppelingsadres kopiëren"
+
+msgid "_Copy Link Address"
+msgstr "Verwijzingsadres _kopiëren"
+
+msgid "Copy Location"
+msgstr "Locatie kopiëren"
+
+msgid "Copy of %1"
+msgstr "Kopie van %1"
+
+msgid "Copy selection to clipboard"
+msgstr "Selectie kopiëren naar het klembord"
+
+msgid "Copy Text"
+msgstr "Tekst kopiëren"
+
+msgid "Copy to Clipboard"
+msgstr "Naar klembord kopiëren"
+
+msgid "Copy to clipboard"
+msgstr "Naar klembord kopiëren"
+
+msgid "Copy URL"
+msgstr "URL kopiëren"
+
+msgid "Copying files"
+msgstr "Bestanden kopiëren"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Cost"
+msgstr "Kosten"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Could not open %1"
+msgstr "Kan %1 niet openen"
+
+msgid "Could not open file."
+msgstr "Kon het bestand niet openen."
+
+msgid "Count"
+msgstr "Aantal"
+
+msgid "Counter"
+msgstr "Teller"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "Aanmaken"
+
+msgid "C_reate"
+msgstr "_Aanmaken"
+
+msgid "Create Folder"
+msgstr "Map aanmaken"
+
+msgid "Create New"
+msgstr "Nieuwe aanmaken"
+
+msgid "Created"
+msgstr "Aangemaakt"
+
+msgid "Creation Date"
+msgstr "Aanmaakdatum"
+
+msgid "Creation date"
+msgstr "Aanmaakdatum"
+
+msgid "Creator"
+msgstr "Maker"
+
+msgid "Credentials"
+msgstr "Credentials"
+
+msgid "Credits"
+msgstr "Dankbetuigingen"
+
+msgid "Criteria"
+msgstr "Criteria"
+
+msgid "Critical"
+msgstr "Kritiek"
+
+msgid "Croatia"
+msgstr "Kroatië"
+
+msgid "Croatian"
+msgstr "Kroatisch"
+
+msgid "Crop"
+msgstr "Bijsnijden"
+
+msgid "Crop image"
+msgstr "Afbeelding bijsnijden"
+
+msgid "Cross"
+msgstr "Kruis"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr "Ctrl+O"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Current"
+msgstr "Huidige"
+
+msgid "Current Maintainer"
+msgstr "Huidige onderhouder"
+
+msgid "Current maintainer"
+msgstr "Huidige onderhouder"
+
+msgid "Cursor"
+msgstr "Cursor"
+
+msgid "Curve"
+msgstr "Kromme"
+
+msgid "Curves"
+msgstr "Curves"
+
+msgid "Custom"
+msgstr "Aangepast"
+
+msgid "Custom..."
+msgstr "Aangepast..."
+
+msgid "Custom Font"
+msgstr "Aangepast lettertype"
+
+msgid "Cut"
+msgstr "Knippen"
+
+msgid "Cu&t"
+msgstr "Kni&ppen"
+
+msgid "Cu_t"
+msgstr "K_nippen"
+
+msgid "Cyan"
+msgstr "Cyaan"
+
+msgid "Cyprus"
+msgstr "Cyprus"
+
+msgid "Cyrillic"
+msgstr "Cyrillisch"
+
+msgid "Czech"
+msgstr "Tsjechisch"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "Dagelijks"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+msgid "Danish"
+msgstr "Deens"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr "Donker"
+
+msgid "Dark Mode"
+msgstr "Donkere modus"
+
+msgid "Darken"
+msgstr "Donkerder maken"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Dashed"
+msgstr "Streepjes"
+
+msgid "Data"
+msgstr "Gegevens"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "date"
+msgstr "datum"
+
+msgid "Date & Time"
+msgstr "Datum & tijd"
+
+msgid "Date and Time"
+msgstr "Datum en tijd"
+
+msgid "Date Format"
+msgstr "Datumopmaak"
+
+msgid "Date Modified"
+msgstr "Datum gewijzigd"
+
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Days"
+msgstr "Dagen"
+
+msgid "days"
+msgstr "dagen"
+
+msgid "day(s)"
+msgstr "dag(en)"
+
+msgid "D-Bus name to use for this instance"
+msgstr "D-Bus-naam voor deze instantie"
+
+msgid "Debug"
+msgstr "Debuggen"
+
+msgid "Debugger"
+msgstr "Debugger"
+
+msgid "Debugging"
+msgstr "Debuggen"
+
+msgid "December"
+msgstr "December"
+
+msgid "Decimal"
+msgstr "Decimaal"
+
+msgid "Decline"
+msgstr "Afwijzen"
+
+msgid "Decrease Font Size"
+msgstr "Tekengrootte kleiner"
+
+msgid "Decrease Indent"
+msgstr "Minder inspringen"
+
+msgid "Decrease Volume"
+msgstr "Volume verlagen"
+
+msgid "Decrypt"
+msgstr "Ontcijferen"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "default"
+msgstr "standaard"
+
+msgid "Defaults"
+msgstr "Standaardwaarden"
+
+msgid "Definition"
+msgstr "Definitie"
+
+msgid "degrees"
+msgstr "graden"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay"
+msgstr "Vertraging"
+
 msgid "Delete"
 msgstr "Verwijderen"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@title"
-msgid "Appearance"
-msgstr "Uiterlijk"
+msgid "&Delete"
+msgstr "Verwij&deren"
+
+msgid "_Delete"
+msgstr "_Verwijderen"
+
+msgid "D&elete"
+msgstr "V&erwijderen"
+
+msgid "Delete..."
+msgstr "Verwijderen…"
+
+msgid "Delete %1"
+msgstr "%1 verwijderen"
+
+msgid "Delete All"
+msgstr "Alles verwijderen"
+
+msgid "Delete File"
+msgstr "Bestand verwijderen"
+
+msgid "Delete Folder"
+msgstr "Map verwijderen"
+
+msgid "Delete Image"
+msgstr "Afbeelding verwijderen"
+
+msgid "Delete Selected"
+msgstr "Selectie verwijderen"
+
+msgid "Delete selection"
+msgstr "Selectie verwijderen"
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "Verwijderd"
+
+msgid "Deletion"
+msgstr "Verwijdering"
+
+msgid "Delimiter"
+msgstr "Scheidingsteken"
+
+msgid "Delta"
+msgstr "Delta"
+
+msgid "Denmark"
+msgstr "Denemarken"
+
+msgid "Density"
+msgstr "Dichtheid"
+
+msgid "Deny"
+msgstr "Weigeren"
+
+msgid "Dependencies"
+msgstr "Afhankelijkheden"
+
+msgid "Depth"
+msgstr "Diepte"
+
+msgid "Desaturate"
+msgstr "Grijswaarden"
+
+msgid "Descending"
+msgstr "Aflopend"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "&Description"
+msgstr "&Beschrijving"
+
+msgid "Deselect"
+msgstr "Selectie opheffen"
+
+msgid "Deselect All"
+msgstr "Alles deselecteren"
+
+msgid "Desert"
+msgstr "Woestijn"
+
+msgid "Desktop"
+msgstr "Bureaublad"
+
+msgid "Destination"
+msgstr "Bestemming"
+
+msgid "Detach"
+msgstr "Losmaken"
+
+msgid "_Detach Tab"
+msgstr "Tab _loskoppelen"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "&Details"
+msgstr "&Details"
+
+msgid "_Details"
+msgstr "_Details"
+
+msgid "Details..."
+msgstr "Details…"
+
+msgid "Devanagari"
+msgstr "Devanagari"
+
+msgid "Developer"
+msgstr "Ontwikkelaar"
+
+msgid "Development"
+msgstr "Ontwikkeling"
+
+msgid "Device"
+msgstr "Apparaat"
+
+msgid "device"
+msgstr "apparaat"
+
+msgid "Device Information"
+msgstr "Apparaatinformatie"
+
+msgid "Device Status"
+msgstr "Apparaatstatus"
+
+msgid "Device type"
+msgstr "Apparaattype"
+
+msgid "Devices"
+msgstr "Apparaten"
+
+msgid "Diagnostics"
+msgstr "Diagnostiek"
+
+msgid "Diagonal"
+msgstr "Diagonaal"
+
+msgid "Dialog"
+msgstr "Dialoog"
+
+msgid "Dialogs"
+msgstr "Dialoogvensters"
+
+msgid "Diamond"
+msgstr "Diamant"
+
+msgid "Dictionary"
+msgstr "Woordenboek"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "Verschil"
+
+msgid "Difficulty"
+msgstr "Moeilijkheid"
+
+msgid "Digit"
+msgstr "Cijfer"
+
+msgid "Dimensions"
+msgstr "Afmetingen"
+
+msgid "DIR"
+msgstr "MAP"
+
+msgid "Direction"
+msgstr "Richting"
+
+msgid "Directories"
+msgstr "Mappen"
+
+msgid "Directory"
+msgstr "Map"
+
+msgid "directory"
+msgstr "map"
+
+msgid "Directory Name"
+msgstr "Mapnaam"
+
+msgid "Disable"
+msgstr "Uitschakelen"
+
+msgid "Disable connection to session manager"
+msgstr "Schakel de verbinding met het sessiebeheer uit"
+
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+msgid "disabled"
+msgstr "uitgeschakeld"
+
+msgid "Disc"
+msgstr "Schijf"
+
+msgid "Disc Number"
+msgstr "Schijfnummer"
+
+msgid "Discard"
+msgstr "Verwerpen"
+
+msgid "_Discard"
+msgstr "_Verwerpen"
+
+msgid "Discard All"
+msgstr "Alles verwerpen"
+
+msgid "Discard Changes"
+msgstr "Wijzigingen negeren"
+
+msgid "Discard changes"
+msgstr "Wijzigingen verwerpen"
+
+msgid "_Discard Changes"
+msgstr "Wijzigingen _verwerpen"
+
+msgid "Discharging"
+msgstr "Ontladen"
+
+msgid "Disconnect"
+msgstr "Verbinding verbreken"
+
+msgid "Disconnected"
+msgstr "Verbinding verbroken"
+
+msgid "Discover"
+msgstr "Ontdekken"
+
+msgid "Discrete"
+msgstr "Discreet"
+
+msgid "Disk"
+msgstr "Schijf"
+
+msgid "Dismiss"
+msgstr "Verwerpen"
+
+msgid "Display"
+msgstr "Weergave"
+
+msgid "Display Configuration"
+msgstr "Configuratie van het scherm"
+
+msgid "Display Name"
+msgstr "Schermnaam"
+
+msgid "Display Settings"
+msgstr "Beeldscherminstellingen"
+
+msgid "Dissolve"
+msgstr "Oplossen"
+
+msgid "Distance"
+msgstr "Afstand"
+
+msgid "Divide"
+msgstr "Delen"
+
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "Deze vraag niet meer stellen"
+
+msgid "Do Not Cancel"
+msgstr "Niet annuleren"
+
+msgid "Do not change the actual backend data."
+msgstr "Wijzig de actuele backend-data niet."
+
+msgid "Do not show again"
+msgstr "Niet meer tonen"
+
+msgid "Do not show this message again"
+msgstr "Dit bericht niet meer tonen"
+
+msgid "Do Nothing"
+msgstr "Niets doen"
+
+msgid "Do nothing"
+msgstr "Niets doen"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Document Properties"
+msgstr "Documenteigenschappen"
+
+msgid "Document to open"
+msgstr "Te openen document"
+
+msgid "Document Viewer"
+msgstr "Documentenviewer"
+
+msgid "Documentation"
+msgstr "Documentatie"
+
+msgid "Documents"
+msgstr "Documenten"
+
+msgid "does not contain"
+msgstr "bevat niet"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "Domein"
+
+msgid "Dominica"
+msgstr "Dominica"
+
+msgid "Dominican Republic"
+msgstr "Dominicaanse Republiek"
+
+msgid "Donate"
+msgstr "Doneren"
+
+msgid "Done"
+msgstr "Gereed"
+
+msgid "Dot"
+msgstr "Punt"
+
+msgid "Dots"
+msgstr "Stippen"
+
+msgid "Dotted"
+msgstr "Gestippeld"
+
+msgid "Double"
+msgstr "Dubbel"
+
+msgid "Down"
+msgstr "Omlaag"
+
+msgid "Download"
+msgstr "Downloaden"
+
+msgid "Download Manager"
+msgstr "Downloadbeheerder"
+
+msgid "Downloaded"
+msgstr "Gedownload"
+
+msgid "Downloading"
+msgstr "Downloaden"
+
+msgid "Downloading..."
+msgstr "Downloaden…"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Dr."
+msgstr "Dr."
+
+msgid "Draft"
+msgstr "Concept"
+
+msgid "Drafts"
+msgstr "Concepten"
+
+msgid "Draw"
+msgstr "Tekenen"
+
+msgid "Drive"
+msgstr "Station"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "Gereeddatum"
+
+msgid "Due Date"
+msgstr "Einddatum"
+
+msgid "Duplicate"
+msgstr "Dupliceren"
+
+msgid "_Duplicate"
+msgstr "_Dupliceren"
+
+msgid "Duplicates"
+msgstr "Duplicaten"
+
+msgid "Duration"
+msgstr "Duur"
+
+msgid "Dutch"
+msgstr "Nederlands"
+
+msgid "DVD"
+msgstr "dvd"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "O"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "Oost"
+
+msgid "Easy"
+msgstr "Gemakkelijk"
+
+msgid "Echo"
+msgstr "Echo"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Edge"
+msgstr "Rand"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "&Edit"
+msgstr "Be&werken"
+
+msgid "_Edit"
+msgstr "Be_werken"
+
+msgid "Edit..."
+msgstr "Bewerken..."
+
+msgid "&Edit..."
+msgstr "B&ewerken..."
+
+msgid "Edit %1"
+msgstr "%1 bewerken"
+
+msgid "Edit Bookmark"
+msgstr "Bladwijzer bewerken"
+
+msgid "Edit Filter"
+msgstr "Filter bewerken"
+
+msgid "Edit Image"
+msgstr "Afbeelding bewerken"
+
+msgid "Editing"
+msgstr "Bewerken"
+
+msgid "Editor"
+msgstr "Bewerker"
+
+msgid "Education"
+msgstr "Onderwijs"
+
+msgid "Effects"
+msgstr "Effecten"
+
+msgid "Egypt"
+msgstr "Egypte"
+
+msgid "Egyptian"
+msgstr "Egyptenaar"
+
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+msgid "Eject"
+msgstr "Uitwerpen"
+
+msgid "_Eject"
+msgstr "Uitw_erpen"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Electronic"
+msgstr "Electronic"
+
+msgid "Element"
+msgstr "Element"
+
+msgid "Ellipse"
+msgstr "Ellips"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Email Address"
+msgstr "E-mailadres"
+
+msgid "Email address"
+msgstr "E-mailadres"
+
+msgid "Emails"
+msgstr "E-mailberichten"
+
+msgid "Embedded"
+msgstr "Ingebed"
+
+msgid "Emboss"
+msgstr "Reliëf"
+
+msgid "Emphasis"
+msgstr "Accentuering"
+
+msgid "Empty"
+msgstr "Leeg"
+
+msgid "empty"
+msgstr "leeg"
+
+msgid "(empty)"
+msgstr "(leeg)"
+
+msgid "<empty>"
+msgstr "<leeg>"
+
+msgid "Empty Trash"
+msgstr "Prullenbak legen"
+
+msgid "Enable"
+msgstr "Inschakelen"
+
+msgid "Enable system tray icon"
+msgstr "Systeemvakpictogram inschakelen"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr "Uitgebreide debug-logging inschakelen (kan wachtwoorden blootstellen)"
+
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+msgid "Encoder"
+msgstr "Encoder"
+
+msgid "Encoding"
+msgstr "Codering"
+
+msgid "_Encoding"
+msgstr "Cod_eren"
+
+msgid "Encrypt"
+msgstr "Versleutelen"
+
+msgid "&Encrypt"
+msgstr "V&ersleutelen"
+
+msgid "Encrypted"
+msgstr "Versleuteld"
+
+msgid "Encryption"
+msgstr "Versleuteling"
+
+msgid "End"
+msgstr "Einde"
+
+msgid "end"
+msgstr "einde"
+
+msgid "End Date"
+msgstr "Einddatum"
+
+msgid "End Time"
+msgstr "Eindtijd"
+
+msgid "ends with"
+msgstr "eindigt met"
+
+msgid "Energy"
+msgstr "Energie"
+
+msgid "Engine"
+msgstr "Engine"
+
+msgid "Engineering"
+msgstr "Techniek"
+
+msgid "English"
+msgstr "Engels"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Enter password"
+msgstr "Wachtwoord invoeren"
+
+msgid "Entry"
+msgstr "Item"
+
+msgid "Environment"
+msgstr "Omgeving"
+
+msgid "equals"
+msgstr "gelijk aan"
+
+msgid "Equation"
+msgstr "Vergelijking"
+
+msgid "Equatorial Guinea"
+msgstr "Equatoriaal Guinea"
+
+msgid "Erase"
+msgstr "Wissen"
+
+msgid "Eraser"
+msgstr "Gum"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "ERROR"
+msgstr "FOUT"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "error"
+msgstr "fout"
+
+msgid "Error: %1"
+msgstr "Fout: %1"
+
+msgid "Error message"
+msgstr "Foutmelding"
+
+msgid "Errors"
+msgstr "Fouten"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonia"
+msgstr "Estland"
+
+msgid "Estonian"
+msgstr "Ests"
+
+msgid "Ethiopia"
+msgstr "Ethiopië"
+
+msgid "Ethiopic"
+msgstr "Ethiopisch"
+
+msgid "Europe"
+msgstr "Europa"
+
+msgid "Evaluate"
+msgstr "Evalueren"
+
+msgid "Event"
+msgstr "Gebeurtenis"
+
+msgid "Events"
+msgstr "Gebeurtenissen"
+
+msgid "Everyone"
+msgstr "Iedereen"
+
+msgid "Everything"
+msgstr "Alles"
+
+msgid "Exact"
+msgstr "Exact"
+
+msgid "Example"
+msgstr "Voorbeeld"
+
+msgid "Examples"
+msgstr "Voorbeelden"
+
+msgid "Exception"
+msgstr "Uitzondering"
+
+msgid "Exclude"
+msgstr "Uitsluiten"
+
+msgid "Exclusion"
+msgstr "Uitsluiting"
+
+msgid "Executable"
+msgstr "Uitvoerbaar bestand"
+
+msgid "Execute"
+msgstr "Uitvoeren"
+
+msgid "Exit"
+msgstr "Afsluiten"
+
+msgid "Exit Full Screen"
+msgstr "Volledig scherm verlaten"
+
+msgid "Exit Fullscreen"
+msgstr "Volledig scherm verlaten"
+
+msgid "Exiting..."
+msgstr "Bezig met beëindigen..."
+
+msgid "Expand"
+msgstr "Uitvouwen"
+
+msgid "Expand All"
+msgstr "Alles uitvouwen"
+
+msgid "Experimental"
+msgstr "Experimenteel"
+
+msgid "Expired"
+msgstr "Verlopen"
+
+msgid "Expires"
+msgstr "Verloopt op"
+
+msgid "Export"
+msgstr "Exporteren"
+
+msgid "&Export"
+msgstr "&Exporteren"
+
+msgid "_Export"
+msgstr "_Exporteren"
+
+msgid "Export..."
+msgstr "Exporteren..."
+
+msgid "&Export..."
+msgstr "&Exporteren..."
+
+msgid "_Export..."
+msgstr "_Exporteren…"
+
+msgid "E&xport..."
+msgstr "E&xporteren..."
+
+msgid "Export As..."
+msgstr "Exporteren als..."
+
+msgid "Export failed"
+msgstr "Exporteren is mislukt"
+
+msgid "Export Options"
+msgstr "Exportopties"
+
+msgid "Exposure"
+msgstr "Belichting"
+
+msgid "Expression"
+msgstr "Expressie"
+
+msgid "Extended"
+msgstr "Uitgebreid"
+
+msgid "Extension"
+msgstr "Extensie"
+
+msgid "Extensions"
+msgstr "Extensies"
+
+msgid "Extra Toolbar"
+msgstr "Extra werkbalk"
+
+msgid "Extract"
+msgstr "Uitpakken"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "Vervagen"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Failed"
+msgstr "Mislukt"
+
+msgid "False"
+msgstr "Onwaar"
+
+msgid "false"
+msgstr "onwaar"
+
+msgid "Family"
+msgstr "Familie"
+
+msgid "Family Name"
+msgstr "Achternaam"
+
+msgid "Fast"
+msgstr "Snel"
+
+msgid "Faster"
+msgstr "Sneller"
+
+msgid "Fatal Error"
+msgstr "Fatale fout"
+
+msgid "Favorite"
+msgstr "Favoriet"
+
+msgid "Favorites"
+msgstr "Favorieten"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Features"
+msgstr "Mogelijkheden"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "Feeds"
+msgstr "Feeds"
+
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+msgid "Fetch"
+msgstr "Ophalen"
+
+msgid "Fiji"
+msgstr "Fiji"
+
+msgid "FILE"
+msgstr "BESTAND"
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "file"
+msgstr "bestand"
+
+msgid "&File"
+msgstr "&Bestand"
+
+msgid "_File"
+msgstr "_Bestand"
+
+msgid "[FILE...]"
+msgstr "[BESTAND...]"
+
+msgid "File Already Exists"
+msgstr "Bestand bestaat al"
+
+msgid "File already exists"
+msgstr "Bestand bestaat al"
+
+msgid "File Exists"
+msgstr "Bestand bestaat"
+
+msgid "File Format"
+msgstr "Bestandsformaat"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "Bestandsbeheerder"
+
+msgid "File Name"
+msgstr "Bestandsnaam"
+
+msgid "File name"
+msgstr "Bestandsnaam"
+
+msgid "File Not Found"
+msgstr "Bestand niet gevonden"
+
+msgid "File not found"
+msgstr "Bestand niet gevonden"
+
+msgid "File Path"
+msgstr "Bestandspad"
+
+msgid "File Properties"
+msgstr "Bestandseigenschappen"
+
+msgid "File Size"
+msgstr "Bestandsgrootte"
+
+msgid "File size"
+msgstr "Bestandsgrootte"
+
+msgid "File System"
+msgstr "Bestandssysteem"
+
+msgid "File to open"
+msgstr "Te openen bestand"
+
+msgid "File Transfer"
+msgstr "Bestandsoverdracht"
+
+msgid "File Type"
+msgstr "Bestandstype"
+
+msgid "Filename"
+msgstr "Bestandsnaam"
+
+msgid "Files"
+msgstr "Bestanden"
+
+msgid "Filesystem"
+msgstr "Bestandssysteem"
+
+msgid "Fill"
+msgstr "Vullen"
+
+msgid "Fill Color"
+msgstr "Vulkleur"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Filter..."
+msgstr "Filteren..."
+
+msgid "Filters"
+msgstr "Filters"
+
+msgid "Final"
+msgstr "Definitief"
+
+msgid "Find"
+msgstr "Zoeken"
+
+msgid "&Find"
+msgstr "&Zoeken"
+
+msgid "_Find"
+msgstr "_Zoeken"
+
+msgid "F&ind"
+msgstr "Zo&eken"
+
+msgid "Find..."
+msgstr "Zoeken..."
+
+msgid "_Find..."
+msgstr "_Zoeken…"
+
+msgid "Find and Replace"
+msgstr "Zoeken en vervangen"
+
+msgid "Find Next"
+msgstr "Volgende zoeken"
+
+msgid "Find _Next"
+msgstr "Volge_nde zoeken"
+
+msgid "Find Ne_xt"
+msgstr "Vol_gende zoeken"
+
+msgid "Find Previous"
+msgstr "Vorige zoeken"
+
+msgid "Find Pre_vious"
+msgstr "_Vorige zoeken"
+
+msgid "Fingerprint"
+msgstr "Vingerafdruk"
+
+msgid "Finish"
+msgstr "Voltooien"
+
+msgid "Finished"
+msgstr "Beëindigd"
+
+msgid "Finland"
+msgstr "Finland"
+
+msgid "Finnish"
+msgstr "Fins"
+
+msgid "First"
+msgstr "Eerste"
+
+msgid "First Page"
+msgstr "Eerste pagina"
+
+msgid "Fit"
+msgstr "Passend"
+
+msgid "Fit Width"
+msgstr "Breedte passend maken"
+
+msgid "Fixed"
+msgstr "Vast"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "Gevlagd"
+
+msgid "Flags"
+msgstr "Vlaggen"
+
+msgid "Flash"
+msgstr "Flits"
+
+msgid "Flat"
+msgstr "Vlak"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "Spiegelen"
+
+msgid "Flip Horizontally"
+msgstr "Horizontaal spiegelen"
+
+msgid "Flip horizontally"
+msgstr "Horizontaal spiegelen"
+
+msgid "Flip Vertically"
+msgstr "Verticaal spiegelen"
+
+msgid "Flip vertically"
+msgstr "Verticaal spiegelen"
+
+msgid "Float"
+msgstr "Drijvende komma"
+
+msgid "Floating"
+msgstr "Zwevend"
+
+msgid "Flow"
+msgstr "Flow"
+
+msgid "flower"
+msgstr "bloem"
+
+msgid "Focal Length"
+msgstr "Brandpuntsafstand"
+
+msgid "Focus"
+msgstr "Focus"
+
+msgid "Folder"
+msgstr "Map"
+
+msgid "Folder name"
+msgstr "Mapnaam"
+
+msgid "Folders"
+msgstr "Mappen"
+
+msgid "Folk"
+msgstr "Folk"
+
+msgid "Font"
+msgstr "Lettertype"
+
+msgid "&Font"
+msgstr "&Lettertype"
+
+msgid "Font Color"
+msgstr "Tekstkleur"
+
+msgid "Font Family"
+msgstr "Lettertypefamilie"
+
+msgid "Font Size"
+msgstr "Tekengrootte"
+
+msgid "Font size"
+msgstr "Tekengrootte"
+
+msgid "Fonts"
+msgstr "Lettertypen"
+
+msgid "_Fonts"
+msgstr "_Lettertypes"
+
+msgid "Food"
+msgstr "Eten"
+
+msgid "Footer"
+msgstr "Voettekst"
+
+msgid "Force"
+msgstr "Kracht"
+
+msgid "Forecast"
+msgstr "Prognose"
+
+msgid "Foreground"
+msgstr "Voorgrond"
+
+msgid "Foreground Color"
+msgstr "Voorgrondkleur"
+
+msgid "Foreground color"
+msgstr "Voorgrondkleur"
+
+msgid "forever"
+msgstr "altijd"
+
+msgid "Form"
+msgstr "Formulier"
+
+msgid "Format"
+msgstr "Formaat"
+
+msgid "Formatting"
+msgstr "Opmaak"
+
+msgid "Former Maintainer"
+msgstr "Voormalige onderhouder"
+
+msgid "Former maintainer"
+msgstr "Voormalig onderhouder"
+
+msgid "Formula"
+msgstr "Formule"
+
+msgid "Forward"
+msgstr "Vooruit"
+
+msgid "&Forward"
+msgstr "&Vooruit"
+
+msgid "_Forward"
+msgstr "_Vooruit"
+
+msgid "Fraction"
+msgstr "Fractie"
+
+msgid "Frame"
+msgstr "Frame"
+
+msgid "Framerate"
+msgstr "Framesnelheid"
+
+msgid "Frames"
+msgstr "Frames"
+
+msgid "France"
+msgstr "Frankrijk"
+
+msgid "Free"
+msgstr "Vrij"
+
+msgid "French"
+msgstr "Frans"
+
+msgid "French Guiana"
+msgstr "Frans-Guyana"
+
+msgid "Frequency"
+msgstr "Frequentie"
+
+msgid "Friday"
+msgstr "Vrijdag"
+
+msgid "Friends"
+msgstr "Vrienden"
+
+msgid "From"
+msgstr "Van"
+
+msgid "from"
+msgstr "van"
+
+msgid "From %1"
+msgstr "Van %1"
+
+msgid "Frozen"
+msgstr "Bevroren"
+
+msgid "Full"
+msgstr "Volledig"
+
+msgid "Full Name"
+msgstr "Volledige naam"
+
+msgid "Full Screen"
+msgstr "Volledig scherm"
+
+msgid "Full Screen Mode"
+msgstr "Volledig scherm"
+
+msgid "F&ull Screen Mode"
+msgstr "Volledig scher&m"
+
+msgid "Fullscreen"
+msgstr "Volledig scherm"
+
+msgid "_Fullscreen"
+msgstr "_Schermvullend"
+
+msgid "Function"
+msgstr "Functie"
+
+msgid "function"
+msgstr "functie"
+
+msgid "Functions"
+msgstr "Functies"
+
+msgid "Future"
+msgstr "Futuristisch"
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Galician"
+msgstr "Galicisch"
+
+msgid "Gallery"
+msgstr "Galerij"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Game"
+msgstr "Spel"
+
+msgid "&Game"
+msgstr "&Spel"
+
+msgid "Game Over"
+msgstr "Spel is afgelopen"
+
+msgid "Games"
+msgstr "Spellen"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Gate"
+msgstr "Poort"
+
+msgid "Gateway"
+msgstr "Gateway"
+
+msgid "Gaussian Blur"
+msgstr "Gaussiaans vervagen"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "Geslacht"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "&General"
+msgstr "Al&gemeen"
+
+msgid "General Options"
+msgstr "Algemene opties"
+
+msgid "General options"
+msgstr "Algemene opties"
+
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+msgid "Generate"
+msgstr "Genereren"
+
+msgid "Generic"
+msgstr "Algemeen"
+
+msgid "Genre"
+msgstr "Genre"
+
+msgid "Genres"
+msgstr "Genres"
+
+msgid "Geometry"
+msgstr "Afmeting"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "Georgië"
+
+msgid "Georgian"
+msgstr "Georgisch"
+
+msgid "German"
+msgstr "Duits"
+
+msgid "Germany"
+msgstr "Duitsland"
+
+msgid "Get New..."
+msgstr "Nieuwe ophalen…"
+
+msgid "Get New Plugins..."
+msgstr "Haal nieuwe plug-ins op…"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "Voornaam"
+
+msgid "Global"
+msgstr "Globaal"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "Ga naar"
+
+msgid "&Go"
+msgstr "&Ga naar"
+
+msgid "_Go"
+msgstr "_Ga naar"
+
+msgid "Go Back"
+msgstr "Ga terug"
+
+msgid "Go back"
+msgstr "Ga terug"
+
+msgid "Go forward"
+msgstr "Ga verder"
+
+msgid "Go To"
+msgstr "Ga naar"
+
+msgid "Go to first page"
+msgstr "Naar eerste pagina gaan"
+
+msgid "Go to last page"
+msgstr "Naar laatste pagina gaan"
+
+msgid "Go to Line"
+msgstr "Ga naar regel"
+
+msgid "Go to next page"
+msgstr "Naar volgende pagina gaan"
+
+msgid "Go to previous page"
+msgstr "Naar vorige pagina gaan"
+
+msgid "Goa"
+msgstr "Goa"
+
+msgid "Gold"
+msgstr "Goud"
+
+msgid "Good"
+msgstr "Goed"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "Gotisch"
+
+msgid "Gradient"
+msgstr "Kleurverloop"
+
+msgid "Gradients"
+msgstr "Kleurverloop"
+
+msgid "Graph"
+msgstr "Grafiek"
+
+msgid "Graphics"
+msgstr "Grafisch"
+
+msgid "Gray"
+msgstr "Grijs"
+
+msgid "gray"
+msgstr "grijs"
+
+msgid "Grayscale"
+msgstr "Grijswaarden"
+
+msgid "Greece"
+msgstr "Griekenland"
+
+msgid "Greek"
+msgstr "Grieks"
+
+msgid "Green"
+msgstr "Groen"
+
+msgid "green"
+msgstr "groen"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Grey"
+msgstr "Grijs"
+
+msgid "Grid"
+msgstr "Raster"
+
+msgid "Group"
+msgstr "Groep"
+
+msgid "Group name"
+msgstr "Groepsnaam"
+
+msgid "Grouping"
+msgstr "Groepering"
+
+msgid "Groups"
+msgstr "Groepen"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guides"
+msgstr "Hulplijnen"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "H"
+msgstr "H"
+
+msgid "Haiti"
+msgstr "Haïti"
+
+msgid "Hard"
+msgstr "Hard"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Hawaiian"
+msgstr "Hawaiïaans"
+
+msgid "Header"
+msgstr "Koptekst"
+
+msgid "Headers"
+msgstr "Berichtkoppen"
+
+msgid "Heading"
+msgstr "Kop"
+
+msgid "Heading 1"
+msgstr "Kop 1"
+
+msgid "Heading 2"
+msgstr "Kop 2"
+
+msgid "Heading 3"
+msgstr "Kop 3"
+
+msgid "Heading 4"
+msgstr "Kop 4"
+
+msgid "Headphones"
+msgstr "Koptelefoon"
+
+msgid "Headset"
+msgstr "Headset"
+
+msgid "Health"
+msgstr "Gezondheid"
+
+msgid "Hebrew"
+msgstr "Hebreeuws"
+
+msgid "Height"
+msgstr "Hoogte"
+
+msgid "&Height"
+msgstr "&Hoogte"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "&Help"
+msgstr "&Help"
+
+msgid "_Help"
+msgstr "_Hulp"
+
+msgid "Helsinki"
+msgstr "Helsinki"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Hexadecimal"
+msgstr "Hexadecimaal"
+
+msgid "Hexagon"
+msgstr "Zeshoek"
+
+msgid "Hibernate"
+msgstr "Slaapstand naar schijf"
+
+msgid "Hidden"
+msgstr "Verborgen"
+
+msgid "hidden"
+msgstr "verborgen"
+
+msgid "Hide"
+msgstr "Verbergen"
+
+msgid "&Hide"
+msgstr "&Verbergen"
+
+msgid "Hide menu bar"
+msgstr "Menubalk verbergen"
+
+msgid "High"
+msgstr "Hoog"
+
+msgid "Highlight"
+msgstr "Accentuering"
+
+msgid "Highlighter"
+msgstr "Accentuering"
+
+msgid "Highlights"
+msgstr "Highlights"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hint"
+msgstr "Tip"
+
+msgid "Histogram"
+msgstr "Histogram"
+
+msgid "History"
+msgstr "Geschiedenis"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "In wacht"
+
+msgid "Holidays"
+msgstr "Vakantiedagen"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "&Home"
+msgstr "&Home"
+
+msgid "Home Folder"
+msgstr "Persoonlijke map"
+
+msgid "Home Page"
+msgstr "Thuispagina"
+
+msgid "Homepage"
+msgstr "Homepagina"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+msgid "Host"
+msgstr "Host"
+
+msgid "Hostname"
+msgstr "Hostnaam"
+
+msgid "Hotspot"
+msgstr "Hotspot"
+
+msgid "Hour"
+msgstr "Uur"
+
+msgid "Hours"
+msgstr "Uren"
+
+msgid "hours"
+msgstr "uren"
+
+msgid "House"
+msgstr "Huis"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "Tint"
+
+msgid "Huge"
+msgstr "Enorm"
+
+msgid "Hungarian"
+msgstr "Hongaars"
+
+msgid "Hungary"
+msgstr "Hongarije"
+
+msgid "Hz"
+msgstr "Hz"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+msgid "Iceland"
+msgstr "IJsland"
+
+msgid "Icelandic"
+msgstr "IJslands"
+
+msgid "Icon"
+msgstr "Pictogram"
+
+msgid "Icon Size"
+msgstr "Pictogramgrootte"
+
+msgid "Icon size"
+msgstr "Pictogramgrootte"
+
+msgid "Icon View"
+msgstr "Pictogramweergave"
+
+msgid "Icons"
+msgstr "Pictogrammen"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "id"
+msgstr "id"
+
+msgid "Identifier"
+msgstr "Identifier"
+
+msgid "Identity"
+msgstr "Identiteit"
+
+msgid "Idle"
+msgstr "Inactief"
+
+msgid "Ignore"
+msgstr "Negeren"
+
+msgid "_Ignore"
+msgstr "_Negeren"
+
+msgid "Ignore Case"
+msgstr "Geen onderscheid hoofd-/kleine letters"
+
+msgid "Ignored"
+msgstr "Genegeerd"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "image"
+msgstr "afbeelding"
+
+msgid "&Image"
+msgstr "Afbeeld&ing"
+
+msgid "_Image"
+msgstr "_Afbeelding"
+
+msgid "Image Editor"
+msgstr "Afbeeldingsbewerker"
+
+msgid "Image Files"
+msgstr "Afbeeldingsbestanden"
+
+msgid "Image files"
+msgstr "Afbeeldingsbestanden"
+
+msgid "Image Gallery"
+msgstr "Afbeeldingsgalerij"
+
+msgid "Image Properties"
+msgstr "Afbeeldingsinfo"
+
+msgid "Image Settings"
+msgstr "Afbeeldingsinstellingen"
+
+msgid "Image Size"
+msgstr "Afbeeldingsgrootte"
+
+msgid "Image Viewer"
+msgstr "Afbeeldingsviewer"
+
+msgid "Images"
+msgstr "Afbeeldingen"
+
+msgid "Images (%1)"
+msgstr "Afbeeldingen (%1)"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "Importeren"
+
+msgid "&Import"
+msgstr "&Importeren"
+
+msgid "_Import"
+msgstr "_Importeren"
+
+msgid "Import..."
+msgstr "Importeren..."
+
+msgid "&Import..."
+msgstr "&Importeren..."
+
+msgid "Import failed"
+msgstr "Importeren mislukt"
+
+msgid "Important"
+msgstr "Belangrijk"
+
+msgid "In"
+msgstr "In"
+
+msgid "in"
+msgstr "in"
+
+msgid "Inactive"
+msgstr "Inactief"
+
+msgid "Inbox"
+msgstr "Postvak in"
+
+msgid "inch"
+msgstr "inch"
+
+msgid "Inches"
+msgstr "Inches"
+
+msgid "inches"
+msgstr "inches"
+
+msgid "Inches (in)"
+msgstr "Inches (in)"
+
+msgid "Include"
+msgstr "Insluiten"
+
+msgid "Includes"
+msgstr "Ingesloten zaken"
+
+msgid "Incoming"
+msgstr "Inkomend"
+
+msgid "Increase Font Size"
+msgstr "Tekengrootte groter"
+
+msgid "Increase Indent"
+msgstr "Meer inspringen"
+
+msgid "Increase Volume"
+msgstr "Volume verhogen"
+
+msgid "Incremental"
+msgstr "Oplopend"
+
+msgid "Indentation"
+msgstr "Inspringen"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Indexed"
+msgstr "Geïndexeerd"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesia"
+msgstr "Indonesië"
+
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+msgid "Industrial"
+msgstr "Industrieel "
+
+msgid "Info"
+msgstr "Informatie"
+
+msgid "Information"
+msgstr "Informatie"
+
+msgid "Initials"
+msgstr "Initialen"
+
+msgid "Input"
+msgstr "Invoer"
+
+msgid "Input Devices"
+msgstr "Invoerapparaten"
+
+msgid "Insert"
+msgstr "Invoegen"
+
+msgid "&Insert"
+msgstr "&Invoegen"
+
+msgid "Insert Image"
+msgstr "Afbeelding invoegen"
+
+msgid "Insert Link"
+msgstr "Koppeling invoegen"
+
+msgid "Insert Table"
+msgstr "Tabel invoegen"
+
+msgid "Insert Text"
+msgstr "Tekst invoegen"
+
+msgid "Install"
+msgstr "Installeren"
+
+msgid "Install..."
+msgstr "Installeren..."
+
+msgid "Install from File..."
+msgstr "Uit bestand installeren…"
+
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+msgid "Installing"
+msgstr "Bezig met installeren"
+
+msgid "Instant"
+msgstr "Onmiddellijk"
+
+msgid "Integer"
+msgstr "Geheel getal"
+
+msgid "Integrate"
+msgstr "Integreren"
+
+msgid "Intensity"
+msgstr "Intensiteit"
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Internal"
+msgstr "Intern"
+
+msgid "Internal Error"
+msgstr "Interne fout"
+
+msgid "Internal error"
+msgstr "Interne fout"
+
+msgid "International"
+msgstr "Internationaal"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Interpolation"
+msgstr "Interpolatie"
+
+msgid "Interrupt"
+msgstr "Onderbreking"
+
+msgid "Interval"
+msgstr "Interval"
+
+msgid "Introduction"
+msgstr "Inleiding"
+
+msgid "Invalid"
+msgstr "Ongeldig"
+
+msgid "invalid"
+msgstr "ongeldig"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr "ongeldige booleaanse waarde voor eigenschap ‘%s’ (geen ja of nee)"
+
+msgid "Invalid date"
+msgstr "Ongeldige datum"
+
+msgid "Invalid password"
+msgstr "Ongeldig wachtwoord"
+
+msgid "Invalid URL"
+msgstr "Ongeldig URL-adres"
+
+msgid "Invert"
+msgstr "Inverteren"
+
+msgid "Invert Selection"
+msgstr "Selectie omkeren"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP-adres"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "Iran"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Ierland"
+
+msgid "Irish"
+msgstr "Iers"
+
+msgid "is"
+msgstr "is"
+
+msgid "Israel"
+msgstr "Israël"
+
+msgid "Issued By"
+msgstr "Uitgegeven door"
+
+msgid "Issuer"
+msgstr "Uitgever"
+
+msgid "Italian"
+msgstr "Italiaans"
+
+msgid "Italic"
+msgstr "Cursief"
+
+msgid "&Italic"
+msgstr "&Cursief"
+
+msgid "_Italic"
+msgstr "_Cursief"
+
+msgid "Italy"
+msgstr "Italië"
+
+msgid "Item"
+msgstr "Item"
+
+msgid "Items"
+msgstr "Items"
+
+msgid "Iterations"
+msgstr "Iteraties"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Japanese"
+msgstr "Japans"
+
+msgid "Javanese"
+msgstr "Javaans"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr "Deelnemen"
+
+msgid "Jonah Brüchert"
+msgstr "Jonah Brüchert"
+
+msgid "Jordan"
+msgstr "Jordanië"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr "Joshua Goins"
+
+msgid "Journal"
+msgstr "Journaal"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "Jump to next match"
+msgstr "Ga naar volgende overeenkomst"
+
+msgid "Jump to previous match"
+msgstr "Ga naar vorige overeenkomst"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "Justify"
+msgstr "Uitvullen"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "Kazachs"
+
+msgid "Kazakhstan"
+msgstr "Kazachstan"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "KDE gemeenschap, Felipe Kinoshita"
+
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "Behouden"
+
+msgid "_Keep"
+msgstr "Be_houden"
+
+msgid "Keep aspect ratio"
+msgstr "Beeldverhouding behouden"
+
+msgid "Keep Open"
+msgstr "Open houden"
+
+msgid "Kenya"
+msgstr "Kenia"
+
+msgid "Kernel"
+msgstr "Kernel"
+
+msgid "Key"
+msgstr "Sleutel"
+
+msgid "Key ID"
+msgstr "Sleutel-ID"
+
+msgid "Keyboard"
+msgstr "Toetsenbord"
+
+msgid "Keyboard Layout"
+msgstr "Toetsenbordindeling"
+
+msgid "Keyboard Shortcuts"
+msgstr "Sneltoetsen"
+
+msgid "Keyboard shortcuts"
+msgstr "Sneltoetsen"
+
+msgid "_Keyboard Shortcuts"
+msgstr "Snel_toetsen"
+
+msgid "Keys"
+msgstr "Sleutels"
+
+msgid "Keyword"
+msgstr "Trefwoord"
+
+msgid "Keywords"
+msgstr "Trefwoorden"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "Soort"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "km"
+msgstr "km"
+
+msgid "KMail"
+msgstr "KMail"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "Koreaans"
+
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+msgid "Kuwait"
+msgstr "Koeweit"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "label"
+msgstr "label"
+
+msgid "Labels"
+msgstr "Labels"
+
+msgid "Landscape"
+msgstr "Landschap"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "_Language"
+msgstr "Taa_l"
+
+msgid "Languages"
+msgstr "Talen"
+
+msgid "Lao"
+msgstr "Laotiaans"
+
+msgid "Laos"
+msgstr "Laos"
+
+msgid "Large"
+msgstr "Groot"
+
+msgid "Last"
+msgstr "Laatste"
+
+msgid "Last Modified"
+msgstr "Laatst gewijzigd"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "Latijn"
+
+msgid "Latitude"
+msgstr "Breedtegraad"
+
+msgid "Latvia"
+msgstr "Letland"
+
+msgid "Latvian"
+msgstr "Lets"
+
+msgid "Launch %1"
+msgstr "%1 opstarten"
+
+msgid "Layer"
+msgstr "Laag"
+
+msgid "Layers"
+msgstr "Lagen"
+
+msgid "Layout"
+msgstr "Opmaak"
+
+msgid "Leave Fullscreen"
+msgstr "Volledig scherm verlaten"
+
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "left"
+msgstr "links"
+
+msgid "&Left"
+msgstr "&Links"
+
+msgid "_Left"
+msgstr "_Links"
+
+msgid "Left to Right"
+msgstr "Links naar rechts"
+
+msgid "Legacy"
+msgstr "Legacy"
+
+msgid "Legend"
+msgstr "Legenda"
+
+msgid "Length"
+msgstr "Lengte"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Letter"
+msgstr "Letter"
+
+msgid "Level"
+msgstr "Niveau"
+
+msgid "Level %1"
+msgstr "Niveau %1"
+
+msgid "Levels"
+msgstr "Niveaus"
+
+msgid "Liberia"
+msgstr "Liberia"
+
+msgid "Library"
+msgstr "Bibliotheek"
+
+msgid "License"
+msgstr "Licentie"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Light"
+msgstr "Licht"
+
+msgid "Lighten"
+msgstr "Lichter maken"
+
+msgid "Lightness"
+msgstr "Lichtheid"
+
+msgid "Limit"
+msgstr "Limiet"
+
+msgid "Limits"
+msgstr "Limieten"
+
+msgid "Line"
+msgstr "Lijn"
+
+msgid "line"
+msgstr "lijn"
+
+msgid "Line Break"
+msgstr "Regelafbreking"
+
+msgid "Line Color"
+msgstr "Lijnkleur"
+
+msgid "Line Numbers"
+msgstr "Regelnummers"
+
+msgid "Line Width"
+msgstr "Lijndikte"
+
+msgid "Line width"
+msgstr "Lijndikte"
+
+msgid "Linear"
+msgstr "Lineair"
+
+msgid "Lines"
+msgstr "Lijnen"
+
+msgid "Link"
+msgstr "Koppeling"
+
+msgid "link"
+msgstr "koppeling"
+
+msgid "Link URL"
+msgstr "URL-adreskoppeling"
+
+msgid "Links"
+msgstr "Koppelingen"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "Lijst"
+
+msgid "List View"
+msgstr "Lijstweergave"
+
+msgid "Lists"
+msgstr "Lijsten"
+
+msgid "Lists the available options for user feedback"
+msgstr ""
+"Geeft een lijst met de beschikbare opties voor terugkoppeling van gebruiker"
+
+msgid "Lithuania"
+msgstr "Litouwen"
+
+msgid "Lithuanian"
+msgstr "Litouws"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "Laden"
+
+msgid "Load..."
+msgstr "Laden..."
+
+msgid "Load Game"
+msgstr "Spel laden"
+
+msgid "Loading"
+msgstr "Laden"
+
+msgid "Loading..."
+msgstr "Bezig met laden..."
+
+msgid "Loading %1..."
+msgstr "%1 wordt geladen..."
+
+msgid "Local"
+msgstr "Lokaal"
+
+msgid "Locale"
+msgstr "Taalregio"
+
+msgid "Locality"
+msgstr "Plaats"
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Locations"
+msgstr "Locaties"
+
+msgid "Lock"
+msgstr "Vergrendelen"
+
+msgid "Lock Screen"
+msgstr "Scherm vergrendelen"
+
+msgid "Locked"
+msgstr "Vergrendeld"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Log in"
+msgstr "Aanmelden"
+
+msgid "Log Out"
+msgstr "Afmelden"
+
+msgid "Logarithmic"
+msgstr "Logaritmisch"
+
+msgid "Logging"
+msgstr "Loggen"
+
+msgid "Logging in..."
+msgstr "Aanmelden…"
+
+msgid "Logic"
+msgstr "Logica"
+
+msgid "Login"
+msgstr "Aanmelden"
+
+msgid "_Login"
+msgstr "Aanme_lden"
+
+msgid "Logout"
+msgstr "Afmelden"
+
+msgid "Logs"
+msgstr "Logs"
+
+msgid "Longitude"
+msgstr "Lengtegraad"
+
+msgid "Loop"
+msgstr "Lus"
+
+msgid "Low"
+msgstr "Laag"
+
+msgid "Lower"
+msgstr "Lager"
+
+msgid "Lowercase"
+msgstr "Kleine letters"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "Helderheid"
+
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgid "Lyricist"
+msgstr "Maker liedtekst"
+
+msgid "Lyrics"
+msgstr "Liedtekst"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr "m"
+
+msgid "Macedonian"
+msgstr "Macedonisch"
+
+msgid "Macro"
+msgstr "Macro"
+
+msgid "Macros"
+msgstr "Macro's"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Mail"
+msgstr "E-mail"
+
+msgid "Main"
+msgstr "Hoofd"
+
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+msgid "Main Toolbar"
+msgstr "Hoofdwerkbalk"
+
+msgid "Main Window"
+msgstr "Hoofdvenster"
+
+msgid "Main window"
+msgstr "Hoofdvenster"
+
+msgid "Maintainer"
+msgstr "Onderhouder"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Malay"
+msgstr "Maleis"
+
+msgid "Malayalam"
+msgstr "Malayalam"
+
+msgid "Malaysia"
+msgstr "Maleisië"
+
+msgid "Maldives"
+msgstr "Maldiven"
+
+msgid "Male"
+msgstr "Mannelijk"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Maltese"
+msgstr "Maltees"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Manual"
+msgstr "Handmatig"
+
+msgid "Manufacturer"
+msgstr "Fabrikant"
+
+msgid "Map"
+msgstr "Kaart"
+
+msgid "Maps"
+msgstr "Kaarten"
+
+msgid "Marathi"
+msgstr "Marathi"
+
+msgid "Marble"
+msgstr "Marble"
+
+msgid "March"
+msgstr "Maart"
+
+msgid "Margins"
+msgstr "Marges"
+
+msgid "Mark"
+msgstr "Markeren"
+
+msgid "Mark as Read"
+msgstr "Markeren als gelezen"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Marker"
+msgstr "Markering"
+
+msgid "Markers"
+msgstr "Markeringen"
+
+msgid "Marshall Islands"
+msgstr "Marshalleilanden"
+
+msgid "Mask"
+msgstr "Masker"
+
+msgid "Mass"
+msgstr "Massa"
+
+msgid "Match"
+msgstr "Overeenkomst"
+
+msgid "Match case"
+msgstr "Hoofd- kleine lettergevoelig"
+
+msgid "_Match case"
+msgstr "_Hoofdlettergevoelig"
+
+msgid "Math"
+msgstr "Wiskunde"
+
+msgid "Matrix"
+msgstr "Matrix"
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "Mauritanië"
+
+msgid "Mauritius"
+msgstr "Mauritius"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "max"
+msgstr "max"
+
+msgid "Maximize"
+msgstr "Maximaliseren"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "Maze"
+msgstr "Doolhof"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "Gemiddelde"
+
+msgid "Measure"
+msgstr "Meten"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Media Player"
+msgstr "Mediaspeler"
+
+msgid "Median"
+msgstr "Mediaan"
+
+msgid "Medium"
+msgstr "Middel"
+
+msgid "medium"
+msgstr "gemiddeld"
+
+msgid "Member"
+msgstr "Lid"
+
+msgid "Memory"
+msgstr "Geheugen"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Mercury"
+msgstr "Mercurius"
+
+msgid "Merge"
+msgstr "Samenvoegen"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "message"
+msgstr "bericht"
+
+msgid "Messages"
+msgstr "Berichten"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "Metagegevens"
+
+msgid "Metal"
+msgstr "Metal"
+
+msgid "meters"
+msgstr "meter"
+
+msgid "Method"
+msgstr "Methode"
+
+msgid "Metric"
+msgstr "Metrisch"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "Microfoon"
+
+msgid "Middle"
+msgstr "Midden"
+
+msgid "Miha Čančula"
+msgstr "Miha Čančula"
+
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+msgid "Millimeters"
+msgstr "Millimeters"
+
+msgid "Millimeters (mm)"
+msgstr "Millimeters (mm)"
+
+msgid "Milliseconds"
+msgstr "Milliseconden"
+
+msgid "milliseconds"
+msgstr "milliseconden"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "min"
+msgstr "min"
+
+msgid "Minimize"
+msgstr "Minimaliseren"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Minute"
+msgstr "Minuut"
+
+msgid "Minutes"
+msgstr "Minuten"
+
+msgid "minutes"
+msgstr "minuten"
+
+msgid "Mirror"
+msgstr "Spiegelen"
+
+msgid "Misc"
+msgstr "Diversen"
+
+msgid "Miscellaneous"
+msgstr "Diversen"
+
+msgid "missing plugin file \"%s\""
+msgstr "plug-inbestand ‘%s’ ontbreekt"
+
+msgid "Miter limit"
+msgstr "Limiet van schuine hoek in verbinding"
+
+msgid "Mix"
+msgstr "Mengsel"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Mobile"
+msgstr "Mobiel"
+
+msgid "Mode"
+msgstr "Modus"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Modem"
+msgstr "Modem"
+
+msgid "Modified"
+msgstr "Gewijzigd"
+
+msgid "modified"
+msgstr "gewijzigd"
+
+msgid "Modifiers"
+msgstr "Modifiers"
+
+msgid "Modify"
+msgstr "Wijzigen"
+
+msgid "Modify..."
+msgstr "Wijzigen…"
+
+msgid "&Modify..."
+msgstr "&Wijzigen..."
+
+msgid "Modify search behavior"
+msgstr "Zoekgedrag aanpassen"
+
+msgid "Module"
+msgstr "Module"
+
+msgid "Modules"
+msgstr "Modules"
+
+msgid "Moldova"
+msgstr "Moldavië"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Monday"
+msgstr "Maandag"
+
+msgid "Mongolia"
+msgstr "Mongolië"
+
+msgid "Mongolian"
+msgstr "Mongools"
+
+msgid "Monitor"
+msgstr "Monitor"
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Monochrome"
+msgstr "Monochroom"
+
+msgid "Monospace"
+msgstr "Niet-proportioneel"
+
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "Month"
+msgstr "Maand"
+
+msgid "Month View"
+msgstr "Maandweergave"
+
+msgid "Monthly"
+msgstr "Maandelijks"
+
+msgid "Months"
+msgstr "Maanden"
+
+msgid "More"
+msgstr "Meer"
+
+msgid "More..."
+msgstr "Meer..."
+
+msgid "More actions"
+msgstr "Meer acties"
+
+msgid "More Information"
+msgstr "Meer informatie"
+
+msgid "More options"
+msgstr "Meer opties"
+
+msgid "Morocco"
+msgstr "Marokko"
+
+msgid "Mount"
+msgstr "Aankoppelen"
+
+msgid "Mount point"
+msgstr "Aankoppelpunt (mount point)"
+
+msgid "Mouse"
+msgstr "Muis"
+
+msgid "Mouse Wheel"
+msgstr "Muiswiel"
+
+msgid "Move"
+msgstr "Verplaatsen"
+
+msgid "&Move"
+msgstr "&Verplaatsen"
+
+msgid "_Move"
+msgstr "_Verplaatsen"
+
+msgid "Move %1"
+msgstr "%1 verplaatsen"
+
+msgid "Move Down"
+msgstr "Omlaag verplaatsen"
+
+msgid "Move down"
+msgstr "Omlaag verplaatsen"
+
+msgid "Move &Down"
+msgstr "Om&laag"
+
+msgid "&Move Here"
+msgstr "Hierheen &verplaatsen"
+
+msgid "Move Left"
+msgstr "Naar links"
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr "Naar rechts"
+
+msgid "Move Tab Left"
+msgstr "Tabblad naar links verplaatsen"
+
+msgid "Move Tab Right"
+msgstr "Tabblad naar rechts verplaatsen"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "Verplaatsen naar"
+
+msgid "Move to Bottom"
+msgstr "Naar onderaan"
+
+msgid "Move to Top"
+msgstr "Naar de top verplaatsen"
+
+msgid "Move to Trash"
+msgstr "Naar prullenbak verplaatsen"
+
+msgid "&Move to Trash"
+msgstr "&Naar prullenbak verplaatsen"
+
+msgid "Move Up"
+msgstr "Omhoog verplaatsen"
+
+msgid "Move up"
+msgstr "Omhoog verplaatsen"
+
+msgid "Move &Up"
+msgstr "&Omhoog"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Multiply"
+msgstr "Vermenigvuldigen"
+
+msgid "Music"
+msgstr "Muziek"
+
+msgid "Music Player"
+msgstr "Muziekspeler"
+
+msgid "Mute"
+msgstr "Dempen"
+
+msgid "Myanmar"
+msgstr "Myanmar"
+
+msgid "N"
+msgstr "N"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "N.v.t."
+
+msgid "n/a"
+msgstr "niet beschikbaar"
+
+msgid "NAME"
+msgstr "NAAM"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "name"
+msgstr "naam"
+
+msgid "&Name"
+msgstr "&Naam"
+
+msgid "_Name"
+msgstr "_Naam"
+
+msgid "Name: %1"
+msgstr "Naam: %1"
+
+msgid "Namespace"
+msgstr "Naamruimte"
+
+msgid "Namibia"
+msgstr "Namibië"
+
+msgid "Nature"
+msgstr "Natuur"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Navigation"
+msgstr "Navigatie"
+
+msgid "Negative"
+msgstr "Negatief"
+
+msgid "Neon"
+msgstr "Neon"
+
+msgid "Nepal"
+msgstr "Nepal"
+
+msgid "Nepali"
+msgstr "Nepalees"
+
+msgid "Netherlands"
+msgstr "Nederland"
+
+msgid "Network"
+msgstr "Netwerk"
+
+msgid "Networks"
+msgstr "Netwerken"
+
+msgid "Never"
+msgstr "Nooit"
+
+msgid "never"
+msgstr "nooit"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "&New"
+msgstr "&Nieuw"
+
+msgid "_New"
+msgstr "_Nieuw"
+
+msgid "New..."
+msgstr "Nieuw..."
+
+msgid "&New..."
+msgstr "&Nieuw..."
+
+msgid "_New..."
+msgstr "_Nieuw…"
+
+msgid "New Bookmark"
+msgstr "Nieuwe bladwijzer"
+
+msgid "New Connection"
+msgstr "Nieuwe verbinding"
+
+msgid "New File"
+msgstr "Nieuw bestand"
+
+msgid "New Folder"
+msgstr "Nieuwe map"
+
+msgid "New folder"
+msgstr "Nieuwe map"
+
+msgid "New Folder..."
+msgstr "Nieuwe map..."
+
+msgid "New Game"
+msgstr "Nieuw spel"
+
+msgid "New Group"
+msgstr "Nieuwe groep"
+
+msgid "New Item"
+msgstr "Nieuw item"
+
+msgid "New Layer"
+msgstr "Nieuwe laag"
+
+msgid "New Message"
+msgstr "Nieuw bericht"
+
+msgid "New Name"
+msgstr "Nieuwe naam"
+
+msgid "New name"
+msgstr "Nieuwe naam"
+
+msgid "New Profile"
+msgstr "Nieuw profiel"
+
+msgid "New Project"
+msgstr "Nieuw project"
+
+msgid "New Session"
+msgstr "Nieuwe sessie"
+
+msgid "New South Wales"
+msgstr "New South Wales"
+
+msgid "New Tab"
+msgstr "Nieuw tabblad"
+
+msgid "New tag"
+msgstr "Nieuwe tag"
+
+msgid "New Window"
+msgstr "Nieuw venster"
+
+msgid "_New Window"
+msgstr "_Nieuw venster"
+
+msgid "New &Window"
+msgstr "Nieuw &venster"
+
+msgid "New _Window"
+msgstr "Nieuw _venster"
+
+msgid "New Zealand"
+msgstr "Nieuw-Zeeland"
+
+msgid "News"
+msgstr "Nieuws"
+
+msgid "Newton"
+msgstr "Newton"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "&Next"
+msgstr "V&olgende"
+
+msgid "_Next"
+msgstr "Volge_nde"
+
+msgid "Next Image"
+msgstr "Volgende afbeelding"
+
+msgid "Next month"
+msgstr "Volgende maand"
+
+msgid "Next Page"
+msgstr "Volgende pagina"
+
+msgid "Next Tab"
+msgstr "Volgend tabblad"
+
+msgid "Next Track"
+msgstr "Volgende track"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Nickname"
+msgstr "Schermnaam"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgid "Night"
+msgstr "Nacht"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "no"
+msgstr "nee"
+
+msgid "_No"
+msgstr "_Nee"
+
+msgid "No."
+msgstr "Nr."
+
+msgid "No description available"
+msgstr "Geen beschrijving beschikbaar"
+
+msgid "No devices found"
+msgstr "Geen apparaten gevonden"
+
+msgid "No error"
+msgstr "Geen fout"
+
+msgid "No file selected"
+msgstr "Geen bestand geselecteerd"
+
+msgid "No filter"
+msgstr "Geen filter"
+
+msgid "No Limit"
+msgstr "Geen limiet"
+
+msgid "No matches"
+msgstr "Geen overeenkomsten"
+
+msgid "No Name"
+msgstr "Naamloos"
+
+msgid "No name"
+msgstr "Naamloos"
+
+msgid "No network connection"
+msgstr "Geen netwerkverbinding"
+
+msgid "No results"
+msgstr "Geen resultaten"
+
+msgid "No Results Found"
+msgstr "Geen resultaten gevonden"
+
+msgid "No results found"
+msgstr "Geen resultaten gevonden"
+
+msgid "No search results"
+msgstr "Geen zoekresultaten"
+
+msgid "No selection"
+msgstr "Geen selectie"
+
+msgid "No Subject"
+msgstr "Geen onderwerp"
+
+msgid "No VPN configuration options."
+msgstr "Geen VPN-configuratieopties."
+
+msgid "Noise"
+msgstr "Ruis"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "none"
+msgstr "geen"
+
+msgid "&None"
+msgstr "Gee&n"
+
+msgid "_None"
+msgstr "_Geen"
+
+msgid "(None)"
+msgstr "(Geen)"
+
+msgid "(none)"
+msgstr "(geen)"
+
+msgid "Nordic"
+msgstr "Noord-Europees"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "_Normal Size"
+msgstr "_Normale grootte"
+
+msgid "Normalize"
+msgstr "Normaliseren"
+
+msgid "North"
+msgstr "Noord"
+
+msgid "North America"
+msgstr "Noord-Amerika"
+
+msgid "Norway"
+msgstr "Noorwegen"
+
+msgid "Norwegian"
+msgstr "Noors"
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "Kon '%1' niet schrijven. Is de partitie vol?"
+
+msgid "Not Available"
+msgstr "Niet beschikbaar"
+
+msgid "Not available"
+msgstr "Niet beschikbaar"
+
+msgid "not available"
+msgstr "niet beschikbaar"
+
+msgid "Not Connected"
+msgstr "Niet verbonden"
+
+msgid "Not connected"
+msgstr "Niet verbonden"
+
+msgid "Not defined"
+msgstr "Niet gedefinieerd"
+
+msgid "Not found"
+msgstr "Niet gevonden"
+
+msgid "Not implemented"
+msgstr "Niet geïmplementeerd"
+
+msgid "Not running"
+msgstr "Niet actief"
+
+msgid "Not supported"
+msgstr "Niet ondersteund"
+
+msgid "Note"
+msgstr "Notitie"
+
+msgid "Notes"
+msgstr "Notities"
+
+msgid "Nothing"
+msgstr "Niets"
+
+msgid "Notice"
+msgstr "Aankondiging"
+
+msgid "Notification"
+msgstr "Melding"
+
+msgid "Notifications"
+msgstr "Meldingen"
+
+msgid "Noun"
+msgstr "Zelfstandig naamwoord"
+
+msgid "November"
+msgstr "November"
+
+msgid "Now"
+msgstr "Nu"
+
+msgid "now"
+msgstr "nu"
+
+msgid "NT Domain"
+msgstr "NT-domein"
+
+msgid "NUMBER"
+msgstr "NUMMER"
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "number"
+msgstr "nummer"
+
+msgid "Number of columns"
+msgstr "Aantal kolommen"
+
+msgid "Numbers"
+msgstr "Getallen"
+
+msgid "Numeric"
+msgstr "Numeriek"
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "Object"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr "objectklasse ‘%s’ heeft geen eigenschap met de naam ‘%s’"
+
+msgid "Objects"
+msgstr "Objecten"
+
+msgid "Oblique"
+msgstr "Schuin"
+
+msgid "Octal"
+msgstr "Octaal"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "off"
+msgstr "uit"
+
+msgid "Office"
+msgstr "Kantoor"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "_OK"
+msgstr "_Oké"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Oman"
+msgstr "Oman"
+
+msgid "On"
+msgstr "Aan"
+
+msgid "on"
+msgstr "aan"
+
+msgid "One"
+msgstr "Een"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Online Accounts"
+msgstr "Online accounts"
+
+msgid "Opacity"
+msgstr "Dekking"
+
+msgid "Opaque"
+msgstr "Dekkend"
+
+msgid "Open"
+msgstr "Openen"
+
+msgid "&Open"
+msgstr "&Openen"
+
+msgid "_Open"
+msgstr "_Openen"
+
+msgid "Open..."
+msgstr "Openen..."
+
+msgid "&Open..."
+msgstr "&Openen..."
+
+msgid "_Open..."
+msgstr "O_penen..."
+
+msgid "Open %1"
+msgstr "%1 openen"
+
+msgid "Open a file"
+msgstr "Bestand openen"
+
+msgid "Open a new tab"
+msgstr "Een nieuw tabblad openen"
+
+msgid "Open a new window"
+msgstr "Een nieuw venster openen"
+
+msgid "Open an existing document"
+msgstr "Open een bestaand document"
+
+msgid "Open Audio"
+msgstr "Audio openen"
+
+msgid "Open Containing Folder"
+msgstr "Map openen waarin het zich bevindt"
+
+msgid "&Open Containing Folder"
+msgstr "Map &openen waarin het zich bevindt"
+
+msgid "Open Document"
+msgstr "Document openen"
+
+msgid "Open File"
+msgstr "Bestand openen"
+
+msgid "Open file"
+msgstr "Bestand openen"
+
+msgid "Open Folder"
+msgstr "Map openen"
+
+msgid "Open folder"
+msgstr "Map openen"
+
+msgid "Open Image"
+msgstr "Afbeelding openen"
+
+msgid "Open in Browser"
+msgstr "In browser openen"
+
+msgid "Open in File Manager"
+msgstr "In bestandsbeheerder openen"
+
+msgid "Open in New Tab"
+msgstr "In nieuw tabblad openen"
+
+msgid "Open in New Window"
+msgstr "In nieuw venster openen"
+
+msgid "Open Link"
+msgstr "Koppeling openen"
+
+msgid "_Open Link"
+msgstr "Verwijzing _openen"
+
+msgid "Open Location"
+msgstr "Locatie openen"
+
+msgid "Open Menu"
+msgstr "Menu openen"
+
+msgid "Open Project"
+msgstr "Project openen"
+
+msgid "Open &Recent"
+msgstr "&Recent openen"
+
+msgid "Open Terminal Here"
+msgstr "Terminal hier openen"
+
+msgid "Open URL"
+msgstr "URL-adres openen"
+
+msgid "Open Video"
+msgstr "Video openen"
+
+msgid "Open With"
+msgstr "Openen met"
+
+msgid "Open with"
+msgstr "Openen met"
+
+msgid "&Open With"
+msgstr "&Openen met"
+
+msgid "Open With..."
+msgstr "Openen met..."
+
+msgid "Open &with %1"
+msgstr "Openen &met %1"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "Bestand wordt geopend..."
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr "Opera"
+
+msgid "Operation"
+msgstr "Bewerking"
+
+msgid "Operation was cancelled"
+msgstr "Bewerking geannuleerd"
+
+msgid "Operations"
+msgstr "Bewerkingen"
+
+msgid "Operator"
+msgstr "Operator"
+
+msgid "Optical Character Recognition"
+msgstr "Tekstherkenning"
+
+msgid "Optimize"
+msgstr "Optimaliseren"
+
+msgid "Option"
+msgstr "Optie"
+
+msgid "Optional"
+msgstr "Optioneel"
+
+msgid "Options"
+msgstr "Opties"
+
+msgid "&Options"
+msgstr "&Opties"
+
+msgid "OR"
+msgstr "OF"
+
+msgid "Or"
+msgstr "Of"
+
+msgid "or"
+msgstr "of"
+
+msgid "Orange"
+msgstr "Oranje"
+
+msgid "Order"
+msgstr "Volgorde"
+
+msgid "Organization"
+msgstr "Organisatie"
+
+msgid "Orientation"
+msgstr "Oriëntatie"
+
+msgid "Origin"
+msgstr "Oorsprong"
+
+msgid "Original"
+msgstr "Origineel"
+
+msgid "Original Author"
+msgstr "Oorspronkelijke auteur"
+
+msgid "Original author"
+msgstr "Oorspronkelijke auteur"
+
+msgid "Original Size"
+msgstr "Oorspronkelijke grootte"
+
+msgid "Oriya"
+msgstr "Oriya"
+
+msgid "Other"
+msgstr "Overig"
+
+msgid "other"
+msgstr "overig"
+
+msgid "Other..."
+msgstr "Overig..."
+
+msgid "Other Application..."
+msgstr "Ander programma..."
+
+msgid "Other Options"
+msgstr "Overige opties"
+
+msgid "Others"
+msgstr "Overig"
+
+msgid "Out"
+msgstr "Uit"
+
+msgid "Out of memory"
+msgstr "Onvoldoende geheugen"
+
+msgid "Outgoing"
+msgstr "Uitgaand"
+
+msgid "Outline"
+msgstr "Outline"
+
+msgid "Output"
+msgstr "Uitvoer"
+
+msgid "Overlay"
+msgstr "Overlay"
+
+msgid "Overview"
+msgstr "Overzicht"
+
+msgid "Overwrite"
+msgstr "Overschrijven"
+
+msgid "Overwrite File?"
+msgstr "Bestand overschrijven?"
+
+msgid "Owner"
+msgstr "Eigenaar"
+
+msgid "Ownership"
+msgstr "Eigendom"
+
+msgid "Oxygen"
+msgstr "Oxygen"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "Pakket"
+
+msgid "Padding"
+msgstr "Opvulling"
+
+msgid "Page"
+msgstr "Pagina"
+
+msgid "page"
+msgstr "pagina"
+
+msgid "Page %1"
+msgstr "Pagina %1"
+
+msgid "Page %1 of %2"
+msgstr "Pagina %1 van %2"
+
+msgid "Page Break"
+msgstr "Pagina-einde"
+
+msgid "Page Count"
+msgstr "Aantal pagina's"
+
+msgid "Page Number"
+msgstr "Paginanummer"
+
+msgid "Page Setup"
+msgstr "Pagina-instellingen"
+
+msgid "Pager"
+msgstr "Pager"
+
+msgid "Pages"
+msgstr "Pagina's"
+
+msgid "Paint"
+msgstr "Tekenen"
+
+msgid "Pair"
+msgstr "Paren"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Palette"
+msgstr "Palet"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Panel"
+msgstr "Paneel"
+
+msgid "Panels"
+msgstr "Panelen"
+
+msgid "&Panels"
+msgstr "&Panelen"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "Papier"
+
+msgid "Paper Size"
+msgstr "Papiergrootte"
+
+msgid "Papua New Guinea"
+msgstr "Papoea-Nieuw-Guinea"
+
+msgid "Paragraph"
+msgstr "Paragraaf"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parallel"
+msgstr "Parallel"
+
+msgid "Parameter"
+msgstr "Parameter"
+
+msgid "Parameters"
+msgstr "Parameters"
+
+msgid "Parent"
+msgstr "Ouder"
+
+msgid "Partition"
+msgstr "Partitie"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "password"
+msgstr "wachtwoord"
+
+msgid "&Password"
+msgstr "&Wachtwoord"
+
+msgid "_Password"
+msgstr "_Wachtwoord"
+
+msgid "Password..."
+msgstr "Wachtwoord…"
+
+msgid "Passwords"
+msgstr "Wachtwoorden"
+
+msgid "Paste"
+msgstr "Plakken"
+
+msgid "&Paste"
+msgstr "P&lakken"
+
+msgid "_Paste"
+msgstr "_Plakken"
+
+msgid "Path"
+msgstr "Pad"
+
+msgid "path"
+msgstr "pad"
+
+msgid "Paths"
+msgstr "Paden"
+
+msgid "Pattern"
+msgstr "Patroon"
+
+msgid "Patterns"
+msgstr "Patronen"
+
+msgid "Pause"
+msgstr "Pauzeren"
+
+msgid "&Pause"
+msgstr "&Pauzeren"
+
+msgid "Pause playback"
+msgstr "Afspelen pauzeren"
+
+msgid "PAUSED"
+msgstr "GEPAUZEERD"
+
+msgid "Paused"
+msgstr "Gepauzeerd"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr "Piek"
+
+msgid "Peek at Desktop"
+msgstr "Naar het bureaublad gluren"
+
+msgid "Pencil"
+msgstr "Potlood"
+
+msgid "Pending"
+msgstr "In behandeling"
+
+msgid "Pentagon"
+msgstr "Vijfhoek"
+
+msgid "People"
+msgstr "Mensen"
+
+msgid "Percent"
+msgstr "Procent"
+
+msgid "Percentage"
+msgstr "Percentage"
+
+msgid "Perceptual"
+msgstr "Op waarneming"
+
+msgid "Performance"
+msgstr "Prestatie"
+
+msgid "Period"
+msgstr "Periode"
+
+msgid "Permission denied"
+msgstr "Toegang geweigerd"
+
+msgid "Permissions"
+msgstr "Toegangsrechten"
+
+msgid "Persian"
+msgstr "Perzisch"
+
+msgid "Person"
+msgstr "Persoon"
+
+msgid "Personal"
+msgstr "Persoonlijk"
+
+msgid "Personal Information"
+msgstr "Persoonlijke informatie"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Phase"
+msgstr "Fase"
+
+msgid "Philippines"
+msgstr "Filipijnen"
+
+msgid "Phone"
+msgstr "Telefoon"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "PHP Documentation"
+msgstr "PHP-documentatie"
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "Kies een kleur"
+
+msgid "Picture"
+msgstr "Afbeelding"
+
+msgid "Pictures"
+msgstr "Afbeeldingen"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr "Taartpunt"
+
+msgid "Pin"
+msgstr "Pin"
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "Pixels"
+
+msgid "pixels"
+msgstr "pixels"
+
+msgid "Placement"
+msgstr "Plaatsing"
+
+msgid "Places"
+msgstr "Plaatsen"
+
+msgid "Plain"
+msgstr "Gewoon"
+
+msgid "Plain Text"
+msgstr "Platte tekst"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Platform"
+msgstr "Platform"
+
+msgid "Play"
+msgstr "Afspelen"
+
+msgid "Play Next"
+msgstr "Volgende afspelen"
+
+msgid "Play Sounds"
+msgstr "Geluiden afspelen"
+
+msgid "Playback"
+msgstr "Afspelen"
+
+msgid "Player"
+msgstr "Speler"
+
+msgid "Player %1"
+msgstr "Speler %1"
+
+msgid "Players"
+msgstr "Spelers"
+
+msgid "Playground"
+msgstr "Speeltuin"
+
+msgid "Playing"
+msgstr "Speelt"
+
+msgid "Playlist"
+msgstr "Afspeellijst"
+
+msgid "Playlists"
+msgstr "Afspeellijsten"
+
+msgid "Play/Pause"
+msgstr "Afspelen/pauzeren"
+
+msgid "Please choose a file"
+msgstr "Kies een bestand a.u.b"
+
+msgid "Please wait"
+msgstr "Even geduld"
+
+msgid "Please wait..."
+msgstr "Even geduld a.u.b..."
+
+msgid "Plot"
+msgstr "Plot"
+
+msgid "Plots"
+msgstr "Plots"
+
+msgid "Plugin"
+msgstr "Plug-in"
+
+msgid "Plugins"
+msgstr "Plug-ins"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "Punt"
+
+msgid "Pointers"
+msgstr "Aanwijzers"
+
+msgid "Points"
+msgstr "Punten"
+
+msgid "points"
+msgstr "punten"
+
+msgid "Poland"
+msgstr "Polen"
+
+msgid "Policy"
+msgstr "Beleid"
+
+msgid "Polish"
+msgstr "Pools"
+
+msgid "Polygon"
+msgstr "Veelhoek"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Port"
+msgstr "Poort"
+
+msgid "&Port"
+msgstr "&Poort"
+
+msgid "Portrait"
+msgstr "Portret"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Portuguese"
+msgstr "Portugees"
+
+msgid "Position"
+msgstr "Positie"
+
+msgid "Posterize"
+msgstr "Poster maken"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "Energie"
+
+msgid "Power Management"
+msgstr "Energiebeheer"
+
+msgid "Precision"
+msgstr "Nauwkeurigheid"
+
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+msgid "_Preferences"
+msgstr "_Voorkeuren"
+
+msgid "Prefix"
+msgstr "Voorvoegsel"
+
+msgid "Presentation"
+msgstr "Presentatie"
+
+msgid "Preset"
+msgstr "Voorinstelling"
+
+msgid "Presets"
+msgstr "Voorinstellingen"
+
+msgid "Pressure"
+msgstr "Druk"
+
+msgid "Preview"
+msgstr "Voorbeeld"
+
+msgid "&Preview"
+msgstr "&Voorbeeld"
+
+msgid "Previews"
+msgstr "Voorbeelden"
+
+msgid "Previous"
+msgstr "Vorige"
+
+msgid "&Previous"
+msgstr "Vo&rige"
+
+msgid "_Previous"
+msgstr "_Vorige"
+
+msgid "Previous Image"
+msgstr "Vorige afbeelding"
+
+msgid "Previous month"
+msgstr "Vorige maand"
+
+msgid "Previous Page"
+msgstr "Vorige pagina"
+
+msgid "Previous Tab"
+msgstr "Vorig tabblad"
+
+msgid "Previous Track"
+msgstr "Vorige track"
+
+msgid "Price"
+msgstr "Koers"
+
+msgid "Primary"
+msgstr "Primair"
+
+msgid "Print"
+msgstr "Afdrukken"
+
+msgid "_Print"
+msgstr "Af_drukken"
+
+msgid "Print..."
+msgstr "Afdrukken…"
+
+msgid "&Print..."
+msgstr "Af&drukken…"
+
+msgid "_Print..."
+msgstr "Af_drukken..."
+
+msgid "Print Image"
+msgstr "Afbeelding afdrukken"
+
+msgid "Print Preview"
+msgstr "Afdrukvoorbeeld"
+
+msgid "Print version"
+msgstr "Versie tonen"
+
+msgid "Print version information and exit"
+msgstr "Versie-informatie tonen en afsluiten"
+
+msgid "Printer"
+msgstr "Printer"
+
+msgid "Printers"
+msgstr "Printers"
+
+msgid "Printing"
+msgstr "Afdrukken"
+
+msgid "Printing..."
+msgstr "Bezig met afdrukken..."
+
+msgid "Priority"
+msgstr "Prioriteit"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid "Private"
+msgstr "Privé"
+
+msgid "Process"
+msgstr "Proces"
+
+msgid "Processor"
+msgstr "Processor"
+
+msgid "Producer"
+msgstr "Producent"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Profession"
+msgstr "Beroep"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Profile name"
+msgstr "Profielnaam"
+
+msgid "Profiles"
+msgstr "Profielen"
+
+msgid "Program"
+msgstr "Programma"
+
+msgid "Progress"
+msgstr "Voortgang"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "&Project"
+msgstr "&Project"
+
+msgid "Projects"
+msgstr "Projecten"
+
+msgid "Properties"
+msgstr "Eigenschappen"
+
+msgid "&Properties"
+msgstr "Eigenscha&ppen"
+
+msgid "_Properties"
+msgstr "_Eigenschappen"
+
+msgid "Properties..."
+msgstr "Eigenschappen..."
+
+msgid "&Properties..."
+msgstr "&Eigenschappen..."
+
+msgid "Property"
+msgstr "Eigenschap"
+
+msgid "property “%s” invalid or not supported"
+msgstr "eigenschap ‘%s’ is ongeldig of wordt niet ondersteund"
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr "eigenschap ‘%s’ van objectklasse ‘%s’ is niet schrijfbaar"
+
+msgid "Proportional"
+msgstr "Proportioneel"
+
+msgid "Protected"
+msgstr "Beveiligd"
+
+msgid "Protocol"
+msgstr "Protocol"
+
+msgid "Provider"
+msgstr "Leverancier"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Proxy Settings"
+msgstr "Proxyinstellingen"
+
+msgid "Public"
+msgstr "Publiek"
+
+msgid "Public Key"
+msgstr "Publieke sleutel"
+
+msgid "Publisher"
+msgstr "Uitgever"
+
+msgid "Publishing"
+msgstr "Publiceren"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgid "Push"
+msgstr "Push"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "QR Code"
+msgstr "QR-code"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>Hierdoor wordt de menubalk geheel verborgen. U kunt die weer zichtbaar "
+"maken door %1 te typen.</qt>"
+
+msgid "Quality"
+msgstr "Kwaliteit"
+
+msgid "Quebec"
+msgstr "Quebec"
+
+msgid "Query"
+msgstr "Query"
+
+msgid "Question"
+msgstr "Vraag"
+
+msgid "Queue"
+msgstr "In wachtrij zetten"
+
+msgid "Queued"
+msgstr "In wachtrij"
+
+msgid "Quit"
+msgstr "Afsluiten"
+
+msgid "&Quit"
+msgstr "A&fsluiten"
+
+msgid "_Quit"
+msgstr "A_fsluiten"
+
+msgid "Quit application"
+msgstr "Toepassing afsluiten"
+
+msgid "Quit the application"
+msgstr "Sluit de toepassing"
+
+msgid "Quits the application"
+msgstr "Sluit de toepassing af"
+
+msgid "Quote"
+msgstr "Citaat"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "Radiaal"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Radius"
+msgstr "Straal"
+
+msgid "Raise"
+msgstr "Naar voren"
+
+msgid "Random"
+msgstr "Willekeurig"
+
+msgid "Range"
+msgstr "Bereik"
+
+msgid "Rank"
+msgstr "Rangorde"
+
+msgid "Rate"
+msgstr "Kracht"
+
+msgid "Rating"
+msgstr "Waardering"
+
+msgid "Raw"
+msgstr "Raw"
+
+msgid "Read"
+msgstr "Gelezen"
+
+msgid "Read error"
+msgstr "Leesfout"
+
+msgid "Read Only"
+msgstr "Alleen-lezen"
+
+msgid "Read only"
+msgstr "Alleen-lezen"
+
+msgid "Reading"
+msgstr "Lezen"
+
+msgid "read-only"
+msgstr "alleen-lezen"
+
+msgid "Ready"
+msgstr "Gereed"
+
+msgid "Ready."
+msgstr "Gereed."
+
+msgid "Reason"
+msgstr "Reden"
+
+msgid "Reassign"
+msgstr "Opnieuw toewijzen"
+
+msgid "Recent"
+msgstr "Recent"
+
+msgid "Recent Documents"
+msgstr "Recente documenten"
+
+msgid "Recent Files"
+msgstr "Recente bestanden"
+
+msgid "Recent files"
+msgstr "Recente bestanden"
+
+msgid "Record"
+msgstr "Opnemen"
+
+msgid "Recording"
+msgstr "Opname"
+
+msgid "Rectangle"
+msgstr "Rechthoek"
+
+msgid "Recursive"
+msgstr "Recursief"
+
+msgid "Red"
+msgstr "Rood"
+
+msgid "red"
+msgstr "rood"
+
+msgid "Redo"
+msgstr "Opnieuw"
+
+msgid "&Redo"
+msgstr "Opnie&uw"
+
+msgid "_Redo"
+msgstr "Op_nieuw uitvoeren"
+
+msgid "Re&do"
+msgstr "Opnie&uw"
+
+msgid "Redo %1"
+msgstr "%1 opnieuw doen"
+
+msgid "Reference"
+msgstr "Referentie"
+
+msgid "References"
+msgstr "Referenties"
+
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+msgid "_Refresh"
+msgstr "Ve_rnieuwen"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Region"
+msgstr "Regio"
+
+msgid "Register"
+msgstr "Registreren"
+
+msgid "Regular"
+msgstr "Regelmatig"
+
+msgid "Regular Expression"
+msgstr "Reguliere expressie"
+
+msgid "Regular expression"
+msgstr "Reguliere expressie"
+
+msgid "Reject"
+msgstr "Afwijzen"
+
+msgid "Relative"
+msgstr "Relatief"
+
+msgid "Reload"
+msgstr "Herladen"
+
+msgid "&Reload"
+msgstr "&Herladen"
+
+msgid "_Reload"
+msgstr "He_rladen"
+
+msgid "Reminders"
+msgstr "Herinneringen"
+
+msgid "Remote"
+msgstr "Op afstand"
+
+msgid "Removable"
+msgstr "Verwijderbaar"
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "&Remove"
+msgstr "&Verwijderen"
+
+msgid "_Remove"
+msgstr "Ve_rwijderen"
+
+msgid "R&emove"
+msgstr "V&erwijderen"
+
+msgid "Re&move"
+msgstr "Verwij&deren"
+
+msgid "Remove..."
+msgstr "Verwijderen…"
+
+msgid "Remove %1"
+msgstr "%1 verwijderen"
+
+msgid "Remove Account"
+msgstr "Account verwijderen"
+
+msgid "Remove All"
+msgstr "Alles verwijderen"
+
+msgid "Remove Bookmark"
+msgstr "Bladwijzer verwijderen"
+
+msgid "Remove Folder"
+msgstr "Map verwijderen"
+
+msgid "Remove from Favorites"
+msgstr "Uit Favorieten verwijderen"
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "Groep verwijderen"
+
+msgid "Remove Rule"
+msgstr "Regel verwijderen"
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "Hernoemen"
+
+msgid "&Rename"
+msgstr "He&rnoemen"
+
+msgid "_Rename"
+msgstr "_Hernoemen"
+
+msgid "Rename..."
+msgstr "Hernoemen..."
+
+msgid "&Rename..."
+msgstr "He&rnoemen..."
+
+msgid "Rename Bookmark"
+msgstr "Bladwijzer hernoemen"
+
+msgid "Rename File"
+msgstr "Bestand hernoemen"
+
+msgid "Repeat"
+msgstr "Herhalen"
+
+msgid "Replace"
+msgstr "Vervangen"
+
+msgid "&Replace"
+msgstr "Ve&rvangen"
+
+msgid "_Replace"
+msgstr "Ve_rvangen"
+
+msgid "Replace All"
+msgstr "Alles vervangen"
+
+msgid "Replace _All"
+msgstr "_Alles vervangen"
+
+msgid "Replace an existing instance"
+msgstr "Een bestaand exemplaar vervangen"
+
+msgid "Replacement"
+msgstr "Vervanging"
+
+msgid "Reply"
+msgstr "Beantwoorden"
+
+msgid "Report"
+msgstr "Rapport"
+
+msgid "Report a bug"
+msgstr "Een bug rapporteren"
+
+msgid "Report Bug"
+msgstr "Bug rapporteren"
+
+msgid "Report Bug..."
+msgstr "Bug rapporteren…"
+
+msgid "&Report Bug..."
+msgstr "Bug &rapporteren..."
+
+msgid "Reports"
+msgstr "Rapporten"
+
+msgid "Required"
+msgstr "Vereist"
+
+msgid "Rescan"
+msgstr "Opnieuw scannen"
+
+msgid "Resend"
+msgstr "Opnieuw verzenden"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "&Reset"
+msgstr "&Resetten"
+
+msgid "_Reset"
+msgstr "Te_rug naar standaardwaarden"
+
+msgid "Reset to Default"
+msgstr "Naar standaard terugzetten"
+
+msgid "Reset to default"
+msgstr "Terugzetten naar standaard"
+
+msgid "Reset Zoom"
+msgstr "Zoom resetten"
+
+msgid "Resize"
+msgstr "Grootte wijzigen"
+
+msgid "_Resize"
+msgstr "G_rootte wijzigen"
+
+msgid "Resize Image"
+msgstr "Afbeeldingsgrootte wijzigen"
+
+msgid "Resolution"
+msgstr "Resolutie"
+
+msgid "Resource"
+msgstr "Hulpbron"
+
+msgid "Resources"
+msgstr "Hulpbronnen"
+
+msgid "Restart"
+msgstr "Herstarten"
+
+msgid "Restore"
+msgstr "Herstellen"
+
+msgid "Restore Session"
+msgstr "Sessie herstellen"
+
+msgid "Result"
+msgstr "Resultaat"
+
+msgid "Results"
+msgstr "Resultaten"
+
+msgid "Resume"
+msgstr "Hervatten"
+
+msgid "&Resume"
+msgstr "He&rvatten"
+
+msgid "Retry"
+msgstr "Opnieuw proberen"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Reverse"
+msgstr "Omgekeerd"
+
+msgid "Revert"
+msgstr "Terugdraaien"
+
+msgid "_Revert"
+msgstr "Te_rugdraaien"
+
+msgid "Review"
+msgstr "Nakijken"
+
+msgid "Revision"
+msgstr "Revisie"
+
+msgid "Revoked"
+msgstr "Ingetrokken"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "right"
+msgstr "rechts"
+
+msgid "&Right"
+msgstr "&Rechts"
+
+msgid "_Right"
+msgstr "_Rechts"
+
+msgid "Right to Left"
+msgstr "Rechts naar links"
+
+msgid "Right-click"
+msgstr "Rechter-klik"
+
+msgid "River"
+msgstr "Rivier"
+
+msgid "RKWard Team"
+msgstr "Team van RKWard"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Roman"
+msgstr "Roman"
+
+msgid "Romania"
+msgstr "Roemenië"
+
+msgid "Romanian"
+msgstr "Roemeens"
+
+msgid "Room"
+msgstr "Kamer"
+
+msgid "Root"
+msgstr "Hoofdmap"
+
+msgid "Rotate"
+msgstr "Draaien"
+
+msgid "Rotate Left"
+msgstr "Linksom draaien"
+
+msgid "Rotate Right"
+msgstr "Rechtsom draaien"
+
+msgid "Rotation"
+msgstr "Rotatie"
+
+msgid "Round"
+msgstr "Rond"
+
+msgid "Row"
+msgstr "Rij"
+
+msgid "Rows"
+msgstr "Rijen"
+
+msgid "rows"
+msgstr "rijen"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "Regels"
+
+msgid "Run"
+msgstr "Uitvoeren"
+
+msgid "&Run"
+msgstr "Uitvoe&ren"
+
+msgid "Run in terminal"
+msgstr "In terminal uitvoeren"
+
+msgid "Running"
+msgstr "Actief"
+
+msgid "Russia"
+msgstr "Rusland"
+
+msgid "Russian"
+msgstr "Russisch"
+
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgid "S"
+msgstr "Z"
+
+msgid "s"
+msgstr "s"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "%s-eigenschappen"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "Sample"
+msgstr "Voorbeeld"
+
+msgid "Sample Rate"
+msgstr "Samplesnelheid"
+
+msgid "Sample rate"
+msgstr "Samplesnelheid"
+
+msgid "Samples"
+msgstr "Samples"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Sans Serif"
+msgstr "Schreefloos"
+
+msgid "Satellite"
+msgstr "Satelliet"
+
+msgid "Saturation"
+msgstr "Verzadiging"
+
+msgid "Saturday"
+msgstr "Zaterdag"
+
+msgid "Saudi Arabia"
+msgstr "Saoedi-Arabië"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "&Save"
+msgstr "Op&slaan"
+
+msgid "_Save"
+msgstr "Op_slaan"
+
+msgid "Save..."
+msgstr "Opslaan..."
+
+msgid "Save All"
+msgstr "Alles opslaan"
+
+msgid "Save As"
+msgstr "Opslaan als"
+
+msgid "Save as"
+msgstr "Opslaan als"
+
+msgid "Save _As"
+msgstr "Opslaan _als"
+
+msgid "Save As..."
+msgstr "Opslaan als..."
+
+msgid "Save as..."
+msgstr "Opslaan als..."
+
+msgid "_Save As..."
+msgstr "Op_slaan als…"
+
+msgid "Save &As..."
+msgstr "Opslaan &als…"
+
+msgid "Save _As..."
+msgstr "Opslaan _als..."
+
+msgid "Save Attachment"
+msgstr "Bijlage opslaan"
+
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+msgid "Save Changes?"
+msgstr "Wijzigingen opslaan?"
+
+msgid "Save File"
+msgstr "Bestand opslaan"
+
+msgid "Save file"
+msgstr "Bestand opslaan"
+
+msgid "Save Game"
+msgstr "Spel opslaan"
+
+msgid "Save Image"
+msgstr "Afbeelding opslaan"
+
+msgid "_Save Image As..."
+msgstr "Afbeelding op_slaan als…"
+
+msgid "Save Project"
+msgstr "Project opslaan"
+
+msgid "Save Session"
+msgstr "Sessie opslaan"
+
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+msgid "Saved"
+msgstr "Opgeslagen"
+
+msgid "Saving"
+msgstr "Opslaan"
+
+msgid "Saving..."
+msgstr "Bezig met opslaan..."
+
+msgid "Saving file..."
+msgstr "Bestand wordt opgeslagen..."
+
+msgid "Scale"
+msgstr "Schaal"
+
+msgid "_Scale"
+msgstr "S_chalen"
+
+msgid "Scaled"
+msgstr "Geschaald"
+
+msgid "Scaling"
+msgstr "Schalen"
+
+msgid "Scan"
+msgstr "Scannen"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+msgid "Scanning..."
+msgstr "Scannen..."
+
+msgid "Schedule"
+msgstr "Plannen"
+
+msgid "Scheduling"
+msgstr "Planning"
+
+msgid "Scheme"
+msgstr "Schema"
+
+msgid "School"
+msgstr "School"
+
+msgid "Scientific"
+msgstr "Wetenschappelijk"
+
+msgid "Scope"
+msgstr "Bereik"
+
+msgid "Score"
+msgstr "Score"
+
+msgid "Score: %1"
+msgstr "Score: %1"
+
+msgid "Screen"
+msgstr "Scherm"
+
+msgid "Screenshot"
+msgstr "Schermafdruk"
+
+msgid "Screenshots"
+msgstr "Schermafdrukken"
+
+msgid "Script"
+msgstr "Script"
+
+msgid "Scripting"
+msgstr "Scripts maken"
+
+msgid "Scripts"
+msgstr "Scripts"
+
+msgid "Scroll"
+msgstr "Scrollen"
+
+msgid "Scroll Down"
+msgstr "Omlaag schuiven"
+
+msgid "Scroll Left"
+msgstr "Links schuiven"
+
+msgid "Scroll Right"
+msgstr "Naar rechts schuiven"
+
+msgid "Scroll Up"
+msgstr "Omhoog schuiven"
+
+msgid "Scrolling"
+msgstr "Schuiven"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "&Search"
+msgstr "&Zoeken"
+
+msgid "_Search"
+msgstr "_Zoeken"
+
+msgid "S&earch"
+msgstr "Zo&eken"
+
+msgid "Search..."
+msgstr "Zoeken..."
+
+msgid "Search Bar"
+msgstr "Zoekbalk"
+
+msgid "_Search for"
+msgstr "_Zoeken naar"
+
+msgid "Search for '%1' with"
+msgstr "Naar '%1' zoeken met"
+
+msgid "Search Options"
+msgstr "Zoekopties"
+
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+msgid "Search results"
+msgstr "Zoekresultaten"
+
+msgid "Searching..."
+msgstr "Bezig met zoeken..."
+
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+msgid "Second"
+msgstr "Seconde"
+
+msgid "Seconds"
+msgstr "Seconden"
+
+msgid "seconds"
+msgstr "seconden"
+
+msgid "Section"
+msgstr "Sectie"
+
+msgid "Security"
+msgstr "Beveiliging"
+
+msgid "Seek"
+msgstr "Zoeken "
+
+msgid "Select"
+msgstr "Selecteren"
+
+msgid "_Select"
+msgstr "_Selecteren"
+
+msgid "Select..."
+msgstr "Selecteren..."
+
+msgid "Select All"
+msgstr "Alles selecteren"
+
+msgid "Select all"
+msgstr "Alles selecteren"
+
+msgid "&Select All"
+msgstr "Alles &selecteren"
+
+msgid "_Select All"
+msgstr "Alles _selecteren"
+
+msgid "Select &All"
+msgstr "&Alles selecteren"
+
+msgid "Select _All"
+msgstr "_Alles selecteren"
+
+msgid "Select an authentication mode."
+msgstr "Een authenticatiemodus selecteren."
+
+msgid "Select an image"
+msgstr "Een afbeelding selecteren"
+
+msgid "Select Color"
+msgstr "Kleur selecteren"
+
+msgid "Select Directory"
+msgstr "Map selecteren"
+
+msgid "Select File"
+msgstr "Bestand selecteren"
+
+msgid "Select file"
+msgstr "Bestand selecteren"
+
+msgid "Select Folder"
+msgstr "Map selecteren"
+
+msgid "Select folder"
+msgstr "Map selecteren"
+
+msgid "Select Font"
+msgstr "Lettertype selecteren"
+
+msgid "Select None"
+msgstr "Niets selecteren"
+
+msgid "Select Source"
+msgstr "Selecteer bron"
+
+msgid "Selected"
+msgstr "Geselecteerd"
+
+msgid "Selection"
+msgstr "Selectie"
+
+msgid "Selections"
+msgstr "Selecties"
+
+msgid "Semicolon"
+msgstr "Puntkomma"
+
+msgid "Send"
+msgstr "Verzenden"
+
+msgid "Send an email to %1"
+msgstr "Een e-mail sturen naar %1"
+
+msgid "Send File"
+msgstr "Bestand verzenden"
+
+msgid "Send to %1"
+msgstr "Versturen naar %1"
+
+msgid "Sender"
+msgstr "Afzender"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Sensitivity"
+msgstr "Gevoeligheid"
+
+msgid "Sent"
+msgstr "Verzonden"
+
+msgid "Separator"
+msgstr "Scheiding"
+
+msgid "September"
+msgstr "September"
+
+msgid "Serbia"
+msgstr "Servië"
+
+msgid "Serbian"
+msgstr "Servisch"
+
+msgid "Serial Number"
+msgstr "Serienummer"
+
+msgid "Serial number"
+msgstr "Serienummer"
+
+msgid "Series"
+msgstr "Serie"
+
+msgid "Serif"
+msgstr "Met schreef"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Server URL"
+msgstr "URL van server"
+
+msgid "Service"
+msgstr "Service"
+
+msgid "Services"
+msgstr "Services"
+
+msgid "Session"
+msgstr "Sessie"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "Sessies"
+
+msgid "Set"
+msgstr "Instellen"
+
+msgid "Set as Default"
+msgstr "Als standaard instellen"
+
+msgid "Set as default"
+msgstr "Als standaard instellen"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "&Settings"
+msgstr "&Instellingen"
+
+msgid "_Settings"
+msgstr "_Instellingen"
+
+msgid "Settings..."
+msgstr "Instellingen..."
+
+msgid "Severity"
+msgstr "Ernst"
+
+msgid "Seychelles"
+msgstr "Seychellen"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "Arcering"
+
+msgid "Shadow"
+msgstr "Schaduw"
+
+msgid "Shadows"
+msgstr "Schaduwen"
+
+msgid "Shape"
+msgstr "Vorm"
+
+msgid "Share"
+msgstr "Delen"
+
+msgid "Share..."
+msgstr "Delen…"
+
+msgid "Shared"
+msgstr "Gedeeld"
+
+msgid "Sharing"
+msgstr "Delen"
+
+msgid "Sharing failed"
+msgstr "Delen is mislukt"
+
+msgid "Sharpen"
+msgstr "Verscherpen"
+
+msgid "Sharpness"
+msgstr "Scherpte"
+
+msgid "Shear"
+msgstr "Scheeftrekken"
+
+msgid "Shell"
+msgstr "Shell"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "Kort"
+
+msgid "Shortcut"
+msgstr "Sneltoets"
+
+msgid "Shortcuts"
+msgstr "Sneltoetsen"
+
+msgid "Show"
+msgstr "Tonen"
+
+msgid "Show All"
+msgstr "Alles tonen"
+
+msgid "Show Details"
+msgstr "Details tonen"
+
+msgid "Show details"
+msgstr "Details tonen"
+
+msgid "Show Grid"
+msgstr "Raster tonen"
+
+msgid "Show grid"
+msgstr "Raster tonen"
+
+msgid "Show Help"
+msgstr "Hulp tonen"
+
+msgid "Show help"
+msgstr "Hulp tonen"
+
+msgid "Show Hidden Files"
+msgstr "Verborgen bestanden tonen"
+
+msgid "Show in folder"
+msgstr "In map tonen"
+
+msgid "Show legend"
+msgstr "Legenda tonen"
+
+msgid "Show Password"
+msgstr "Wachtwoord tonen"
+
+msgid "Show Preview"
+msgstr "Voorbeeld tonen"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr "Sneltoetsen tonen"
+
+msgid "Show Status Bar"
+msgstr "Statusbalk tonen"
+
+msgid "Show St&atusbar"
+msgstr "St&atusbalk tonen"
+
+msgid "Show the application's version"
+msgstr "Toon de versie van de toepassing"
+
+msgid "Show Toolbar"
+msgstr "Werkbalk tonen"
+
+msgid "Show toolbar"
+msgstr "Werkbalk tonen"
+
+msgid "Show &Toolbar"
+msgstr "&Werkbalk tonen"
+
+msgid "Shuffle"
+msgstr "Schudden"
+
+msgid "Shut Down"
+msgstr "Systeem afsluiten"
+
+msgid "Shutdown"
+msgstr "Afsluiten"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Sign"
+msgstr "Ondertekenen"
+
+msgid "Signal"
+msgstr "Signaal"
+
+msgid "Signature"
+msgstr "Ondertekening"
+
+msgid "Simple"
+msgstr "Eenvoudig"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "Single"
+msgstr "Enkel"
+
+msgid "Sinhala"
+msgstr "Singalees"
+
+msgid "Size"
+msgstr "Grootte"
+
+msgid "size"
+msgstr "grootte"
+
+msgid "&Size"
+msgstr "&Grootte"
+
+msgid "Size: %1"
+msgstr "Grootte: %1"
+
+msgid "Skip"
+msgstr "Overslaan"
+
+msgid "&Skip"
+msgstr "Over&slaan"
+
+msgid "_Skip"
+msgstr "Over_slaan"
+
+msgid "Skip forward"
+msgstr "Ga vooruit"
+
+msgid "Sleep"
+msgstr "Slapen"
+
+msgid "Slide"
+msgstr "Dia"
+
+msgid "Slider"
+msgstr "Schuifregelaar"
+
+msgid "Slideshow"
+msgstr "Diavoorstelling"
+
+msgid "Slovak"
+msgstr "Slowaaks"
+
+msgid "Slovenia"
+msgstr "Slovenië"
+
+msgid "Slovenian"
+msgstr "Sloveens"
+
+msgid "Slow"
+msgstr "Traag"
+
+msgid "Slower"
+msgstr "Langzamer"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Smooth"
+msgstr "Vloeiend"
+
+msgid "Smoothing"
+msgstr "Vloeiend maken"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Snap"
+
+msgid "Snap to Grid"
+msgstr "Raster magnetisch"
+
+msgid "Snow"
+msgstr "Sneeuw"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr "Socks5"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Solid"
+msgstr "Aaneengesloten"
+
+msgid "Solid color"
+msgstr "Effen kleur"
+
+msgid "Solomon Islands"
+msgstr "Salomonseilanden"
+
+msgid "Somalia"
+msgstr "Somalië"
+
+msgid "Sort"
+msgstr "Sorteren"
+
+msgid "Sort By"
+msgstr "Sorteren op"
+
+msgid "Sort by"
+msgstr "Sorteren op"
+
+msgid "Sorting"
+msgstr "Sorteren"
+
+msgid "Sound"
+msgstr "Geluid"
+
+msgid "Soundtrack"
+msgstr "Soundtrack"
+
+msgid "Source"
+msgstr "Bron"
+
+msgid "Sources"
+msgstr "Bronnen"
+
+msgid "South"
+msgstr "Zuid"
+
+msgid "South Africa"
+msgstr "Zuid-Afrika"
+
+msgid "South European"
+msgstr "Zuid-Europees"
+
+msgid "Space"
+msgstr "Spatie"
+
+msgid "Spacing"
+msgstr "Spatiëring"
+
+msgid "Spain"
+msgstr "Spanje"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Spanish"
+msgstr "Spaans"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "Uitspreken"
+
+msgid "Speak Text"
+msgstr "Tekst uitspreken"
+
+msgid "Speaker"
+msgstr "Luidspreker"
+
+msgid "Special"
+msgstr "Speciaal"
+
+msgid "Special Characters"
+msgstr "Speciale tekens"
+
+msgid "Specials"
+msgstr "Specials"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr "Specificeer de ID van het sessiebeheer"
+
+msgid "Speed"
+msgstr "Snelheid"
+
+msgid "Spell Check"
+msgstr "Spellingcontrole"
+
+msgid "Spell Checking"
+msgstr "Spellingcontrole"
+
+msgid "Spelling"
+msgstr "Spelling"
+
+msgid "Spiral"
+msgstr "Spiraal"
+
+msgid "Split"
+msgstr "Splitsen"
+
+msgid "Split View"
+msgstr "Beeld splitsen"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Spreadsheet"
+msgstr "Rekenblad"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "Vierkant"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+"‘%s::%s’ is geen geldige eigenschapsnaam; ‘%s’ is geen GObject-subtype"
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr "Stapel"
+
+msgid "Stacked"
+msgstr "Gestapeld"
+
+msgid "Standard"
+msgstr "Standaard"
+
+msgid "Standard deviation"
+msgstr "Standaard deviatie"
+
+msgid "Star"
+msgstr "Ster"
+
+msgid "Start"
+msgstr "Starten"
+
+msgid "&Start"
+msgstr "&Starten"
+
+msgid "Start a new game"
+msgstr "Een nieuw spel beginnen"
+
+msgid "Start Date"
+msgstr "Begindatum"
+
+msgid "Start date"
+msgstr "Startdatum"
+
+msgid "Start Presentation"
+msgstr "Presentatie starten"
+
+msgid "Start Time"
+msgstr "Starttijd"
+
+msgid "Started"
+msgstr "Gestart"
+
+msgid "Starting"
+msgstr "Bezig met starten"
+
+msgid "Starting..."
+msgstr "Bezig met starten…"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "begint met"
+
+msgid "Startup"
+msgstr "Opstarten"
+
+msgid "Stash"
+msgstr "Opstapelen"
+
+msgid "State"
+msgstr "Status"
+
+msgid "States"
+msgstr "Staten"
+
+msgid "Statistics"
+msgstr "Statistieken"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Status: %1"
+msgstr "Status: %1"
+
+msgid "Statusbar"
+msgstr "Statusbalk"
+
+msgid "_Statusbar"
+msgstr "_Statusbalk"
+
+msgid "Step"
+msgstr "Step"
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr "Stappen"
+
+msgid "Stereo"
+msgstr "Stereo"
+
+msgid "Stop"
+msgstr "Stoppen"
+
+msgid "&Stop"
+msgstr "&Stoppen"
+
+msgid "_Stop"
+msgstr "_Stoppen"
+
+msgid "S&top"
+msgstr "S&toppen"
+
+msgid "Stop Recording"
+msgstr "Opnemen stoppen"
+
+msgid "Stopped"
+msgstr "Gestopt"
+
+msgid "Storage"
+msgstr "Opslag"
+
+msgid "Store"
+msgstr "Opslaan"
+
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Street"
+msgstr "Straat"
+
+msgid "Strength"
+msgstr "Sterkte"
+
+msgid "Stretch"
+msgstr "Uitrekken"
+
+msgid "Strike Out"
+msgstr "Doorhalen"
+
+msgid "Strikethrough"
+msgstr "Doorstrepen"
+
+msgid "String"
+msgstr "Tekenreeks"
+
+msgid "string"
+msgstr "tekenreeks"
+
+msgid "Strings"
+msgstr "Tekenreeksen"
+
+msgid "Stroke"
+msgstr "Penseelstreek"
+
+msgid "Strong"
+msgstr "Krachtig"
+
+msgid "Structure"
+msgstr "Structuur"
+
+msgid "Style"
+msgstr "Stijl"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "Submit"
+msgstr "Indienen"
+
+msgid "Subscribe"
+msgstr "Inschrijven"
+
+msgid "Subscript"
+msgstr "Subscript"
+
+msgid "Subscriptions"
+msgstr "Inschrijvingen"
+
+msgid "Subtitle"
+msgstr "Ondertitel"
+
+msgid "Subtitles"
+msgstr "Ondertiteling"
+
+msgid "Subtract"
+msgstr "Aftrekken"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "Succes"
+
+msgid "Sudan"
+msgstr "Soedan"
+
+msgid "Suffix"
+msgstr "Achtervoegsel"
+
+msgid "Sum"
+msgstr "Som"
+
+msgid "Summary"
+msgstr "Samenvatting"
+
+msgid "Sun"
+msgstr "Zon"
+
+msgid "Sundanese"
+msgstr "Soedanees"
+
+msgid "Sunday"
+msgstr "Zondag"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "Superscript"
+
+msgid "Support"
+msgstr "Ondersteuning"
+
+msgid "Suriname"
+msgstr "Suriname"
+
+msgid "Surname"
+msgstr "Achternaam"
+
+msgid "Suspend"
+msgstr "Onderbreken"
+
+msgid "Suspended"
+msgstr "Onderbroken"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "Omwisselen"
+
+msgid "Sweden"
+msgstr "Zweden"
+
+msgid "Swedish"
+msgstr "Zweeds"
+
+msgid "Switch"
+msgstr "Omschakelen"
+
+msgid "Switches"
+msgstr "Schakelaars"
+
+msgid "Switzerland"
+msgstr "Zwitserland"
+
+msgid "Symbol"
+msgstr "Symbool"
+
+msgid "Symbols"
+msgstr "Symbolen"
+
+msgid "Sync"
+msgstr "Synchroniseer"
+
+msgid "Synchronization"
+msgstr "Synchronisatie"
+
+msgid "Synchronize"
+msgstr "Synchroniseren"
+
+msgid "Syriac"
+msgstr "Syriac"
+
+msgid "System"
+msgstr "Systeem"
+
+msgid "System Default"
+msgstr "Systeemstandaard"
+
+msgid "System Settings"
+msgstr "Systeeminstellingen"
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Table"
+msgstr "Tabel"
+
+msgid "Table of Contents"
+msgstr "Inhoudsopgave"
+
+msgid "Tablet"
+msgstr "Tablet"
+
+msgid "Tabs"
+msgstr "Tabbladen"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Tagged"
+msgstr "Van tag voorzien"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Tajikistan"
+msgstr "Tadzjikistan"
+
+msgid "Take Screenshot"
+msgstr "Schermafdruk maken"
+
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "Tanzania"
+
+msgid "Target"
+msgstr "Doel"
+
+msgid "Task"
+msgstr "Taak"
+
+msgid "Tasks"
+msgstr "Taken"
+
+msgid "Tatar"
+msgstr "Tataars"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Technology"
+msgstr "Technologie"
+
+msgid "Telephone"
+msgstr "Telefoon"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Temperature"
+msgstr "Temperatuur"
+
+msgid "Template"
+msgstr "Sjabloon"
+
+msgid "Templates"
+msgstr "Sjablonen"
+
+msgid "Tentative"
+msgstr "Voorlopig"
+
+msgid "Terminal"
+msgstr "Terminal"
+
+msgid "Terminal Emulator"
+msgstr "Terminalprogramma"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Testing"
+msgstr "Testen"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "text"
+msgstr "tekst"
+
+msgid "_Text"
+msgstr "_Tekst"
+
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+msgid "Text color"
+msgstr "Tekstkleur"
+
+msgid "Text Editor"
+msgstr "Tekstbewerker"
+
+msgid "Text File"
+msgstr "Tekstbestand"
+
+msgid "Text Files"
+msgstr "Tekstbestanden"
+
+msgid "Text Only"
+msgstr "Alleen tekst"
+
+msgid "Text only"
+msgstr "Alleen tekst"
+
+msgid "Text to search for"
+msgstr "Te zoeken tekst"
+
+msgid "Text Tool"
+msgstr "Hulpmiddel voor tekst"
+
+msgid "TextLabel"
+msgstr "Tekstlabel"
+
+msgid "Thai"
+msgstr "Thais"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "The file %1 does not exist."
+msgstr "Het bestand %1 bestaat niet."
+
+msgid "The GNOME Project"
+msgstr "Het GNOME-project"
+
+msgid "The graphical theme to be used."
+msgstr "Het te gebruiken grafische thema."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+"De belangrijkste wijzigingen zijn dat Calligra volledig is overgezet naar "
+"Qt6 en KF6, samen met een belangrijke herziening van zijn "
+"gebruikersinterface."
+
+msgid "The NetworkManager Developers"
+msgstr "De NetworkManager-ontwikkelaars"
+
+msgid "Theme"
+msgstr "Thema"
+
+msgid "Themes"
+msgstr "Thema's"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "Er was een probleem bij het delen van het document: %1"
+
+msgid "Thin"
+msgstr "Dun"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+"Deze uitgave voegt ondersteuning voor flatpak toe aan de Calligra "
+"kantoorsuite."
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"Hierdoor wordt de menubalk geheel verborgen. U kunt die weer zichtbaar maken"
+" door %1 te typen."
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "Drempelwaarde"
+
+msgid "Thumbnail"
+msgstr "Miniatuur"
+
+msgid "Thumbnails"
+msgstr "Miniaturen"
+
+msgid "Thursday"
+msgstr "Donderdag"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "Tibetaans"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "Tegel"
+
+msgid "Tiled"
+msgstr "Getegeld"
+
+msgid "Tilt"
+msgstr "Helling"
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "time"
+msgstr "tijd"
+
+msgid "Time: %1"
+msgstr "Tijd: %1"
+
+msgid "Time and Date"
+msgstr "Tijd en datum"
+
+msgid "Time Zone"
+msgstr "Tijdzone"
+
+msgid "Timeline"
+msgstr "Tijdlijn"
+
+msgid "Timeout"
+msgstr "Tijdslimiet"
+
+msgid "Timer"
+msgstr "Timer"
+
+msgid "Timestamp"
+msgstr "Tijdsaanduiding"
+
+msgid "Timezone"
+msgstr "Tijdzone"
+
+msgid "Tiny"
+msgstr "Heel klein"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "title"
+msgstr "titel"
+
+msgid "&Title"
+msgstr "&Titel"
+
+msgid "_Title"
+msgstr "_Titel"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "Aan"
+
+msgid "to"
+msgstr "tot"
+
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+msgid "Today"
+msgstr "Vandaag"
+
+msgid "today"
+msgstr "vandaag"
+
+msgid "TODO"
+msgstr "TE DOEN"
+
+msgid "Todo"
+msgstr "Te doen"
+
+msgid "Toggle Fullscreen"
+msgstr "Volledig scherm omschakelen"
+
+msgid "Toggle Sidebar"
+msgstr "Zijbalk weergeven/verbergen"
+
+msgid "Toggle sidebar"
+msgstr "Zijbalk omschakelen"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Token"
+msgstr "Teken"
+
+msgid "Tolerance"
+msgstr "Tolerantie"
+
+msgid "Tomorrow"
+msgstr "Morgen"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Tool"
+msgstr "Hulpmiddel"
+
+msgid "Tool Options"
+msgstr "Gereedschapsopties"
+
+msgid "_Toolbar"
+msgstr "_Werkbalk"
+
+msgid "T_oolbar"
+msgstr "Werkbalk"
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "Gereedschapskist"
+
+msgid "Tools"
+msgstr "Hulpmiddelen"
+
+msgid "&Tools"
+msgstr "H&ulpmiddelen"
+
+msgid "_Tools"
+msgstr "E_xtra"
+
+msgid "Top"
+msgstr "Boven"
+
+msgid "_Top"
+msgstr "_Boven"
+
+msgid "Top Left"
+msgstr "Linksboven"
+
+msgid "Top left"
+msgstr "Linksboven"
+
+msgid "Top Right"
+msgstr "Rechtsboven"
+
+msgid "Top right"
+msgstr "Rechtsboven"
+
+msgid "Topic"
+msgstr "Onderwerp"
+
+msgid "Top-left"
+msgstr "Linksboven"
+
+msgid "Top-right"
+msgstr "Rechtsboven"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Track"
+msgstr "Track"
+
+msgid "Track Number"
+msgstr "Tracknummer"
+
+msgid "Tracker"
+msgstr "Tracker"
+
+msgid "Tracks"
+msgstr "Tracks"
+
+msgid "Traditional"
+msgstr "Traditioneel"
+
+msgid "Transfer"
+msgstr "Overboeking"
+
+msgid "Transform"
+msgstr "Transformeren"
+
+msgid "Transformation"
+msgstr "Transformatie"
+
+msgid "Translate"
+msgstr "Vertalen"
+
+msgid "Translation"
+msgstr "Vertaling"
+
+msgid "Translator"
+msgstr "Vertaler"
+
+msgid "translator-credits"
+msgstr ""
+"Nathan Follens <nfollens@gnome.org>\n"
+"Meer info over GNOME-NL https://nl.gnome.org"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "Vertalers"
+
+msgid "Transparency"
+msgstr "Transparantie"
+
+msgid "Transparent"
+msgstr "Transparant"
+
+msgid "Transport"
+msgstr "Transport"
+
+msgid "Transpose"
+msgstr "Transponeer"
+
+msgid "Trash"
+msgstr "Prullenbak"
+
+msgid "Travel"
+msgstr "Reizen"
+
+msgid "Tree"
+msgstr "Boomstructuur"
+
+msgid "Tree View"
+msgstr "Boomstructuurweergave"
+
+msgid "Triangle"
+msgstr "Driehoek"
+
+msgid "True"
+msgstr "Waar"
+
+msgid "true"
+msgstr "waar"
+
+msgid "Trusted"
+msgstr "Vertrouwd"
+
+msgid "Try a different search"
+msgstr "Probeer een andere zoekopdracht"
+
+msgid "Try Again"
+msgstr "Opnieuw proberen"
+
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+msgid "Tunisia"
+msgstr "Tunesië"
+
+msgid "Turkey"
+msgstr "Turkije"
+
+msgid "Turkish"
+msgstr "Turks"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "TYPE"
+msgstr "TYPE"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "type"
+msgstr "type"
+
+msgid "&Type"
+msgstr "&Type"
+
+msgid "Type: %1"
+msgstr "Type: %1"
+
+msgid "Uganda"
+msgstr "Oeganda"
+
+msgid "Ukraine"
+msgstr "Oekraïne"
+
+msgid "Ukrainian"
+msgstr "Oekraïens"
+
+msgid "Unable to create a temporary file."
+msgstr "Kon geen tijdelijk bestand aanmaken."
+
+msgid "unable to get editor plugin name: %s"
+msgstr "verkrijgen van naam van verwerkersplug-in mislukt: %s"
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+"instellen van eigenschap ‘%s’ type ‘%s’ van waarde van type ‘%s’ is niet "
+"mogelijk"
+
+msgid "Unavailable"
+msgstr "Niet beschikbaar"
+
+msgid "Undefined"
+msgstr "Ongedefinieerd"
+
+msgid "Underline"
+msgstr "Onderstrepen"
+
+msgid "&Underline"
+msgstr "Onderstre&pen"
+
+msgid "_Underline"
+msgstr "_Onderstrepen"
+
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+msgid "&Undo"
+msgstr "&Ongedaan maken"
+
+msgid "_Undo"
+msgstr "_Ongedaan maken"
+
+msgid "Undo %1"
+msgstr "%1 ongedaan maken"
+
+msgid "Undo History"
+msgstr "Geschiedenis ongedaan maken"
+
+msgid "UnFav it"
+msgstr "Fav. opheffen"
+
+msgid "unhandled property “%s” type %s"
+msgstr "onbehandelde eigenschap ‘%s’ type %s"
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Uniform"
+msgstr "Uniform"
+
+msgid "Union"
+msgstr "Samengesteld"
+
+msgid "Unit"
+msgstr "Eenheid"
+
+msgid "United Arab Emirates"
+msgstr "Verenigde Arabische Emiraten"
+
+msgid "United Kingdom"
+msgstr "Verenigd Koninkrijk"
+
+msgid "United States"
+msgstr "Verenigde Staten"
+
+msgid "United States Minor Outlying Islands"
+msgstr "Verenigde Staten Kleine Afgelegen Eilanden"
+
+msgid "Units"
+msgstr "Eenheden"
+
+msgid "University"
+msgstr "Universiteit"
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+msgid "unknown"
+msgstr "onbekend"
+
+msgid "(unknown)"
+msgstr "(onbekend)"
+
+msgid "Unknown Error"
+msgstr "Onbekende fout"
+
+msgid "Unknown error"
+msgstr "Onbekende fout"
+
+msgid "Unknown error."
+msgstr "Onbekende fout."
+
+msgid "unknown error creating editor instance"
+msgstr "onbekende fout bij aanmaken van verwerkersinstantie"
+
+msgid "Unknown file type"
+msgstr "Onbekend bestandstype"
+
+msgid "Unlimited"
+msgstr "Onbeperkt"
+
+msgid "unlimited"
+msgstr "onbeperkt"
+
+msgid "Unlock"
+msgstr "Ontgrendelen"
+
+msgid "_Unlock"
+msgstr "_Ontgrendelen"
+
+msgid "Unmount"
+msgstr "Afkoppelen"
+
+msgid "Unmute"
+msgstr "Dempen opheffen"
+
+msgid "Unnamed"
+msgstr "Naamloos"
+
+msgid "unnamed"
+msgstr "naamloos"
+
+msgid "Unread"
+msgstr "Ongelezen"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "Niet opgeslagen wijzigingen"
+
+msgid "Unselect All"
+msgstr "Alles deselecteren"
+
+msgid "Unselect all"
+msgstr "Alles deselecteren"
+
+msgid "Unspecified"
+msgstr "Niet opgegeven"
+
+msgid "Untitled"
+msgstr "Naamloos"
+
+msgid "untitled"
+msgstr "naamloos"
+
+msgid "Unused"
+msgstr "Ongebruikt"
+
+msgid "Up"
+msgstr "Omhoog"
+
+msgid "&Up"
+msgstr "&Omhoog"
+
+msgid "Update"
+msgstr "Bijwerken"
+
+msgid "&Update"
+msgstr "Bij&werken"
+
+msgid "_Update"
+msgstr "_Bijwerken"
+
+msgid "Updates"
+msgstr "Updates"
+
+msgid "Updating"
+msgstr "Bijwerken"
+
+msgid "Updating..."
+msgstr "Bezig met bijwerken..."
+
+msgid "Upload"
+msgstr "Uploaden"
+
+msgid "_Upload"
+msgstr "_Uploaden"
+
+msgid "Uploaded"
+msgstr "Geüpload"
+
+msgid "Upper"
+msgstr "Hoofdletters"
+
+msgid "Uppercase"
+msgstr "Hoofdletters"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "Usage"
+msgstr "Gebruik"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "Gebruiken"
+
+msgid "Used"
+msgstr "Gebruikt"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "User Certificate"
+msgstr "Gebruikercertificaat"
+
+msgid "User Defined"
+msgstr "Gebruikergedefinieerd"
+
+msgid "User Feedback"
+msgstr "Terugkoppeling van gebruiker"
+
+msgid "User ID"
+msgstr "Gebruikers-ID"
+
+msgid "User Interface"
+msgstr "Gebruikersinterface"
+
+msgid "User name"
+msgstr "Gebruikersnaam"
+
+msgid "User Password"
+msgstr "Gebruikerswachtwoord"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "_Username"
+msgstr "Gebr_uikersnaam"
+
+msgid "Users"
+msgstr "Gebruikers"
+
+msgid "Utilities"
+msgstr "Hulpmiddelen"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "Oezbekistan"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr "%v%"
+
+msgid "Valid"
+msgstr "Geldig"
+
+msgid "Valid from"
+msgstr "Geldig vanaf"
+
+msgid "Validity"
+msgstr "Geldigheid"
+
+msgid "Value"
+msgstr "Waarde"
+
+msgid "value"
+msgstr "waarde"
+
+msgid "&Value"
+msgstr "&Waarde"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+"waarde ‘%s’ van type ‘%s’ is ongeldig of buiten bereik voor eigenschap ‘%s’ "
+"van type ‘%s’"
+
+msgid "Values"
+msgstr "Waarden"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Variable"
+msgstr "Variabele"
+
+msgid "Variables"
+msgstr "Variabelen"
+
+msgid "Variance"
+msgstr "Variantie"
+
+msgid "Vector"
+msgstr "Vector"
+
+msgid "Velocity"
+msgstr "Snelheid"
+
+msgid "Vendor"
+msgstr "Leverancier"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Verb"
+msgstr "Werkwoord"
+
+msgid "Verify"
+msgstr "Verifiëren"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Version %1"
+msgstr "Versie %1"
+
+msgid "Vertical"
+msgstr "Verticaal"
+
+msgid "Very Large"
+msgstr "Erg groot"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video CD"
+msgstr "Video-CD"
+
+msgid "Video Codec"
+msgstr "Video-codec"
+
+msgid "Video Files"
+msgstr "Video-bestanden"
+
+msgid "Videos"
+msgstr "Video's"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Vietnamese"
+msgstr "Vietnamees"
+
+msgid "View"
+msgstr "Beeld"
+
+msgid "&View"
+msgstr "Beel&d"
+
+msgid "_View"
+msgstr "Beel_d"
+
+msgid "View Options"
+msgstr "Weergave-opties"
+
+msgid "View Settings"
+msgstr "Weergave-instellingen"
+
+msgid "Viewer"
+msgstr "Viewer"
+
+msgid "Views"
+msgstr "Weergaven"
+
+msgid "Virtual"
+msgstr "Virtueel"
+
+msgid "Virtual Keyboard"
+msgstr "Virtueel toetsenbord"
+
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+msgid "Visible"
+msgstr "Zichtbaar"
+
+msgid "Voltage"
+msgstr "Voltage"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Volume Down"
+msgstr "Volume omlaag"
+
+msgid "Volume Up"
+msgstr "Volume omhoog"
+
+msgid "W"
+msgstr "W"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "Wachten"
+
+msgid "Wallpaper"
+msgstr "Achtergrondafbeelding"
+
+msgid "Wallpaper type"
+msgstr "Type achtergrondafbeelding"
+
+msgid "WARNING"
+msgstr "WAARSCHUWING"
+
+msgid "Warning"
+msgstr "Waarschuwing"
+
+msgid "warning"
+msgstr "waarschuwing"
+
+msgid "Warnings"
+msgstr "Waarschuwingen"
+
+msgid "Water"
+msgstr "Water"
+
+msgid "Wave"
+msgstr "Golf"
+
+msgid "Weak"
+msgstr "Zwak"
+
+msgid "Weather"
+msgstr "Weer"
+
+msgid "Web Browser"
+msgstr "Webbrowser"
+
+msgid "Web browser"
+msgstr "Webbrowser"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Wednesday"
+msgstr "Woensdag"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Week View"
+msgstr "Weekweergave"
+
+msgid "Weekly"
+msgstr "Wekelijks"
+
+msgid "Weeks"
+msgstr "Weken"
+
+msgid "weeks"
+msgstr "weken"
+
+msgid "Weight"
+msgstr "Gewicht"
+
+msgid "Welcome"
+msgstr "Welkom"
+
+msgid "Welsh"
+msgstr "Welsh"
+
+msgid "West"
+msgstr "West"
+
+msgid "Western"
+msgstr "Westers"
+
+msgid "Western Sahara"
+msgstr "Westelijke Sahara"
+
+msgid "What's new"
+msgstr "Wat is nieuw"
+
+msgid "Wheel"
+msgstr "Wiel"
+
+msgid "Whether sound effects should be played."
+msgstr "Of er geluidseffecten zullen worden afgespeeld."
+
+msgid "White"
+msgstr "Wit"
+
+msgid "white"
+msgstr "wit"
+
+msgid "White Balance"
+msgstr "Witbalans"
+
+msgid "Wide"
+msgstr "Breed"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Width"
+msgstr "Breedte"
+
+msgid "&Width"
+msgstr "&Breedte"
+
+msgid "_Width"
+msgstr "_Breedte"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgid "Window"
+msgstr "Venster"
+
+msgid "&Window"
+msgstr "&Venster"
+
+msgid "&Window Color Scheme"
+msgstr "Kleurenschema van &venster"
+
+msgid "Window height"
+msgstr "Vensterhoogte"
+
+msgid "Window Management"
+msgstr "Vensterbeheer"
+
+msgid "Window maximized"
+msgstr "Venster gemaximaliseerd"
+
+msgid "Window size"
+msgstr "Venstergrootte"
+
+msgid "Window Title"
+msgstr "Venstertitel"
+
+msgid "Window width"
+msgstr "Vensterbreedte"
+
+msgid "Windows"
+msgstr "Vensters"
+
+msgid "_Windows"
+msgstr "_Vensters"
+
+msgid "with"
+msgstr "met"
+
+msgid "Word"
+msgstr "Woord"
+
+msgid "Word Count"
+msgstr "Aantal woorden"
+
+msgid "Words"
+msgstr "Woorden"
+
+msgid "Work"
+msgstr "Werk"
+
+msgid "World"
+msgstr "Wereld"
+
+msgid "Wrap"
+msgstr "Doorlopen"
+
+msgid "_Wrap around"
+msgstr "Doorgaan na document_einde"
+
+msgid "Wrap Text"
+msgstr "Tekst op volgende regel laten doorlopen"
+
+msgid "Write"
+msgstr "Schrijven"
+
+msgid "Writing"
+msgstr "Schrijven"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "Jaar"
+
+msgid "Yearly"
+msgstr "Jaarlijks"
+
+msgid "Years"
+msgstr "Jaren"
+
+msgid "years"
+msgstr "jaren"
+
+msgid "Yellow"
+msgstr "Geel"
+
+msgid "yellow"
+msgstr "geel"
+
+msgid "Yemen"
+msgstr "Jemen"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "_Yes"
+msgstr "_Ja"
+
+msgid "Yesterday"
+msgstr "Gisteren"
+
+msgid "Yiddish"
+msgstr "Jiddisch"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+"Om toegang te krijgen tot het virtuele privénetwerk ‘%s’ moet u zich "
+"aanmelden."
+
+msgid "Yukon"
+msgstr "Yukon"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "Zambia"
+
+msgid "Zero"
+msgstr "Nul"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Zoom"
+msgstr "Zoomen"
+
+msgid "&Zoom"
+msgstr "&Zoomen"
+
+msgid "_Zoom"
+msgstr "_Zoomen"
+
+msgid "Zoom In"
+msgstr "Inzoomen"
+
+msgid "Zoom in"
+msgstr "Inzoomen"
+
+msgid "Zoom &In"
+msgstr "&Inzoomen"
+
+msgid "Zoom _In"
+msgstr "_Inzoomen"
+
+msgid "Zoom Out"
+msgstr "Uitzoomen"
+
+msgid "Zoom out"
+msgstr "Uitzoomen"
+
+msgid "Zoom &Out"
+msgstr "&Uitzoomen"
+
+msgid "Zoom _Out"
+msgstr "_Uitzoomen"
+
+msgid "Zoom to Fit"
+msgstr "Zoomen naar passend"

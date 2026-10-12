@@ -7,1437 +7,9453 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "شريط الأدوات الرئيسي"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "عامّ"
+msgid "#"
+msgstr "#"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "أزل"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "ألغِ"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "&ملف"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "احذف"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "بلا"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "الاسم"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "المصين"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "الاسم:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "ت&حرير"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "إ&عدادات"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "خطأ"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "&عرض"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "أضف"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "كلمة المرور:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "مطوّر"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "المؤلف"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "أغلق"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "خيارات"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "إعدادات"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "مجهول"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "أ&دوات"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "النّوع"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "ا&حذف"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "حرّر"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "احفظ"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "الوصف"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "الوصف:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "التاريخ"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "ملف"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "معاينة"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "اضبط"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "المظهر"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "خصائص"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "النوع:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "الحجم"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "أ&زل"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "ابحث"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "المبدئيّ"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "اسم المستخدم:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "م&ساعدة"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "انسخ"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "أوقف"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "اعرض"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "تحذير"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "عادي"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "غيّر الاسم"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "نعم"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "متقدّم"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "لا"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "الحالة"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "النص"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "القيمة"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "الألوان"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "حواريّ"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "العنوان"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "المؤلف الأصلي"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "ابحث..."
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "٪"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "أضف..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "معلومات"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "الوقت"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "التعليق"
+msgid ","
+msgstr "،"
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "الارتفاع:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "اليسار"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "جديد"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "افتح"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "الحجم:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "العرض:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "المنفذ:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "اليمين"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "احفظ كَ‍"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "العنوان:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&صدّر"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "آلي"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "امسح"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "أنشئ"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "صدّر"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "مساعدة"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "حسنًا"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "الا&سم:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "الاستيثاق"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "التفاصيل"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "المرشّح"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "تجاهل"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "صورة"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "المكان:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "أنعش"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "الكلّ"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "الوسط"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "مخصّص"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "الخط"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "أدرج"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "أبدًا"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "أدوات"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "تراجع"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "غير معنون"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "ا&ذهب"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "حرّر..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "ممكّن"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "استورد"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "المكان"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "انقل لأسفل"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "انقل لأعلى"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "حدّد الكلّ"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "حدّث"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "أ&ضف"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "عن"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "تعليق:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "اضبط..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "اسم الملفّ:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "الإعدادات العامة"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "التالي"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "أخرى"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "اختر"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "الأعلى"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "عمودي"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "أ&غلق"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "المؤلّف:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "مكّن"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "أفقي"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "استورد..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "كرّر"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "ارفض"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "استبدل"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "&حرّر..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "الإجراءات"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "دائما"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "العلامات"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "التّاريخ:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "صدّر..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "معلومات"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "الرقم"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "المؤلف الأصلي"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "شغّل"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "أعد التحميل"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "ابدأ"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "الوسوم"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "السمة"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "إلى:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "&جديد"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "اقبل"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "الخلفيّة"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "اللون:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "الأمر"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "معطّل"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "تمّ"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "الخطوط"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "من:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "السّطر"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "متنوّع"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "الشبكة"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "ألصق"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "ألبث"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "الموقع"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "مجهول"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "اضبط"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " مث"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "طبّق"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "آليّ"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "الأسفل"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "الأعمدة"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "نزّل"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "المحرّر"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "الخط:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "التنسيق"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "من"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "اللغة"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "متنوّع"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "افتح الملف"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "كلمة السّرّ"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "جاهز"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "صفّر"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "الموضوع"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "إلى"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "تكبير"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "أل&غِ"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "الحساب:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "كلّ الملفّات"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "أسود"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "ثخين"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "تابع"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "البيانات"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "المقصد"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "البريد الإلكترونيّ:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "المجلد"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "المجموعة"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "الأيقونة:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "مائل"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "التّخطيط"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "متوسط"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "الرسالة"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "الملحقات"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "السابق"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "أحمر"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "احفظ كَ‍..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "المصدر"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "الحالة"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "خطأ مجهول"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "أعلى"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "العرض"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "الاسم"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "أ&ضف..."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "ا&حفظ"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "التّطبيقات"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "عُد"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "السّلوك"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "حسّاس لحالة الأحرف"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "انسخ إلى الحافظة"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "المصين الحاليّ"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "التنقيح"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "النّسق:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "الطول"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "يدويّ"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "الوضع"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "الخرج"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "المسار:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "الموقع:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "التحديد"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "شارك"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "النّمط"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "قرّب"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "بعّد"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "&لعبة"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "ا&ستورد"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "ا&بحث"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "كلّ الملفّات (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "الأزرق"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "اللون"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "اتّصل"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "البلد"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "التّوثيق"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "أسفل"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "البريد الإلكتروني"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "اسم الملفّ"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "المجلّدات"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "أخضر"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "الصور"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "اللصيقة"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "منخفض"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "الشهر"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "اكتم"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "أنهِ"
-
-#. Occurs in 12 KDE PO files
-msgid "Search…"
-msgstr "ابحث..."
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "الحالة:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "جدول"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "الوسم"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "لصيقة نصّيّة"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "السنة"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "لا"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "نعم"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " بكسل"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "ال&علامات"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "&عام"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "&جديد..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "ا&فتح"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "&قف"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "الحساب"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "تفضيلات الحساب"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "الإجراء"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "لون الخلفيّة"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "الفئات"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "الفئة"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "الفئة:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "اطوِ الكل"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "قصّ"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "لا تغيّر بيانات السّند الفعليّة."
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "وسّع الكل"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "اسم الملفّ"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter..."
-msgstr "رشّح..."
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "المرشّح:"
-
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "البوّابة:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "الأبعاد"
-
-#. Occurs in 11 KDE PO files
-msgid "Harald Sitter"
-msgstr "هارالد سِتِر"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "الارتفاع"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "المنزل"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "الأيقونات"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "المفتاح"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "الخطوط"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "قائمة"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "يحمّل..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "الأشهر"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "انقل"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "الاسم المستعار:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "الملاحظة"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "افتح المجلد الحاوي"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "أأكتب فوق الملفّ؟"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "أعد التّشغيل"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "شغّل"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "ابحث:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "أرسل"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "الخادم:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "السرعة"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "المسار"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "المسار:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "المستخدم:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "دقيقة"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "خطأ"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "ا&نسخ"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr "؟"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "؟؟؟"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " ٪"
+
+msgid ", "
+msgstr "، "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " و "
+
+msgid " (default)"
+msgstr " (المبدئيّ)"
+
+msgid "© KDE Community"
+msgstr "© مجتمع كِيدِي"
+
+msgid " MB"
+msgstr " م.بايت"
+
+msgid " MiB"
+msgstr " م.بايت"
+
+msgid " min"
+msgstr "دقائق"
+
+msgid " minutes"
+msgstr " دقيقة"
+
+msgid " ms"
+msgstr " مث"
+
+msgid " px"
+msgstr " بكسل"
+
+msgid " s"
+msgstr " ث"
+
+msgid " sec"
+msgstr " ثانية"
+
+msgid " seconds"
+msgstr " ثانية"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1٪"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 ٪"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1، %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2٪)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1، %2، %3"
+
+msgid "%1 and %2"
+msgstr "%1 و%2"
+
+msgid "%1 bytes"
+msgstr "%1 بايت"
+
+msgid "1 day"
+msgstr "يوم واحد"
+
+msgid "%1 does not exist"
+msgstr "%1 غير موجود"
+
+msgid "%1 free"
+msgstr "%1 حرّة"
+
+msgid "1 hour"
+msgstr "ساعة واحدة"
+
+msgid "%1 Hz"
+msgstr "%1 هرتز"
+
+msgid "%1 MB"
+msgstr "%1 م.ب"
+
+msgid "%1 ms"
+msgstr "%1 مث"
+
+msgid "%1 of %2"
+msgstr "%1 من %2"
+
+msgid "%1 on %2"
+msgstr "%1 على %2"
+
+msgid "%1 s"
+msgstr "%1 ث"
+
+msgid "%1 seconds"
+msgstr "%1 ثانية"
+
+msgid "%1 to %2"
+msgstr "%1 إلى %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 دقائق"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "128 بتّة"
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 دقيقة"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1دق"
+
+msgid "%1/s"
+msgstr "%1/ث"
+
+msgid "1st"
+msgstr "الأول"
+
+msgid "%1x%2"
+msgstr "%1×%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "2nd"
+msgstr "الثاني"
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 دقيقة"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "الثالث"
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "الرابع"
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 دقائق"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr "الخامس"
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "آ"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "الملفّ بالاسم \"%1\" موجود فعلًا. أمتأكّد من الكتابة فوقه؟"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
 msgstr "أجهض"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "خيارات متقدّمة"
+msgid "&Abort"
+msgstr "أ&جهض"
 
-#. Occurs in 10 KDE PO files
+msgid "Aborted"
+msgstr "أُجهض"
+
+msgid "About"
+msgstr "عن"
+
+msgid "&About"
+msgstr "&عن"
+
+msgid "_About"
+msgstr "_عن"
+
+msgid "About %1"
+msgstr "حول %1"
+
+msgid "About KDE"
+msgstr "عن كِيدِي"
+
+msgid "Abstract"
+msgstr "تخيل"
+
+msgid "Accept"
+msgstr "اقبل"
+
+msgid "Accepted"
+msgstr "قُبلت"
+
+msgid "Accessed"
+msgstr "وُصِل إليه"
+
+msgid "Accessibility"
+msgstr "الإتاحة"
+
+msgid "Account"
+msgstr "الحساب"
+
+msgid "Account Details"
+msgstr "تفاصيل الحساب"
+
+msgid "Account Information"
+msgstr "معلومات الحساب"
+
+msgid "Account Name"
+msgstr "اسم الحساب"
+
+msgid "Accounts"
+msgstr "الحسابات"
+
+msgid "Accuracy"
+msgstr "الدّقّة"
+
+msgid "Action"
+msgstr "الإجراء"
+
+msgid "Actions"
+msgstr "الإجراءات"
+
+msgid "Activate"
+msgstr "نشّط"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Activities"
+msgstr "الأنشطة"
+
+msgid "Activity"
+msgstr "النّشاط"
+
+msgid "Adaptive"
+msgstr "متكيف"
+
+msgid "Add"
+msgstr "أضف"
+
+msgid "&Add"
+msgstr "أ&ضف"
+
+msgid "_Add"
+msgstr "أ_ضف"
+
+msgid "Add..."
+msgstr "أضف..."
+
+msgid "&Add..."
+msgstr "أ&ضف..."
+
+msgid "A&dd..."
+msgstr "أ&ضف…"
+
+msgid "Add Account"
+msgstr "أضف حسابًا"
+
+msgid "Add Bookmark"
+msgstr "أضف علامة"
+
+msgid "_Add Bookmark"
+msgstr "أ_ضف علامة موقع"
+
+msgid "Add Filter"
+msgstr "أضف مرشح"
+
+msgid "Add Folder"
+msgstr "أضف مجلد"
+
+msgid "Add Folder..."
+msgstr "أضف مجلدًا..."
+
+msgid "Add Group"
+msgstr "أضف مجموعة"
+
+msgid "Add New"
+msgstr "أضف جديدًا"
+
+msgid "Add Rule..."
+msgstr "أضِف قاعدة…"
+
+msgid "Add Tag"
+msgstr "أضف وسمًا"
+
+msgid "Add tag"
+msgstr "أضف وسمًا"
+
+msgid "Add to Dictionary"
+msgstr "أضف إلى القاموس"
+
+msgid "Add to Favorites"
+msgstr "أضف إلى المفضّلة"
+
+msgid "Added"
+msgstr "أضيف في"
+
+msgid "Addition"
+msgstr "جمع"
+
+msgid "Additional Information"
+msgstr "معلومات إضافية"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Address Book"
+msgstr "دفتر العناوين"
+
+msgid "Addresses"
+msgstr "العناوين"
+
+msgid "Adjust"
+msgstr "ضبط"
+
+msgid "Advanced"
+msgstr "متقدّم"
+
+msgid "Advanced..."
+msgstr "متقدّم…"
+
+msgid "Ad_vanced..."
+msgstr ""
+
+msgid "Advanced options"
+msgstr "خيارات متقدمة"
+
+msgid "Advanced Properties"
+msgstr "خصائص متقدّمة"
+
+msgid "Advanced Settings"
+msgstr "إعدادات متقدّمة"
+
+msgid "Adwaita"
+msgstr "أدواتي"
+
+msgid "Afghanistan"
+msgstr "أفغانستان"
+
+msgid "Africa"
+msgstr "افريقيا"
+
+msgid "Afrikaans"
+msgstr "الأفريكانيّة"
+
+msgid "After"
+msgstr "بعد"
+
+msgid "Agenda"
+msgstr "جدول الأعمال"
+
+msgid "Alarm"
+msgstr "المنبه"
+
+msgid "Alarms"
+msgstr "المنبّهات"
+
+msgid "Albania"
+msgstr "ألبانيا"
+
+msgid "Albanian"
+msgstr "الألبانية"
+
+msgid "Albert Vaca Cintora"
+msgstr "ألبرت فاكا سينتورا"
+
 msgid "Album"
 msgstr "الألبوم"
 
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
+msgid "Album Artist"
+msgstr "فنّان الألبوم"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "Albums"
+msgstr "الألبومات"
 
-#. Occurs in 10 KDE PO files
+msgid "Alert"
+msgstr "الإنذارات"
+
+msgid "Alexander Neundorf"
+msgstr "ألكساندر نيوندورف"
+
+msgid "Algeria"
+msgstr "الجزائر"
+
+msgid "Algorithm"
+msgstr "خوارزمية"
+
+msgid "Alias"
+msgstr "الاختصار"
+
+msgid "Aliases"
+msgstr "الأسماء البديلة"
+
+msgid "Align"
+msgstr "محاذاة"
+
+msgid "Align Bottom"
+msgstr "حاذِ إلى الأسفل"
+
+msgid "Align Center"
+msgstr "حاذِ وسطًا"
+
+msgid "Align Left"
+msgstr "حاذِ يسارًا"
+
+msgid "Align left"
+msgstr "حاذِ يسارًا"
+
+msgid "Align Right"
+msgstr "حاذِ يمينًا"
+
+msgid "Align right"
+msgstr "حاذِ يمينًا"
+
+msgid "Align Top"
+msgstr "حاذِ إلى الأعلى"
+
+msgid "Alignment"
+msgstr "محاذاة"
+
+msgid "All"
+msgstr "الكلّ"
+
+msgid "all"
+msgstr "الكلّ"
+
+msgid "_All"
+msgstr "ال_كل"
+
+msgid "All Files"
+msgstr "كلّ الملفّات"
+
+msgid "All files"
+msgstr "كل الملفات"
+
+msgid "All Files (*)"
+msgstr "كلّ الملفّات (*)"
+
+msgid "All files (*)"
+msgstr "كلّ الملفّات (*)"
+
+msgid "All Supported Files"
+msgstr "كلّ الملفّات المدعومة"
+
+msgid "Allen Winter"
+msgstr "ألين وينتر"
+
+msgid "Allow"
+msgstr "اسمح"
+
+msgid "Allow Deflate compression"
+msgstr "اسمح بالضغط المنكمش"
+
+msgid "Alpha"
+msgstr "ألفا"
+
+msgid "Alphabetically"
+msgstr "أبجديًا"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "بديل"
+
+msgid "Always"
+msgstr "دائمًا"
+
+msgid "Always ask"
+msgstr "اسأل دائمًا"
+
+msgid "Always visible"
+msgstr "ظاهرة دائمًا"
+
+msgid "AM"
+msgstr "ق‌ظ"
+
+msgid "Ambient"
+msgstr "امبيانت"
+
+msgid "Amount"
+msgstr "الكمّيّة"
+
+msgid "An error occurred"
+msgstr "حدث خطأ"
+
+msgid "An unknown error occurred."
+msgstr "حدث خطأ مجهول"
+
+msgid "Analysis"
+msgstr "تحليل"
+
+msgid "Anchor"
+msgstr "المربط"
+
+msgid "AND"
+msgstr "و"
+
+msgid "and"
+msgstr "و"
+
+msgid "Andorra"
+msgstr "أندورا"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "الزاوية"
+
+msgid "angle"
+msgstr "الزاوية"
+
+msgid "Angola"
+msgstr "أنجولا"
+
+msgid "Animation"
+msgstr "التحريك"
+
+msgid "Animations"
+msgstr "التّحريكات"
+
+msgid "Anniversary"
+msgstr "السّنويّة"
+
+msgid "Annotate"
+msgstr "اشرح"
+
+msgid "Annotation"
+msgstr "شرح"
+
+msgid "Annotations"
+msgstr "الشروح"
+
+msgid "Anonymous"
+msgstr "مجهّل"
+
+msgid "Antarctica"
+msgstr "أنتاركتيكا"
+
+msgid "Any"
+msgstr "أيّ"
+
+msgid "Aperture"
+msgstr "الحدقة"
+
+msgid "Appearance"
+msgstr "المظهر"
+
+msgid "Append"
+msgstr "ألحق"
+
+msgid "AppImage"
+msgstr "صورة تطبيق AppImage"
+
+msgid "Application"
+msgstr "التطبيق"
+
+msgid "Application does not accept documents on command line"
+msgstr "لا يقبل التطبيق المستندات عبر سطر الأوامر"
+
+msgid "Application Menu"
+msgstr "قائمة التّطبيق"
+
+msgid "Applications"
+msgstr "التطبيقات"
+
+msgid "Apply"
+msgstr "طبّق"
+
+msgid "&Apply"
+msgstr "&طبّق"
+
+msgid "_Apply"
+msgstr "_طبّق"
+
+msgid "Apply Settings"
+msgstr "طبّق الإعدادات"
+
+msgid "April"
+msgstr "أبريل"
+
+msgid "Arabic"
+msgstr "العربية"
+
+msgid "Archive"
+msgstr "أرشيف"
+
+msgid "Archives"
+msgstr "الأرشيفات"
+
+msgid "Area"
+msgstr "المساحة"
+
+msgid "Argentina"
+msgstr "الأرجنتين"
+
+msgid "Arguments"
+msgstr "المعاملات"
+
+msgid "Armenia"
+msgstr "أرمينيا"
+
+msgid "Armenian"
+msgstr "الأرمينية"
+
+msgid "Arrow"
+msgstr "سهم"
+
+msgid "Arrows"
+msgstr "أسهم"
+
+msgid "Articles"
+msgstr "المقالات"
+
+msgid "Artist"
+msgstr "الفنّان"
+
+msgid "Artists"
+msgstr "الفنّانون"
+
+msgid "Artwork"
+msgstr "العمل الفنّي"
+
+msgid "Ascending"
+msgstr "تصاعديًّا"
+
+msgid "Asia"
+msgstr "آسيا"
+
+msgid "Ask"
+msgstr "اسأل"
+
+msgid "Aspect Ratio"
+msgstr "النسبة الباعيّة"
+
+msgid "Aspect ratio"
+msgstr "نسبة الأبعاد"
+
+msgid "Assamese"
+msgstr "الأسامية"
+
+msgid "Assign Tags"
+msgstr "أسند وسومًا"
+
+msgid "Assistant"
+msgstr "المساعد"
+
+msgid "ATM"
+msgstr "آلة الصرف الآليّ"
+
+msgid "Attach"
+msgstr "أرفق"
+
+msgid "Attach File"
+msgstr "أرفق ملفًّا"
+
+msgid "Attachment"
+msgstr "مرفقات"
+
+msgid "Attachments"
+msgstr "المرفقات"
+
+msgid "Attendees"
+msgstr "الحضور"
+
+msgid "Attribute"
+msgstr "الخاصية"
+
+msgid "Attributes"
+msgstr "الصّفات"
+
+msgid "Audio"
+msgstr "صوت"
+
+msgid "Audio CD"
+msgstr "CD صوتي"
+
+msgid "Audio Codec"
+msgstr "مرماز الصّوت"
+
+msgid "Audio files"
+msgstr "ملفات صوت"
+
+msgid "August"
+msgstr "أغسطس"
+
+msgid "Australia"
+msgstr "أستراليا"
+
+msgid "Austria"
+msgstr "النمسا"
+
+msgid "Authenticate"
+msgstr "استوثق"
+
+msgid "Authenticate VPN"
+msgstr "وثِّق VPN"
+
+msgid "Authentication"
+msgstr "الاستيثاق"
+
+msgid "Authentication Required"
+msgstr "الاستيثاق مطلوب"
+
+msgid "Author"
+msgstr "المؤلف"
+
+msgid "Authors"
+msgstr "المؤلفون"
+
+msgid "Auto"
+msgstr "آليّ"
+
+msgid "auto"
+msgstr "آليّ"
+
+msgid "Auto Detect"
+msgstr "اكتشف آليًّا"
+
+msgid "Auto Save"
+msgstr "حفظ آليّ"
+
+msgid "Autodetect"
+msgstr "اكتشفه آليًّا"
+
+msgid "Automatic"
+msgstr "آليّ"
+
+msgid "Autosave interval"
+msgstr "فترة الحفظ الآليّ"
+
+msgid "Available"
+msgstr "متوفّرة"
+
+msgid "A&vailable actions"
+msgstr "الإجراءات المتو&فّرة"
+
+msgid "Average"
+msgstr "المتوسط"
+
+msgid "Axes"
+msgstr "المحاور"
+
+msgid "Azerbaijan"
+msgstr "أذربيجان"
+
+msgid "Azerbaijani"
+msgstr "الأذربيجانية"
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "عُد"
+
+msgid "&Back"
+msgstr "&عُد"
+
+msgid "_Back"
+msgstr "_خلف"
+
+msgid "Background"
+msgstr "الخلفية"
+
+msgid "Background Color"
+msgstr "لون الخلفيّة"
+
+msgid "Background color"
+msgstr "لون الخلفية"
+
+msgid "&Background color"
+msgstr "لون ال&خلفية"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "انسخ احتياطيًّا"
+
+msgid "Bahamas"
+msgstr "جزر البهاما"
+
+msgid "Bahrain"
+msgstr "البحرين"
+
+msgid "Balance"
+msgstr "الرصيد"
+
+msgid "Balanced"
+msgstr "متوازن"
+
+msgid "Baltic"
+msgstr "بلطيقي"
+
+msgid "Bangladesh"
+msgstr "بنجلاديش"
+
+msgid "Bank"
+msgstr "مصرف"
+
+msgid "Bar"
+msgstr "شريط"
+
+msgid "Barbados"
+msgstr "باربادوس"
+
+msgid "Base"
+msgstr "القاعدة"
+
+msgid "Basic"
+msgstr "أساسي"
+
+msgid "Basque"
+msgstr "الباسكيّة"
+
+msgid "Bass"
+msgstr "الجهير"
+
+msgid "Battery"
+msgstr "البطارية"
+
+msgid "Bcc"
+msgstr "ن‌ك‌ع"
+
+msgid "Before"
+msgstr "قبل"
+
+msgid "Behavior"
+msgstr "السّلوك"
+
+msgid "Belarus"
+msgstr "روسيا البيضاء"
+
+msgid "Belarusian"
+msgstr "البيلاروسيّة"
+
+msgid "Belgium"
+msgstr "بلجيكا"
+
+msgid "Belize"
+msgstr "بليز"
+
+msgid "Bengali"
+msgstr "البنغالية"
+
+msgid "Benin"
+msgstr "بنين"
+
+msgid "Best"
+msgstr "الأفضل"
+
+msgid "Bhutan"
+msgstr "بوتان"
+
+msgid "Bibliography"
+msgstr "ثبَت مراجع"
+
+msgid "Binary"
+msgstr "ثنائي"
+
+msgid "Birthday"
+msgstr "عيد الميلاد"
+
+msgid "Bitrate"
+msgstr "معدل البت"
+
+msgid "Black"
+msgstr "أسود"
+
+msgid "black"
+msgstr "أسود"
+
+msgid "Blend"
+msgstr "مزج"
+
+msgid "Block"
+msgstr "كتلة"
+
+msgid "Block Elements"
+msgstr "عناصر كتلة"
+
+msgid "Blocked"
+msgstr "محظور"
+
+msgid "Blue"
+msgstr "أزرق"
+
+msgid "Blues"
+msgstr "بلوز"
+
+msgid "Bluetooth"
+msgstr "بلوتوث"
+
+msgid "Blur"
+msgstr "غشاوة"
+
+msgid "<b>Name:</b>"
+msgstr "<b>الاسم:</b>"
+
+msgid "Body"
+msgstr "المتن"
+
+msgid "Bold"
+msgstr "ثخين"
+
+msgid "&Bold"
+msgstr "&ثخين"
+
+msgid "_Bold"
+msgstr "_سميك"
+
+msgid "Bold text"
+msgstr "نصّ عريض"
+
+msgid "Bolivia"
+msgstr "بوليفيا"
+
+msgid "Book"
+msgstr "الكتاب"
+
+msgid "Bookmark"
+msgstr "علامة"
+
+msgid "Bookmarks"
+msgstr "العلامات"
+
+msgid "&Bookmarks"
+msgstr "ال&علامات"
+
+msgid "_Bookmarks"
+msgstr "_علامات"
+
+msgid "Boolean"
+msgstr "منطقي"
+
+msgid "Border"
+msgstr "الحدود"
+
+msgid "Bosnian"
+msgstr "البوسنية"
+
+msgid "Both"
+msgstr "كليهما"
+
+msgid "Botswana"
+msgstr "بتسوانا"
+
+msgid "Bottom"
+msgstr "الأسفل"
+
+msgid "_Bottom"
+msgstr "_تحت"
+
+msgid "Bottom Left"
+msgstr "أسفل اليسار"
+
+msgid "Bottom Right"
+msgstr "أسفل اليمين"
+
+msgid "Bottom-left"
+msgstr "أسفل يسار"
+
+msgid "Bottom-right"
+msgstr "أسفل يمين"
+
+msgid "Box"
+msgstr "صندوق"
+
+msgid "BPM"
+msgstr "النبض"
+
+msgid "Branch"
+msgstr "الفرع"
+
+msgid "Brazil"
+msgstr "البرازيل"
+
+msgid "Breeze"
+msgstr "نسيم"
+
+msgid "Breeze by the KDE VDG"
+msgstr "نسيم من مجموعة تصميم كِيدِي"
+
+msgid "Breeze Dark"
+msgstr "نسيم داكن"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "نسيم داكن من من مجموعة تصميم كِيدِي"
+
+msgid "Breton"
+msgstr "البروطونية"
+
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+msgid "Bridge"
+msgstr "جسر"
+
+msgid "Brightness"
+msgstr "السطوع"
+
+msgid "Broken"
+msgstr "معطوبة"
+
+msgid "Browse"
+msgstr "تصفح"
+
+msgid "Browse..."
+msgstr "تصفّح..."
+
+msgid "_Browse..."
+msgstr "_تصفح..."
+
+msgid "Browser"
+msgstr "المتصفّح"
+
+msgid "Buffer"
+msgstr "المؤقتة"
+
+msgid "Bug fixes"
+msgstr "إصلاح العلل"
+
+msgid "Build"
+msgstr "ابنِ"
+
+msgid "Built-in Screen"
+msgstr "الشاشة المُدْمَجة"
+
+msgid "Bulgaria"
+msgstr "بلغاريا"
+
+msgid "Bulgarian"
+msgstr "البلغارية"
+
+msgid "Burkina Faso"
+msgstr "بوركينا فاسو"
+
+msgid "Burn"
+msgstr "حرق"
+
+msgid "Burundi"
+msgstr "بوروندي"
+
+msgid "Bus"
+msgstr "حافلة"
+
+msgid "Busy"
+msgstr "مشغول"
+
+msgid "Butt"
+msgstr "أسطوانة"
+
+msgid "Button"
+msgstr "الزر"
+
+msgid "Buttons"
+msgstr "أزرار"
+
+msgid "by"
+msgstr "أداء"
+
+msgid "By %1"
+msgstr "بواسطة %1"
+
+msgid "By extension"
+msgstr "حسب الامتداد"
+
+msgid "Bytes"
+msgstr "بايت"
+
+msgid "bytes"
+msgstr "بايتات"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "شهادة المرجع المصدق (CA)"
+
+msgid "Cache"
+msgstr "الخبيئة"
+
+msgid "Calculate"
+msgstr "احسب"
+
+msgid "Calculating..."
+msgstr "يحسب....."
+
+msgid "Calculator"
+msgstr "آلة حاسبة"
+
+msgid "Calendar"
+msgstr "التقويم"
+
+msgid "Calendars"
+msgstr "التقاويم"
+
+msgid "Call"
+msgstr "اتصل"
+
+msgid "Calls"
+msgstr "استدعاءات"
+
+msgid "Cambodia"
+msgstr "كمبوديا"
+
+msgid "Camera"
+msgstr "كاميرا"
+
+msgid "Cameroon"
+msgstr "الكاميرون"
+
+msgid "Canada"
+msgstr "كندا"
+
+msgid "Cancel"
+msgstr "ألغِ"
+
+msgid "&Cancel"
+msgstr "أل&غِ"
+
+msgid "_Cancel"
+msgstr "أ_لغِ"
+
 msgid "C&ancel"
 msgstr "أ&لغِ"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "امسح التاريخ"
+msgid "Canceled"
+msgstr "أُلغي"
 
-#. Occurs in 10 KDE PO files
+msgid "Cancelled"
+msgstr "أُلغيت"
+
+msgid "cannot load editor plugin: %s"
+msgstr ""
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "تعذّر تمرير مسار المستند إلى مُدخلة سطح مكتب من نوع 'Type=Link'1"
+
+msgid "Canvas"
+msgstr "الرقع"
+
+msgid "Capabilities"
+msgstr "الإمكانيات"
+
+msgid "Capacity"
+msgstr "السعة"
+
+msgid "Cape Verde"
+msgstr "الرأس الأخضر"
+
+msgid "Capitalize"
+msgstr "كبّر أوّل حرف"
+
+msgid "Caps Lock is on"
+msgstr "مفتاح Caps Lock مفعّل"
+
+msgid "Capture"
+msgstr "التقط"
+
+msgid "Car"
+msgstr "سيارة"
+
+msgid "Carsten Pfeiffer"
+msgstr "كارستن فايفر"
+
+msgid "Cascade"
+msgstr "تتالي"
+
+msgid "Case Sensitive"
+msgstr "حساس للحالة"
+
+msgid "Case sensitive"
+msgstr "حسّاس لحالة الأحرف"
+
+msgid "Castle"
+msgstr "القلعة"
+
+msgid "Catalan"
+msgstr "الكاتالانيّة"
+
+msgid "Categories"
+msgstr "الفئات"
+
+msgid "Category"
+msgstr "الفئة"
+
+msgid "CC"
+msgstr "ن‌ك"
+
+msgid "Cc"
+msgstr "ن‌ك"
+
+msgid "CD"
+msgstr "القرص المدمج"
+
+msgid "CDDB"
+msgstr "‏CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "خلية"
+
+msgid "Celsius"
+msgstr "مئوي"
+
+msgid "Celtic"
+msgstr "كلتي"
+
+msgid "Center"
+msgstr "الوسط"
+
+msgid "Centered"
+msgstr "موسّطة"
+
+msgid "Centimeters"
+msgstr "سنتيمترات"
+
+msgid "Centimeters (cm)"
+msgstr "سنتيمترات (سم)"
+
+msgid "Central"
+msgstr "سنترال"
+
+msgid "Central African Republic"
+msgstr "جمهورية افريقيا الوسطى"
+
+msgid "Central European"
+msgstr "أوروبي أوسط"
+
+msgid "Certificate"
+msgstr "الشهادة"
+
+msgid "Certificates (TLS)"
+msgstr "الشّهادات (TLS)"
+
+msgid "Chad"
+msgstr "تشاد"
+
+msgid "Change"
+msgstr "غيّر"
+
+msgid "Change..."
+msgstr "غيّر..."
+
+msgid "Changed"
+msgstr "مُغير"
+
+msgid "Channel"
+msgstr "القناة"
+
+msgid "Channels"
+msgstr "القنوات"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "الفصل"
+
+msgid "Chapters"
+msgstr "الفصول"
+
+msgid "Character"
+msgstr "المحارف"
+
+msgid "Characters"
+msgstr "الحروف"
+
+msgid "Charging"
+msgstr "تشحن"
+
+msgid "Chart"
+msgstr "الرسم البياني"
+
+msgid "Chat"
+msgstr "دردشة"
+
+msgid "Check"
+msgstr "تحقّق"
+
+msgid "Check for updates"
+msgstr "التمس التّحديثات"
+
+msgid "Check Spelling"
+msgstr "دقّق الإملاء"
+
+msgid "Checkbox"
+msgstr "خانة تأشير"
+
+msgid "Checkout"
+msgstr "اسحب"
+
+msgid "Cherokee"
+msgstr "شيروكي"
+
+msgid "Children"
+msgstr "أبناء"
+
+msgid "Chile"
+msgstr "شيلي"
+
+msgid "China"
+msgstr "الصين"
+
+msgid "Chinese"
+msgstr "الصينية"
+
+msgid "Chinese Simplified"
+msgstr "صيني مبسّط"
+
+msgid "Chinese Traditional"
+msgstr "صيني تقليدي"
+
+msgid "Choose"
+msgstr "اختر"
+
+msgid "Choose..."
+msgstr "اختر..."
+
+msgid "Cinema"
+msgstr "سينما"
+
+msgid "Circle"
+msgstr "دائرة"
+
+msgid "City"
+msgstr "المدينة"
+
+msgid "Class"
+msgstr "الفئة"
+
+msgid "Classes"
+msgstr "الأصناف"
+
+msgid "Classic"
+msgstr "تقليدي"
+
+msgid "Classical"
+msgstr "كلاسيكي"
+
+msgid "Clean"
+msgstr "مسح"
+
+msgid "Cleanup"
+msgstr "نظف"
+
+msgid "Clear"
+msgstr "امحُ"
+
+msgid "&Clear"
+msgstr "ام&حُ"
+
+msgid "_Clear"
+msgstr "ا_مسح"
+
+msgid "C&lear"
+msgstr "ام&حُ"
+
+msgid "Clear All"
+msgstr "امحُ الكلّ"
+
+msgid "Clear History"
+msgstr "امحُ التاريخ"
+
+msgid "Clear history"
+msgstr "امحُ التاريخ"
+
+msgid "Clear List"
+msgstr "امحُ القائمة"
+
+msgid "Client"
+msgstr "العميل"
+
+msgid "Clip"
+msgstr "المقطع"
+
+msgid "Clipboard"
+msgstr "الحافظة"
+
+msgid "Clock"
+msgstr "الساعة"
+
+msgid "Clockwise"
+msgstr "مع عقارب السّاعة"
+
+msgid "Clone"
+msgstr "استنسخ"
+
+msgid "Close"
+msgstr "أغلق"
+
+msgid "&Close"
+msgstr "أ&غلق"
+
+msgid "_Close"
+msgstr "أ_غلق"
+
+msgid "Close All"
+msgstr "أغلق الكل"
+
+msgid "Close Document"
+msgstr "أغلق المستند"
+
+msgid "Close message"
+msgstr "أغلق الرّسالة"
+
+msgid "Close Tab"
+msgstr "أغلق اللسان"
+
+msgid "Close tab"
+msgstr "أغلق اللسان"
+
+msgid "Close the current tab"
+msgstr "أغلق اللسان الحالي"
+
+msgid "Close this window"
+msgstr "أغلق هذه النّافذة"
+
+msgid "Close Window"
+msgstr "أغلق النافذة"
+
+msgid "Close window"
+msgstr "أغلق النّافذة"
+
+msgid "Close _without Saving"
+msgstr "أغلق _دون حفظ"
+
+msgid "Closed"
+msgstr "مغلق"
+
+msgid "Cloud"
+msgstr "سحابة"
+
+msgid "cm"
+msgstr "سم"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "س‌م‌ص‌د"
+
+msgid "Code"
+msgstr "شفرة"
+
+msgid "code"
+msgstr "رمز"
+
+msgid "Codec"
+msgstr "مرماز"
+
+msgid "Collapse"
+msgstr "اطوِ"
+
+msgid "Collapse All"
+msgstr "اطوِ الكل"
+
+msgid "Collection"
+msgstr "التّجميعة"
+
+msgid "Collections"
+msgstr "التّجميعات"
+
+msgid "Colombia"
+msgstr "كولومبيا"
+
+msgid "Color"
+msgstr "اللون"
+
+msgid "color"
+msgstr "اللون"
+
+msgid "&Color"
+msgstr "ال&لون"
+
+msgid "Color Balance"
+msgstr "توازن الألوان"
+
+msgid "Color Management"
+msgstr "إدارة الألوان"
+
+msgid "Color Mode"
+msgstr "نمط الألوان"
+
+msgid "Color Picker"
+msgstr "منتق الألوان"
+
+msgid "Color Scheme"
+msgstr "مخطّط الألوان"
+
+msgid "Color scheme"
+msgstr "مخطّط الألوان"
+
+msgid "Color Space"
+msgstr "الفضاء اللونيّ"
+
+msgid "Color theme"
+msgstr "سمة الألوان"
+
+msgid "Colorize"
+msgstr "التّلوين"
+
+msgid "Colors"
+msgstr "الألوان"
+
+msgid "Column"
+msgstr "العمود"
+
+msgid "Column %1"
+msgstr "العمود %1"
+
+msgid "Columns"
+msgstr "الأعمدة"
+
+msgid "Comma"
+msgstr "فاصلة"
+
+msgid "COMMAND"
+msgstr "أمر"
+
+msgid "Command"
+msgstr "الأمر"
+
+msgid "command"
+msgstr "أمر"
+
+msgid "Command Line"
+msgstr "سطر الأوامر"
+
+msgid "Command to execute"
+msgstr "الأمر لتنفيذه"
+
+msgid "Commands"
+msgstr "الأوامر"
+
+msgid "Comment"
+msgstr "تعليق"
+
+msgid "Comments"
+msgstr "تعليقات"
+
+msgid "Commit"
+msgstr "أوْدِعْ"
+
+msgid "Common"
+msgstr "شائع"
+
+msgid "Comoros"
+msgstr "جزر القمر"
+
+msgid "Compact"
+msgstr "مُدمج"
+
+msgid "Compare"
+msgstr "قارن"
+
+msgid "Complete"
+msgstr "الإكمال"
+
+msgid "Completed"
+msgstr "اكتمل"
+
+msgid "Completion"
+msgstr "الإكمال"
+
+msgid "Component"
+msgstr "المكون"
+
+msgid "Components"
+msgstr "المكوّنات"
+
+msgid "Composer"
+msgstr "الملحّن"
+
+msgid "Composition"
+msgstr "التّراكب"
+
+msgid "Compress"
+msgstr "اضغط"
+
 msgid "Compression"
 msgstr "الضغط"
 
-#. Occurs in 10 KDE PO files
+msgid "Computer"
+msgstr "الحاسوب"
+
+msgid "Condition"
+msgstr "الشّرط"
+
+msgid "Confidential"
+msgstr "سري"
+
+msgid "Configuration"
+msgstr "الضّبط"
+
+msgid "Configure"
+msgstr "اضبط"
+
+msgid "Configure..."
+msgstr "اضبط..."
+
+msgid "Configure %1"
+msgstr "اضبط %1"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "اضبط اختصارات لوحة المفاتيح"
+
+msgid "Configure Plugins"
+msgstr "اضبط الملحقات"
+
+msgid "Configure Toolbars"
+msgstr "اضبط أشرطة الأدوات"
+
+msgid "Configure Web Shortcuts..."
+msgstr "اضبط اختصارات الوبّ…"
+
+msgid "Confirm"
+msgstr "أكد"
+
+msgid "Confirmation"
+msgstr "تأكيد"
+
+msgid "Confirmation Required"
+msgstr "التأكيد مطلوب"
+
+msgid "Confirmed"
+msgstr "أُكّد"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "تضارب مع اختصار تطبيق قياسي"
+
+msgid "Connect"
+msgstr "اتّصل"
+
+msgid "C_onnect"
+msgstr "ا_تّصل"
+
+msgid "Connected"
+msgstr "متّصل"
+
+msgid "Connecting"
+msgstr "يتّصل"
+
+msgid "Connecting..."
+msgstr "يتصل..."
+
+msgid "Connection"
+msgstr "الاتّصال"
+
+msgid "Connection Failed"
+msgstr "فشل الاتّصال"
+
+msgid "Connection Settings"
+msgstr "إعدادات الاتّصال"
+
+msgid "Connections"
+msgstr "الاتصالات"
+
+msgid "Console"
+msgstr "الطرفية"
+
+msgid "Constant"
+msgstr "ثابت"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+
+msgid "Contact"
+msgstr "المتراسل"
+
 msgid "Contacts"
 msgstr "المتراسلون"
 
-#. Occurs in 10 KDE PO files
+msgid "Container"
+msgstr "الحاوية"
+
+msgid "Contains"
+msgstr "يحتوي"
+
+msgid "contains"
+msgstr "يحتوي"
+
+msgid "Content"
+msgstr "المحتوى"
+
+msgid "Content Type"
+msgstr "نوع المحتوى"
+
+msgid "Contents"
+msgstr "المحتويات"
+
+msgid "_Contents"
+msgstr "_المحتويات"
+
+msgid "Context"
+msgstr "السّياق"
+
+msgid "Continue"
+msgstr "تابع"
+
+msgid "_Continue"
+msgstr "_مواصلة"
+
+msgid "Contrast"
+msgstr "التباين"
+
+msgid "Contributor"
+msgstr "مساهم"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Convert"
+msgstr "حوّل"
+
+msgid "Convert to Path"
+msgstr "حوّل إلى المسار"
+
+msgid "Cookies"
+msgstr "الكعكات"
+
+msgid "Coordinates"
+msgstr "الإحداثيات"
+
+msgid "Copied to clipboard"
+msgstr "نُسخ إلى الحافظة"
+
+msgid "Coptic"
+msgstr "قبطي"
+
+msgid "Copy"
+msgstr "انسخ"
+
+msgid "copy"
+msgstr "انسخ"
+
+msgid "&Copy"
+msgstr "ا&نسخ"
+
+msgid "_Copy"
+msgstr "ا_نسخ"
+
+msgid "Copy Email Address"
+msgstr "انسخ عنوان البريد"
+
+msgid "&Copy Here"
+msgstr "ان&سخ هنا"
+
+msgid "Copy Image"
+msgstr "انسخ الصورة"
+
+msgid "Copy Link"
+msgstr "انسخ الرابط"
+
+msgid "Copy Link Address"
+msgstr "انسخ عنوان الوصلة"
+
+msgid "_Copy Link Address"
+msgstr "ا_نسخ عنوان الرابط"
+
+msgid "Copy Location"
+msgstr "انسخ المكان"
+
+msgid "Copy of %1"
+msgstr "نسخة من %1"
+
+msgid "Copy selection to clipboard"
+msgstr "انسخ التحديد إلى الحافظة"
+
+msgid "Copy Text"
+msgstr "انسخ النص"
+
+msgid "Copy to Clipboard"
+msgstr "انسخ إلى الحافظة"
+
+msgid "Copy to clipboard"
+msgstr "انسخ إلى الحافظة"
+
+msgid "Copy URL"
+msgstr "انسخ الرابط"
+
+msgid "Copying files"
+msgstr "ينسخ الملفّات"
+
 msgid "Copyright"
 msgstr "حقوق النسخ"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "الجهاز:"
+msgid "Cost"
+msgstr "كلفة"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "اقطع الاتصال"
+msgid "Costa Rica"
+msgstr "كوستاريكا"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "المدّة"
+msgid "Could not open %1"
+msgstr "تعذّر فتح %1"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "الخطأ: %1"
+msgid "Could not open file."
+msgstr "تعذّر فتح الملفّ."
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Count"
+msgstr "العدد"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "الملف:"
+msgid "Counter"
+msgstr "العدّاد"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "الملفات"
+msgid "Country"
+msgstr "البلد"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "اعثر"
+msgid "CPU"
+msgstr "المعالج"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "الدالة"
+msgid "Create"
+msgstr "أنشئ"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "المجموعة:"
+msgid "C_reate"
+msgstr "أن_شئ"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "أخفِ شريط القوائم"
+msgid "Create Folder"
+msgstr "أنشئ مجلّدًا"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "عالي"
+msgid "Create New"
+msgstr "أنشئ جديدًا"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
+msgid "Created"
+msgstr "أُنشئ"
+
+msgid "Creation Date"
+msgstr "تاريخ الإنشاء"
+
+msgid "Creation date"
+msgstr "تاريخ الإنشاء"
+
+msgid "Creator"
+msgstr "المُنشئ"
+
+msgid "Credentials"
+msgstr "المؤهّلات"
+
+msgid "Credits"
+msgstr "إشادات"
+
+msgid "Criteria"
+msgstr "المعايير"
+
+msgid "Critical"
+msgstr "حرج"
+
+msgid "Croatia"
+msgstr "كرواتيا"
+
+msgid "Croatian"
+msgstr "الكرواتية"
+
+msgid "Crop"
+msgstr "اقتصّ"
+
+msgid "Crop image"
+msgstr "قصّر الصورة"
+
+msgid "Cross"
+msgstr "صليب"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr "Ctrl+O"
+
+msgid "Cuba"
+msgstr "كوبا"
+
+msgid "Currency"
+msgstr "العملة"
+
+msgid "Current"
+msgstr "الحالي"
+
+msgid "Current Maintainer"
+msgstr "الصائن الحاليّ"
+
+msgid "Current maintainer"
+msgstr "الصائن الحاليّ"
+
+msgid "Cursor"
+msgstr "المؤشر"
+
+msgid "Curve"
+msgstr "منحنى"
+
+msgid "Curves"
+msgstr "منحنيات"
+
+msgid "Custom"
+msgstr "مخصّص"
+
+msgid "Custom..."
+msgstr "مخصّص..."
+
+msgid "Custom Font"
+msgstr "خط مخصّص"
+
+msgid "Cut"
+msgstr "قصّ"
+
+msgid "Cu&t"
+msgstr "ق&صّ"
+
+msgid "Cu_t"
+msgstr "_قص"
+
+msgid "Cyan"
+msgstr "سماوي"
+
+msgid "Cyprus"
+msgstr "قبرص"
+
+msgid "Cyrillic"
+msgstr "سريلي"
+
+msgid "Czech"
+msgstr "التشيكية"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%Id:%I02d"
+
+msgid "Daily"
+msgstr "يوميًا"
+
+msgid "Dance"
+msgstr "رقص"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+msgid "Danish"
+msgstr "الدنماركية"
+
+msgid "Danny Allen"
+msgstr "داني آلن"
+
+msgid "Dark"
+msgstr "مظلمة"
+
+msgid "Dark Mode"
+msgstr "الوضع المظلم"
+
+msgid "Darken"
+msgstr "تقتيم"
+
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+msgid "Dashed"
+msgstr "متقطع"
+
+msgid "Data"
+msgstr "البيانات"
+
+msgid "Database"
+msgstr "قاعدة بيانات"
+
+msgid "Date"
 msgstr "التاريخ"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "date"
+msgstr "التاريخ"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "انقل لأ&على"
+msgid "Date & Time"
+msgstr "التّاريخ والوقت"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "الإخطارات"
+msgid "Date and Time"
+msgstr "التاريخ والوقت"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "المنظّمة"
+msgid "Date Format"
+msgstr "نسق التّاريخ"
 
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "المسار"
+msgid "Date Modified"
+msgstr "تاريخ التعديل"
 
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "المنفذ"
+msgid "David Edmundson"
+msgstr "ديفيد إدموندسون"
 
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "الأولويّة"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "الأولويّة:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "مشروع"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "أزل المجموعة"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "مسافة"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
+msgid "Day"
 msgstr "اليوم"
 
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "القيمة:"
+msgid "Days"
+msgstr "الأيام"
 
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "الإصدارة"
+msgid "days"
+msgstr "يوم"
 
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "الإصدارة:"
+msgid "day(s)"
+msgstr "يوم"
 
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "فيديو"
+msgid "D-Bus name to use for this instance"
+msgstr ""
 
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "السنوات"
+msgid "Debug"
+msgstr "نقّح"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
-msgid "Add"
-msgstr "أضِف"
+msgid "Debugger"
+msgstr "المنقّح"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
-msgid "Cancel"
-msgstr "ألغ"
+msgid "Debugging"
+msgstr "التّنقيح"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "December"
+msgstr "ديسمبر"
+
+msgid "Decimal"
+msgstr "عشري"
+
+msgid "Decline"
+msgstr "ارفض"
+
+msgid "Decrease Font Size"
+msgstr "انقص حجم الخط"
+
+msgid "Decrease Indent"
+msgstr "أنقص الإزاحة"
+
+msgid "Decrease Volume"
+msgstr "اخفض الصوت"
+
+msgid "Decrypt"
+msgstr "فكّ التّعمية"
+
+msgid "Default"
+msgstr "المبدئيّ"
+
+msgid "default"
+msgstr "مبدئي"
+
+msgid "Defaults"
+msgstr "المبدئيات"
+
+msgid "Definition"
+msgstr "تعريف"
+
+msgid "degrees"
+msgstr "درجة"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay"
+msgstr "التأخير"
+
 msgid "Delete"
 msgstr "احذف"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@title"
-msgid "Appearance"
-msgstr "المظهر"
+msgid "&Delete"
+msgstr "ا&حذف"
+
+msgid "_Delete"
+msgstr "ا_حذف"
+
+msgid "D&elete"
+msgstr "ا&حذف"
+
+msgid "Delete..."
+msgstr "احذف…"
+
+msgid "Delete %1"
+msgstr "احذف %1"
+
+msgid "Delete All"
+msgstr "احذف الكل"
+
+msgid "Delete File"
+msgstr "احذف الملفّ"
+
+msgid "Delete Folder"
+msgstr "احذف المجلد"
+
+msgid "Delete Image"
+msgstr "احذف الصورة"
+
+msgid "Delete Selected"
+msgstr "امحُ المحدد"
+
+msgid "Delete selection"
+msgstr "امحُ المحدد"
+
+msgid "_Delete Toolbar"
+msgstr "ا_حذف شريط الأدوات"
+
+msgid "Deleted"
+msgstr "حُذف"
+
+msgid "Deletion"
+msgstr "الحذف"
+
+msgid "Delimiter"
+msgstr "نقطة"
+
+msgid "Delta"
+msgstr "الفرق"
+
+msgid "Denmark"
+msgstr "الدنمارك"
+
+msgid "Density"
+msgstr "الكثافة"
+
+msgid "Deny"
+msgstr "امنع"
+
+msgid "Dependencies"
+msgstr "الاعتماديّات"
+
+msgid "Depth"
+msgstr "العمق"
+
+msgid "Desaturate"
+msgstr "أزل التشبع"
+
+msgid "Descending"
+msgstr "تنازليًّا"
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "&Description"
+msgstr "الو&صف"
+
+msgid "Deselect"
+msgstr "أزل التّحديد"
+
+msgid "Deselect All"
+msgstr "ألغِ تحديد الكلّ"
+
+msgid "Desert"
+msgstr "صحراء"
+
+msgid "Desktop"
+msgstr "سطح المكتب"
+
+msgid "Destination"
+msgstr "المقصد"
+
+msgid "Detach"
+msgstr "افصل"
+
+msgid "_Detach Tab"
+msgstr "ا_فصل اللسان"
+
+msgid "Details"
+msgstr "التفاصيل"
+
+msgid "&Details"
+msgstr "التّ&فاصيل"
+
+msgid "_Details"
+msgstr "ال_تفاصيل"
+
+msgid "Details..."
+msgstr "التفاصيل…"
+
+msgid "Devanagari"
+msgstr "دفنيجري"
+
+msgid "Developer"
+msgstr "مطوّر"
+
+msgid "Development"
+msgstr "التطوير"
+
+msgid "Device"
+msgstr "الجهاز"
+
+msgid "device"
+msgstr "الجهاز"
+
+msgid "Device Information"
+msgstr "معلومات الجهاز"
+
+msgid "Device Status"
+msgstr "حالة الأجهزة"
+
+msgid "Device type"
+msgstr "نوع الجهاز"
+
+msgid "Devices"
+msgstr "الأجهزة"
+
+msgid "Diagnostics"
+msgstr "التشخيص"
+
+msgid "Diagonal"
+msgstr "قطري"
+
+msgid "Dialog"
+msgstr "حواريّ"
+
+msgid "Dialogs"
+msgstr "الحوارات"
+
+msgid "Diamond"
+msgstr "معين الزوايا"
+
+msgid "Dictionary"
+msgstr "القاموس"
+
+msgid "Diff"
+msgstr "الفرق"
+
+msgid "Difference"
+msgstr "الفرق"
+
+msgid "Difficulty"
+msgstr "الصعوبة"
+
+msgid "Digit"
+msgstr "رقم"
+
+msgid "Dimensions"
+msgstr "الأبعاد"
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "Direction"
+msgstr "الاتجاه"
+
+msgid "Directories"
+msgstr "أدلّة"
+
+msgid "Directory"
+msgstr "الدّليل"
+
+msgid "directory"
+msgstr "دليل"
+
+msgid "Directory Name"
+msgstr "اسم الدّليل"
+
+msgid "Disable"
+msgstr "عطّل"
+
+msgid "Disable connection to session manager"
+msgstr "عطّل الاتصال بمدير الجلسات"
+
+msgid "Disabled"
+msgstr "معطّل"
+
+msgid "disabled"
+msgstr "معطّل"
+
+msgid "Disc"
+msgstr "قرص"
+
+msgid "Disc Number"
+msgstr "رقم القرص"
+
+msgid "Discard"
+msgstr "أهمِل"
+
+msgid "_Discard"
+msgstr "أ_همل"
+
+msgid "Discard All"
+msgstr "أهمل الكلّ"
+
+msgid "Discard Changes"
+msgstr "ارفض التّغييرات"
+
+msgid "Discard changes"
+msgstr "ارفض التّعديلات"
+
+msgid "_Discard Changes"
+msgstr "_تجاهل التغييرات"
+
+msgid "Discharging"
+msgstr "تفرّغ الشّحن"
+
+msgid "Disconnect"
+msgstr "اقطع الاتصال"
+
+msgid "Disconnected"
+msgstr "غير متصل"
+
+msgid "Discover"
+msgstr "المستكشف"
+
+msgid "Discrete"
+msgstr "منفصلة"
+
+msgid "Disk"
+msgstr "القرص"
+
+msgid "Dismiss"
+msgstr "تجاهل"
+
+msgid "Display"
+msgstr "العرض"
+
+msgid "Display Configuration"
+msgstr "ضبط العرض"
+
+msgid "Display Name"
+msgstr "اسم العرض"
+
+msgid "Display Settings"
+msgstr "إعدادات العرض"
+
+msgid "Dissolve"
+msgstr "إذابة"
+
+msgid "Distance"
+msgstr "المسافة"
+
+msgid "Divide"
+msgstr "قسمة"
+
+msgid "Djibouti"
+msgstr "جيبوتي"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+msgid "DNS"
+msgstr "خادم أسماء النطاقات"
+
+msgid "Do not ask again"
+msgstr "لا تسأل مجدّدًا"
+
+msgid "Do Not Cancel"
+msgstr "لا تُلغ"
+
+msgid "Do not change the actual backend data."
+msgstr "لا تغيّر بيانات السّند الفعليّة."
+
+msgid "Do not show again"
+msgstr "لا تعرض مجدّدًا"
+
+msgid "Do not show this message again"
+msgstr "لا تعرض هذه الرّسالة مجدّدًا"
+
+msgid "Do Nothing"
+msgstr "لا تفعل شيئًا"
+
+msgid "Do nothing"
+msgstr "لا تفعل شيئًا"
+
+msgid "Document"
+msgstr "مستند"
+
+msgid "Document Properties"
+msgstr "خصائص المستند"
+
+msgid "Document to open"
+msgstr "المستند لفتحه"
+
+msgid "Document Viewer"
+msgstr "عارض المستندات"
+
+msgid "Documentation"
+msgstr "التّوثيق"
+
+msgid "Documents"
+msgstr "المستندات"
+
+msgid "does not contain"
+msgstr "لا يحتوي"
+
+msgid "Dolphin"
+msgstr "دولفين"
+
+msgid "Domain"
+msgstr "المجال"
+
+msgid "Dominica"
+msgstr "دومينيكا"
+
+msgid "Dominican Republic"
+msgstr "جمهورية الدومينيكان"
+
+msgid "Donate"
+msgstr "تبرّع"
+
+msgid "Done"
+msgstr "تمّ"
+
+msgid "Dot"
+msgstr "نقطة"
+
+msgid "Dots"
+msgstr "نقاط"
+
+msgid "Dotted"
+msgstr "منقّط"
+
+msgid "Double"
+msgstr "مزدوج"
+
+msgid "Down"
+msgstr "أسفل"
+
+msgid "Download"
+msgstr "نزّل"
+
+msgid "Download Manager"
+msgstr "مدير التنزيل"
+
+msgid "Downloaded"
+msgstr "المُنزّل"
+
+msgid "Downloading"
+msgstr "ينزّل"
+
+msgid "Downloading..."
+msgstr "يُنزّل…"
+
+msgid "Downloads"
+msgstr "التنزيلات"
+
+msgid "Dr."
+msgstr "د."
+
+msgid "Draft"
+msgstr "مسودة"
+
+msgid "Drafts"
+msgstr "المسودّات"
+
+msgid "Draw"
+msgstr "ارسم"
+
+msgid "Drive"
+msgstr "قرص"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "الاستحقاق"
+
+msgid "Due Date"
+msgstr "تاريخ الاستحقاق"
+
+msgid "Duplicate"
+msgstr "كرّر"
+
+msgid "_Duplicate"
+msgstr "_كرر"
+
+msgid "Duplicates"
+msgstr "المكررات"
+
+msgid "Duration"
+msgstr "المدّة"
+
+msgid "Dutch"
+msgstr "الهولندية"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "شر"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "الشرق"
+
+msgid "Easy"
+msgstr "سهل"
+
+msgid "Echo"
+msgstr "الصدى"
+
+msgid "Ecuador"
+msgstr "الاكوادور"
+
+msgid "Edge"
+msgstr "الحافة"
+
+msgid "Edit"
+msgstr "حرّر"
+
+msgid "&Edit"
+msgstr "&حرّر"
+
+msgid "_Edit"
+msgstr "ت_حرير"
+
+msgid "Edit..."
+msgstr "حرّر..."
+
+msgid "&Edit..."
+msgstr "&حرّر..."
+
+msgid "Edit %1"
+msgstr "حرّر %1"
+
+msgid "Edit Bookmark"
+msgstr "تعديل العلامة"
+
+msgid "Edit Filter"
+msgstr "حرّر المرشّح"
+
+msgid "Edit Image"
+msgstr "حرّر الصورة"
+
+msgid "Editing"
+msgstr "التّحرير"
+
+msgid "Editor"
+msgstr "المحرّر"
+
+msgid "Education"
+msgstr "التعليم"
+
+msgid "Effects"
+msgstr "التّأثيرات"
+
+msgid "Egypt"
+msgstr "مصر"
+
+msgid "Egyptian"
+msgstr "مصري"
+
+msgid "Eike Hein"
+msgstr "إيكي هين"
+
+msgid "Eject"
+msgstr "أخرِج"
+
+msgid "_Eject"
+msgstr "أ_خرج"
+
+msgid "El Salvador"
+msgstr "السلفادور"
+
+msgid "Electronic"
+msgstr "إلكتروني"
+
+msgid "Element"
+msgstr "عنصر"
+
+msgid "Ellipse"
+msgstr "بيضاوي"
+
+msgid "Email"
+msgstr "البريد الإلكترونيّ"
+
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+msgid "Email address"
+msgstr "عنوان البريد الإلكترونيّ"
+
+msgid "Emails"
+msgstr "البُرد الإلكترونيّة"
+
+msgid "Embedded"
+msgstr "مضمّنة"
+
+msgid "Emboss"
+msgstr "بارز"
+
+msgid "Emphasis"
+msgstr "تشديد"
+
+msgid "Empty"
+msgstr "فارغ"
+
+msgid "empty"
+msgstr "فارغ"
+
+msgid "(empty)"
+msgstr "(فارغة)"
+
+msgid "<empty>"
+msgstr "<فارغ>"
+
+msgid "Empty Trash"
+msgstr "أفرغ المهملات"
+
+msgid "Enable"
+msgstr "مكّن"
+
+msgid "Enable system tray icon"
+msgstr "مكّن أيقونة صينيّة النّظام"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+
+msgid "Enabled"
+msgstr "ممكّن"
+
+msgid "Encoder"
+msgstr "مرمِز"
+
+msgid "Encoding"
+msgstr "التّرميز"
+
+msgid "_Encoding"
+msgstr "ال_ترميز"
+
+msgid "Encrypt"
+msgstr "عمِّ"
+
+msgid "&Encrypt"
+msgstr "&عمِّ"
+
+msgid "Encrypted"
+msgstr "معمى"
+
+msgid "Encryption"
+msgstr "التعمية"
+
+msgid "End"
+msgstr "النهاية"
+
+msgid "end"
+msgstr "النهاية"
+
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+msgid "End Time"
+msgstr "وقت النهاية"
+
+msgid "ends with"
+msgstr "ينتهي بـ"
+
+msgid "Energy"
+msgstr "الطاقة"
+
+msgid "Engine"
+msgstr "المحرّك"
+
+msgid "Engineering"
+msgstr "الهندسة"
+
+msgid "English"
+msgstr "الإنجليزية"
+
+msgid "Enter"
+msgstr "أدخل"
+
+msgid "Enter password"
+msgstr "أدخل كلمة السر"
+
+msgid "Entry"
+msgstr "المدخلة"
+
+msgid "Environment"
+msgstr "البيئة"
+
+msgid "equals"
+msgstr "يساوي"
+
+msgid "Equation"
+msgstr "معادلة رياضية"
+
+msgid "Equatorial Guinea"
+msgstr "غينيا الاستوائية"
+
+msgid "Erase"
+msgstr "امسح"
+
+msgid "Eraser"
+msgstr "ممحاة"
+
+msgid "Eritrea"
+msgstr "اريتريا"
+
+msgid "ERROR"
+msgstr "خطأ"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "error"
+msgstr "خطأ"
+
+msgid "Error: %1"
+msgstr "الخطأ: %1"
+
+msgid "Error message"
+msgstr "رسالة الخطأ"
+
+msgid "Errors"
+msgstr "الأخطاء"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Esperanto"
+msgstr "الإسبرانتو"
+
+msgid "Estonia"
+msgstr "استونيا"
+
+msgid "Estonian"
+msgstr "الإستونية"
+
+msgid "Ethiopia"
+msgstr "اثيوبيا"
+
+msgid "Ethiopic"
+msgstr "إثيوبي"
+
+msgid "Europe"
+msgstr "أوروبا"
+
+msgid "Evaluate"
+msgstr "قدّر"
+
+msgid "Event"
+msgstr "الحدث"
+
+msgid "Events"
+msgstr "الأحداث"
+
+msgid "Everyone"
+msgstr "الكلّ"
+
+msgid "Everything"
+msgstr "كلّ شيء"
+
+msgid "Exact"
+msgstr "بالضبط"
+
+msgid "Example"
+msgstr "مثال"
+
+msgid "Examples"
+msgstr "أمثلة"
+
+msgid "Exception"
+msgstr "استثناء"
+
+msgid "Exclude"
+msgstr "استثنِ"
+
+msgid "Exclusion"
+msgstr "استبعاد"
+
+msgid "Executable"
+msgstr "تنفيذيّ"
+
+msgid "Execute"
+msgstr "نفّذ"
+
+msgid "Exit"
+msgstr "اخرج"
+
+msgid "Exit Full Screen"
+msgstr "أنهِ ملء الشاشة"
+
+msgid "Exit Fullscreen"
+msgstr "أخرج من ملء الشّاشة"
+
+msgid "Exiting..."
+msgstr "يخرج…"
+
+msgid "Expand"
+msgstr "وسع"
+
+msgid "Expand All"
+msgstr "وسّع الكل"
+
+msgid "Experimental"
+msgstr "تجريبي"
+
+msgid "Expired"
+msgstr "منتهي"
+
+msgid "Expires"
+msgstr "تاريخ انتهاء الصلاحية"
+
+msgid "Export"
+msgstr "صدّر"
+
+msgid "&Export"
+msgstr "&صدّر"
+
+msgid "_Export"
+msgstr "_صدِّر"
+
+msgid "Export..."
+msgstr "صدّر..."
+
+msgid "&Export..."
+msgstr "&صدّر..."
+
+msgid "_Export..."
+msgstr "_صدّ_ر…"
+
+msgid "E&xport..."
+msgstr "ص&در..."
+
+msgid "Export As..."
+msgstr "صدِّر ك‍..."
+
+msgid "Export failed"
+msgstr "فشل التصدير"
+
+msgid "Export Options"
+msgstr "خيارات التّصدير"
+
+msgid "Exposure"
+msgstr "التّعريض"
+
+msgid "Expression"
+msgstr "عبارة"
+
+msgid "Extended"
+msgstr "ممتد"
+
+msgid "Extension"
+msgstr "الامتداد"
+
+msgid "Extensions"
+msgstr "الامتدادات"
+
+msgid "Extra Toolbar"
+msgstr "شريط أدوات إضافي"
+
+msgid "Extract"
+msgstr "استخرج"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "فيسبوك"
+
+msgid "Fade"
+msgstr "تبهيت"
+
+msgid "Fahrenheit"
+msgstr "فهرنهايت"
+
+msgid "Failed"
+msgstr "فشل"
+
+msgid "False"
+msgstr "خطأ"
+
+msgid "false"
+msgstr "خطأ"
+
+msgid "Family"
+msgstr "العائلة"
+
+msgid "Family Name"
+msgstr "اسم العائلة"
+
+msgid "Fast"
+msgstr "سريع"
+
+msgid "Faster"
+msgstr "أسرع"
+
+msgid "Fatal Error"
+msgstr "خطأ فادح"
+
+msgid "Favorite"
+msgstr "المفضّلة"
+
+msgid "Favorites"
+msgstr "المفضّلة"
+
+msgid "Fax"
+msgstr "فاكس"
+
+msgid "Features"
+msgstr "الميزات"
+
+msgid "February"
+msgstr "فبراير"
+
+msgid "Feeds"
+msgstr "التلقيمات"
+
+msgid "Felipe Kinoshita"
+msgstr "فيليبي كينوشيتا"
+
+msgid "Fetch"
+msgstr "اجلب"
+
+msgid "Fiji"
+msgstr "فيجي"
+
+msgid "FILE"
+msgstr "ملف"
+
+msgid "File"
+msgstr "ملف"
+
+msgid "file"
+msgstr "ملف"
+
+msgid "&File"
+msgstr "&ملف"
+
+msgid "_File"
+msgstr "_ملف"
+
+msgid "[FILE...]"
+msgstr "[ملف...]"
+
+msgid "File Already Exists"
+msgstr "الملفّ موجود فعلًا"
+
+msgid "File already exists"
+msgstr "الملفّ موجود فعلًا"
+
+msgid "File Exists"
+msgstr "الملف موجود"
+
+msgid "File Format"
+msgstr "نسق الملفّ"
+
+msgid "File is not a valid .desktop file"
+msgstr "الملف ليس ملف .desktop صالح"
+
+msgid "File Manager"
+msgstr "مدير ملفات"
+
+msgid "File Name"
+msgstr "اسم الملفّ"
+
+msgid "File name"
+msgstr "اسم الملف"
+
+msgid "File Not Found"
+msgstr "لم يوجد الملفّ"
+
+msgid "File not found"
+msgstr "الملف غير موجود"
+
+msgid "File Path"
+msgstr "مسار الملف"
+
+msgid "File Properties"
+msgstr "خصائص الملفّ"
+
+msgid "File Size"
+msgstr "حجم الملفّ"
+
+msgid "File size"
+msgstr "حجم الملف"
+
+msgid "File System"
+msgstr "نظام الملفات"
+
+msgid "File to open"
+msgstr "الملف المراد فتحه"
+
+msgid "File Transfer"
+msgstr "نقل الملفات"
+
+msgid "File Type"
+msgstr "نوع الملف"
+
+msgid "Filename"
+msgstr "اسم الملفّ"
+
+msgid "Files"
+msgstr "الملفات"
+
+msgid "Filesystem"
+msgstr "نظام الملفات"
+
+msgid "Fill"
+msgstr "تعبئة"
+
+msgid "Fill Color"
+msgstr "لون التعبئة"
+
+msgid "Filter"
+msgstr "المرشّح"
+
+msgid "Filter..."
+msgstr "رشّح..."
+
+msgid "Filters"
+msgstr "المرشّحات"
+
+msgid "Final"
+msgstr "نهائي"
+
+msgid "Find"
+msgstr "اعثر"
+
+msgid "&Find"
+msgstr "ا&عثر"
+
+msgid "_Find"
+msgstr "ا_بحث"
+
+msgid "F&ind"
+msgstr "ا&عثر"
+
+msgid "Find..."
+msgstr "ابحث..."
+
+msgid "_Find..."
+msgstr "ا_بحث..."
+
+msgid "Find and Replace"
+msgstr "اعثر واستبدل"
+
+msgid "Find Next"
+msgstr "اعثر على التالي"
+
+msgid "Find _Next"
+msgstr "ابحث عن ال_تالي"
+
+msgid "Find Ne_xt"
+msgstr "إيجاد الت_الي"
+
+msgid "Find Previous"
+msgstr "ابحث عن السابق"
+
+msgid "Find Pre_vious"
+msgstr "إيجاد ال_سابق"
+
+msgid "Fingerprint"
+msgstr "البصمة"
+
+msgid "Finish"
+msgstr "أنهِ"
+
+msgid "Finished"
+msgstr "انتهى"
+
+msgid "Finland"
+msgstr "فنلندا"
+
+msgid "Finnish"
+msgstr "الفنلنديّة"
+
+msgid "First"
+msgstr "الأول"
+
+msgid "First Page"
+msgstr "الصفحة الأولى"
+
+msgid "Fit"
+msgstr "ناسب"
+
+msgid "Fit Width"
+msgstr "لائم العرض"
+
+msgid "Fixed"
+msgstr "ثابت"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "معلمة"
+
+msgid "Flags"
+msgstr "أعلام"
+
+msgid "Flash"
+msgstr "فلاش"
+
+msgid "Flat"
+msgstr "مسطح"
+
+msgid "Flickr"
+msgstr "فليكر"
+
+msgid "Flip"
+msgstr "اقلب"
+
+msgid "Flip Horizontally"
+msgstr "اقلب أفقيا"
+
+msgid "Flip horizontally"
+msgstr "اقلب أفقيا"
+
+msgid "Flip Vertically"
+msgstr "اقلب عموديًا"
+
+msgid "Flip vertically"
+msgstr "اقلب رأسيا"
+
+msgid "Float"
+msgstr "العدد الحقيقي"
+
+msgid "Floating"
+msgstr "عائم"
+
+msgid "Flow"
+msgstr "التدفق"
+
+msgid "flower"
+msgstr "زهرة"
+
+msgid "Focal Length"
+msgstr "طول البؤرة"
+
+msgid "Focus"
+msgstr "التركيز"
+
+msgid "Folder"
+msgstr "المجلد"
+
+msgid "Folder name"
+msgstr "اسم المجلد"
+
+msgid "Folders"
+msgstr "المجلّدات"
+
+msgid "Folk"
+msgstr "فولك"
+
+msgid "Font"
+msgstr "الخط"
+
+msgid "&Font"
+msgstr "ال&خط"
+
+msgid "Font Color"
+msgstr "لون الخط"
+
+msgid "Font Family"
+msgstr "عائلة الخط"
+
+msgid "Font Size"
+msgstr "حجم الخط"
+
+msgid "Font size"
+msgstr "حجم الخط"
+
+msgid "Fonts"
+msgstr "الخطوط"
+
+msgid "_Fonts"
+msgstr "ال_خطوط"
+
+msgid "Food"
+msgstr "طعام"
+
+msgid "Footer"
+msgstr "تذييل"
+
+msgid "Force"
+msgstr "القوة"
+
+msgid "Forecast"
+msgstr "التّنبّؤ"
+
+msgid "Foreground"
+msgstr "المقدمة"
+
+msgid "Foreground Color"
+msgstr "لون المقدّمة"
+
+msgid "Foreground color"
+msgstr "لون المقدّمة"
+
+msgid "forever"
+msgstr "للأبد"
+
+msgid "Form"
+msgstr "استمارة"
+
+msgid "Format"
+msgstr "التنسيق"
+
+msgid "Formatting"
+msgstr "التنسيق"
+
+msgid "Former Maintainer"
+msgstr "الصائن السابق"
+
+msgid "Former maintainer"
+msgstr "المشرف السابق"
+
+msgid "Formula"
+msgstr "صيغة"
+
+msgid "Forward"
+msgstr "تقدّم"
+
+msgid "&Forward"
+msgstr "ت&قدّم"
+
+msgid "_Forward"
+msgstr "_اعادة توجيه رسالة"
+
+msgid "Fraction"
+msgstr "كسر"
+
+msgid "Frame"
+msgstr "إطار"
+
+msgid "Framerate"
+msgstr "معدّل الإطارات"
+
+msgid "Frames"
+msgstr "الإطارات"
+
+msgid "France"
+msgstr "فرنسا"
+
+msgid "Free"
+msgstr "المتبقي"
+
+msgid "French"
+msgstr "الفرنسيّة"
+
+msgid "French Guiana"
+msgstr "غويانا"
+
+msgid "Frequency"
+msgstr "التردّد"
+
+msgid "Friday"
+msgstr "الجمعة"
+
+msgid "Friends"
+msgstr "الأصدقاء"
+
+msgid "From"
+msgstr "من"
+
+msgid "from"
+msgstr "من"
+
+msgid "From %1"
+msgstr "من %1"
+
+msgid "Frozen"
+msgstr "مجمّد"
+
+msgid "Full"
+msgstr "كامل"
+
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+msgid "Full Screen"
+msgstr "ملء الشاشة"
+
+msgid "Full Screen Mode"
+msgstr "وضع ملء الشاشة"
+
+msgid "F&ull Screen Mode"
+msgstr "وضع ملء ال&شاشة"
+
+msgid "Fullscreen"
+msgstr "ملء الشّاشة"
+
+msgid "_Fullscreen"
+msgstr "_ملء الشاشة"
+
+msgid "Function"
+msgstr "الدالة"
+
+msgid "function"
+msgstr "function"
+
+msgid "Functions"
+msgstr "الدّوال"
+
+msgid "Future"
+msgstr "المستقبل"
+
+msgid "G"
+msgstr "خ"
+
+msgid "Gabon"
+msgstr "الغابون"
+
+msgid "Galician"
+msgstr "الجليقيّة"
+
+msgid "Gallery"
+msgstr "المعرض"
+
+msgid "Gambia"
+msgstr "غامبيا"
+
+msgid "Game"
+msgstr "لعبة"
+
+msgid "&Game"
+msgstr "&لعبة"
+
+msgid "Game Over"
+msgstr "انتهت اللعبة"
+
+msgid "Games"
+msgstr "الألعاب"
+
+msgid "Gamma"
+msgstr "غاما"
+
+msgid "Gas"
+msgstr "غاز"
+
+msgid "Gate"
+msgstr "بوابة"
+
+msgid "Gateway"
+msgstr "البوّابة"
+
+msgid "Gaussian Blur"
+msgstr "غشاوة غوسية"
+
+msgid "GB"
+msgstr "غ.بايت"
+
+msgid "Gender"
+msgstr "الجنس"
+
+msgid "General"
+msgstr "عامّ"
+
+msgid "&General"
+msgstr "&عام"
+
+msgid "General Options"
+msgstr "خيارات عامة"
+
+msgid "General options"
+msgstr "خيارات عامة"
+
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+msgid "Generate"
+msgstr "ولّد"
+
+msgid "Generic"
+msgstr "عامّ"
+
+msgid "Genre"
+msgstr "النوع"
+
+msgid "Genres"
+msgstr "الأنواع"
+
+msgid "Geometry"
+msgstr "الأبعاد"
+
+msgid "George Staikos"
+msgstr "جورج ستايكوس"
+
+msgid "Georgia"
+msgstr "جورجيا"
+
+msgid "Georgian"
+msgstr "جورجي"
+
+msgid "German"
+msgstr "الألمانية"
+
+msgid "Germany"
+msgstr "ألمانيا"
+
+msgid "Get New..."
+msgstr "احصل على جديد…"
+
+msgid "Get New Plugins..."
+msgstr "احصل على ملحقات جديدة..."
+
+msgid "Ghana"
+msgstr "غانا"
+
+msgid "GiB"
+msgstr "ج.بايت"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "غت"
+
+msgid "Given Name"
+msgstr "الاسم المُعطى"
+
+msgid "Global"
+msgstr "عام"
+
+msgid "GNOME"
+msgstr "جنوم"
+
+msgid "Go"
+msgstr "انتقل"
+
+msgid "&Go"
+msgstr "ا&ذهب"
+
+msgid "_Go"
+msgstr "ا_ذهب"
+
+msgid "Go Back"
+msgstr "عُد"
+
+msgid "Go back"
+msgstr "عُد"
+
+msgid "Go forward"
+msgstr "اذهب للأمام"
+
+msgid "Go To"
+msgstr "انتقل إلى"
+
+msgid "Go to first page"
+msgstr "انتقل إلى الصفحة الأولى"
+
+msgid "Go to last page"
+msgstr "انتقل إلى الصفحة الأخيرة"
+
+msgid "Go to Line"
+msgstr "اذهب إلى السطر"
+
+msgid "Go to next page"
+msgstr "اذهب إلى الصفحة التالية"
+
+msgid "Go to previous page"
+msgstr "اذهب إلى الصفحة السابقة"
+
+msgid "Goa"
+msgstr "غوا"
+
+msgid "Gold"
+msgstr "الذهب"
+
+msgid "Good"
+msgstr "جيد"
+
+msgid "Google"
+msgstr "غوغل"
+
+msgid "Gothic"
+msgstr "القوطية"
+
+msgid "Gradient"
+msgstr "التّدرّج"
+
+msgid "Gradients"
+msgstr "التّدرّجات"
+
+msgid "Graph"
+msgstr "رسم بياني"
+
+msgid "Graphics"
+msgstr "الرسوميات"
+
+msgid "Gray"
+msgstr "رمادي"
+
+msgid "gray"
+msgstr "رمادي"
+
+msgid "Grayscale"
+msgstr "تدرج رمادي"
+
+msgid "Greece"
+msgstr "اليونان"
+
+msgid "Greek"
+msgstr "اليونانية"
+
+msgid "Green"
+msgstr "أخضر"
+
+msgid "green"
+msgstr "أخضر"
+
+msgid "Grenada"
+msgstr "غرينادا"
+
+msgid "Grey"
+msgstr "رمادي"
+
+msgid "Grid"
+msgstr "الشبكة"
+
+msgid "Group"
+msgstr "المجموعة"
+
+msgid "Group name"
+msgstr "اسم المجموعة"
+
+msgid "Grouping"
+msgstr "التجميع"
+
+msgid "Groups"
+msgstr "المجموعات"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "جواتيمالا"
+
+msgid "Guides"
+msgstr "الأدلة"
+
+msgid "Guinea"
+msgstr "غينيا"
+
+msgid "Gujarati"
+msgstr "الغوجاراتية"
+
+msgid "Gurmukhi"
+msgstr "غورموخي"
+
+msgid "Guyana"
+msgstr "غيانا"
+
+msgid "H"
+msgstr "ر"
+
+msgid "Haiti"
+msgstr "هايتي"
+
+msgid "Hard"
+msgstr "صعب"
+
+msgid "Hardware"
+msgstr "العتاد"
+
+msgid "Hawaiian"
+msgstr "الهاواي"
+
+msgid "Header"
+msgstr "ترويسة"
+
+msgid "Headers"
+msgstr "التّرويسات"
+
+msgid "Heading"
+msgstr "عنوان رئيسي"
+
+msgid "Heading 1"
+msgstr "عنوان 1"
+
+msgid "Heading 2"
+msgstr "عنوان 2"
+
+msgid "Heading 3"
+msgstr "عنوان 3"
+
+msgid "Heading 4"
+msgstr "عنوان 4"
+
+msgid "Headphones"
+msgstr "سماعات أذن"
+
+msgid "Headset"
+msgstr "سماعة رأس"
+
+msgid "Health"
+msgstr "الصحة"
+
+msgid "Hebrew"
+msgstr "العبرية"
+
+msgid "Height"
+msgstr "الارتفاع"
+
+msgid "&Height"
+msgstr "الار&تفاع"
+
+msgid "Help"
+msgstr "مساعدة"
+
+msgid "&Help"
+msgstr "م&ساعدة"
+
+msgid "_Help"
+msgstr "م_ساعدة"
+
+msgid "Helsinki"
+msgstr "هلسنكي"
+
+msgid "Hex"
+msgstr "ست"
+
+msgid "Hexadecimal"
+msgstr "ست عشري"
+
+msgid "Hexagon"
+msgstr "سداسيّ"
+
+msgid "Hibernate"
+msgstr "أسبِت"
+
+msgid "Hidden"
+msgstr "مخفي"
+
+msgid "hidden"
+msgstr "مخفي"
+
+msgid "Hide"
+msgstr "أخفِ"
+
+msgid "&Hide"
+msgstr "أ&خفِ"
+
+msgid "Hide menu bar"
+msgstr "أخفِ شريط القوائم"
+
+msgid "High"
+msgstr "عالي"
+
+msgid "Highlight"
+msgstr "إبراز"
+
+msgid "Highlighter"
+msgstr "قلم التحديد"
+
+msgid "Highlights"
+msgstr "الإبرازات"
+
+msgid "Hindi"
+msgstr "الهنديّة"
+
+msgid "Hint"
+msgstr "تلميح"
+
+msgid "Histogram"
+msgstr "المخطّط الدّرجيّ"
+
+msgid "History"
+msgstr "التاريخ"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "علِق"
+
+msgid "Holidays"
+msgstr "العُطل"
+
+msgid "Home"
+msgstr "المنزل"
+
+msgid "&Home"
+msgstr "الصفحة الأ&ولى"
+
+msgid "Home Folder"
+msgstr "مجلّد المنزل"
+
+msgid "Home Page"
+msgstr "الصفحة الرئيسة"
+
+msgid "Homepage"
+msgstr "الصفحة الرئيسة"
+
+msgid "Honduras"
+msgstr "هندوراس"
+
+msgid "Hong Kong"
+msgstr "هونغ كونغ"
+
+msgid "Horizontal"
+msgstr "أفقي"
+
+msgid "Host"
+msgstr "المضيف"
+
+msgid "Hostname"
+msgstr "اسم المضيف"
+
+msgid "Hotspot"
+msgstr "نقطة اتصال"
+
+msgid "Hour"
+msgstr "ساعة"
+
+msgid "Hours"
+msgstr "ساعات"
+
+msgid "hours"
+msgstr "ساعة"
+
+msgid "House"
+msgstr "منزل"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "التدرج"
+
+msgid "Huge"
+msgstr "ضخم"
+
+msgid "Hungarian"
+msgstr "الهنغارية"
+
+msgid "Hungary"
+msgstr "المجر"
+
+msgid "Hz"
+msgstr "هرتز"
+
+msgid "I"
+msgstr "الأوّل"
+
+msgid "Ian Wadham"
+msgstr "إيان وادهام"
+
+msgid "Iceland"
+msgstr "آيسلندا"
+
+msgid "Icelandic"
+msgstr "الإيسلنديّة"
+
+msgid "Icon"
+msgstr "الأيقونة"
+
+msgid "Icon Size"
+msgstr "حجم الأيقونات"
+
+msgid "Icon size"
+msgstr "حجم الأيقونة"
+
+msgid "Icon View"
+msgstr "عرض الأيقونات"
+
+msgid "Icons"
+msgstr "الأيقونات"
+
+msgid "ID"
+msgstr "المعرّف"
+
+msgid "Id"
+msgstr "المعرّف"
+
+msgid "id"
+msgstr "المعرّف"
+
+msgid "Identifier"
+msgstr "المعرف"
+
+msgid "Identity"
+msgstr "الهويّة"
+
+msgid "Idle"
+msgstr "خاملة"
+
+msgid "Ignore"
+msgstr "تجاهل"
+
+msgid "_Ignore"
+msgstr "_تجاهل"
+
+msgid "Ignore Case"
+msgstr "تجاهل الحالة"
+
+msgid "Ignored"
+msgstr "مُتجاهَل"
+
+msgid "Image"
+msgstr "صورة"
+
+msgid "image"
+msgstr "صورة"
+
+msgid "&Image"
+msgstr "&صورة"
+
+msgid "_Image"
+msgstr "_صورة"
+
+msgid "Image Editor"
+msgstr "محرّر الصّور"
+
+msgid "Image Files"
+msgstr "ملفّات الصّور"
+
+msgid "Image files"
+msgstr "ملفّات صور"
+
+msgid "Image Gallery"
+msgstr "معرض صور"
+
+msgid "Image Properties"
+msgstr "خصائص الصورة"
+
+msgid "Image Settings"
+msgstr "إعدادات الصورة"
+
+msgid "Image Size"
+msgstr "حجم الصورة"
+
+msgid "Image Viewer"
+msgstr "عارض الصّور"
+
+msgid "Images"
+msgstr "الصور"
+
+msgid "Images (%1)"
+msgstr "الصور (%1)"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "استورد"
+
+msgid "&Import"
+msgstr "ا&ستورد"
+
+msgid "_Import"
+msgstr "ا_ستورد"
+
+msgid "Import..."
+msgstr "استورد..."
+
+msgid "&Import..."
+msgstr "ا&ستورد..."
+
+msgid "Import failed"
+msgstr "فشل الاستيراد"
+
+msgid "Important"
+msgstr "مهمّة"
+
+msgid "In"
+msgstr "في"
+
+msgid "in"
+msgstr "في"
+
+msgid "Inactive"
+msgstr "خامل"
+
+msgid "Inbox"
+msgstr "صندوق الوارد"
+
+msgid "inch"
+msgstr "بوصة"
+
+msgid "Inches"
+msgstr "بوصات"
+
+msgid "inches"
+msgstr "بوصات"
+
+msgid "Inches (in)"
+msgstr "بوصات (in)"
+
+msgid "Include"
+msgstr "ضمّن"
+
+msgid "Includes"
+msgstr "يشمل"
+
+msgid "Incoming"
+msgstr "الواردة"
+
+msgid "Increase Font Size"
+msgstr "زد حجم الخط"
+
+msgid "Increase Indent"
+msgstr "زد الإزاحة"
+
+msgid "Increase Volume"
+msgstr "زد الصوت"
+
+msgid "Incremental"
+msgstr "تزايدي"
+
+msgid "Indentation"
+msgstr "الإزاحة"
+
+msgid "Index"
+msgstr "الدليل"
+
+msgid "Indexed"
+msgstr "مفهرس"
+
+msgid "India"
+msgstr "الهند"
+
+msgid "Indonesia"
+msgstr "اندونيسيا"
+
+msgid "Indonesian"
+msgstr "الإندونيسيّة"
+
+msgid "Industrial"
+msgstr "صناعي"
+
+msgid "Info"
+msgstr "معلومات"
+
+msgid "Information"
+msgstr "معلومات"
+
+msgid "Initials"
+msgstr "الألقاب"
+
+msgid "Input"
+msgstr "الدّخل"
+
+msgid "Input Devices"
+msgstr "أجهزة الإدخال"
+
+msgid "Insert"
+msgstr "أدرج"
+
+msgid "&Insert"
+msgstr "أ&درج"
+
+msgid "Insert Image"
+msgstr "أدرج صورة"
+
+msgid "Insert Link"
+msgstr "أدرج رابط"
+
+msgid "Insert Table"
+msgstr "أدرِج جدول"
+
+msgid "Insert Text"
+msgstr "أدرج نصًا"
+
+msgid "Install"
+msgstr "ثبّت"
+
+msgid "Install..."
+msgstr "ثبّت..."
+
+msgid "Install from File..."
+msgstr "ثبت من ملف..."
+
+msgid "Installed"
+msgstr "الأكثر تثبيتًا"
+
+msgid "Installing"
+msgstr "يثبّت"
+
+msgid "Instant"
+msgstr "فوري"
+
+msgid "Integer"
+msgstr "عدد صحيح"
+
+msgid "Integrate"
+msgstr "كامل"
+
+msgid "Intensity"
+msgstr "الشّدّة"
+
+msgid "Interface"
+msgstr "الواجهة"
+
+msgid "Internal"
+msgstr "الدّاخليّ"
+
+msgid "Internal Error"
+msgstr "خطأ داخليّ"
+
+msgid "Internal error"
+msgstr "خطأ داخليّ"
+
+msgid "International"
+msgstr "عالميّ"
+
+msgid "Internet"
+msgstr "الشّابكة"
+
+msgid "Interpolation"
+msgstr "استيفاء"
+
+msgid "Interrupt"
+msgstr "مقاطعة"
+
+msgid "Interval"
+msgstr "الفترة"
+
+msgid "Introduction"
+msgstr "مقدمة"
+
+msgid "Invalid"
+msgstr "غير صالح"
+
+msgid "invalid"
+msgstr "غير صالح"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr ""
+
+msgid "Invalid date"
+msgstr "تاريخ غير صالح"
+
+msgid "Invalid password"
+msgstr "كلمة السر غير صحيحة"
+
+msgid "Invalid URL"
+msgstr "المسار غير صالح"
+
+msgid "Invert"
+msgstr "اعكس"
+
+msgid "Invert Selection"
+msgstr "اعكس التّحديد"
+
+msgid "IP"
+msgstr "آي بي"
+
+msgid "IP Address"
+msgstr "عنوان IP"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "إيران"
+
+msgid "Iraq"
+msgstr "العراق"
+
+msgid "Ireland"
+msgstr "أيرلاندا"
+
+msgid "Irish"
+msgstr "الإيرلنديّة"
+
+msgid "is"
+msgstr "هو"
+
+msgid "Israel"
+msgstr "إسرائيل"
+
+msgid "Issued By"
+msgstr "المانح"
+
+msgid "Issuer"
+msgstr "المُصدِر"
+
+msgid "Italian"
+msgstr "الإيطالية"
+
+msgid "Italic"
+msgstr "مائل"
+
+msgid "&Italic"
+msgstr "&مائل"
+
+msgid "_Italic"
+msgstr "_مائل"
+
+msgid "Italy"
+msgstr "إيطاليا"
+
+msgid "Item"
+msgstr "عنصر"
+
+msgid "Items"
+msgstr "العناصر"
+
+msgid "Iterations"
+msgstr "المرّات"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "جامايكا"
+
+msgid "January"
+msgstr "يناير"
+
+msgid "Japan"
+msgstr "اليابان"
+
+msgid "Japanese"
+msgstr "اليابانية"
+
+msgid "Javanese"
+msgstr "الجاوية"
+
+msgid "JavaScript"
+msgstr "جافاسكربت"
+
+msgid "Jazz"
+msgstr "جاز"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr "انضم"
+
+msgid "Jonah Brüchert"
+msgstr "جوناه بروكيرت"
+
+msgid "Jordan"
+msgstr "الأردن"
+
+msgid "Joseph Wenninger"
+msgstr "جوزيف وينينجر"
+
+msgid "Joshua Goins"
+msgstr "جوشوا جوينز"
+
+msgid "Journal"
+msgstr "اليوميّات"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "يوليو"
+
+msgid "Jump to next match"
+msgstr "انتقل إلى المطابقة التّالية"
+
+msgid "Jump to previous match"
+msgstr "انتقل إلى المطابقة السّابقة"
+
+msgid "June"
+msgstr "يونيو"
+
+msgid "Justify"
+msgstr "مساواة"
+
+msgid "K"
+msgstr "ك"
+
+msgid "Kannada"
+msgstr "الكنادا"
+
+msgid "Kate"
+msgstr "كيت"
+
+msgid "Kazakh"
+msgstr "الكازاخستانية"
+
+msgid "Kazakhstan"
+msgstr "كازاخستان"
+
+msgid "kB"
+msgstr "ك.بايت"
+
+msgid "KDE"
+msgstr "كِيدِي"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "فيليبي كينوشيتا، مجتمع كيدي"
+
+msgid "KDE Connect"
+msgstr "جسر كِيدِي"
+
+msgid "KDevelop"
+msgstr "مطوّرك"
+
+msgid "Keep"
+msgstr "أبقِ"
+
+msgid "_Keep"
+msgstr "أ_بقِ"
+
+msgid "Keep aspect ratio"
+msgstr "أبقِ النّسبة الباعيّة"
+
+msgid "Keep Open"
+msgstr "أبقه مفتوحًا"
+
+msgid "Kenya"
+msgstr "كينيا"
+
+msgid "Kernel"
+msgstr "النواة"
+
+msgid "Key"
+msgstr "المفتاح"
+
+msgid "Key ID"
+msgstr "معرف المفتاح"
+
+msgid "Keyboard"
+msgstr "لوحة المفاتيح"
+
+msgid "Keyboard Layout"
+msgstr "تخطيط لوحة المفاتيح"
+
+msgid "Keyboard Shortcuts"
+msgstr "اختصارات لوحة المفاتيح"
+
+msgid "Keyboard shortcuts"
+msgstr "اختصارات لوحة المفاتيح"
+
+msgid "_Keyboard Shortcuts"
+msgstr "ا_ختصارات لوحة المفاتيح"
+
+msgid "Keys"
+msgstr "المفاتيح"
+
+msgid "Keyword"
+msgstr "الكلمات المفتاحيّة"
+
+msgid "Keywords"
+msgstr "الكلمات المفتاحيّة"
+
+msgid "Khmer"
+msgstr "الخميرية"
+
+msgid "KiB"
+msgstr "ك.بايت"
+
+msgid "Kind"
+msgstr "النّوع"
+
+msgid "Kiribati"
+msgstr "كيريباتي"
+
+msgid "km"
+msgstr "كم"
+
+msgid "KMail"
+msgstr "بريدك"
+
+msgid "Konqueror"
+msgstr "كنكر"
+
+msgid "Konsole"
+msgstr "كونسول"
+
+msgid "Korean"
+msgstr "الكورية"
+
+msgid "KOrganizer"
+msgstr "منظّمك"
+
+msgid "Kuwait"
+msgstr "الكويت"
+
+msgid "KWin"
+msgstr "كوين"
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "اللصيقة"
+
+msgid "label"
+msgstr "اللصيقة"
+
+msgid "Labels"
+msgstr "اللصائق"
+
+msgid "Landscape"
+msgstr "عرضي"
+
+msgid "Language"
+msgstr "اللغة"
+
+msgid "_Language"
+msgstr "ال_لغة"
+
+msgid "Languages"
+msgstr "اللغات"
+
+msgid "Lao"
+msgstr "اللاوية"
+
+msgid "Laos"
+msgstr "لاوس"
+
+msgid "Large"
+msgstr "كبير"
+
+msgid "Last"
+msgstr "الأخير"
+
+msgid "Last Modified"
+msgstr "آخر تعديل"
+
+msgid "LaTeX"
+msgstr "لاتخ"
+
+msgid "Latin"
+msgstr "لاتيني"
+
+msgid "Latitude"
+msgstr "دائرة العرض"
+
+msgid "Latvia"
+msgstr "لاتفيا"
+
+msgid "Latvian"
+msgstr "اللاتفية"
+
+msgid "Launch %1"
+msgstr "شغّل %1"
+
+msgid "Layer"
+msgstr "الطبقة"
+
+msgid "Layers"
+msgstr "الطبقات"
+
+msgid "Layout"
+msgstr "التخطيط"
+
+msgid "Leave Fullscreen"
+msgstr "اخرج من ملء الشاشة"
+
+msgid "Lebanon"
+msgstr "لبنان"
+
+msgid "Left"
+msgstr "يسار"
+
+msgid "left"
+msgstr "يسار"
+
+msgid "&Left"
+msgstr "&يسار"
+
+msgid "_Left"
+msgstr "ي_سار"
+
+msgid "Left to Right"
+msgstr "من اليسار إلى اليمين"
+
+msgid "Legacy"
+msgstr "عتيق"
+
+msgid "Legend"
+msgstr "المفتاح"
+
+msgid "Length"
+msgstr "الطول"
+
+msgid "Lesotho"
+msgstr "ليسوتو"
+
+msgid "Letter"
+msgstr "خطاب"
+
+msgid "Level"
+msgstr "المستوى"
+
+msgid "Level %1"
+msgstr "المستوى %1"
+
+msgid "Levels"
+msgstr "المستويات"
+
+msgid "Liberia"
+msgstr "ليبيريا"
+
+msgid "Library"
+msgstr "المكتبة"
+
+msgid "License"
+msgstr "الرخصة"
+
+msgid "Liechtenstein"
+msgstr "ليختنشتاين"
+
+msgid "Light"
+msgstr "خفيف"
+
+msgid "Lighten"
+msgstr "تفتيح"
+
+msgid "Lightness"
+msgstr "الخفة"
+
+msgid "Limit"
+msgstr "الحد"
+
+msgid "Limits"
+msgstr "الحدود"
+
+msgid "Line"
+msgstr "السّطر"
+
+msgid "line"
+msgstr "سطر"
+
+msgid "Line Break"
+msgstr "كاسر أسطر"
+
+msgid "Line Color"
+msgstr "لون الخطّ"
+
+msgid "Line Numbers"
+msgstr "أرقام الأسطر"
+
+msgid "Line Width"
+msgstr "عرض الخطّ"
+
+msgid "Line width"
+msgstr "عرض الخط"
+
+msgid "Linear"
+msgstr "خطّي"
+
+msgid "Lines"
+msgstr "الخطوط"
+
+msgid "Link"
+msgstr "رابط"
+
+msgid "link"
+msgstr "رابط"
+
+msgid "Link URL"
+msgstr "مسار الرّابط"
+
+msgid "Links"
+msgstr "الروابط"
+
+msgid "Linux"
+msgstr "لينكس"
+
+msgid "List"
+msgstr "قائمة"
+
+msgid "List View"
+msgstr "عرض قائمة"
+
+msgid "Lists"
+msgstr "القوائم"
+
+msgid "Lists the available options for user feedback"
+msgstr "يسرد الخيارات المتاحة لمشاركة بياناتك"
+
+msgid "Lithuania"
+msgstr "ليتوانيا"
+
+msgid "Lithuanian"
+msgstr "الليتوانيّة"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "حمّل"
+
+msgid "Load..."
+msgstr "حمّل..."
+
+msgid "Load Game"
+msgstr "حمَل لعبة"
+
+msgid "Loading"
+msgstr "يحمّل"
+
+msgid "Loading..."
+msgstr "يحمّل..."
+
+msgid "Loading %1..."
+msgstr "يحمّل %1..."
+
+msgid "Local"
+msgstr "المحليّة"
+
+msgid "Locale"
+msgstr "المحلية"
+
+msgid "Locality"
+msgstr "المحلّة"
+
+msgid "Location"
+msgstr "المكان"
+
+msgid "Locations"
+msgstr "المواقع"
+
+msgid "Lock"
+msgstr "اقفل"
+
+msgid "Lock Screen"
+msgstr "اقفل الشّاشة"
+
+msgid "Locked"
+msgstr "مقفل"
+
+msgid "Log"
+msgstr "سجل"
+
+msgid "Log in"
+msgstr "لِج"
+
+msgid "Log Out"
+msgstr "اخرج"
+
+msgid "Logarithmic"
+msgstr "لوغارتميّ"
+
+msgid "Logging"
+msgstr "السجلّ"
+
+msgid "Logging in..."
+msgstr "يَلُجْ…"
+
+msgid "Logic"
+msgstr "المنطق"
+
+msgid "Login"
+msgstr "ولوج"
+
+msgid "_Login"
+msgstr "و_لوج"
+
+msgid "Logout"
+msgstr "اخرج"
+
+msgid "Logs"
+msgstr "سجلّات"
+
+msgid "Longitude"
+msgstr "خطّ الطول"
+
+msgid "Loop"
+msgstr "حلقة"
+
+msgid "Low"
+msgstr "منخفض"
+
+msgid "Lower"
+msgstr "أحرف صغيرة"
+
+msgid "Lowercase"
+msgstr "حالة صغيرة"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "استضواء"
+
+msgid "Luxembourg"
+msgstr "لوكسمبورج"
+
+msgid "Lyricist"
+msgstr "كاتب الكلمات"
+
+msgid "Lyrics"
+msgstr "الكلمات"
+
+msgid "M"
+msgstr "م"
+
+msgid "m"
+msgstr "م"
+
+msgid "Macedonian"
+msgstr "المقدونية"
+
+msgid "Macro"
+msgstr "ماكرو"
+
+msgid "Macros"
+msgstr "وحدات الماكرو"
+
+msgid "Madagascar"
+msgstr "مدغشقر"
+
+msgid "Magenta"
+msgstr "أرجواني"
+
+msgid "Mail"
+msgstr "البريد"
+
+msgid "Main"
+msgstr "الرئيسي"
+
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+msgid "Main Toolbar"
+msgstr "شريط الأدوات الرئيسي"
+
+msgid "Main Window"
+msgstr "النّافذة الرّئيسيّة"
+
+msgid "Main window"
+msgstr "النافذة الرئيسة"
+
+msgid "Maintainer"
+msgstr "الصائن"
+
+msgid "Malawi"
+msgstr "مالاوي"
+
+msgid "Malay"
+msgstr "الماليزيّة"
+
+msgid "Malayalam"
+msgstr "المالايالامية"
+
+msgid "Malaysia"
+msgstr "ماليزيا"
+
+msgid "Maldives"
+msgstr "مالديفز"
+
+msgid "Male"
+msgstr "ذكر"
+
+msgid "Mali"
+msgstr "مالي"
+
+msgid "Malta"
+msgstr "مالطة"
+
+msgid "Maltese"
+msgstr "المالطية"
+
+msgid "Manager"
+msgstr "المدير"
+
+msgid "Manual"
+msgstr "يدويّ"
+
+msgid "Manufacturer"
+msgstr "المصنّع"
+
+msgid "Map"
+msgstr "الخريطة"
+
+msgid "Maps"
+msgstr "الخرائط"
+
+msgid "Marathi"
+msgstr "الماراتية"
+
+msgid "Marble"
+msgstr "ماربل"
+
+msgid "March"
+msgstr "مارس"
+
+msgid "Margins"
+msgstr "الهوامش"
+
+msgid "Mark"
+msgstr "أشّر"
+
+msgid "Mark as Read"
+msgstr "علّم كمقروءة"
+
+msgid "Markdown"
+msgstr "مارك‌داون"
+
+msgid "Marker"
+msgstr "علامة"
+
+msgid "Markers"
+msgstr "المؤشرات"
+
+msgid "Marshall Islands"
+msgstr "جزر مارشال"
+
+msgid "Mask"
+msgstr "القناع"
+
+msgid "Mass"
+msgstr "الكتلة"
+
+msgid "Match"
+msgstr "طابق"
+
+msgid "Match case"
+msgstr "طابق الحالة"
+
+msgid "_Match case"
+msgstr "_طابِق الحالة"
+
+msgid "Math"
+msgstr "رياضيات"
+
+msgid "Matrix"
+msgstr "المصفوفة"
+
+msgid "Matthias Ettrich"
+msgstr "ماتياس إتريش"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "موريتانيا"
+
+msgid "Mauritius"
+msgstr "موريشيوس"
+
+msgid "Max"
+msgstr "الأقصى"
+
+msgid "max"
+msgstr "أقصى"
+
+msgid "Maximize"
+msgstr "كبّر"
+
+msgid "Maximum"
+msgstr "الحد الأعلى"
+
+msgid "May"
+msgstr "مايو"
+
+msgid "Maze"
+msgstr "متاهة"
+
+msgid "MB"
+msgstr "م.بايت"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "المتوسط"
+
+msgid "Measure"
+msgstr "قياس"
+
+msgid "Media"
+msgstr "الوسائط"
+
+msgid "Media Player"
+msgstr "مشغّل وسائط"
+
+msgid "Median"
+msgstr "متوسط"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "medium"
+msgstr "متوسّطة"
+
+msgid "Member"
+msgstr "العضوّ"
+
+msgid "Memory"
+msgstr "الذاكرة"
+
+msgid "Menu"
+msgstr "القائمة"
+
+msgid "Mercury"
+msgstr "عطارد"
+
+msgid "Merge"
+msgstr "ادمج"
+
+msgid "Message"
+msgstr "الرسالة"
+
+msgid "message"
+msgstr "رسالة"
+
+msgid "Messages"
+msgstr "الرسائل"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "البيانات الوصفيّة"
+
+msgid "Metal"
+msgstr "معدن"
+
+msgid "meters"
+msgstr "أمتار"
+
+msgid "Method"
+msgstr "الطريقة"
+
+msgid "Metric"
+msgstr "النّظام المتريّ"
+
+msgid "Mexico"
+msgstr "المكسيك"
+
+msgid "MiB"
+msgstr "م.بايت"
+
+msgid "Microphone"
+msgstr "الميكروفون"
+
+msgid "Middle"
+msgstr "الأوسط"
+
+msgid "Miha Čančula"
+msgstr "ميها شانكولا"
+
+msgid "Milian Wolff"
+msgstr "ميليان وولف"
+
+msgid "Millimeters"
+msgstr "ملمترات"
+
+msgid "Millimeters (mm)"
+msgstr "مليميترات (مم)"
+
+msgid "Milliseconds"
+msgstr "ملي ثانية"
+
+msgid "milliseconds"
+msgstr "ميلي ثانية"
+
+msgid "Min"
+msgstr "الأدنى"
+
+msgid "min"
+msgstr "دق"
+
+msgid "Minimize"
+msgstr "صغّر"
+
+msgid "Minimum"
+msgstr "الحد الأدنى"
+
+msgid "Minute"
+msgstr "الدقيقة"
+
+msgid "Minutes"
+msgstr "دقائق"
+
+msgid "minutes"
+msgstr "دقيقة"
+
+msgid "Mirror"
+msgstr "مرآة"
+
+msgid "Misc"
+msgstr "متنوّع"
+
+msgid "Miscellaneous"
+msgstr "متنوّع"
+
+msgid "missing plugin file \"%s\""
+msgstr ""
+
+msgid "Miter limit"
+msgstr "حد المقياس"
+
+msgid "Mix"
+msgstr "اخلط"
+
+msgid "mm"
+msgstr "مم"
+
+msgid "Mobile"
+msgstr "المحمول"
+
+msgid "Mode"
+msgstr "الوضع"
+
+msgid "Model"
+msgstr "الطّراز"
+
+msgid "Modem"
+msgstr "المودم"
+
+msgid "Modified"
+msgstr "معدّل"
+
+msgid "modified"
+msgstr "المعدّل"
+
+msgid "Modifiers"
+msgstr "المعدِّلات"
+
+msgid "Modify"
+msgstr "عدّل"
+
+msgid "Modify..."
+msgstr "عدّل…"
+
+msgid "&Modify..."
+msgstr "&عدّل..."
+
+msgid "Modify search behavior"
+msgstr "عدل سلوك البحث"
+
+msgid "Module"
+msgstr "الوحدات"
+
+msgid "Modules"
+msgstr "الوحدات"
+
+msgid "Moldova"
+msgstr "مولدافيا"
+
+msgid "Monaco"
+msgstr "موناكو"
+
+msgid "Monday"
+msgstr "الإثنين"
+
+msgid "Mongolia"
+msgstr "منغوليا"
+
+msgid "Mongolian"
+msgstr "المنغولية"
+
+msgid "Monitor"
+msgstr "راقب"
+
+msgid "Mono"
+msgstr "أحادي"
+
+msgid "Monochrome"
+msgstr "أحاديّ اللون"
+
+msgid "Monospace"
+msgstr "Monospace"
+
+msgid "Montenegro"
+msgstr "الجبل الأسود"
+
+msgid "Month"
+msgstr "الشهر"
+
+msgid "Month View"
+msgstr "عرض الشهر"
+
+msgid "Monthly"
+msgstr "شهريًا"
+
+msgid "Months"
+msgstr "الأشهر"
+
+msgid "More"
+msgstr "المزيد"
+
+msgid "More..."
+msgstr "أكثر..."
+
+msgid "More actions"
+msgstr "إجراءات أكثر"
+
+msgid "More Information"
+msgstr "المزيد من العلومات"
+
+msgid "More options"
+msgstr "خيارات أخرى"
+
+msgid "Morocco"
+msgstr "المغرب"
+
+msgid "Mount"
+msgstr "صِل"
+
+msgid "Mount point"
+msgstr "نقطة الضم"
+
+msgid "Mouse"
+msgstr "الفأرة"
+
+msgid "Mouse Wheel"
+msgstr "عجلة الفأرة"
+
+msgid "Move"
+msgstr "انقل"
+
+msgid "&Move"
+msgstr "ا&نقل"
+
+msgid "_Move"
+msgstr "ا_نقل"
+
+msgid "Move %1"
+msgstr "نقل %1"
+
+msgid "Move Down"
+msgstr "انقل لأسفل"
+
+msgid "Move down"
+msgstr "انقل لأسفل"
+
+msgid "Move &Down"
+msgstr "انقل لأ&سفل"
+
+msgid "&Move Here"
+msgstr "ان&قل هنا"
+
+msgid "Move Left"
+msgstr "حرك لليسار"
+
+msgid "_Move on Toolbar"
+msgstr "ا_نقل على شريط الأدوات"
+
+msgid "Move Right"
+msgstr "حرك لليمين"
+
+msgid "Move Tab Left"
+msgstr "انقل اللسان لليسار"
+
+msgid "Move Tab Right"
+msgstr "انقل اللسان لليمين"
+
+msgid "Move the selected item on the toolbar"
+msgstr "انقل العنصر المحدد على شريط الأدوات"
+
+msgid "Move To"
+msgstr "انقل إلى"
+
+msgid "Move to Bottom"
+msgstr "انقل إلى الأسفل"
+
+msgid "Move to Top"
+msgstr "انقل إلى الأعلى"
+
+msgid "Move to Trash"
+msgstr "انقل إلى المهملات"
+
+msgid "&Move to Trash"
+msgstr "ا&نقل إلى المهملات"
+
+msgid "Move Up"
+msgstr "انقل لأعلى"
+
+msgid "Move up"
+msgstr "انقل لأعلى"
+
+msgid "Move &Up"
+msgstr "انقل لأ&على"
+
+msgid "Mozambique"
+msgstr "موزامبيق"
+
+msgid "ms"
+msgstr "م‌ث"
+
+msgid "m/s"
+msgstr "م/ثا"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "الوسائط المتعدّدة"
+
+msgid "Multiply"
+msgstr "ضرب"
+
+msgid "Music"
+msgstr "الموسيقى"
+
+msgid "Music Player"
+msgstr "مشغّل صوتي"
+
+msgid "Mute"
+msgstr "اكتم"
+
+msgid "Myanmar"
+msgstr "ميانمار"
+
+msgid "N"
+msgstr "ش"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "غ/م"
+
+msgid "n/a"
+msgstr "غ/م"
+
+msgid "NAME"
+msgstr "الاسم"
+
+msgid "Name"
+msgstr "الاسم"
+
+msgid "name"
+msgstr "اسم"
+
+msgid "&Name"
+msgstr "الا&سم"
+
+msgid "_Name"
+msgstr "الإ_سم"
+
+msgid "Name: %1"
+msgstr "الاسم: %1"
+
+msgid "Namespace"
+msgstr "نطاق الأسماء"
+
+msgid "Namibia"
+msgstr "ناميبيا"
+
+msgid "Nature"
+msgstr "طبيعة"
+
+msgid "Nauru"
+msgstr "ناورو"
+
+msgid "Navigation"
+msgstr "التّنقّل"
+
+msgid "Negative"
+msgstr "سالب"
+
+msgid "Neon"
+msgstr "النيون"
+
+msgid "Nepal"
+msgstr "نيبال"
+
+msgid "Nepali"
+msgstr "النيبالية"
+
+msgid "Netherlands"
+msgstr "هولندا"
+
+msgid "Network"
+msgstr "الشبكة"
+
+msgid "Networks"
+msgstr "الشّبكات"
+
+msgid "Never"
+msgstr "البتة"
+
+msgid "never"
+msgstr "البتة"
+
+msgid "New"
+msgstr "جديد"
+
+msgid "&New"
+msgstr "&جديد"
+
+msgid "_New"
+msgstr "_جديد"
+
+msgid "New..."
+msgstr "جديد..."
+
+msgid "&New..."
+msgstr "&جديد..."
+
+msgid "_New..."
+msgstr "_جديدة..."
+
+msgid "New Bookmark"
+msgstr "علامة جديدة"
+
+msgid "New Connection"
+msgstr "اتصال جديد"
+
+msgid "New File"
+msgstr "ملفّ جديد"
+
+msgid "New Folder"
+msgstr "مجلّد جديد"
+
+msgid "New folder"
+msgstr "مجلد جديد"
+
+msgid "New Folder..."
+msgstr "مجلّد جديد..."
+
+msgid "New Game"
+msgstr "لعبة جديدة"
+
+msgid "New Group"
+msgstr "مجموعة جديدة"
+
+msgid "New Item"
+msgstr "عنصر جديد"
+
+msgid "New Layer"
+msgstr "طبقة جديدة"
+
+msgid "New Message"
+msgstr "رسالة جديدة"
+
+msgid "New Name"
+msgstr "الاسم الجديد"
+
+msgid "New name"
+msgstr "اسم جديد"
+
+msgid "New Profile"
+msgstr "حساب جديد"
+
+msgid "New Project"
+msgstr "مشروع جديد"
+
+msgid "New Session"
+msgstr "جلسة جديدة"
+
+msgid "New South Wales"
+msgstr "ويلز الجنوبية الجديدة"
+
+msgid "New Tab"
+msgstr "لسان جديد"
+
+msgid "New tag"
+msgstr "وسم جديد"
+
+msgid "New Window"
+msgstr "نافذة جديدة"
+
+msgid "_New Window"
+msgstr "نافذة _جديدة"
+
+msgid "New &Window"
+msgstr "&نافذة جديدة"
+
+msgid "New _Window"
+msgstr "_نافذة جديدة"
+
+msgid "New Zealand"
+msgstr "نيوزيلندا"
+
+msgid "News"
+msgstr "الأخبار"
+
+msgid "Newton"
+msgstr "نيوتن"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "&Next"
+msgstr "ال&تالي"
+
+msgid "_Next"
+msgstr "ال_تالي"
+
+msgid "Next Image"
+msgstr "الصّورة التّالية"
+
+msgid "Next month"
+msgstr "الشّهر القادم"
+
+msgid "Next Page"
+msgstr "الصفحة التالية"
+
+msgid "Next Tab"
+msgstr "اللسان التالي"
+
+msgid "Next Track"
+msgstr "المقطوعة التّالية"
+
+msgid "Nicaragua"
+msgstr "نيكاراجوا"
+
+msgid "Nickname"
+msgstr "الاسم المستعار"
+
+msgid "Niger"
+msgstr "النيجر"
+
+msgid "Nigeria"
+msgstr "نيجيريا"
+
+msgid "Night"
+msgstr "الليل"
+
+msgid "No"
+msgstr "لا"
+
+msgid "no"
+msgstr "لا"
+
+msgid "_No"
+msgstr "_لا"
+
+msgid "No."
+msgstr "الرّقم"
+
+msgid "No description available"
+msgstr "لا يوجد وصف"
+
+msgid "No devices found"
+msgstr "لم يُعثر على أجهزة"
+
+msgid "No error"
+msgstr "لا خطأ"
+
+msgid "No file selected"
+msgstr "لم يُحدّد أيّ ملفّ"
+
+msgid "No filter"
+msgstr "لا مرشّح"
+
+msgid "No Limit"
+msgstr "لا حدّ"
+
+msgid "No matches"
+msgstr "لا يوجد متطابقات"
+
+msgid "No Name"
+msgstr "بلا اسم"
+
+msgid "No name"
+msgstr "بلا اسم"
+
+msgid "No network connection"
+msgstr "لا اتّصال بالشّبكة"
+
+msgid "No results"
+msgstr "لا توجد نتائج"
+
+msgid "No Results Found"
+msgstr "لم يُعثر على نتائج"
+
+msgid "No results found"
+msgstr "لا نتائج"
+
+msgid "No search results"
+msgstr "لا يوجد نتائج بحث"
+
+msgid "No selection"
+msgstr "لا تحديد"
+
+msgid "No Subject"
+msgstr "لا موضوع"
+
+msgid "No VPN configuration options."
+msgstr ""
+
+msgid "Noise"
+msgstr "الضجيج"
+
+msgid "None"
+msgstr "لا شيء"
+
+msgid "none"
+msgstr "لا شيء"
+
+msgid "&None"
+msgstr "&لا شيء"
+
+msgid "_None"
+msgstr "_لا شيء"
+
+msgid "(None)"
+msgstr "(بلا)"
+
+msgid "(none)"
+msgstr "(لا شيء)"
+
+msgid "Nordic"
+msgstr "شمالي"
+
+msgid "Normal"
+msgstr "عادي"
+
+msgid "_Normal Size"
+msgstr "ال_حجم العادي"
+
+msgid "Normalize"
+msgstr "المساواة"
+
+msgid "North"
+msgstr "الشمال"
+
+msgid "North America"
+msgstr "أمريكا الشمالية"
+
+msgid "Norway"
+msgstr "النرويج"
+
+msgid "Norwegian"
+msgstr "النرويجية"
+
+msgid "Not a launchable item"
+msgstr "عنصر لا يمكن تنفيذه"
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "لا يمكن كتابة '%1'. القسم مليء؟"
+
+msgid "Not Available"
+msgstr "غير متوفّر"
+
+msgid "Not available"
+msgstr "غير متوفّر"
+
+msgid "not available"
+msgstr "غير متوفّر"
+
+msgid "Not Connected"
+msgstr "غير متصل"
+
+msgid "Not connected"
+msgstr "غير متّصل"
+
+msgid "Not defined"
+msgstr "ليس معرّفًا"
+
+msgid "Not found"
+msgstr "لم يُعثر عليه"
+
+msgid "Not implemented"
+msgstr "لم تُنجز"
+
+msgid "Not running"
+msgstr "لا تعمل"
+
+msgid "Not supported"
+msgstr "غير مدعوم"
+
+msgid "Note"
+msgstr "ملاحظة"
+
+msgid "Notes"
+msgstr "ملاحظات"
+
+msgid "Nothing"
+msgstr "لا شيء"
+
+msgid "Notice"
+msgstr "0 إخطار"
+
+msgid "Notification"
+msgstr "إشعار"
+
+msgid "Notifications"
+msgstr "الإشعارات"
+
+msgid "Noun"
+msgstr "اسم"
+
+msgid "November"
+msgstr "نوفمبر"
+
+msgid "Now"
+msgstr "الآن"
+
+msgid "now"
+msgstr "الآن"
+
+msgid "NT Domain"
+msgstr "مجال NT"
+
+msgid "NUMBER"
+msgstr "رقم"
+
+msgid "Number"
+msgstr "الرقم"
+
+msgid "number"
+msgstr "رقم"
+
+msgid "Number of columns"
+msgstr "عدد الأعمدة"
+
+msgid "Numbers"
+msgstr "الأرقام"
+
+msgid "Numeric"
+msgstr "رقميّ"
+
+msgid "Nuno Pinheiro"
+msgstr "نونو بينهيرو"
+
+msgid "Object"
+msgstr "كائن"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr ""
+
+msgid "Objects"
+msgstr "كائنات"
+
+msgid "Oblique"
+msgstr "مائل قليلا"
+
+msgid "Octal"
+msgstr "ثماني"
+
+msgid "October"
+msgstr "أكتوبر"
+
+msgid "Off"
+msgstr "مغلق"
+
+msgid "off"
+msgstr "إيقاف"
+
+msgid "Office"
+msgstr "المكتب"
+
+msgid "Offline"
+msgstr "غير متّصل"
+
+msgid "Offset"
+msgstr "الإزاحة"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "حسنًا"
+
+msgid "Ok"
+msgstr "حسنًا"
+
+msgid "&OK"
+msgstr "&موافق"
+
+msgid "_OK"
+msgstr "_موافق"
+
+msgid "Okular"
+msgstr "اوكلار"
+
+msgid "Oman"
+msgstr "سلطنة عمان"
+
+msgid "On"
+msgstr "يعمل"
+
+msgid "on"
+msgstr "في"
+
+msgid "One"
+msgstr "واحد"
+
+msgid "Online"
+msgstr "متصل"
+
+msgid "Online Accounts"
+msgstr "حسابات الإنترنت"
+
+msgid "Opacity"
+msgstr "الشّفافيّة"
+
+msgid "Opaque"
+msgstr "معتم"
+
+msgid "Open"
+msgstr "افتح"
+
+msgid "&Open"
+msgstr "ا&فتح"
+
+msgid "_Open"
+msgstr "ا_فتح"
+
+msgid "Open..."
+msgstr "افتح..."
+
+msgid "&Open..."
+msgstr "ا&فتح..."
+
+msgid "_Open..."
+msgstr "ا_فتح..."
+
+msgid "Open %1"
+msgstr "افتح %1"
+
+msgid "Open a file"
+msgstr "افتح ملف"
+
+msgid "Open a new tab"
+msgstr "افتح لسانًا جديدًا"
+
+msgid "Open a new window"
+msgstr ""
+
+msgid "Open an existing document"
+msgstr "افتح مستندًا موجودًا"
+
+msgid "Open Audio"
+msgstr "افتح صوتًا"
+
+msgid "Open Containing Folder"
+msgstr "افتح المجلد الحاوي"
+
+msgid "&Open Containing Folder"
+msgstr "ا&فتح المجلّد الحاوي"
+
+msgid "Open Document"
+msgstr "افتح مستند"
+
+msgid "Open File"
+msgstr "افتح الملف"
+
+msgid "Open file"
+msgstr "افتح ملفًا"
+
+msgid "Open Folder"
+msgstr "افتح المجلد"
+
+msgid "Open folder"
+msgstr "افتح مجلدًا"
+
+msgid "Open Image"
+msgstr "افتح صورة"
+
+msgid "Open in Browser"
+msgstr "افتح في المتصفّح"
+
+msgid "Open in File Manager"
+msgstr "افتح في مدير الملفّات"
+
+msgid "Open in New Tab"
+msgstr "افتح في لسان جديد"
+
+msgid "Open in New Window"
+msgstr "افتح في نافذة جديدة"
+
+msgid "Open Link"
+msgstr "افتح الوصلة"
+
+msgid "_Open Link"
+msgstr "ا_فتح الرابط"
+
+msgid "Open Location"
+msgstr "افتح موقعًا"
+
+msgid "Open Menu"
+msgstr "افتح القائمة"
+
+msgid "Open Project"
+msgstr "افتح مشروعًا"
+
+msgid "Open &Recent"
+msgstr "افتح ملفًا &حديثًا"
+
+msgid "Open Terminal Here"
+msgstr "افتح الطرفية هنا"
+
+msgid "Open URL"
+msgstr "افتح الرابط"
+
+msgid "Open Video"
+msgstr "افتح الفيديو"
+
+msgid "Open With"
+msgstr "افتح ب‍"
+
+msgid "Open with"
+msgstr "افتح في"
+
+msgid "&Open With"
+msgstr "ا&فتح في"
+
+msgid "Open With..."
+msgstr "افتح ب‍..."
+
+msgid "Open &with %1"
+msgstr "افتح &في %1"
+
+msgid "OpenGL"
+msgstr "أوبن‌جي‌إل"
+
+msgid "Opening file..."
+msgstr "يفتح الملف..."
+
+msgid "OpenStreetMap"
+msgstr "خريطة الشّوارع المفتوحة"
+
+msgid "Opera"
+msgstr "أوبرا"
+
+msgid "Operation"
+msgstr "العملية"
+
+msgid "Operation was cancelled"
+msgstr "أُلغيت العملية"
+
+msgid "Operations"
+msgstr "العمليات"
+
+msgid "Operator"
+msgstr "المشغّل"
+
+msgid "Optical Character Recognition"
+msgstr "تعرّف بصري على المحارف"
+
+msgid "Optimize"
+msgstr "حسِّن"
+
+msgid "Option"
+msgstr "الخيار"
+
+msgid "Optional"
+msgstr "اختياري"
+
+msgid "Options"
+msgstr "خيارات"
+
+msgid "&Options"
+msgstr "&خيارات"
+
+msgid "OR"
+msgstr "أو"
+
+msgid "Or"
+msgstr "أو"
+
+msgid "or"
+msgstr "أو"
+
+msgid "Orange"
+msgstr "برتقالي"
+
+msgid "Order"
+msgstr "الترتيب"
+
+msgid "Organization"
+msgstr "المنظّمة"
+
+msgid "Orientation"
+msgstr "الاتّجاه"
+
+msgid "Origin"
+msgstr "الأصل"
+
+msgid "Original"
+msgstr "الأصلي"
+
+msgid "Original Author"
+msgstr "المؤلف الأصلي"
+
+msgid "Original author"
+msgstr "المؤلف الأصلي"
+
+msgid "Original Size"
+msgstr "الحجم الأصليّ"
+
+msgid "Oriya"
+msgstr "الأوريا"
+
+msgid "Other"
+msgstr "أخرى"
+
+msgid "other"
+msgstr "أخرى"
+
+msgid "Other..."
+msgstr "أخرى..."
+
+msgid "Other Application..."
+msgstr "تطبيق آخر..."
+
+msgid "Other Options"
+msgstr "خيارات أخرى"
+
+msgid "Others"
+msgstr "أخرى"
+
+msgid "Out"
+msgstr "خارج"
+
+msgid "Out of memory"
+msgstr "نفذت الذّاكرة"
+
+msgid "Outgoing"
+msgstr "الصادرة"
+
+msgid "Outline"
+msgstr "المخطط"
+
+msgid "Output"
+msgstr "الخرج"
+
+msgid "Overlay"
+msgstr "تراكب"
+
+msgid "Overview"
+msgstr "نظرة عامة"
+
+msgid "Overwrite"
+msgstr "استبدل"
+
+msgid "Overwrite File?"
+msgstr "أأكتب فوق الملفّ؟"
+
+msgid "Owner"
+msgstr "المالك"
+
+msgid "Ownership"
+msgstr "الملكيّة"
+
+msgid "Oxygen"
+msgstr "أكسجين"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p٪"
+
+msgid "Package"
+msgstr "الحزمة"
+
+msgid "Padding"
+msgstr "الحشو"
+
+msgid "Page"
+msgstr "الصفحة"
+
+msgid "page"
+msgstr "صفحة"
+
+msgid "Page %1"
+msgstr "الصفحة %1"
+
+msgid "Page %1 of %2"
+msgstr "الصفحة %1 من %2"
+
+msgid "Page Break"
+msgstr "فاصل صفحات"
+
+msgid "Page Count"
+msgstr "عدد الصفحات"
+
+msgid "Page Number"
+msgstr "رقم الصفحة"
+
+msgid "Page Setup"
+msgstr "إعداد الصفحة"
+
+msgid "Pager"
+msgstr "المنادي"
+
+msgid "Pages"
+msgstr "الصفحات"
+
+msgid "Paint"
+msgstr "لوّن"
+
+msgid "Pair"
+msgstr "اقرن"
+
+msgid "Pakistan"
+msgstr "باكستان"
+
+msgid "Palau"
+msgstr "بالاو"
+
+msgid "Palette"
+msgstr "لوحة الألوان"
+
+msgid "Panama"
+msgstr "بنما"
+
+msgid "Panel"
+msgstr "لوحة"
+
+msgid "Panels"
+msgstr "اللوحات"
+
+msgid "&Panels"
+msgstr "ال&لوحات"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "ورق"
+
+msgid "Paper Size"
+msgstr "حجم الورقة"
+
+msgid "Papua New Guinea"
+msgstr "بابوا غينيا الجديدة"
+
+msgid "Paragraph"
+msgstr "الفقرة"
+
+msgid "Paraguay"
+msgstr "باراجواي"
+
+msgid "Parallel"
+msgstr "متوازٍ"
+
+msgid "Parameter"
+msgstr "المُعامِل"
+
+msgid "Parameters"
+msgstr "المعاملات"
+
+msgid "Parent"
+msgstr "والدان"
+
+msgid "Partition"
+msgstr "القسم"
+
+msgid "Password"
+msgstr "كلمة السّر"
+
+msgid "password"
+msgstr "كلمة السر"
+
+msgid "&Password"
+msgstr "&كلمة السر"
+
+msgid "_Password"
+msgstr "_كلمة السر"
+
+msgid "Password..."
+msgstr "كلمة السر…"
+
+msgid "Passwords"
+msgstr "كلمات السر"
+
+msgid "Paste"
+msgstr "ألصق"
+
+msgid "&Paste"
+msgstr "أ&لصق"
+
+msgid "_Paste"
+msgstr "أل_صق"
+
+msgid "Path"
+msgstr "المسار"
+
+msgid "path"
+msgstr "مسار"
+
+msgid "Paths"
+msgstr "المسارات"
+
+msgid "Pattern"
+msgstr "النمط"
+
+msgid "Patterns"
+msgstr "النّقوش"
+
+msgid "Pause"
+msgstr "ألبث"
+
+msgid "&Pause"
+msgstr "أ&لبث"
+
+msgid "Pause playback"
+msgstr "ألبث التّشغيل"
+
+msgid "PAUSED"
+msgstr "متوقف مؤقتا"
+
+msgid "Paused"
+msgstr "مُلبثة"
+
+msgid "PDF"
+msgstr "بي دي اف"
+
+msgid "Peak"
+msgstr "الذروة"
+
+msgid "Peek at Desktop"
+msgstr "نظرة على سطح المكتب"
+
+msgid "Pencil"
+msgstr "قلم رصاص"
+
+msgid "Pending"
+msgstr "ينتظر"
+
+msgid "Pentagon"
+msgstr "خماسي"
+
+msgid "People"
+msgstr "أشخاص"
+
+msgid "Percent"
+msgstr "النسبة المئوية"
+
+msgid "Percentage"
+msgstr "النسبة"
+
+msgid "Perceptual"
+msgstr "حسي"
+
+msgid "Performance"
+msgstr "الأداء"
+
+msgid "Period"
+msgstr "الدورة"
+
+msgid "Permission denied"
+msgstr "طلب الإذن مرفوض"
+
+msgid "Permissions"
+msgstr "الأذون"
+
+msgid "Persian"
+msgstr "الفارسية"
+
+msgid "Person"
+msgstr "الشّخص"
+
+msgid "Personal"
+msgstr "شخصي"
+
+msgid "Personal Information"
+msgstr "المعلومات الشخصية"
+
+msgid "Peru"
+msgstr "بيرو"
+
+msgid "Phase"
+msgstr "الطور"
+
+msgid "Philippines"
+msgstr "الفلبين"
+
+msgid "Phone"
+msgstr "الهاتف"
+
+msgid "Photo"
+msgstr "صورة"
+
+msgid "PHP Documentation"
+msgstr "توثيق بي اتش بي"
+
+msgid "PiB"
+msgstr "ب.بايت"
+
+msgid "Pick a color"
+msgstr "اختر لونا"
+
+msgid "Picture"
+msgstr "صورة"
+
+msgid "Pictures"
+msgstr "الصور"
+
+msgid "PID"
+msgstr "المعرف"
+
+msgid "Pie"
+msgstr "فطيرة"
+
+msgid "Pin"
+msgstr "دبوس"
+
+msgid "Pino Toscano"
+msgstr "بينو توسكانو"
+
+msgid "Pixels"
+msgstr "بيكسل"
+
+msgid "pixels"
+msgstr "بكسل"
+
+msgid "Placement"
+msgstr "الموضع"
+
+msgid "Places"
+msgstr "الأماكن"
+
+msgid "Plain"
+msgstr "عادي"
+
+msgid "Plain Text"
+msgstr "نصّ صِرف"
+
+msgid "Plan"
+msgstr "المُخطِط"
+
+msgid "Plasma"
+msgstr "بلازما"
+
+msgid "Platform"
+msgstr "المنصّة"
+
+msgid "Play"
+msgstr "شغّل"
+
+msgid "Play Next"
+msgstr "شغل التالي"
+
+msgid "Play Sounds"
+msgstr "شغّل الأصوات"
+
+msgid "Playback"
+msgstr "تشغيل"
+
+msgid "Player"
+msgstr "اللاعب"
+
+msgid "Player %1"
+msgstr "اللاعب %1"
+
+msgid "Players"
+msgstr "اللاعبون"
+
+msgid "Playground"
+msgstr "ملعب"
+
+msgid "Playing"
+msgstr "يشغل"
+
+msgid "Playlist"
+msgstr "قائمة التشغيل"
+
+msgid "Playlists"
+msgstr "قوائم التّشغيل"
+
+msgid "Play/Pause"
+msgstr "شغّل/ألبث"
+
+msgid "Please choose a file"
+msgstr "رجاءً اختر ملفا"
+
+msgid "Please wait"
+msgstr "فضلًا انتظر"
+
+msgid "Please wait..."
+msgstr "فضلًا انتظر..."
+
+msgid "Plot"
+msgstr "ارسم"
+
+msgid "Plots"
+msgstr "الرسوم البيانية"
+
+msgid "Plugin"
+msgstr "الملحقة"
+
+msgid "Plugins"
+msgstr "الملحقات"
+
+msgid "PM"
+msgstr "ب‌ظ"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "نقطة"
+
+msgid "Pointers"
+msgstr "المؤشرات"
+
+msgid "Points"
+msgstr "النقاط"
+
+msgid "points"
+msgstr "نقاط"
+
+msgid "Poland"
+msgstr "بولندا"
+
+msgid "Policy"
+msgstr "السياسة"
+
+msgid "Polish"
+msgstr "البولنديّة"
+
+msgid "Polygon"
+msgstr "مضلّع"
+
+msgid "Pop"
+msgstr "شعبي"
+
+msgid "Port"
+msgstr "المنفذ"
+
+msgid "&Port"
+msgstr "ال&منفذ"
+
+msgid "Portrait"
+msgstr "طولي"
+
+msgid "Portugal"
+msgstr "البرتغال"
+
+msgid "Portuguese"
+msgstr "البرتغالية"
+
+msgid "Position"
+msgstr "الموضع"
+
+msgid "Posterize"
+msgstr "قلل الألوان"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "الطاقة"
+
+msgid "Power Management"
+msgstr "إدارة الطاقة"
+
+msgid "Precision"
+msgstr "الدقّة"
+
+msgid "Preferences"
+msgstr "تفضيلات"
+
+msgid "_Preferences"
+msgstr "ال_تفضيلات"
+
+msgid "Prefix"
+msgstr "السابقة"
+
+msgid "Presentation"
+msgstr "عرض تقديمي"
+
+msgid "Preset"
+msgstr "الإعداد المسبق"
+
+msgid "Presets"
+msgstr "إعدادات مسبقة"
+
+msgid "Pressure"
+msgstr "الضغط"
+
+msgid "Preview"
+msgstr "معاينة"
+
+msgid "&Preview"
+msgstr "&عاين"
+
+msgid "Previews"
+msgstr "المعاينات"
+
+msgid "Previous"
+msgstr "السابق"
+
+msgid "&Previous"
+msgstr "ال&سّابقة"
+
+msgid "_Previous"
+msgstr "ال_سابق"
+
+msgid "Previous Image"
+msgstr "الصّورة السّابقة"
+
+msgid "Previous month"
+msgstr "الشّهر الماضي"
+
+msgid "Previous Page"
+msgstr "الصفحة السابقة"
+
+msgid "Previous Tab"
+msgstr "اللسان السابق"
+
+msgid "Previous Track"
+msgstr "المقطوعة السّابقة"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Primary"
+msgstr "أوّلي"
+
+msgid "Print"
+msgstr "اطبع"
+
+msgid "_Print"
+msgstr "ا_طبع"
+
+msgid "Print..."
+msgstr "اطبع…"
+
+msgid "&Print..."
+msgstr "ا&طبع…"
+
+msgid "_Print..."
+msgstr "ا_طبع..."
+
+msgid "Print Image"
+msgstr "اطبع الصورة"
+
+msgid "Print Preview"
+msgstr "معاينة الطباعة"
+
+msgid "Print version"
+msgstr "اطبع الإصدارة"
+
+msgid "Print version information and exit"
+msgstr "اطبع معلومات الإصدار واخرج"
+
+msgid "Printer"
+msgstr "الطّابعة"
+
+msgid "Printers"
+msgstr "الطّابعات"
+
+msgid "Printing"
+msgstr "الطباعة"
+
+msgid "Printing..."
+msgstr "يطبع..."
+
+msgid "Priority"
+msgstr "الأولويّة"
+
+msgid "Privacy"
+msgstr "الخصوصية"
+
+msgid "Private"
+msgstr "خاص"
+
+msgid "Process"
+msgstr "العمليّة"
+
+msgid "Processor"
+msgstr "المعالج"
+
+msgid "Producer"
+msgstr "المنتج"
+
+msgid "Product"
+msgstr "المنتج"
+
+msgid "Profession"
+msgstr "المهنة"
+
+msgid "Profile"
+msgstr "التشكيلة"
+
+msgid "Profile name"
+msgstr "اسم التشكيلة"
+
+msgid "Profiles"
+msgstr "التّشكيلات"
+
+msgid "Program"
+msgstr "البرنامج"
+
+msgid "Progress"
+msgstr "التّقدّم"
+
+msgid "Project"
+msgstr "المشروع"
+
+msgid "&Project"
+msgstr "م&شروع"
+
+msgid "Projects"
+msgstr "المشاريع"
+
+msgid "Properties"
+msgstr "الخصائص"
+
+msgid "&Properties"
+msgstr "&خصائص"
+
+msgid "_Properties"
+msgstr "ال_خصائص"
+
+msgid "Properties..."
+msgstr "الخصائص..."
+
+msgid "&Properties..."
+msgstr "&خصائص..."
+
+msgid "Property"
+msgstr "الخاصية"
+
+msgid "property “%s” invalid or not supported"
+msgstr ""
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr ""
+
+msgid "Proportional"
+msgstr "متناسب"
+
+msgid "Protected"
+msgstr "محمي"
+
+msgid "Protocol"
+msgstr "الميفاق"
+
+msgid "Provider"
+msgstr "المزود"
+
+msgid "Proxy"
+msgstr "الوكيل"
+
+msgid "Proxy Settings"
+msgstr "إعدادات الوكيل"
+
+msgid "Public"
+msgstr "عام"
+
+msgid "Public Key"
+msgstr "مفتاح عام"
+
+msgid "Publisher"
+msgstr "الناشر"
+
+msgid "Publishing"
+msgstr "النّشر"
+
+msgid "Puerto Rico"
+msgstr "بورتوريكو"
+
+msgid "Punjabi"
+msgstr "البنجابيّة"
+
+msgid "Push"
+msgstr "ادفع"
+
+msgid "px"
+msgstr "بكسل"
+
+msgid "Python"
+msgstr "بيثون"
+
+msgid "Qatar"
+msgstr "قطر"
+
+msgid "QR Code"
+msgstr "رمز QR"
+
+msgid "Qt"
+msgstr "كيوت"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>سيُخفي هذا شريط القوائم بالكامل. يمكنك إظهاره ثانيةً بضغط %1.</qt>"
+
+msgid "Quality"
+msgstr "الجودة"
+
+msgid "Quebec"
+msgstr "كويبيك"
+
+msgid "Query"
+msgstr "استعلام"
+
+msgid "Question"
+msgstr "سؤال"
+
+msgid "Queue"
+msgstr "الطابور"
+
+msgid "Queued"
+msgstr "مصطفّ"
+
+msgid "Quit"
+msgstr "أنهِ"
+
+msgid "&Quit"
+msgstr "أ&نهِ"
+
+msgid "_Quit"
+msgstr "أ_نهِ"
+
+msgid "Quit application"
+msgstr "أنهِ التطبيق"
+
+msgid "Quit the application"
+msgstr "أنهِ تطبيق"
+
+msgid "Quits the application"
+msgstr "ينهي التَّطبيق"
+
+msgid "Quote"
+msgstr "اقتباس"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "دائريّ"
+
+msgid "Radio"
+msgstr "راديو"
+
+msgid "Radius"
+msgstr "نصف القطر"
+
+msgid "Raise"
+msgstr "ارفع"
+
+msgid "Random"
+msgstr "عشوائي"
+
+msgid "Range"
+msgstr "النطاق"
+
+msgid "Rank"
+msgstr "الرتبة"
+
+msgid "Rate"
+msgstr "المعدل"
+
+msgid "Rating"
+msgstr "التّقييم"
+
+msgid "Raw"
+msgstr "خام"
+
+msgid "Read"
+msgstr "مقروءة"
+
+msgid "Read error"
+msgstr "خطأ قراءة"
+
+msgid "Read Only"
+msgstr "للقراءة فقط"
+
+msgid "Read only"
+msgstr "للقراءة فقط"
+
+msgid "Reading"
+msgstr "القراءة"
+
+msgid "read-only"
+msgstr "للقراءة فقط"
+
+msgid "Ready"
+msgstr "جاهز"
+
+msgid "Ready."
+msgstr "جاهز."
+
+msgid "Reason"
+msgstr "السبب"
+
+msgid "Reassign"
+msgstr "أعد التعيين"
+
+msgid "Recent"
+msgstr "الحديثة"
+
+msgid "Recent Documents"
+msgstr "المستندات الحديثة"
+
+msgid "Recent Files"
+msgstr "الملفات الحديثة"
+
+msgid "Recent files"
+msgstr "الملفات الحديثة"
+
+msgid "Record"
+msgstr "سجّل"
+
+msgid "Recording"
+msgstr "يسجّل"
+
+msgid "Rectangle"
+msgstr "مستطيل"
+
+msgid "Recursive"
+msgstr "تكراريّ"
+
+msgid "Red"
+msgstr "أحمر"
+
+msgid "red"
+msgstr "أحمر"
+
+msgid "Redo"
+msgstr "كرّر"
+
+msgid "&Redo"
+msgstr "أ&عِد"
+
+msgid "_Redo"
+msgstr "أ_عد"
+
+msgid "Re&do"
+msgstr "أ&عِد"
+
+msgid "Redo %1"
+msgstr "كرّر %1"
+
+msgid "Reference"
+msgstr "المرجع"
+
+msgid "References"
+msgstr "تفضيلات"
+
+msgid "Refresh"
+msgstr "حدّث"
+
+msgid "_Refresh"
+msgstr "_حدِّث"
+
+msgid "Reggae"
+msgstr "ريجي"
+
+msgid "Region"
+msgstr "المنطقة"
+
+msgid "Register"
+msgstr "سجّل"
+
+msgid "Regular"
+msgstr "منتظِم"
+
+msgid "Regular Expression"
+msgstr "تعبير نمطيّ"
+
+msgid "Regular expression"
+msgstr "تعبير نمطي"
+
+msgid "Reject"
+msgstr "ارفض"
+
+msgid "Relative"
+msgstr "نسبيّ"
+
+msgid "Reload"
+msgstr "أعد التحميل"
+
+msgid "&Reload"
+msgstr "أ&عد التحميل"
+
+msgid "_Reload"
+msgstr "أ_عد التحميل"
+
+msgid "Reminders"
+msgstr "التذكيرات"
+
+msgid "Remote"
+msgstr "البعيد"
+
+msgid "Removable"
+msgstr "قابل للإزالة"
+
+msgid "Remove"
+msgstr "أزل"
+
+msgid "&Remove"
+msgstr "أ&زل"
+
+msgid "_Remove"
+msgstr "أ_زل"
+
+msgid "R&emove"
+msgstr "أ&زل"
+
+msgid "Re&move"
+msgstr "أ&زل"
+
+msgid "Remove..."
+msgstr "أزل…"
+
+msgid "Remove %1"
+msgstr "أزِل %1"
+
+msgid "Remove Account"
+msgstr "أزل الحساب"
+
+msgid "Remove All"
+msgstr "أزل الكل"
+
+msgid "Remove Bookmark"
+msgstr "احذف العلامة"
+
+msgid "Remove Folder"
+msgstr "أزل المجلد"
+
+msgid "Remove from Favorites"
+msgstr "أزل من المفضّلة"
+
+msgid "_Remove from Toolbar"
+msgstr "اح_ذف من شريط الأدوات"
+
+msgid "Remove Group"
+msgstr "أزل المجموعة"
+
+msgid "Remove Rule"
+msgstr "أزِل القاعدة"
+
+msgid "Remove the selected item from the toolbar"
+msgstr "احذف العنصر المحدد من شريط الأدوات"
+
+msgid "Remove the selected toolbar"
+msgstr "احذف شريط الأدوات المحدد"
+
+msgid "Rename"
+msgstr "غيّر الاسم"
+
+msgid "&Rename"
+msgstr "&غيّر الاسم"
+
+msgid "_Rename"
+msgstr "أ_عد التسمية"
+
+msgid "Rename..."
+msgstr "أعد التسمية..."
+
+msgid "&Rename..."
+msgstr "&غيّر الاسم…"
+
+msgid "Rename Bookmark"
+msgstr "غير اسم العلامة"
+
+msgid "Rename File"
+msgstr "أعِد تسمية الملف"
+
+msgid "Repeat"
+msgstr "التكرار"
+
+msgid "Replace"
+msgstr "استبدل"
+
+msgid "&Replace"
+msgstr "ا&ستبدل"
+
+msgid "_Replace"
+msgstr "ا_ستبدل"
+
+msgid "Replace All"
+msgstr "استبدل الكلّ"
+
+msgid "Replace _All"
+msgstr "استبدل ال_كل"
+
+msgid "Replace an existing instance"
+msgstr "استبدل نسخة موجودة"
+
+msgid "Replacement"
+msgstr "الاستبدال"
+
+msgid "Reply"
+msgstr "ردّ"
+
+msgid "Report"
+msgstr "بلّغ"
+
+msgid "Report a bug"
+msgstr "أبلغ عن علّة"
+
+msgid "Report Bug"
+msgstr "أبلغ عن علة"
+
+msgid "Report Bug..."
+msgstr "أبلغ عن علّة…"
+
+msgid "&Report Bug..."
+msgstr "أ&بلغ عن علّة…"
+
+msgid "Reports"
+msgstr "التقارير"
+
+msgid "Required"
+msgstr "مطلوب"
+
+msgid "Rescan"
+msgstr "أعد المسح"
+
+msgid "Resend"
+msgstr "أعد الإرسال"
+
+msgid "Reset"
+msgstr "صفّر"
+
+msgid "&Reset"
+msgstr "&صفّر"
+
+msgid "_Reset"
+msgstr "_تصفير"
+
+msgid "Reset to Default"
+msgstr "صفّر إلى المبدئي"
+
+msgid "Reset to default"
+msgstr "التصفير إلى المبدئيات"
+
+msgid "Reset Zoom"
+msgstr "صفّر التكبير"
+
+msgid "Resize"
+msgstr "غيّر الحجم"
+
+msgid "_Resize"
+msgstr "_حجّم"
+
+msgid "Resize Image"
+msgstr "غيّر حجم الصورة"
+
+msgid "Resolution"
+msgstr "الدقة"
+
+msgid "Resource"
+msgstr "المورد"
+
+msgid "Resources"
+msgstr "الموارد"
+
+msgid "Restart"
+msgstr "أعد التّشغيل"
+
+msgid "Restore"
+msgstr "استعد"
+
+msgid "Restore Session"
+msgstr "استعد الجلسة"
+
+msgid "Result"
+msgstr "النتيجة"
+
+msgid "Results"
+msgstr "النّتائج"
+
+msgid "Resume"
+msgstr "استكمل"
+
+msgid "&Resume"
+msgstr "ا&ستأنف"
+
+msgid "Retry"
+msgstr "أعد المحاولة"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Reverse"
+msgstr "اعكس"
+
+msgid "Revert"
+msgstr "تراجع"
+
+msgid "_Revert"
+msgstr "ا_عكس"
+
+msgid "Review"
+msgstr "المراجعة"
+
+msgid "Revision"
+msgstr "المراجعة"
+
+msgid "Revoked"
+msgstr "ملغى"
+
+msgid "RGB"
+msgstr "ح‌خ‌ز"
+
+msgid "Right"
+msgstr "يمين"
+
+msgid "right"
+msgstr "يمين"
+
+msgid "&Right"
+msgstr "ي&مين"
+
+msgid "_Right"
+msgstr "_يمين"
+
+msgid "Right to Left"
+msgstr "من اليمين إلى اليسار"
+
+msgid "Right-click"
+msgstr "النقر باليمين"
+
+msgid "River"
+msgstr "نهر"
+
+msgid "RKWard Team"
+msgstr "فريق أر كي وارد"
+
+msgid "Rock"
+msgstr "روك"
+
+msgid "Role"
+msgstr "الدّور"
+
+msgid "Roman"
+msgstr "روماني"
+
+msgid "Romania"
+msgstr "رومانيا"
+
+msgid "Romanian"
+msgstr "الرومانية"
+
+msgid "Room"
+msgstr "الغرفة"
+
+msgid "Root"
+msgstr "الجذر"
+
+msgid "Rotate"
+msgstr "دوّر"
+
+msgid "Rotate Left"
+msgstr "دوّر لليسار"
+
+msgid "Rotate Right"
+msgstr "دوّر لليمين"
+
+msgid "Rotation"
+msgstr "التّدوير"
+
+msgid "Round"
+msgstr "دائري"
+
+msgid "Row"
+msgstr "صَفّ"
+
+msgid "Rows"
+msgstr "صفوف"
+
+msgid "rows"
+msgstr "الصفوف"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "القواعد"
+
+msgid "Run"
+msgstr "شغّل"
+
+msgid "&Run"
+msgstr "&شغّل"
+
+msgid "Run in terminal"
+msgstr "شغّل في الطرفية"
+
+msgid "Running"
+msgstr "يعمل"
+
+msgid "Russia"
+msgstr "روسيا"
+
+msgid "Russian"
+msgstr "الروسية"
+
+msgid "Rwanda"
+msgstr "رواندا"
+
+msgid "S"
+msgstr "ج"
+
+msgid "s"
+msgstr "ث"
+
+msgid "%s"
+msgstr ""
+
+msgid "%s Properties"
+msgstr "خصائص %s"
+
+msgid "%s, %s"
+msgstr "%s، %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "سامبا"
+
+msgid "Samoa"
+msgstr "ساموا"
+
+msgid "Sample"
+msgstr "عينة"
+
+msgid "Sample Rate"
+msgstr "معدّل الإعتيان"
+
+msgid "Sample rate"
+msgstr "معدّل الإعتيان"
+
+msgid "Samples"
+msgstr "العينات"
+
+msgid "San Marino"
+msgstr "سان مارينو"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Satellite"
+msgstr "القمر"
+
+msgid "Saturation"
+msgstr "التّشبّع"
+
+msgid "Saturday"
+msgstr "السبت"
+
+msgid "Saudi Arabia"
+msgstr "المملكة العربية السعودية"
+
+msgid "Save"
+msgstr "احفظ"
+
+msgid "&Save"
+msgstr "ا&حفظ"
+
+msgid "_Save"
+msgstr "ا_حفظ"
+
+msgid "Save..."
+msgstr "احفظ..."
+
+msgid "Save All"
+msgstr "احفظ الكلّ"
+
+msgid "Save As"
+msgstr "احفظ كَ‍"
+
+msgid "Save as"
+msgstr "احفظ ك‍"
+
+msgid "Save _As"
+msgstr "ا_حفظ كـ"
+
+msgid "Save As..."
+msgstr "احفظ كَ‍..."
+
+msgid "Save as..."
+msgstr "احفظ كَ‍..."
+
+msgid "_Save As..."
+msgstr "ا_حفظ باسم…"
+
+msgid "Save &As..."
+msgstr "احفظ &كَ‍…"
+
+msgid "Save _As..."
+msgstr "احفظ با_سم..."
+
+msgid "Save Attachment"
+msgstr "احفظ المرفق"
+
+msgid "Save Changes"
+msgstr "احفظ التّغييرات"
+
+msgid "Save Changes?"
+msgstr "حفظ التغييرات ؟"
+
+msgid "Save File"
+msgstr "احفظ الملفّ"
+
+msgid "Save file"
+msgstr "احفظ الملف"
+
+msgid "Save Game"
+msgstr "احفظ لعبة"
+
+msgid "Save Image"
+msgstr "احفظ الصّورة"
+
+msgid "_Save Image As..."
+msgstr "ا_حفظ الصورة ك‍…"
+
+msgid "Save Project"
+msgstr "احفظ المشروع"
+
+msgid "Save Session"
+msgstr "احفظ الجلسة"
+
+msgid "Save Settings"
+msgstr "احفظ اﻹعدادات"
+
+msgid "Saved"
+msgstr "محفوظ"
+
+msgid "Saving"
+msgstr "يحفظ"
+
+msgid "Saving..."
+msgstr "يحفظ..."
+
+msgid "Saving file..."
+msgstr "يحفظ الملفّ..."
+
+msgid "Scale"
+msgstr "حجّم"
+
+msgid "_Scale"
+msgstr "_حجّم"
+
+msgid "Scaled"
+msgstr "مكبّرة"
+
+msgid "Scaling"
+msgstr "تحجيم"
+
+msgid "Scan"
+msgstr "امسح"
+
+msgid "Scanner"
+msgstr "ماسح ضوئي"
+
+msgid "Scanning..."
+msgstr "يكتشف..."
+
+msgid "Schedule"
+msgstr "الجدولة"
+
+msgid "Scheduling"
+msgstr "الجدولة"
+
+msgid "Scheme"
+msgstr "المخطّط"
+
+msgid "School"
+msgstr "مدرسية"
+
+msgid "Scientific"
+msgstr "علمي"
+
+msgid "Scope"
+msgstr "النطاق"
+
+msgid "Score"
+msgstr "النتيجة"
+
+msgid "Score: %1"
+msgstr "النتيجة: %1"
+
+msgid "Screen"
+msgstr "الشّاشة"
+
+msgid "Screenshot"
+msgstr "لقطة شاشة"
+
+msgid "Screenshots"
+msgstr "اللقطات"
+
+msgid "Script"
+msgstr "سكربت"
+
+msgid "Scripting"
+msgstr "البرمجة"
+
+msgid "Scripts"
+msgstr "السّكربتات"
+
+msgid "Scroll"
+msgstr "لفّ"
+
+msgid "Scroll Down"
+msgstr "لف للأسفل"
+
+msgid "Scroll Left"
+msgstr "لف يسارا"
+
+msgid "Scroll Right"
+msgstr "لف يمينا"
+
+msgid "Scroll Up"
+msgstr "لف للأعلى"
+
+msgid "Scrolling"
+msgstr "التمرير"
+
+msgid "Search"
+msgstr "ابحث"
+
+msgid "&Search"
+msgstr "ا&بحث"
+
+msgid "_Search"
+msgstr "_بحث"
+
+msgid "S&earch"
+msgstr "ا&بحث"
+
+msgid "Search..."
+msgstr "ابحث..."
+
+msgid "Search Bar"
+msgstr "شريط البحث"
+
+msgid "_Search for"
+msgstr "ا_بحث عن"
+
+msgid "Search for '%1' with"
+msgstr "ابحث عن '%1' بـ"
+
+msgid "Search Options"
+msgstr "خيارات البحث"
+
+msgid "Search Results"
+msgstr "نتائج البحث"
+
+msgid "Search results"
+msgstr "نتائج البحث"
+
+msgid "Searching..."
+msgstr "يبحث..."
+
+msgid "Sebastian Kügler"
+msgstr "سيباستيان كوغلر"
+
+msgid "Second"
+msgstr "الثانية"
+
+msgid "Seconds"
+msgstr "ثوان"
+
+msgid "seconds"
+msgstr "ثانية"
+
+msgid "Section"
+msgstr "القسم"
+
+msgid "Security"
+msgstr "الأمن"
+
+msgid "Seek"
+msgstr "اسعَ"
+
+msgid "Select"
+msgstr "اختر"
+
+msgid "_Select"
+msgstr "تحديد"
+
+msgid "Select..."
+msgstr "اختر..."
+
+msgid "Select All"
+msgstr "حدّد الكلّ"
+
+msgid "Select all"
+msgstr "حدّد الكلّ"
+
+msgid "&Select All"
+msgstr "&حدّد الكلّ"
+
+msgid "_Select All"
+msgstr "ا_ختر الكل"
+
+msgid "Select &All"
+msgstr "حدّد ال&كلّ"
+
+msgid "Select _All"
+msgstr "اختر ال_كل"
+
+msgid "Select an authentication mode."
+msgstr "حدد وضع الاستيثاق."
+
+msgid "Select an image"
+msgstr "اختر صورة"
+
+msgid "Select Color"
+msgstr "اختر لونًا"
+
+msgid "Select Directory"
+msgstr "اختر دليلًا"
+
+msgid "Select File"
+msgstr "اختر ملفًّا"
+
+msgid "Select file"
+msgstr "اختر ملفًّا"
+
+msgid "Select Folder"
+msgstr "اختر مجلد"
+
+msgid "Select folder"
+msgstr "اختر مجلدًا"
+
+msgid "Select Font"
+msgstr "اختر خط"
+
+msgid "Select None"
+msgstr "أزل التّحديد"
+
+msgid "Select Source"
+msgstr "حدّد المصدر"
+
+msgid "Selected"
+msgstr "محدّد"
+
+msgid "Selection"
+msgstr "التحديد"
+
+msgid "Selections"
+msgstr "التحديدات"
+
+msgid "Semicolon"
+msgstr "فاصلة منقوطة"
+
+msgid "Send"
+msgstr "أرسل"
+
+msgid "Send an email to %1"
+msgstr "أرسِل بريد الإلكتروني إلى %1"
+
+msgid "Send File"
+msgstr "أرسل ملفًّا"
+
+msgid "Send to %1"
+msgstr "أرسل إلى %1"
+
+msgid "Sender"
+msgstr "المرسل"
+
+msgid "Senegal"
+msgstr "السنغال"
+
+msgid "Sensitivity"
+msgstr "الحساسية"
+
+msgid "Sent"
+msgstr "أُرسلت"
+
+msgid "Separator"
+msgstr "الفاصل"
+
+msgid "September"
+msgstr "سبتمبر"
+
+msgid "Serbia"
+msgstr "صربيا"
+
+msgid "Serbian"
+msgstr "الصّربيّة"
+
+msgid "Serial Number"
+msgstr "الرّقم التّسلسليّ"
+
+msgid "Serial number"
+msgstr "الرقم التسلسلي"
+
+msgid "Series"
+msgstr "السلسلة"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Server"
+msgstr "الخادم"
+
+msgid "Server URL"
+msgstr "مسار الخادم"
+
+msgid "Service"
+msgstr "خدمة"
+
+msgid "Services"
+msgstr "الخدمات"
+
+msgid "Session"
+msgstr "الجلسة"
+
+msgid "Session management options"
+msgstr "خيارات إدارة الجلسات"
+
+msgid "Sessions"
+msgstr "الجلسات"
+
+msgid "Set"
+msgstr "عيّن"
+
+msgid "Set as Default"
+msgstr "اضبطها كمبدئيّة"
+
+msgid "Set as default"
+msgstr "اجعله المبدئي"
+
+msgid "Settings"
+msgstr "إعدادات"
+
+msgid "&Settings"
+msgstr "إ&عدادات"
+
+msgid "_Settings"
+msgstr "_تعيينات"
+
+msgid "Settings..."
+msgstr "إعدادات..."
+
+msgid "Severity"
+msgstr "الخطورة"
+
+msgid "Seychelles"
+msgstr "سيشيل"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "التظليل"
+
+msgid "Shadow"
+msgstr "الظل"
+
+msgid "Shadows"
+msgstr "الظلال"
+
+msgid "Shape"
+msgstr "الشكل"
+
+msgid "Share"
+msgstr "شارك"
+
+msgid "Share..."
+msgstr "شارِك…"
+
+msgid "Shared"
+msgstr "مشتركة"
+
+msgid "Sharing"
+msgstr "المشاركة"
+
+msgid "Sharing failed"
+msgstr "فشلت المشاركة"
+
+msgid "Sharpen"
+msgstr "اشحذ"
+
+msgid "Sharpness"
+msgstr "الوضوح"
+
+msgid "Shear"
+msgstr "قص"
+
+msgid "Shell"
+msgstr "الصدَفة"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "قصيرة"
+
+msgid "Shortcut"
+msgstr "الاختصار"
+
+msgid "Shortcuts"
+msgstr "الاختصارات"
+
+msgid "Show"
+msgstr "أظهر"
+
+msgid "Show All"
+msgstr "أظهر الكلّ"
+
+msgid "Show Details"
+msgstr "أظهر التّفاصيل"
+
+msgid "Show details"
+msgstr "أظهر التّفاصيل"
+
+msgid "Show Grid"
+msgstr "أظهر الشبكة"
+
+msgid "Show grid"
+msgstr "اعرض الشّبكة"
+
+msgid "Show Help"
+msgstr "أظهر المساعدة"
+
+msgid "Show help"
+msgstr "أظهر المساعدة"
+
+msgid "Show Hidden Files"
+msgstr "أظهر الملفات المخفية"
+
+msgid "Show in folder"
+msgstr "اعرض في مجلد"
+
+msgid "Show legend"
+msgstr "أظهر العنوان"
+
+msgid "Show Password"
+msgstr "أظهر كلمة السر"
+
+msgid "Show Preview"
+msgstr "أظهر معاينة"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr "اعرض خيارات إدارة الجلسات"
+
+msgid "Show Shortcuts"
+msgstr "أظهِر الاختصارات"
+
+msgid "Show Status Bar"
+msgstr "اعرض شريط الحالة"
+
+msgid "Show St&atusbar"
+msgstr "اعرض شريط ال&حالة"
+
+msgid "Show the application's version"
+msgstr "اعرض إصدار التطبيق"
+
+msgid "Show Toolbar"
+msgstr "اعرض شريط الأدوات"
+
+msgid "Show toolbar"
+msgstr "اعرض شريط الأدوات"
+
+msgid "Show &Toolbar"
+msgstr "اعرض شريط الأ&دوات"
+
+msgid "Shuffle"
+msgstr "اخلط"
+
+msgid "Shut Down"
+msgstr "أطفئ"
+
+msgid "Shutdown"
+msgstr "أطفئ"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+msgid "Sierra Leone"
+msgstr "سيراليون"
+
+msgid "Sign"
+msgstr "وقّع"
+
+msgid "Signal"
+msgstr "إشارة"
+
+msgid "Signature"
+msgstr "التّوقيع"
+
+msgid "Simple"
+msgstr "بسيط"
+
+msgid "Singapore"
+msgstr "سنغافورة"
+
+msgid "Single"
+msgstr "مفرد"
+
+msgid "Sinhala"
+msgstr "السنهالية"
+
+msgid "Size"
+msgstr "الحجم"
+
+msgid "size"
+msgstr "الحجم"
+
+msgid "&Size"
+msgstr "ال&حجم"
+
+msgid "Size: %1"
+msgstr "الحجم: %1"
+
+msgid "Skip"
+msgstr "تخطّ"
+
+msgid "&Skip"
+msgstr "ت&خطّ"
+
+msgid "_Skip"
+msgstr "_تخط"
+
+msgid "Skip forward"
+msgstr "تخطى للأمام"
+
+msgid "Sleep"
+msgstr "علّق"
+
+msgid "Slide"
+msgstr "أزْلِق"
+
+msgid "Slider"
+msgstr "مزلق"
+
+msgid "Slideshow"
+msgstr "عرض الشرائح"
+
+msgid "Slovak"
+msgstr "السلوفاكية"
+
+msgid "Slovenia"
+msgstr "سلوفينيا"
+
+msgid "Slovenian"
+msgstr "السلوفينية"
+
+msgid "Slow"
+msgstr "بطيء"
+
+msgid "Slower"
+msgstr "أبطأ"
+
+msgid "Small"
+msgstr "صغير"
+
+msgid "Smooth"
+msgstr "سَلِس"
+
+msgid "Smoothing"
+msgstr "التمليس"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "سناب"
+
+msgid "Snap to Grid"
+msgstr "مطابقة للشبكة"
+
+msgid "Snow"
+msgstr "ثلج"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr "Socks5"
+
+msgid "Software"
+msgstr "البرمجيات"
+
+msgid "Solid"
+msgstr "صلب"
+
+msgid "Solid color"
+msgstr "لون سادة"
+
+msgid "Solomon Islands"
+msgstr "جزر سليمان"
+
+msgid "Somalia"
+msgstr "الصومال"
+
+msgid "Sort"
+msgstr "افرز"
+
+msgid "Sort By"
+msgstr "افرز حسب"
+
+msgid "Sort by"
+msgstr "افرز حسب"
+
+msgid "Sorting"
+msgstr "الفرز"
+
+msgid "Sound"
+msgstr "الصوت"
+
+msgid "Soundtrack"
+msgstr "معزوفة موسيقية"
+
+msgid "Source"
+msgstr "المصدر"
+
+msgid "Sources"
+msgstr "المصادر"
+
+msgid "South"
+msgstr "الجنوب"
+
+msgid "South Africa"
+msgstr "جنوب إفريقيا"
+
+msgid "South European"
+msgstr "جنوب أوروبي"
+
+msgid "Space"
+msgstr "مسافة"
+
+msgid "Spacing"
+msgstr "التباعد"
+
+msgid "Spain"
+msgstr "أسبانيا"
+
+msgid "Spam"
+msgstr "سخام"
+
+msgid "Spanish"
+msgstr "الإسبانيّة"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "انطق"
+
+msgid "Speak Text"
+msgstr "انطق النّصّ"
+
+msgid "Speaker"
+msgstr "المكبر"
+
+msgid "Special"
+msgstr "خاص"
+
+msgid "Special Characters"
+msgstr "المحارف الخاصّة"
+
+msgid "Specials"
+msgstr "خاصة"
+
+msgid "Specify file containing saved configuration"
+msgstr "حدد ملفا يحتوي الإعدادات المحفوظة"
+
+msgid "Specify session management ID"
+msgstr "حدد رقم معرّف إدارة الجلسات"
+
+msgid "Speed"
+msgstr "السرعة"
+
+msgid "Spell Check"
+msgstr "تدقيق الإملاء"
+
+msgid "Spell Checking"
+msgstr "التدقيق الإملائي"
+
+msgid "Spelling"
+msgstr "إملاء"
+
+msgid "Spiral"
+msgstr "لولبيّ"
+
+msgid "Split"
+msgstr "اقسم"
+
+msgid "Split View"
+msgstr "اقسم العرض"
+
+msgid "Sports"
+msgstr "رياضة"
+
+msgid "Spreadsheet"
+msgstr "جدول بيانات"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "مربع"
+
+msgid "Sri Lanka"
+msgstr "سريلانكا"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr "مكدس"
+
+msgid "Stacked"
+msgstr "مكدس"
+
+msgid "Standard"
+msgstr "قياسي"
+
+msgid "Standard deviation"
+msgstr "الانحراف المعياري"
+
+msgid "Star"
+msgstr "النجم"
+
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "&Start"
+msgstr "ا&بدأ"
+
+msgid "Start a new game"
+msgstr "ابدأ لعبة جديدة"
+
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+msgid "Start date"
+msgstr "تاريخ البدء"
+
+msgid "Start Presentation"
+msgstr "ابدأ العرض"
+
+msgid "Start Time"
+msgstr "وقت البدأ"
+
+msgid "Started"
+msgstr "بدأ"
+
+msgid "Starting"
+msgstr "يبدأ"
+
+msgid "Starting..."
+msgstr "يبدأ…"
+
+msgid "Starting %s"
+msgstr "يبدأ %s"
+
+msgid "starts with"
+msgstr "يبدأ بـ"
+
+msgid "Startup"
+msgstr "بدء التشغيل"
+
+msgid "Stash"
+msgstr "التخزين المؤقت"
+
+msgid "State"
+msgstr "الحالة"
+
+msgid "States"
+msgstr "دول"
+
+msgid "Statistics"
+msgstr "الإحصائيّات"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "Status: %1"
+msgstr "الحالة: %1"
+
+msgid "Statusbar"
+msgstr "شريط الحالة"
+
+msgid "_Statusbar"
+msgstr "_شريط الحالة"
+
+msgid "Step"
+msgstr "خطوة"
+
+msgid "Stephan Kulow"
+msgstr "ستيفن كولو"
+
+msgid "Steps"
+msgstr "خطوات"
+
+msgid "Stereo"
+msgstr "مجسمي"
+
+msgid "Stop"
+msgstr "أوقف"
+
+msgid "&Stop"
+msgstr "أو&قِف"
+
+msgid "_Stop"
+msgstr "أو_قف"
+
+msgid "S&top"
+msgstr "أو&قِف"
+
+msgid "Stop Recording"
+msgstr "أوقف التسجيل"
+
+msgid "Stopped"
+msgstr "موقوف"
+
+msgid "Storage"
+msgstr "التخزين"
+
+msgid "Store"
+msgstr "احفظ"
+
+msgid "Stream"
+msgstr "بث"
+
+msgid "Street"
+msgstr "الشارع"
+
+msgid "Strength"
+msgstr "القوّة:"
+
+msgid "Stretch"
+msgstr "التمديد"
+
+msgid "Strike Out"
+msgstr "اشطب"
+
+msgid "Strikethrough"
+msgstr "شطب"
+
+msgid "String"
+msgstr "سلسلة"
+
+msgid "string"
+msgstr "سلسلة نصية"
+
+msgid "Strings"
+msgstr "السّلاسل"
+
+msgid "Stroke"
+msgstr "حدّ"
+
+msgid "Strong"
+msgstr "قوي"
+
+msgid "Structure"
+msgstr "البنية"
+
+msgid "Style"
+msgstr "النّمط"
+
+msgid "Subject"
+msgstr "الموضوع"
+
+msgid "Submit"
+msgstr "أرسل"
+
+msgid "Subscribe"
+msgstr "اشترك"
+
+msgid "Subscript"
+msgstr "منخفض"
+
+msgid "Subscriptions"
+msgstr "الاشتراكات"
+
+msgid "Subtitle"
+msgstr "عنوان فرعيّ"
+
+msgid "Subtitles"
+msgstr "الترجمة"
+
+msgid "Subtract"
+msgstr "اطرح"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "اكتمل"
+
+msgid "Sudan"
+msgstr "السودان"
+
+msgid "Suffix"
+msgstr "اللاحقة"
+
+msgid "Sum"
+msgstr "المجموع"
+
+msgid "Summary"
+msgstr "الملخّص"
+
+msgid "Sun"
+msgstr "الشمس"
+
+msgid "Sundanese"
+msgstr "سُنداني"
+
+msgid "Sunday"
+msgstr "الأحد"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "مرتفع"
+
+msgid "Support"
+msgstr "الدعم"
+
+msgid "Suriname"
+msgstr "سورينام"
+
+msgid "Surname"
+msgstr "الكُنية"
+
+msgid "Suspend"
+msgstr "علّق"
+
+msgid "Suspended"
+msgstr "مُعلَّق"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "المبادلة"
+
+msgid "Sweden"
+msgstr "السويد"
+
+msgid "Swedish"
+msgstr "السويدية"
+
+msgid "Switch"
+msgstr "بدّل"
+
+msgid "Switches"
+msgstr "مفاتيح تبديل"
+
+msgid "Switzerland"
+msgstr "سويسرا"
+
+msgid "Symbol"
+msgstr "الرمز"
+
+msgid "Symbols"
+msgstr "رموز"
+
+msgid "Sync"
+msgstr "المزامنة"
+
+msgid "Synchronization"
+msgstr "المزامنة"
+
+msgid "Synchronize"
+msgstr "زامِن"
+
+msgid "Syriac"
+msgstr "السريانية"
+
+msgid "System"
+msgstr "النظام"
+
+msgid "System Default"
+msgstr "مبدئي النظام"
+
+msgid "System Settings"
+msgstr "إعدادات النّظام"
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "محرف جدولة"
+
+msgid "Table"
+msgstr "جدول"
+
+msgid "Table of Contents"
+msgstr "جدول المحتويات"
+
+msgid "Tablet"
+msgstr "لوحي"
+
+msgid "Tabs"
+msgstr "الألسنة"
+
+msgid "Tag"
+msgstr "الوسم"
+
+msgid "Tagalog"
+msgstr "التغالوق"
+
+msgid "Tagged"
+msgstr "موسومة"
+
+msgid "Tags"
+msgstr "الوسوم"
+
+msgid "Taiwan"
+msgstr "تايوان"
+
+msgid "Tajikistan"
+msgstr "طاجكستان"
+
+msgid "Take Screenshot"
+msgstr "التقاط الشاشة"
+
+msgid "Tamil"
+msgstr "التاميلية"
+
+msgid "Tango"
+msgstr "تانجو"
+
+msgid "Tanzania"
+msgstr "تنزانيا"
+
+msgid "Target"
+msgstr "الهدف"
+
+msgid "Task"
+msgstr "المهمّة"
+
+msgid "Tasks"
+msgstr "المهام"
+
+msgid "Tatar"
+msgstr "التتارية"
+
+msgid "TB"
+msgstr "ت.بايت"
+
+msgid "Team"
+msgstr "فريق"
+
+msgid "Technology"
+msgstr "التقنية"
+
+msgid "Telephone"
+msgstr "هاتف"
+
+msgid "Telugu"
+msgstr "التيلوغو"
+
+msgid "Temperature"
+msgstr "درجة الحرارة"
+
+msgid "Template"
+msgstr "القالب"
+
+msgid "Templates"
+msgstr "القوالب"
+
+msgid "Tentative"
+msgstr "متردّد"
+
+msgid "Terminal"
+msgstr "الطرفية"
+
+msgid "Terminal Emulator"
+msgstr "محاكي الطرفية"
+
+msgid "Test"
+msgstr "اختبر"
+
+msgid "Testing"
+msgstr "اختباريّ"
+
+msgid "Text"
+msgstr "النص"
+
+msgid "text"
+msgstr "نص"
+
+msgid "_Text"
+msgstr "_نص"
+
+msgid "Text Color"
+msgstr "لون النّصّ"
+
+msgid "Text color"
+msgstr "لون النص"
+
+msgid "Text Editor"
+msgstr "محرر النصوص"
+
+msgid "Text File"
+msgstr "ملف نصي"
+
+msgid "Text Files"
+msgstr "ملفّات نصّيّة"
+
+msgid "Text Only"
+msgstr "النص فقط"
+
+msgid "Text only"
+msgstr "النص فقط"
+
+msgid "Text to search for"
+msgstr "النّصّ للبحث عنه"
+
+msgid "Text Tool"
+msgstr "أداة النصوص"
+
+msgid "TextLabel"
+msgstr "لصيقة نصّيّة"
+
+msgid "Thai"
+msgstr "التايلاندية"
+
+msgid "Thailand"
+msgstr "تايلاند"
+
+msgid "The file %1 does not exist."
+msgstr "الملفّ %1 غير موجود."
+
+msgid "The GNOME Project"
+msgstr "مشروع جنوم"
+
+msgid "The graphical theme to be used."
+msgstr "السمة الرسومية المستخدمة."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+"التغييرات الأكثر أهمية هي أن كالغرا قد انتقلت بالكامل إلى Qt6 و KF6، إلى "
+"جانب إجراء تعديل جذري على واجهة المستخدم الخاصة بها."
+
+msgid "The NetworkManager Developers"
+msgstr ""
+
+msgid "Theme"
+msgstr "السمة"
+
+msgid "Themes"
+msgstr "السّمات"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "حدثت مشكلة في مشاركة المستند: %1"
+
+msgid "Thin"
+msgstr "رقيق"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr "يضيف هذا الإصدار دعم ”فلاتباك“ إلى مجموعة برامج كاليغرا أوفيس."
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr "سيُخفي هذا شريط القوائم بالكامل. يمكنك إظهاره مجدّدًا بضغط %1."
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "العتبة"
+
+msgid "Thumbnail"
+msgstr "المصغّرة"
+
+msgid "Thumbnails"
+msgstr "المصغّرات"
+
+msgid "Thursday"
+msgstr "الخميس"
+
+msgid "TiB"
+msgstr "ت.بايت"
+
+msgid "Tibetan"
+msgstr "التبتية"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "بلاط"
+
+msgid "Tiled"
+msgstr "مكرّرة"
+
+msgid "Tilt"
+msgstr "الإمالة"
+
+msgid "Time"
+msgstr "الوقت"
+
+msgid "time"
+msgstr "الوقت"
+
+msgid "Time: %1"
+msgstr "الوقت: %1"
+
+msgid "Time and Date"
+msgstr "الوقت والتاريخ"
+
+msgid "Time Zone"
+msgstr "المنطقة الزمنيّة"
+
+msgid "Timeline"
+msgstr "الخطّ الزّمنيّ"
+
+msgid "Timeout"
+msgstr "مهلة"
+
+msgid "Timer"
+msgstr "المؤقّت"
+
+msgid "Timestamp"
+msgstr "الختم الزمني"
+
+msgid "Timezone"
+msgstr "المنطقة الزمنية"
+
+msgid "Tiny"
+msgstr "ضئيل"
+
+msgid "Title"
+msgstr "العنوان"
+
+msgid "title"
+msgstr "العنوان"
+
+msgid "&Title"
+msgstr "ال&عنوان"
+
+msgid "_Title"
+msgstr "ال_عنوان"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "إلى"
+
+msgid "to"
+msgstr "إلى"
+
+msgid "Tobias Fella"
+msgstr "توبياس فلة"
+
+msgid "Today"
+msgstr "اليوم"
+
+msgid "today"
+msgstr "اليوم"
+
+msgid "TODO"
+msgstr "مَهمّة"
+
+msgid "Todo"
+msgstr "المهام"
+
+msgid "Toggle Fullscreen"
+msgstr "بدّل ملء الشاشة"
+
+msgid "Toggle Sidebar"
+msgstr "بدّل الشريط الجانبي"
+
+msgid "Toggle sidebar"
+msgstr "تبديل الشريط الجانبي"
+
+msgid "Togo"
+msgstr "توغو"
+
+msgid "Token"
+msgstr "الرّمز"
+
+msgid "Tolerance"
+msgstr "التسامح"
+
+msgid "Tomorrow"
+msgstr "الغد"
+
+msgid "Tonga"
+msgstr "تونجا"
+
+msgid "Tool"
+msgstr "أداة"
+
+msgid "Tool Options"
+msgstr "خيارات الأداة"
+
+msgid "_Toolbar"
+msgstr "شريط الأ_دوات"
+
+msgid "T_oolbar"
+msgstr "_شريط الأدوات"
+
+msgid "Toolbar Editor"
+msgstr "محرر شريط الأدوات"
+
+msgid "Toolbox"
+msgstr "صندوق الأدوات"
+
+msgid "Tools"
+msgstr "أدوات"
+
+msgid "&Tools"
+msgstr "أ&دوات"
+
+msgid "_Tools"
+msgstr "أد_وات"
+
+msgid "Top"
+msgstr "أعلى"
+
+msgid "_Top"
+msgstr "_فوق"
+
+msgid "Top Left"
+msgstr "أعلى اليسار"
+
+msgid "Top left"
+msgstr "أعلى اليسار"
+
+msgid "Top Right"
+msgstr "أعلى اليمين"
+
+msgid "Top right"
+msgstr "أعلى اليمين"
+
+msgid "Topic"
+msgstr "موضوع"
+
+msgid "Top-left"
+msgstr "أعلى يسار"
+
+msgid "Top-right"
+msgstr "أعلى يمين"
+
+msgid "Total"
+msgstr "المجموع"
+
+msgid "Track"
+msgstr "المقطوعة"
+
+msgid "Track Number"
+msgstr "رقم المقطوعة"
+
+msgid "Tracker"
+msgstr "المتتبّع"
+
+msgid "Tracks"
+msgstr "المسارات"
+
+msgid "Traditional"
+msgstr "تقليدي"
+
+msgid "Transfer"
+msgstr "حوّالة"
+
+msgid "Transform"
+msgstr "التّحويل"
+
+msgid "Transformation"
+msgstr "التحويل"
+
+msgid "Translate"
+msgstr "ترجم"
+
+msgid "Translation"
+msgstr "الترجمة"
+
+msgid "Translator"
+msgstr "المترجم"
+
+msgid "translator-credits"
+msgstr ""
+"فريق عربآيز للترجمة http://www.arabeyes.org :\n"
+"جهاد عفيفي\t<djihed@gmail.com>\n"
+"خالد حسني\t<khaledhosny@eglug.org>"
+
+msgid "translator_credits"
+msgstr ""
+"آخِر من عدَّل الترجمة:\n"
+"علي جلال <engalali9@gmail.com>\n"
+"أحمد النجماوي <iramosu@protonmail.com>"
+
+msgid "Translators"
+msgstr "المترجمون"
+
+msgid "Transparency"
+msgstr "الشفافية"
+
+msgid "Transparent"
+msgstr "شفاف"
+
+msgid "Transport"
+msgstr "النقل"
+
+msgid "Transpose"
+msgstr "انقل مصفوفة"
+
+msgid "Trash"
+msgstr "المهملات"
+
+msgid "Travel"
+msgstr "سفر"
+
+msgid "Tree"
+msgstr "شجرة"
+
+msgid "Tree View"
+msgstr "منظور الشّجرة"
+
+msgid "Triangle"
+msgstr "مثلّث"
+
+msgid "True"
+msgstr "صحيح"
+
+msgid "true"
+msgstr "صحيح"
+
+msgid "Trusted"
+msgstr "موثوق"
+
+msgid "Try a different search"
+msgstr "جرِّب بحثًا مختلفًا"
+
+msgid "Try Again"
+msgstr "جرّب مجدّدًا"
+
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+msgid "Tunisia"
+msgstr "تونس"
+
+msgid "Turkey"
+msgstr "تركيا"
+
+msgid "Turkish"
+msgstr "التركية"
+
+msgid "Turkmenistan"
+msgstr "تركمانستان"
+
+msgid "Tuvalu"
+msgstr "توفالو"
+
+msgid "TV"
+msgstr "تلفاز"
+
+msgid "Twitter"
+msgstr "تويتر"
+
+msgid "TYPE"
+msgstr "TYPE"
+
+msgid "Type"
+msgstr "النوع"
+
+msgid "type"
+msgstr "النوع"
+
+msgid "&Type"
+msgstr "ال&نّوع"
+
+msgid "Type: %1"
+msgstr "النوع: %1"
+
+msgid "Uganda"
+msgstr "أوغندا"
+
+msgid "Ukraine"
+msgstr "أوكرانيا"
+
+msgid "Ukrainian"
+msgstr "الأوكرانية"
+
+msgid "Unable to create a temporary file."
+msgstr "لم يتمكن من إنشاء ملف مؤقت"
+
+msgid "unable to get editor plugin name: %s"
+msgstr ""
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+
+msgid "Unavailable"
+msgstr "غير متوفّر"
+
+msgid "Undefined"
+msgstr "غير معرّف"
+
+msgid "Underline"
+msgstr "تسطير"
+
+msgid "&Underline"
+msgstr "&تسطير"
+
+msgid "_Underline"
+msgstr "_تسطير"
+
+msgid "Undo"
+msgstr "تراجع"
+
+msgid "&Undo"
+msgstr "&تراجع"
+
+msgid "_Undo"
+msgstr "_تراجع"
+
+msgid "Undo %1"
+msgstr "تراجع %1"
+
+msgid "Undo History"
+msgstr "تأريخ التّراجع"
+
+msgid "UnFav it"
+msgstr "أزل التفضيل"
+
+msgid "unhandled property “%s” type %s"
+msgstr ""
+
+msgid "Unicode"
+msgstr "يونيكود"
+
+msgid "Uniform"
+msgstr "منتظم"
+
+msgid "Union"
+msgstr "اتحاد"
+
+msgid "Unit"
+msgstr "الوحدة"
+
+msgid "United Arab Emirates"
+msgstr "الامارات العربية المتحدة"
+
+msgid "United Kingdom"
+msgstr "المملكة المتحدة"
+
+msgid "United States"
+msgstr "الولايات المتّحدة"
+
+msgid "United States Minor Outlying Islands"
+msgstr "جزر الولايات المتحدة البعيدة الصغيرة"
+
+msgid "Units"
+msgstr "الوحدات"
+
+msgid "University"
+msgstr "جامعة"
+
+msgid "Unknown"
+msgstr "مجهول"
+
+msgid "unknown"
+msgstr "مجهول"
+
+msgid "(unknown)"
+msgstr "(مجهول)"
+
+msgid "Unknown Error"
+msgstr "خطأ مجهول"
+
+msgid "Unknown error"
+msgstr "خطأ مجهول"
+
+msgid "Unknown error."
+msgstr "خطأ مجهول."
+
+msgid "unknown error creating editor instance"
+msgstr ""
+
+msgid "Unknown file type"
+msgstr "نوع الملف غير معروف"
+
+msgid "Unlimited"
+msgstr "غير محدود"
+
+msgid "unlimited"
+msgstr "بلا حدّ"
+
+msgid "Unlock"
+msgstr "فكّ القفل"
+
+msgid "_Unlock"
+msgstr "ا_فتح القفل"
+
+msgid "Unmount"
+msgstr "أزل الوصل"
+
+msgid "Unmute"
+msgstr "ألغ الكتم"
+
+msgid "Unnamed"
+msgstr "غير مسمًّى"
+
+msgid "unnamed"
+msgstr "غير مسمًّى"
+
+msgid "Unread"
+msgstr "غير المقروء"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "إصدارة ملف سطح مكتب غير معروفة '%s'"
+
+msgid "Unrecognized launch option: %d"
+msgstr "خيار إطلاق غير معروف: %d"
+
+msgid "Unsaved Changes"
+msgstr "تغييرات غير محفوظة"
+
+msgid "Unselect All"
+msgstr "أزِل تحديد الكلّ"
+
+msgid "Unselect all"
+msgstr "أزل تحديد الكلّ"
+
+msgid "Unspecified"
+msgstr "غير محدد"
+
+msgid "Untitled"
+msgstr "غير معنون"
+
+msgid "untitled"
+msgstr "بلا عنوان"
+
+msgid "Unused"
+msgstr "غير المستخدمة"
+
+msgid "Up"
+msgstr "أعلى"
+
+msgid "&Up"
+msgstr "لأ&على"
+
+msgid "Update"
+msgstr "حدّث"
+
+msgid "&Update"
+msgstr "&حدّث"
+
+msgid "_Update"
+msgstr "_حدّث"
+
+msgid "Updates"
+msgstr "التّحديثات"
+
+msgid "Updating"
+msgstr "يحدّث"
+
+msgid "Updating..."
+msgstr "يحدّث..."
+
+msgid "Upload"
+msgstr "ارفع"
+
+msgid "_Upload"
+msgstr ""
+
+msgid "Uploaded"
+msgstr "المرفوع"
+
+msgid "Upper"
+msgstr "أحرف كبيرة"
+
+msgid "Uppercase"
+msgstr "أحرف كبيرة"
+
+msgid "Urdu"
+msgstr "الأورديّة"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "العنوان"
+
+msgid "Url"
+msgstr "الرابط"
+
+msgid "Uruguay"
+msgstr "أوروغواي"
+
+msgid "US Letter"
+msgstr "رسالة أمريكيّة"
+
+msgid "Usage"
+msgstr "الاستخدام"
+
+msgid "USB"
+msgstr "الناقل التسلسلي العام (USB)"
+
+msgid "Use"
+msgstr "استخدم"
+
+msgid "Used"
+msgstr "المستخدم"
+
+msgid "User"
+msgstr "المستخدم"
+
+msgid "User Certificate"
+msgstr "شهادة المستخدِم"
+
+msgid "User Defined"
+msgstr "عرّفها المستخدم"
+
+msgid "User Feedback"
+msgstr "مشاركة بياناتك"
+
+msgid "User ID"
+msgstr "معرف المستخدم"
+
+msgid "User Interface"
+msgstr "واجهة المستخدم"
+
+msgid "User name"
+msgstr "اسم المستخدم"
+
+msgid "User Password"
+msgstr "كلمة سر المستخدم"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "_Username"
+msgstr "اسم المست_خدم"
+
+msgid "Users"
+msgstr "المستخدمين"
+
+msgid "Utilities"
+msgstr "الأدوات"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "أوزبكستان"
+
+msgid "V"
+msgstr "ف"
+
+msgid "%v%"
+msgstr "%v٪"
+
+msgid "Valid"
+msgstr "صالح"
+
+msgid "Valid from"
+msgstr "صالح من"
+
+msgid "Validity"
+msgstr "الصّلاحية"
+
+msgid "Value"
+msgstr "القيمة"
+
+msgid "value"
+msgstr "القيمة"
+
+msgid "&Value"
+msgstr "ال&قيمة"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+
+msgid "Values"
+msgstr "القيم"
+
+msgid "Vanuatu"
+msgstr "فانواتو"
+
+msgid "Variable"
+msgstr "متغير"
+
+msgid "Variables"
+msgstr "المتغيّرات"
+
+msgid "Variance"
+msgstr "تباين"
+
+msgid "Vector"
+msgstr "متجه"
+
+msgid "Velocity"
+msgstr "السرعة"
+
+msgid "Vendor"
+msgstr "البائع"
+
+msgid "Venezuela"
+msgstr "فنزويلا"
+
+msgid "Verb"
+msgstr "فعل"
+
+msgid "Verify"
+msgstr "تحقق"
+
+msgid "Version"
+msgstr "الإصدارة"
+
+msgid "Version %1"
+msgstr "الإصدار %1"
+
+msgid "Vertical"
+msgstr "عمودي"
+
+msgid "Very Large"
+msgstr "كبير جدًّا"
+
+msgid "Video"
+msgstr "فيديو"
+
+msgid "Video CD"
+msgstr "CD فيديو"
+
+msgid "Video Codec"
+msgstr "مرماز الفيديو"
+
+msgid "Video Files"
+msgstr "ملفّات الفيديو"
+
+msgid "Videos"
+msgstr "الفيديوهات"
+
+msgid "Vietnam"
+msgstr "فيتنام"
+
+msgid "Vietnamese"
+msgstr "الفيتنامية"
+
+msgid "View"
+msgstr "اعرض"
+
+msgid "&View"
+msgstr "&عرض"
+
+msgid "_View"
+msgstr "_عرض"
+
+msgid "View Options"
+msgstr "خيارات العرض"
+
+msgid "View Settings"
+msgstr "إعدادات المنظور"
+
+msgid "Viewer"
+msgstr "المستعرض"
+
+msgid "Views"
+msgstr "المناظير"
+
+msgid "Virtual"
+msgstr "افتراضي"
+
+msgid "Virtual Keyboard"
+msgstr "لوحة مفاتيح افتراضية"
+
+msgid "Visibility"
+msgstr "الظّهور"
+
+msgid "Visible"
+msgstr "مرئي"
+
+msgid "Voltage"
+msgstr "الجهد"
+
+msgid "Volume"
+msgstr "الصوت"
+
+msgid "Volume Down"
+msgstr "اخفِض الصوت"
+
+msgid "Volume Up"
+msgstr "ارفع الصوت"
+
+msgid "W"
+msgstr "غ"
+
+msgid "w"
+msgstr "ك"
+
+msgid "Waiting"
+msgstr "ينتظر"
+
+msgid "Wallpaper"
+msgstr "الخلفيّة"
+
+msgid "Wallpaper type"
+msgstr "نوع الخلفيّة"
+
+msgid "WARNING"
+msgstr "تحذير"
+
+msgid "Warning"
+msgstr "تحذير"
+
+msgid "warning"
+msgstr "تحذير"
+
+msgid "Warnings"
+msgstr "التّحذيرات"
+
+msgid "Water"
+msgstr "ماء"
+
+msgid "Wave"
+msgstr "موجة"
+
+msgid "Weak"
+msgstr "ضعيف"
+
+msgid "Weather"
+msgstr "الطقس"
+
+msgid "Web Browser"
+msgstr "متصفّح وبّ"
+
+msgid "Web browser"
+msgstr "متصفح الوب"
+
+msgid "Website"
+msgstr "موقع الوبّ"
+
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+msgid "Week"
+msgstr "الأسبوع"
+
+msgid "Week View"
+msgstr "عرض الأسبوع"
+
+msgid "Weekly"
+msgstr "أسبوعيًا"
+
+msgid "Weeks"
+msgstr "الأسابيع"
+
+msgid "weeks"
+msgstr "أسبوع"
+
+msgid "Weight"
+msgstr "الوزن"
+
+msgid "Welcome"
+msgstr "مرحبًا"
+
+msgid "Welsh"
+msgstr "الغاليّة"
+
+msgid "West"
+msgstr "الغرب"
+
+msgid "Western"
+msgstr "غربي"
+
+msgid "Western Sahara"
+msgstr "الصحراء الغربية"
+
+msgid "What's new"
+msgstr "ما الجديد"
+
+msgid "Wheel"
+msgstr "العجلة"
+
+msgid "Whether sound effects should be played."
+msgstr "إذا كان يمكن تشغيل المؤثرات الصوتية"
+
+msgid "White"
+msgstr "أبيض"
+
+msgid "white"
+msgstr "أبيض"
+
+msgid "White Balance"
+msgstr "توازن الأبيض"
+
+msgid "Wide"
+msgstr "عريض"
+
+msgid "Widgets"
+msgstr "الودجات"
+
+msgid "Width"
+msgstr "العرض"
+
+msgid "&Width"
+msgstr "ال&عرض"
+
+msgid "_Width"
+msgstr "ال_عرض"
+
+msgid "Wi-Fi"
+msgstr "واي فاي"
+
+msgid "Wikipedia"
+msgstr "ويكيبيديا"
+
+msgid "Window"
+msgstr "النافذة"
+
+msgid "&Window"
+msgstr "&نافذة"
+
+msgid "&Window Color Scheme"
+msgstr "&مخطّط ألوان النافذة"
+
+msgid "Window height"
+msgstr "ارتفاع النّافذة"
+
+msgid "Window Management"
+msgstr "إدارة النوافذ"
+
+msgid "Window maximized"
+msgstr "النافذة مكبَّرة"
+
+msgid "Window size"
+msgstr "حجم النافذة"
+
+msgid "Window Title"
+msgstr "عنوان النّافذة"
+
+msgid "Window width"
+msgstr "عرض النّافذة"
+
+msgid "Windows"
+msgstr "النوافذ"
+
+msgid "_Windows"
+msgstr "_نوافذ"
+
+msgid "with"
+msgstr "مع"
+
+msgid "Word"
+msgstr "Word"
+
+msgid "Word Count"
+msgstr "عدد الكلمات"
+
+msgid "Words"
+msgstr "الكلمات"
+
+msgid "Work"
+msgstr "العمل"
+
+msgid "World"
+msgstr "العالم"
+
+msgid "Wrap"
+msgstr "التفاف"
+
+msgid "_Wrap around"
+msgstr "_لف حول"
+
+msgid "Wrap Text"
+msgstr "لفّ النّصّ"
+
+msgid "Write"
+msgstr "الكتابة"
+
+msgid "Writing"
+msgstr "الكتابة"
+
+msgid "X"
+msgstr "س"
+
+msgid "x"
+msgstr "×"
+
+msgid "_X"
+msgstr "_س"
+
+msgid "Y"
+msgstr "ص"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_ص"
+
+msgid "Year"
+msgstr "السنة"
+
+msgid "Yearly"
+msgstr "سنويًا"
+
+msgid "Years"
+msgstr "السنوات"
+
+msgid "years"
+msgstr "سنة"
+
+msgid "Yellow"
+msgstr "أصفر"
+
+msgid "yellow"
+msgstr "أصفر"
+
+msgid "Yemen"
+msgstr "اليمن"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "yes"
+msgstr "نعم"
+
+msgid "_Yes"
+msgstr "_نعم"
+
+msgid "Yesterday"
+msgstr "الأمس"
+
+msgid "Yiddish"
+msgstr "اليديشية"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+
+msgid "Yukon"
+msgstr "يوكون"
+
+msgid "Z"
+msgstr "زيتا"
+
+msgid "Zambia"
+msgstr "زامبيا"
+
+msgid "Zero"
+msgstr "صفر"
+
+msgid "Zimbabwe"
+msgstr "زيمبابوي"
+
+msgid "Zoom"
+msgstr "تكبير"
+
+msgid "&Zoom"
+msgstr "&كبر"
+
+msgid "_Zoom"
+msgstr "_قرّب"
+
+msgid "Zoom In"
+msgstr "قرّب"
+
+msgid "Zoom in"
+msgstr "قرّب"
+
+msgid "Zoom &In"
+msgstr "&قرّب"
+
+msgid "Zoom _In"
+msgstr "_قرّب"
+
+msgid "Zoom Out"
+msgstr "بعّد"
+
+msgid "Zoom out"
+msgstr "بعّد"
+
+msgid "Zoom &Out"
+msgstr "ب&عّد"
+
+msgid "Zoom _Out"
+msgstr "ب_عّد"
+
+msgid "Zoom to Fit"
+msgstr "عدّل الحجم ليناسب النافذة"

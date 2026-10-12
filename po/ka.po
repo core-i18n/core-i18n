@@ -7,1437 +7,9452 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "ხელსაწყოთა მთავარი ზოლი"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "ძირითადი"
+msgid "#"
+msgstr "#"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "წაშლა"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "გაუქმება"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "&ფაილი"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "წაშლა"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "არაფერი"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "სახელი"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "წამყვანი პროგრამისტი"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "სახელი:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "&ჩასწორება"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "&პარამეტრები"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "შეცდომა"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "&ხედი"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "დამატება"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "პაროლი:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "პროგრამისტი"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "ავტორი"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "დახურვა"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "პარამეტრები"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "მორგება"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "უცნობი"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "&ხელსაწყოები"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "ტიპი"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "&წაშლა"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "ჩასწორება"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "შენახვა"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "აღწერა"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "აღწერა:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "თარიღი"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "ფაილი"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "მინიატურა"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "მორგება"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "გარემოს იერსახე"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "პარამეტრები"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "ტიპი:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "ზომა"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "&წაშლა"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "ძებნა"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "ნაგულისხმები"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "მომხმარებელი:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&დახმარება"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "კოპირება"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "შეჩერება"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "ნახვა"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "გაფრთხილება"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "ნორმალური"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "გადარქმევა"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "დიახ"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "დამატებითი"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "არა"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "სტატუსი"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "ტექსტი"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "მნიშვნელობა"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "ფერები"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "ფანჯარა"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "სათაური"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "საწყისი ავტორი"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "ძებნა..."
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "დამატება..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "ინფორმაცია"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "დრო"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "კომენტარი"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "სიმაღლე:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "მარცხენა"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "ახალი"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "გახსნა"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "ზომა:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "სიგანე:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "პორტი:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "მარჯვენა"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "შენახვა როგორც"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "სათაური:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&გატანა"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "ავტომატური"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "გაწმენდა"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "შექმნა"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "გატანა"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "დახმარება"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "დიახ"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "&სახელი:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "ავთენტიკაცია"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "დეტალები"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "ფილტრი"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "იგნორი"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "გამოსახულება"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "მდებარეობა:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "განახლება"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "ყველა"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "ცენტრი"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "ხელით"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "შრიფტი"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "ჩამატება"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "არასდროს"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "ხელსაწყოები"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "დაბრუნება"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "უსახელო"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "&გადასვლა"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "ჩასწორება..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "ჩართულია"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "შემოტანა"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "მდებარეობა"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "ჩამოწევა"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "აწევა"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "ყველას მონიშვნა"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "განახლება"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "&დამატება"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "შესახებ"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "კომენტარი:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "მორგება..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "ფაილის სახელი:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "ზოგადი პარამეტრები"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "შემდეგი"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "სხვა"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "აირჩიეთ"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "თავში"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "ვერტიკალური"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "დაკე&ტვა"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "ავტორი:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "ჩართვა"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "ჰორიზონტალური"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "შემოტანა..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "ბრძანების აღდგენა"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "უარყოფა"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "ჩანაცვლება"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "&ჩასწორება..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "მოქმედებები"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "ყოველთვის"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "სანიშნები"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "თარიღი:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "გატანა..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "ინფორმაცია"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "რიცხვი"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "საწყისი ავტორი"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "დაკვრა"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "თავიდან ჩატვირთვა"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "გაშვება"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "ჭდეები"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "თემა"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "ვის:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "&ახალი"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "დასტური"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "ფონი"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "ფერი:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "ბრძანება"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "გამორთულია"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "დასრულებულია"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "ფონტები"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "ვისგან:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "ხაზი"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "სხვადასხვა"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "ქსელი"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "ჩასმა"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "შეჩერება"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "თანამდებობა"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "უცნობი"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "მორგება"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " მწმ"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "გამოყენება"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "ავტომატური"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "ბოლოში"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "სვეტები"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "ჩამოტვირთვა"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "რედაქტორი"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "ფონტი:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "ფორმატი"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "ვისგან"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "ენა"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "სხვანი"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "ფაილის გახსნა"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "პაროლი"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "მზადაა"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "თავიდან ჩართვა"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "თემა"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "ვის"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "გადიდება"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "&გაუქმება"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "ანგარიში:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "ყველა ფაილი"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "შავი"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "გასქელება"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "გაგრძელება"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "მონაცემები"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "დანიშნულება"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "ელფოტა:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "საქაღალდე"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "ჯგუფი"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "ხატულა:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "დახრა"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "განლაგება"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "საშუალო"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "შეტყობინება"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "დამატებები"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "წინა"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "წითელი"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "შენახვა, როგორც..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "წყარო"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "State"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "უცნობი შეცდომა"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "მაღლა"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "სიგანე"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "სახელი"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "&დამატება.."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "&შენახვა"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "აპლიკაციები"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "უკან"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "ქცევა"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "დიდი და პატარა ასოების განსხვავება"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "გაცვლის ბუფერში კოპირება"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "პროექტის მიმდინარე ხელმძღვანელი"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "პროგრამის შეცდომის პოვნა"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "ფორმატი:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "ხანგრძლივობა"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "ხელით"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "რეჟიმი"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "გამოტანა"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "ბილიკი:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "მდებარეობა:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "მონიშნული"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "გაზიარება"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "სტილი"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "გადიდება"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "დაპატარავება"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "&თამაში"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "&შემოტანა"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&ძებნა"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "ყველა ფაილი (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "ლურჯი"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "ფერი"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "დაკავშირება"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "ქვეყანა"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "დოკუმენტაცია"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "ქვემოთ"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "ელ-ფოსტა"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "ფაილის სახელი"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "საქაღალდეები"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "მწვანე"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "ასლები"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "ჭდე"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "დაბალი"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "თვე"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "დადუმება"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "დატოვება"
-
-#. Occurs in 12 KDE PO files
-msgid "Search…"
-msgstr "ძებნა…"
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "მდგომარეობა:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "ცხრილი"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "იარლიყი"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "ტექსტური ჭდე"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "წელი"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "არა"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "დიახ"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " px"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "&სანიშნეები"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "&ზოგადი"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "&ახალი..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "&გახსნა"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "გაჩერება"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "ანგარიში"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "ანგარიშის მორგება"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "ქმედება"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "ფონის ფერი"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "კატეგორიები"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "კატეგორია"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "კატეგორია:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "ყველას ჩაკეცვა"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "ამოჭრა"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "უკანაბოლოს მონაცემების შეცვლის გარეშე."
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "ყველას ამოკეცვა"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "ფაილის სახელი"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter..."
-msgstr "გაფილტვრა..."
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "ფილტრი:"
-
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "ნაგულისხმები რაუტერი:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "გეომეტრია"
-
-#. Occurs in 11 KDE PO files
-msgid "Harald Sitter"
-msgstr "Harald Sitter"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "სიმაღლე"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "საწყისი"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "ხატულები"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "გასაღები"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "ხაზები"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "სია"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "იტვირთება..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "თვე"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "გადატანა"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "მეტსახელი:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "შენიშვნა"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "შემცველი საქაღალდის გახსნა"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "ჩავანაცვლო ფაილი?"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "გადატვრთვა"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "გაშვება"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "ძებნა:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "გაგზავნა"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "სერვერი:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "სიჩქარე"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "ბმული"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "URL:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "მომხმარებელი:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "წუთი"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "შეცდომა"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "&კოპირება"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr "?"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " და "
+
+msgid " (default)"
+msgstr " (ნაგულისხმევი)"
+
+msgid "© KDE Community"
+msgstr "© KDE-ის საზოგადოება"
+
+msgid " MB"
+msgstr " მბ"
+
+msgid " MiB"
+msgstr " მიბ"
+
+msgid " min"
+msgstr " წთ"
+
+msgid " minutes"
+msgstr " წუთი"
+
+msgid " ms"
+msgstr " მწმ"
+
+msgid " px"
+msgstr " px"
+
+msgid " s"
+msgstr " წმ"
+
+msgid " sec"
+msgstr " წმ"
+
+msgid " seconds"
+msgstr " წამი"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 %"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 და %2"
+
+msgid "%1 bytes"
+msgstr "%1 ბაიტი"
+
+msgid "1 day"
+msgstr "1 დღე"
+
+msgid "%1 does not exist"
+msgstr "%1 არ არსებობს"
+
+msgid "%1 free"
+msgstr "%1 თავისუფალია"
+
+msgid "1 hour"
+msgstr "1 საათი"
+
+msgid "%1 Hz"
+msgstr "%1 ჰც"
+
+msgid "%1 MB"
+msgstr "%1 მბ"
+
+msgid "%1 ms"
+msgstr "%1 მწმ"
+
+msgid "%1 of %2"
+msgstr "%1 %2-დან"
+
+msgid "%1 on %2"
+msgstr "%1 %2-ზე"
+
+msgid "%1 s"
+msgstr "%1 წმ"
+
+msgid "%1 seconds"
+msgstr "%1 წამი"
+
+msgid "%1 to %2"
+msgstr "%1 %2-მდე"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 წუთი"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "128 ბიტი"
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 წუთი"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1მ"
+
+msgid "%1/s"
+msgstr "%1/წმ"
+
+msgid "1st"
+msgstr "პირველი"
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "2nd"
+msgstr "მეორე"
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 წუთი"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "მესამე"
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "მეოთხე"
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 წუთი"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr "მეხუთე"
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "ფაილი \"%1\" სახელით უკვე არსებობს. შევცვალო?"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
 msgstr "შეწყვეტა"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "დამატებითი პარამეტრები"
-
-#. Occurs in 10 KDE PO files
-msgid "Album"
-msgstr "ალბომი"
-
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
-
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
-
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
+msgid "&Abort"
 msgstr "გაუქმება"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "ისტორიის გაწმენდა"
+msgid "Aborted"
+msgstr "შეწყვეტილია"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "შეკუმშვა"
+msgid "About"
+msgstr "შესახებ"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "კონტაქტები"
+msgid "&About"
+msgstr "შ&ესახებ"
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "საავტორო უფლებები"
+msgid "_About"
+msgstr "_შესახებ"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "მოწყობიობა:"
+msgid "About %1"
+msgstr "%1-ის შესახებ"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "გათიშვა"
+msgid "About KDE"
+msgstr "KDE-ის შესახებ"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "ხანგრძლოვობა"
+msgid "Abstract"
+msgstr "ანოტაცია"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "შეცდომა: %1"
+msgid "Accept"
+msgstr "დასტური"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Accepted"
+msgstr "მიღებულია"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "ფაილი:"
+msgid "Accessed"
+msgstr "ბოლო წვდომა"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "ფაილები"
+msgid "Accessibility"
+msgstr "წვდომადობა"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "მოძებნა"
+msgid "Account"
+msgstr "ანგარიში"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "ფუნქცია"
+msgid "Account Details"
+msgstr "ანგარშის დეტალები"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "ჯგუფი:"
+msgid "Account Information"
+msgstr "ანგარიშის ინფორმაცია"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "მენიუს ზოლის დამალვა"
+msgid "Account Name"
+msgstr "ანგარიშის სახელი"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "მაღალი"
+msgid "Accounts"
+msgstr "ანგარიშები"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "ისტორია"
+msgid "Accuracy"
+msgstr "სიზუსტე"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "Action"
+msgstr "ქმედება"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "აწევა"
+msgid "Actions"
+msgstr "ქმედებები"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "გაფრთხილებები"
+msgid "Activate"
+msgstr "აქტივაცია"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "ორგანიზაცია"
+msgid "Active"
+msgstr "აქტიური"
 
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "ბილიკი"
+msgid "Activities"
+msgstr "ქმედებები"
 
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "პორტი"
+msgid "Activity"
+msgstr "აქტივობა"
 
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "პრიორიტეტი"
+msgid "Adaptive"
+msgstr "შეგუებადი"
 
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "პრიორიტეტი:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "პროექტი"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "ჯგუფის წაშლა"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "გამოტოვება"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "დღეს"
-
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "მნიშვნელობა:"
-
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "ვერსია"
-
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "ვერსია:"
-
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "ვიდეო"
-
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "წელი"
-
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
 msgid "Add"
 msgstr "დამატება"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
+msgid "&Add"
+msgstr "&დამატება"
+
+msgid "_Add"
+msgstr "_დამატება"
+
+msgid "Add..."
+msgstr "დამატება..."
+
+msgid "&Add..."
+msgstr "&დამატება.."
+
+msgid "A&dd..."
+msgstr "&დამატება…"
+
+msgid "Add Account"
+msgstr "ანგარიშის დამატება"
+
+msgid "Add Bookmark"
+msgstr "სანიშნის დამატება"
+
+msgid "_Add Bookmark"
+msgstr "სანიშნეს დ_ამატება"
+
+msgid "Add Filter"
+msgstr "ფილტრის დამატება"
+
+msgid "Add Folder"
+msgstr "საქაღალდის დამატება"
+
+msgid "Add Folder..."
+msgstr "საქაღალდის დამატება…"
+
+msgid "Add Group"
+msgstr "ჯგუფის დამატება"
+
+msgid "Add New"
+msgstr "ახლის დამატება"
+
+msgid "Add Rule..."
+msgstr "წესის დამატება…"
+
+msgid "Add Tag"
+msgstr "ჭდის დამატება"
+
+msgid "Add tag"
+msgstr "ჭდის დამატება"
+
+msgid "Add to Dictionary"
+msgstr "სიტყვის ლექსიკონში ჩამატება"
+
+msgid "Add to Favorites"
+msgstr "რჩეულებში დამატება"
+
+msgid "Added"
+msgstr "დამატებულია"
+
+msgid "Addition"
+msgstr "დამატება"
+
+msgid "Additional Information"
+msgstr "დამატებითი ინფორმაცია"
+
+msgid "Address"
+msgstr "მისამართი"
+
+msgid "Address Book"
+msgstr "მისამართების წიგნი"
+
+msgid "Addresses"
+msgstr "მისამართები"
+
+msgid "Adjust"
+msgstr "მორგება"
+
+msgid "Advanced"
+msgstr "დამატებითი"
+
+msgid "Advanced..."
+msgstr "დამატებით…"
+
+msgid "Ad_vanced..."
+msgstr "_დამატებით…"
+
+msgid "Advanced options"
+msgstr "დამატებითი პარამეტრები"
+
+msgid "Advanced Properties"
+msgstr "დამატებითი თვისებები"
+
+msgid "Advanced Settings"
+msgstr "დამატებითი პარამეტრები"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "ავღანეთი"
+
+msgid "Africa"
+msgstr "აფრიკა"
+
+msgid "Afrikaans"
+msgstr "აფრიკაანსი"
+
+msgid "After"
+msgstr "შემდეგ"
+
+msgid "Agenda"
+msgstr "დღის წესრიგი"
+
+msgid "Alarm"
+msgstr "მაღვიძარა"
+
+msgid "Alarms"
+msgstr "მაღვიძარა"
+
+msgid "Albania"
+msgstr "ალბანეთი"
+
+msgid "Albanian"
+msgstr "ალბანური"
+
+msgid "Albert Vaca Cintora"
+msgstr "Albert Vaca Cintora"
+
+msgid "Album"
+msgstr "ალბომი"
+
+msgid "Album Artist"
+msgstr "ალბომი შემსრულებელი"
+
+msgid "Albums"
+msgstr "ალბომები"
+
+msgid "Alert"
+msgstr "გაფრთხილება"
+
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+msgid "Algeria"
+msgstr "ალჟირი"
+
+msgid "Algorithm"
+msgstr "ალგორითმი"
+
+msgid "Alias"
+msgstr "სინონიმი"
+
+msgid "Aliases"
+msgstr "მეტსახელები"
+
+msgid "Align"
+msgstr "სწორება"
+
+msgid "Align Bottom"
+msgstr "ძირის სწორება"
+
+msgid "Align Center"
+msgstr "ცენტრზე სწორება"
+
+msgid "Align Left"
+msgstr "მარცხნივ სწორება"
+
+msgid "Align left"
+msgstr "მარცხნვ სწორება"
+
+msgid "Align Right"
+msgstr "მარჯვნივ სწორება"
+
+msgid "Align right"
+msgstr "მარჯვნივ სწორება"
+
+msgid "Align Top"
+msgstr "ზემოთ სწორება"
+
+msgid "Alignment"
+msgstr "სწორება"
+
+msgid "All"
+msgstr "ყველა"
+
+msgid "all"
+msgstr "ყველა"
+
+msgid "_All"
+msgstr "_ყველა"
+
+msgid "All Files"
+msgstr "ყველა ფაილი"
+
+msgid "All files"
+msgstr "ყველა ფაილი"
+
+msgid "All Files (*)"
+msgstr "ყველა ფაილი (*)"
+
+msgid "All files (*)"
+msgstr "ყველა ფაილი (*)"
+
+msgid "All Supported Files"
+msgstr "ყველა მხარდაჭერილი ფაილი"
+
+msgid "Allen Winter"
+msgstr "Allen Winter"
+
+msgid "Allow"
+msgstr "დაშვება"
+
+msgid "Allow Deflate compression"
+msgstr "Deflate შეკუმშვის ჩართვა"
+
+msgid "Alpha"
+msgstr "ალფა"
+
+msgid "Alphabetically"
+msgstr "ანბანის მიხედვით"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "სხვები"
+
+msgid "Always"
+msgstr "ყოველთვის"
+
+msgid "Always ask"
+msgstr "ყოველთვის კითხვა"
+
+msgid "Always visible"
+msgstr "ყოველთვის ხილული"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Ambient"
+msgstr "ემბიენთი"
+
+msgid "Amount"
+msgstr "რაოდენობა"
+
+msgid "An error occurred"
+msgstr "შეცდომა"
+
+msgid "An unknown error occurred."
+msgstr "უცნობი შეცდომა."
+
+msgid "Analysis"
+msgstr "ანალიზი"
+
+msgid "Anchor"
+msgstr "ბმული"
+
+msgid "AND"
+msgstr "და"
+
+msgid "and"
+msgstr "და"
+
+msgid "Andorra"
+msgstr "ანდორა"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "კუთხე"
+
+msgid "angle"
+msgstr "კუთხე"
+
+msgid "Angola"
+msgstr "ანგოლა"
+
+msgid "Animation"
+msgstr "ანიმაცია"
+
+msgid "Animations"
+msgstr "ანიმაციები"
+
+msgid "Anniversary"
+msgstr "აღნიშვნა"
+
+msgid "Annotate"
+msgstr "ანოტაცია"
+
+msgid "Annotation"
+msgstr "ანოტაცია"
+
+msgid "Annotations"
+msgstr "ანოტაციები"
+
+msgid "Anonymous"
+msgstr "ანონიმურად"
+
+msgid "Antarctica"
+msgstr "ანტარქტიკა"
+
+msgid "Any"
+msgstr "ნებისმიერი"
+
+msgid "Aperture"
+msgstr "დიაფრაგმის მნიშვნელობა"
+
+msgid "Appearance"
+msgstr "გარემოს იერსახე"
+
+msgid "Append"
+msgstr "მიმატება"
+
+msgid "AppImage"
+msgstr "AppImage"
+
+msgid "Application"
+msgstr "აპლიკაცია"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "აპლიკაციების მენიუ"
+
+msgid "Applications"
+msgstr "აპლიკაციები"
+
+msgid "Apply"
+msgstr "გადატარება"
+
+msgid "&Apply"
+msgstr "გამოყენება"
+
+msgid "_Apply"
+msgstr "_გადატარება"
+
+msgid "Apply Settings"
+msgstr "პარამეტრების გადატარება"
+
+msgid "April"
+msgstr "აპრილი"
+
+msgid "Arabic"
+msgstr "არაბული"
+
+msgid "Archive"
+msgstr "არქივი"
+
+msgid "Archives"
+msgstr "არქივები"
+
+msgid "Area"
+msgstr "ფართობი"
+
+msgid "Argentina"
+msgstr "არგენტინა"
+
+msgid "Arguments"
+msgstr "არგუმენტები"
+
+msgid "Armenia"
+msgstr "სომხეთი"
+
+msgid "Armenian"
+msgstr "სომხური"
+
+msgid "Arrow"
+msgstr "ისარი"
+
+msgid "Arrows"
+msgstr "ისრები"
+
+msgid "Articles"
+msgstr "სტატიები"
+
+msgid "Artist"
+msgstr "შემსრულებელი"
+
+msgid "Artists"
+msgstr "შემსრულებლები"
+
+msgid "Artwork"
+msgstr "ნამუშევრები"
+
+msgid "Ascending"
+msgstr "ზრდის მიხედვით"
+
+msgid "Asia"
+msgstr "აზია"
+
+msgid "Ask"
+msgstr "კითხვა"
+
+msgid "Aspect Ratio"
+msgstr "თანაფარდობა"
+
+msgid "Aspect ratio"
+msgstr "თანაფარდობა"
+
+msgid "Assamese"
+msgstr "ასამური"
+
+msgid "Assign Tags"
+msgstr "ჭდეების მინიჭება"
+
+msgid "Assistant"
+msgstr "დამხმარე"
+
+msgid "ATM"
+msgstr "ATM"
+
+msgid "Attach"
+msgstr "მიმაგრება"
+
+msgid "Attach File"
+msgstr "ფაილის მიმაგრება"
+
+msgid "Attachment"
+msgstr "დანართი"
+
+msgid "Attachments"
+msgstr "დანართი"
+
+msgid "Attendees"
+msgstr "დამსწრეები"
+
+msgid "Attribute"
+msgstr "ატრიბუტი"
+
+msgid "Attributes"
+msgstr "ატრიბუტები"
+
+msgid "Audio"
+msgstr "აუდიო"
+
+msgid "Audio CD"
+msgstr "აუდიო CD"
+
+msgid "Audio Codec"
+msgstr "აუდიო კოდეკი"
+
+msgid "Audio files"
+msgstr "აუდიო ფაილები"
+
+msgid "August"
+msgstr "აგვისტო"
+
+msgid "Australia"
+msgstr "ავსტრალია"
+
+msgid "Austria"
+msgstr "ავსტრია"
+
+msgid "Authenticate"
+msgstr "ავთენტიკაცია"
+
+msgid "Authenticate VPN"
+msgstr "VPN-ის ავთენტიკაცია"
+
+msgid "Authentication"
+msgstr "ავთენტიკაცია"
+
+msgid "Authentication Required"
+msgstr "საჭროა ავთენტიკაცია"
+
+msgid "Author"
+msgstr "ავტორი"
+
+msgid "Authors"
+msgstr "ავტორები"
+
+msgid "Auto"
+msgstr "ავტო"
+
+msgid "auto"
+msgstr "ავტომატური"
+
+msgid "Auto Detect"
+msgstr "ავტომატური გამოცნობა"
+
+msgid "Auto Save"
+msgstr "ავტომატური შენახვა"
+
+msgid "Autodetect"
+msgstr "ავტოამოცნობა"
+
+msgid "Automatic"
+msgstr "ავტომატური"
+
+msgid "Autosave interval"
+msgstr "ავტომატური შენახვის ინტერვალი"
+
+msgid "Available"
+msgstr "ხელმისაწვდომია"
+
+msgid "A&vailable actions"
+msgstr "&შესაძლო ქმედებები"
+
+msgid "Average"
+msgstr "საშუალო"
+
+msgid "Axes"
+msgstr "ღერძები"
+
+msgid "Azerbaijan"
+msgstr "აზერბაიჯანი"
+
+msgid "Azerbaijani"
+msgstr "აზერბაიჯანული"
+
+msgid "B"
+msgstr "ბ"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "უკან"
+
+msgid "&Back"
+msgstr "&უკან"
+
+msgid "_Back"
+msgstr "_უკან"
+
+msgid "Background"
+msgstr "ფონი"
+
+msgid "Background Color"
+msgstr "ფონის ფერი"
+
+msgid "Background color"
+msgstr "ფონის ფერი"
+
+msgid "&Background color"
+msgstr "&ფონის ფერი"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "მარქაფი"
+
+msgid "Bahamas"
+msgstr "ბაჰამის კუნძულები"
+
+msgid "Bahrain"
+msgstr "ბაჰრეინი"
+
+msgid "Balance"
+msgstr "ბალანსი"
+
+msgid "Balanced"
+msgstr "ბალანსირებული"
+
+msgid "Baltic"
+msgstr "ბალტიისპირეთის"
+
+msgid "Bangladesh"
+msgstr "ბანგლადეში"
+
+msgid "Bank"
+msgstr "ბანკი"
+
+msgid "Bar"
+msgstr "ზოლი"
+
+msgid "Barbados"
+msgstr "ბარბადოსი"
+
+msgid "Base"
+msgstr "საბაზისო"
+
+msgid "Basic"
+msgstr "საწყისი"
+
+msgid "Basque"
+msgstr "ბასკური"
+
+msgid "Bass"
+msgstr "ბასი"
+
+msgid "Battery"
+msgstr "ელემენტი"
+
+msgid "Bcc"
+msgstr "ფარულიასლი"
+
+msgid "Before"
+msgstr "ჯერ"
+
+msgid "Behavior"
+msgstr "ქცევა"
+
+msgid "Belarus"
+msgstr "ბელარუსი"
+
+msgid "Belarusian"
+msgstr "ბელორუსული"
+
+msgid "Belgium"
+msgstr "ბელგია"
+
+msgid "Belize"
+msgstr "ბელიზი"
+
+msgid "Bengali"
+msgstr "ბენგალური"
+
+msgid "Benin"
+msgstr "ბენინი"
+
+msgid "Best"
+msgstr "საუკეთესო"
+
+msgid "Bhutan"
+msgstr "ბუტანი"
+
+msgid "Bibliography"
+msgstr "ბიბლიოგრაფია"
+
+msgid "Binary"
+msgstr "ბინარული"
+
+msgid "Birthday"
+msgstr "დაბადების დღე"
+
+msgid "Bitrate"
+msgstr "სიჩქარე"
+
+msgid "Black"
+msgstr "შავი"
+
+msgid "black"
+msgstr "შავი"
+
+msgid "Blend"
+msgstr "შერევა"
+
+msgid "Block"
+msgstr "დაბლოკვა"
+
+msgid "Block Elements"
+msgstr "ბლოკის ელემენტები"
+
+msgid "Blocked"
+msgstr "დაბლოკილია"
+
+msgid "Blue"
+msgstr "ლურჯი"
+
+msgid "Blues"
+msgstr "ბლუზი"
+
+msgid "Bluetooth"
+msgstr "ბლუთუზი"
+
+msgid "Blur"
+msgstr "ბუნდოვნება"
+
+msgid "<b>Name:</b>"
+msgstr "<b>სახელი:</b> %1<br/>"
+
+msgid "Body"
+msgstr "სხეული"
+
+msgid "Bold"
+msgstr "გასქელება"
+
+msgid "&Bold"
+msgstr "&სქელი"
+
+msgid "_Bold"
+msgstr "_სქელი"
+
+msgid "Bold text"
+msgstr "მსხვილი ტექსტი"
+
+msgid "Bolivia"
+msgstr "ბოლივია"
+
+msgid "Book"
+msgstr "წიგნი"
+
+msgid "Bookmark"
+msgstr "სანიშნე"
+
+msgid "Bookmarks"
+msgstr "სანიშნები"
+
+msgid "&Bookmarks"
+msgstr "&სანიშნეები"
+
+msgid "_Bookmarks"
+msgstr "_სანიშნები"
+
+msgid "Boolean"
+msgstr "ბულევი"
+
+msgid "Border"
+msgstr "საზღვარი"
+
+msgid "Bosnian"
+msgstr "ბოსნიური"
+
+msgid "Both"
+msgstr "ორივე"
+
+msgid "Botswana"
+msgstr "ბოცვანა"
+
+msgid "Bottom"
+msgstr "ბოლოში"
+
+msgid "_Bottom"
+msgstr "_ბოლოში"
+
+msgid "Bottom Left"
+msgstr "ქვედა მარცხენა"
+
+msgid "Bottom Right"
+msgstr "ქვედა მარჯვენა"
+
+msgid "Bottom-left"
+msgstr "ქვედა მარცხენა"
+
+msgid "Bottom-right"
+msgstr "ქვედა მარჯვენა"
+
+msgid "Box"
+msgstr "ყუთი"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Branch"
+msgstr "ბრენჩი"
+
+msgid "Brazil"
+msgstr "ბრაზილია"
+
+msgid "Breeze"
+msgstr "Breeze"
+
+msgid "Breeze by the KDE VDG"
+msgstr "Breeze KDE VDG-სგან"
+
+msgid "Breeze Dark"
+msgstr "Breeze Dark"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "Breeze Dark \"KDE VDG\"-სგან"
+
+msgid "Breton"
+msgstr "ბრეტონული"
+
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+msgid "Bridge"
+msgstr "ხიდი"
+
+msgid "Brightness"
+msgstr "სიკაშკაშე"
+
+msgid "Broken"
+msgstr "გაფუჭებული"
+
+msgid "Browse"
+msgstr "დათვალიერება"
+
+msgid "Browse..."
+msgstr "არჩევა..."
+
+msgid "_Browse..."
+msgstr "_დათვალიერება..."
+
+msgid "Browser"
+msgstr "Browser-ი"
+
+msgid "Buffer"
+msgstr "ბaფერი"
+
+msgid "Bug fixes"
+msgstr "შეცდომების გასწორება"
+
+msgid "Build"
+msgstr "აგება"
+
+msgid "Built-in Screen"
+msgstr "ჩაშენებული ეკრანი"
+
+msgid "Bulgaria"
+msgstr "ბულგარეთი"
+
+msgid "Bulgarian"
+msgstr "ბულგარული"
+
+msgid "Burkina Faso"
+msgstr "ბურკინა ფასო"
+
+msgid "Burn"
+msgstr "გამუქება"
+
+msgid "Burundi"
+msgstr "ბურუნდი"
+
+msgid "Bus"
+msgstr "მატარებელი"
+
+msgid "Busy"
+msgstr "დაკავებული"
+
+msgid "Butt"
+msgstr "სქელი"
+
+msgid "Button"
+msgstr "ღილაკი"
+
+msgid "Buttons"
+msgstr "ღილაკები"
+
+msgid "by"
+msgstr "ავტორი"
+
+msgid "By %1"
+msgstr "%1-სგან"
+
+msgid "By extension"
+msgstr "გაფართოებით"
+
+msgid "Bytes"
+msgstr "ბაიტი"
+
+msgid "bytes"
+msgstr "ბაიტები"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "CA სერტიფიკატი"
+
+msgid "Cache"
+msgstr "კეში"
+
+msgid "Calculate"
+msgstr "გამოთვლა"
+
+msgid "Calculating..."
+msgstr "გაანგარიშება..."
+
+msgid "Calculator"
+msgstr "კალკულატორი"
+
+msgid "Calendar"
+msgstr "კალენდარი"
+
+msgid "Calendars"
+msgstr "კალენდრები"
+
+msgid "Call"
+msgstr "ზარი"
+
+msgid "Calls"
+msgstr "ზარები"
+
+msgid "Cambodia"
+msgstr "კამბოჯა"
+
+msgid "Camera"
+msgstr "კამერა"
+
+msgid "Cameroon"
+msgstr "კამერუნი"
+
+msgid "Canada"
+msgstr "კანადა"
+
 msgid "Cancel"
 msgstr "გაუქმება"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "&Cancel"
+msgstr "&შეწყვეტა"
+
+msgid "_Cancel"
+msgstr "_გაუქმება"
+
+msgid "C&ancel"
+msgstr "გაუქმება"
+
+msgid "Canceled"
+msgstr "გაუქმებულია"
+
+msgid "Cancelled"
+msgstr "შეწყვეტილია"
+
+msgid "cannot load editor plugin: %s"
+msgstr "რედაქტორის დამატების ჩატვირთვა შეუძლებელია: %s"
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr "დამატებიდან ქარხნის (%s) ჩატვირთვა შეუძლებელია: %s"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "ტილო"
+
+msgid "Capabilities"
+msgstr "შესაძლებლობები"
+
+msgid "Capacity"
+msgstr "მოცულობა"
+
+msgid "Cape Verde"
+msgstr "კაბო ვერდე"
+
+msgid "Capitalize"
+msgstr "დიდი ასოთი აღნიშვნა"
+
+msgid "Caps Lock is on"
+msgstr "CapsLock ჩართულია"
+
+msgid "Capture"
+msgstr "ჩაჭერა"
+
+msgid "Car"
+msgstr "მანქანა"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "კასკადი"
+
+msgid "Case Sensitive"
+msgstr "დიდი ასოს გმრძნობიარე"
+
+msgid "Case sensitive"
+msgstr "დიდი და პატარა ასოების განსხვავება"
+
+msgid "Castle"
+msgstr "სასახლე"
+
+msgid "Catalan"
+msgstr "კატალანური"
+
+msgid "Categories"
+msgstr "კატეგორიები"
+
+msgid "Category"
+msgstr "კატეგორია"
+
+msgid "CC"
+msgstr "CC"
+
+msgid "Cc"
+msgstr "ასლი"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "უჯრედი"
+
+msgid "Celsius"
+msgstr "ცელსიუსი"
+
+msgid "Celtic"
+msgstr "კელტური"
+
+msgid "Center"
+msgstr "ცენტრი"
+
+msgid "Centered"
+msgstr "შუაზე გასწორებული"
+
+msgid "Centimeters"
+msgstr "სანტიმეტრი"
+
+msgid "Centimeters (cm)"
+msgstr "სანტიმეტრი (სმ)"
+
+msgid "Central"
+msgstr "ცენტრალური"
+
+msgid "Central African Republic"
+msgstr "ცენტრალური აფრიკის რესპუბლიკა"
+
+msgid "Central European"
+msgstr "ცენტრალურ ევროპული"
+
+msgid "Certificate"
+msgstr "სერტიფიკატი"
+
+msgid "Certificates (TLS)"
+msgstr "სერტიფიკატები (TLS)"
+
+msgid "Chad"
+msgstr "ჩადი"
+
+msgid "Change"
+msgstr "შეცვლა"
+
+msgid "Change..."
+msgstr "შეცვლა..."
+
+msgid "Changed"
+msgstr "შეცვლილია"
+
+msgid "Channel"
+msgstr "არხი"
+
+msgid "Channels"
+msgstr "არხები"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "თავი"
+
+msgid "Chapters"
+msgstr "თავები"
+
+msgid "Character"
+msgstr "სიმბოლო"
+
+msgid "Characters"
+msgstr "სიმბოლოები"
+
+msgid "Charging"
+msgstr "იტენება"
+
+msgid "Chart"
+msgstr "გრაფიკი"
+
+msgid "Chat"
+msgstr "ჩატი"
+
+msgid "Check"
+msgstr "შემოწმება"
+
+msgid "Check for updates"
+msgstr "განახლებების შემოწმება"
+
+msgid "Check Spelling"
+msgstr "მართლწერის შემოწმება"
+
+msgid "Checkbox"
+msgstr "ჩასართავი"
+
+msgid "Checkout"
+msgstr "წამოღება"
+
+msgid "Cherokee"
+msgstr "ჩეროკი"
+
+msgid "Children"
+msgstr "ბავშვები"
+
+msgid "Chile"
+msgstr "ჩილე"
+
+msgid "China"
+msgstr "ჩინეთი"
+
+msgid "Chinese"
+msgstr "ჩინური"
+
+msgid "Chinese Simplified"
+msgstr "ჩინური გაადვილებული"
+
+msgid "Chinese Traditional"
+msgstr "ჩინური ტრადიციული"
+
+msgid "Choose"
+msgstr "არჩევა"
+
+msgid "Choose..."
+msgstr "აირჩიეთ..."
+
+msgid "Cinema"
+msgstr "კინო"
+
+msgid "Circle"
+msgstr "წრე"
+
+msgid "City"
+msgstr "ქალაქი"
+
+msgid "Class"
+msgstr "კლასი"
+
+msgid "Classes"
+msgstr "კლასები"
+
+msgid "Classic"
+msgstr "კლასიკური"
+
+msgid "Classical"
+msgstr "კლასიკა"
+
+msgid "Clean"
+msgstr "გასუფთავება"
+
+msgid "Cleanup"
+msgstr "გასუფთავება"
+
+msgid "Clear"
+msgstr "გაწმენდა"
+
+msgid "&Clear"
+msgstr "&გასუფთავება"
+
+msgid "_Clear"
+msgstr "გასუფთავება"
+
+msgid "C&lear"
+msgstr "გასუ&ფთავება"
+
+msgid "Clear All"
+msgstr "ყველას გასუფთავება"
+
+msgid "Clear History"
+msgstr "ისტორიის გაწმენდა"
+
+msgid "Clear history"
+msgstr "ისტორიის გაწმენდა"
+
+msgid "Clear List"
+msgstr "სიის გასუფთავება"
+
+msgid "Client"
+msgstr "კლიენტი"
+
+msgid "Clip"
+msgstr "Clip"
+
+msgid "Clipboard"
+msgstr "გაცვლის ბაფერი"
+
+msgid "Clock"
+msgstr "საათი"
+
+msgid "Clockwise"
+msgstr "საათის ისრის მიმართულებით"
+
+msgid "Clone"
+msgstr "კლონირება"
+
+msgid "Close"
+msgstr "დახურვა"
+
+msgid "&Close"
+msgstr "დაკე&ტვა"
+
+msgid "_Close"
+msgstr "_დახურვა"
+
+msgid "Close All"
+msgstr "ყველას დახურვა"
+
+msgid "Close Document"
+msgstr "დოკუმენტის დახურვა"
+
+msgid "Close message"
+msgstr "შეტყობინების დახურვა"
+
+msgid "Close Tab"
+msgstr "ჩანართის დახურვა"
+
+msgid "Close tab"
+msgstr "ჩანართის დახურვა"
+
+msgid "Close the current tab"
+msgstr "მიმდინარე ჩანართის დახურვა"
+
+msgid "Close this window"
+msgstr "ამ ფანჯრის დახურვა"
+
+msgid "Close Window"
+msgstr "ფანჯრის დახურვა"
+
+msgid "Close window"
+msgstr "ფანჯრის დახურვა"
+
+msgid "Close _without Saving"
+msgstr "დახურვა _შენახვის გარეშე"
+
+msgid "Closed"
+msgstr "დახურულია"
+
+msgid "Cloud"
+msgstr "ღრუბელი"
+
+msgid "cm"
+msgstr "სმ"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "კოდი"
+
+msgid "code"
+msgstr "კოდი"
+
+msgid "Codec"
+msgstr "კოდეკი"
+
+msgid "Collapse"
+msgstr "აკეცვა"
+
+msgid "Collapse All"
+msgstr "ყველას ჩაკეცვა"
+
+msgid "Collection"
+msgstr "კოლექცია"
+
+msgid "Collections"
+msgstr "კოლექციები"
+
+msgid "Colombia"
+msgstr "კოლუმბია"
+
+msgid "Color"
+msgstr "ფერი"
+
+msgid "color"
+msgstr "ფერი"
+
+msgid "&Color"
+msgstr "&ფერი"
+
+msgid "Color Balance"
+msgstr "ფერების ბალანსი"
+
+msgid "Color Management"
+msgstr "ფერების მართვა"
+
+msgid "Color Mode"
+msgstr "ფერის რეჟიმი"
+
+msgid "Color Picker"
+msgstr "ფერის ამრჩევი"
+
+msgid "Color Scheme"
+msgstr "ფერების სქემა"
+
+msgid "Color scheme"
+msgstr "ფერების სქემა"
+
+msgid "Color Space"
+msgstr "ფერის სივრცე"
+
+msgid "Color theme"
+msgstr "ფერის თემა"
+
+msgid "Colorize"
+msgstr "გაფერადება"
+
+msgid "Colors"
+msgstr "ფერები"
+
+msgid "Column"
+msgstr "სვეტი"
+
+msgid "Column %1"
+msgstr "სვეტი %1"
+
+msgid "Columns"
+msgstr "სვეტები"
+
+msgid "Comma"
+msgstr "მძიმე"
+
+msgid "COMMAND"
+msgstr "ბრძანება"
+
+msgid "Command"
+msgstr "ბრძანება"
+
+msgid "command"
+msgstr "ბრძანება"
+
+msgid "Command Line"
+msgstr "ბრძანების სტრიქონი"
+
+msgid "Command to execute"
+msgstr "შესასრულებელი ბრძანება"
+
+msgid "Commands"
+msgstr "ბრძანებები"
+
+msgid "Comment"
+msgstr "კომენტარი"
+
+msgid "Comments"
+msgstr "კომენტარები"
+
+msgid "Commit"
+msgstr "გადაცემა"
+
+msgid "Common"
+msgstr "ჩვეულებრივი"
+
+msgid "Comoros"
+msgstr "კომორი"
+
+msgid "Compact"
+msgstr "დაპატარავება"
+
+msgid "Compare"
+msgstr "შედარება"
+
+msgid "Complete"
+msgstr "დასრულებულია"
+
+msgid "Completed"
+msgstr "დასრულებულია"
+
+msgid "Completion"
+msgstr "დასრულება"
+
+msgid "Component"
+msgstr "კომპონენტი"
+
+msgid "Components"
+msgstr "კომპონენტები"
+
+msgid "Composer"
+msgstr "კომპოზიტორი"
+
+msgid "Composition"
+msgstr "შემადგენლობა"
+
+msgid "Compress"
+msgstr "შეკუმშვა"
+
+msgid "Compression"
+msgstr "შეკუმშვა"
+
+msgid "Computer"
+msgstr "კომპიუტერი"
+
+msgid "Condition"
+msgstr "მდგომარეობა"
+
+msgid "Confidential"
+msgstr "კონფიდენციალური"
+
+msgid "Configuration"
+msgstr "გამართვა"
+
+msgid "Configure"
+msgstr "მორგება"
+
+msgid "Configure..."
+msgstr "მორგება..."
+
+msgid "Configure %1"
+msgstr "%1-ის მორგება"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "კლავიატურის მალსახმობების კონფიგურაცია"
+
+msgid "Configure Plugins"
+msgstr "დამატებების მორგება"
+
+msgid "Configure Toolbars"
+msgstr "ხელსაწყოთა ზოლების გამართვა"
+
+msgid "Configure Web Shortcuts..."
+msgstr "ვებ მალსახმობების მორგება..."
+
+msgid "Confirm"
+msgstr "დადასტურება"
+
+msgid "Confirmation"
+msgstr "დასტური"
+
+msgid "Confirmation Required"
+msgstr "საჭიროა თანხმობა"
+
+msgid "Confirmed"
+msgstr "დადასტურდა"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "კონფლიქტი პროგრამის სტანდარტულ მალსახმობთან"
+
+msgid "Connect"
+msgstr "დაკავშირება"
+
+msgid "C_onnect"
+msgstr "_კავშირი"
+
+msgid "Connected"
+msgstr "დაკავშირებულია"
+
+msgid "Connecting"
+msgstr "დაკავშირება"
+
+msgid "Connecting..."
+msgstr "დაკავშირება..."
+
+msgid "Connection"
+msgstr "კავშირი"
+
+msgid "Connection Failed"
+msgstr "კავშირის შეცდომა"
+
+msgid "Connection Settings"
+msgstr "შეერთების მორგება"
+
+msgid "Connections"
+msgstr "კავშირები"
+
+msgid "Console"
+msgstr "კონსოლი"
+
+msgid "Constant"
+msgstr "კონსტანტა"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr "აგებული თვისების \"%s\" დაყენება ობიექტის (\"%s\") აგების შემდეგ შეუძლებელია"
+
+msgid "Contact"
+msgstr "კონტაქტი"
+
+msgid "Contacts"
+msgstr "კონტაქტები"
+
+msgid "Container"
+msgstr "კონტეინერი"
+
+msgid "Contains"
+msgstr "შეიცავს"
+
+msgid "contains"
+msgstr "შეიცავს"
+
+msgid "Content"
+msgstr "შემცველობა"
+
+msgid "Content Type"
+msgstr "შემცველობის ტიპი"
+
+msgid "Contents"
+msgstr "შიგთავსი"
+
+msgid "_Contents"
+msgstr "_შინაარსი"
+
+msgid "Context"
+msgstr "კონტექსტი"
+
+msgid "Continue"
+msgstr "გაგრძელება"
+
+msgid "_Continue"
+msgstr "_გაგრძელება"
+
+msgid "Contrast"
+msgstr "კონტრასტი"
+
+msgid "Contributor"
+msgstr "მოხალისე"
+
+msgid "Control"
+msgstr "კონტროლი"
+
+msgid "Convert"
+msgstr "გარდაქმნა"
+
+msgid "Convert to Path"
+msgstr "ბილიკად გარდაქმნა"
+
+msgid "Cookies"
+msgstr "ქუქიები"
+
+msgid "Coordinates"
+msgstr "კოორდინატები"
+
+msgid "Copied to clipboard"
+msgstr "დაკოპირდა გაცვლის ბაფერში"
+
+msgid "Coptic"
+msgstr "კოპტური"
+
+msgid "Copy"
+msgstr "კოპირება"
+
+msgid "copy"
+msgstr "კოპირება"
+
+msgid "&Copy"
+msgstr "&კოპირება"
+
+msgid "_Copy"
+msgstr "_კოპირება"
+
+msgid "Copy Email Address"
+msgstr "ელფოსტის მისამართის კოპირება"
+
+msgid "&Copy Here"
+msgstr "აქ ჩაკოპირება"
+
+msgid "Copy Image"
+msgstr "გამოსახულების კოპირება"
+
+msgid "Copy Link"
+msgstr "ბმულის კოპირება"
+
+msgid "Copy Link Address"
+msgstr "ბმულის მისამართის კოპირება"
+
+msgid "_Copy Link Address"
+msgstr "დაა_კოპირე ბმულის მისამართი"
+
+msgid "Copy Location"
+msgstr "მდებარეობის კოპირება"
+
+msgid "Copy of %1"
+msgstr "%1-ის კოპირება"
+
+msgid "Copy selection to clipboard"
+msgstr "მონიშნულის ბუფერში კოპირება"
+
+msgid "Copy Text"
+msgstr "ტექსტის კოპირება"
+
+msgid "Copy to Clipboard"
+msgstr "გაცვლის ბუფერში კოპირება"
+
+msgid "Copy to clipboard"
+msgstr "ბუფერში კოპირება"
+
+msgid "Copy URL"
+msgstr "URL-ის კოპირება"
+
+msgid "Copying files"
+msgstr "ფაილების ასლი"
+
+msgid "Copyright"
+msgstr "საავტორო უფლებები"
+
+msgid "Cost"
+msgstr "ფასი"
+
+msgid "Costa Rica"
+msgstr "კოსტა რიკა"
+
+msgid "Could not open %1"
+msgstr "%1-ის გახსნა შეუძლებელია"
+
+msgid "Could not open file."
+msgstr "ფაილის გახსნის შეცდომა."
+
+msgid "Count"
+msgstr "რაოდენობა"
+
+msgid "Counter"
+msgstr "მთვლელი"
+
+msgid "Country"
+msgstr "ქვეყანა"
+
+msgid "CPU"
+msgstr "პროცესორი"
+
+msgid "Create"
+msgstr "შექმნა"
+
+msgid "C_reate"
+msgstr "_შექმნა"
+
+msgid "Create Folder"
+msgstr "საქაღალდის შექმნა"
+
+msgid "Create New"
+msgstr "ახლის შექმნა"
+
+msgid "Created"
+msgstr "შექმნილია"
+
+msgid "Creation Date"
+msgstr "შეცვლის თარიღის მიხედვით"
+
+msgid "Creation date"
+msgstr "შექმნის თარიღი"
+
+msgid "Creator"
+msgstr "შემქმნელი"
+
+msgid "Credentials"
+msgstr "მომხმ/პაროლი"
+
+msgid "Credits"
+msgstr "კრედიტები"
+
+msgid "Criteria"
+msgstr "კრიტერიუმი"
+
+msgid "Critical"
+msgstr "კრიტიკული"
+
+msgid "Croatia"
+msgstr "ხორვატია"
+
+msgid "Croatian"
+msgstr "ხორვატული"
+
+msgid "Crop"
+msgstr "ამოჭრა"
+
+msgid "Crop image"
+msgstr "გამოსახულების ამოჭრა"
+
+msgid "Cross"
+msgstr "ჯვარი"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr "Ctrl+O"
+
+msgid "Cuba"
+msgstr "კუბა"
+
+msgid "Currency"
+msgstr "ვალუტა"
+
+msgid "Current"
+msgstr "მიმდინარე"
+
+msgid "Current Maintainer"
+msgstr "პროექტის მიმდინარე ხელმძღვანელი"
+
+msgid "Current maintainer"
+msgstr "პროექტის მიმდინარე ხელმძღვანელი"
+
+msgid "Cursor"
+msgstr "კურსორი"
+
+msgid "Curve"
+msgstr "მრუდი"
+
+msgid "Curves"
+msgstr "მრუდები"
+
+msgid "Custom"
+msgstr "ხელით"
+
+msgid "Custom..."
+msgstr "ხელით..."
+
+msgid "Custom Font"
+msgstr "ხელით მითითებული ფონტი"
+
+msgid "Cut"
+msgstr "ამოჭრა"
+
+msgid "Cu&t"
+msgstr "ამ&ოჭრა"
+
+msgid "Cu_t"
+msgstr "ამო_ჭრა"
+
+msgid "Cyan"
+msgstr "ცისფერი"
+
+msgid "Cyprus"
+msgstr "კვიპროსი"
+
+msgid "Cyrillic"
+msgstr "კირილიცა"
+
+msgid "Czech"
+msgstr "ჩეხური"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "დღიურად"
+
+msgid "Dance"
+msgstr "საცეკვაო"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+msgid "Danish"
+msgstr "დანიური"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr "ბნელი"
+
+msgid "Dark Mode"
+msgstr "მუქი რეჟიმი"
+
+msgid "Darken"
+msgstr "გამუქება"
+
+msgid "Dashboard"
+msgstr "სამუშაო დაფა"
+
+msgid "Dashed"
+msgstr "ტირეებით"
+
+msgid "Data"
+msgstr "მონაცემები"
+
+msgid "Database"
+msgstr "მონაცემთა ბაზა"
+
+msgid "Date"
+msgstr "თარიღი"
+
+msgid "date"
+msgstr "თარიღი"
+
+msgid "Date & Time"
+msgstr "თარიღი & დრო"
+
+msgid "Date and Time"
+msgstr "თარიღი და დრო"
+
+msgid "Date Format"
+msgstr "თარიღის ფორმატი"
+
+msgid "Date Modified"
+msgstr "შეცვლის თარიღი"
+
+msgid "David Edmundson"
+msgstr "დავიდ ედმუნდსონი"
+
+msgid "Day"
+msgstr "დღე"
+
+msgid "Days"
+msgstr "დღე"
+
+msgid "days"
+msgstr "დღე"
+
+msgid "day(s)"
+msgstr "დღე(ები)"
+
+msgid "D-Bus name to use for this instance"
+msgstr "ამ გაშვებული ასლისთვის გამოყენებული D-Bus -ის სახელი"
+
+msgid "Debug"
+msgstr "გამართვა"
+
+msgid "Debugger"
+msgstr "გამმართველი"
+
+msgid "Debugging"
+msgstr "გამართვა"
+
+msgid "December"
+msgstr "დეკემბერი"
+
+msgid "Decimal"
+msgstr "ათობითი"
+
+msgid "Decline"
+msgstr "უარყოფა"
+
+msgid "Decrease Font Size"
+msgstr "ფონტის ზომის შესრულება"
+
+msgid "Decrease Indent"
+msgstr "შეწევის შემცირება"
+
+msgid "Decrease Volume"
+msgstr "ხმის დაწევა"
+
+msgid "Decrypt"
+msgstr "გაშიფვრა"
+
+msgid "Default"
+msgstr "ნაგულისხმევი"
+
+msgid "default"
+msgstr "ნაგულისხმევი"
+
+msgid "Defaults"
+msgstr "ნაგულისხმევი მნიშვნელობები"
+
+msgid "Definition"
+msgstr "განმარტება"
+
+msgid "degrees"
+msgstr "გრადუსი"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay"
+msgstr "დაყოვნება"
+
 msgid "Delete"
 msgstr "წაშლა"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@title"
-msgid "Appearance"
-msgstr "გარეგნობა"
+msgid "&Delete"
+msgstr "&წაშლა"
+
+msgid "_Delete"
+msgstr "_წაშლა"
+
+msgid "D&elete"
+msgstr "&წაშლა"
+
+msgid "Delete..."
+msgstr "წაშლა…"
+
+msgid "Delete %1"
+msgstr "%1-ის წაშლა"
+
+msgid "Delete All"
+msgstr "ყველას წაშლა"
+
+msgid "Delete File"
+msgstr "ფაილის წაშლა"
+
+msgid "Delete Folder"
+msgstr "საქაღალდის წაშლა"
+
+msgid "Delete Image"
+msgstr "გამოსახულების წაშლა"
+
+msgid "Delete Selected"
+msgstr "მონიშნულის წაშლა"
+
+msgid "Delete selection"
+msgstr "მონიშნულის წაშლა"
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "წაშლილია"
+
+msgid "Deletion"
+msgstr "წაშლა"
+
+msgid "Delimiter"
+msgstr "გამყოფი"
+
+msgid "Delta"
+msgstr "დელტა"
+
+msgid "Denmark"
+msgstr "დანია"
+
+msgid "Density"
+msgstr "სიმკვრივე"
+
+msgid "Deny"
+msgstr "უარყოფა"
+
+msgid "Dependencies"
+msgstr "დამოკიდებულებები"
+
+msgid "Depth"
+msgstr "სიღრმე"
+
+msgid "Desaturate"
+msgstr "გაუფერულება"
+
+msgid "Descending"
+msgstr "Დაღმავალი"
+
+msgid "Description"
+msgstr "აღწერა"
+
+msgid "&Description"
+msgstr "&აღწერილობა"
+
+msgid "Deselect"
+msgstr "მონიშვნის მოხსნა"
+
+msgid "Deselect All"
+msgstr "მონიშვნის მოხსნა"
+
+msgid "Desert"
+msgstr "უდაბნო"
+
+msgid "Desktop"
+msgstr "სამუშაო მაგიდა"
+
+msgid "Destination"
+msgstr "დანიშნულება"
+
+msgid "Detach"
+msgstr "მოძრობა"
+
+msgid "_Detach Tab"
+msgstr "ჩანართის მოძრობა"
+
+msgid "Details"
+msgstr "დეტალები"
+
+msgid "&Details"
+msgstr "&დეტალები"
+
+msgid "_Details"
+msgstr "_დეტალები"
+
+msgid "Details..."
+msgstr "დეტალები…"
+
+msgid "Devanagari"
+msgstr "დევაგანური"
+
+msgid "Developer"
+msgstr "პროგრამისტი"
+
+msgid "Development"
+msgstr "შემუშავება"
+
+msgid "Device"
+msgstr "მოწყობილობა"
+
+msgid "device"
+msgstr "მოწყობილობა"
+
+msgid "Device Information"
+msgstr "დისკის ინფორმაცია"
+
+msgid "Device Status"
+msgstr "მოწყობილობის სტატუსი"
+
+msgid "Device type"
+msgstr "მოწყობილობის ტიპი"
+
+msgid "Devices"
+msgstr "მოწყობილობები"
+
+msgid "Diagnostics"
+msgstr "დიაგნოსტიკა"
+
+msgid "Diagonal"
+msgstr "დიაგონალური"
+
+msgid "Dialog"
+msgstr "ფანჯარა"
+
+msgid "Dialogs"
+msgstr "დიალოგები"
+
+msgid "Diamond"
+msgstr "პრიზმა"
+
+msgid "Dictionary"
+msgstr "ლექსიკონი"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "სხვაობა"
+
+msgid "Difficulty"
+msgstr "სირთულე"
+
+msgid "Digit"
+msgstr "ციფრი"
+
+msgid "Dimensions"
+msgstr "ზომები"
+
+msgid "DIR"
+msgstr "საქაღალდე"
+
+msgid "Direction"
+msgstr "მიმართულება"
+
+msgid "Directories"
+msgstr "საქაღალდეები"
+
+msgid "Directory"
+msgstr "საქაღალდე"
+
+msgid "directory"
+msgstr "საქაღალდე"
+
+msgid "Directory Name"
+msgstr "საქაღალდის სახელი"
+
+msgid "Disable"
+msgstr "გამორთვა"
+
+msgid "Disable connection to session manager"
+msgstr "სესიების მმართველთან კავშირის გაუქმება"
+
+msgid "Disabled"
+msgstr "გამორთულია"
+
+msgid "disabled"
+msgstr "გამორთულია"
+
+msgid "Disc"
+msgstr "დისკი"
+
+msgid "Disc Number"
+msgstr "დისკის ნომერი"
+
+msgid "Discard"
+msgstr "გაუქმება"
+
+msgid "_Discard"
+msgstr "_მოცილება"
+
+msgid "Discard All"
+msgstr "ყველაფრის მოცილება"
+
+msgid "Discard Changes"
+msgstr "ცვლილებების გაუქმება"
+
+msgid "Discard changes"
+msgstr "ცვლილებების გაუქმება"
+
+msgid "_Discard Changes"
+msgstr "_ცვლილებების გაუქმება"
+
+msgid "Discharging"
+msgstr "იცლება"
+
+msgid "Disconnect"
+msgstr "გათიშვა"
+
+msgid "Disconnected"
+msgstr "გათიშულია"
+
+msgid "Discover"
+msgstr "Discover"
+
+msgid "Discrete"
+msgstr "დისკრეტული"
+
+msgid "Disk"
+msgstr "დისკი"
+
+msgid "Dismiss"
+msgstr "მოსილება"
+
+msgid "Display"
+msgstr "ჩვენება"
+
+msgid "Display Configuration"
+msgstr "ეკრანის მორგება"
+
+msgid "Display Name"
+msgstr "საჩვენებელი სახელი"
+
+msgid "Display Settings"
+msgstr "ეკრანის მორგება"
+
+msgid "Dissolve"
+msgstr "გახსნა"
+
+msgid "Distance"
+msgstr "მანძილი"
+
+msgid "Divide"
+msgstr "გაყოფა"
+
+msgid "Djibouti"
+msgstr "ჯიბუტი"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "აღარ მკითხო"
+
+msgid "Do Not Cancel"
+msgstr "არ გააუქმო"
+
+msgid "Do not change the actual backend data."
+msgstr "უკანაბოლოს მონაცემების შეცვლის გარეშე."
+
+msgid "Do not show again"
+msgstr "აღარ მაჩვენო"
+
+msgid "Do not show this message again"
+msgstr "მეტჯერ აღარ აჩვენო ეს გაფრთხილება"
+
+msgid "Do Nothing"
+msgstr "არაფერი"
+
+msgid "Do nothing"
+msgstr "არაფრის გაკეთება"
+
+msgid "Document"
+msgstr "დოკუმენტი"
+
+msgid "Document Properties"
+msgstr "დოკუმენტის თვისებები"
+
+msgid "Document to open"
+msgstr "გასახსნელი დოკუმენტი"
+
+msgid "Document Viewer"
+msgstr "დოკუმენტების მნახველი"
+
+msgid "Documentation"
+msgstr "დოკუმენტაცია"
+
+msgid "Documents"
+msgstr "დოკუმენტები"
+
+msgid "does not contain"
+msgstr "არ შეიცავს"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "დომენი"
+
+msgid "Dominica"
+msgstr "დომინიკა"
+
+msgid "Dominican Republic"
+msgstr "დომენიკის რესპუბლიკა"
+
+msgid "Donate"
+msgstr "შემოწირულობა"
+
+msgid "Done"
+msgstr "დასრულებულია"
+
+msgid "Dot"
+msgstr "წერტილი"
+
+msgid "Dots"
+msgstr "წერტილები"
+
+msgid "Dotted"
+msgstr "წერტილოვანი"
+
+msgid "Double"
+msgstr "ორმაგი"
+
+msgid "Down"
+msgstr "ქვემოთ"
+
+msgid "Download"
+msgstr "გადმოწერა"
+
+msgid "Download Manager"
+msgstr "გადმოწერების მმართველი"
+
+msgid "Downloaded"
+msgstr "გადმოწერილია"
+
+msgid "Downloading"
+msgstr "გადმოწერა"
+
+msgid "Downloading..."
+msgstr "გადმოწერა…"
+
+msgid "Downloads"
+msgstr "გადმოწერები"
+
+msgid "Dr."
+msgstr "დრ."
+
+msgid "Draft"
+msgstr "მონახაზი"
+
+msgid "Drafts"
+msgstr "მონახაზები"
+
+msgid "Draw"
+msgstr "ხატვა"
+
+msgid "Drive"
+msgstr "დისკი"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "თარიღამდე"
+
+msgid "Due Date"
+msgstr "თარიღამდე"
+
+msgid "Duplicate"
+msgstr "დუბლიკაცია"
+
+msgid "_Duplicate"
+msgstr "_დუბლირება"
+
+msgid "Duplicates"
+msgstr "დუბლიკატები"
+
+msgid "Duration"
+msgstr "ხანგრძლოვობა"
+
+msgid "Dutch"
+msgstr "ჰოლანდიური"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "ა"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "აღმოსავლეთი"
+
+msgid "Easy"
+msgstr "ადვილი"
+
+msgid "Echo"
+msgstr "ექო"
+
+msgid "Ecuador"
+msgstr "ეკვადორი"
+
+msgid "Edge"
+msgstr "კუთხე"
+
+msgid "Edit"
+msgstr "ჩასწორება"
+
+msgid "&Edit"
+msgstr "&ჩასწორება"
+
+msgid "_Edit"
+msgstr "_ჩასწორება"
+
+msgid "Edit..."
+msgstr "ჩასწორება..."
+
+msgid "&Edit..."
+msgstr "&ჩასწორება..."
+
+msgid "Edit %1"
+msgstr "%1-ის ჩასწორება"
+
+msgid "Edit Bookmark"
+msgstr "სანიშნის ჩასწორება"
+
+msgid "Edit Filter"
+msgstr "ფილტრის ჩასწორება"
+
+msgid "Edit Image"
+msgstr "გამოსახულების ჩასწორება"
+
+msgid "Editing"
+msgstr "ჩასწორება"
+
+msgid "Editor"
+msgstr "რედაქტორი"
+
+msgid "Education"
+msgstr "განათლება"
+
+msgid "Effects"
+msgstr "ეფექტები"
+
+msgid "Egypt"
+msgstr "ეგვიპტე"
+
+msgid "Egyptian"
+msgstr "ეგვიპტური"
+
+msgid "Eike Hein"
+msgstr "აიკე ჰაინი"
+
+msgid "Eject"
+msgstr "გამოღება"
+
+msgid "_Eject"
+msgstr "_გამოღება"
+
+msgid "El Salvador"
+msgstr "ელ სალვადორი"
+
+msgid "Electronic"
+msgstr "ელექტრონული"
+
+msgid "Element"
+msgstr "ელემენტი"
+
+msgid "Ellipse"
+msgstr "ოვალი"
+
+msgid "Email"
+msgstr "ელფოტა"
+
+msgid "E-mail"
+msgstr "ელ-ფოსტა"
+
+msgid "Email Address"
+msgstr "ელ-ფოსტის მისამართი"
+
+msgid "Email address"
+msgstr "ელფოსტის მისამართი"
+
+msgid "Emails"
+msgstr "ელფოსტები"
+
+msgid "Embedded"
+msgstr "ჩაკერებული"
+
+msgid "Emboss"
+msgstr "ამოტვიფრვა"
+
+msgid "Emphasis"
+msgstr "მონიშნული"
+
+msgid "Empty"
+msgstr "ცარიელი"
+
+msgid "empty"
+msgstr "ცარიელია"
+
+msgid "(empty)"
+msgstr "(ცარიელი)"
+
+msgid "<empty>"
+msgstr "<empty>"
+
+msgid "Empty Trash"
+msgstr "ნაგვის დაცარიელება"
+
+msgid "Enable"
+msgstr "ჩართვა"
+
+msgid "Enable system tray icon"
+msgstr "სისტემის კუთხეში ხატულის ჩართვა"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr "გაფართოებული გამართვის ჟურნალის ჩართვა (შეიძლება, პაროლები გამოჩნდეს)"
+
+msgid "Enabled"
+msgstr "ჩართულია"
+
+msgid "Encoder"
+msgstr "ეკოდერი"
+
+msgid "Encoding"
+msgstr "კოდირება"
+
+msgid "_Encoding"
+msgstr "_კოდირება"
+
+msgid "Encrypt"
+msgstr "დაშიფრვა"
+
+msgid "&Encrypt"
+msgstr "&დაშიფვრა"
+
+msgid "Encrypted"
+msgstr "დაშიფრული"
+
+msgid "Encryption"
+msgstr "დაშიფვრა"
+
+msgid "End"
+msgstr "დასასრული"
+
+msgid "end"
+msgstr "დასასრული"
+
+msgid "End Date"
+msgstr "დასასრული თარიღი"
+
+msgid "End Time"
+msgstr "დასასრულის Დრო"
+
+msgid "ends with"
+msgstr "მთავრდება"
+
+msgid "Energy"
+msgstr "ენერგია"
+
+msgid "Engine"
+msgstr "ძრავა"
+
+msgid "Engineering"
+msgstr "საინჟინრო"
+
+msgid "English"
+msgstr "ინგლისური"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Enter password"
+msgstr "შეიყვანეთ პაროლი"
+
+msgid "Entry"
+msgstr "ერთეული"
+
+msgid "Environment"
+msgstr "გარემო"
+
+msgid "equals"
+msgstr "უდრის"
+
+msgid "Equation"
+msgstr "ტოლობა"
+
+msgid "Equatorial Guinea"
+msgstr "ეკვატორული გვინეა"
+
+msgid "Erase"
+msgstr "წაშლა"
+
+msgid "Eraser"
+msgstr "საშლელი"
+
+msgid "Eritrea"
+msgstr "ერითრეა"
+
+msgid "ERROR"
+msgstr "შეცდომა"
+
+msgid "Error"
+msgstr "შეცდომა"
+
+msgid "error"
+msgstr "შეცდომა"
+
+msgid "Error: %1"
+msgstr "შეცდომა: %1"
+
+msgid "Error message"
+msgstr "შეცდომის შეტყობინება"
+
+msgid "Errors"
+msgstr "შედომები"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Esperanto"
+msgstr "ესპერანტო"
+
+msgid "Estonia"
+msgstr "ესტონეთი"
+
+msgid "Estonian"
+msgstr "ესტონური"
+
+msgid "Ethiopia"
+msgstr "ეთიოპია"
+
+msgid "Ethiopic"
+msgstr "ეთიოპიური"
+
+msgid "Europe"
+msgstr "ევროპა"
+
+msgid "Evaluate"
+msgstr "შეფასება"
+
+msgid "Event"
+msgstr "მოვლენა"
+
+msgid "Events"
+msgstr "მოვლენები"
+
+msgid "Everyone"
+msgstr "ყველა"
+
+msgid "Everything"
+msgstr "ყველაფერი"
+
+msgid "Exact"
+msgstr "ზუსტი"
+
+msgid "Example"
+msgstr "მაგალითი"
+
+msgid "Examples"
+msgstr "მაგალითები"
+
+msgid "Exception"
+msgstr "გამონაკლისი"
+
+msgid "Exclude"
+msgstr "გამორიცხვა"
+
+msgid "Exclusion"
+msgstr "გამორიცხვა"
+
+msgid "Executable"
+msgstr "გამსვები ფაილი"
+
+msgid "Execute"
+msgstr "გაშვება"
+
+msgid "Exit"
+msgstr "გასვლა"
+
+msgid "Exit Full Screen"
+msgstr "სრული ეკრანიდან გამოსვლა"
+
+msgid "Exit Fullscreen"
+msgstr "სრული ეკრანიდან გასვლა"
+
+msgid "Exiting..."
+msgstr "გასვლა..."
+
+msgid "Expand"
+msgstr "გაფართოება"
+
+msgid "Expand All"
+msgstr "ყველას ამოკეცვა"
+
+msgid "Experimental"
+msgstr "ექსპერიმენტალური"
+
+msgid "Expired"
+msgstr "ვადაგასული"
+
+msgid "Expires"
+msgstr "იწურება"
+
+msgid "Export"
+msgstr "გატანა"
+
+msgid "&Export"
+msgstr "&გატანა"
+
+msgid "_Export"
+msgstr "_გატანა"
+
+msgid "Export..."
+msgstr "გატანა..."
+
+msgid "&Export..."
+msgstr "&გატანა..."
+
+msgid "_Export..."
+msgstr "_გატანა…"
+
+msgid "E&xport..."
+msgstr "გატანა..."
+
+msgid "Export As..."
+msgstr "გატანა, როგორც..."
+
+msgid "Export failed"
+msgstr "გატანის შეცდომა"
+
+msgid "Export Options"
+msgstr "გატანის მორგება"
+
+msgid "Exposure"
+msgstr "ექსპოზიცია"
+
+msgid "Expression"
+msgstr "გამოსახულება"
+
+msgid "Extended"
+msgstr "გაფართოებული"
+
+msgid "Extension"
+msgstr "გაფართოება"
+
+msgid "Extensions"
+msgstr "გაფართოებები"
+
+msgid "Extra Toolbar"
+msgstr "დამატებით პანელი"
+
+msgid "Extract"
+msgstr "გაშლა"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "მინავლება"
+
+msgid "Fahrenheit"
+msgstr "ფარენჰეიტი"
+
+msgid "Failed"
+msgstr "შეცდომა"
+
+msgid "False"
+msgstr "ტყუილი"
+
+msgid "false"
+msgstr "მცდარი"
+
+msgid "Family"
+msgstr "ოჯახი"
+
+msgid "Family Name"
+msgstr "საოჯახო სახელი"
+
+msgid "Fast"
+msgstr "სწრაფი"
+
+msgid "Faster"
+msgstr "უფრო სწრაფი"
+
+msgid "Fatal Error"
+msgstr "ფატალური შეცდომა"
+
+msgid "Favorite"
+msgstr "რჩეული"
+
+msgid "Favorites"
+msgstr "რჩეულები"
+
+msgid "Fax"
+msgstr "ფაქსი"
+
+msgid "Features"
+msgstr "თვისებები"
+
+msgid "February"
+msgstr "თებერვალი"
+
+msgid "Feeds"
+msgstr "ლენტები"
+
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+msgid "Fetch"
+msgstr "გამოთხოვა"
+
+msgid "Fiji"
+msgstr "ფიჯი"
+
+msgid "FILE"
+msgstr "ფაილი"
+
+msgid "File"
+msgstr "ფაილი"
+
+msgid "file"
+msgstr "ფაილი"
+
+msgid "&File"
+msgstr "&ფაილი"
+
+msgid "_File"
+msgstr "_ფაილი"
+
+msgid "[FILE...]"
+msgstr "[ფაილი...]"
+
+msgid "File Already Exists"
+msgstr "ფაილი უკვე არსებობს"
+
+msgid "File already exists"
+msgstr "ფაილი უკვე არსებობს"
+
+msgid "File Exists"
+msgstr "ფაილი უკვე არსებობს"
+
+msgid "File Format"
+msgstr "ფაილის ფორმატი"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "ფაილების მმართველი"
+
+msgid "File Name"
+msgstr "ფაილის სახელი"
+
+msgid "File name"
+msgstr "ფაილის სახელი"
+
+msgid "File Not Found"
+msgstr "ფაილი ვერ მოიძებნა"
+
+msgid "File not found"
+msgstr "ფაილი ვერ მოიძებნა"
+
+msgid "File Path"
+msgstr "ფაილის ბილიკი"
+
+msgid "File Properties"
+msgstr "ფაილის თვისებები"
+
+msgid "File Size"
+msgstr "ფაილის ზომა"
+
+msgid "File size"
+msgstr "ფაილის ზომა"
+
+msgid "File System"
+msgstr "ფაილური სისტემა"
+
+msgid "File to open"
+msgstr "გასახსნელი ფაილი"
+
+msgid "File Transfer"
+msgstr "ფაილის მიმოცვლა"
+
+msgid "File Type"
+msgstr "ფაილის ტიპი"
+
+msgid "Filename"
+msgstr "ფაილის სახელი"
+
+msgid "Files"
+msgstr "ფაილები"
+
+msgid "Filesystem"
+msgstr "ფაილური სისტემა"
+
+msgid "Fill"
+msgstr "შევსება"
+
+msgid "Fill Color"
+msgstr "შემვსები ფერი"
+
+msgid "Filter"
+msgstr "ფილტრი"
+
+msgid "Filter..."
+msgstr "გაფილტვრა..."
+
+msgid "Filters"
+msgstr "ფილტრები"
+
+msgid "Final"
+msgstr "საბოლოო"
+
+msgid "Find"
+msgstr "მოძებნა"
+
+msgid "&Find"
+msgstr "&ძებნა"
+
+msgid "_Find"
+msgstr "_ძებნა"
+
+msgid "F&ind"
+msgstr "&ძებნა"
+
+msgid "Find..."
+msgstr "მოძებნა…"
+
+msgid "_Find..."
+msgstr "_მოძებნა…"
+
+msgid "Find and Replace"
+msgstr "ძებნა და ჩანაცვლება"
+
+msgid "Find Next"
+msgstr "მომდევნოს მოძებნა"
+
+msgid "Find _Next"
+msgstr "შემდეგის _პოვნა"
+
+msgid "Find Ne_xt"
+msgstr "შემდეგის ძ_ებნა"
+
+msgid "Find Previous"
+msgstr "წინას პოვნა"
+
+msgid "Find Pre_vious"
+msgstr "წ_ინას მოძებნა"
+
+msgid "Fingerprint"
+msgstr "თითის ანაბეჭდი"
+
+msgid "Finish"
+msgstr "დასრულება"
+
+msgid "Finished"
+msgstr "დასრულდა"
+
+msgid "Finland"
+msgstr "ფინეთი"
+
+msgid "Finnish"
+msgstr "ფინური"
+
+msgid "First"
+msgstr "პირველი"
+
+msgid "First Page"
+msgstr "პირველი გვერდი"
+
+msgid "Fit"
+msgstr "ჩატევა"
+
+msgid "Fit Width"
+msgstr "სიგანის ჩატევა"
+
+msgid "Fixed"
+msgstr "ფიქსირებული"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "ალმის სტატუსი"
+
+msgid "Flags"
+msgstr "ალმები"
+
+msgid "Flash"
+msgstr "განათება"
+
+msgid "Flat"
+msgstr "ბრტყელი"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "გადაბრუნება"
+
+msgid "Flip Horizontally"
+msgstr "ჰორიზონტალურად გადაბრუნება"
+
+msgid "Flip horizontally"
+msgstr "ჰორიზონტალურად გადაბრუნება"
+
+msgid "Flip Vertically"
+msgstr "ვერტიკალურად გადაბრუნება"
+
+msgid "Flip vertically"
+msgstr "ვერტიკალურად გადაბრუნება"
+
+msgid "Float"
+msgstr "მცურავი"
+
+msgid "Floating"
+msgstr "მცურავი"
+
+msgid "Flow"
+msgstr "დინება"
+
+msgid "flower"
+msgstr "ყვავილი"
+
+msgid "Focal Length"
+msgstr "ფოკალური მანძილი"
+
+msgid "Focus"
+msgstr "ფოკუსი"
+
+msgid "Folder"
+msgstr "საქაღალდე"
+
+msgid "Folder name"
+msgstr "საქაღალდის სახელი"
+
+msgid "Folders"
+msgstr "საქაღალდეები"
+
+msgid "Folk"
+msgstr "ფოლკი"
+
+msgid "Font"
+msgstr "ფონტი"
+
+msgid "&Font"
+msgstr "&ფონტი"
+
+msgid "Font Color"
+msgstr "ფონტის ფერი"
+
+msgid "Font Family"
+msgstr "ფონტების ოჯახი"
+
+msgid "Font Size"
+msgstr "ფონტის ზომა"
+
+msgid "Font size"
+msgstr "ფონტის ზომა"
+
+msgid "Fonts"
+msgstr "ფონტები"
+
+msgid "_Fonts"
+msgstr "_ფონტები"
+
+msgid "Food"
+msgstr "საჭმელი"
+
+msgid "Footer"
+msgstr "ქვესართი"
+
+msgid "Force"
+msgstr "ძალა"
+
+msgid "Forecast"
+msgstr "პროგნოზი"
+
+msgid "Foreground"
+msgstr "წინა პლანი"
+
+msgid "Foreground Color"
+msgstr "წინა პლანის ფერი"
+
+msgid "Foreground color"
+msgstr "წინა პლანის ფერი"
+
+msgid "forever"
+msgstr "სამუდამოდ"
+
+msgid "Form"
+msgstr "ფორმა"
+
+msgid "Format"
+msgstr "ფორმატი"
+
+msgid "Formatting"
+msgstr "ფორმატირება"
+
+msgid "Former Maintainer"
+msgstr "ყოფილი პროგრამისტი"
+
+msgid "Former maintainer"
+msgstr "ყოფილი პროგრამისტი"
+
+msgid "Formula"
+msgstr "ფორმულა"
+
+msgid "Forward"
+msgstr "წინ"
+
+msgid "&Forward"
+msgstr "&წინ"
+
+msgid "_Forward"
+msgstr "_გადაგზავნა"
+
+msgid "Fraction"
+msgstr "ნაწილი"
+
+msgid "Frame"
+msgstr "კადრი"
+
+msgid "Framerate"
+msgstr "კადრების სიჩქარე"
+
+msgid "Frames"
+msgstr "კადრები"
+
+msgid "France"
+msgstr "საფრანგეთი"
+
+msgid "Free"
+msgstr "თავისუფალი"
+
+msgid "French"
+msgstr "ფრანგული"
+
+msgid "French Guiana"
+msgstr "ფრანგული გვიანა"
+
+msgid "Frequency"
+msgstr "სიხშირე"
+
+msgid "Friday"
+msgstr "პარასკევი"
+
+msgid "Friends"
+msgstr "მეგობრები"
+
+msgid "From"
+msgstr "ვისგან"
+
+msgid "from"
+msgstr "ვისგან"
+
+msgid "From %1"
+msgstr "%1-დან"
+
+msgid "Frozen"
+msgstr "გაყინული"
+
+msgid "Full"
+msgstr "სრული"
+
+msgid "Full Name"
+msgstr "სრული სახელი"
+
+msgid "Full Screen"
+msgstr "სრულეკრანიანი რეჟიმი"
+
+msgid "Full Screen Mode"
+msgstr "მთელი ეკრანის რეჟიმი"
+
+msgid "F&ull Screen Mode"
+msgstr "&მთელ-ეკრანზე"
+
+msgid "Fullscreen"
+msgstr "მთელ ეკრანზე"
+
+msgid "_Fullscreen"
+msgstr "სრული ეკრა_ნზე"
+
+msgid "Function"
+msgstr "ფუნქცია"
+
+msgid "function"
+msgstr "ფუნქცია"
+
+msgid "Functions"
+msgstr "ფუნქციები"
+
+msgid "Future"
+msgstr "მომავალი"
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "გაბონი"
+
+msgid "Galician"
+msgstr "გალური"
+
+msgid "Gallery"
+msgstr "გალერეა"
+
+msgid "Gambia"
+msgstr "გამბია"
+
+msgid "Game"
+msgstr "თამაში"
+
+msgid "&Game"
+msgstr "&თამაში"
+
+msgid "Game Over"
+msgstr "თამაში დასრულდა"
+
+msgid "Games"
+msgstr "თამაშები"
+
+msgid "Gamma"
+msgstr "გამა"
+
+msgid "Gas"
+msgstr "აირი"
+
+msgid "Gate"
+msgstr "გეითი"
+
+msgid "Gateway"
+msgstr "ნაგულისხმევი რაუტერი"
+
+msgid "Gaussian Blur"
+msgstr "გაუსის ბუნდოვნება"
+
+msgid "GB"
+msgstr "გბ"
+
+msgid "Gender"
+msgstr "სქესი"
+
+msgid "General"
+msgstr "ზოგადი"
+
+msgid "&General"
+msgstr "&ზოგადი"
+
+msgid "General Options"
+msgstr "ზოგადი პარამეტრები"
+
+msgid "General options"
+msgstr "საერთო პარამეტრები"
+
+msgid "General Settings"
+msgstr "ზოგადი პარამეტრები"
+
+msgid "Generate"
+msgstr "გენერაცია"
+
+msgid "Generic"
+msgstr "ზოგადი"
+
+msgid "Genre"
+msgstr "ჟანრი"
+
+msgid "Genres"
+msgstr "ჟანრები"
+
+msgid "Geometry"
+msgstr "გეომეტრია"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "ჯორჯია"
+
+msgid "Georgian"
+msgstr "ქართული"
+
+msgid "German"
+msgstr "გერმანული"
+
+msgid "Germany"
+msgstr "გერმანია"
+
+msgid "Get New..."
+msgstr "ახლის მიღება…"
+
+msgid "Get New Plugins..."
+msgstr "ახალი დამატებების მიღება…"
+
+msgid "Ghana"
+msgstr "განა"
+
+msgid "GiB"
+msgstr "გიბ"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "სახელი"
+
+msgid "Global"
+msgstr "გლობალური"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "Go"
+
+msgid "&Go"
+msgstr "&გადასვლა"
+
+msgid "_Go"
+msgstr "გადასვლა"
+
+msgid "Go Back"
+msgstr "უკან დაბრუნება"
+
+msgid "Go back"
+msgstr "უკან დაბრუნება"
+
+msgid "Go forward"
+msgstr "წინ გადასვლა"
+
+msgid "Go To"
+msgstr "გადასვლა"
+
+msgid "Go to first page"
+msgstr "პირველ გვერდზე"
+
+msgid "Go to last page"
+msgstr "ბოლო გვერდზე"
+
+msgid "Go to Line"
+msgstr "ხაზზე გადასვლა"
+
+msgid "Go to next page"
+msgstr "შემდეგ გვერდზე გადასვლა"
+
+msgid "Go to previous page"
+msgstr "წინა გვერდზე"
+
+msgid "Goa"
+msgstr "გოა"
+
+msgid "Gold"
+msgstr "ოქრო"
+
+msgid "Good"
+msgstr "კარგი"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "გოთური"
+
+msgid "Gradient"
+msgstr "გრადაცია"
+
+msgid "Gradients"
+msgstr "გრადაციები"
+
+msgid "Graph"
+msgstr "გრაფიკი"
+
+msgid "Graphics"
+msgstr "გრაფიკა"
+
+msgid "Gray"
+msgstr "ნაცრისფერი"
+
+msgid "gray"
+msgstr "ნაცრისფერი"
+
+msgid "Grayscale"
+msgstr "ნაცრისფერი"
+
+msgid "Greece"
+msgstr "საბერძნეთი"
+
+msgid "Greek"
+msgstr "ბერძნული"
+
+msgid "Green"
+msgstr "მწვანე"
+
+msgid "green"
+msgstr "მწვანე"
+
+msgid "Grenada"
+msgstr "გრენადა"
+
+msgid "Grey"
+msgstr "ნაცრისფერი"
+
+msgid "Grid"
+msgstr "ბადე"
+
+msgid "Group"
+msgstr "ჯგუფი"
+
+msgid "Group name"
+msgstr "ჯგუფის სახელი"
+
+msgid "Grouping"
+msgstr "დაჯგუფება"
+
+msgid "Groups"
+msgstr "ჯგუფები"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "გვატემალა"
+
+msgid "Guides"
+msgstr "გიდები"
+
+msgid "Guinea"
+msgstr "გვინეა"
+
+msgid "Gujarati"
+msgstr "გუჯარათული"
+
+msgid "Gurmukhi"
+msgstr "გურმუხული"
+
+msgid "Guyana"
+msgstr "გაიანა"
+
+msgid "H"
+msgstr "სიმ"
+
+msgid "Haiti"
+msgstr "ჰაიტი"
+
+msgid "Hard"
+msgstr "მაგარი"
+
+msgid "Hardware"
+msgstr "აპარატურა"
+
+msgid "Hawaiian"
+msgstr "ჰავაიური"
+
+msgid "Header"
+msgstr "სათაური"
+
+msgid "Headers"
+msgstr "სათაურები"
+
+msgid "Heading"
+msgstr "სათაური"
+
+msgid "Heading 1"
+msgstr "სათაური 1"
+
+msgid "Heading 2"
+msgstr "სათაური 2"
+
+msgid "Heading 3"
+msgstr "სათაური 3"
+
+msgid "Heading 4"
+msgstr "სათაური 4"
+
+msgid "Headphones"
+msgstr "ყურსაცვამები"
+
+msgid "Headset"
+msgstr "ყურსაცვამები & მიკროფონი"
+
+msgid "Health"
+msgstr "ჯანმრთელობა"
+
+msgid "Hebrew"
+msgstr "ივრითი"
+
+msgid "Height"
+msgstr "სიმაღლე"
+
+msgid "&Height"
+msgstr "&სიმაღლე"
+
+msgid "Help"
+msgstr "დახმარება"
+
+msgid "&Help"
+msgstr "&დახმარება"
+
+msgid "_Help"
+msgstr "_დახმარება"
+
+msgid "Helsinki"
+msgstr "ჰელსინკი"
+
+msgid "Hex"
+msgstr "თექვსმეტობითი"
+
+msgid "Hexadecimal"
+msgstr "თექვსმეტობითი"
+
+msgid "Hexagon"
+msgstr "ექვსკუთხედი"
+
+msgid "Hibernate"
+msgstr "პროგრამული ძილი"
+
+msgid "Hidden"
+msgstr "დამალული"
+
+msgid "hidden"
+msgstr "დამალული"
+
+msgid "Hide"
+msgstr "დამალვა"
+
+msgid "&Hide"
+msgstr "&დამალვა"
+
+msgid "Hide menu bar"
+msgstr "მენიუს ზოლის დამალვა"
+
+msgid "High"
+msgstr "მაღალი"
+
+msgid "Highlight"
+msgstr "მოუნიშნავის გაბუნდოვნება"
+
+msgid "Highlighter"
+msgstr "გამომკვეთი"
+
+msgid "Highlights"
+msgstr "განათება"
+
+msgid "Hindi"
+msgstr "ინდური"
+
+msgid "Hint"
+msgstr "მინიშნება"
+
+msgid "Histogram"
+msgstr "ჰისტოგრამა"
+
+msgid "History"
+msgstr "ისტორია"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "შეყოვნება"
+
+msgid "Holidays"
+msgstr "დასვენებები"
+
+msgid "Home"
+msgstr "საწყისი"
+
+msgid "&Home"
+msgstr "&სახლი"
+
+msgid "Home Folder"
+msgstr "საწყისი საქაღალდე"
+
+msgid "Home Page"
+msgstr "საწყისი გვერდი"
+
+msgid "Homepage"
+msgstr "საწყისი გვერდი"
+
+msgid "Honduras"
+msgstr "ჰონდურასი"
+
+msgid "Hong Kong"
+msgstr "ჰონგკონგი"
+
+msgid "Horizontal"
+msgstr "ჰორიზონტალური"
+
+msgid "Host"
+msgstr "ჰოსტი"
+
+msgid "Hostname"
+msgstr "ჰოსტის სახელი"
+
+msgid "Hotspot"
+msgstr "ჰოტსპოტი"
+
+msgid "Hour"
+msgstr "საათი"
+
+msgid "Hours"
+msgstr "საათი"
+
+msgid "hours"
+msgstr "საათი"
+
+msgid "House"
+msgstr "ჰაუსი"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "ტონი"
+
+msgid "Huge"
+msgstr "უზარმაზარი"
+
+msgid "Hungarian"
+msgstr "უნგრული"
+
+msgid "Hungary"
+msgstr "უნგრეთი"
+
+msgid "Hz"
+msgstr "ჰც"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+msgid "Iceland"
+msgstr "ისლანდია"
+
+msgid "Icelandic"
+msgstr "ისლანდიური"
+
+msgid "Icon"
+msgstr "ხატულა"
+
+msgid "Icon Size"
+msgstr "ხატულების ზომა"
+
+msgid "Icon size"
+msgstr "ხატულების ზომა"
+
+msgid "Icon View"
+msgstr "ხატულებით ჩვენება"
+
+msgid "Icons"
+msgstr "ხატულები"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "id"
+msgstr "id"
+
+msgid "Identifier"
+msgstr "იდენტიფიკატორი"
+
+msgid "Identity"
+msgstr "იდენტიფიკაცია"
+
+msgid "Idle"
+msgstr "უმოქმედო"
+
+msgid "Ignore"
+msgstr "იგნორი"
+
+msgid "_Ignore"
+msgstr "_იგნორი"
+
+msgid "Ignore Case"
+msgstr "რეგისტრის იგნორი"
+
+msgid "Ignored"
+msgstr "იგნორირებულია"
+
+msgid "Image"
+msgstr "გამოსახულება"
+
+msgid "image"
+msgstr "გამოსახულება"
+
+msgid "&Image"
+msgstr "&გამოსახულება"
+
+msgid "_Image"
+msgstr "_გამოსახულება"
+
+msgid "Image Editor"
+msgstr "გამოსახულებების რედაქტორი"
+
+msgid "Image Files"
+msgstr "გამოსახულების ფაილები"
+
+msgid "Image files"
+msgstr "ასლის ფალები"
+
+msgid "Image Gallery"
+msgstr "სურათების გალერეა"
+
+msgid "Image Properties"
+msgstr "გამოსახულების თვისებები"
+
+msgid "Image Settings"
+msgstr "გამოსახულების პარამეტრები"
+
+msgid "Image Size"
+msgstr "გამოსახულების ზომა"
+
+msgid "Image Viewer"
+msgstr "სურათების გალერეა"
+
+msgid "Images"
+msgstr "გამოსახულებები"
+
+msgid "Images (%1)"
+msgstr "სურათები (%1)"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "შემოტანა"
+
+msgid "&Import"
+msgstr "&შემოტანა"
+
+msgid "_Import"
+msgstr "_შემოტანა"
+
+msgid "Import..."
+msgstr "შემოტანა..."
+
+msgid "&Import..."
+msgstr "&შემოტანა..."
+
+msgid "Import failed"
+msgstr "შემოტანის შეცდომა"
+
+msgid "Important"
+msgstr "მნიშვნელოვანი"
+
+msgid "In"
+msgstr "შეყვანა"
+
+msgid "in"
+msgstr "დუიმი"
+
+msgid "Inactive"
+msgstr "არააქტიური"
+
+msgid "Inbox"
+msgstr "საფოსტო ყუთი"
+
+msgid "inch"
+msgstr "დუიმი"
+
+msgid "Inches"
+msgstr "დუიმი"
+
+msgid "inches"
+msgstr "დუიმი"
+
+msgid "Inches (in)"
+msgstr "ინჩი (in)"
+
+msgid "Include"
+msgstr "ჩართვა"
+
+msgid "Includes"
+msgstr "ჩასმულები"
+
+msgid "Incoming"
+msgstr "შემომავალი"
+
+msgid "Increase Font Size"
+msgstr "ფონტის ზომის გაზრდა"
+
+msgid "Increase Indent"
+msgstr "დაშორების გაზრდა"
+
+msgid "Increase Volume"
+msgstr "ხმის აწევა"
+
+msgid "Incremental"
+msgstr "ზრდადი"
+
+msgid "Indentation"
+msgstr "სწორება"
+
+msgid "Index"
+msgstr "ინდექსი"
+
+msgid "Indexed"
+msgstr "დაინდექსებული"
+
+msgid "India"
+msgstr "ინდოეთი"
+
+msgid "Indonesia"
+msgstr "ინდონეზია"
+
+msgid "Indonesian"
+msgstr "ინდონეზიური"
+
+msgid "Industrial"
+msgstr "ინდასტრიალი"
+
+msgid "Info"
+msgstr "ინფორმაცია"
+
+msgid "Information"
+msgstr "ინფორმაცია"
+
+msgid "Initials"
+msgstr "ინიციალები"
+
+msgid "Input"
+msgstr "შეყვანა"
+
+msgid "Input Devices"
+msgstr "შემომტანი მოწყობილობები"
+
+msgid "Insert"
+msgstr "ჩასმა"
+
+msgid "&Insert"
+msgstr "&ჩასმა"
+
+msgid "Insert Image"
+msgstr "გამოსახულების დამატება"
+
+msgid "Insert Link"
+msgstr "ბმულის ჩასმა"
+
+msgid "Insert Table"
+msgstr "ცხრილის ჩასმა"
+
+msgid "Insert Text"
+msgstr "ტექსტის ჩასმა"
+
+msgid "Install"
+msgstr "დაყენება"
+
+msgid "Install..."
+msgstr "დაყენება..."
+
+msgid "Install from File..."
+msgstr "ფაილიდან დაყენება…"
+
+msgid "Installed"
+msgstr "დაყენებულია"
+
+msgid "Installing"
+msgstr "დაყენება"
+
+msgid "Instant"
+msgstr "მყისი"
+
+msgid "Integer"
+msgstr "მთელი რიცხვი"
+
+msgid "Integrate"
+msgstr "ინტეგრირება"
+
+msgid "Intensity"
+msgstr "ინტენსვობა"
+
+msgid "Interface"
+msgstr "ინტერფეისი"
+
+msgid "Internal"
+msgstr "შიდა"
+
+msgid "Internal Error"
+msgstr "შიდა შეცდომა"
+
+msgid "Internal error"
+msgstr "შიდა შეცდომა"
+
+msgid "International"
+msgstr "საერთაშორისო"
+
+msgid "Internet"
+msgstr "ინტერნეტი"
+
+msgid "Interpolation"
+msgstr "ინტერპოლაცია"
+
+msgid "Interrupt"
+msgstr "შეწყვეტა"
+
+msgid "Interval"
+msgstr "ინტერვალი"
+
+msgid "Introduction"
+msgstr "შესავალი"
+
+msgid "Invalid"
+msgstr "არასწორი"
+
+msgid "invalid"
+msgstr "არასწორი"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr "\"%s\"-ის არასწორი ბულევური თვისება (არც \"დიახ\", არც \"არა\""
+
+msgid "Invalid date"
+msgstr "არასწორი თარიღი"
+
+msgid "Invalid password"
+msgstr "არასწორი პაროლი"
+
+msgid "Invalid URL"
+msgstr "არასწორი URL"
+
+msgid "Invert"
+msgstr "ინვერსია"
+
+msgid "Invert Selection"
+msgstr "მონიშვნის ინვერსია"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP მისამართი"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "ირანი"
+
+msgid "Iraq"
+msgstr "ერაყი"
+
+msgid "Ireland"
+msgstr "ირლანდია"
+
+msgid "Irish"
+msgstr "ირლანდიური"
+
+msgid "is"
+msgstr "არის"
+
+msgid "Israel"
+msgstr "ისრაელი"
+
+msgid "Issued By"
+msgstr "გამომცემელი"
+
+msgid "Issuer"
+msgstr "გამომცემელი"
+
+msgid "Italian"
+msgstr "იტალიური"
+
+msgid "Italic"
+msgstr "დახრა"
+
+msgid "&Italic"
+msgstr "&დახრილი"
+
+msgid "_Italic"
+msgstr "_დახრილი"
+
+msgid "Italy"
+msgstr "იტალია"
+
+msgid "Item"
+msgstr "ელემენტი"
+
+msgid "Items"
+msgstr "ჩანაწერები"
+
+msgid "Iterations"
+msgstr "იტერაციები"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "იამაიკა"
+
+msgid "January"
+msgstr "იანვარი"
+
+msgid "Japan"
+msgstr "იაპონია"
+
+msgid "Japanese"
+msgstr "იაპონური"
+
+msgid "Javanese"
+msgstr "იავური"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "ჯაზი"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr "შეერთება"
+
+msgid "Jonah Brüchert"
+msgstr "Jonah Brüchert"
+
+msgid "Jordan"
+msgstr "იორდანია"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr "ჯოშუა გოინსი"
+
+msgid "Journal"
+msgstr "ჟურნალი"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "ივლისი"
+
+msgid "Jump to next match"
+msgstr "შემდეგ დამთხვევაზე გადასვლა"
+
+msgid "Jump to previous match"
+msgstr "წინა დამთხვევაზე გადასვლა"
+
+msgid "June"
+msgstr "ივნისი"
+
+msgid "Justify"
+msgstr "გადამრთეველი"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "კანნადა"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "ყაზახური"
+
+msgid "Kazakhstan"
+msgstr "ყაზახეთი"
+
+msgid "kB"
+msgstr "კბ"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "KDE-ის საზოგადოება, ფელიპე კინოშიტა"
+
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "შენარჩუნება"
+
+msgid "_Keep"
+msgstr "დატოვება"
+
+msgid "Keep aspect ratio"
+msgstr "საწყისი ფარდობის შენარჩუნება"
+
+msgid "Keep Open"
+msgstr "ღიად დატოვება"
+
+msgid "Kenya"
+msgstr "კენია"
+
+msgid "Kernel"
+msgstr "ბირთვი"
+
+msgid "Key"
+msgstr "გასაღები"
+
+msgid "Key ID"
+msgstr "გასაღების ID"
+
+msgid "Keyboard"
+msgstr "კლავიატურა"
+
+msgid "Keyboard Layout"
+msgstr "კლავიატურის განლაგება"
+
+msgid "Keyboard Shortcuts"
+msgstr "კლავიატურის მალსახმობები"
+
+msgid "Keyboard shortcuts"
+msgstr "კლავიატურის მალსახმობები"
+
+msgid "_Keyboard Shortcuts"
+msgstr "_კლავიატურის მალსახმობები"
+
+msgid "Keys"
+msgstr "გასაღებები"
+
+msgid "Keyword"
+msgstr "საკვანძო სიტყვა"
+
+msgid "Keywords"
+msgstr "საკვანძო სიტყვები"
+
+msgid "Khmer"
+msgstr "კხმერული"
+
+msgid "KiB"
+msgstr "კიბ"
+
+msgid "Kind"
+msgstr "ტიპი"
+
+msgid "Kiribati"
+msgstr "კირიბატი"
+
+msgid "km"
+msgstr "კმ"
+
+msgid "KMail"
+msgstr "KMail"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "კორეული"
+
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+msgid "Kuwait"
+msgstr "ქუვეიტი"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "მარცხ"
+
+msgid "Label"
+msgstr "ჭდე"
+
+msgid "label"
+msgstr "ჭდე"
+
+msgid "Labels"
+msgstr "ჭდეები"
+
+msgid "Landscape"
+msgstr "ლანდშაფტი"
+
+msgid "Language"
+msgstr "ენა"
+
+msgid "_Language"
+msgstr "ე_ნა"
+
+msgid "Languages"
+msgstr "ენები"
+
+msgid "Lao"
+msgstr "ლაოსური"
+
+msgid "Laos"
+msgstr "ლაოსი"
+
+msgid "Large"
+msgstr "დიდი"
+
+msgid "Last"
+msgstr "ბოლო"
+
+msgid "Last Modified"
+msgstr "ბოლოს შეცვლის თარიღი"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "ლათინური"
+
+msgid "Latitude"
+msgstr "განედი"
+
+msgid "Latvia"
+msgstr "ლატვია"
+
+msgid "Latvian"
+msgstr "ლატვიური"
+
+msgid "Launch %1"
+msgstr "%1-ს გაშვება"
+
+msgid "Layer"
+msgstr "ფენა"
+
+msgid "Layers"
+msgstr "ფენები"
+
+msgid "Layout"
+msgstr "განლაგება"
+
+msgid "Leave Fullscreen"
+msgstr "სრული ეკრანიდან გამოსვლა"
+
+msgid "Lebanon"
+msgstr "ლიბანი"
+
+msgid "Left"
+msgstr "მარცხენა"
+
+msgid "left"
+msgstr "მარცხნივ"
+
+msgid "&Left"
+msgstr "&მარცხენა"
+
+msgid "_Left"
+msgstr "მარც_ხნივ"
+
+msgid "Left to Right"
+msgstr "მარცხნიდან მარჯვნივ"
+
+msgid "Legacy"
+msgstr "ძველი"
+
+msgid "Legend"
+msgstr "შინაარსი"
+
+msgid "Length"
+msgstr "ხანგრძლივობა"
+
+msgid "Lesotho"
+msgstr "ლესოტო"
+
+msgid "Letter"
+msgstr "წერილი"
+
+msgid "Level"
+msgstr "დონე"
+
+msgid "Level %1"
+msgstr "დონე %1"
+
+msgid "Levels"
+msgstr "დონეები"
+
+msgid "Liberia"
+msgstr "ლიბერია"
+
+msgid "Library"
+msgstr "ბიბლიოთეკა"
+
+msgid "License"
+msgstr "ლიცენზია"
+
+msgid "Liechtenstein"
+msgstr "ლიჰტენშტაინი"
+
+msgid "Light"
+msgstr "ღია"
+
+msgid "Lighten"
+msgstr "გაღიავება"
+
+msgid "Lightness"
+msgstr "სიკაშკაშე"
+
+msgid "Limit"
+msgstr "ზღვარი"
+
+msgid "Limits"
+msgstr "ლიმიტები"
+
+msgid "Line"
+msgstr "ხაზი"
+
+msgid "line"
+msgstr "ხაზი"
+
+msgid "Line Break"
+msgstr "ხაზის დასრულება"
+
+msgid "Line Color"
+msgstr "ხაზის ფერი"
+
+msgid "Line Numbers"
+msgstr "ხაზის ნომრები"
+
+msgid "Line Width"
+msgstr "ხაზის სიგანე"
+
+msgid "Line width"
+msgstr "ხაზის სიგანე"
+
+msgid "Linear"
+msgstr "ხაზოვანი"
+
+msgid "Lines"
+msgstr "ხაზები"
+
+msgid "Link"
+msgstr "ბმული"
+
+msgid "link"
+msgstr "ბმული"
+
+msgid "Link URL"
+msgstr "ბმულის URL"
+
+msgid "Links"
+msgstr "ბმულები"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "სია"
+
+msgid "List View"
+msgstr "სიისებრი ხედი"
+
+msgid "Lists"
+msgstr "სიები"
+
+msgid "Lists the available options for user feedback"
+msgstr "მომხმარებლის უკუკავშირის ხელმისაწვდომი ვარიანტები"
+
+msgid "Lithuania"
+msgstr "ლიეტუვა"
+
+msgid "Lithuanian"
+msgstr "ლიტვური"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "ჩატვირთვა"
+
+msgid "Load..."
+msgstr "ჩატვირთვა..."
+
+msgid "Load Game"
+msgstr "თამაშის ჩატვირთვა"
+
+msgid "Loading"
+msgstr "იტვირთება"
+
+msgid "Loading..."
+msgstr "იტვირთება..."
+
+msgid "Loading %1..."
+msgstr "%1-ის ჩატვირთვა..."
+
+msgid "Local"
+msgstr "ლოკალური"
+
+msgid "Locale"
+msgstr "ენა"
+
+msgid "Locality"
+msgstr "რაიონი"
+
+msgid "Location"
+msgstr "მდებარეობა"
+
+msgid "Locations"
+msgstr "მდებარეობები"
+
+msgid "Lock"
+msgstr "ჩაკეტვა"
+
+msgid "Lock Screen"
+msgstr "ეკრანის დაბლოკვა"
+
+msgid "Locked"
+msgstr "დაბლოკილია"
+
+msgid "Log"
+msgstr "ჟურნალი"
+
+msgid "Log in"
+msgstr "შესვლა"
+
+msgid "Log Out"
+msgstr "გასვლა"
+
+msgid "Logarithmic"
+msgstr "ლოგარითმული"
+
+msgid "Logging"
+msgstr "ჟურნალში ჩაწერა"
+
+msgid "Logging in..."
+msgstr "შესვლა…"
+
+msgid "Logic"
+msgstr "ლოგიკური"
+
+msgid "Login"
+msgstr "შესვლა"
+
+msgid "_Login"
+msgstr "_მომხმარებელი"
+
+msgid "Logout"
+msgstr "გასვლა"
+
+msgid "Logs"
+msgstr "ჟურნალი"
+
+msgid "Longitude"
+msgstr "გრძედი"
+
+msgid "Loop"
+msgstr "მარყუჟი"
+
+msgid "Low"
+msgstr "დაბალი"
+
+msgid "Lower"
+msgstr "დაწევა"
+
+msgid "Lowercase"
+msgstr "პატარა სიმბოლოები"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "სიკაშკაშე"
+
+msgid "Luxembourg"
+msgstr "ლუქსემბურგი"
+
+msgid "Lyricist"
+msgstr "ლირიკოსი"
+
+msgid "Lyrics"
+msgstr "ლირიკა"
+
+msgid "M"
+msgstr "მ"
+
+msgid "m"
+msgstr "წთ"
+
+msgid "Macedonian"
+msgstr "მაკედონური"
+
+msgid "Macro"
+msgstr "მაკრო"
+
+msgid "Macros"
+msgstr "მაკროები"
+
+msgid "Madagascar"
+msgstr "მადაგასკარი"
+
+msgid "Magenta"
+msgstr "ალისფერი"
+
+msgid "Mail"
+msgstr "წერილი"
+
+msgid "Main"
+msgstr "მთავარი"
+
+msgid "Main Menu"
+msgstr "მთავარი მენიუ"
+
+msgid "Main Toolbar"
+msgstr "ხელსაწყოთა მთავარი ზოლი"
+
+msgid "Main Window"
+msgstr "მთავარი ფანჯარა"
+
+msgid "Main window"
+msgstr "მთავარი ფანჯარა"
+
+msgid "Maintainer"
+msgstr "წამყვანი პროგრამისტი"
+
+msgid "Malawi"
+msgstr "მალავი"
+
+msgid "Malay"
+msgstr "მალაიური"
+
+msgid "Malayalam"
+msgstr "მალაიამი"
+
+msgid "Malaysia"
+msgstr "მალაიზია"
+
+msgid "Maldives"
+msgstr "მალდივები"
+
+msgid "Male"
+msgstr "მამრობითი"
+
+msgid "Mali"
+msgstr "მალი"
+
+msgid "Malta"
+msgstr "მალტა"
+
+msgid "Maltese"
+msgstr "მალტური"
+
+msgid "Manager"
+msgstr "მმართველი"
+
+msgid "Manual"
+msgstr "ხელით"
+
+msgid "Manufacturer"
+msgstr "მწარმოებელი"
+
+msgid "Map"
+msgstr "რუკა"
+
+msgid "Maps"
+msgstr "რუკები"
+
+msgid "Marathi"
+msgstr "მარათი"
+
+msgid "Marble"
+msgstr "Marble"
+
+msgid "March"
+msgstr "მარტი"
+
+msgid "Margins"
+msgstr "გვერდის ველები"
+
+msgid "Mark"
+msgstr "დანიშვნა"
+
+msgid "Mark as Read"
+msgstr "წაკითხულად მონიშვნა"
+
+msgid "Markdown"
+msgstr "მარკდაუნი"
+
+msgid "Marker"
+msgstr "სანიშნი"
+
+msgid "Markers"
+msgstr "მარკერები"
+
+msgid "Marshall Islands"
+msgstr "მარშალის კუნძულები"
+
+msgid "Mask"
+msgstr "ნიღაბი"
+
+msgid "Mass"
+msgstr "მასა"
+
+msgid "Match"
+msgstr "დამთხვევა"
+
+msgid "Match case"
+msgstr "დიდი და პატარა ასოების სხვაობა"
+
+msgid "_Match case"
+msgstr "_დიდი და პატარა ასოების სხვაობა"
+
+msgid "Math"
+msgstr "მათემატიკა"
+
+msgid "Matrix"
+msgstr "Matrix"
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "მავრიტანია"
+
+msgid "Mauritius"
+msgstr "მავრიკი"
+
+msgid "Max"
+msgstr "მაქს"
+
+msgid "max"
+msgstr "მაქსიმუმი"
+
+msgid "Maximize"
+msgstr "გადიდება"
+
+msgid "Maximum"
+msgstr "მაქსიმუმი"
+
+msgid "May"
+msgstr "მაისი"
+
+msgid "Maze"
+msgstr "ლაბირინთი"
+
+msgid "MB"
+msgstr "მბ"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "მნიშვნელობა"
+
+msgid "Measure"
+msgstr "გაზომვა"
+
+msgid "Media"
+msgstr "მედია"
+
+msgid "Media Player"
+msgstr "მედიის დამკვრელი"
+
+msgid "Median"
+msgstr "საშუალო"
+
+msgid "Medium"
+msgstr "საშუალო"
+
+msgid "medium"
+msgstr "საშუალო"
+
+msgid "Member"
+msgstr "წევრი"
+
+msgid "Memory"
+msgstr "მეხსიერება"
+
+msgid "Menu"
+msgstr "მენიუ"
+
+msgid "Mercury"
+msgstr "მერკური"
+
+msgid "Merge"
+msgstr "შერწყმა"
+
+msgid "Message"
+msgstr "შეტყობინება"
+
+msgid "message"
+msgstr "შეტყობინება"
+
+msgid "Messages"
+msgstr "შეტყობინებები"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "მეტამონაცემები"
+
+msgid "Metal"
+msgstr "ლითონი"
+
+msgid "meters"
+msgstr "მეტრი"
+
+msgid "Method"
+msgstr "მეთოდი"
+
+msgid "Metric"
+msgstr "მეტრული სისტემა"
+
+msgid "Mexico"
+msgstr "მექსიკა"
+
+msgid "MiB"
+msgstr "მიბ"
+
+msgid "Microphone"
+msgstr "მიკროფონი"
+
+msgid "Middle"
+msgstr "შუა"
+
+msgid "Miha Čančula"
+msgstr "მიჰა ჩანჩულა"
+
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+msgid "Millimeters"
+msgstr "მილიმეტრი"
+
+msgid "Millimeters (mm)"
+msgstr "მილიმეტრი (მმ)"
+
+msgid "Milliseconds"
+msgstr "მილიწამი"
+
+msgid "milliseconds"
+msgstr "მილიწამი"
+
+msgid "Min"
+msgstr "მინ"
+
+msgid "min"
+msgstr "წთ"
+
+msgid "Minimize"
+msgstr "ჩაკეცვა"
+
+msgid "Minimum"
+msgstr "მინიმუმი"
+
+msgid "Minute"
+msgstr "წუთი"
+
+msgid "Minutes"
+msgstr "წუთი"
+
+msgid "minutes"
+msgstr "წუთი"
+
+msgid "Mirror"
+msgstr "სარკე"
+
+msgid "Misc"
+msgstr "სხვანი"
+
+msgid "Miscellaneous"
+msgstr "სხვადასხვა"
+
+msgid "missing plugin file \"%s\""
+msgstr "აკლია დამატების ფაილი \"%s\""
+
+msgid "Miter limit"
+msgstr "ფაცეტის ლიმიტი"
+
+msgid "Mix"
+msgstr "მიქსი"
+
+msgid "mm"
+msgstr "მმ"
+
+msgid "Mobile"
+msgstr "მობაილი"
+
+msgid "Mode"
+msgstr "რეჟიმი"
+
+msgid "Model"
+msgstr "მოდელი"
+
+msgid "Modem"
+msgstr "მოდემი"
+
+msgid "Modified"
+msgstr "შეიცვალა"
+
+msgid "modified"
+msgstr "შეიცვალა"
+
+msgid "Modifiers"
+msgstr "მოდიფიკატორები"
+
+msgid "Modify"
+msgstr "ჩასწორება"
+
+msgid "Modify..."
+msgstr "ჩასწორება…"
+
+msgid "&Modify..."
+msgstr "&ჩასწორება..."
+
+msgid "Modify search behavior"
+msgstr "ძებნის ქცევის შეცვლა"
+
+msgid "Module"
+msgstr "მოდული"
+
+msgid "Modules"
+msgstr "მოდულები"
+
+msgid "Moldova"
+msgstr "მოლდოვა"
+
+msgid "Monaco"
+msgstr "მონაკო"
+
+msgid "Monday"
+msgstr "ორშაბათი"
+
+msgid "Mongolia"
+msgstr "მონღოლეთი"
+
+msgid "Mongolian"
+msgstr "მონღოლური"
+
+msgid "Monitor"
+msgstr "მონიტორინგი"
+
+msgid "Mono"
+msgstr "მონო"
+
+msgid "Monochrome"
+msgstr "შავთეთრი"
+
+msgid "Monospace"
+msgstr "ერთსიგანიანი"
+
+msgid "Montenegro"
+msgstr "მონტენეგრო"
+
+msgid "Month"
+msgstr "თვე"
+
+msgid "Month View"
+msgstr "თვის ხედი"
+
+msgid "Monthly"
+msgstr "თვეში ერთხელ"
+
+msgid "Months"
+msgstr "თვე"
+
+msgid "More"
+msgstr "მეტი"
+
+msgid "More..."
+msgstr "მეტი..."
+
+msgid "More actions"
+msgstr "მეტი ქმედება"
+
+msgid "More Information"
+msgstr "მეტი ინფორმაცია"
+
+msgid "More options"
+msgstr "მეტი პარამეტრი"
+
+msgid "Morocco"
+msgstr "მაროკო"
+
+msgid "Mount"
+msgstr "მიმაგრება"
+
+msgid "Mount point"
+msgstr "მიმაგრების წერტილი"
+
+msgid "Mouse"
+msgstr "თაგუნა"
+
+msgid "Mouse Wheel"
+msgstr "თაგუნას რგოლი"
+
+msgid "Move"
+msgstr "გადატანა"
+
+msgid "&Move"
+msgstr "&გადატანა"
+
+msgid "_Move"
+msgstr "_გადატანა"
+
+msgid "Move %1"
+msgstr "%1-ის გადატანა"
+
+msgid "Move Down"
+msgstr "ჩამოწევა"
+
+msgid "Move down"
+msgstr "ქვემოთ ჩამოწევა"
+
+msgid "Move &Down"
+msgstr "ჩამოწევა"
+
+msgid "&Move Here"
+msgstr "აქ გადმოტანა"
+
+msgid "Move Left"
+msgstr "მარცხნივ გაწევა"
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr "მარჯვნივ გაწევა"
+
+msgid "Move Tab Left"
+msgstr "ჩანართის მარცხნივ გადატანა"
+
+msgid "Move Tab Right"
+msgstr "ჩანართის მარჯვნივ გადატანა"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "გადატანა"
+
+msgid "Move to Bottom"
+msgstr "ბოლოში ჩამოტანა"
+
+msgid "Move to Top"
+msgstr "თავში ატანა"
+
+msgid "Move to Trash"
+msgstr "ნაგავში გადატანა"
+
+msgid "&Move to Trash"
+msgstr "&სანაგვე ყუთში გადატანა"
+
+msgid "Move Up"
+msgstr "აწევა"
+
+msgid "Move up"
+msgstr "აწევა"
+
+msgid "Move &Up"
+msgstr "აწევა"
+
+msgid "Mozambique"
+msgstr "მოზამბიკი"
+
+msgid "ms"
+msgstr "მწმ"
+
+msgid "m/s"
+msgstr "მ/წმ"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "მულტიმედია"
+
+msgid "Multiply"
+msgstr "გამრავლება"
+
+msgid "Music"
+msgstr "მუსიკა"
+
+msgid "Music Player"
+msgstr "Music Player"
+
+msgid "Mute"
+msgstr "დადუმება"
+
+msgid "Myanmar"
+msgstr "მიანმარი"
+
+msgid "N"
+msgstr "N"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "n/a"
+msgstr "შეუსაბამო"
+
+msgid "NAME"
+msgstr "სახელი"
+
+msgid "Name"
+msgstr "სახელი"
+
+msgid "name"
+msgstr "სახელი"
+
+msgid "&Name"
+msgstr "&სახელი"
+
+msgid "_Name"
+msgstr "_სახელი"
+
+msgid "Name: %1"
+msgstr "სახელი: %1"
+
+msgid "Namespace"
+msgstr "სახელების სივრცე"
+
+msgid "Namibia"
+msgstr "ნამიბია"
+
+msgid "Nature"
+msgstr "ბუნება"
+
+msgid "Nauru"
+msgstr "ნაურუ"
+
+msgid "Navigation"
+msgstr "ნავიგაცია"
+
+msgid "Negative"
+msgstr "უარყოფითი"
+
+msgid "Neon"
+msgstr "ნეონი"
+
+msgid "Nepal"
+msgstr "ნეპალი"
+
+msgid "Nepali"
+msgstr "ნეპალური"
+
+msgid "Netherlands"
+msgstr "ჰოლანდია"
+
+msgid "Network"
+msgstr "ქსელი"
+
+msgid "Networks"
+msgstr "ქსელები"
+
+msgid "Never"
+msgstr "არასდროს"
+
+msgid "never"
+msgstr "არასოდეს"
+
+msgid "New"
+msgstr "ახალი"
+
+msgid "&New"
+msgstr "&ახალი"
+
+msgid "_New"
+msgstr "_ახალი"
+
+msgid "New..."
+msgstr "ახალი..."
+
+msgid "&New..."
+msgstr "&ახალი..."
+
+msgid "_New..."
+msgstr "_ახალი..."
+
+msgid "New Bookmark"
+msgstr "ახალი სანიშნე"
+
+msgid "New Connection"
+msgstr "ახალი შეერთება"
+
+msgid "New File"
+msgstr "ახალი ფაილი"
+
+msgid "New Folder"
+msgstr "ახალი საქაღალდე"
+
+msgid "New folder"
+msgstr "ახალი საქაღალდე"
+
+msgid "New Folder..."
+msgstr "ახალი საქაღალდე..."
+
+msgid "New Game"
+msgstr "ახალი თამაში"
+
+msgid "New Group"
+msgstr "ახალი ჯგუფი"
+
+msgid "New Item"
+msgstr "ახალი ელემენტი"
+
+msgid "New Layer"
+msgstr "ახალი ფენა"
+
+msgid "New Message"
+msgstr "ახალი შეტყობინება"
+
+msgid "New Name"
+msgstr "ახალი სახელი"
+
+msgid "New name"
+msgstr "ახალი სახელი"
+
+msgid "New Profile"
+msgstr "ახალი პროფილი"
+
+msgid "New Project"
+msgstr "ახალი პროექტი"
+
+msgid "New Session"
+msgstr "ახალი სესია"
+
+msgid "New South Wales"
+msgstr "ახალი სამხრეთი უელსი"
+
+msgid "New Tab"
+msgstr "ახალი ჩანართი"
+
+msgid "New tag"
+msgstr "ახალი ჭდე"
+
+msgid "New Window"
+msgstr "ახალი ფანჯარა"
+
+msgid "_New Window"
+msgstr "_ახალი ფანჯარა"
+
+msgid "New &Window"
+msgstr "&ახალი ფანჯარა"
+
+msgid "New _Window"
+msgstr "ახალი _ფანჯარა"
+
+msgid "New Zealand"
+msgstr "ახალი ზელანდია"
+
+msgid "News"
+msgstr "სიახლეები"
+
+msgid "Newton"
+msgstr "ნიუტონი"
+
+msgid "Next"
+msgstr "შემდეგი"
+
+msgid "&Next"
+msgstr "&შემდეგი"
+
+msgid "_Next"
+msgstr "_შემდეგი"
+
+msgid "Next Image"
+msgstr "შემდეგი გამოსახულება"
+
+msgid "Next month"
+msgstr "შემდეგი თვე"
+
+msgid "Next Page"
+msgstr "შემდეგი გვერდი"
+
+msgid "Next Tab"
+msgstr "შემდეგი ჩანართი"
+
+msgid "Next Track"
+msgstr "შემდეგი აუდიობილიკი"
+
+msgid "Nicaragua"
+msgstr "ნიკარაგუა"
+
+msgid "Nickname"
+msgstr "მეტსახელი"
+
+msgid "Niger"
+msgstr "ნიგერი"
+
+msgid "Nigeria"
+msgstr "ნიგერია"
+
+msgid "Night"
+msgstr "ღამე"
+
+msgid "No"
+msgstr "არა"
+
+msgid "no"
+msgstr "არა"
+
+msgid "_No"
+msgstr "_არა"
+
+msgid "No."
+msgstr "ნომერი."
+
+msgid "No description available"
+msgstr "აღწერის გარეშე"
+
+msgid "No devices found"
+msgstr "მოწყობილობების პოვნა ვერ მოხერხდა"
+
+msgid "No error"
+msgstr "შეცდომების გარეშე"
+
+msgid "No file selected"
+msgstr "ფაილი არჩეული არაა"
+
+msgid "No filter"
+msgstr "ფილტრის გარეშე"
+
+msgid "No Limit"
+msgstr "უსაზღვრო"
+
+msgid "No matches"
+msgstr "დათხვევა არ არსებობს"
+
+msgid "No Name"
+msgstr "სახელის გარეშე"
+
+msgid "No name"
+msgstr "სახელის გარეშე"
+
+msgid "No network connection"
+msgstr "ქსელური შეერთებების გარეშე"
+
+msgid "No results"
+msgstr "შედეგების გარეშე"
+
+msgid "No Results Found"
+msgstr "შედეგების გარეშე"
+
+msgid "No results found"
+msgstr "შედეგების გარეშე"
+
+msgid "No search results"
+msgstr "ძებნის შედეგების გარეშე"
+
+msgid "No selection"
+msgstr "არაფერია მონიშნული"
+
+msgid "No Subject"
+msgstr "სათაურის გარეშე"
+
+msgid "No VPN configuration options."
+msgstr "VPN-ის მორგების გარეშე."
+
+msgid "Noise"
+msgstr "ხმაური"
+
+msgid "None"
+msgstr "არაფერი"
+
+msgid "none"
+msgstr "არა"
+
+msgid "&None"
+msgstr "&არაფერი"
+
+msgid "_None"
+msgstr "არ_ცერთი"
+
+msgid "(None)"
+msgstr "(არცერთი)"
+
+msgid "(none)"
+msgstr "(არაფერი)"
+
+msgid "Nordic"
+msgstr "სკანდინავიური"
+
+msgid "Normal"
+msgstr "ნორმალური"
+
+msgid "_Normal Size"
+msgstr "_ნორმალური ზომა"
+
+msgid "Normalize"
+msgstr "ნორმალიზაცია"
+
+msgid "North"
+msgstr "ჩრდილოეთი"
+
+msgid "North America"
+msgstr "ჩრდილოეთ ამერიკა"
+
+msgid "Norway"
+msgstr "ნორვეგია"
+
+msgid "Norwegian"
+msgstr "ნორვეგიული"
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "%1-ის ჩაწერის შეცდომა. დანაყოფი გადავსებულია?"
+
+msgid "Not Available"
+msgstr "ხელმიუწვდომელია"
+
+msgid "Not available"
+msgstr "მიუწვდომელია"
+
+msgid "not available"
+msgstr "მიუწვდომელია"
+
+msgid "Not Connected"
+msgstr "დაკავშირებული არაა"
+
+msgid "Not connected"
+msgstr "დაკავშირებული არაა"
+
+msgid "Not defined"
+msgstr "აღუწერელია"
+
+msgid "Not found"
+msgstr "ნაპოვნი არაა"
+
+msgid "Not implemented"
+msgstr "განხორციელებული არაა"
+
+msgid "Not running"
+msgstr "გაშვებული არაა"
+
+msgid "Not supported"
+msgstr "მხარდაუჭერელია"
+
+msgid "Note"
+msgstr "შენიშვნა"
+
+msgid "Notes"
+msgstr "შენიშვნები"
+
+msgid "Nothing"
+msgstr "არაფერი"
+
+msgid "Notice"
+msgstr "გაფრთხილება"
+
+msgid "Notification"
+msgstr "შეტყობინება"
+
+msgid "Notifications"
+msgstr "გაფრთხილებები"
+
+msgid "Noun"
+msgstr "ნუნი"
+
+msgid "November"
+msgstr "ნოემბერი"
+
+msgid "Now"
+msgstr "ახლა"
+
+msgid "now"
+msgstr "ახლა"
+
+msgid "NT Domain"
+msgstr "NT დომენი"
+
+msgid "NUMBER"
+msgstr "რიცხვი"
+
+msgid "Number"
+msgstr "რიცხვი"
+
+msgid "number"
+msgstr "ნომერი"
+
+msgid "Number of columns"
+msgstr "სვეტების რაოდენობა"
+
+msgid "Numbers"
+msgstr "რიცხვები"
+
+msgid "Numeric"
+msgstr "რიცხვობრივი"
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "ობიექტი"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr "ობიექტის კლასს '%s ' თვისება სახელით'%s' არ გააჩნია"
+
+msgid "Objects"
+msgstr "ობიექტები"
+
+msgid "Oblique"
+msgstr "ირიბი"
+
+msgid "Octal"
+msgstr "რვაობითი"
+
+msgid "October"
+msgstr "ოქტომბერი"
+
+msgid "Off"
+msgstr "გამორთ"
+
+msgid "off"
+msgstr "გამორთული"
+
+msgid "Office"
+msgstr "ოფისი"
+
+msgid "Offline"
+msgstr "გათიშული"
+
+msgid "Offset"
+msgstr "წანაცვლება"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "დიახ"
+
+msgid "Ok"
+msgstr "დიახ"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "_OK"
+msgstr "_დიახ"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Oman"
+msgstr "ომანი"
+
+msgid "On"
+msgstr "ჩართული"
+
+msgid "on"
+msgstr "ჩართული"
+
+msgid "One"
+msgstr "ერთი"
+
+msgid "Online"
+msgstr "ონლაინ"
+
+msgid "Online Accounts"
+msgstr "ონლაინ ანგარიშები"
+
+msgid "Opacity"
+msgstr "გაუმჭვირვალობა"
+
+msgid "Opaque"
+msgstr "გაუმჭვირვალე"
+
+msgid "Open"
+msgstr "გახსნა"
+
+msgid "&Open"
+msgstr "&გახსნა"
+
+msgid "_Open"
+msgstr "_გახსნა"
+
+msgid "Open..."
+msgstr "გახსნა..."
+
+msgid "&Open..."
+msgstr "&გახსნა..."
+
+msgid "_Open..."
+msgstr "_გახსნა..."
+
+msgid "Open %1"
+msgstr "%1-ის გახსნა"
+
+msgid "Open a file"
+msgstr ""
+
+msgid "Open a new tab"
+msgstr "ახალი ჩანართის გახსნა"
+
+msgid "Open a new window"
+msgstr "ახალი ფანჯრის გახსნა"
+
+msgid "Open an existing document"
+msgstr "უკვე არსებული დოკუმენტის გახსნა"
+
+msgid "Open Audio"
+msgstr "აუდიოს გახსნა"
+
+msgid "Open Containing Folder"
+msgstr "შემცველი საქაღალდის გახსნა"
+
+msgid "&Open Containing Folder"
+msgstr "შემცველი საქაღალდის &გახსნა"
+
+msgid "Open Document"
+msgstr "დოკუმენტის გახსნა"
+
+msgid "Open File"
+msgstr "ფაილის გახსნა"
+
+msgid "Open file"
+msgstr "ფაილის გახსნა"
+
+msgid "Open Folder"
+msgstr "საქაღალდის გახსნა"
+
+msgid "Open folder"
+msgstr "საქაღალდის გახსნა"
+
+msgid "Open Image"
+msgstr "გამოსახულების გახსნა"
+
+msgid "Open in Browser"
+msgstr "ბრაუზერში გახსნა"
+
+msgid "Open in File Manager"
+msgstr "ფაილთა მმართველში გახსნა"
+
+msgid "Open in New Tab"
+msgstr "ახალ ჩანართში გახსნა"
+
+msgid "Open in New Window"
+msgstr "ახალ ფანჯარაში გახსნა"
+
+msgid "Open Link"
+msgstr "ბმულის გახსნა"
+
+msgid "_Open Link"
+msgstr "_ბმულის გახსნა"
+
+msgid "Open Location"
+msgstr "მდებარეობის გახსნა"
+
+msgid "Open Menu"
+msgstr "მენიუს გახსნა"
+
+msgid "Open Project"
+msgstr "პროექტის გახსნა"
+
+msgid "Open &Recent"
+msgstr "ბოლოს გახსნილი ფაილების გახსნა"
+
+msgid "Open Terminal Here"
+msgstr "ტერმინალში გახსნა აქ"
+
+msgid "Open URL"
+msgstr "URL-ის გახსნა"
+
+msgid "Open Video"
+msgstr "ვიდეოს გახსნა"
+
+msgid "Open With"
+msgstr "გამხსნელი პროგრამა"
+
+msgid "Open with"
+msgstr "გამხსნელი პროგრამა"
+
+msgid "&Open With"
+msgstr "&გამხსნელი პროგრამა"
+
+msgid "Open With..."
+msgstr "გამხსნელი პროგრამა..."
+
+msgid "Open &with %1"
+msgstr "%1-ით &გახსნა"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "ფაილის გახსნა..."
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr "Opera"
+
+msgid "Operation"
+msgstr "ოეპრაცია"
+
+msgid "Operation was cancelled"
+msgstr "ოპერაცია გაუქმდა"
+
+msgid "Operations"
+msgstr "ოპერაციები"
+
+msgid "Operator"
+msgstr "ოპერატორი"
+
+msgid "Optical Character Recognition"
+msgstr "სიმბოლოების ოპტიკური გამოცნობა"
+
+msgid "Optimize"
+msgstr "ოპტიმიზაცია"
+
+msgid "Option"
+msgstr "მორგება"
+
+msgid "Optional"
+msgstr "არასავალდებულო"
+
+msgid "Options"
+msgstr "პარამეტრები"
+
+msgid "&Options"
+msgstr "&პარამეტრები"
+
+msgid "OR"
+msgstr "ან"
+
+msgid "Or"
+msgstr "ან"
+
+msgid "or"
+msgstr "ან"
+
+msgid "Orange"
+msgstr "ნარინჯისფერი"
+
+msgid "Order"
+msgstr "დალაგება"
+
+msgid "Organization"
+msgstr "ორგანიზაცია"
+
+msgid "Orientation"
+msgstr "ორიენტაცია"
+
+msgid "Origin"
+msgstr "საწყისი"
+
+msgid "Original"
+msgstr "საწყისი"
+
+msgid "Original Author"
+msgstr "საწყისი ავტორი"
+
+msgid "Original author"
+msgstr "საწყისი ავტორი"
+
+msgid "Original Size"
+msgstr "საწყისი ზომა"
+
+msgid "Oriya"
+msgstr "ორია"
+
+msgid "Other"
+msgstr "სხვა"
+
+msgid "other"
+msgstr "სხვა"
+
+msgid "Other..."
+msgstr "სხვა..."
+
+msgid "Other Application..."
+msgstr "სხვა პროგრამა..."
+
+msgid "Other Options"
+msgstr "სხვა პარამეტრები"
+
+msgid "Others"
+msgstr "სხვები"
+
+msgid "Out"
+msgstr "გარე"
+
+msgid "Out of memory"
+msgstr "არასაკმარისი მეხსიერება"
+
+msgid "Outgoing"
+msgstr "გამავალი"
+
+msgid "Outline"
+msgstr "კონტური"
+
+msgid "Output"
+msgstr "გამოტანა"
+
+msgid "Overlay"
+msgstr "დადება"
+
+msgid "Overview"
+msgstr "მიმოხილვა"
+
+msgid "Overwrite"
+msgstr "თავზე გადაწერა"
+
+msgid "Overwrite File?"
+msgstr "ჩავანაცვლო ფაილი?"
+
+msgid "Owner"
+msgstr "მფლობელი"
+
+msgid "Ownership"
+msgstr "მფლობელობა"
+
+msgid "Oxygen"
+msgstr "Oxygen"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "პაკეტი"
+
+msgid "Padding"
+msgstr "შევსება"
+
+msgid "Page"
+msgstr "გვერდი"
+
+msgid "page"
+msgstr "page"
+
+msgid "Page %1"
+msgstr "გვერდი %1"
+
+msgid "Page %1 of %2"
+msgstr "გვერდი %1 %2-დან"
+
+msgid "Page Break"
+msgstr "გვერდის გაყოფა"
+
+msgid "Page Count"
+msgstr "გვერდის რაოდენობა"
+
+msgid "Page Number"
+msgstr "გვერდის ნომერი"
+
+msgid "Page Setup"
+msgstr "გვერდის მორგება"
+
+msgid "Pager"
+msgstr "პეიჯერი"
+
+msgid "Pages"
+msgstr "გვერდები"
+
+msgid "Paint"
+msgstr "დახატვა"
+
+msgid "Pair"
+msgstr "დაწყვილება"
+
+msgid "Pakistan"
+msgstr "პაკისტანი"
+
+msgid "Palau"
+msgstr "პალაუ"
+
+msgid "Palette"
+msgstr "პალიტრა"
+
+msgid "Panama"
+msgstr "პანამა"
+
+msgid "Panel"
+msgstr "ზოლი"
+
+msgid "Panels"
+msgstr "პანელები"
+
+msgid "&Panels"
+msgstr "&პანელები"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "ქაღალდი"
+
+msgid "Paper Size"
+msgstr "ქაღალდის ზომა"
+
+msgid "Papua New Guinea"
+msgstr "პაპუა ახალი გვინეა"
+
+msgid "Paragraph"
+msgstr "პარაგრაფი"
+
+msgid "Paraguay"
+msgstr "პარაგვაი"
+
+msgid "Parallel"
+msgstr "პარალელური"
+
+msgid "Parameter"
+msgstr "პარამეტრი"
+
+msgid "Parameters"
+msgstr "პარამეტრები"
+
+msgid "Parent"
+msgstr "მშობელი"
+
+msgid "Partition"
+msgstr "დანაყოფი"
+
+msgid "Password"
+msgstr "პაროლი"
+
+msgid "password"
+msgstr "password"
+
+msgid "&Password"
+msgstr "&პაროლი"
+
+msgid "_Password"
+msgstr "პაროლი"
+
+msgid "Password..."
+msgstr "პაროლი…"
+
+msgid "Passwords"
+msgstr "პაროლები"
+
+msgid "Paste"
+msgstr "ჩასმა"
+
+msgid "&Paste"
+msgstr "&ჩასმა"
+
+msgid "_Paste"
+msgstr "_ჩასმა"
+
+msgid "Path"
+msgstr "ბილიკი"
+
+msgid "path"
+msgstr "ბილიკი"
+
+msgid "Paths"
+msgstr "კონტურები"
+
+msgid "Pattern"
+msgstr "შაბლონი"
+
+msgid "Patterns"
+msgstr "შაბლონები"
+
+msgid "Pause"
+msgstr "შეჩერება"
+
+msgid "&Pause"
+msgstr "&შეყოვნება"
+
+msgid "Pause playback"
+msgstr "დაკვრის შეჩერება"
+
+msgid "PAUSED"
+msgstr "შეჩერებულია"
+
+msgid "Paused"
+msgstr "შეჩერებულია"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr "პიკი"
+
+msgid "Peek at Desktop"
+msgstr "სამუშაო მაგიდაზე გაჭვრეტა"
+
+msgid "Pencil"
+msgstr "ფანქარი"
+
+msgid "Pending"
+msgstr "დარჩენილი"
+
+msgid "Pentagon"
+msgstr "ხუთკუთხედი"
+
+msgid "People"
+msgstr "ხალხი"
+
+msgid "Percent"
+msgstr "პროცენტი"
+
+msgid "Percentage"
+msgstr "პროცენტი"
+
+msgid "Perceptual"
+msgstr "აღქმული"
+
+msgid "Performance"
+msgstr "წარმადობა"
+
+msgid "Period"
+msgstr "პერიოდი"
+
+msgid "Permission denied"
+msgstr "წვდომა აკრძალულია"
+
+msgid "Permissions"
+msgstr "წვდომები"
+
+msgid "Persian"
+msgstr "სპარსული"
+
+msgid "Person"
+msgstr "პიროვნება"
+
+msgid "Personal"
+msgstr "პერსონალური"
+
+msgid "Personal Information"
+msgstr "პირადი ინფორმაცია"
+
+msgid "Peru"
+msgstr "პერუ"
+
+msgid "Phase"
+msgstr "ფაზა"
+
+msgid "Philippines"
+msgstr "ფილიპინები"
+
+msgid "Phone"
+msgstr "ტელეფონი"
+
+msgid "Photo"
+msgstr "სურათი"
+
+msgid "PHP Documentation"
+msgstr "PHP-ის დოკუმენტაცია"
+
+msgid "PiB"
+msgstr "პიბ"
+
+msgid "Pick a color"
+msgstr "აირჩიეთ ფერი"
+
+msgid "Picture"
+msgstr "სურათი"
+
+msgid "Pictures"
+msgstr "სურათები"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr "სექტორი"
+
+msgid "Pin"
+msgstr "მიმაგრება"
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "პიქსელი"
+
+msgid "pixels"
+msgstr "პიქსელი"
+
+msgid "Placement"
+msgstr "განლაგება"
+
+msgid "Places"
+msgstr "ადგილები"
+
+msgid "Plain"
+msgstr "უბრალო"
+
+msgid "Plain Text"
+msgstr "უბრალო ტექსტი"
+
+msgid "Plan"
+msgstr "Გეგმა"
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Platform"
+msgstr "პლატფორმა"
+
+msgid "Play"
+msgstr "დაკვრა"
+
+msgid "Play Next"
+msgstr "შემდეგის დაკვრა"
+
+msgid "Play Sounds"
+msgstr "ხმების დაკვრა"
+
+msgid "Playback"
+msgstr "დაკვრა"
+
+msgid "Player"
+msgstr "დამკვრელი"
+
+msgid "Player %1"
+msgstr "მოთამაშე %1"
+
+msgid "Players"
+msgstr "მოთამაშეები"
+
+msgid "Playground"
+msgstr "საცდელი ფუნქციები"
+
+msgid "Playing"
+msgstr "მიმდინარეობს დაკვრა"
+
+msgid "Playlist"
+msgstr "დასაკრავი სია"
+
+msgid "Playlists"
+msgstr "დასაკრავი სიები"
+
+msgid "Play/Pause"
+msgstr "დაკვრა/პაუზა"
+
+msgid "Please choose a file"
+msgstr "გთხოვთ, აირჩიოთ ფაილი"
+
+msgid "Please wait"
+msgstr "გთხოვთ, მოითმინოთ"
+
+msgid "Please wait..."
+msgstr "გთხოვთ, მოითმინოთ…"
+
+msgid "Plot"
+msgstr "გრაფიკი"
+
+msgid "Plots"
+msgstr "გრაფიკები"
+
+msgid "Plugin"
+msgstr "დამატება"
+
+msgid "Plugins"
+msgstr "დამატებები"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "წერტილი"
+
+msgid "Pointers"
+msgstr "მაჩვენებლები"
+
+msgid "Points"
+msgstr "წერტილები"
+
+msgid "points"
+msgstr "წერტილი"
+
+msgid "Poland"
+msgstr "პოლონეთი"
+
+msgid "Policy"
+msgstr "წესები"
+
+msgid "Polish"
+msgstr "პოლონური"
+
+msgid "Polygon"
+msgstr "მრავალკუთხედი"
+
+msgid "Pop"
+msgstr "პოპი"
+
+msgid "Port"
+msgstr "პორტი"
+
+msgid "&Port"
+msgstr "&პორტი"
+
+msgid "Portrait"
+msgstr "პორტრეტი"
+
+msgid "Portugal"
+msgstr "პორტუგალია"
+
+msgid "Portuguese"
+msgstr "პორტუგალიური"
+
+msgid "Position"
+msgstr "თანამდებობა"
+
+msgid "Posterize"
+msgstr "პოსტერიზაცია"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "კვება"
+
+msgid "Power Management"
+msgstr "ენერგიის მართვა"
+
+msgid "Precision"
+msgstr "სიზუსტე"
+
+msgid "Preferences"
+msgstr "მორგება"
+
+msgid "_Preferences"
+msgstr "გამართვა"
+
+msgid "Prefix"
+msgstr "პრეფიქსი"
+
+msgid "Presentation"
+msgstr "პრეზენტაცია"
+
+msgid "Preset"
+msgstr "პრესეტი"
+
+msgid "Presets"
+msgstr "პრესეტები"
+
+msgid "Pressure"
+msgstr "წნევა"
+
+msgid "Preview"
+msgstr "მინიატურა"
+
+msgid "&Preview"
+msgstr "&გადახედვა"
+
+msgid "Previews"
+msgstr "გადახედვები"
+
+msgid "Previous"
+msgstr "წინა"
+
+msgid "&Previous"
+msgstr "&წინა"
+
+msgid "_Previous"
+msgstr "_წინა"
+
+msgid "Previous Image"
+msgstr "წინა გამოსახულება"
+
+msgid "Previous month"
+msgstr "წინა თვე"
+
+msgid "Previous Page"
+msgstr "წინა გვერდი"
+
+msgid "Previous Tab"
+msgstr "წინა ჩანართი"
+
+msgid "Previous Track"
+msgstr "წინა აუდიობილიკი"
+
+msgid "Price"
+msgstr "ფასი"
+
+msgid "Primary"
+msgstr "ძირითადი"
+
+msgid "Print"
+msgstr "ბეჭდვა"
+
+msgid "_Print"
+msgstr "_ბეჭდვა"
+
+msgid "Print..."
+msgstr "ბეჭდვა…"
+
+msgid "&Print..."
+msgstr "&ბეჭდვა…"
+
+msgid "_Print..."
+msgstr "_ბეჭდვა…"
+
+msgid "Print Image"
+msgstr "გამოსახულების დაბეჭდვა"
+
+msgid "Print Preview"
+msgstr "დასაბეჭდის გადახედვა"
+
+msgid "Print version"
+msgstr "მიმდინარე ვერსიის დაბეჭდვა"
+
+msgid "Print version information and exit"
+msgstr "ვერსიის ჩვენება და გასვლა"
+
+msgid "Printer"
+msgstr "პრინტერი"
+
+msgid "Printers"
+msgstr "პრინტერები"
+
+msgid "Printing"
+msgstr "დაბეჭდვა"
+
+msgid "Printing..."
+msgstr "დაბეჭდვა..."
+
+msgid "Priority"
+msgstr "პრიორიტეტი"
+
+msgid "Privacy"
+msgstr "პირადი ინფორმაცია"
+
+msgid "Private"
+msgstr "პირადი"
+
+msgid "Process"
+msgstr "პროცესი"
+
+msgid "Processor"
+msgstr "პროცესორი"
+
+msgid "Producer"
+msgstr "პროდუსერი"
+
+msgid "Product"
+msgstr "პროდუქტი"
+
+msgid "Profession"
+msgstr "პროფესია"
+
+msgid "Profile"
+msgstr "პროფილი"
+
+msgid "Profile name"
+msgstr "პროფილის სახელი"
+
+msgid "Profiles"
+msgstr "პროფილები"
+
+msgid "Program"
+msgstr "პროგრამა"
+
+msgid "Progress"
+msgstr "მიმდინარეობა"
+
+msgid "Project"
+msgstr "პროექტი"
+
+msgid "&Project"
+msgstr "&პროექტი"
+
+msgid "Projects"
+msgstr "პროექტები"
+
+msgid "Properties"
+msgstr "თვისებები"
+
+msgid "&Properties"
+msgstr "&თვისებები"
+
+msgid "_Properties"
+msgstr "_თვისებები"
+
+msgid "Properties..."
+msgstr "თვისებები..."
+
+msgid "&Properties..."
+msgstr "&თვისებები..."
+
+msgid "Property"
+msgstr "თვისება"
+
+msgid "property “%s” invalid or not supported"
+msgstr "თვისება %s არასწორი ან მხარდაუჭერელია"
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr "თვისება '%s' ობიექტის კლასისთვის '%s' ჩაწერადი არაა"
+
+msgid "Proportional"
+msgstr "პროპორციული"
+
+msgid "Protected"
+msgstr "დაცული"
+
+msgid "Protocol"
+msgstr "პროტოკოლი"
+
+msgid "Provider"
+msgstr "მომწოდებელი"
+
+msgid "Proxy"
+msgstr "პროქსი"
+
+msgid "Proxy Settings"
+msgstr "პროქსის მორგება"
+
+msgid "Public"
+msgstr "საჯარო"
+
+msgid "Public Key"
+msgstr "საჯარო გასაღები"
+
+msgid "Publisher"
+msgstr "გამომცემელი"
+
+msgid "Publishing"
+msgstr "გამოცემა"
+
+msgid "Puerto Rico"
+msgstr "პუერტო რიკო"
+
+msgid "Punjabi"
+msgstr "პანჯაბი"
+
+msgid "Push"
+msgstr "გადაცემა"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "ყატარი"
+
+msgid "QR Code"
+msgstr "QR კოდი"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>მენიუს ზოლი მთლიანად დაიმალება. მისი თავიდან საჩვენებლად დააწექით: "
+"%1.</qt>"
+
+msgid "Quality"
+msgstr "ხარისხი"
+
+msgid "Quebec"
+msgstr "კვებეკი"
+
+msgid "Query"
+msgstr "მოთხოვნა"
+
+msgid "Question"
+msgstr "კითხვა"
+
+msgid "Queue"
+msgstr "რიგი"
+
+msgid "Queued"
+msgstr "რიგშია"
+
+msgid "Quit"
+msgstr "გასვლა"
+
+msgid "&Quit"
+msgstr "&გასვლა"
+
+msgid "_Quit"
+msgstr "გასვ_ლა"
+
+msgid "Quit application"
+msgstr "აპლიკაციიდან გასვლა"
+
+msgid "Quit the application"
+msgstr "აპლიკაციიდან გასვლა"
+
+msgid "Quits the application"
+msgstr "აპლიკაციიდან გასვლა"
+
+msgid "Quote"
+msgstr "ციტატა"
+
+msgid "R"
+msgstr "მარჯ"
+
+msgid "Radial"
+msgstr "რადიალური"
+
+msgid "Radio"
+msgstr "რადიო"
+
+msgid "Radius"
+msgstr "რადიუსი"
+
+msgid "Raise"
+msgstr "აწევა"
+
+msgid "Random"
+msgstr "შემთხვევითი"
+
+msgid "Range"
+msgstr "დიაპაზონი"
+
+msgid "Rank"
+msgstr "რანგი"
+
+msgid "Rate"
+msgstr "სიხშირე"
+
+msgid "Rating"
+msgstr "შეფასება"
+
+msgid "Raw"
+msgstr "დაუმუშავებელი"
+
+msgid "Read"
+msgstr "წაკითხვა"
+
+msgid "Read error"
+msgstr "წაკითხვის შეცდომა"
+
+msgid "Read Only"
+msgstr "მხოლოდ კითხვისთვის"
+
+msgid "Read only"
+msgstr "მხოლოდ წაკითხვა"
+
+msgid "Reading"
+msgstr "რედინგი"
+
+msgid "read-only"
+msgstr "მხოლოდ-წაკითხვადი"
+
+msgid "Ready"
+msgstr "მზადაა"
+
+msgid "Ready."
+msgstr "მზადაა."
+
+msgid "Reason"
+msgstr "მიზეზი"
+
+msgid "Reassign"
+msgstr "მალსახმობის თავიდან მინიჭება"
+
+msgid "Recent"
+msgstr "Ბოლო"
+
+msgid "Recent Documents"
+msgstr "ახლახანს გასნილი დოკუმენტები"
+
+msgid "Recent Files"
+msgstr "ბოლო ფაილები"
+
+msgid "Recent files"
+msgstr "უკანასკნელი ფაილების სია"
+
+msgid "Record"
+msgstr "ჩაწერა"
+
+msgid "Recording"
+msgstr "ჩაწერა"
+
+msgid "Rectangle"
+msgstr "მართკუთხედი"
+
+msgid "Recursive"
+msgstr "რეკურსიული"
+
+msgid "Red"
+msgstr "წითელი"
+
+msgid "red"
+msgstr "წითელი"
+
+msgid "Redo"
+msgstr "გამეორება"
+
+msgid "&Redo"
+msgstr "&გამეორება"
+
+msgid "_Redo"
+msgstr "_გამეორება"
+
+msgid "Re&do"
+msgstr "&გამეორება"
+
+msgid "Redo %1"
+msgstr "%1-ის გამეორება"
+
+msgid "Reference"
+msgstr "ბმა"
+
+msgid "References"
+msgstr "ბმები"
+
+msgid "Refresh"
+msgstr "განახლება"
+
+msgid "_Refresh"
+msgstr "_განახლება"
+
+msgid "Reggae"
+msgstr "რეგა"
+
+msgid "Region"
+msgstr "რეგიონი"
+
+msgid "Register"
+msgstr "რეგისტრაცია"
+
+msgid "Regular"
+msgstr "ჩვეულებრივი"
+
+msgid "Regular Expression"
+msgstr "რეგულარული ექსპრესია"
+
+msgid "Regular expression"
+msgstr "რეგულარულ გამოსახულება"
+
+msgid "Reject"
+msgstr "უარყოფა"
+
+msgid "Relative"
+msgstr "ფარდობითი"
+
+msgid "Reload"
+msgstr "თავიდან ჩატვირთვა"
+
+msgid "&Reload"
+msgstr "თავიდან ჩატვირთვა"
+
+msgid "_Reload"
+msgstr "_გადატვირთვა"
+
+msgid "Reminders"
+msgstr "შეხსენებები"
+
+msgid "Remote"
+msgstr "დაშორებული"
+
+msgid "Removable"
+msgstr "მოხსნადი"
+
+msgid "Remove"
+msgstr "წაშლა"
+
+msgid "&Remove"
+msgstr "&წაშლა"
+
+msgid "_Remove"
+msgstr "_წაშლა"
+
+msgid "R&emove"
+msgstr "&წაშლა"
+
+msgid "Re&move"
+msgstr "წა&შლა"
+
+msgid "Remove..."
+msgstr "წაშლა…"
+
+msgid "Remove %1"
+msgstr "%1-ის წაშლა"
+
+msgid "Remove Account"
+msgstr "ანგარიშის წაშლა"
+
+msgid "Remove All"
+msgstr "ყველას გამოერთება"
+
+msgid "Remove Bookmark"
+msgstr "სანიშნეების ამოღება"
+
+msgid "Remove Folder"
+msgstr "საქაღალდის წაშლა"
+
+msgid "Remove from Favorites"
+msgstr "რჩეულებიდან წაშლა"
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "ჯგუფის წაშლა"
+
+msgid "Remove Rule"
+msgstr "წესის წაშლა"
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "გადარქმევა"
+
+msgid "&Rename"
+msgstr "&გადარქმევა"
+
+msgid "_Rename"
+msgstr "_სახელის გადარქმევა"
+
+msgid "Rename..."
+msgstr "სახელის გადარქმევა..."
+
+msgid "&Rename..."
+msgstr "&სახელის გადარქმევა..."
+
+msgid "Rename Bookmark"
+msgstr "სანიშნის გადარქმევა"
+
+msgid "Rename File"
+msgstr "ფაილის გადარქმევა"
+
+msgid "Repeat"
+msgstr "გამეორება"
+
+msgid "Replace"
+msgstr "ჩანაცვლება"
+
+msgid "&Replace"
+msgstr "&ჩანაცვლება"
+
+msgid "_Replace"
+msgstr "_ჩანაცვლება"
+
+msgid "Replace All"
+msgstr "ყველას ჩანაცვლება"
+
+msgid "Replace _All"
+msgstr "ყველ_აფრის ჩანაცვლება"
+
+msgid "Replace an existing instance"
+msgstr "გაშვებული ასლის ჩანაცვლება"
+
+msgid "Replacement"
+msgstr "შემცვლელი"
+
+msgid "Reply"
+msgstr "პასუხი"
+
+msgid "Report"
+msgstr "ანგარიში"
+
+msgid "Report a bug"
+msgstr "შეცდომის პატაკი"
+
+msgid "Report Bug"
+msgstr "შეცდომის ანგარიში"
+
+msgid "Report Bug..."
+msgstr "შეცდომის ანგარიში…"
+
+msgid "&Report Bug..."
+msgstr "&შეცდომის ანგარიში..."
+
+msgid "Reports"
+msgstr "ანგარიშები"
+
+msgid "Required"
+msgstr "საჭიროა"
+
+msgid "Rescan"
+msgstr "თავიდან სკანირება"
+
+msgid "Resend"
+msgstr "თავიდან გაგზავნა"
+
+msgid "Reset"
+msgstr "ჩამოყრა"
+
+msgid "&Reset"
+msgstr "ჩამოყ&რა"
+
+msgid "_Reset"
+msgstr "_განულება"
+
+msgid "Reset to Default"
+msgstr "ნაგულისხმევ მნიშვნელობაზე დაბრუნება"
+
+msgid "Reset to default"
+msgstr "ნაგულისხმევ მნიშვნელობაზე დაბრუნება"
+
+msgid "Reset Zoom"
+msgstr "გადიდების ჩამოყრა"
+
+msgid "Resize"
+msgstr "ზომის შეცვლა"
+
+msgid "_Resize"
+msgstr "ზომის შეცვლა"
+
+msgid "Resize Image"
+msgstr "გამოსახულების ზომის შეცვლა"
+
+msgid "Resolution"
+msgstr "გარჩევადობა"
+
+msgid "Resource"
+msgstr "რესურსი"
+
+msgid "Resources"
+msgstr "რესურსები"
+
+msgid "Restart"
+msgstr "გადატვირთვა"
+
+msgid "Restore"
+msgstr "აღდგენა"
+
+msgid "Restore Session"
+msgstr "სესიის აღდგენა"
+
+msgid "Result"
+msgstr "შედეგი"
+
+msgid "Results"
+msgstr "შედეგები"
+
+msgid "Resume"
+msgstr "გაგრძელება"
+
+msgid "&Resume"
+msgstr "გაგრძელება"
+
+msgid "Retry"
+msgstr "გამეორება"
+
+msgid "Return"
+msgstr "Enter"
+
+msgid "Reverse"
+msgstr "პირიქით"
+
+msgid "Revert"
+msgstr "დაბრუნება"
+
+msgid "_Revert"
+msgstr "და_ბრუნება"
+
+msgid "Review"
+msgstr "Მიმოხილვა"
+
+msgid "Revision"
+msgstr "რევიზია"
+
+msgid "Revoked"
+msgstr "ამოღებული"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "მარჯვენა"
+
+msgid "right"
+msgstr "მარჯვენა"
+
+msgid "&Right"
+msgstr "მარჯვენა"
+
+msgid "_Right"
+msgstr "მარ_ჯვნივ"
+
+msgid "Right to Left"
+msgstr "მარჯვნიდან მარცხნივ"
+
+msgid "Right-click"
+msgstr "მარჯვენა-წკაპი"
+
+msgid "River"
+msgstr "მდინარე"
+
+msgid "RKWard Team"
+msgstr "RKWard -ის გუნდი"
+
+msgid "Rock"
+msgstr "როკი"
+
+msgid "Role"
+msgstr "როლი"
+
+msgid "Roman"
+msgstr "რომანული"
+
+msgid "Romania"
+msgstr "რუმინეთი"
+
+msgid "Romanian"
+msgstr "რუმინული"
+
+msgid "Room"
+msgstr "ოთახი"
+
+msgid "Root"
+msgstr "Root"
+
+msgid "Rotate"
+msgstr "შემობრუნება"
+
+msgid "Rotate Left"
+msgstr "მარცხნივ შებრუნება"
+
+msgid "Rotate Right"
+msgstr "მარჯვნივ შებრუნება"
+
+msgid "Rotation"
+msgstr "შემობრუნება"
+
+msgid "Round"
+msgstr "მრგვალი"
+
+msgid "Row"
+msgstr "მწკრივი"
+
+msgid "Rows"
+msgstr "სტრიქონები"
+
+msgid "rows"
+msgstr "მწკრივები"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "წესები"
+
+msgid "Run"
+msgstr "გაშვება"
+
+msgid "&Run"
+msgstr "&გაშვება"
+
+msgid "Run in terminal"
+msgstr "ტერმინალში გაშვება"
+
+msgid "Running"
+msgstr "გაშვებულია"
+
+msgid "Russia"
+msgstr "რუსეთი"
+
+msgid "Russian"
+msgstr "რუსული"
+
+msgid "Rwanda"
+msgstr "რუანდა"
+
+msgid "S"
+msgstr "S"
+
+msgid "s"
+msgstr "წმ"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "%s-ის თვისებები"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "სამოა"
+
+msgid "Sample"
+msgstr "მაგალითი"
+
+msgid "Sample Rate"
+msgstr "სემპლების სიჩქარე"
+
+msgid "Sample rate"
+msgstr "სემპლის სიხშირე"
+
+msgid "Samples"
+msgstr "სემპლები"
+
+msgid "San Marino"
+msgstr "სან მარინო"
+
+msgid "Sans Serif"
+msgstr "შესახებ"
+
+msgid "Satellite"
+msgstr "თანამგზავრი"
+
+msgid "Saturation"
+msgstr "გაჯერებულობა"
+
+msgid "Saturday"
+msgstr "შაბათი"
+
+msgid "Saudi Arabia"
+msgstr "საუდის არაბეთი"
+
+msgid "Save"
+msgstr "შენახვა"
+
+msgid "&Save"
+msgstr "&შენახვა"
+
+msgid "_Save"
+msgstr "_შენახვა"
+
+msgid "Save..."
+msgstr "შენახვა..."
+
+msgid "Save All"
+msgstr "ყველას შენახვა"
+
+msgid "Save As"
+msgstr "შენახვა, როგორც"
+
+msgid "Save as"
+msgstr "შენახვა როგორც"
+
+msgid "Save _As"
+msgstr "_შენახვა, როგორც"
+
+msgid "Save As..."
+msgstr "შენახვა, როგორც..."
+
+msgid "Save as..."
+msgstr "შენახვა როგორც..."
+
+msgid "_Save As..."
+msgstr "_შენახვა, როგორც…"
+
+msgid "Save &As..."
+msgstr "შეინახვა &როგორც…"
+
+msgid "Save _As..."
+msgstr "შენახვა როგორ_ც..."
+
+msgid "Save Attachment"
+msgstr "მიმაგრებული ფაილის შენახვა"
+
+msgid "Save Changes"
+msgstr "ცვლილებების შენახვა"
+
+msgid "Save Changes?"
+msgstr "შევინახო ცვლილებები?"
+
+msgid "Save File"
+msgstr "ფაილის შენახვა"
+
+msgid "Save file"
+msgstr "ფაილის შენახვა"
+
+msgid "Save Game"
+msgstr "თამაშის შენახვა"
+
+msgid "Save Image"
+msgstr "გამოსახულების შენახვა"
+
+msgid "_Save Image As..."
+msgstr "_გამოსახულების შენახვა, როგორც…"
+
+msgid "Save Project"
+msgstr "პროექტის შენახვა"
+
+msgid "Save Session"
+msgstr "სესიის შენახვა"
+
+msgid "Save Settings"
+msgstr "პარამეტრების შენახვა"
+
+msgid "Saved"
+msgstr "შენახულია"
+
+msgid "Saving"
+msgstr "Შენახვა"
+
+msgid "Saving..."
+msgstr "Შენახვა..."
+
+msgid "Saving file..."
+msgstr "ფაილის შენახვა..."
+
+msgid "Scale"
+msgstr "მასშტაბირება"
+
+msgid "_Scale"
+msgstr "გადიდ_ება"
+
+msgid "Scaled"
+msgstr "გადიდებული"
+
+msgid "Scaling"
+msgstr "მასშტაბირება"
+
+msgid "Scan"
+msgstr "სკანირება"
+
+msgid "Scanner"
+msgstr "სკანერი"
+
+msgid "Scanning..."
+msgstr "ძებნა ..."
+
+msgid "Schedule"
+msgstr "განრიგი"
+
+msgid "Scheduling"
+msgstr "დაგეგმილი"
+
+msgid "Scheme"
+msgstr "სქემა"
+
+msgid "School"
+msgstr "სკოლა"
+
+msgid "Scientific"
+msgstr "სამეცნიერო"
+
+msgid "Scope"
+msgstr "ფარგლები"
+
+msgid "Score"
+msgstr "ქულები"
+
+msgid "Score: %1"
+msgstr "ქულები: %1"
+
+msgid "Screen"
+msgstr "ეკრანი"
+
+msgid "Screenshot"
+msgstr "ეკრანის ანაბეჭდი"
+
+msgid "Screenshots"
+msgstr "ეკრანის ანაბეჭდები"
+
+msgid "Script"
+msgstr "სკრიპტი"
+
+msgid "Scripting"
+msgstr "სკრიპტები"
+
+msgid "Scripts"
+msgstr "სკრიპტები"
+
+msgid "Scroll"
+msgstr "ჩამოქაჩვა"
+
+msgid "Scroll Down"
+msgstr "ქვემოთ ჩამოწევა"
+
+msgid "Scroll Left"
+msgstr "მარცხნივ გაწევა"
+
+msgid "Scroll Right"
+msgstr "მარჯვნივ გაწევა"
+
+msgid "Scroll Up"
+msgstr "მაღლა აქაჩვა"
+
+msgid "Scrolling"
+msgstr "აჩოჩება"
+
+msgid "Search"
+msgstr "ძებნა"
+
+msgid "&Search"
+msgstr "&ძებნა"
+
+msgid "_Search"
+msgstr "_ძებნა"
+
+msgid "S&earch"
+msgstr "ძებ&ნა"
+
+msgid "Search..."
+msgstr "ძებნა..."
+
+msgid "Search Bar"
+msgstr "ძებნის ზოლი"
+
+msgid "_Search for"
+msgstr "_ძებნა"
+
+msgid "Search for '%1' with"
+msgstr "'%1'-ის მოძებნა მოხდება"
+
+msgid "Search Options"
+msgstr "ძებნის მორგება"
+
+msgid "Search Results"
+msgstr "ძებნის შედეგები"
+
+msgid "Search results"
+msgstr "ძებნს შედეგები"
+
+msgid "Searching..."
+msgstr "ძებნა..."
+
+msgid "Sebastian Kügler"
+msgstr "სებასტიან კუგლერი"
+
+msgid "Second"
+msgstr "წამი"
+
+msgid "Seconds"
+msgstr "წამი"
+
+msgid "seconds"
+msgstr "წამი"
+
+msgid "Section"
+msgstr "სექცია"
+
+msgid "Security"
+msgstr "უსაფრთხოება"
+
+msgid "Seek"
+msgstr "გადახვევა"
+
+msgid "Select"
+msgstr "აირჩიეთ"
+
+msgid "_Select"
+msgstr "_მონიშვნა"
+
+msgid "Select..."
+msgstr "აირჩიეთ..."
+
+msgid "Select All"
+msgstr "ყველას მონიშვნა"
+
+msgid "Select all"
+msgstr "ყველას მონიშვნა"
+
+msgid "&Select All"
+msgstr "ყვე&ლაფრის მონიშვნა"
+
+msgid "_Select All"
+msgstr "ყველაფრის _მონიშვნა"
+
+msgid "Select &All"
+msgstr "ყველაფრის &მონიშვნა"
+
+msgid "Select _All"
+msgstr "მონიშნე _ყველა"
+
+msgid "Select an authentication mode."
+msgstr "აირჩიეთ ავთენტიკაციის რეჟიმი."
+
+msgid "Select an image"
+msgstr "მონიშნეთ გამოსახულება"
+
+msgid "Select Color"
+msgstr "აირჩიეთ ფერი"
+
+msgid "Select Directory"
+msgstr "აირჩიეთ საქაღალდე"
+
+msgid "Select File"
+msgstr "აირჩიეთ ფაილი"
+
+msgid "Select file"
+msgstr "აირჩიეთ ფაილი"
+
+msgid "Select Folder"
+msgstr "აირჩიეთ საქაღალდე"
+
+msgid "Select folder"
+msgstr "საქაღალდეს არჩევა"
+
+msgid "Select Font"
+msgstr "აირჩიეთ ფონტი"
+
+msgid "Select None"
+msgstr "მონიშვნის მოხსნა"
+
+msgid "Select Source"
+msgstr "წყაროს არჩევა"
+
+msgid "Selected"
+msgstr "მონიშნული"
+
+msgid "Selection"
+msgstr "მონიშნული"
+
+msgid "Selections"
+msgstr "მონიშნულები"
+
+msgid "Semicolon"
+msgstr "წერტილმძიმე"
+
+msgid "Send"
+msgstr "გაგზავნა"
+
+msgid "Send an email to %1"
+msgstr "%1-სთვის ელფოსტის გაგზავნა"
+
+msgid "Send File"
+msgstr "ფაილის გაგზავნა"
+
+msgid "Send to %1"
+msgstr "%1-სთან გაგზავნა"
+
+msgid "Sender"
+msgstr "გამგზავნი"
+
+msgid "Senegal"
+msgstr "სენეგალი"
+
+msgid "Sensitivity"
+msgstr "მგრძნობიარობა"
+
+msgid "Sent"
+msgstr "გაგზავნილია"
+
+msgid "Separator"
+msgstr "გამყოფი"
+
+msgid "September"
+msgstr "სექტემბერი"
+
+msgid "Serbia"
+msgstr "სერბია"
+
+msgid "Serbian"
+msgstr "სერბული"
+
+msgid "Serial Number"
+msgstr "სერიული ნომერი"
+
+msgid "Serial number"
+msgstr "სერიული ნომერი"
+
+msgid "Series"
+msgstr "სერია"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Server"
+msgstr "სერვერი"
+
+msgid "Server URL"
+msgstr "სერვერის URL"
+
+msgid "Service"
+msgstr "სერვისი"
+
+msgid "Services"
+msgstr "სერვისები"
+
+msgid "Session"
+msgstr "სესია"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "სესიები"
+
+msgid "Set"
+msgstr "დაყენება"
+
+msgid "Set as Default"
+msgstr "ნაგულისხმევად დაყენება"
+
+msgid "Set as default"
+msgstr "ნაგულისხმევად დაყენება"
+
+msgid "Settings"
+msgstr "მორგება"
+
+msgid "&Settings"
+msgstr "&პარამეტრები"
+
+msgid "_Settings"
+msgstr "მორგება"
+
+msgid "Settings..."
+msgstr "მორგება..."
+
+msgid "Severity"
+msgstr "სიმკაცრე"
+
+msgid "Seychelles"
+msgstr "სეიშელები"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "ჩრდილები"
+
+msgid "Shadow"
+msgstr "ჩრდილი"
+
+msgid "Shadows"
+msgstr "ჩრდილები"
+
+msgid "Shape"
+msgstr "ფორმა"
+
+msgid "Share"
+msgstr "გაზიარება"
+
+msgid "Share..."
+msgstr "გაზიარება…"
+
+msgid "Shared"
+msgstr "გაზიარებული"
+
+msgid "Sharing"
+msgstr "გაზიარება"
+
+msgid "Sharing failed"
+msgstr "გაზიარების შეცდომა"
+
+msgid "Sharpen"
+msgstr "გამკვეთრება"
+
+msgid "Sharpness"
+msgstr "სიმკვეთრე"
+
+msgid "Shear"
+msgstr "დახრა"
+
+msgid "Shell"
+msgstr "გარსი"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "მოკლე"
+
+msgid "Shortcut"
+msgstr "მალსახმობი"
+
+msgid "Shortcuts"
+msgstr "მალსახმობები"
+
+msgid "Show"
+msgstr "ჩვენება"
+
+msgid "Show All"
+msgstr "ყველას ჩვენება"
+
+msgid "Show Details"
+msgstr "დეტალების ჩვენება"
+
+msgid "Show details"
+msgstr "დეტალების ჩვენება"
+
+msgid "Show Grid"
+msgstr "ბადის ჩვენება"
+
+msgid "Show grid"
+msgstr "ბადის ჩვენება"
+
+msgid "Show Help"
+msgstr "დახმარების ჩვენება"
+
+msgid "Show help"
+msgstr "დახმარების ჩვენება"
+
+msgid "Show Hidden Files"
+msgstr "დამალული ფაილების ჩვენება"
+
+msgid "Show in folder"
+msgstr "საქაღალდეში ჩვენება"
+
+msgid "Show legend"
+msgstr "ახსნის ჩვენება"
+
+msgid "Show Password"
+msgstr "პაროლის ჩვენება"
+
+msgid "Show Preview"
+msgstr "გადახედვის ჩვენება"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr "მალსახმობების ჩვენება"
+
+msgid "Show Status Bar"
+msgstr "მდგომარეობის ზოლის ჩვენება"
+
+msgid "Show St&atusbar"
+msgstr "სტატუსის &ზოლის ჩვენება"
+
+msgid "Show the application's version"
+msgstr "აპლიკაციის ვერსიის ჩვენება"
+
+msgid "Show Toolbar"
+msgstr "პანელის ჩვენება"
+
+msgid "Show toolbar"
+msgstr "ხელსაწყოთა ზოლის ჩვენება"
+
+msgid "Show &Toolbar"
+msgstr "&პანელის ჩვენება"
+
+msgid "Shuffle"
+msgstr "არევა"
+
+msgid "Shut Down"
+msgstr "გამორთვა"
+
+msgid "Shutdown"
+msgstr "გამორთვა"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "გვერდითი ზოლი"
+
+msgid "Sierra Leone"
+msgstr "სიერა ლეონე"
+
+msgid "Sign"
+msgstr "ხელმოწერა"
+
+msgid "Signal"
+msgstr "სიგნალი"
+
+msgid "Signature"
+msgstr "ხელმოწერა"
+
+msgid "Simple"
+msgstr "მარტივი"
+
+msgid "Singapore"
+msgstr "სინგაპური"
+
+msgid "Single"
+msgstr "ერთი"
+
+msgid "Sinhala"
+msgstr "სინჰალა"
+
+msgid "Size"
+msgstr "ზომა"
+
+msgid "size"
+msgstr "ზომა"
+
+msgid "&Size"
+msgstr "&ზომა"
+
+msgid "Size: %1"
+msgstr "ზომა: %1"
+
+msgid "Skip"
+msgstr "გამოტოვება"
+
+msgid "&Skip"
+msgstr "გამო&ტოვება"
+
+msgid "_Skip"
+msgstr "_გამოტოვება"
+
+msgid "Skip forward"
+msgstr "წინ გადახტომა"
+
+msgid "Sleep"
+msgstr "ძილი"
+
+msgid "Slide"
+msgstr "სლაიდი"
+
+msgid "Slider"
+msgstr "ჩოჩია"
+
+msgid "Slideshow"
+msgstr "სლაიდშოუ"
+
+msgid "Slovak"
+msgstr "სლოვაკური"
+
+msgid "Slovenia"
+msgstr "სლოვენია"
+
+msgid "Slovenian"
+msgstr "სლოვენური"
+
+msgid "Slow"
+msgstr "ნელი"
+
+msgid "Slower"
+msgstr "უფრო ნელა"
+
+msgid "Small"
+msgstr "პატარა"
+
+msgid "Smooth"
+msgstr "რბილი"
+
+msgid "Smoothing"
+msgstr "მოგლუვება"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Snap"
+
+msgid "Snap to Grid"
+msgstr "ბადეზე მიბმა"
+
+msgid "Snow"
+msgstr "თოვლი"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr "Socks5"
+
+msgid "Software"
+msgstr "პროგრამები"
+
+msgid "Solid"
+msgstr "მყარი"
+
+msgid "Solid color"
+msgstr "მუქი ფერი"
+
+msgid "Solomon Islands"
+msgstr "სოლომონის კუნძულები"
+
+msgid "Somalia"
+msgstr "სომალი"
+
+msgid "Sort"
+msgstr "დალაგება"
+
+msgid "Sort By"
+msgstr "დახარისხება"
+
+msgid "Sort by"
+msgstr "დალაგება"
+
+msgid "Sorting"
+msgstr "დალაგება"
+
+msgid "Sound"
+msgstr "ხმა"
+
+msgid "Soundtrack"
+msgstr "საუნდტრეკი"
+
+msgid "Source"
+msgstr "წყარო"
+
+msgid "Sources"
+msgstr "წყაროები"
+
+msgid "South"
+msgstr "სამხრეთი"
+
+msgid "South Africa"
+msgstr "სამხრეთ აფრიკა"
+
+msgid "South European"
+msgstr "სამხრეთ ევროპული"
+
+msgid "Space"
+msgstr "გამოტოვება"
+
+msgid "Spacing"
+msgstr "დაშორება"
+
+msgid "Spain"
+msgstr "ესპანეთი"
+
+msgid "Spam"
+msgstr "სპამი"
+
+msgid "Spanish"
+msgstr "ესპანური"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "ლაპარაკი"
+
+msgid "Speak Text"
+msgstr "ტექსტის წაკითხვა"
+
+msgid "Speaker"
+msgstr "დინამიკი"
+
+msgid "Special"
+msgstr "სპეციალური"
+
+msgid "Special Characters"
+msgstr "სპეციალური სიმბოლოები"
+
+msgid "Specials"
+msgstr "სპეციალური სიმბოლოები"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr "სესიის მართვის ID-ის მითითება"
+
+msgid "Speed"
+msgstr "სიჩქარე"
+
+msgid "Spell Check"
+msgstr "მართლწერის შემოწმება"
+
+msgid "Spell Checking"
+msgstr "მართლწერის შემოწმება"
+
+msgid "Spelling"
+msgstr "მართლწერა"
+
+msgid "Spiral"
+msgstr "სპირალური"
+
+msgid "Split"
+msgstr "გაყოფა"
+
+msgid "Split View"
+msgstr "ხედის გაყოფა"
+
+msgid "Sports"
+msgstr "სპორტი"
+
+msgid "Spreadsheet"
+msgstr "ელექტრონული ცხრილი"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "კვადრატი"
+
+msgid "Sri Lanka"
+msgstr "შრი ლანკა"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+"'%s::%s' თვისების სწორ სახელს არ წარმოადგენს; '%s' GObject-ის ქვეტიპი არაა"
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr "დასტა"
+
+msgid "Stacked"
+msgstr "ჩალაგებული"
+
+msgid "Standard"
+msgstr "სტანდარტული"
+
+msgid "Standard deviation"
+msgstr "სტანდარტული აცდენა"
+
+msgid "Star"
+msgstr "ვარსკვლავი"
+
+msgid "Start"
+msgstr "გაშვება"
+
+msgid "&Start"
+msgstr "&გაშვება"
+
+msgid "Start a new game"
+msgstr "დაიწყეთ ახალი თამაში"
+
+msgid "Start Date"
+msgstr "დაწყების თარიღი"
+
+msgid "Start date"
+msgstr "საწყისი თარიღი"
+
+msgid "Start Presentation"
+msgstr "პრეზენტაციის დაწყება"
+
+msgid "Start Time"
+msgstr "დაწყების დრო"
+
+msgid "Started"
+msgstr "დაიწყო"
+
+msgid "Starting"
+msgstr "გაშვება"
+
+msgid "Starting..."
+msgstr "გაშვება…"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "იწყება"
+
+msgid "Startup"
+msgstr "გაშვება"
+
+msgid "Stash"
+msgstr "შენახვა საკუჭნაოში"
+
+msgid "State"
+msgstr "State"
+
+msgid "States"
+msgstr "შტატები"
+
+msgid "Statistics"
+msgstr "სტატისტიკა"
+
+msgid "Status"
+msgstr "სტატუსი"
+
+msgid "Status: %1"
+msgstr "სტატუსი: %1"
+
+msgid "Statusbar"
+msgstr "სტატუსის ზოლი"
+
+msgid "_Statusbar"
+msgstr "_სტატუსის ზოლი"
+
+msgid "Step"
+msgstr "ბიჯი"
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr "ნაბიჯები"
+
+msgid "Stereo"
+msgstr "სტერეო"
+
+msgid "Stop"
+msgstr "შეჩერება"
+
+msgid "&Stop"
+msgstr "გაჩერება"
+
+msgid "_Stop"
+msgstr "_შეჩერება"
+
+msgid "S&top"
+msgstr "&გაჩერება"
+
+msgid "Stop Recording"
+msgstr "ჩაწერის გაჩერება"
+
+msgid "Stopped"
+msgstr "შეჩერებულია"
+
+msgid "Storage"
+msgstr "საცავი"
+
+msgid "Store"
+msgstr "მაღაზია"
+
+msgid "Stream"
+msgstr "ნაკადი"
+
+msgid "Street"
+msgstr "ქუჩა"
+
+msgid "Strength"
+msgstr "სიძლიერე"
+
+msgid "Stretch"
+msgstr "გაწელვა"
+
+msgid "Strike Out"
+msgstr "ხაზის გადასმა"
+
+msgid "Strikethrough"
+msgstr "ხაზგადასმული"
+
+msgid "String"
+msgstr "სტრიქონი"
+
+msgid "string"
+msgstr "სტრიქონი"
+
+msgid "Strings"
+msgstr "სტრიქონები"
+
+msgid "Stroke"
+msgstr "გამოძრავება"
+
+msgid "Strong"
+msgstr "ძლიერი"
+
+msgid "Structure"
+msgstr "სტრუქტურა"
+
+msgid "Style"
+msgstr "სტილი"
+
+msgid "Subject"
+msgstr "თემა"
+
+msgid "Submit"
+msgstr "გაგზავნა"
+
+msgid "Subscribe"
+msgstr "ხელმოწერა"
+
+msgid "Subscript"
+msgstr "ქვედა ხაზზე"
+
+msgid "Subscriptions"
+msgstr "გამოწერები"
+
+msgid "Subtitle"
+msgstr "სუბტიტრები"
+
+msgid "Subtitles"
+msgstr "სუბტიტრები"
+
+msgid "Subtract"
+msgstr "გამოკლება"
+
+msgid "Subversion"
+msgstr "ქვევერსია"
+
+msgid "Success"
+msgstr "წარმატება"
+
+msgid "Sudan"
+msgstr "სუდანი"
+
+msgid "Suffix"
+msgstr "სუფიქსი"
+
+msgid "Sum"
+msgstr "ჯამი"
+
+msgid "Summary"
+msgstr "შეჯამება"
+
+msgid "Sun"
+msgstr "კვი"
+
+msgid "Sundanese"
+msgstr "სუნდური"
+
+msgid "Sunday"
+msgstr "კვირა"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "ზედა ხაზზე"
+
+msgid "Support"
+msgstr "მხარდაჭერა"
+
+msgid "Suriname"
+msgstr "სურინამი"
+
+msgid "Surname"
+msgstr "გვარი"
+
+msgid "Suspend"
+msgstr "ძილი"
+
+msgid "Suspended"
+msgstr "გაჩერებულია"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "სვაპი"
+
+msgid "Sweden"
+msgstr "შვედეთი"
+
+msgid "Swedish"
+msgstr "შვედური"
+
+msgid "Switch"
+msgstr "გადართვა"
+
+msgid "Switches"
+msgstr "გადამრთველები"
+
+msgid "Switzerland"
+msgstr "შვეიცარია"
+
+msgid "Symbol"
+msgstr "სიმბოლო"
+
+msgid "Symbols"
+msgstr "სიმბოლოები"
+
+msgid "Sync"
+msgstr "სინქრონიზაცია"
+
+msgid "Synchronization"
+msgstr "სინქრონიზაცია"
+
+msgid "Synchronize"
+msgstr "სინქრონიზაცია"
+
+msgid "Syriac"
+msgstr "სირიული"
+
+msgid "System"
+msgstr "სისტემა"
+
+msgid "System Default"
+msgstr "სისტემის ნაგულისხმევი"
+
+msgid "System Settings"
+msgstr "სისტემის მორგება"
+
+msgid "T"
+msgstr "ტერა"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Table"
+msgstr "ცხრილი"
+
+msgid "Table of Contents"
+msgstr "სარჩევი"
+
+msgid "Tablet"
+msgstr "ტაბლეტი"
+
+msgid "Tabs"
+msgstr "დაფები"
+
+msgid "Tag"
+msgstr "იარლიყი"
+
+msgid "Tagalog"
+msgstr "ტაგალოგური"
+
+msgid "Tagged"
+msgstr "ჭდეებიანი"
+
+msgid "Tags"
+msgstr "ჭდეები"
+
+msgid "Taiwan"
+msgstr "ტაივანი"
+
+msgid "Tajikistan"
+msgstr "ტაჯიკეთი"
+
+msgid "Take Screenshot"
+msgstr "ეკრანის ანაბეჭდის გადაღება"
+
+msgid "Tamil"
+msgstr "თამილური"
+
+msgid "Tango"
+msgstr "ტანგო"
+
+msgid "Tanzania"
+msgstr "ტანზანია"
+
+msgid "Target"
+msgstr "სამიზნე წერტილი"
+
+msgid "Task"
+msgstr "დავალება"
+
+msgid "Tasks"
+msgstr "ამოცანები"
+
+msgid "Tatar"
+msgstr "თათრული"
+
+msgid "TB"
+msgstr "ტბ"
+
+msgid "Team"
+msgstr "გუნდი"
+
+msgid "Technology"
+msgstr "ტექნოლოგია"
+
+msgid "Telephone"
+msgstr "ტელეფონი"
+
+msgid "Telugu"
+msgstr "ტელუგური"
+
+msgid "Temperature"
+msgstr "ტემპერატურა"
+
+msgid "Template"
+msgstr "შაბლონი"
+
+msgid "Templates"
+msgstr "შაბლონები"
+
+msgid "Tentative"
+msgstr "სავარაუდო"
+
+msgid "Terminal"
+msgstr "ტერმინალი"
+
+msgid "Terminal Emulator"
+msgstr "ტერმინალის ემულატორი"
+
+msgid "Test"
+msgstr "შემოწმება"
+
+msgid "Testing"
+msgstr "ტესტირება"
+
+msgid "Text"
+msgstr "ტექსტი"
+
+msgid "text"
+msgstr "ტექსტი"
+
+msgid "_Text"
+msgstr "_ტექსტი"
+
+msgid "Text Color"
+msgstr "ტექსტის ფერი"
+
+msgid "Text color"
+msgstr "ტექსტის ფერი"
+
+msgid "Text Editor"
+msgstr "ტექსტური რედაქტორი"
+
+msgid "Text File"
+msgstr "ტექსტური ფაილი"
+
+msgid "Text Files"
+msgstr "ტექსტური ფაილები"
+
+msgid "Text Only"
+msgstr "მხოლოდ ტექსტი"
+
+msgid "Text only"
+msgstr "მხოლოდ ტექსტი"
+
+msgid "Text to search for"
+msgstr "მოსაძებნი ეტქსტი"
+
+msgid "Text Tool"
+msgstr "ტექსტის ხელსაწყო"
+
+msgid "TextLabel"
+msgstr "ტექსტური ჭდე"
+
+msgid "Thai"
+msgstr "ტაილანდური"
+
+msgid "Thailand"
+msgstr "ტაილანდი"
+
+msgid "The file %1 does not exist."
+msgstr "ფაილი არ არსებობს: %1."
+
+msgid "The GNOME Project"
+msgstr "პროექტი \"GNOME\""
+
+msgid "The graphical theme to be used."
+msgstr "გრაფიკული თემა."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+"ყველაზე მნიშვნელოვანი ცვლილება ისაა, რომ Calligra ახლა სრულადაა გადატანილი "
+"Qt6-ზე და KF6-ზე, ინტერფეისის ძირეული ცვლილების ჩათვლით."
+
+msgid "The NetworkManager Developers"
+msgstr "NetworkManager-ის პროგრამისტები"
+
+msgid "Theme"
+msgstr "თემა"
+
+msgid "Themes"
+msgstr "თემები"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "პრობლემა დოკუმენტის გაზიარებისას: %1"
+
+msgid "Thin"
+msgstr "თხელი"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr "ეს ვერსია ამატებს flatpak-ის მხარდაჭერა საოფისე პაკეტში Calligra."
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr "ეს მენიუს ზოლს სრულად დამალავს. მისი ჩვენება %1-ზე დაწოლით შეგიძლიათ."
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "ზღვარი"
+
+msgid "Thumbnail"
+msgstr "მინიატურა"
+
+msgid "Thumbnails"
+msgstr "ესკიზები"
+
+msgid "Thursday"
+msgstr "ხუთშაბათი"
+
+msgid "TiB"
+msgstr "ტიბ"
+
+msgid "Tibetan"
+msgstr "ტიბეტური"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "ფილა"
+
+msgid "Tiled"
+msgstr "გადახურული"
+
+msgid "Tilt"
+msgstr "მოხრა"
+
+msgid "Time"
+msgstr "დრო"
+
+msgid "time"
+msgstr "დრო"
+
+msgid "Time: %1"
+msgstr "დრო: %1"
+
+msgid "Time and Date"
+msgstr "თარიღი და დრო"
+
+msgid "Time Zone"
+msgstr "დროის სარტყელი"
+
+msgid "Timeline"
+msgstr "თაიმლაინი"
+
+msgid "Timeout"
+msgstr "ვადა"
+
+msgid "Timer"
+msgstr "წამმზომი"
+
+msgid "Timestamp"
+msgstr "დროის შტამპი"
+
+msgid "Timezone"
+msgstr "დროის სარტყელი"
+
+msgid "Tiny"
+msgstr "პაწაწინა"
+
+msgid "Title"
+msgstr "სათაური"
+
+msgid "title"
+msgstr "სათაური"
+
+msgid "&Title"
+msgstr "&სათაური"
+
+msgid "_Title"
+msgstr "_სათაური"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "ვის"
+
+msgid "to"
+msgstr "სადამდე"
+
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+msgid "Today"
+msgstr "დღეს"
+
+msgid "today"
+msgstr "დღეს"
+
+msgid "TODO"
+msgstr "განრიგის სია"
+
+msgid "Todo"
+msgstr "განრიგის სია"
+
+msgid "Toggle Fullscreen"
+msgstr "მთელ ეკრანზე გატანის ჩართ/გამორთ"
+
+msgid "Toggle Sidebar"
+msgstr "გვერდითი პანელის ჩვენების ჩართ/გამორთ"
+
+msgid "Toggle sidebar"
+msgstr "გვერდითი ზოლის ჩართ/გამორთ"
+
+msgid "Togo"
+msgstr "ტოგო"
+
+msgid "Token"
+msgstr "ტოკენი"
+
+msgid "Tolerance"
+msgstr "დაშვება"
+
+msgid "Tomorrow"
+msgstr "ხვალ"
+
+msgid "Tonga"
+msgstr "ტონგა"
+
+msgid "Tool"
+msgstr "ხელსაწყო"
+
+msgid "Tool Options"
+msgstr "ხელსაწყოების გამართვა"
+
+msgid "_Toolbar"
+msgstr "ხელსაწყოთა ველი"
+
+msgid "T_oolbar"
+msgstr "_ხელსაწყოების ზოლი"
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "ხელსაწყოები"
+
+msgid "Tools"
+msgstr "ხელსაწყოები"
+
+msgid "&Tools"
+msgstr "&ხელსაწყოები"
+
+msgid "_Tools"
+msgstr "_ხელსაწყოები"
+
+msgid "Top"
+msgstr "ზედა"
+
+msgid "_Top"
+msgstr "_თავში"
+
+msgid "Top Left"
+msgstr "ზედა მარცხენა"
+
+msgid "Top left"
+msgstr "ზედა მარცხენა"
+
+msgid "Top Right"
+msgstr "ზედა მარჯვენა"
+
+msgid "Top right"
+msgstr "ზედა მარჯვენა"
+
+msgid "Topic"
+msgstr "თემა"
+
+msgid "Top-left"
+msgstr "ზედა მარცხენა"
+
+msgid "Top-right"
+msgstr "ზედა მარჯვენა"
+
+msgid "Total"
+msgstr "ჯამში"
+
+msgid "Track"
+msgstr "ტრეკი"
+
+msgid "Track Number"
+msgstr "აუდიობილიკის ნომერი"
+
+msgid "Tracker"
+msgstr "ტრეკერი"
+
+msgid "Tracks"
+msgstr "აუდიობილიკები"
+
+msgid "Traditional"
+msgstr "ტრადიციული"
+
+msgid "Transfer"
+msgstr "გადაცემა"
+
+msgid "Transform"
+msgstr "ტრასფორმირება"
+
+msgid "Transformation"
+msgstr "გარდაქმნა"
+
+msgid "Translate"
+msgstr "თარგმნა"
+
+msgid "Translation"
+msgstr "თარგმანი"
+
+msgid "Translator"
+msgstr "მთარგმნელი"
+
+msgid "translator-credits"
+msgstr "თემური დოღონაძე"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "მთარგმნელები"
+
+msgid "Transparency"
+msgstr "გამჭვირვალობა"
+
+msgid "Transparent"
+msgstr "გამჭვირვალე"
+
+msgid "Transport"
+msgstr "ტრანსპორტი"
+
+msgid "Transpose"
+msgstr "ტრანსპოზიცია"
+
+msgid "Trash"
+msgstr "ნაგავი"
+
+msgid "Travel"
+msgstr "მოგზაურობა"
+
+msgid "Tree"
+msgstr "ხე"
+
+msgid "Tree View"
+msgstr "ხისმაგვარი ხედი"
+
+msgid "Triangle"
+msgstr "სამკუთხედი"
+
+msgid "True"
+msgstr "სიმართლე"
+
+msgid "true"
+msgstr "სიმართლე"
+
+msgid "Trusted"
+msgstr "სანდო"
+
+msgid "Try a different search"
+msgstr "სცადეთ სხვა ძებნა"
+
+msgid "Try Again"
+msgstr "კიდევ სცადეთ"
+
+msgid "Tuesday"
+msgstr "სამშაბათი"
+
+msgid "Tunisia"
+msgstr "ტუნისი"
+
+msgid "Turkey"
+msgstr "თურქეთი"
+
+msgid "Turkish"
+msgstr "თურქული"
+
+msgid "Turkmenistan"
+msgstr "თურქმენეთი"
+
+msgid "Tuvalu"
+msgstr "ტუვალუ"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "TYPE"
+msgstr "ტიპი"
+
+msgid "Type"
+msgstr "ტიპი"
+
+msgid "type"
+msgstr "ტიპი"
+
+msgid "&Type"
+msgstr "&ტიპი"
+
+msgid "Type: %1"
+msgstr "ტიპი: %1"
+
+msgid "Uganda"
+msgstr "უგანდა"
+
+msgid "Ukraine"
+msgstr "უკრაინა"
+
+msgid "Ukrainian"
+msgstr "უკრაინული"
+
+msgid "Unable to create a temporary file."
+msgstr "დროებითი ფაილის შექმნის შეცდომა."
+
+msgid "unable to get editor plugin name: %s"
+msgstr "რედაქტორი დამატების სახელის მიღების პრობლემა: %s"
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+"თვისების (%s) ტიპისთვის '%s' ტიპის '%s' მნიშვნელობიდან დაყენების შეცდომა"
+
+msgid "Unavailable"
+msgstr "მიუწვდომელია"
+
+msgid "Undefined"
+msgstr "გაურკვეველი"
+
+msgid "Underline"
+msgstr "ხაზგასმული"
+
+msgid "&Underline"
+msgstr "&ხაზგასმა"
+
+msgid "_Underline"
+msgstr "_ხაზგასმული"
+
+msgid "Undo"
+msgstr "დაბრუნება"
+
+msgid "&Undo"
+msgstr "&დაბრუნება"
+
+msgid "_Undo"
+msgstr "_დაბრუნება"
+
+msgid "Undo %1"
+msgstr "%1-ის დაბრუნება"
+
+msgid "Undo History"
+msgstr "დაბრუნების ისტორია"
+
+msgid "UnFav it"
+msgstr "რჩეულებიდან ამოღება"
+
+msgid "unhandled property “%s” type %s"
+msgstr "\"%s\"-ის დაუმუშავებელი თვისება. ტიპი %s"
+
+msgid "Unicode"
+msgstr "უნიკოდი"
+
+msgid "Uniform"
+msgstr "ერთგვაროვანი"
+
+msgid "Union"
+msgstr "გაერთიანება"
+
+msgid "Unit"
+msgstr "ერთეული"
+
+msgid "United Arab Emirates"
+msgstr "არაბეთის გაერთიანებული ემირატები"
+
+msgid "United Kingdom"
+msgstr "დიდი ბრიტანეთი"
+
+msgid "United States"
+msgstr "ამერიკის შეერთებული შტატები"
+
+msgid "United States Minor Outlying Islands"
+msgstr "შეერთებული შტატების მცირე გარემდებარე კუნძულები"
+
+msgid "Units"
+msgstr "საზომი ერთეულები"
+
+msgid "University"
+msgstr "უნივერსიტეტი"
+
+msgid "Unknown"
+msgstr "უცნობი"
+
+msgid "unknown"
+msgstr "უცნობი"
+
+msgid "(unknown)"
+msgstr "(უცნობი)"
+
+msgid "Unknown Error"
+msgstr "უცნობი შეცდომა"
+
+msgid "Unknown error"
+msgstr "უცნობი შეცდომა"
+
+msgid "Unknown error."
+msgstr "უცნობი შეცდომა."
+
+msgid "unknown error creating editor instance"
+msgstr "უცნობ შეცდომა რედაქტორის ასლის შექმნისას"
+
+msgid "Unknown file type"
+msgstr "ფაილის უცნობი ტიპი"
+
+msgid "Unlimited"
+msgstr "შეუზღუდავი"
+
+msgid "unlimited"
+msgstr "შეუზღუდავი"
+
+msgid "Unlock"
+msgstr "განბლოკვა"
+
+msgid "_Unlock"
+msgstr "_განბლოკვა"
+
+msgid "Unmount"
+msgstr "მოხსნა"
+
+msgid "Unmute"
+msgstr "დადუმების გამორთვა"
+
+msgid "Unnamed"
+msgstr "უსახელო"
+
+msgid "unnamed"
+msgstr "უსახელო"
+
+msgid "Unread"
+msgstr "წაუკითხავი"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "შეუნახავი ცვლილებები"
+
+msgid "Unselect All"
+msgstr "მონიშვნის ყველაფერზე მოხსნა"
+
+msgid "Unselect all"
+msgstr "მონიშვნის ყველაფერზე მოხსნა"
+
+msgid "Unspecified"
+msgstr "მიუთითებელი"
+
+msgid "Untitled"
+msgstr "უსახელო"
+
+msgid "untitled"
+msgstr "უსახელო"
+
+msgid "Unused"
+msgstr "გამოუყენებელი"
+
+msgid "Up"
+msgstr "მაღლა"
+
+msgid "&Up"
+msgstr "&მაღლა"
+
+msgid "Update"
+msgstr "განახლება"
+
+msgid "&Update"
+msgstr "&განახლება"
+
+msgid "_Update"
+msgstr "_განახლება"
+
+msgid "Updates"
+msgstr "განახლებები"
+
+msgid "Updating"
+msgstr "განახლება"
+
+msgid "Updating..."
+msgstr "განახლება..."
+
+msgid "Upload"
+msgstr "ატვირთვა"
+
+msgid "_Upload"
+msgstr "_ატვირთვა"
+
+msgid "Uploaded"
+msgstr "ატვირთულია"
+
+msgid "Upper"
+msgstr "ზედა რეგისტრში"
+
+msgid "Uppercase"
+msgstr "დიდი სიმბოლოები"
+
+msgid "Urdu"
+msgstr "ურდუ"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Uruguay"
+msgstr "ურუგვაი"
+
+msgid "US Letter"
+msgstr "US წერილი"
+
+msgid "Usage"
+msgstr "გამოყენება"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "გამოყენება"
+
+msgid "Used"
+msgstr "Გამოყენებული"
+
+msgid "User"
+msgstr "მომხმარებელი"
+
+msgid "User Certificate"
+msgstr "მომხმარებლის სერტიფიკატი"
+
+msgid "User Defined"
+msgstr "საწყისი სამომხმარებლო"
+
+msgid "User Feedback"
+msgstr "მომხარებლის უკუკავშირი"
+
+msgid "User ID"
+msgstr "მომხმარებლის ID"
+
+msgid "User Interface"
+msgstr "სამომხმარებლო ინტერფეისი"
+
+msgid "User name"
+msgstr "მომხმარებელი"
+
+msgid "User Password"
+msgstr "მომხმარებლის პაროლი"
+
+msgid "Username"
+msgstr "მომხმარებლის სახელი"
+
+msgid "_Username"
+msgstr "_მომხმარებელი"
+
+msgid "Users"
+msgstr "მომხმარებლები"
+
+msgid "Utilities"
+msgstr "ხელსაწყოები"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "უზბეკეთი"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr "%v%"
+
+msgid "Valid"
+msgstr "სწორი"
+
+msgid "Valid from"
+msgstr "ძალაშია"
+
+msgid "Validity"
+msgstr "სისწორე"
+
+msgid "Value"
+msgstr "მნიშვნელობა"
+
+msgid "value"
+msgstr "მნიშვნელობა"
+
+msgid "&Value"
+msgstr "მნიშვნელობა"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+"მნიშვნელობა '%s' ტიპისთვის '%s' არასწორია ან დიაპაზონს გარეთაა თვისებისთვის "
+"'%s' ტიპისთვის '%s'"
+
+msgid "Values"
+msgstr "მნიშვნელობები"
+
+msgid "Vanuatu"
+msgstr "ვანუატუ"
+
+msgid "Variable"
+msgstr "ცვლადი"
+
+msgid "Variables"
+msgstr "ცვლადები"
+
+msgid "Variance"
+msgstr "ცვალებადობა"
+
+msgid "Vector"
+msgstr "ვექტორი"
+
+msgid "Velocity"
+msgstr "აჩქარება"
+
+msgid "Vendor"
+msgstr "მომწოდებელი"
+
+msgid "Venezuela"
+msgstr "ვენესუელა"
+
+msgid "Verb"
+msgstr "ზმნა"
+
+msgid "Verify"
+msgstr "შემოწმება"
+
+msgid "Version"
+msgstr "ვერსია"
+
+msgid "Version %1"
+msgstr "ვერსია %1"
+
+msgid "Vertical"
+msgstr "ვერტიკალური"
+
+msgid "Very Large"
+msgstr "ძალიან დიდი"
+
+msgid "Video"
+msgstr "ვიდეო"
+
+msgid "Video CD"
+msgstr "ვიდეო CD"
+
+msgid "Video Codec"
+msgstr "ვიდეოკოდეკი"
+
+msgid "Video Files"
+msgstr "ვიდეო ფაილები"
+
+msgid "Videos"
+msgstr "ვიდეო"
+
+msgid "Vietnam"
+msgstr "ვიეტნამი"
+
+msgid "Vietnamese"
+msgstr "ვიეტნამური"
+
+msgid "View"
+msgstr "ნახვა"
+
+msgid "&View"
+msgstr "&ხედი"
+
+msgid "_View"
+msgstr "_ხედი"
+
+msgid "View Options"
+msgstr "პარამეტრების ნახვა"
+
+msgid "View Settings"
+msgstr "ხედის მორგება"
+
+msgid "Viewer"
+msgstr "მაყურებელი"
+
+msgid "Views"
+msgstr "ხედები"
+
+msgid "Virtual"
+msgstr "ვირტუალური"
+
+msgid "Virtual Keyboard"
+msgstr "ვირტუალური კლავიატურა"
+
+msgid "Visibility"
+msgstr "ხილვადობა"
+
+msgid "Visible"
+msgstr "ხილული"
+
+msgid "Voltage"
+msgstr "Ვოლტაჟი"
+
+msgid "Volume"
+msgstr "ხმის სიმაღლე"
+
+msgid "Volume Down"
+msgstr "ხმის დაწევა"
+
+msgid "Volume Up"
+msgstr "ხმის აწევა"
+
+msgid "W"
+msgstr "სიგ"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "მოლოდინი"
+
+msgid "Wallpaper"
+msgstr "ფონური სურათი"
+
+msgid "Wallpaper type"
+msgstr "ფონური სურათის ტიპი"
+
+msgid "WARNING"
+msgstr "გაფრთხილება"
+
+msgid "Warning"
+msgstr "გაფრთხილება"
+
+msgid "warning"
+msgstr "გაფრთხილება"
+
+msgid "Warnings"
+msgstr "გაფრთხილებები"
+
+msgid "Water"
+msgstr "წყალი"
+
+msgid "Wave"
+msgstr "ტალღა"
+
+msgid "Weak"
+msgstr "სუსტი"
+
+msgid "Weather"
+msgstr "ამინდი"
+
+msgid "Web Browser"
+msgstr "ვებ-ბრაუზერი"
+
+msgid "Web browser"
+msgstr "ვებ-ბრაუზერი"
+
+msgid "Website"
+msgstr "ვებგვერდი"
+
+msgid "Wednesday"
+msgstr "ოთხშაბათი"
+
+msgid "Week"
+msgstr "კვირა"
+
+msgid "Week View"
+msgstr "კვირის ხედი"
+
+msgid "Weekly"
+msgstr "კვირაში ერთხელ"
+
+msgid "Weeks"
+msgstr "კვირა"
+
+msgid "weeks"
+msgstr "კვირა"
+
+msgid "Weight"
+msgstr "წონა"
+
+msgid "Welcome"
+msgstr "კეთილი იყოს თქვენი მობრძანება"
+
+msgid "Welsh"
+msgstr "უელსური"
+
+msgid "West"
+msgstr "დასავლეთი"
+
+msgid "Western"
+msgstr "დასავლური"
+
+msgid "Western Sahara"
+msgstr "დასავლეთ საჰარა"
+
+msgid "What's new"
+msgstr "რა არის ახალი"
+
+msgid "Wheel"
+msgstr "ბორბალი"
+
+msgid "Whether sound effects should be played."
+msgstr "დაიკვრება თუ არა ხმოვანი ეფექტები."
+
+msgid "White"
+msgstr "თეთრი"
+
+msgid "white"
+msgstr "თეთრი"
+
+msgid "White Balance"
+msgstr "თეთრის ბალანსი"
+
+msgid "Wide"
+msgstr "ფართო"
+
+msgid "Widgets"
+msgstr "ვიჯეტები"
+
+msgid "Width"
+msgstr "სიგანე"
+
+msgid "&Width"
+msgstr "&სიგანე"
+
+msgid "_Width"
+msgstr "სიგა_ნე"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Wikipedia"
+msgstr "Wikipedia - უფასო ენციკლოპედია"
+
+msgid "Window"
+msgstr "ფანჯარა"
+
+msgid "&Window"
+msgstr "&ფანჯარა"
+
+msgid "&Window Color Scheme"
+msgstr "&ფანჯრის ფერის სქემა"
+
+msgid "Window height"
+msgstr "ფანჯრის სიმაღლე"
+
+msgid "Window Management"
+msgstr "ფანჯრების მართვა"
+
+msgid "Window maximized"
+msgstr "გადიდებული ფანჯარა"
+
+msgid "Window size"
+msgstr "ფანჯრის ზომა"
+
+msgid "Window Title"
+msgstr "ფანჯრის სათაური"
+
+msgid "Window width"
+msgstr "ფანჯრის სიგანე"
+
+msgid "Windows"
+msgstr "ფანჯრები"
+
+msgid "_Windows"
+msgstr "_ფანჯრები"
+
+msgid "with"
+msgstr "-ით"
+
+msgid "Word"
+msgstr "სიტყვა"
+
+msgid "Word Count"
+msgstr "სიტყვების რაოდენობა"
+
+msgid "Words"
+msgstr "საკვანძო სიტყვები"
+
+msgid "Work"
+msgstr "სამუშაო"
+
+msgid "World"
+msgstr "მსოფლიო"
+
+msgid "Wrap"
+msgstr "შემოხვევა"
+
+msgid "_Wrap around"
+msgstr "_სიტყვების გადატანა"
+
+msgid "Wrap Text"
+msgstr "ტექსტის გადატანა"
+
+msgid "Write"
+msgstr "ჩასწორება"
+
+msgid "Writing"
+msgstr "ჩაწერა"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "წელი"
+
+msgid "Yearly"
+msgstr "წლიურად"
+
+msgid "Years"
+msgstr "წელი"
+
+msgid "years"
+msgstr "წელი"
+
+msgid "Yellow"
+msgstr "ყვითელი"
+
+msgid "yellow"
+msgstr "ყვითელი"
+
+msgid "Yemen"
+msgstr "იემენი"
+
+msgid "Yes"
+msgstr "დიახ"
+
+msgid "yes"
+msgstr "დიახ"
+
+msgid "_Yes"
+msgstr "_დიახ"
+
+msgid "Yesterday"
+msgstr "გუშინ"
+
+msgid "Yiddish"
+msgstr "იდიში"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr "VPN \"%s\"-თან წვდომისთვის საჭიროა ავთენტიკაცია."
+
+msgid "Yukon"
+msgstr "იუკონი"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "ზამბია"
+
+msgid "Zero"
+msgstr "ნული"
+
+msgid "Zimbabwe"
+msgstr "ზიმბაბვე"
+
+msgid "Zoom"
+msgstr "გადიდება"
+
+msgid "&Zoom"
+msgstr "&გადიდება"
+
+msgid "_Zoom"
+msgstr "_გადიდება"
+
+msgid "Zoom In"
+msgstr "გადიდება"
+
+msgid "Zoom in"
+msgstr "გადიდება"
+
+msgid "Zoom &In"
+msgstr "შემცირება"
+
+msgid "Zoom _In"
+msgstr "გა_დიდება"
+
+msgid "Zoom Out"
+msgstr "დაპატარავება"
+
+msgid "Zoom out"
+msgstr "დაპატარავება"
+
+msgid "Zoom &Out"
+msgstr "გადიდება"
+
+msgid "Zoom _Out"
+msgstr "და_პატარავება"
+
+msgid "Zoom to Fit"
+msgstr "გადიდება მოსარგებად"

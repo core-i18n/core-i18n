@@ -24,10 +24,23 @@ BLACKLIST_PATH = ROOT / "blacklist.pot"
 MAX_LEN = 200
 CREDIT_CTXTS = {"NAME OF TRANSLATORS", "EMAIL OF TRANSLATORS"}
 LANGUAGE_RE = re.compile(r"^[A-Za-z0-9]+(?:[_@.-][A-Za-z0-9]+)*$")
+OCCURRENCE_COMMENT_RE = re.compile(r"Occurs in \d+ KDE\+GNOME PO files")
+
+
+def removes_trailing_colon(msgid):
+    msgid = msgid.replace("…", "...")
+    return msgid.endswith(":") and msgid != "%1:"
 
 
 def normalize_msgid(msgid):
-    return msgid.replace("…", "...")
+    msgid = msgid.replace("…", "...")
+    return msgid.rstrip(":") if removes_trailing_colon(msgid) else msgid
+
+
+def normalize_translation(msgstr, colon_suffix_removed):
+    if colon_suffix_removed and msgstr.endswith(":"):
+        return msgstr.rstrip(":")
+    return msgstr
 
 
 def load_blacklist():
@@ -66,6 +79,14 @@ def remove_blacklisted(po):
             po.remove(entry)
 
 
+def remove_occurrence_comments(po):
+    for entry in po:
+        for attribute in ("comment", "tcomment"):
+            lines = getattr(entry, attribute).splitlines()
+            setattr(entry, attribute, "\n".join(
+                line for line in lines if not OCCURRENCE_COMMENT_RE.fullmatch(line)))
+
+
 def merge_entry(target, source):
     if not target.msgstr and source.msgstr:
         target.msgstr = source.msgstr
@@ -87,18 +108,30 @@ def normalize_catalog(po):
     grouped = {}
     preferred_ascii = {}
     for entry in entries:
-        was_ascii = "…" not in entry.msgid and "…" not in entry.msgid_plural
+        original_msgid = entry.msgid.replace("…", "...")
+        original_plural = entry.msgid_plural.replace("…", "...")
+        msgid_colon_removed = removes_trailing_colon(original_msgid)
+        plural_colon_removed = removes_trailing_colon(original_plural)
+        was_canonical = ("…" not in entry.msgid and "…" not in entry.msgid_plural
+                         and not msgid_colon_removed and not plural_colon_removed)
+        entry.msgstr = normalize_translation(entry.msgstr, msgid_colon_removed)
+        entry.msgstr_plural = {
+            index: normalize_translation(translation, plural_colon_removed)
+            for index, translation in entry.msgstr_plural.items()
+        }
         entry.msgid = normalize_msgid(entry.msgid)
         entry.msgid_plural = normalize_msgid(entry.msgid_plural)
+        if original_msgid and not entry.msgid:
+            continue
         key = (entry.obsolete, entry.msgctxt, entry.msgid, entry.msgid_plural)
         previous = grouped.get(key)
         if previous is None:
             grouped[key] = entry
-            preferred_ascii[key] = was_ascii
+            preferred_ascii[key] = was_canonical
             po.append(entry)
             continue
 
-        if was_ascii and not preferred_ascii[key]:
+        if was_canonical and not preferred_ascii[key]:
             merge_entry(entry, previous)
             po.remove(previous)
             grouped[key] = entry
@@ -122,7 +155,9 @@ def collect_catalog(language, po_path):
         key = normalize_msgid(entry.msgid)
         seen.add(key)
         if entry.msgstr and "fuzzy" not in entry.flags:
-            counters[key, entry.msgstr] += 1
+            translation = normalize_translation(
+                entry.msgstr, removes_trailing_colon(entry.msgid))
+            counters[key, translation] += 1
     return language, po_path, seen, counters, None
 
 
@@ -206,10 +241,8 @@ def collect_all(caches, jobs):
     return occurrences, translations
 
 
-def entry_for(key, occurrences, msgstr="", comment=None):
-    return polib.POEntry(msgid=key, msgstr=msgstr,
-                         comment=(comment if comment is not None else
-                                  f"Occurs in {occurrences.get(key, 0)} KDE+GNOME PO files"))
+def entry_for(key, msgstr="", comment=""):
+    return polib.POEntry(msgid=key, msgstr=msgstr, comment=comment)
 
 
 def load_or_create(path):
@@ -224,12 +257,12 @@ def load_or_create(path):
     return po, True
 
 
-def append_missing(po, keys, occurrences):
+def append_missing(po, keys):
     existing = {entry.msgid for entry in po if not entry.obsolete}
     added = 0
     for key in keys:
         if key not in existing:
-            po.append(entry_for(key, occurrences))
+            po.append(entry_for(key))
             existing.add(key)
             added += 1
     return added
@@ -246,7 +279,8 @@ def build(caches, out, min_count, pot_path, jobs=4):
     log(f"Updating POT: {pot_path}")
     pot, _ = load_or_create(pot_path)
     remove_blacklisted(pot)
-    added = append_missing(pot, keys, occurrences)
+    remove_occurrence_comments(pot)
+    added = append_missing(pot, keys)
     pot.sort(key=lambda entry: msgid_sort_key(entry.msgid))
     pot.save(str(pot_path))
     log(f"POT: added {added} strings")
@@ -261,6 +295,7 @@ def build(caches, out, min_count, pot_path, jobs=4):
         po_path = out / f"{language}.po"
         po, is_new = load_or_create(po_path)
         remove_blacklisted(po)
+        remove_occurrence_comments(po)
         existing = {entry.msgid for entry in po if not entry.obsolete}
         added = 0
         for key in pot_keys:
@@ -269,8 +304,7 @@ def build(caches, out, min_count, pot_path, jobs=4):
                 continue
             translation = (sorted(counts.items(), key=lambda item: (-item[1], item[0]))[0][0]
                            if counts else "")
-            po.append(entry_for(key, occurrences, translation,
-                                pot_entries[key].comment))
+            po.append(entry_for(key, translation, pot_entries[key].comment))
             existing.add(key)
             added += 1
         if added or is_new or po_path.exists():
@@ -282,6 +316,7 @@ def build(caches, out, min_count, pot_path, jobs=4):
     for po_path in sorted(out.glob("*.po")):
         po = polib.pofile(str(po_path))
         remove_blacklisted(po)
+        remove_occurrence_comments(po)
         po.sort(key=lambda entry: msgid_sort_key(entry.msgid))
         po.save(str(po_path))
     log("Analysis complete")

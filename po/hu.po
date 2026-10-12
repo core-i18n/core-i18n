@@ -7,1437 +7,9456 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "Alap eszköztár"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "Általános"
+msgid "#"
+msgstr "#"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "Eltávolítás"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "Mégsem"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "&Fájl"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "Törlés"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "Nincs"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "Név"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "Karbantartó"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "Név:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "S&zerkesztés"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "&Beállítások"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "Hiba"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "Né&zet"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "Hozzáadás"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "Jelszó:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "Fejlesztő"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "Szerző"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "…"
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "Bezárás"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "Beállítások"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "Beállítások"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "Ismeretlen"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "&Eszközök"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "Típus"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "&Törlés"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "Szerkesztés"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "Mentés"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "Leírás"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "Leírás:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "Dátum"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "Fájl"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "Előnézet"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "Beállítás"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "Megjelenés"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "Tulajdonságok"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "Típus:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "Méret"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "&Eltávolítás"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "Keresés"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "Alapértelmezett"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "Felhasználónév:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&Súgó"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "Másolás"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "Leállítás"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "Nézet"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "Figyelmeztetés"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "Normál"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "Átnevezés"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "Igen"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "Speciális"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "Nem"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "Állapot"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "Szöveg"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "Érték"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "Színek"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "Párbeszédablak"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "Cím"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "Eredeti szerző"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "Keresés…"
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "Hozzáadás…"
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "Információ"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "Idő"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "Megjegyzés"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "Magasság:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "Balra"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "Új"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "Megnyitás"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "Méret:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "Szélesség:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "Port:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "Jobbra"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "Mentés másként"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "Cím:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&Exportálás"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "Automatikus"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "Törlés"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "Létrehozás"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "Exportálás"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "Súgó"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "OK"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "&Név:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "Hitelesítés"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "Részletek"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "Szűrő"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "Kihagyás"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "Kép"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "Hely:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "Frissítés"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "Mind"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "Középre"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "Egyéni"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "Betűtípus"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "Beszúrás"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "Soha"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "Eszközök"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "Visszavonás"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "Névtelen"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "&Ugrás"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "Szerkesztés…"
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "Bekapcsolva"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "Importálás"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "Hely"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "Le"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "Fel"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "Összes kijelölése"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "Frissítés"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "&Hozzáadás"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "Névjegy"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "Megjegyzés:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "Beállítás…"
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "Fájlnév:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "Általános beállítások"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "Következő"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "Egyéb"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "Kiválasztás"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "Fent"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "Függőleges"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "&Bezárás"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "Szerző:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "Bekapcsolás"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "Vízszintes"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "Importálás…"
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "Újra végrehajtás"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "Elutasítás"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "Csere"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "S&zerkesztés…"
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "Műveletek"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "Mindig"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "Könyvjelzők"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "Dátum:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "Exportálás…"
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "Információ"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "Szám"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "Eredeti szerző"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "Lejátszás"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "Újratöltés"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "Indítás"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "Címkék"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "Téma"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "Eddig:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "Ú&j"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "Elfogadás"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "Háttér"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "Szín:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "Parancs"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "Letiltva"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "Kész"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "Betűtípusok"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "Ettől:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "Vonal"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "Egyéb"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "Hálózat"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "Beillesztés"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "Szünet"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "Pozíció"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "ismeretlen"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "Beállítás"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " ms"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "Alkalmazás"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "Automatikus"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "Lent"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "Oszlopok"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "Letöltés"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "Szerkesztő"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "Betűtípus:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "Formátum"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "Feladó"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "Nyelv"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "Egyéb"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "Fájl megnyitása"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "Jelszó"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "Kész"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "Alapállapot"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "Tárgy"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "Címzett"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "Nagyítás"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "&Mégsem"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "Azonosító:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "Minden fájl"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "Fekete"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "Félkövér"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "Folytatás"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "Adat"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "Cél"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "E-mail:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "Mappa"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "Csoport"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "Ikon:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "Dőlt"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "Elrendezés"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "Közepes"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "Üzenet"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "Bővítmények"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "Előző"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "Piros"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "Mentés másként…"
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "Forrás"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "Állapot"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "Ismeretlen hiba"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "Fel"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "Szélesség"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "Név"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "&Hozzáadás…"
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "&Mentés"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "Alkalmazások"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "Vissza"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "Működés"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "Nagybetűérzékeny"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "Másolás a vágólapra"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "Jelenlegi karbantartó"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "Hibakeresés"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "Formátum:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "Hossz"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "Kézi"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "Mód"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "Kimenet"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "Elérési út:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "Pozíció:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "Kijelölés"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "Megosztás"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "Stílus"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "Nagyítás"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "Kicsinyítés"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "&Játék"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "&Importálás"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&Keresés"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "Minden fájl (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "Kék"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "Szín"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "Kapcsolódás"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "Ország"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "Dokumentáció"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "Le"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "E-mail"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "Fájlnév"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "Mappák"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "Zöld"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "Képek"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "Címke"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "Alacsony"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "Hónap"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "Némítás"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "Kilépés"
-
-#. Occurs in 12 KDE PO files
-msgid "Search…"
-msgstr "Keresés…"
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "Állapot:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "Táblázat"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "Címke"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "Szövegcímke"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "Év"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "nem"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "igen"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " képpont"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "&Könyvjelzők"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "Á&ltalános"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "Ú&j..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "Megny&itás"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "Á&llj"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "Fiók"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "Az azonosító beállításai"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "Művelet"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "Háttérszín"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "Kategóriák"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "Kategória"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "Kategória:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "Teljes összecsukás"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "Kivágás"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "A jelenlegi háttérprogramadat változatlanul hagyása."
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "Teljes kibontás"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "Fájlnév"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter..."
-msgstr "Szűrő…"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "Szűrő:"
-
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "Átjáró:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "Geometria"
-
-#. Occurs in 11 KDE PO files
-msgid "Harald Sitter"
-msgstr "Harald Sitter"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "Magasság"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "Saját mappa"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "Ikonok"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "Kulcs"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "Vonalak"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "Lista"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "Betöltés…"
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "Hónap"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "Áthelyezés"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "Becenév:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "Megjegyzés"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "Tartalmazó mappa megnyitása"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "Felülírás?"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "Újraindítás"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "Futtatás"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "Keresés:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "Küldés"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "Kiszolgáló:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "Sebesség"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "URL"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "URL:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "Felhasználó:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "perc"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "Hiba"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "&Másolás"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr "?"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "…"
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " és "
+
+msgid " (default)"
+msgstr " (alapértelmezett)"
+
+msgid "© KDE Community"
+msgstr "© A KDE közösség"
+
+msgid " MB"
+msgstr " MB"
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " perc"
+
+msgid " minutes"
+msgstr " perc"
+
+msgid " ms"
+msgstr " ms"
+
+msgid " px"
+msgstr " képpont"
+
+msgid " s"
+msgstr " mp"
+
+msgid " sec"
+msgstr " s"
+
+msgid " seconds"
+msgstr " másodperc"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 %"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 és %2"
+
+msgid "%1 bytes"
+msgstr "%1 bájt"
+
+msgid "1 day"
+msgstr "1 nap"
+
+msgid "%1 does not exist"
+msgstr "%1 nem létezik"
+
+msgid "%1 free"
+msgstr "%1 szabad"
+
+msgid "1 hour"
+msgstr "1 óra"
+
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgid "%1 ms"
+msgstr "%1 ms"
+
+msgid "%1 of %2"
+msgstr "%1 / %2"
+
+msgid "%1 on %2"
+msgstr "%1 : %2"
+
+msgid "%1 s"
+msgstr "%1 mp"
+
+msgid "%1 seconds"
+msgstr "%1 másodperc"
+
+msgid "%1 to %2"
+msgstr "%1 - %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 perc"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "128 bit"
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 perc"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1 p"
+
+msgid "%1/s"
+msgstr "%1/s"
+
+msgid "1st"
+msgstr "1."
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 perc"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "4."
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 perc"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr "5."
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "Már létezik \"%1\" nevű fájl. Biztosan felül szeretné írni?"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
 msgstr "Megszakítás"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "Speciális beállítások"
+msgid "&Abort"
+msgstr "&Megszakítás"
 
-#. Occurs in 10 KDE PO files
-msgid "Album"
-msgstr "Album"
+msgid "Aborted"
+msgstr "Megszakítva"
 
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
+msgid "About"
+msgstr "Névjegy"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "&About"
+msgstr "&Névjegy"
 
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
-msgstr "&Mégsem"
+msgid "_About"
+msgstr "_Névjegy"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "Előzmények törlése"
+msgid "About %1"
+msgstr "Névjegy: %1"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "Tömörítés"
+msgid "About KDE"
+msgstr "A KDE névjegye"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "Névjegyek"
+msgid "Abstract"
+msgstr "Absztrakt"
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "Copyright"
+msgid "Accept"
+msgstr "Elfogadás"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "Eszköz:"
+msgid "Accepted"
+msgstr "Elfogadva"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "Kapcsolat bontása"
+msgid "Accessed"
+msgstr "Hozzáférés"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "Időtartam"
+msgid "Accessibility"
+msgstr "Akadálymentesítés"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "Hiba: %1"
+msgid "Account"
+msgstr "Fiók"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Account Details"
+msgstr "Fiókadatok"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "Fájl:"
+msgid "Account Information"
+msgstr "Fiókinformációk"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "Fájlok"
+msgid "Account Name"
+msgstr "Fiók neve"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "Keresés"
+msgid "Accounts"
+msgstr "Fiókok"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "Függvény"
+msgid "Accuracy"
+msgstr "Pontosság"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "Csoport:"
+msgid "Action"
+msgstr "Művelet"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "Menüsáv elrejtése"
+msgid "Actions"
+msgstr "Műveletek"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "Magas"
+msgid "Activate"
+msgstr "Aktiválás"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "Előzmények"
+msgid "Active"
+msgstr "Aktív"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "Activities"
+msgstr "Aktivitások"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "&Fel"
+msgid "Activity"
+msgstr "Aktivitás"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "Értesítések"
+msgid "Adaptive"
+msgstr "Adaptív"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "Szervezet"
-
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "Elérési út"
-
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "Port"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "Prioritás"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "Prioritás:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "Projekt"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "Csoport törlése"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "Szóköz"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "Ma"
-
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "Érték:"
-
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "Verzió"
-
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "Verzió:"
-
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "Videó"
-
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "Év"
-
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
 msgid "Add"
 msgstr "Hozzáadás"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
-msgid "Cancel"
-msgstr "Mégsem"
+msgid "&Add"
+msgstr "&Hozzáadás"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "_Add"
+msgstr "_Hozzáadás"
+
+msgid "Add..."
+msgstr "Hozzáadás…"
+
+msgid "&Add..."
+msgstr "&Hozzáadás..."
+
+msgid "A&dd..."
+msgstr "Hozzáa&dás…"
+
+msgid "Add Account"
+msgstr "Fiók hozzáadása"
+
+msgid "Add Bookmark"
+msgstr "Könyvjelző hozzáadása"
+
+msgid "_Add Bookmark"
+msgstr "Könyvjelző _hozzáadása"
+
+msgid "Add Filter"
+msgstr "Szűrő hozzáadása"
+
+msgid "Add Folder"
+msgstr "Mappa hozzáadása"
+
+msgid "Add Folder..."
+msgstr "Mappa hozzáadása…"
+
+msgid "Add Group"
+msgstr "Csoport hozzáadása"
+
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+msgid "Add Rule..."
+msgstr "Szabály hozzáadása…"
+
+msgid "Add Tag"
+msgstr "Címke hozzáadása"
+
+msgid "Add tag"
+msgstr "Címke hozzáadása"
+
+msgid "Add to Dictionary"
+msgstr "Hozzáadás a szótárhoz"
+
+msgid "Add to Favorites"
+msgstr "Hozzáadás a kedvencekhez"
+
+msgid "Added"
+msgstr "Hozzáadva"
+
+msgid "Addition"
+msgstr "Összeadás"
+
+msgid "Additional Information"
+msgstr "Egyéb jellemzők"
+
+msgid "Address"
+msgstr "Cím"
+
+msgid "Address Book"
+msgstr "Címjegyzék"
+
+msgid "Addresses"
+msgstr "Címek"
+
+msgid "Adjust"
+msgstr "Igazítás"
+
+msgid "Advanced"
+msgstr "Speciális"
+
+msgid "Advanced..."
+msgstr "Speciális…"
+
+msgid "Ad_vanced..."
+msgstr "Spe_ciális…"
+
+msgid "Advanced options"
+msgstr "Speciális beállítások"
+
+msgid "Advanced Properties"
+msgstr "Speciális tulajdonságok"
+
+msgid "Advanced Settings"
+msgstr "Speciális beállítások"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "Afganisztán"
+
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "After"
+msgstr "Utána"
+
+msgid "Agenda"
+msgstr "Napirend"
+
+msgid "Alarm"
+msgstr "Riasztás"
+
+msgid "Alarms"
+msgstr "Riasztások"
+
+msgid "Albania"
+msgstr "Albánia"
+
+msgid "Albanian"
+msgstr "Albán"
+
+msgid "Albert Vaca Cintora"
+msgstr "Albert Vaca Cintora"
+
+msgid "Album"
+msgstr "Album"
+
+msgid "Album Artist"
+msgstr "Album előadója"
+
+msgid "Albums"
+msgstr "Albumok"
+
+msgid "Alert"
+msgstr "Riasztás"
+
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+msgid "Algeria"
+msgstr "Algéria"
+
+msgid "Algorithm"
+msgstr "Algoritmus"
+
+msgid "Alias"
+msgstr "Álnév"
+
+msgid "Aliases"
+msgstr "Álnevek"
+
+msgid "Align"
+msgstr "Igazítás"
+
+msgid "Align Bottom"
+msgstr "Alulra igazítás"
+
+msgid "Align Center"
+msgstr "Középre igazítás"
+
+msgid "Align Left"
+msgstr "Balra igazítás"
+
+msgid "Align left"
+msgstr "Igazítás balra"
+
+msgid "Align Right"
+msgstr "Jobbra igazítás"
+
+msgid "Align right"
+msgstr "Igazítás jobbra"
+
+msgid "Align Top"
+msgstr "Felülre igazítás"
+
+msgid "Alignment"
+msgstr "Igazítás"
+
+msgid "All"
+msgstr "Mind"
+
+msgid "all"
+msgstr "mind"
+
+msgid "_All"
+msgstr "Min_dent"
+
+msgid "All Files"
+msgstr "Minden fájl"
+
+msgid "All files"
+msgstr "Minden fájl"
+
+msgid "All Files (*)"
+msgstr "Minden fájl (*)"
+
+msgid "All files (*)"
+msgstr "Minden fájl (*)"
+
+msgid "All Supported Files"
+msgstr "Minden támogatott fájltípus"
+
+msgid "Allen Winter"
+msgstr "Allen Winter"
+
+msgid "Allow"
+msgstr "Engedélyezés"
+
+msgid "Allow Deflate compression"
+msgstr "Deflate tömörítés engedélyezése"
+
+msgid "Alpha"
+msgstr "Alfa"
+
+msgid "Alphabetically"
+msgstr "Betűrendben"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "Alternatív"
+
+msgid "Always"
+msgstr "Mindig"
+
+msgid "Always ask"
+msgstr "Rákérdezés mindig"
+
+msgid "Always visible"
+msgstr "Mindig látható"
+
+msgid "AM"
+msgstr "DE"
+
+msgid "Ambient"
+msgstr "Ambiens"
+
+msgid "Amount"
+msgstr "Összeg"
+
+msgid "An error occurred"
+msgstr "Hiba történt"
+
+msgid "An unknown error occurred."
+msgstr "Ismeretlen hiba történt."
+
+msgid "Analysis"
+msgstr "Elemzés"
+
+msgid "Anchor"
+msgstr "Horgony"
+
+msgid "AND"
+msgstr "ÉS"
+
+msgid "and"
+msgstr "és"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "Szög"
+
+msgid "angle"
+msgstr "szög"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animation"
+msgstr "Animáció"
+
+msgid "Animations"
+msgstr "Animációk"
+
+msgid "Anniversary"
+msgstr "Évforduló"
+
+msgid "Annotate"
+msgstr "Feliratozás"
+
+msgid "Annotation"
+msgstr "Feljegyzés"
+
+msgid "Annotations"
+msgstr "Jegyzetek"
+
+msgid "Anonymous"
+msgstr "Névtelen"
+
+msgid "Antarctica"
+msgstr "Antarktisz"
+
+msgid "Any"
+msgstr "Bármely"
+
+msgid "Aperture"
+msgstr "Rekesz"
+
+msgid "Appearance"
+msgstr "Megjelenés"
+
+msgid "Append"
+msgstr "Hozzáfűzés"
+
+msgid "AppImage"
+msgstr "AppImage"
+
+msgid "Application"
+msgstr "Alkalmazás"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "Alkalmazásmenü"
+
+msgid "Applications"
+msgstr "Alkalmazások"
+
+msgid "Apply"
+msgstr "Alkalmaz"
+
+msgid "&Apply"
+msgstr "&Alkalmaz"
+
+msgid "_Apply"
+msgstr "_Alkalmaz"
+
+msgid "Apply Settings"
+msgstr "Beállítások alkalmazása"
+
+msgid "April"
+msgstr "április"
+
+msgid "Arabic"
+msgstr "Arab"
+
+msgid "Archive"
+msgstr "Archívum"
+
+msgid "Archives"
+msgstr "Archívumok"
+
+msgid "Area"
+msgstr "Terület"
+
+msgid "Argentina"
+msgstr "Argentína"
+
+msgid "Arguments"
+msgstr "Argumentumok"
+
+msgid "Armenia"
+msgstr "Örményország"
+
+msgid "Armenian"
+msgstr "Örmény"
+
+msgid "Arrow"
+msgstr "Nyíl"
+
+msgid "Arrows"
+msgstr "Nyilak"
+
+msgid "Articles"
+msgstr "Cikkek"
+
+msgid "Artist"
+msgstr "Előadó"
+
+msgid "Artists"
+msgstr "Előadók"
+
+msgid "Artwork"
+msgstr "Grafika"
+
+msgid "Ascending"
+msgstr "Növekvő"
+
+msgid "Asia"
+msgstr "Ázsia"
+
+msgid "Ask"
+msgstr "Rákérdezés"
+
+msgid "Aspect Ratio"
+msgstr "Méretarány"
+
+msgid "Aspect ratio"
+msgstr "Méretarány"
+
+msgid "Assamese"
+msgstr "Asszámi"
+
+msgid "Assign Tags"
+msgstr "Címkék hozzárendelése"
+
+msgid "Assistant"
+msgstr "Asszisztens"
+
+msgid "ATM"
+msgstr "ATM"
+
+msgid "Attach"
+msgstr "Csatolás"
+
+msgid "Attach File"
+msgstr "Fájl csatolása"
+
+msgid "Attachment"
+msgstr "Melléklet"
+
+msgid "Attachments"
+msgstr "Mellékletek"
+
+msgid "Attendees"
+msgstr "Résztvevők"
+
+msgid "Attribute"
+msgstr "Attribútum"
+
+msgid "Attributes"
+msgstr "Attribútumok"
+
+msgid "Audio"
+msgstr "Hang"
+
+msgid "Audio CD"
+msgstr "Hang-CD"
+
+msgid "Audio Codec"
+msgstr "Hangkodek"
+
+msgid "Audio files"
+msgstr "Hangfájlok"
+
+msgid "August"
+msgstr "augusztus"
+
+msgid "Australia"
+msgstr "Ausztrália"
+
+msgid "Austria"
+msgstr "Ausztria"
+
+msgid "Authenticate"
+msgstr "Hitelesítés"
+
+msgid "Authenticate VPN"
+msgstr "VPN azonosítás"
+
+msgid "Authentication"
+msgstr "Hitelesítés"
+
+msgid "Authentication Required"
+msgstr "Hitelesítés szükséges"
+
+msgid "Author"
+msgstr "Szerző"
+
+msgid "Authors"
+msgstr "Szerzők"
+
+msgid "Auto"
+msgstr "Automatikus"
+
+msgid "auto"
+msgstr "automatikus"
+
+msgid "Auto Detect"
+msgstr "Automatikus felismerés"
+
+msgid "Auto Save"
+msgstr "Automatikus mentés"
+
+msgid "Autodetect"
+msgstr "Automatikus"
+
+msgid "Automatic"
+msgstr "Automatikus"
+
+msgid "Autosave interval"
+msgstr "Automatikus mentési időköz"
+
+msgid "Available"
+msgstr "Elérhető"
+
+msgid "A&vailable actions"
+msgstr "&Elérhető műveletek"
+
+msgid "Average"
+msgstr "Átlag"
+
+msgid "Axes"
+msgstr "Tengelyek"
+
+msgid "Azerbaijan"
+msgstr "Azerbajdzsán"
+
+msgid "Azerbaijani"
+msgstr "Azerbajdzsán"
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "Vissza"
+
+msgid "&Back"
+msgstr "&Vissza"
+
+msgid "_Back"
+msgstr "_Vissza"
+
+msgid "Background"
+msgstr "Háttér"
+
+msgid "Background Color"
+msgstr "Háttérszín"
+
+msgid "Background color"
+msgstr "Háttérszín"
+
+msgid "&Background color"
+msgstr "&Háttérszín"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "Biztonsági mentés"
+
+msgid "Bahamas"
+msgstr "Bahama-szigetek"
+
+msgid "Bahrain"
+msgstr "Bahrein"
+
+msgid "Balance"
+msgstr "Egyensúly"
+
+msgid "Balanced"
+msgstr "Kiegyensúlyozott"
+
+msgid "Baltic"
+msgstr "Balti"
+
+msgid "Bangladesh"
+msgstr "Banglades"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Bar"
+msgstr "Oszlop"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Base"
+msgstr "Alap"
+
+msgid "Basic"
+msgstr "Alap"
+
+msgid "Basque"
+msgstr "Baszk"
+
+msgid "Bass"
+msgstr "Basszus"
+
+msgid "Battery"
+msgstr "Akkumulátor"
+
+msgid "Bcc"
+msgstr "Titkos másolat"
+
+msgid "Before"
+msgstr "Előtte"
+
+msgid "Behavior"
+msgstr "Működés"
+
+msgid "Belarus"
+msgstr "Fehéroroszország"
+
+msgid "Belarusian"
+msgstr "Belorusz"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Bengali"
+msgstr "Bengáli"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Best"
+msgstr "Legjobb"
+
+msgid "Bhutan"
+msgstr "Bhután"
+
+msgid "Bibliography"
+msgstr "Bibliográfia"
+
+msgid "Binary"
+msgstr "Bináris"
+
+msgid "Birthday"
+msgstr "Születésnap"
+
+msgid "Bitrate"
+msgstr "Bitsebesség"
+
+msgid "Black"
+msgstr "Fekete"
+
+msgid "black"
+msgstr "fekete"
+
+msgid "Blend"
+msgstr "Keverés"
+
+msgid "Block"
+msgstr "Blokk"
+
+msgid "Block Elements"
+msgstr "Blokkelemek"
+
+msgid "Blocked"
+msgstr "Blokkolt"
+
+msgid "Blue"
+msgstr "Kék"
+
+msgid "Blues"
+msgstr "Blues"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Blur"
+msgstr "Elmosás"
+
+msgid "<b>Name:</b>"
+msgstr "<b>Név:</b>"
+
+msgid "Body"
+msgstr "Törzs"
+
+msgid "Bold"
+msgstr "Félkövér"
+
+msgid "&Bold"
+msgstr "&Félkövér"
+
+msgid "_Bold"
+msgstr "_Félkövér"
+
+msgid "Bold text"
+msgstr "Félkövér szöveg"
+
+msgid "Bolivia"
+msgstr "Bolívia"
+
+msgid "Book"
+msgstr "Könyv"
+
+msgid "Bookmark"
+msgstr "Könyvjelző"
+
+msgid "Bookmarks"
+msgstr "Könyvjelzők"
+
+msgid "&Bookmarks"
+msgstr "&Könyvjelzők"
+
+msgid "_Bookmarks"
+msgstr "Könyvj_elzők"
+
+msgid "Boolean"
+msgstr "Logikai"
+
+msgid "Border"
+msgstr "Határ"
+
+msgid "Bosnian"
+msgstr "Bosnyák"
+
+msgid "Both"
+msgstr "Mindkettő"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Bottom"
+msgstr "Lent"
+
+msgid "_Bottom"
+msgstr "_Lent"
+
+msgid "Bottom Left"
+msgstr "Balra lent"
+
+msgid "Bottom Right"
+msgstr "Jobbra lent"
+
+msgid "Bottom-left"
+msgstr "Balra lent"
+
+msgid "Bottom-right"
+msgstr "Jobbra lent"
+
+msgid "Box"
+msgstr "Doboz"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Branch"
+msgstr "Ág"
+
+msgid "Brazil"
+msgstr "Brazília"
+
+msgid "Breeze"
+msgstr "Breeze"
+
+msgid "Breeze by the KDE VDG"
+msgstr "Breeze a KDE VDG-től"
+
+msgid "Breeze Dark"
+msgstr "Breeze Dark"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "Breeze Dark a KDE VDG-től"
+
+msgid "Breton"
+msgstr "Breton"
+
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+msgid "Bridge"
+msgstr "Híd"
+
+msgid "Brightness"
+msgstr "Fényerő"
+
+msgid "Broken"
+msgstr "Törött"
+
+msgid "Browse"
+msgstr "Tallózás"
+
+msgid "Browse..."
+msgstr "Tallózás..."
+
+msgid "_Browse..."
+msgstr "_Tallózás…"
+
+msgid "Browser"
+msgstr "Böngésző"
+
+msgid "Buffer"
+msgstr "Puffer"
+
+msgid "Bug fixes"
+msgstr "Hibajavítások"
+
+msgid "Build"
+msgstr "Fordítás"
+
+msgid "Built-in Screen"
+msgstr "Beépített képernyő"
+
+msgid "Bulgaria"
+msgstr "Bulgária"
+
+msgid "Bulgarian"
+msgstr "Bolgár"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burn"
+msgstr "Írás"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Bus"
+msgstr "Busz"
+
+msgid "Busy"
+msgstr "Elfoglalt"
+
+msgid "Butt"
+msgstr "Illesztő"
+
+msgid "Button"
+msgstr "Gomb"
+
+msgid "Buttons"
+msgstr "Gombok"
+
+msgid "by"
+msgstr "*"
+
+msgid "By %1"
+msgstr "%1"
+
+msgid "By extension"
+msgstr "Kiterjesztés szerint"
+
+msgid "Bytes"
+msgstr "Bájt"
+
+msgid "bytes"
+msgstr "bájt"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "CA tanúsítvány"
+
+msgid "Cache"
+msgstr "Gyorsítótár"
+
+msgid "Calculate"
+msgstr "Számolás"
+
+msgid "Calculating..."
+msgstr "Számolás…"
+
+msgid "Calculator"
+msgstr "Számológép"
+
+msgid "Calendar"
+msgstr "Naptár"
+
+msgid "Calendars"
+msgstr "Naptárak"
+
+msgid "Call"
+msgstr "Hívás"
+
+msgid "Calls"
+msgstr "Hívások"
+
+msgid "Cambodia"
+msgstr "Kambodzsa"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "Cameroon"
+msgstr "Kamerun"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "&Cancel"
+msgstr "&Mégse"
+
+msgid "_Cancel"
+msgstr "_Mégse"
+
+msgid "C&ancel"
+msgstr "&Mégse"
+
+msgid "Canceled"
+msgstr "Lemondva"
+
+msgid "Cancelled"
+msgstr "Megszakítva"
+
+msgid "cannot load editor plugin: %s"
+msgstr "nem tölthető be a szerkesztő bővítmény: %s"
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr "nem tölthető be a(z) %s factory a bővítményből: %s"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "Vászon"
+
+msgid "Capabilities"
+msgstr "Képességek"
+
+msgid "Capacity"
+msgstr "Kapacitás"
+
+msgid "Cape Verde"
+msgstr "Zöld-foki Köztársaság"
+
+msgid "Capitalize"
+msgstr "Nagy kezdőbetűk"
+
+msgid "Caps Lock is on"
+msgstr "A Caps Lock be van kapcsolva"
+
+msgid "Capture"
+msgstr "Felvétel"
+
+msgid "Car"
+msgstr "Autó"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "Cascade"
+
+msgid "Case Sensitive"
+msgstr "Nagybetűérzékeny"
+
+msgid "Case sensitive"
+msgstr "Nagybetűérzékeny"
+
+msgid "Castle"
+msgstr "Kastély"
+
+msgid "Catalan"
+msgstr "Katalán"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "CC"
+msgstr "Másolat"
+
+msgid "Cc"
+msgstr "Másolat"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "Cella"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Celtic"
+msgstr "Kelta"
+
+msgid "Center"
+msgstr "Középre"
+
+msgid "Centered"
+msgstr "Középre"
+
+msgid "Centimeters"
+msgstr "Centiméter"
+
+msgid "Centimeters (cm)"
+msgstr "Centiméter (cm)"
+
+msgid "Central"
+msgstr "Központi"
+
+msgid "Central African Republic"
+msgstr "Közép-afrikai Köztársaság"
+
+msgid "Central European"
+msgstr "Közép-európai"
+
+msgid "Certificate"
+msgstr "Tanúsítvány"
+
+msgid "Certificates (TLS)"
+msgstr "Tanúsítványok (TLS)"
+
+msgid "Chad"
+msgstr "Csád"
+
+msgid "Change"
+msgstr "Módosítás"
+
+msgid "Change..."
+msgstr "Módosítás…"
+
+msgid "Changed"
+msgstr "Módosítva"
+
+msgid "Channel"
+msgstr "Csatorna"
+
+msgid "Channels"
+msgstr "Csatornák"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "Fejezet"
+
+msgid "Chapters"
+msgstr ""
+
+msgid "Character"
+msgstr "Karakter"
+
+msgid "Characters"
+msgstr "Karakterek"
+
+msgid "Charging"
+msgstr "Töltés"
+
+msgid "Chart"
+msgstr "Diagram"
+
+msgid "Chat"
+msgstr "Csevegés"
+
+msgid "Check"
+msgstr "Ellenőrzés"
+
+msgid "Check for updates"
+msgstr "Frissítések keresése"
+
+msgid "Check Spelling"
+msgstr "Helyesírás-ellenőrzés"
+
+msgid "Checkbox"
+msgstr "Jelölőnégyzet"
+
+msgid "Checkout"
+msgstr "Átváltás"
+
+msgid "Cherokee"
+msgstr "Cseroki"
+
+msgid "Children"
+msgstr "Gyermekek"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "Kína"
+
+msgid "Chinese"
+msgstr "Kínai"
+
+msgid "Chinese Simplified"
+msgstr "Egyszerűsített kínai"
+
+msgid "Chinese Traditional"
+msgstr "Hagyományos kínai"
+
+msgid "Choose"
+msgstr "Kiválasztás"
+
+msgid "Choose..."
+msgstr "Választás…"
+
+msgid "Cinema"
+msgstr "Mozi"
+
+msgid "Circle"
+msgstr "Kör"
+
+msgid "City"
+msgstr "Város"
+
+msgid "Class"
+msgstr "Osztály"
+
+msgid "Classes"
+msgstr "Osztályok"
+
+msgid "Classic"
+msgstr "Klasszikus"
+
+msgid "Classical"
+msgstr "Klasszikus"
+
+msgid "Clean"
+msgstr "Tisztítás"
+
+msgid "Cleanup"
+msgstr "Tisztítás"
+
+msgid "Clear"
+msgstr "Törlés"
+
+msgid "&Clear"
+msgstr "&Törlés"
+
+msgid "_Clear"
+msgstr "_Törlés"
+
+msgid "C&lear"
+msgstr "&Törlés"
+
+msgid "Clear All"
+msgstr "Összes törlése"
+
+msgid "Clear History"
+msgstr "Előzmények törlése"
+
+msgid "Clear history"
+msgstr "Előzmények törlése"
+
+msgid "Clear List"
+msgstr "Lista törlése"
+
+msgid "Client"
+msgstr "Kliens"
+
+msgid "Clip"
+msgstr "Levágás"
+
+msgid "Clipboard"
+msgstr "Vágólap"
+
+msgid "Clock"
+msgstr "Óra"
+
+msgid "Clockwise"
+msgstr "Óra járása szerint"
+
+msgid "Clone"
+msgstr "Klónozás"
+
+msgid "Close"
+msgstr "Bezárás"
+
+msgid "&Close"
+msgstr "&Bezárás"
+
+msgid "_Close"
+msgstr "_Bezárás"
+
+msgid "Close All"
+msgstr "Összes bezárása"
+
+msgid "Close Document"
+msgstr "Dokumentum bezárása"
+
+msgid "Close message"
+msgstr "Üzenet bezárása"
+
+msgid "Close Tab"
+msgstr "Lap bezárása"
+
+msgid "Close tab"
+msgstr "Lap bezárása"
+
+msgid "Close the current tab"
+msgstr "Az aktuális lap bezárása"
+
+msgid "Close this window"
+msgstr "A jelenlegi ablak bezárása"
+
+msgid "Close Window"
+msgstr "Ablak bezárása"
+
+msgid "Close window"
+msgstr "Ablak bezárása"
+
+msgid "Close _without Saving"
+msgstr "Bezárás mentés _nélkül"
+
+msgid "Closed"
+msgstr "Lezárva"
+
+msgid "Cloud"
+msgstr "Felhő"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "code"
+msgstr "kód"
+
+msgid "Codec"
+msgstr "Kodek"
+
+msgid "Collapse"
+msgstr "Összecsukás"
+
+msgid "Collapse All"
+msgstr "Összes összecsukása"
+
+msgid "Collection"
+msgstr "Gyűjtemény"
+
+msgid "Collections"
+msgstr "Gyűjtemények"
+
+msgid "Colombia"
+msgstr "Kolumbia"
+
+msgid "Color"
+msgstr "Szín"
+
+msgid "color"
+msgstr "szín"
+
+msgid "&Color"
+msgstr "&Szín"
+
+msgid "Color Balance"
+msgstr "Színegyensúly"
+
+msgid "Color Management"
+msgstr "Színkezelés"
+
+msgid "Color Mode"
+msgstr "Színmód"
+
+msgid "Color Picker"
+msgstr "Színválasztó"
+
+msgid "Color Scheme"
+msgstr "Színséma"
+
+msgid "Color scheme"
+msgstr "Színséma"
+
+msgid "Color Space"
+msgstr "Színtér"
+
+msgid "Color theme"
+msgstr "Színtéma"
+
+msgid "Colorize"
+msgstr "Színezés"
+
+msgid "Colors"
+msgstr "Színek"
+
+msgid "Column"
+msgstr "Oszlop"
+
+msgid "Column %1"
+msgstr "%1. oszlop"
+
+msgid "Columns"
+msgstr "Oszlopok"
+
+msgid "Comma"
+msgstr "Vessző"
+
+msgid "COMMAND"
+msgstr "PARANCS"
+
+msgid "Command"
+msgstr "Parancs"
+
+msgid "command"
+msgstr "parancs"
+
+msgid "Command Line"
+msgstr "Parancssor"
+
+msgid "Command to execute"
+msgstr "A végrehajtandó parancs"
+
+msgid "Commands"
+msgstr "Parancsok"
+
+msgid "Comment"
+msgstr "Megjegyzés"
+
+msgid "Comments"
+msgstr "Megjegyzések"
+
+msgid "Commit"
+msgstr "Véglegesítés"
+
+msgid "Common"
+msgstr "Közös"
+
+msgid "Comoros"
+msgstr "Comore-szigetek"
+
+msgid "Compact"
+msgstr "Kompakt"
+
+msgid "Compare"
+msgstr "Összehasonlítás"
+
+msgid "Complete"
+msgstr "Kész"
+
+msgid "Completed"
+msgstr "Befejezve"
+
+msgid "Completion"
+msgstr "Kiegészítés"
+
+msgid "Component"
+msgstr "Komponens"
+
+msgid "Components"
+msgstr "Alkatrészek"
+
+msgid "Composer"
+msgstr "Zeneszerző"
+
+msgid "Composition"
+msgstr "Kompozíció"
+
+msgid "Compress"
+msgstr "Tömörítés"
+
+msgid "Compression"
+msgstr "Tömörítés"
+
+msgid "Computer"
+msgstr "Számítógép"
+
+msgid "Condition"
+msgstr "Feltétel"
+
+msgid "Confidential"
+msgstr "Bizalmas"
+
+msgid "Configuration"
+msgstr "Konfiguráció"
+
+msgid "Configure"
+msgstr "Beállítás"
+
+msgid "Configure..."
+msgstr "Beállítás…"
+
+msgid "Configure %1"
+msgstr "%1 beállítása"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "Gyorsbillentyűk beállítása"
+
+msgid "Configure Plugins"
+msgstr "Bővítménybeállítások"
+
+msgid "Configure Toolbars"
+msgstr "Eszköztárak beállítása"
+
+msgid "Configure Web Shortcuts..."
+msgstr "Keresőazonosítók beállítása…"
+
+msgid "Confirm"
+msgstr "Megerősítés"
+
+msgid "Confirmation"
+msgstr "Megerősítés"
+
+msgid "Confirmation Required"
+msgstr "Megerősítés szükséges"
+
+msgid "Confirmed"
+msgstr "Megerősítve"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "Ütközés egy alkalmazásbeli billentyűkombinációval"
+
+msgid "Connect"
+msgstr "Kapcsolódás"
+
+msgid "C_onnect"
+msgstr "Kapcs_olódás"
+
+msgid "Connected"
+msgstr "Kapcsolódva"
+
+msgid "Connecting"
+msgstr "Kapcsolódás"
+
+msgid "Connecting..."
+msgstr "Kapcsolódás…"
+
+msgid "Connection"
+msgstr "Kapcsolat"
+
+msgid "Connection Failed"
+msgstr "A kapcsolódás meghiúsult"
+
+msgid "Connection Settings"
+msgstr "Kapcsolódási beállítások"
+
+msgid "Connections"
+msgstr "Kapcsolatok"
+
+msgid "Console"
+msgstr "Konzol"
+
+msgid "Constant"
+msgstr "Konstans"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+"„%2$s” objektum „%1$s” konstuktortulajdonsága nem állítható be a létrehozás "
+"után"
+
+msgid "Contact"
+msgstr "Névjegy"
+
+msgid "Contacts"
+msgstr "Névjegyek"
+
+msgid "Container"
+msgstr "Konténer"
+
+msgid "Contains"
+msgstr "Tartalmazza"
+
+msgid "contains"
+msgstr "tartalmazza"
+
+msgid "Content"
+msgstr "Tartalom"
+
+msgid "Content Type"
+msgstr "Tartalom típusa"
+
+msgid "Contents"
+msgstr "Tartalom"
+
+msgid "_Contents"
+msgstr "_Tartalom"
+
+msgid "Context"
+msgstr "Környezet"
+
+msgid "Continue"
+msgstr "Folytatás"
+
+msgid "_Continue"
+msgstr "_Folytatás"
+
+msgid "Contrast"
+msgstr "Kontraszt"
+
+msgid "Contributor"
+msgstr "Közreműködő"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Convert"
+msgstr "Konvertálás"
+
+msgid "Convert to Path"
+msgstr "Átalakítás útvonallá"
+
+msgid "Cookies"
+msgstr "Sütik"
+
+msgid "Coordinates"
+msgstr "Koordináták"
+
+msgid "Copied to clipboard"
+msgstr "Vágólapra másolva"
+
+msgid "Coptic"
+msgstr "Kopt"
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "copy"
+msgstr "másolás"
+
+msgid "&Copy"
+msgstr "&Másolás"
+
+msgid "_Copy"
+msgstr "_Másolás"
+
+msgid "Copy Email Address"
+msgstr "E-mail cím másolása"
+
+msgid "&Copy Here"
+msgstr "&Másolás ide"
+
+msgid "Copy Image"
+msgstr "Kép másolása"
+
+msgid "Copy Link"
+msgstr "Hivatkozás másolása"
+
+msgid "Copy Link Address"
+msgstr "Hivatkozás címének másolása"
+
+msgid "_Copy Link Address"
+msgstr "Hivatkozás cí_mének másolása"
+
+msgid "Copy Location"
+msgstr "Hely másolása"
+
+msgid "Copy of %1"
+msgstr "%1 másolata"
+
+msgid "Copy selection to clipboard"
+msgstr "Kijelölés másolása a vágólapra"
+
+msgid "Copy Text"
+msgstr "Szöveg másolása"
+
+msgid "Copy to Clipboard"
+msgstr "Másolás a vágólapra"
+
+msgid "Copy to clipboard"
+msgstr "Másolás a vágólapra"
+
+msgid "Copy URL"
+msgstr "URL másolása"
+
+msgid "Copying files"
+msgstr "Fájlok másolása"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Cost"
+msgstr "Költség"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Could not open %1"
+msgstr "A(z) %1 nem nyitható meg"
+
+msgid "Could not open file."
+msgstr "Nem lehet megnyitni a fájlt."
+
+msgid "Count"
+msgstr "Szám"
+
+msgid "Counter"
+msgstr "Számláló"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "Létrehozás"
+
+msgid "C_reate"
+msgstr "_Létrehozás"
+
+msgid "Create Folder"
+msgstr "Mappa létrehozása"
+
+msgid "Create New"
+msgstr "Új létrehozása"
+
+msgid "Created"
+msgstr "Létrehozva"
+
+msgid "Creation Date"
+msgstr "Létrehozás dátuma"
+
+msgid "Creation date"
+msgstr "Létrehozás dátuma"
+
+msgid "Creator"
+msgstr "Létrehozó"
+
+msgid "Credentials"
+msgstr "Hitelesítési adatok"
+
+msgid "Credits"
+msgstr "Köszönetnyilvánítás"
+
+msgid "Criteria"
+msgstr "Feltétel"
+
+msgid "Critical"
+msgstr "Kritikus"
+
+msgid "Croatia"
+msgstr "Horvátország"
+
+msgid "Croatian"
+msgstr "Horvát"
+
+msgid "Crop"
+msgstr "Levágás"
+
+msgid "Crop image"
+msgstr "Kép vágása"
+
+msgid "Cross"
+msgstr "Kereszt"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr "Ctrl+O"
+
+msgid "Cuba"
+msgstr "Kuba"
+
+msgid "Currency"
+msgstr "Pénznem"
+
+msgid "Current"
+msgstr "Jelenlegi"
+
+msgid "Current Maintainer"
+msgstr "Jelenlegi karbantartó"
+
+msgid "Current maintainer"
+msgstr "Jelenlegi karbantartó"
+
+msgid "Cursor"
+msgstr "Kurzor"
+
+msgid "Curve"
+msgstr "Görbe"
+
+msgid "Curves"
+msgstr "Görbék"
+
+msgid "Custom"
+msgstr "Egyéni"
+
+msgid "Custom..."
+msgstr "Egyéni…"
+
+msgid "Custom Font"
+msgstr "Egyéni betűkészlet"
+
+msgid "Cut"
+msgstr "Kivágás"
+
+msgid "Cu&t"
+msgstr "&Kivágás"
+
+msgid "Cu_t"
+msgstr "_Kivágás"
+
+msgid "Cyan"
+msgstr "Ciánkék"
+
+msgid "Cyprus"
+msgstr "Ciprus"
+
+msgid "Cyrillic"
+msgstr "Cirill"
+
+msgid "Czech"
+msgstr "Cseh"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "Naponta"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+msgid "Danish"
+msgstr "Dán"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr "Sötét"
+
+msgid "Dark Mode"
+msgstr "Sötét mód"
+
+msgid "Darken"
+msgstr "Sötétítés"
+
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+msgid "Dashed"
+msgstr "Szaggatott"
+
+msgid "Data"
+msgstr "Adat"
+
+msgid "Database"
+msgstr "Adatbázis"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "date"
+msgstr "dátum"
+
+msgid "Date & Time"
+msgstr "Dátum és idő"
+
+msgid "Date and Time"
+msgstr "Dátum és idő"
+
+msgid "Date Format"
+msgstr "Dátumformátum"
+
+msgid "Date Modified"
+msgstr "Utolsó módosítás dátuma"
+
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+msgid "Day"
+msgstr "Nap"
+
+msgid "Days"
+msgstr "nap"
+
+msgid "days"
+msgstr "nap"
+
+msgid "day(s)"
+msgstr "nap"
+
+msgid "D-Bus name to use for this instance"
+msgstr "A példányhoz használandó D-Bus név"
+
+msgid "Debug"
+msgstr "Hibakeresés"
+
+msgid "Debugger"
+msgstr "Hibakereső"
+
+msgid "Debugging"
+msgstr "Hibakeresés"
+
+msgid "December"
+msgstr "december"
+
+msgid "Decimal"
+msgstr "Decimális"
+
+msgid "Decline"
+msgstr "Elutasítás"
+
+msgid "Decrease Font Size"
+msgstr "A betűméret csökkentése"
+
+msgid "Decrease Indent"
+msgstr "Behúzás csökkentése"
+
+msgid "Decrease Volume"
+msgstr "Hangerő csökkentése"
+
+msgid "Decrypt"
+msgstr "Visszafejtés"
+
+msgid "Default"
+msgstr "Alapértelmezett"
+
+msgid "default"
+msgstr "alapértelmezett"
+
+msgid "Defaults"
+msgstr "Alapértelmezések"
+
+msgid "Definition"
+msgstr "Definíció"
+
+msgid "degrees"
+msgstr "fok"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay"
+msgstr "Késleltetés"
+
 msgid "Delete"
 msgstr "Törlés"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@title"
-msgid "Appearance"
-msgstr "Megjelenés"
+msgid "&Delete"
+msgstr "&Törlés"
+
+msgid "_Delete"
+msgstr "_Törlés"
+
+msgid "D&elete"
+msgstr "&Törlés"
+
+msgid "Delete..."
+msgstr "Törlés…"
+
+msgid "Delete %1"
+msgstr "%1 törlése"
+
+msgid "Delete All"
+msgstr "Összes törlése"
+
+msgid "Delete File"
+msgstr "Fájl törlése"
+
+msgid "Delete Folder"
+msgstr "Mappa törlése"
+
+msgid "Delete Image"
+msgstr "Kép törlése"
+
+msgid "Delete Selected"
+msgstr "A kijelöltek törlése"
+
+msgid "Delete selection"
+msgstr "Kijelölés törlése"
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "Törölt"
+
+msgid "Deletion"
+msgstr "Törlés"
+
+msgid "Delimiter"
+msgstr "Elválasztó"
+
+msgid "Delta"
+msgstr "Delta"
+
+msgid "Denmark"
+msgstr "Dánia"
+
+msgid "Density"
+msgstr "Sűrűség"
+
+msgid "Deny"
+msgstr "Tiltás"
+
+msgid "Dependencies"
+msgstr "Függőségek"
+
+msgid "Depth"
+msgstr "Mélység"
+
+msgid "Desaturate"
+msgstr "Telítetlenné tevés"
+
+msgid "Descending"
+msgstr "Csökkenő"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "&Description"
+msgstr "&Leírás"
+
+msgid "Deselect"
+msgstr "Kijelölés megszüntetése"
+
+msgid "Deselect All"
+msgstr "A kijelölés megszüntetése"
+
+msgid "Desert"
+msgstr "Sivatag"
+
+msgid "Desktop"
+msgstr "Asztal"
+
+msgid "Destination"
+msgstr "Cél"
+
+msgid "Detach"
+msgstr "Leválasztás"
+
+msgid "_Detach Tab"
+msgstr "_Lap leválasztása"
+
+msgid "Details"
+msgstr "Részletek"
+
+msgid "&Details"
+msgstr "&Részletek"
+
+msgid "_Details"
+msgstr "_Részletek"
+
+msgid "Details..."
+msgstr "Részletek…"
+
+msgid "Devanagari"
+msgstr "Devanagari"
+
+msgid "Developer"
+msgstr "Fejlesztő"
+
+msgid "Development"
+msgstr "Fejlesztőeszközök"
+
+msgid "Device"
+msgstr "Eszköz"
+
+msgid "device"
+msgstr "eszköz"
+
+msgid "Device Information"
+msgstr "Eszközinformációk"
+
+msgid "Device Status"
+msgstr "Eszközállapot"
+
+msgid "Device type"
+msgstr "Eszköztípus"
+
+msgid "Devices"
+msgstr "Eszközök"
+
+msgid "Diagnostics"
+msgstr "Diagnosztika"
+
+msgid "Diagonal"
+msgstr "Átlós"
+
+msgid "Dialog"
+msgstr "Párbeszédablak"
+
+msgid "Dialogs"
+msgstr "Párbeszédablakok"
+
+msgid "Diamond"
+msgstr "Gyémánt"
+
+msgid "Dictionary"
+msgstr "Szótár"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "Különbség"
+
+msgid "Difficulty"
+msgstr "Nehézség"
+
+msgid "Digit"
+msgstr "Számjegy"
+
+msgid "Dimensions"
+msgstr "Méretek"
+
+msgid "DIR"
+msgstr "KÖNYVTÁR"
+
+msgid "Direction"
+msgstr "Irány"
+
+msgid "Directories"
+msgstr "Könyvtárak"
+
+msgid "Directory"
+msgstr "Könyvtár"
+
+msgid "directory"
+msgstr "directory"
+
+msgid "Directory Name"
+msgstr "Mappanév"
+
+msgid "Disable"
+msgstr "Letiltás"
+
+msgid "Disable connection to session manager"
+msgstr "A munkamenet-kezelőhöz való csatlakozás tiltása"
+
+msgid "Disabled"
+msgstr "Letiltva"
+
+msgid "disabled"
+msgstr "letiltva"
+
+msgid "Disc"
+msgstr "Lemez"
+
+msgid "Disc Number"
+msgstr "Lemez-sorszám"
+
+msgid "Discard"
+msgstr "Eldobás"
+
+msgid "_Discard"
+msgstr "El_dobás"
+
+msgid "Discard All"
+msgstr "Összes elvetése"
+
+msgid "Discard Changes"
+msgstr "A módosítások eldobása"
+
+msgid "Discard changes"
+msgstr "A módosítások eldobása"
+
+msgid "_Discard Changes"
+msgstr "Módosítások _eldobása"
+
+msgid "Discharging"
+msgstr "Kisütés"
+
+msgid "Disconnect"
+msgstr "Kapcsolat bontása"
+
+msgid "Disconnected"
+msgstr "Szétkapcsolva"
+
+msgid "Discover"
+msgstr "Discover"
+
+msgid "Discrete"
+msgstr "Diszkrét"
+
+msgid "Disk"
+msgstr "Lemez"
+
+msgid "Dismiss"
+msgstr "Bezárás"
+
+msgid "Display"
+msgstr "Megjelenítés"
+
+msgid "Display Configuration"
+msgstr "Kijelzőbeállítás"
+
+msgid "Display Name"
+msgstr "Megjelenített név"
+
+msgid "Display Settings"
+msgstr "Megjelenési beállítások"
+
+msgid "Dissolve"
+msgstr "Feloldás"
+
+msgid "Distance"
+msgstr "Távolság"
+
+msgid "Divide"
+msgstr "Osztás"
+
+msgid "Djibouti"
+msgstr "Dzsibuti"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "Ne kérdezzen rá többször"
+
+msgid "Do Not Cancel"
+msgstr "Ne szakítsa meg"
+
+msgid "Do not change the actual backend data."
+msgstr "A jelenlegi háttérprogramadat változatlanul hagyása."
+
+msgid "Do not show again"
+msgstr "Ne jelenjen meg újra"
+
+msgid "Do not show this message again"
+msgstr "Többször ne jelenjen meg ez az üzenet"
+
+msgid "Do Nothing"
+msgstr "Ne tegyen semmit"
+
+msgid "Do nothing"
+msgstr "Ne tegyen semmit"
+
+msgid "Document"
+msgstr "Dokumentum"
+
+msgid "Document Properties"
+msgstr "Dokumentumtulajdonságok"
+
+msgid "Document to open"
+msgstr "Megnyitandó dokumentum"
+
+msgid "Document Viewer"
+msgstr "Dokumentummegjelenítő"
+
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+msgid "Documents"
+msgstr "Dokumentumok"
+
+msgid "does not contain"
+msgstr "nem tartalmazza"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "Tartomány"
+
+msgid "Dominica"
+msgstr "Dominika"
+
+msgid "Dominican Republic"
+msgstr "Dominikai Köztársaság"
+
+msgid "Donate"
+msgstr "Támogatás"
+
+msgid "Done"
+msgstr "Kész"
+
+msgid "Dot"
+msgstr "Pont"
+
+msgid "Dots"
+msgstr "Pontok"
+
+msgid "Dotted"
+msgstr "Pontozott"
+
+msgid "Double"
+msgstr "Dupla"
+
+msgid "Down"
+msgstr "Le"
+
+msgid "Download"
+msgstr "Letöltés"
+
+msgid "Download Manager"
+msgstr "Letöltéskezelő"
+
+msgid "Downloaded"
+msgstr "Letöltve"
+
+msgid "Downloading"
+msgstr "Letöltés"
+
+msgid "Downloading..."
+msgstr "Letöltés…"
+
+msgid "Downloads"
+msgstr "Letöltések"
+
+msgid "Dr."
+msgstr "Dr."
+
+msgid "Draft"
+msgstr "Vázlat"
+
+msgid "Drafts"
+msgstr "Piszkozatok"
+
+msgid "Draw"
+msgstr "Döntetlen"
+
+msgid "Drive"
+msgstr "Meghajtó"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "Határidő"
+
+msgid "Due Date"
+msgstr "Határidő"
+
+msgid "Duplicate"
+msgstr "Kettőzés"
+
+msgid "_Duplicate"
+msgstr "_Kettőzés"
+
+msgid "Duplicates"
+msgstr "Duplikátumok"
+
+msgid "Duration"
+msgstr "Időtartam"
+
+msgid "Dutch"
+msgstr "Holland"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "K"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "Kelet"
+
+msgid "Easy"
+msgstr "Könnyű"
+
+msgid "Echo"
+msgstr "Visszhang"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Edge"
+msgstr "Él"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "&Edit"
+msgstr "S&zerkesztés"
+
+msgid "_Edit"
+msgstr "S_zerkesztés"
+
+msgid "Edit..."
+msgstr "Szerkesztés…"
+
+msgid "&Edit..."
+msgstr "&Szerkesztés..."
+
+msgid "Edit %1"
+msgstr "%1 szerkesztése"
+
+msgid "Edit Bookmark"
+msgstr "Könyvjelző szerkesztése"
+
+msgid "Edit Filter"
+msgstr "Szűrő szerkesztése"
+
+msgid "Edit Image"
+msgstr "Kép szerkesztése"
+
+msgid "Editing"
+msgstr "Szerkesztés"
+
+msgid "Editor"
+msgstr "Szerkesztő"
+
+msgid "Education"
+msgstr "Oktatás"
+
+msgid "Effects"
+msgstr "Effektusok"
+
+msgid "Egypt"
+msgstr "Egyiptom"
+
+msgid "Egyptian"
+msgstr "Egyiptomi"
+
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+msgid "Eject"
+msgstr "Kiadás"
+
+msgid "_Eject"
+msgstr "_Kiadás"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Electronic"
+msgstr "Elektronikus"
+
+msgid "Element"
+msgstr "Elem"
+
+msgid "Ellipse"
+msgstr "Ellipszis"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Email Address"
+msgstr "E-mail cím"
+
+msgid "Email address"
+msgstr "E-mail cím"
+
+msgid "Emails"
+msgstr "E-mailek"
+
+msgid "Embedded"
+msgstr "Beágyazott"
+
+msgid "Emboss"
+msgstr "Domborítás"
+
+msgid "Emphasis"
+msgstr "Hangsúly"
+
+msgid "Empty"
+msgstr "Üres"
+
+msgid "empty"
+msgstr "üres"
+
+msgid "(empty)"
+msgstr "(üres)"
+
+msgid "<empty>"
+msgstr "<üres>"
+
+msgid "Empty Trash"
+msgstr "A Kuka ürítése"
+
+msgid "Enable"
+msgstr "Bekapcsolás"
+
+msgid "Enable system tray icon"
+msgstr "Ikon megjelenítése a paneltálcán"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+"Részletes hibakeresési naplózás engedélyezése (jelszavak is  a naplóba "
+"kerülhetnek)"
+
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+msgid "Encoder"
+msgstr "Kódoló"
+
+msgid "Encoding"
+msgstr "Kódolás"
+
+msgid "_Encoding"
+msgstr "_Kódolás"
+
+msgid "Encrypt"
+msgstr "Titkosítás"
+
+msgid "&Encrypt"
+msgstr "&Titkosítás"
+
+msgid "Encrypted"
+msgstr "Titkosított"
+
+msgid "Encryption"
+msgstr "Titkosítás"
+
+msgid "End"
+msgstr "Befejezés"
+
+msgid "end"
+msgstr "end"
+
+msgid "End Date"
+msgstr "Befejezési dátum"
+
+msgid "End Time"
+msgstr "Befejezési idő"
+
+msgid "ends with"
+msgstr "erre végződik:"
+
+msgid "Energy"
+msgstr "Energia"
+
+msgid "Engine"
+msgstr "Motor"
+
+msgid "Engineering"
+msgstr "Mérnöki"
+
+msgid "English"
+msgstr "Angol"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Enter password"
+msgstr "Adja meg a jelszót"
+
+msgid "Entry"
+msgstr "Bejegyzés"
+
+msgid "Environment"
+msgstr "Környezet"
+
+msgid "equals"
+msgstr "egyenlő"
+
+msgid "Equation"
+msgstr "Egyenlet"
+
+msgid "Equatorial Guinea"
+msgstr "Egyenlítői Guinea"
+
+msgid "Erase"
+msgstr "Törlés"
+
+msgid "Eraser"
+msgstr "Radír"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "ERROR"
+msgstr "HIBA"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "error"
+msgstr "hiba"
+
+msgid "Error: %1"
+msgstr "Hiba: %1"
+
+msgid "Error message"
+msgstr "Hibaüzenet"
+
+msgid "Errors"
+msgstr "Hibák"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Esperanto"
+msgstr "Eszperantó"
+
+msgid "Estonia"
+msgstr "Észtország"
+
+msgid "Estonian"
+msgstr "Észt"
+
+msgid "Ethiopia"
+msgstr "Etiópia"
+
+msgid "Ethiopic"
+msgstr "Etióp"
+
+msgid "Europe"
+msgstr "Európa"
+
+msgid "Evaluate"
+msgstr "Kiértékelés"
+
+msgid "Event"
+msgstr "Esemény"
+
+msgid "Events"
+msgstr "Események"
+
+msgid "Everyone"
+msgstr "Mindenki"
+
+msgid "Everything"
+msgstr "Minden"
+
+msgid "Exact"
+msgstr "Pontos"
+
+msgid "Example"
+msgstr "Példa"
+
+msgid "Examples"
+msgstr "Példák"
+
+msgid "Exception"
+msgstr "Kivétel"
+
+msgid "Exclude"
+msgstr "Kihagyás"
+
+msgid "Exclusion"
+msgstr "Kizárás"
+
+msgid "Executable"
+msgstr "Végrehajtható"
+
+msgid "Execute"
+msgstr "Végrehajtás"
+
+msgid "Exit"
+msgstr "Kilépés"
+
+msgid "Exit Full Screen"
+msgstr "Kilépés a teljes képernyős módból"
+
+msgid "Exit Fullscreen"
+msgstr "Kilépés a teljes képernyőből"
+
+msgid "Exiting..."
+msgstr "Kilépés…"
+
+msgid "Expand"
+msgstr "Kibontás"
+
+msgid "Expand All"
+msgstr "Összes kibontása"
+
+msgid "Experimental"
+msgstr "Kísérleti"
+
+msgid "Expired"
+msgstr "Lejárt"
+
+msgid "Expires"
+msgstr "Lejár"
+
+msgid "Export"
+msgstr "Exportálás"
+
+msgid "&Export"
+msgstr "&Exportálás"
+
+msgid "_Export"
+msgstr "_Exportálás"
+
+msgid "Export..."
+msgstr "Exportálás…"
+
+msgid "&Export..."
+msgstr "&Exportálás..."
+
+msgid "_Export..."
+msgstr "_Exportálás…"
+
+msgid "E&xport..."
+msgstr "E&xportálás..."
+
+msgid "Export As..."
+msgstr ""
+
+msgid "Export failed"
+msgstr "Exportálás sikertelen"
+
+msgid "Export Options"
+msgstr "Exportálás beállításai"
+
+msgid "Exposure"
+msgstr "Expozíció"
+
+msgid "Expression"
+msgstr "Kifejezés"
+
+msgid "Extended"
+msgstr "Kiterjesztett"
+
+msgid "Extension"
+msgstr "Kiterjesztés"
+
+msgid "Extensions"
+msgstr "Kiterjesztések"
+
+msgid "Extra Toolbar"
+msgstr "Extra eszköztár"
+
+msgid "Extract"
+msgstr "Kibontás"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "Elhalványulás"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Failed"
+msgstr "Sikertelen"
+
+msgid "False"
+msgstr "Hamis"
+
+msgid "false"
+msgstr "hamis"
+
+msgid "Family"
+msgstr "Család"
+
+msgid "Family Name"
+msgstr "Vezetéknév"
+
+msgid "Fast"
+msgstr "Gyors"
+
+msgid "Faster"
+msgstr "Gyorsabb"
+
+msgid "Fatal Error"
+msgstr "Végzetes hiba"
+
+msgid "Favorite"
+msgstr "Kedvenc"
+
+msgid "Favorites"
+msgstr "Kedvencek"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Features"
+msgstr "Jellemzők"
+
+msgid "February"
+msgstr "február"
+
+msgid "Feeds"
+msgstr "Hírforrások"
+
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+msgid "Fetch"
+msgstr "Lekérdezés"
+
+msgid "Fiji"
+msgstr "Fidzsi-szigetek"
+
+msgid "FILE"
+msgstr "FÁJL"
+
+msgid "File"
+msgstr "Fájl"
+
+msgid "file"
+msgstr "fájl"
+
+msgid "&File"
+msgstr "&Fájl"
+
+msgid "_File"
+msgstr "_Fájl"
+
+msgid "[FILE...]"
+msgstr "[FÁJL…]"
+
+msgid "File Already Exists"
+msgstr "A fájl már létezik"
+
+msgid "File already exists"
+msgstr "A fájl már létezik"
+
+msgid "File Exists"
+msgstr "A fájl létezik"
+
+msgid "File Format"
+msgstr "Fájlformátum"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "Fájlkezelő"
+
+msgid "File Name"
+msgstr "Fájlnév"
+
+msgid "File name"
+msgstr "Fájlnév"
+
+msgid "File Not Found"
+msgstr "A fájl nem található"
+
+msgid "File not found"
+msgstr "A fájl nem található"
+
+msgid "File Path"
+msgstr "Elérési út"
+
+msgid "File Properties"
+msgstr "Fájltulajdonságok"
+
+msgid "File Size"
+msgstr "Fájlméret"
+
+msgid "File size"
+msgstr "Fájlméret"
+
+msgid "File System"
+msgstr "Fájlrendszer"
+
+msgid "File to open"
+msgstr "A megnyitandó fájl"
+
+msgid "File Transfer"
+msgstr "Fájlátvitel"
+
+msgid "File Type"
+msgstr "Fájltípus"
+
+msgid "Filename"
+msgstr "Fájlnév"
+
+msgid "Files"
+msgstr "Fájlok"
+
+msgid "Filesystem"
+msgstr "Fájlrendszer"
+
+msgid "Fill"
+msgstr "Kitöltés"
+
+msgid "Fill Color"
+msgstr "Kitöltőszín"
+
+msgid "Filter"
+msgstr "Szűrő"
+
+msgid "Filter..."
+msgstr "Szűrő…"
+
+msgid "Filters"
+msgstr "Szűrők"
+
+msgid "Final"
+msgstr "Végleges"
+
+msgid "Find"
+msgstr "Keresés"
+
+msgid "&Find"
+msgstr "&Keresés"
+
+msgid "_Find"
+msgstr "_Keresés"
+
+msgid "F&ind"
+msgstr "&Keresés"
+
+msgid "Find..."
+msgstr "Keresés…"
+
+msgid "_Find..."
+msgstr "_Keresés…"
+
+msgid "Find and Replace"
+msgstr "Keresés és csere"
+
+msgid "Find Next"
+msgstr "Következő keresése"
+
+msgid "Find _Next"
+msgstr "_Következő találat"
+
+msgid "Find Ne_xt"
+msgstr "Kö_vetkező keresése"
+
+msgid "Find Previous"
+msgstr "Előző keresése"
+
+msgid "Find Pre_vious"
+msgstr "_Előző keresése"
+
+msgid "Fingerprint"
+msgstr "Ujjlenyomat"
+
+msgid "Finish"
+msgstr "Befejezés"
+
+msgid "Finished"
+msgstr "Befejeződött"
+
+msgid "Finland"
+msgstr "Finnország"
+
+msgid "Finnish"
+msgstr "Finn"
+
+msgid "First"
+msgstr "Első"
+
+msgid "First Page"
+msgstr "Első oldal"
+
+msgid "Fit"
+msgstr "Igazítás"
+
+msgid "Fit Width"
+msgstr "Teljes szélességre"
+
+msgid "Fixed"
+msgstr "Rögzített"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "Megjelölt"
+
+msgid "Flags"
+msgstr "Jelzők"
+
+msgid "Flash"
+msgstr "Vaku"
+
+msgid "Flat"
+msgstr "Lapos"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "Tükrözés"
+
+msgid "Flip Horizontally"
+msgstr "Tükrözés vízszintesen"
+
+msgid "Flip horizontally"
+msgstr "Vízszintes tükrözés"
+
+msgid "Flip Vertically"
+msgstr "Tükrözés függőlegesen"
+
+msgid "Flip vertically"
+msgstr "Függőleges tükrözés"
+
+msgid "Float"
+msgstr "Lebegőpontos"
+
+msgid "Floating"
+msgstr "Lebegő"
+
+msgid "Flow"
+msgstr "Nyomás"
+
+msgid "flower"
+msgstr "virág"
+
+msgid "Focal Length"
+msgstr "Gyújtótávolság"
+
+msgid "Focus"
+msgstr "Fókusz"
+
+msgid "Folder"
+msgstr "Mappa"
+
+msgid "Folder name"
+msgstr "Mappanév"
+
+msgid "Folders"
+msgstr "Mappák"
+
+msgid "Folk"
+msgstr "Folk"
+
+msgid "Font"
+msgstr "Betűtípus"
+
+msgid "&Font"
+msgstr "B&etűtípus"
+
+msgid "Font Color"
+msgstr "Betűszín"
+
+msgid "Font Family"
+msgstr "Betűcsalád"
+
+msgid "Font Size"
+msgstr "Betűméret"
+
+msgid "Font size"
+msgstr "Betűméret"
+
+msgid "Fonts"
+msgstr "Betűtípusok"
+
+msgid "_Fonts"
+msgstr "_Betűkészletek"
+
+msgid "Food"
+msgstr "Étel"
+
+msgid "Footer"
+msgstr "Lábléc"
+
+msgid "Force"
+msgstr "Erő"
+
+msgid "Forecast"
+msgstr "Előrejelzés"
+
+msgid "Foreground"
+msgstr "Előtér"
+
+msgid "Foreground Color"
+msgstr "Előtérszín"
+
+msgid "Foreground color"
+msgstr "Előtérszín"
+
+msgid "forever"
+msgstr "örökké"
+
+msgid "Form"
+msgstr "Űrlap"
+
+msgid "Format"
+msgstr "Formátum"
+
+msgid "Formatting"
+msgstr "Formázás"
+
+msgid "Former Maintainer"
+msgstr "Korábbi karbantartó"
+
+msgid "Former maintainer"
+msgstr "Korábbi karbantartó"
+
+msgid "Formula"
+msgstr "Képlet "
+
+msgid "Forward"
+msgstr "Előre"
+
+msgid "&Forward"
+msgstr "&Előre"
+
+msgid "_Forward"
+msgstr "_Előre"
+
+msgid "Fraction"
+msgstr "Tört"
+
+msgid "Frame"
+msgstr "Keret"
+
+msgid "Framerate"
+msgstr "Képkockasebesség"
+
+msgid "Frames"
+msgstr "Képkockák"
+
+msgid "France"
+msgstr "Franciaország"
+
+msgid "Free"
+msgstr "Szabad"
+
+msgid "French"
+msgstr "Francia"
+
+msgid "French Guiana"
+msgstr "Francia Guyana"
+
+msgid "Frequency"
+msgstr "Frekvencia"
+
+msgid "Friday"
+msgstr "Péntek"
+
+msgid "Friends"
+msgstr "Barátok"
+
+msgid "From"
+msgstr "Feladó"
+
+msgid "from"
+msgstr "mettől"
+
+msgid "From %1"
+msgstr "Ettől: %1"
+
+msgid "Frozen"
+msgstr "Nem módosítható"
+
+msgid "Full"
+msgstr "Teljes"
+
+msgid "Full Name"
+msgstr "Teljes név"
+
+msgid "Full Screen"
+msgstr "Teljes képernyő"
+
+msgid "Full Screen Mode"
+msgstr "Teljes képernyős mód"
+
+msgid "F&ull Screen Mode"
+msgstr "&Teljes képernyős mód"
+
+msgid "Fullscreen"
+msgstr "Teljes képernyő"
+
+msgid "_Fullscreen"
+msgstr "_Teljes képernyő"
+
+msgid "Function"
+msgstr "Függvény"
+
+msgid "function"
+msgstr "függvény"
+
+msgid "Functions"
+msgstr "Függvények"
+
+msgid "Future"
+msgstr "Jövőbeli"
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Galician"
+msgstr "Galíciai"
+
+msgid "Gallery"
+msgstr "Galéria"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Game"
+msgstr "Játék"
+
+msgid "&Game"
+msgstr "&Játék"
+
+msgid "Game Over"
+msgstr "Vége a játéknak"
+
+msgid "Games"
+msgstr "Játékok"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "Gas"
+msgstr "Gáz"
+
+msgid "Gate"
+msgstr "Kapu"
+
+msgid "Gateway"
+msgstr "Átjáró"
+
+msgid "Gaussian Blur"
+msgstr "Gauss-elmosás"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "Nem"
+
+msgid "General"
+msgstr "Általános"
+
+msgid "&General"
+msgstr "Á&ltalános"
+
+msgid "General Options"
+msgstr "Általános beállítások"
+
+msgid "General options"
+msgstr "Általános beállítások"
+
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+msgid "Generate"
+msgstr "Előállítás"
+
+msgid "Generic"
+msgstr "Általános"
+
+msgid "Genre"
+msgstr "Műfaj"
+
+msgid "Genres"
+msgstr "Műfajok"
+
+msgid "Geometry"
+msgstr "Geometria"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "Grúzia"
+
+msgid "Georgian"
+msgstr "Grúz"
+
+msgid "German"
+msgstr "Német"
+
+msgid "Germany"
+msgstr "Németország"
+
+msgid "Get New..."
+msgstr "Új letöltése…"
+
+msgid "Get New Plugins..."
+msgstr "Új bővítmények letöltése…"
+
+msgid "Ghana"
+msgstr "Ghána"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "Utónév"
+
+msgid "Global"
+msgstr "Globális"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "Go"
+
+msgid "&Go"
+msgstr "&Ugrás"
+
+msgid "_Go"
+msgstr "_Ugrás"
+
+msgid "Go Back"
+msgstr "Vissza"
+
+msgid "Go back"
+msgstr "Vissza"
+
+msgid "Go forward"
+msgstr "Előre"
+
+msgid "Go To"
+msgstr "Ugrás"
+
+msgid "Go to first page"
+msgstr "Ugrás az első oldalra"
+
+msgid "Go to last page"
+msgstr "Ugrás az utolsó oldalra"
+
+msgid "Go to Line"
+msgstr "Ugrás egy sorra"
+
+msgid "Go to next page"
+msgstr "Ugrás a következő oldalra"
+
+msgid "Go to previous page"
+msgstr "Ugrás az előző oldalra"
+
+msgid "Goa"
+msgstr "Goa"
+
+msgid "Gold"
+msgstr "Arany"
+
+msgid "Good"
+msgstr "Jó"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "Gótikus"
+
+msgid "Gradient"
+msgstr "Színátmenet"
+
+msgid "Gradients"
+msgstr "Színátmenetek"
+
+msgid "Graph"
+msgstr "Grafikon"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "Gray"
+msgstr "Szürke"
+
+msgid "gray"
+msgstr "szürke"
+
+msgid "Grayscale"
+msgstr "Szürkeárnyalatos"
+
+msgid "Greece"
+msgstr "Görögország"
+
+msgid "Greek"
+msgstr "Görög"
+
+msgid "Green"
+msgstr "Zöld"
+
+msgid "green"
+msgstr "zöld"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Grey"
+msgstr "Szürkeség"
+
+msgid "Grid"
+msgstr "Rács"
+
+msgid "Group"
+msgstr "Csoport"
+
+msgid "Group name"
+msgstr "Csoportnév"
+
+msgid "Grouping"
+msgstr "Csoportosítás"
+
+msgid "Groups"
+msgstr "Csoportok"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guides"
+msgstr "Segédvonalak"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Gujarati"
+msgstr "Gudzsarati"
+
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "H"
+msgstr "M"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Hard"
+msgstr "Kemény"
+
+msgid "Hardware"
+msgstr "Hardver"
+
+msgid "Hawaiian"
+msgstr "Hawaii"
+
+msgid "Header"
+msgstr "Fejléc"
+
+msgid "Headers"
+msgstr "Fejlécek"
+
+msgid "Heading"
+msgstr "Címsor"
+
+msgid "Heading 1"
+msgstr "Címsor 1"
+
+msgid "Heading 2"
+msgstr "Címsor 2"
+
+msgid "Heading 3"
+msgstr ""
+
+msgid "Heading 4"
+msgstr ""
+
+msgid "Headphones"
+msgstr "Fejhallgató"
+
+msgid "Headset"
+msgstr "Fejhallgató"
+
+msgid "Health"
+msgstr "Egészség"
+
+msgid "Hebrew"
+msgstr "Héber"
+
+msgid "Height"
+msgstr "Magasság"
+
+msgid "&Height"
+msgstr "Ma&gasság"
+
+msgid "Help"
+msgstr "Súgó"
+
+msgid "&Help"
+msgstr "&Súgó"
+
+msgid "_Help"
+msgstr "_Súgó"
+
+msgid "Helsinki"
+msgstr "Helsinki"
+
+msgid "Hex"
+msgstr "HEX"
+
+msgid "Hexadecimal"
+msgstr "Hexadecimális"
+
+msgid "Hexagon"
+msgstr "Hatszög"
+
+msgid "Hibernate"
+msgstr "Hibernálás"
+
+msgid "Hidden"
+msgstr "Rejtett"
+
+msgid "hidden"
+msgstr "rejtett"
+
+msgid "Hide"
+msgstr "Elrejtés"
+
+msgid "&Hide"
+msgstr "&Elrejtés"
+
+msgid "Hide menu bar"
+msgstr "Menüsáv elrejtése"
+
+msgid "High"
+msgstr "Magas"
+
+msgid "Highlight"
+msgstr "Kiemelés"
+
+msgid "Highlighter"
+msgstr "Kiemelő"
+
+msgid "Highlights"
+msgstr "Kiemelések"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hint"
+msgstr "Tipp"
+
+msgid "Histogram"
+msgstr "Hisztogram"
+
+msgid "History"
+msgstr "Előzmények"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "Felfüggesztés"
+
+msgid "Holidays"
+msgstr "Ünnepek"
+
+msgid "Home"
+msgstr "Kezdőlap"
+
+msgid "&Home"
+msgstr "&Kezdőlap"
+
+msgid "Home Folder"
+msgstr "Saját mappa"
+
+msgid "Home Page"
+msgstr "Honlap"
+
+msgid "Homepage"
+msgstr "Honlap"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+msgid "Host"
+msgstr "Gépnév"
+
+msgid "Hostname"
+msgstr "Gépnév"
+
+msgid "Hotspot"
+msgstr "Hotspot"
+
+msgid "Hour"
+msgstr "Óra"
+
+msgid "Hours"
+msgstr "Óra"
+
+msgid "hours"
+msgstr "óra"
+
+msgid "House"
+msgstr "Ház"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "Árnyalat"
+
+msgid "Huge"
+msgstr "Hatalmas"
+
+msgid "Hungarian"
+msgstr "Magyar"
+
+msgid "Hungary"
+msgstr "Magyarország"
+
+msgid "Hz"
+msgstr "Hz"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+msgid "Iceland"
+msgstr "Izland"
+
+msgid "Icelandic"
+msgstr "Izlandi"
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "Icon Size"
+msgstr "Ikonméret"
+
+msgid "Icon size"
+msgstr "Ikonméret"
+
+msgid "Icon View"
+msgstr "Ikonnézet"
+
+msgid "Icons"
+msgstr "Ikonok"
+
+msgid "ID"
+msgstr "Azonosító"
+
+msgid "Id"
+msgstr "Azonosító"
+
+msgid "id"
+msgstr "azonosító"
+
+msgid "Identifier"
+msgstr "Azonosító"
+
+msgid "Identity"
+msgstr "Személyazonosság"
+
+msgid "Idle"
+msgstr "Inaktív"
+
+msgid "Ignore"
+msgstr "Mellőzés"
+
+msgid "_Ignore"
+msgstr "_Mellőzés"
+
+msgid "Ignore Case"
+msgstr "Kis- és nagybetű nem számít"
+
+msgid "Ignored"
+msgstr "Nem figyelt"
+
+msgid "Image"
+msgstr "Kép"
+
+msgid "image"
+msgstr "kép"
+
+msgid "&Image"
+msgstr "&Kép"
+
+msgid "_Image"
+msgstr "_Kép"
+
+msgid "Image Editor"
+msgstr "Képszerkesztő"
+
+msgid "Image Files"
+msgstr "Képfájlok"
+
+msgid "Image files"
+msgstr "Képfájlok"
+
+msgid "Image Gallery"
+msgstr "Képgaléria"
+
+msgid "Image Properties"
+msgstr "Kép tulajdonságai"
+
+msgid "Image Settings"
+msgstr "Képbeállítások"
+
+msgid "Image Size"
+msgstr "Képméret"
+
+msgid "Image Viewer"
+msgstr "Képmegjelenítő"
+
+msgid "Images"
+msgstr "Képek"
+
+msgid "Images (%1)"
+msgstr "Képek (%1)"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "Importálás"
+
+msgid "&Import"
+msgstr "&Importálás"
+
+msgid "_Import"
+msgstr "_Importálás"
+
+msgid "Import..."
+msgstr "Importálás…"
+
+msgid "&Import..."
+msgstr "&Importálás..."
+
+msgid "Import failed"
+msgstr "Az importálás meghiúsult"
+
+msgid "Important"
+msgstr "Fontos"
+
+msgid "In"
+msgstr "Bemenet"
+
+msgid "in"
+msgstr "in"
+
+msgid "Inactive"
+msgstr "Inaktív"
+
+msgid "Inbox"
+msgstr "Beérkezett üzenetek"
+
+msgid "inch"
+msgstr "hüvelyk"
+
+msgid "Inches"
+msgstr "Hüvelyk"
+
+msgid "inches"
+msgstr "hüvelyk"
+
+msgid "Inches (in)"
+msgstr "Hüvelyk (in)"
+
+msgid "Include"
+msgstr "Belefoglalva"
+
+msgid "Includes"
+msgstr "Beágyazások"
+
+msgid "Incoming"
+msgstr "Bejövő"
+
+msgid "Increase Font Size"
+msgstr "A betűméret növelése"
+
+msgid "Increase Indent"
+msgstr "Behúzás növelése"
+
+msgid "Increase Volume"
+msgstr "Hangerő növelése"
+
+msgid "Incremental"
+msgstr "Összeadódó"
+
+msgid "Indentation"
+msgstr "Behúzás"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Indexed"
+msgstr "Indexelt"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesia"
+msgstr "Indonézia"
+
+msgid "Indonesian"
+msgstr "Indonéz"
+
+msgid "Industrial"
+msgstr "Ipari"
+
+msgid "Info"
+msgstr "Információ"
+
+msgid "Information"
+msgstr "Információ"
+
+msgid "Initials"
+msgstr "Monogram"
+
+msgid "Input"
+msgstr "Bemenet"
+
+msgid "Input Devices"
+msgstr "Bemeneti eszközök"
+
+msgid "Insert"
+msgstr "Beszúrás"
+
+msgid "&Insert"
+msgstr "Beszú&rás"
+
+msgid "Insert Image"
+msgstr "Kép beszúrása"
+
+msgid "Insert Link"
+msgstr "Hivatkozás beszúrása"
+
+msgid "Insert Table"
+msgstr "Táblázat beszúrása"
+
+msgid "Insert Text"
+msgstr "Szöveg beszúrása"
+
+msgid "Install"
+msgstr "Telepítés"
+
+msgid "Install..."
+msgstr "Telepítés…"
+
+msgid "Install from File..."
+msgstr "Telepítés fájlból…"
+
+msgid "Installed"
+msgstr "Telepítve"
+
+msgid "Installing"
+msgstr "Telepítés"
+
+msgid "Instant"
+msgstr "Azonnali"
+
+msgid "Integer"
+msgstr "Egész"
+
+msgid "Integrate"
+msgstr "Integrálás"
+
+msgid "Intensity"
+msgstr "Intenzitás"
+
+msgid "Interface"
+msgstr "Felület"
+
+msgid "Internal"
+msgstr "Belső"
+
+msgid "Internal Error"
+msgstr "Belső hiba"
+
+msgid "Internal error"
+msgstr "Belső hiba"
+
+msgid "International"
+msgstr "Külföldi"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Interpolation"
+msgstr "Interpoláció"
+
+msgid "Interrupt"
+msgstr "Megszakítás"
+
+msgid "Interval"
+msgstr "Lépésköz"
+
+msgid "Introduction"
+msgstr "Bevezetés"
+
+msgid "Invalid"
+msgstr "Érvénytelen"
+
+msgid "invalid"
+msgstr "érvénytelen"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr "érvénytelen logikai érték: „%s” (érvényes értékek: yes, no)"
+
+msgid "Invalid date"
+msgstr "Érvénytelen dátum"
+
+msgid "Invalid password"
+msgstr "Érvénytelen jelszó"
+
+msgid "Invalid URL"
+msgstr "Érvénytelen URL"
+
+msgid "Invert"
+msgstr "Invertálás"
+
+msgid "Invert Selection"
+msgstr "Kijelölés megfordítása"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP-cím"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "Irán"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Írország"
+
+msgid "Irish"
+msgstr "Ír"
+
+msgid "is"
+msgstr "="
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Issued By"
+msgstr "Kibocsátó"
+
+msgid "Issuer"
+msgstr "Kibocsátó"
+
+msgid "Italian"
+msgstr "Olasz"
+
+msgid "Italic"
+msgstr "Dőlt"
+
+msgid "&Italic"
+msgstr "&Dőlt"
+
+msgid "_Italic"
+msgstr "_Dőlt"
+
+msgid "Italy"
+msgstr "Olaszország"
+
+msgid "Item"
+msgstr "Elem"
+
+msgid "Items"
+msgstr "Elemek"
+
+msgid "Iterations"
+msgstr "Iterációk"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "January"
+msgstr "január"
+
+msgid "Japan"
+msgstr "Japán"
+
+msgid "Japanese"
+msgstr "Japán"
+
+msgid "Javanese"
+msgstr "Jávai"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr "Csatlakozás"
+
+msgid "Jonah Brüchert"
+msgstr "Jonah Brüchert"
+
+msgid "Jordan"
+msgstr "Jordánia"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr "Joshua Goins"
+
+msgid "Journal"
+msgstr "Napló"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "július"
+
+msgid "Jump to next match"
+msgstr "Ugrás a következő találatra"
+
+msgid "Jump to previous match"
+msgstr "Ugrás az előző találatra"
+
+msgid "June"
+msgstr "június"
+
+msgid "Justify"
+msgstr "Sorkizárt"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "Kazah"
+
+msgid "Kazakhstan"
+msgstr "Kazahsztán"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "KDE Közösség, Felipe Kinoshita"
+
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "Megtartás"
+
+msgid "_Keep"
+msgstr "_Megtartás"
+
+msgid "Keep aspect ratio"
+msgstr "Képarány megtartása"
+
+msgid "Keep Open"
+msgstr "Tartsa nyitva"
+
+msgid "Kenya"
+msgstr "Kenya"
+
+msgid "Kernel"
+msgstr "Kernel"
+
+msgid "Key"
+msgstr "Kulcs"
+
+msgid "Key ID"
+msgstr "Kulcsazonosító"
+
+msgid "Keyboard"
+msgstr "Billentyűzet"
+
+msgid "Keyboard Layout"
+msgstr "Billentyűzetkiosztás"
+
+msgid "Keyboard Shortcuts"
+msgstr "Gyorsbillentyűk"
+
+msgid "Keyboard shortcuts"
+msgstr "Gyorsbillentyűk"
+
+msgid "_Keyboard Shortcuts"
+msgstr "_Gyorsbillentyűk"
+
+msgid "Keys"
+msgstr "Billentyűk"
+
+msgid "Keyword"
+msgstr "Kulcsszó"
+
+msgid "Keywords"
+msgstr "Kulcsszavak"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "Fajta"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "km"
+msgstr "km"
+
+msgid "KMail"
+msgstr "KMail"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "Koreai"
+
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+msgid "Kuwait"
+msgstr "Kuvait"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "B"
+
+msgid "Label"
+msgstr "Címke"
+
+msgid "label"
+msgstr "címke"
+
+msgid "Labels"
+msgstr "Címkék"
+
+msgid "Landscape"
+msgstr "Fekvő"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "_Language"
+msgstr "_Nyelv"
+
+msgid "Languages"
+msgstr "Nyelvek"
+
+msgid "Lao"
+msgstr "Lao"
+
+msgid "Laos"
+msgstr "Laosz"
+
+msgid "Large"
+msgstr "Nagy"
+
+msgid "Last"
+msgstr "Utolsó"
+
+msgid "Last Modified"
+msgstr "Utoljára módosítva"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "Latin"
+
+msgid "Latitude"
+msgstr "Szélesség"
+
+msgid "Latvia"
+msgstr "Lettország"
+
+msgid "Latvian"
+msgstr "Lett"
+
+msgid "Launch %1"
+msgstr "%1 indítása"
+
+msgid "Layer"
+msgstr "Réteg"
+
+msgid "Layers"
+msgstr "Rétegek"
+
+msgid "Layout"
+msgstr "Elrendezés"
+
+msgid "Leave Fullscreen"
+msgstr "Teljes képernyő elhagyása"
+
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgid "Left"
+msgstr "Balra"
+
+msgid "left"
+msgstr "bal"
+
+msgid "&Left"
+msgstr "&Balra"
+
+msgid "_Left"
+msgstr "_Balra"
+
+msgid "Left to Right"
+msgstr "Balról jobbra"
+
+msgid "Legacy"
+msgstr "Örökölt"
+
+msgid "Legend"
+msgstr "Jelmagyarázat"
+
+msgid "Length"
+msgstr "Hossz"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Letter"
+msgstr "Letter"
+
+msgid "Level"
+msgstr "Szint"
+
+msgid "Level %1"
+msgstr "%1. szint"
+
+msgid "Levels"
+msgstr "Szintek"
+
+msgid "Liberia"
+msgstr "Libéria"
+
+msgid "Library"
+msgstr "Könyvtár"
+
+msgid "License"
+msgstr "Licenc"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Light"
+msgstr "Világos"
+
+msgid "Lighten"
+msgstr "Világosítás"
+
+msgid "Lightness"
+msgstr "Világosság"
+
+msgid "Limit"
+msgstr "Korlát"
+
+msgid "Limits"
+msgstr "Korlátok"
+
+msgid "Line"
+msgstr "Vonal"
+
+msgid "line"
+msgstr "sor"
+
+msgid "Line Break"
+msgstr "Sortörés"
+
+msgid "Line Color"
+msgstr "Vonalszín"
+
+msgid "Line Numbers"
+msgstr "Sorszámok"
+
+msgid "Line Width"
+msgstr "Vonalvastagság"
+
+msgid "Line width"
+msgstr "Vonalvastagság"
+
+msgid "Linear"
+msgstr "Lineáris"
+
+msgid "Lines"
+msgstr "Vonalak"
+
+msgid "Link"
+msgstr "Hivatkozás"
+
+msgid "link"
+msgstr "hivatkozás"
+
+msgid "Link URL"
+msgstr "Hivatkozás URL-je"
+
+msgid "Links"
+msgstr "Hivatkozások"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "List View"
+msgstr "Listanézet"
+
+msgid "Lists"
+msgstr "Listák"
+
+msgid "Lists the available options for user feedback"
+msgstr "Felsorolja a felhasználói visszajelzés lehetőségeit"
+
+msgid "Lithuania"
+msgstr "Litvánia"
+
+msgid "Lithuanian"
+msgstr "Litván"
+
+msgid "%l:%M %p"
+msgstr "%H:%M"
+
+msgid "Load"
+msgstr "Betöltés"
+
+msgid "Load..."
+msgstr "Betöltés…"
+
+msgid "Load Game"
+msgstr "Játék betöltése"
+
+msgid "Loading"
+msgstr "Betöltés"
+
+msgid "Loading..."
+msgstr "Betöltés…"
+
+msgid "Loading %1..."
+msgstr "%1 betöltése…"
+
+msgid "Local"
+msgstr "Helyi"
+
+msgid "Locale"
+msgstr "Területi beállítások"
+
+msgid "Locality"
+msgstr "Helység"
+
+msgid "Location"
+msgstr "Hely"
+
+msgid "Locations"
+msgstr "Helyek"
+
+msgid "Lock"
+msgstr "Zárolás"
+
+msgid "Lock Screen"
+msgstr "Képernyő zárolása"
+
+msgid "Locked"
+msgstr "Zárolt"
+
+msgid "Log"
+msgstr "Napló"
+
+msgid "Log in"
+msgstr "Bejelentkezés"
+
+msgid "Log Out"
+msgstr "Kijelentkezés"
+
+msgid "Logarithmic"
+msgstr "Logaritmikus"
+
+msgid "Logging"
+msgstr "Naplózás"
+
+msgid "Logging in..."
+msgstr "Bejelentkezés…"
+
+msgid "Logic"
+msgstr "Logika"
+
+msgid "Login"
+msgstr "Bejelentkezés"
+
+msgid "_Login"
+msgstr "_Bejelentkezés"
+
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+msgid "Logs"
+msgstr "Naplók"
+
+msgid "Longitude"
+msgstr "Hosszúság"
+
+msgid "Loop"
+msgstr "Ismétlés"
+
+msgid "Low"
+msgstr "Alacsony"
+
+msgid "Lower"
+msgstr "Kisbetűs"
+
+msgid "Lowercase"
+msgstr "Kisbetű"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "Fényesség"
+
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgid "Lyricist"
+msgstr "Dalszerző"
+
+msgid "Lyrics"
+msgstr "Dalszöveg"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr "m"
+
+msgid "Macedonian"
+msgstr "Macedón"
+
+msgid "Macro"
+msgstr "Makró"
+
+msgid "Macros"
+msgstr "Makrók"
+
+msgid "Madagascar"
+msgstr "Madagaszkár"
+
+msgid "Magenta"
+msgstr "Bíborvörös"
+
+msgid "Mail"
+msgstr "Levelezés"
+
+msgid "Main"
+msgstr "Alap"
+
+msgid "Main Menu"
+msgstr "Főmenü"
+
+msgid "Main Toolbar"
+msgstr "Alap eszköztár"
+
+msgid "Main Window"
+msgstr "Főablak"
+
+msgid "Main window"
+msgstr "Főablak"
+
+msgid "Maintainer"
+msgstr "Karbantartó"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Malay"
+msgstr "Maláj"
+
+msgid "Malayalam"
+msgstr "Malajálam"
+
+msgid "Malaysia"
+msgstr "Malajzia"
+
+msgid "Maldives"
+msgstr "Maldív-szigetek"
+
+msgid "Male"
+msgstr "Férfi"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Malta"
+msgstr "Málta"
+
+msgid "Maltese"
+msgstr "Máltai"
+
+msgid "Manager"
+msgstr "Főnök"
+
+msgid "Manual"
+msgstr "Kézi"
+
+msgid "Manufacturer"
+msgstr "Gyártó"
+
+msgid "Map"
+msgstr "Térkép"
+
+msgid "Maps"
+msgstr "Térképek"
+
+msgid "Marathi"
+msgstr "Marathi"
+
+msgid "Marble"
+msgstr "Marble"
+
+msgid "March"
+msgstr "március"
+
+msgid "Margins"
+msgstr "Margók"
+
+msgid "Mark"
+msgstr "Jelölés"
+
+msgid "Mark as Read"
+msgstr "Megjelölés olvasottként"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Marker"
+msgstr "Jelölő"
+
+msgid "Markers"
+msgstr "Jelölők"
+
+msgid "Marshall Islands"
+msgstr "Marshall-szigetek"
+
+msgid "Mask"
+msgstr "Maszk"
+
+msgid "Mass"
+msgstr "Tömeg"
+
+msgid "Match"
+msgstr "Egyezés"
+
+msgid "Match case"
+msgstr "Kis- és nagybetűk megkülönböztetése"
+
+msgid "_Match case"
+msgstr "Kis- és _nagybetű"
+
+msgid "Math"
+msgstr "Matematikai"
+
+msgid "Matrix"
+msgstr "Mátrix"
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "Mauritánia"
+
+msgid "Mauritius"
+msgstr "Mauritius"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "max"
+msgstr "max"
+
+msgid "Maximize"
+msgstr "Maximalizálás"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "May"
+msgstr "május"
+
+msgid "Maze"
+msgstr "Labirintus"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "Középérték"
+
+msgid "Measure"
+msgstr "Mérés"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Media Player"
+msgstr "Médialejátszó"
+
+msgid "Median"
+msgstr "Medián"
+
+msgid "Medium"
+msgstr "Közepes"
+
+msgid "medium"
+msgstr "közepes"
+
+msgid "Member"
+msgstr "Tag"
+
+msgid "Memory"
+msgstr "Memória"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Mercury"
+msgstr "Merkúr"
+
+msgid "Merge"
+msgstr "Egyesítés"
+
+msgid "Message"
+msgstr "Üzenet"
+
+msgid "message"
+msgstr "üzenet"
+
+msgid "Messages"
+msgstr "Üzenetek"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "Metaadat"
+
+msgid "Metal"
+msgstr "Fémes"
+
+msgid "meters"
+msgstr "méter"
+
+msgid "Method"
+msgstr "Mód"
+
+msgid "Metric"
+msgstr "Metrika"
+
+msgid "Mexico"
+msgstr "Mexikó"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "Mikrofon"
+
+msgid "Middle"
+msgstr "Középső"
+
+msgid "Miha Čančula"
+msgstr "Miha Čančula"
+
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+msgid "Millimeters"
+msgstr "Milliméter"
+
+msgid "Millimeters (mm)"
+msgstr "Milliméter (mm)"
+
+msgid "Milliseconds"
+msgstr "Ezredmásodperc"
+
+msgid "milliseconds"
+msgstr "ezredmásodperc"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "min"
+msgstr "min"
+
+msgid "Minimize"
+msgstr "Minimalizálás"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Minute"
+msgstr "Perc"
+
+msgid "Minutes"
+msgstr "Perc"
+
+msgid "minutes"
+msgstr "perc"
+
+msgid "Mirror"
+msgstr "Tükrözés"
+
+msgid "Misc"
+msgstr "Egyéb"
+
+msgid "Miscellaneous"
+msgstr "Egyéb"
+
+msgid "missing plugin file \"%s\""
+msgstr "hiányzó bővítmény fájl: „%s”"
+
+msgid "Miter limit"
+msgstr "Túlnyúlási korlát"
+
+msgid "Mix"
+msgstr "Keverés"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Mode"
+msgstr "Mód"
+
+msgid "Model"
+msgstr "Modell"
+
+msgid "Modem"
+msgstr "Modem"
+
+msgid "Modified"
+msgstr "Módosítva"
+
+msgid "modified"
+msgstr "módosítva"
+
+msgid "Modifiers"
+msgstr "Módosítók"
+
+msgid "Modify"
+msgstr "Módosítás"
+
+msgid "Modify..."
+msgstr "Módosítás…"
+
+msgid "&Modify..."
+msgstr "&Módosítás…"
+
+msgid "Modify search behavior"
+msgstr "A keresési beállítások módosítása"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Modules"
+msgstr "Modulok"
+
+msgid "Moldova"
+msgstr "Moldova"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Monday"
+msgstr "H"
+
+msgid "Mongolia"
+msgstr "Mongólia"
+
+msgid "Mongolian"
+msgstr "Mongol"
+
+msgid "Monitor"
+msgstr "Monitor"
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Monochrome"
+msgstr "Fekete-fehér"
+
+msgid "Monospace"
+msgstr "Monospace"
+
+msgid "Montenegro"
+msgstr "Montenegró"
+
+msgid "Month"
+msgstr "Hónap"
+
+msgid "Month View"
+msgstr "Havi nézet"
+
+msgid "Monthly"
+msgstr "Havonta"
+
+msgid "Months"
+msgstr "Hónap"
+
+msgid "More"
+msgstr "Több"
+
+msgid "More..."
+msgstr "Több…"
+
+msgid "More actions"
+msgstr "További műveletek"
+
+msgid "More Information"
+msgstr "További információk"
+
+msgid "More options"
+msgstr "További beállítások"
+
+msgid "Morocco"
+msgstr "Marokkó"
+
+msgid "Mount"
+msgstr "Csatolás"
+
+msgid "Mount point"
+msgstr "Csatolási pont"
+
+msgid "Mouse"
+msgstr "Egér"
+
+msgid "Mouse Wheel"
+msgstr "Egérgörgő"
+
+msgid "Move"
+msgstr "Áthelyezés"
+
+msgid "&Move"
+msgstr "&Lépés"
+
+msgid "_Move"
+msgstr "Át_helyezés"
+
+msgid "Move %1"
+msgstr "%1 áthelyezése"
+
+msgid "Move Down"
+msgstr "Le"
+
+msgid "Move down"
+msgstr "Mozgatás le"
+
+msgid "Move &Down"
+msgstr "Mozgatás &lefelé"
+
+msgid "&Move Here"
+msgstr "&Mozgatás ide"
+
+msgid "Move Left"
+msgstr "Balra"
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr "Jobbra"
+
+msgid "Move Tab Left"
+msgstr "Lap mozgatása balra"
+
+msgid "Move Tab Right"
+msgstr "Lap mozgatása jobbra"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "Mozgatás ide"
+
+msgid "Move to Bottom"
+msgstr "Mozgatás az aljára"
+
+msgid "Move to Top"
+msgstr "Mozgatás a tetejére"
+
+msgid "Move to Trash"
+msgstr "Áthelyezés a Kukába"
+
+msgid "&Move to Trash"
+msgstr "Á&thelyezés a Kukába"
+
+msgid "Move Up"
+msgstr "Fel"
+
+msgid "Move up"
+msgstr "Mozgatás fel"
+
+msgid "Move &Up"
+msgstr "Mozgatás &felfelé"
+
+msgid "Mozambique"
+msgstr "Mozambik"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "Multimédia"
+
+msgid "Multiply"
+msgstr "Szorzás"
+
+msgid "Music"
+msgstr "Zene"
+
+msgid "Music Player"
+msgstr "Zenelejátszó"
+
+msgid "Mute"
+msgstr "Némítás"
+
+msgid "Myanmar"
+msgstr "Mianmar"
+
+msgid "N"
+msgstr "N"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "n/a"
+msgstr "ismeretlen"
+
+msgid "NAME"
+msgstr "NÉV"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "name"
+msgstr "név"
+
+msgid "&Name"
+msgstr "&Név"
+
+msgid "_Name"
+msgstr "_Név"
+
+msgid "Name: %1"
+msgstr "Név: %1"
+
+msgid "Namespace"
+msgstr "Névtér"
+
+msgid "Namibia"
+msgstr "Namíbia"
+
+msgid "Nature"
+msgstr "Természet"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Navigation"
+msgstr "Navigáció"
+
+msgid "Negative"
+msgstr "Negatív"
+
+msgid "Neon"
+msgstr "Neon"
+
+msgid "Nepal"
+msgstr "Nepál"
+
+msgid "Nepali"
+msgstr "Nepáli"
+
+msgid "Netherlands"
+msgstr "Hollandia"
+
+msgid "Network"
+msgstr "Hálózat"
+
+msgid "Networks"
+msgstr "Hálózatok"
+
+msgid "Never"
+msgstr "Soha"
+
+msgid "never"
+msgstr "soha"
+
+msgid "New"
+msgstr "Új"
+
+msgid "&New"
+msgstr "Ú&j"
+
+msgid "_New"
+msgstr "Ú_j"
+
+msgid "New..."
+msgstr "Új…"
+
+msgid "&New..."
+msgstr "Ú&j..."
+
+msgid "_New..."
+msgstr "Ú_j…"
+
+msgid "New Bookmark"
+msgstr "Új könyvjelző"
+
+msgid "New Connection"
+msgstr "Új kapcsolat"
+
+msgid "New File"
+msgstr "Új fájl"
+
+msgid "New Folder"
+msgstr "Új mappa"
+
+msgid "New folder"
+msgstr "Új mappa"
+
+msgid "New Folder..."
+msgstr "Új mappa…"
+
+msgid "New Game"
+msgstr "Új játék"
+
+msgid "New Group"
+msgstr "Új csoport"
+
+msgid "New Item"
+msgstr "Új elem"
+
+msgid "New Layer"
+msgstr "Új réteg"
+
+msgid "New Message"
+msgstr "Új üzenet"
+
+msgid "New Name"
+msgstr "Új név"
+
+msgid "New name"
+msgstr "Új név"
+
+msgid "New Profile"
+msgstr "Új profil"
+
+msgid "New Project"
+msgstr "Új projekt"
+
+msgid "New Session"
+msgstr "Új munkamenet"
+
+msgid "New South Wales"
+msgstr "Új-Dél-Wales"
+
+msgid "New Tab"
+msgstr "Új lap"
+
+msgid "New tag"
+msgstr "Új címke"
+
+msgid "New Window"
+msgstr "Új ablak"
+
+msgid "_New Window"
+msgstr "Ú_j ablak"
+
+msgid "New &Window"
+msgstr "Ú&j ablak"
+
+msgid "New _Window"
+msgstr "Új _ablak"
+
+msgid "New Zealand"
+msgstr "Új-Zéland"
+
+msgid "News"
+msgstr "Hírek"
+
+msgid "Newton"
+msgstr "Newton"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "&Next"
+msgstr "&Következő"
+
+msgid "_Next"
+msgstr "_Következő"
+
+msgid "Next Image"
+msgstr "Következő kép"
+
+msgid "Next month"
+msgstr "Következő hónap"
+
+msgid "Next Page"
+msgstr "Következő oldal"
+
+msgid "Next Tab"
+msgstr "Következő lap"
+
+msgid "Next Track"
+msgstr "Következő szám"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Nickname"
+msgstr "Becenév"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nigeria"
+msgstr "Nigéria"
+
+msgid "Night"
+msgstr "Éjszaka"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "no"
+msgstr "nem"
+
+msgid "_No"
+msgstr "_Nem"
+
+msgid "No."
+msgstr "Sorszám"
+
+msgid "No description available"
+msgstr "Nem érhető el leírás"
+
+msgid "No devices found"
+msgstr "Nem találhatók eszközök"
+
+msgid "No error"
+msgstr "Nincs hiba"
+
+msgid "No file selected"
+msgstr "Nincs fájl kiválasztva"
+
+msgid "No filter"
+msgstr "Nincs szűrő"
+
+msgid "No Limit"
+msgstr "Nincs korlát"
+
+msgid "No matches"
+msgstr "Nincs találat"
+
+msgid "No Name"
+msgstr "Nincs név"
+
+msgid "No name"
+msgstr "Nincs név"
+
+msgid "No network connection"
+msgstr "Nincs hálózati kapcsolat"
+
+msgid "No results"
+msgstr "Nincs találat"
+
+msgid "No Results Found"
+msgstr "Nincs találat"
+
+msgid "No results found"
+msgstr "Nincs találat"
+
+msgid "No search results"
+msgstr "Nincs találat a keresésre"
+
+msgid "No selection"
+msgstr "Nincs kijelölés"
+
+msgid "No Subject"
+msgstr "Nincs tárgy"
+
+msgid "No VPN configuration options."
+msgstr "Nincsenek VPN-beállítások."
+
+msgid "Noise"
+msgstr "Zaj"
+
+msgid "None"
+msgstr "Nincs"
+
+msgid "none"
+msgstr "nincs"
+
+msgid "&None"
+msgstr "&Nincs"
+
+msgid "_None"
+msgstr "Se_mmit"
+
+msgid "(None)"
+msgstr "(Nincs)"
+
+msgid "(none)"
+msgstr "(nincs)"
+
+msgid "Nordic"
+msgstr "Északi"
+
+msgid "Normal"
+msgstr "Normál"
+
+msgid "_Normal Size"
+msgstr "_Normál méret"
+
+msgid "Normalize"
+msgstr "Normalizálás"
+
+msgid "North"
+msgstr "Észak"
+
+msgid "North America"
+msgstr "Észak-Amerika"
+
+msgid "Norway"
+msgstr "Norvégia"
+
+msgid "Norwegian"
+msgstr "Norvég"
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "Nem sikerült írni a(z) '%1' fájlba. Lehet, hogy betelt a partíció."
+
+msgid "Not Available"
+msgstr "Nem érhető el"
+
+msgid "Not available"
+msgstr "Nem érhető el"
+
+msgid "not available"
+msgstr "nem érhető el"
+
+msgid "Not Connected"
+msgstr "Nincs csatlakoztatva"
+
+msgid "Not connected"
+msgstr "Nincs kapcsolódva"
+
+msgid "Not defined"
+msgstr "Nincs meghatározva"
+
+msgid "Not found"
+msgstr "Nem található"
+
+msgid "Not implemented"
+msgstr "Nincs megvalósítva"
+
+msgid "Not running"
+msgstr "Nem fut"
+
+msgid "Not supported"
+msgstr "Nem támogatott"
+
+msgid "Note"
+msgstr "Megjegyzés"
+
+msgid "Notes"
+msgstr "Jegyzetek"
+
+msgid "Nothing"
+msgstr "Semmi"
+
+msgid "Notice"
+msgstr "Megjegyzés"
+
+msgid "Notification"
+msgstr "Értesítés"
+
+msgid "Notifications"
+msgstr "Értesítések"
+
+msgid "Noun"
+msgstr "Főnév"
+
+msgid "November"
+msgstr "november"
+
+msgid "Now"
+msgstr "Most"
+
+msgid "now"
+msgstr "most"
+
+msgid "NT Domain"
+msgstr "NT tartomány"
+
+msgid "NUMBER"
+msgstr "SZÁM"
+
+msgid "Number"
+msgstr "Szám"
+
+msgid "number"
+msgstr "szám"
+
+msgid "Number of columns"
+msgstr "Oszlopok száma"
+
+msgid "Numbers"
+msgstr "Számok"
+
+msgid "Numeric"
+msgstr "Numerikus"
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "Objektum"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr "a(z) „%s” objektumosztálynak nincs „%s” nevű tulajdonsága"
+
+msgid "Objects"
+msgstr "Objektumok"
+
+msgid "Oblique"
+msgstr "Döntött"
+
+msgid "Octal"
+msgstr "Oktális"
+
+msgid "October"
+msgstr "október"
+
+msgid "Off"
+msgstr "Ki"
+
+msgid "off"
+msgstr "kikapcsolva"
+
+msgid "Office"
+msgstr "Iroda"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Offset"
+msgstr "Eltolás"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "_OK"
+msgstr "_OK"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Oman"
+msgstr "Omán"
+
+msgid "On"
+msgstr "Be"
+
+msgid "on"
+msgstr "bekapcsolva"
+
+msgid "One"
+msgstr "Egy"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Online Accounts"
+msgstr "Internetes fiókok"
+
+msgid "Opacity"
+msgstr "Átlátszatlanság"
+
+msgid "Opaque"
+msgstr "Nem áttetsző"
+
+msgid "Open"
+msgstr "Megnyitás"
+
+msgid "&Open"
+msgstr "&Megnyitás"
+
+msgid "_Open"
+msgstr "_Megnyitás"
+
+msgid "Open..."
+msgstr "Megnyitás..."
+
+msgid "&Open..."
+msgstr "&Megnyitás..."
+
+msgid "_Open..."
+msgstr "_Megnyitás…"
+
+msgid "Open %1"
+msgstr "%1 megnyitása"
+
+msgid "Open a file"
+msgstr "Fájl megnyitása"
+
+msgid "Open a new tab"
+msgstr "Új lap megnyitása"
+
+msgid "Open a new window"
+msgstr "Új ablak megnyitása"
+
+msgid "Open an existing document"
+msgstr "Meglévő dokumentum megnyitása"
+
+msgid "Open Audio"
+msgstr "Hang megnyitása"
+
+msgid "Open Containing Folder"
+msgstr "Tartalmazó mappa megnyitása"
+
+msgid "&Open Containing Folder"
+msgstr "&Tartalmazó mappa megnyitása"
+
+msgid "Open Document"
+msgstr "Dokumentum megnyitása"
+
+msgid "Open File"
+msgstr "Fájl megnyitása"
+
+msgid "Open file"
+msgstr "Fájl megnyitása"
+
+msgid "Open Folder"
+msgstr "Mappa megnyitása"
+
+msgid "Open folder"
+msgstr "Mappa megnyitása"
+
+msgid "Open Image"
+msgstr "Kép megnyitása"
+
+msgid "Open in Browser"
+msgstr "Megnyitás böngészőben"
+
+msgid "Open in File Manager"
+msgstr "Megnyitás fájlkezelőben"
+
+msgid "Open in New Tab"
+msgstr "Megnyitás új lapon"
+
+msgid "Open in New Window"
+msgstr "Megnyitás új ablakban"
+
+msgid "Open Link"
+msgstr "Hivatkozás megnyitása"
+
+msgid "_Open Link"
+msgstr "Hivatkozás _megnyitása"
+
+msgid "Open Location"
+msgstr "Hely megnyitása"
+
+msgid "Open Menu"
+msgstr "Menü megnyitása"
+
+msgid "Open Project"
+msgstr "Projekt megnyitása"
+
+msgid "Open &Recent"
+msgstr "&Legutóbbi megnyitása"
+
+msgid "Open Terminal Here"
+msgstr "Terminál megnyitása itt"
+
+msgid "Open URL"
+msgstr "URL megnyitása"
+
+msgid "Open Video"
+msgstr "Videó megnyitása"
+
+msgid "Open With"
+msgstr "Megnyitás ezzel"
+
+msgid "Open with"
+msgstr "Megnyitás mással"
+
+msgid "&Open With"
+msgstr "&Megnyitás ezzel"
+
+msgid "Open With..."
+msgstr "Megnyitás ezzel..."
+
+msgid "Open &with %1"
+msgstr "Me&gnyitás ezzel: %1"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "Fájl megnyitása…"
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr "Opera"
+
+msgid "Operation"
+msgstr "Művelet"
+
+msgid "Operation was cancelled"
+msgstr "A művelet megszakítva"
+
+msgid "Operations"
+msgstr "Műveletek"
+
+msgid "Operator"
+msgstr "Operátor"
+
+msgid "Optical Character Recognition"
+msgstr "Optikai karakterfelismerés"
+
+msgid "Optimize"
+msgstr "Optimalizálás"
+
+msgid "Option"
+msgstr "Opció"
+
+msgid "Optional"
+msgstr "Opcionális"
+
+msgid "Options"
+msgstr "Beállítások"
+
+msgid "&Options"
+msgstr "&Beállítások"
+
+msgid "OR"
+msgstr "VAGY"
+
+msgid "Or"
+msgstr "Vagy"
+
+msgid "or"
+msgstr "vagy"
+
+msgid "Orange"
+msgstr "Narancs"
+
+msgid "Order"
+msgstr "Sorrend"
+
+msgid "Organization"
+msgstr "Szervezet"
+
+msgid "Orientation"
+msgstr "Tájolás"
+
+msgid "Origin"
+msgstr "Eredet"
+
+msgid "Original"
+msgstr "Eredeti"
+
+msgid "Original Author"
+msgstr "Eredeti szerző"
+
+msgid "Original author"
+msgstr "Eredeti szerző"
+
+msgid "Original Size"
+msgstr "Eredeti méret"
+
+msgid "Oriya"
+msgstr "Orija"
+
+msgid "Other"
+msgstr "Egyéb"
+
+msgid "other"
+msgstr "egyéb"
+
+msgid "Other..."
+msgstr "Egyéb…"
+
+msgid "Other Application..."
+msgstr "Egyéb alkalmazás…"
+
+msgid "Other Options"
+msgstr "Egyéb beállítások"
+
+msgid "Others"
+msgstr "Egyéb"
+
+msgid "Out"
+msgstr "Ki"
+
+msgid "Out of memory"
+msgstr "Elfogyott a memória"
+
+msgid "Outgoing"
+msgstr "Kimenő"
+
+msgid "Outline"
+msgstr "Körvonal"
+
+msgid "Output"
+msgstr "Kimenet"
+
+msgid "Overlay"
+msgstr "Rávetítés"
+
+msgid "Overview"
+msgstr "Áttekintés"
+
+msgid "Overwrite"
+msgstr "Felülírás"
+
+msgid "Overwrite File?"
+msgstr "Felülírja a fájlt?"
+
+msgid "Owner"
+msgstr "Tulajdonos"
+
+msgid "Ownership"
+msgstr "Tulajdonjog"
+
+msgid "Oxygen"
+msgstr "Oxygen"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "Csomag"
+
+msgid "Padding"
+msgstr "Kitöltés"
+
+msgid "Page"
+msgstr "Oldal"
+
+msgid "page"
+msgstr "oldal"
+
+msgid "Page %1"
+msgstr "%1. oldal"
+
+msgid "Page %1 of %2"
+msgstr "%2 / %1. oldal"
+
+msgid "Page Break"
+msgstr "Oldaltörés"
+
+msgid "Page Count"
+msgstr "Oldalszám"
+
+msgid "Page Number"
+msgstr "Oldalszám"
+
+msgid "Page Setup"
+msgstr "Oldalbeállítás"
+
+msgid "Pager"
+msgstr "Csipogó"
+
+msgid "Pages"
+msgstr "Oldalak"
+
+msgid "Paint"
+msgstr "Festés"
+
+msgid "Pair"
+msgstr "Párosítás"
+
+msgid "Pakistan"
+msgstr "Pakisztán"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Palette"
+msgstr "Paletta"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Panel"
+msgstr "Panel"
+
+msgid "Panels"
+msgstr "Panelek"
+
+msgid "&Panels"
+msgstr "&Panelek"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "Papír"
+
+msgid "Paper Size"
+msgstr "Papírméret"
+
+msgid "Papua New Guinea"
+msgstr "Pápua Új-Guinea"
+
+msgid "Paragraph"
+msgstr "Bekezdés"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parallel"
+msgstr "Párhuzamos"
+
+msgid "Parameter"
+msgstr "Paraméter"
+
+msgid "Parameters"
+msgstr "Paraméterek"
+
+msgid "Parent"
+msgstr "Szülő"
+
+msgid "Partition"
+msgstr "Partíció"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "password"
+msgstr "jelszó"
+
+msgid "&Password"
+msgstr "&Jelszó"
+
+msgid "_Password"
+msgstr "_Jelszó"
+
+msgid "Password..."
+msgstr "Jelszó…"
+
+msgid "Passwords"
+msgstr "Jelszavak"
+
+msgid "Paste"
+msgstr "Beillesztés"
+
+msgid "&Paste"
+msgstr "&Beillesztés"
+
+msgid "_Paste"
+msgstr "_Beillesztés"
+
+msgid "Path"
+msgstr "Útvonal"
+
+msgid "path"
+msgstr "útvonal"
+
+msgid "Paths"
+msgstr "Útvonalak"
+
+msgid "Pattern"
+msgstr "Minta"
+
+msgid "Patterns"
+msgstr "Minták"
+
+msgid "Pause"
+msgstr "Szünet"
+
+msgid "&Pause"
+msgstr "&Szünet"
+
+msgid "Pause playback"
+msgstr "Lejátszás szüneteltetése"
+
+msgid "PAUSED"
+msgstr "SZÜNET"
+
+msgid "Paused"
+msgstr "Szüneteltetve"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr "Csúcs"
+
+msgid "Peek at Desktop"
+msgstr "Pillantás az asztalra"
+
+msgid "Pencil"
+msgstr "Ceruza"
+
+msgid "Pending"
+msgstr "Függőben"
+
+msgid "Pentagon"
+msgstr "Ötszög"
+
+msgid "People"
+msgstr "Emberek"
+
+msgid "Percent"
+msgstr "Százalék"
+
+msgid "Percentage"
+msgstr "Százalék"
+
+msgid "Perceptual"
+msgstr "Érzékelési"
+
+msgid "Performance"
+msgstr "Teljesítmény"
+
+msgid "Period"
+msgstr "Időszak"
+
+msgid "Permission denied"
+msgstr "Hozzáférés megtagadva"
+
+msgid "Permissions"
+msgstr "Jogosultságok"
+
+msgid "Persian"
+msgstr "Perzsa"
+
+msgid "Person"
+msgstr "Személy"
+
+msgid "Personal"
+msgstr "Személyes"
+
+msgid "Personal Information"
+msgstr "Személyes adatok"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Phase"
+msgstr "Fázis"
+
+msgid "Philippines"
+msgstr "Fülöp-szigetek"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Photo"
+msgstr "Fénykép"
+
+msgid "PHP Documentation"
+msgstr "PHP dokumentáció"
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "Szín kiválasztása"
+
+msgid "Picture"
+msgstr "Kép"
+
+msgid "Pictures"
+msgstr "Képek"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr "Torta"
+
+msgid "Pin"
+msgstr "Kitűzés"
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "Képpont"
+
+msgid "pixels"
+msgstr "képpont"
+
+msgid "Placement"
+msgstr "Elhelyezés"
+
+msgid "Places"
+msgstr "Helyek"
+
+msgid "Plain"
+msgstr "Egyszerű"
+
+msgid "Plain Text"
+msgstr "Egyszerű szöveg"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Platform"
+msgstr "Platform"
+
+msgid "Play"
+msgstr "Lejátszás"
+
+msgid "Play Next"
+msgstr "Következő lejátszása"
+
+msgid "Play Sounds"
+msgstr "Hangok lejátszása"
+
+msgid "Playback"
+msgstr "Lejátszás"
+
+msgid "Player"
+msgstr "Játékos"
+
+msgid "Player %1"
+msgstr "%1. játékos"
+
+msgid "Players"
+msgstr "Játékosok"
+
+msgid "Playground"
+msgstr "Játszótér"
+
+msgid "Playing"
+msgstr "Lejátszás"
+
+msgid "Playlist"
+msgstr "Lejátszólista"
+
+msgid "Playlists"
+msgstr "Lejátszólisták"
+
+msgid "Play/Pause"
+msgstr "Lejátszás vagy szüneteltetés"
+
+msgid "Please choose a file"
+msgstr "Válasszon egy fájlt"
+
+msgid "Please wait"
+msgstr "Kis türelmet"
+
+msgid "Please wait..."
+msgstr "Kis türelmet…"
+
+msgid "Plot"
+msgstr "Kirajzolás"
+
+msgid "Plots"
+msgstr ""
+
+msgid "Plugin"
+msgstr "Bővítmény"
+
+msgid "Plugins"
+msgstr "Bővítmények"
+
+msgid "PM"
+msgstr "DU"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "Pont"
+
+msgid "Pointers"
+msgstr "Mutatók"
+
+msgid "Points"
+msgstr "Pontok"
+
+msgid "points"
+msgstr "pont"
+
+msgid "Poland"
+msgstr "Lengyelország"
+
+msgid "Policy"
+msgstr "Házirend"
+
+msgid "Polish"
+msgstr "Lengyel"
+
+msgid "Polygon"
+msgstr "Sokszög"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "&Port"
+msgstr "&Port"
+
+msgid "Portrait"
+msgstr "Álló"
+
+msgid "Portugal"
+msgstr "Portugália"
+
+msgid "Portuguese"
+msgstr "Portugál"
+
+msgid "Position"
+msgstr "Pozíció"
+
+msgid "Posterize"
+msgstr "Poszter"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "Teljesítmény"
+
+msgid "Power Management"
+msgstr "Energiakezelés"
+
+msgid "Precision"
+msgstr "Pontosság"
+
+msgid "Preferences"
+msgstr "Beállítások"
+
+msgid "_Preferences"
+msgstr "_Beállítások"
+
+msgid "Prefix"
+msgstr "Előtag"
+
+msgid "Presentation"
+msgstr "Bemutató"
+
+msgid "Preset"
+msgstr "Előbeállítás"
+
+msgid "Presets"
+msgstr "Alapbeállítások"
+
+msgid "Pressure"
+msgstr "Nyomás"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "&Preview"
+msgstr "&Előnézet"
+
+msgid "Previews"
+msgstr "Előnézetek"
+
+msgid "Previous"
+msgstr "Előző"
+
+msgid "&Previous"
+msgstr "&Előző"
+
+msgid "_Previous"
+msgstr "_Előző"
+
+msgid "Previous Image"
+msgstr "Előző kép"
+
+msgid "Previous month"
+msgstr "Előző hónap"
+
+msgid "Previous Page"
+msgstr "Előző oldal"
+
+msgid "Previous Tab"
+msgstr "Előző lap"
+
+msgid "Previous Track"
+msgstr "Előző szám"
+
+msgid "Price"
+msgstr "Ár"
+
+msgid "Primary"
+msgstr "Elsődleges"
+
+msgid "Print"
+msgstr "Nyomtatás"
+
+msgid "_Print"
+msgstr "_Nyomtatás"
+
+msgid "Print..."
+msgstr "Nyomtatás…"
+
+msgid "&Print..."
+msgstr "&Nyomtatás…"
+
+msgid "_Print..."
+msgstr "_Nyomtatás…"
+
+msgid "Print Image"
+msgstr "Kép nyomtatása"
+
+msgid "Print Preview"
+msgstr "Nyomtatási kép"
+
+msgid "Print version"
+msgstr "Verzió kinyomtatása"
+
+msgid "Print version information and exit"
+msgstr "Verzióinformációk kiírása és kilépés"
+
+msgid "Printer"
+msgstr "Nyomtató"
+
+msgid "Printers"
+msgstr "Nyomtatók"
+
+msgid "Printing"
+msgstr "Nyomtatás"
+
+msgid "Printing..."
+msgstr "Nyomtatás…"
+
+msgid "Priority"
+msgstr "Prioritás"
+
+msgid "Privacy"
+msgstr "Adatvédelem"
+
+msgid "Private"
+msgstr "Privát"
+
+msgid "Process"
+msgstr "Folyamat"
+
+msgid "Processor"
+msgstr "Processzor"
+
+msgid "Producer"
+msgstr "Készítő"
+
+msgid "Product"
+msgstr "Termék"
+
+msgid "Profession"
+msgstr "Foglalkozás"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile name"
+msgstr "Profilnév"
+
+msgid "Profiles"
+msgstr "Profilok"
+
+msgid "Program"
+msgstr "Program"
+
+msgid "Progress"
+msgstr "Folyamat"
+
+msgid "Project"
+msgstr "Projekt"
+
+msgid "&Project"
+msgstr "&Projekt"
+
+msgid "Projects"
+msgstr "Projektek"
+
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+msgid "&Properties"
+msgstr "&Tulajdonságok"
+
+msgid "_Properties"
+msgstr "_Tulajdonságok"
+
+msgid "Properties..."
+msgstr "Tulajdonságok..."
+
+msgid "&Properties..."
+msgstr "&Tulajdonságok..."
+
+msgid "Property"
+msgstr "Tulajdonság"
+
+msgid "property “%s” invalid or not supported"
+msgstr "érvénytelen vagy nem támogatott érték: „%s”"
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr "„%2$s” osztály „%1$s” tulajdonsága nem írható"
+
+msgid "Proportional"
+msgstr "Arányos"
+
+msgid "Protected"
+msgstr "Védett"
+
+msgid "Protocol"
+msgstr "Protokoll"
+
+msgid "Provider"
+msgstr "Szolgáltató"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Proxy Settings"
+msgstr "Proxybeállítások"
+
+msgid "Public"
+msgstr "Nyilvános"
+
+msgid "Public Key"
+msgstr "Nyilvános kulcs"
+
+msgid "Publisher"
+msgstr "Kiadó"
+
+msgid "Publishing"
+msgstr "Kiadványszerkesztés"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Punjabi"
+msgstr "Pandzsábi"
+
+msgid "Push"
+msgstr "Felküldés"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "Katar"
+
+msgid "QR Code"
+msgstr "QR-kód"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>Teljesen elrejti a menüsávot. Ezzel a paranccsal állítható vissza: "
+"%1.</qt>"
+
+msgid "Quality"
+msgstr "Minőség"
+
+msgid "Quebec"
+msgstr "Quebec"
+
+msgid "Query"
+msgstr "Lekérdezés"
+
+msgid "Question"
+msgstr "Kérdés"
+
+msgid "Queue"
+msgstr "Lejátszási sor"
+
+msgid "Queued"
+msgstr "Elküldési sorba került"
+
+msgid "Quit"
+msgstr "Kilépés"
+
+msgid "&Quit"
+msgstr "&Kilépés"
+
+msgid "_Quit"
+msgstr "_Kilépés"
+
+msgid "Quit application"
+msgstr "Kilépés az alkalmazásból"
+
+msgid "Quit the application"
+msgstr "Kilépés az alkalmazásból"
+
+msgid "Quits the application"
+msgstr "Kilépés a programból"
+
+msgid "Quote"
+msgstr "Idézet"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "Sugárirányú"
+
+msgid "Radio"
+msgstr "Rádió"
+
+msgid "Radius"
+msgstr "Sugár"
+
+msgid "Raise"
+msgstr "Előrébb hozás"
+
+msgid "Random"
+msgstr "Véletlenszerű"
+
+msgid "Range"
+msgstr "Tartomány"
+
+msgid "Rank"
+msgstr "Rang"
+
+msgid "Rate"
+msgstr "Mérték"
+
+msgid "Rating"
+msgstr "Értékelés"
+
+msgid "Raw"
+msgstr "Nyers"
+
+msgid "Read"
+msgstr "Olvasás"
+
+msgid "Read error"
+msgstr "Olvasási hiba"
+
+msgid "Read Only"
+msgstr "Csak olvasható"
+
+msgid "Read only"
+msgstr "Csak olvasható"
+
+msgid "Reading"
+msgstr "Olvasás"
+
+msgid "read-only"
+msgstr "csak olvasható"
+
+msgid "Ready"
+msgstr "Kész"
+
+msgid "Ready."
+msgstr "Kész."
+
+msgid "Reason"
+msgstr "Indok"
+
+msgid "Reassign"
+msgstr "Igen, az új"
+
+msgid "Recent"
+msgstr "Legutóbbiak"
+
+msgid "Recent Documents"
+msgstr "Legutóbbi dokumentumok"
+
+msgid "Recent Files"
+msgstr "Legutóbbi fájlok"
+
+msgid "Recent files"
+msgstr "Legutóbbi fájlok"
+
+msgid "Record"
+msgstr "Felvétel"
+
+msgid "Recording"
+msgstr "Felvétel"
+
+msgid "Rectangle"
+msgstr "Téglalap"
+
+msgid "Recursive"
+msgstr "Rekurzív"
+
+msgid "Red"
+msgstr "Vörös"
+
+msgid "red"
+msgstr "piros"
+
+msgid "Redo"
+msgstr "Újra"
+
+msgid "&Redo"
+msgstr "Új&ra"
+
+msgid "_Redo"
+msgstr "Új_ra"
+
+msgid "Re&do"
+msgstr "Újra vég&rehajtás"
+
+msgid "Redo %1"
+msgstr "%1 újra végrehajtása"
+
+msgid "Reference"
+msgstr "Hivatkozás"
+
+msgid "References"
+msgstr "Hivatkozások"
+
+msgid "Refresh"
+msgstr "Frissítés"
+
+msgid "_Refresh"
+msgstr "_Frissítés"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Region"
+msgstr "Régió"
+
+msgid "Register"
+msgstr "Regisztráció"
+
+msgid "Regular"
+msgstr "Szabályos"
+
+msgid "Regular Expression"
+msgstr "Reguláris kifejezés"
+
+msgid "Regular expression"
+msgstr "Reguláris kifejezés"
+
+msgid "Reject"
+msgstr "Elutasítás"
+
+msgid "Relative"
+msgstr "Relatív"
+
+msgid "Reload"
+msgstr "Újratöltés"
+
+msgid "&Reload"
+msgstr "Új&ratöltés"
+
+msgid "_Reload"
+msgstr "_Frissítés"
+
+msgid "Reminders"
+msgstr "Emlékeztetők"
+
+msgid "Remote"
+msgstr "Távoli"
+
+msgid "Removable"
+msgstr "Eltávolítható"
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "&Remove"
+msgstr "&Eltávolítás"
+
+msgid "_Remove"
+msgstr "_Eltávolítás"
+
+msgid "R&emove"
+msgstr "&Eltávolítás"
+
+msgid "Re&move"
+msgstr "Eltá&volítás"
+
+msgid "Remove..."
+msgstr "Eltávolítás…"
+
+msgid "Remove %1"
+msgstr "%1 eltávolítása"
+
+msgid "Remove Account"
+msgstr "Fiók eltávolítása"
+
+msgid "Remove All"
+msgstr "Összes eltávolítása"
+
+msgid "Remove Bookmark"
+msgstr "Könyvjelző eltávolítása"
+
+msgid "Remove Folder"
+msgstr "Mappa eltávolítása"
+
+msgid "Remove from Favorites"
+msgstr "Eltávolítás a kedvencekből"
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "Csoport eltávolítása"
+
+msgid "Remove Rule"
+msgstr "Szabály eltávolítása"
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "Átnevezés"
+
+msgid "&Rename"
+msgstr "Átneve&zés"
+
+msgid "_Rename"
+msgstr "Át_nevezés"
+
+msgid "Rename..."
+msgstr "Átnevezés…"
+
+msgid "&Rename..."
+msgstr "Át&nevezés…"
+
+msgid "Rename Bookmark"
+msgstr "Könyvjelző átnevezése"
+
+msgid "Rename File"
+msgstr "Fájl átnevezése"
+
+msgid "Repeat"
+msgstr "Ismétlés"
+
+msgid "Replace"
+msgstr "Csere"
+
+msgid "&Replace"
+msgstr "&Csere"
+
+msgid "_Replace"
+msgstr "_Csere"
+
+msgid "Replace All"
+msgstr "Összes cseréje"
+
+msgid "Replace _All"
+msgstr "Öss_zes cseréje"
+
+msgid "Replace an existing instance"
+msgstr "Meglévő példány cseréje"
+
+msgid "Replacement"
+msgstr "Csere"
+
+msgid "Reply"
+msgstr "Válasz"
+
+msgid "Report"
+msgstr "Jelentés"
+
+msgid "Report a bug"
+msgstr "Hibabejelentés"
+
+msgid "Report Bug"
+msgstr "Hiba jelentése"
+
+msgid "Report Bug..."
+msgstr "Hibabejelentés…"
+
+msgid "&Report Bug..."
+msgstr "Hiba&bejelentés…"
+
+msgid "Reports"
+msgstr "Jelentések"
+
+msgid "Required"
+msgstr "Kötelező"
+
+msgid "Rescan"
+msgstr "Újraolvasás"
+
+msgid "Resend"
+msgstr "Újraküldés"
+
+msgid "Reset"
+msgstr "Visszaállítás"
+
+msgid "&Reset"
+msgstr "&Alapállapot"
+
+msgid "_Reset"
+msgstr "_Visszaállítás"
+
+msgid "Reset to Default"
+msgstr "Alapértelmezések visszaállítása"
+
+msgid "Reset to default"
+msgstr "Alapértelmezés visszaállítása"
+
+msgid "Reset Zoom"
+msgstr "Nagyítás visszaállítása"
+
+msgid "Resize"
+msgstr "Átméretezés"
+
+msgid "_Resize"
+msgstr "Át_méretezés"
+
+msgid "Resize Image"
+msgstr "Kép átméretezése"
+
+msgid "Resolution"
+msgstr "Felbontás"
+
+msgid "Resource"
+msgstr "Erőforrás"
+
+msgid "Resources"
+msgstr "Erőforrások"
+
+msgid "Restart"
+msgstr "Újraindítás"
+
+msgid "Restore"
+msgstr "Visszaállítás"
+
+msgid "Restore Session"
+msgstr "Munkamenet visszaállítása"
+
+msgid "Result"
+msgstr "Eredmény"
+
+msgid "Results"
+msgstr "Eredmények"
+
+msgid "Resume"
+msgstr "Folytatás"
+
+msgid "&Resume"
+msgstr "&Folytatás"
+
+msgid "Retry"
+msgstr "Újra"
+
+msgid "Return"
+msgstr "Visszatérés"
+
+msgid "Reverse"
+msgstr "Fordított"
+
+msgid "Revert"
+msgstr "Visszaállítás"
+
+msgid "_Revert"
+msgstr "_Visszaállítás"
+
+msgid "Review"
+msgstr "Lektorálás"
+
+msgid "Revision"
+msgstr "Verzió"
+
+msgid "Revoked"
+msgstr "Visszavont"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "Jobbra"
+
+msgid "right"
+msgstr "jobb"
+
+msgid "&Right"
+msgstr "&Jobbra"
+
+msgid "_Right"
+msgstr "_Jobbra"
+
+msgid "Right to Left"
+msgstr "Jobbról balra"
+
+msgid "Right-click"
+msgstr "Jobb gombbal kattintásra"
+
+msgid "River"
+msgstr "Folyó"
+
+msgid "RKWard Team"
+msgstr ""
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Role"
+msgstr "Szerep"
+
+msgid "Roman"
+msgstr "Római"
+
+msgid "Romania"
+msgstr "Románia"
+
+msgid "Romanian"
+msgstr "Román"
+
+msgid "Room"
+msgstr "Szoba"
+
+msgid "Root"
+msgstr "Root"
+
+msgid "Rotate"
+msgstr "Forgatás"
+
+msgid "Rotate Left"
+msgstr "Forgatás balra"
+
+msgid "Rotate Right"
+msgstr "Forgatás jobbra"
+
+msgid "Rotation"
+msgstr "Forgatás"
+
+msgid "Round"
+msgstr "Kerek"
+
+msgid "Row"
+msgstr "Sor"
+
+msgid "Rows"
+msgstr "Sorok"
+
+msgid "rows"
+msgstr "sor"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "Szabályok"
+
+msgid "Run"
+msgstr "Futtatás"
+
+msgid "&Run"
+msgstr "&Futtatás"
+
+msgid "Run in terminal"
+msgstr "Futtatás terminálban"
+
+msgid "Running"
+msgstr "Fut"
+
+msgid "Russia"
+msgstr "Oroszország"
+
+msgid "Russian"
+msgstr "Orosz"
+
+msgid "Rwanda"
+msgstr "Ruanda"
+
+msgid "S"
+msgstr "D"
+
+msgid "s"
+msgstr "s"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "%s tulajdonságai"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "Szamoa"
+
+msgid "Sample"
+msgstr "Minta"
+
+msgid "Sample Rate"
+msgstr "Mintavételezési gyakoriság"
+
+msgid "Sample rate"
+msgstr "Mintavétel"
+
+msgid "Samples"
+msgstr "Minták"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Sans Serif"
+msgstr "Talpatlan"
+
+msgid "Satellite"
+msgstr "Műhold"
+
+msgid "Saturation"
+msgstr "Telítettség"
+
+msgid "Saturday"
+msgstr "Szo"
+
+msgid "Saudi Arabia"
+msgstr "Szaúd-Arábia"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "&Save"
+msgstr "Menté&s"
+
+msgid "_Save"
+msgstr "M_entés"
+
+msgid "Save..."
+msgstr "Mentés…"
+
+msgid "Save All"
+msgstr "Összes mentése"
+
+msgid "Save As"
+msgstr "Mentés másként"
+
+msgid "Save as"
+msgstr "Mentés másként"
+
+msgid "Save _As"
+msgstr "Men_tés másként"
+
+msgid "Save As..."
+msgstr "Mentés másként..."
+
+msgid "Save as..."
+msgstr "Mentés másként…"
+
+msgid "_Save As..."
+msgstr "M_entés másként…"
+
+msgid "Save &As..."
+msgstr "Mentés más&ként…"
+
+msgid "Save _As..."
+msgstr "Men_tés másként…"
+
+msgid "Save Attachment"
+msgstr "Melléklet mentése"
+
+msgid "Save Changes"
+msgstr "Változtatások mentése"
+
+msgid "Save Changes?"
+msgstr "Elmenti a változtatásokat?"
+
+msgid "Save File"
+msgstr "Fájl mentése"
+
+msgid "Save file"
+msgstr "Fájl mentése"
+
+msgid "Save Game"
+msgstr "Játék mentése"
+
+msgid "Save Image"
+msgstr "Kép mentése"
+
+msgid "_Save Image As..."
+msgstr "Ké_p mentése másként…"
+
+msgid "Save Project"
+msgstr "Projekt mentése"
+
+msgid "Save Session"
+msgstr "Munkamenet mentése"
+
+msgid "Save Settings"
+msgstr "Beállítások mentése"
+
+msgid "Saved"
+msgstr "Elmentve"
+
+msgid "Saving"
+msgstr "Mentés"
+
+msgid "Saving..."
+msgstr "Mentés…"
+
+msgid "Saving file..."
+msgstr "Fájl mentése…"
+
+msgid "Scale"
+msgstr "Méretezés"
+
+msgid "_Scale"
+msgstr "Át_méretezés"
+
+msgid "Scaled"
+msgstr "Nyújtva"
+
+msgid "Scaling"
+msgstr "Méretezés"
+
+msgid "Scan"
+msgstr "Beolvasás"
+
+msgid "Scanner"
+msgstr "Lapolvasó"
+
+msgid "Scanning..."
+msgstr "Keresés…"
+
+msgid "Schedule"
+msgstr "Ütemezés"
+
+msgid "Scheduling"
+msgstr "Ütemezés"
+
+msgid "Scheme"
+msgstr "Séma"
+
+msgid "School"
+msgstr "Iskola"
+
+msgid "Scientific"
+msgstr "Tudományos"
+
+msgid "Scope"
+msgstr "Hatókör"
+
+msgid "Score"
+msgstr "Pontszám"
+
+msgid "Score: %1"
+msgstr "Pontszám: %1"
+
+msgid "Screen"
+msgstr "Képernyő"
+
+msgid "Screenshot"
+msgstr "Képernyőkép"
+
+msgid "Screenshots"
+msgstr "Képernyőképek"
+
+msgid "Script"
+msgstr "Parancsfájl"
+
+msgid "Scripting"
+msgstr "Szkriptelés"
+
+msgid "Scripts"
+msgstr "Parancsfájlok"
+
+msgid "Scroll"
+msgstr "Görgetés"
+
+msgid "Scroll Down"
+msgstr "Görgetés lefelé"
+
+msgid "Scroll Left"
+msgstr "Görgetés balra"
+
+msgid "Scroll Right"
+msgstr "Görgetés jobbra"
+
+msgid "Scroll Up"
+msgstr "Görgetés felfelé"
+
+msgid "Scrolling"
+msgstr "Görgetés"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "&Search"
+msgstr "&Keresés"
+
+msgid "_Search"
+msgstr "_Keresés"
+
+msgid "S&earch"
+msgstr "&Keresés"
+
+msgid "Search..."
+msgstr "Keresés…"
+
+msgid "Search Bar"
+msgstr "Keresési sáv"
+
+msgid "_Search for"
+msgstr "_Keresés erre"
+
+msgid "Search for '%1' with"
+msgstr "„%1” keresése ezzel:"
+
+msgid "Search Options"
+msgstr "Keresési beállítások"
+
+msgid "Search Results"
+msgstr "Keresési eredmények"
+
+msgid "Search results"
+msgstr "Keresési eredmények"
+
+msgid "Searching..."
+msgstr "Keresés…"
+
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+msgid "Second"
+msgstr "Másodperc"
+
+msgid "Seconds"
+msgstr "Másodperc"
+
+msgid "seconds"
+msgstr "másodperc"
+
+msgid "Section"
+msgstr "Szakasz"
+
+msgid "Security"
+msgstr "Biztonság"
+
+msgid "Seek"
+msgstr "Keresés"
+
+msgid "Select"
+msgstr "Kijelölés"
+
+msgid "_Select"
+msgstr "_Kiválasztás"
+
+msgid "Select..."
+msgstr "Kiválasztás…"
+
+msgid "Select All"
+msgstr "Összes kijelölése"
+
+msgid "Select all"
+msgstr "Összes kijelölése"
+
+msgid "&Select All"
+msgstr "Minden kijelölé&se"
+
+msgid "_Select All"
+msgstr "Összes _kijelölése"
+
+msgid "Select &All"
+msgstr "Mind&en kijelölése"
+
+msgid "Select _All"
+msgstr "Ö_sszes kijelölése"
+
+msgid "Select an authentication mode."
+msgstr "Válasszon egy hitelesítési módot."
+
+msgid "Select an image"
+msgstr "Válasszon egy képet"
+
+msgid "Select Color"
+msgstr "Színválasztás"
+
+msgid "Select Directory"
+msgstr "Könyvtár kiválasztása"
+
+msgid "Select File"
+msgstr "Fájl kiválasztása"
+
+msgid "Select file"
+msgstr "Fájl kiválasztása"
+
+msgid "Select Folder"
+msgstr "Mappa kiválasztása"
+
+msgid "Select folder"
+msgstr "Mappa kiválasztása"
+
+msgid "Select Font"
+msgstr "Betűkészlet kiválasztása"
+
+msgid "Select None"
+msgstr "Kijelölés megszüntetése"
+
+msgid "Select Source"
+msgstr "Forrás kiválasztása"
+
+msgid "Selected"
+msgstr "Kiválasztott"
+
+msgid "Selection"
+msgstr "Kijelölés"
+
+msgid "Selections"
+msgstr "Kijelölések"
+
+msgid "Semicolon"
+msgstr "Pontosvessző"
+
+msgid "Send"
+msgstr "Küldés"
+
+msgid "Send an email to %1"
+msgstr "E-mail küldése neki: %1"
+
+msgid "Send File"
+msgstr "Fájl küldése"
+
+msgid "Send to %1"
+msgstr "Küldés ide: %1"
+
+msgid "Sender"
+msgstr "Feladó"
+
+msgid "Senegal"
+msgstr "Szenegál"
+
+msgid "Sensitivity"
+msgstr "Érzékenység"
+
+msgid "Sent"
+msgstr "Elküldött"
+
+msgid "Separator"
+msgstr "Elválasztó"
+
+msgid "September"
+msgstr "szeptember"
+
+msgid "Serbia"
+msgstr "Szerbia"
+
+msgid "Serbian"
+msgstr "Szerb"
+
+msgid "Serial Number"
+msgstr "Sorozatszám"
+
+msgid "Serial number"
+msgstr "Sorozatszám"
+
+msgid "Series"
+msgstr "Sorozat"
+
+msgid "Serif"
+msgstr "Talpas"
+
+msgid "Server"
+msgstr "Kiszolgáló"
+
+msgid "Server URL"
+msgstr "A kiszolgáló címe"
+
+msgid "Service"
+msgstr "Szolgáltatás"
+
+msgid "Services"
+msgstr "Szolgáltatások"
+
+msgid "Session"
+msgstr "Munkamenet"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "Munkamenetek"
+
+msgid "Set"
+msgstr "Beállítás"
+
+msgid "Set as Default"
+msgstr "Beállítás alapértelmezettként"
+
+msgid "Set as default"
+msgstr "Beállítás alapértelmezettként"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "&Settings"
+msgstr "&Beállítások"
+
+msgid "_Settings"
+msgstr "_Beállítások"
+
+msgid "Settings..."
+msgstr "Beállítások..."
+
+msgid "Severity"
+msgstr "Súlyosság"
+
+msgid "Seychelles"
+msgstr "Seychelle-szigetek"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "Árnyékolás"
+
+msgid "Shadow"
+msgstr "Árnyék"
+
+msgid "Shadows"
+msgstr "Árnyékok"
+
+msgid "Shape"
+msgstr "Alakzat"
+
+msgid "Share"
+msgstr "Megosztás"
+
+msgid "Share..."
+msgstr "Megosztás…"
+
+msgid "Shared"
+msgstr "Megosztott"
+
+msgid "Sharing"
+msgstr "Megosztás"
+
+msgid "Sharing failed"
+msgstr "Sikertelen megosztás"
+
+msgid "Sharpen"
+msgstr "Élesítés"
+
+msgid "Sharpness"
+msgstr "Élesség"
+
+msgid "Shear"
+msgstr "Nyírás"
+
+msgid "Shell"
+msgstr "Parancsértelmező"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "Rövid"
+
+msgid "Shortcut"
+msgstr "Gyorsbillentyű"
+
+msgid "Shortcuts"
+msgstr "Gyorsbillentyűk"
+
+msgid "Show"
+msgstr "Megjelenítés"
+
+msgid "Show All"
+msgstr "Összes megjelenítése"
+
+msgid "Show Details"
+msgstr "Részletek megjelenítése"
+
+msgid "Show details"
+msgstr "Részletek megjelenítése"
+
+msgid "Show Grid"
+msgstr "Rács megjelenítése"
+
+msgid "Show grid"
+msgstr "Rács megjelenítése"
+
+msgid "Show Help"
+msgstr "Súgó megjelenítése"
+
+msgid "Show help"
+msgstr "Súgó megjelenítése"
+
+msgid "Show Hidden Files"
+msgstr "Rejtett fájlok megjelenítése"
+
+msgid "Show in folder"
+msgstr "Megjelenítés mappában"
+
+msgid "Show legend"
+msgstr "Jelmagyarázat megjelenítése"
+
+msgid "Show Password"
+msgstr "Jelszó megjelenítése"
+
+msgid "Show Preview"
+msgstr "Előnézet megjelenítése"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr "Gyorsbillentyűk megjelenítése"
+
+msgid "Show Status Bar"
+msgstr "Állapotsor megjelenítése"
+
+msgid "Show St&atusbar"
+msgstr "Áll&apotsor"
+
+msgid "Show the application's version"
+msgstr "Az alkalmazás verziójának megjelenítése"
+
+msgid "Show Toolbar"
+msgstr "Eszköztár megjelenítése"
+
+msgid "Show toolbar"
+msgstr "Eszköztár megjelenítése"
+
+msgid "Show &Toolbar"
+msgstr "Eszköz&tár megjelenítése"
+
+msgid "Shuffle"
+msgstr "Keverés"
+
+msgid "Shut Down"
+msgstr "Leállítás"
+
+msgid "Shutdown"
+msgstr "Leállítás"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Sign"
+msgstr "Aláírás"
+
+msgid "Signal"
+msgstr "Jel"
+
+msgid "Signature"
+msgstr "Aláírás"
+
+msgid "Simple"
+msgstr "Egyszerű"
+
+msgid "Singapore"
+msgstr "Szingapúr"
+
+msgid "Single"
+msgstr "Egyszeres"
+
+msgid "Sinhala"
+msgstr "Szingaléz"
+
+msgid "Size"
+msgstr "Méret"
+
+msgid "size"
+msgstr "méret"
+
+msgid "&Size"
+msgstr "&Méret"
+
+msgid "Size: %1"
+msgstr "Méret: %1"
+
+msgid "Skip"
+msgstr "Kihagyás"
+
+msgid "&Skip"
+msgstr "Ki&hagyás"
+
+msgid "_Skip"
+msgstr "_Kihagyás"
+
+msgid "Skip forward"
+msgstr "Kihagyás előrefelé"
+
+msgid "Sleep"
+msgstr "Alvó állapot"
+
+msgid "Slide"
+msgstr "Dia"
+
+msgid "Slider"
+msgstr "Csúszka"
+
+msgid "Slideshow"
+msgstr "Diavetítés"
+
+msgid "Slovak"
+msgstr "Szlovák"
+
+msgid "Slovenia"
+msgstr "Szlovénia"
+
+msgid "Slovenian"
+msgstr "Szlovén"
+
+msgid "Slow"
+msgstr "Lassú"
+
+msgid "Slower"
+msgstr "Lassabb"
+
+msgid "Small"
+msgstr "Kicsi"
+
+msgid "Smooth"
+msgstr "Sima"
+
+msgid "Smoothing"
+msgstr "Simítás"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Snap"
+
+msgid "Snap to Grid"
+msgstr "Rácshoz illesztés"
+
+msgid "Snow"
+msgstr "Hó"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr "Socks5"
+
+msgid "Software"
+msgstr "Szoftver"
+
+msgid "Solid"
+msgstr "Egyszínű"
+
+msgid "Solid color"
+msgstr "Homogén szín"
+
+msgid "Solomon Islands"
+msgstr "Salamon-szigetek"
+
+msgid "Somalia"
+msgstr "Szomália"
+
+msgid "Sort"
+msgstr "Rendezés"
+
+msgid "Sort By"
+msgstr "Rendezés"
+
+msgid "Sort by"
+msgstr "Rendezés"
+
+msgid "Sorting"
+msgstr "Rendezés"
+
+msgid "Sound"
+msgstr "Hang"
+
+msgid "Soundtrack"
+msgstr "Filmzene"
+
+msgid "Source"
+msgstr "Forrás"
+
+msgid "Sources"
+msgstr "Források"
+
+msgid "South"
+msgstr "Dél"
+
+msgid "South Africa"
+msgstr "Dél-Afrika"
+
+msgid "South European"
+msgstr "Dél-európai"
+
+msgid "Space"
+msgstr "Szóköz"
+
+msgid "Spacing"
+msgstr "Távolság"
+
+msgid "Spain"
+msgstr "Spanyolország"
+
+msgid "Spam"
+msgstr "Levélszemét"
+
+msgid "Spanish"
+msgstr "Spanyol"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "Felolvasás"
+
+msgid "Speak Text"
+msgstr "Szöveg felolvasása"
+
+msgid "Speaker"
+msgstr "Hangszóró"
+
+msgid "Special"
+msgstr "Speciális"
+
+msgid "Special Characters"
+msgstr "Speciális karakterek"
+
+msgid "Specials"
+msgstr "Speciális jelek"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr "A munkamenet-kezelő azonosítójának megadása"
+
+msgid "Speed"
+msgstr "Sebesség"
+
+msgid "Spell Check"
+msgstr "Helyesírás-ellenőrzés"
+
+msgid "Spell Checking"
+msgstr "Helyesírás-ellenőrzés"
+
+msgid "Spelling"
+msgstr "Helyesírás"
+
+msgid "Spiral"
+msgstr "Spirál"
+
+msgid "Split"
+msgstr "Felosztás"
+
+msgid "Split View"
+msgstr "Nézetfelezés"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Spreadsheet"
+msgstr "Munkafüzet"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "Négyzet"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr "„%s::%s” nem érvényes tulajdonságnév, „%s” nem egy GObject résztípus"
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr "Halmozás"
+
+msgid "Stacked"
+msgstr "Halmozott"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Standard deviation"
+msgstr "Standard szórás"
+
+msgid "Star"
+msgstr "Csillag"
+
+msgid "Start"
+msgstr "Indítás"
+
+msgid "&Start"
+msgstr "&Indítás"
+
+msgid "Start a new game"
+msgstr "Új játék indítása"
+
+msgid "Start Date"
+msgstr "Kezdés dátuma"
+
+msgid "Start date"
+msgstr "Kezdődátum"
+
+msgid "Start Presentation"
+msgstr "Bemutató indítása"
+
+msgid "Start Time"
+msgstr "Kezdési idő"
+
+msgid "Started"
+msgstr "Elindítva"
+
+msgid "Starting"
+msgstr "Indítás"
+
+msgid "Starting..."
+msgstr "Indítás…"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "ezzel kezdődik:"
+
+msgid "Startup"
+msgstr "Indulás"
+
+msgid "Stash"
+msgstr "Félretétel"
+
+msgid "State"
+msgstr "Állapot"
+
+msgid "States"
+msgstr "Államok"
+
+msgid "Statistics"
+msgstr "Statisztika"
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "Status: %1"
+msgstr "Állapot: %1"
+
+msgid "Statusbar"
+msgstr "Állapotsor"
+
+msgid "_Statusbar"
+msgstr "Á_llapotsor"
+
+msgid "Step"
+msgstr "Lépés"
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr "Lépések"
+
+msgid "Stereo"
+msgstr "Sztereó"
+
+msgid "Stop"
+msgstr "Leállítás"
+
+msgid "&Stop"
+msgstr "Á&llj"
+
+msgid "_Stop"
+msgstr "_Leállítás"
+
+msgid "S&top"
+msgstr "Leállí&tás"
+
+msgid "Stop Recording"
+msgstr "Felvétel leállítása"
+
+msgid "Stopped"
+msgstr "Leállítva"
+
+msgid "Storage"
+msgstr "Tároló"
+
+msgid "Store"
+msgstr "Tárolás"
+
+msgid "Stream"
+msgstr "Folyam"
+
+msgid "Street"
+msgstr "Utca"
+
+msgid "Strength"
+msgstr "Erősség"
+
+msgid "Stretch"
+msgstr "Nyújtás"
+
+msgid "Strike Out"
+msgstr "Áthúzás"
+
+msgid "Strikethrough"
+msgstr "Áthúzott"
+
+msgid "String"
+msgstr "Karakterlánc"
+
+msgid "string"
+msgstr "karakterlánc"
+
+msgid "Strings"
+msgstr "Sztringek"
+
+msgid "Stroke"
+msgstr "Vonás"
+
+msgid "Strong"
+msgstr "Erős"
+
+msgid "Structure"
+msgstr "Szerkezet"
+
+msgid "Style"
+msgstr "Stílus"
+
+msgid "Subject"
+msgstr "Tárgy"
+
+msgid "Submit"
+msgstr "Elküldés"
+
+msgid "Subscribe"
+msgstr "Feliratkozás"
+
+msgid "Subscript"
+msgstr "Alsó index"
+
+msgid "Subscriptions"
+msgstr "Feliratkozások"
+
+msgid "Subtitle"
+msgstr "Alcím"
+
+msgid "Subtitles"
+msgstr "Feliratok"
+
+msgid "Subtract"
+msgstr "Kivonás"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "Sikeres"
+
+msgid "Sudan"
+msgstr "Szudán"
+
+msgid "Suffix"
+msgstr "Utótag"
+
+msgid "Sum"
+msgstr "Összeg"
+
+msgid "Summary"
+msgstr "Összegzés"
+
+msgid "Sun"
+msgstr "Nap"
+
+msgid "Sundanese"
+msgstr "Sundanese"
+
+msgid "Sunday"
+msgstr "vasárnap"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "Felső index"
+
+msgid "Support"
+msgstr "Támogatás"
+
+msgid "Suriname"
+msgstr "Suriname"
+
+msgid "Surname"
+msgstr "Vezetéknév"
+
+msgid "Suspend"
+msgstr "Felfüggesztés"
+
+msgid "Suspended"
+msgstr "Felfüggesztve"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "Cserefájl"
+
+msgid "Sweden"
+msgstr "Svédország"
+
+msgid "Swedish"
+msgstr "Svéd"
+
+msgid "Switch"
+msgstr "Kapcsoló"
+
+msgid "Switches"
+msgstr "Kapcsolók"
+
+msgid "Switzerland"
+msgstr "Svájc"
+
+msgid "Symbol"
+msgstr "Szimbólum"
+
+msgid "Symbols"
+msgstr "Szimbólumok"
+
+msgid "Sync"
+msgstr "Szinkronizálás"
+
+msgid "Synchronization"
+msgstr "Szinkronizálás"
+
+msgid "Synchronize"
+msgstr "Szinkronizálás"
+
+msgid "Syriac"
+msgstr "Szír"
+
+msgid "System"
+msgstr "Rendszer"
+
+msgid "System Default"
+msgstr "Rendszer alapértelmezése"
+
+msgid "System Settings"
+msgstr "Rendszerbeállítások"
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Table"
+msgstr "Táblázat"
+
+msgid "Table of Contents"
+msgstr "Tartalomjegyzék"
+
+msgid "Tablet"
+msgstr "Rajztábla"
+
+msgid "Tabs"
+msgstr "Lapok"
+
+msgid "Tag"
+msgstr "Címke"
+
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Tagged"
+msgstr "Címke:"
+
+msgid "Tags"
+msgstr "Címkék"
+
+msgid "Taiwan"
+msgstr "Tajvan"
+
+msgid "Tajikistan"
+msgstr "Tádzsikisztán"
+
+msgid "Take Screenshot"
+msgstr "Képernyőkép készítése"
+
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Tango"
+msgstr "Tangó"
+
+msgid "Tanzania"
+msgstr "Tanzánia"
+
+msgid "Target"
+msgstr "Cél"
+
+msgid "Task"
+msgstr "Feladat"
+
+msgid "Tasks"
+msgstr "Feladatok"
+
+msgid "Tatar"
+msgstr "Tatár"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr "Csapat"
+
+msgid "Technology"
+msgstr "Technológia"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Temperature"
+msgstr "Hőmérséklet"
+
+msgid "Template"
+msgstr "Sablon"
+
+msgid "Templates"
+msgstr "Sablonok"
+
+msgid "Tentative"
+msgstr "Nem végleges"
+
+msgid "Terminal"
+msgstr "Terminál"
+
+msgid "Terminal Emulator"
+msgstr "Terminálemulátor"
+
+msgid "Test"
+msgstr "Teszt"
+
+msgid "Testing"
+msgstr "Teszt"
+
+msgid "Text"
+msgstr "Szöveg"
+
+msgid "text"
+msgstr "szöveg"
+
+msgid "_Text"
+msgstr "_Szöveg"
+
+msgid "Text Color"
+msgstr "Szövegszín"
+
+msgid "Text color"
+msgstr "Szövegszín"
+
+msgid "Text Editor"
+msgstr "Szövegszerkesztő"
+
+msgid "Text File"
+msgstr "Szövegfájl"
+
+msgid "Text Files"
+msgstr "Szövegfájlok"
+
+msgid "Text Only"
+msgstr "Csak szöveg"
+
+msgid "Text only"
+msgstr "Csak szöveg"
+
+msgid "Text to search for"
+msgstr "A keresendő szöveg"
+
+msgid "Text Tool"
+msgstr "Szövegeszköz"
+
+msgid "TextLabel"
+msgstr "Szövegcímke"
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "Thailand"
+msgstr "Thaiföld"
+
+msgid "The file %1 does not exist."
+msgstr "A(z) %1 fájl nem létezik."
+
+msgid "The GNOME Project"
+msgstr "A GNOME projekt"
+
+msgid "The graphical theme to be used."
+msgstr "A használni kívánt grafikai téma."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+msgid "The NetworkManager Developers"
+msgstr "A Hálózatkezelő fejlesztői"
+
+msgid "Theme"
+msgstr "Téma"
+
+msgid "Themes"
+msgstr "Témák"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "Hiba történt a dokumentum megosztásakor: %1"
+
+msgid "Thin"
+msgstr "Vékony"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"Teljesen elrejti a menüsávot. Ezzel a paranccsal állítható vissza: %1."
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "Küszöbszint"
+
+msgid "Thumbnail"
+msgstr "Miniatűr"
+
+msgid "Thumbnails"
+msgstr "Bélyegképek"
+
+msgid "Thursday"
+msgstr "Cs"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "Tibeti"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "Csempe"
+
+msgid "Tiled"
+msgstr "Mozaik"
+
+msgid "Tilt"
+msgstr "Döntés"
+
+msgid "Time"
+msgstr "Idő"
+
+msgid "time"
+msgstr "idő"
+
+msgid "Time: %1"
+msgstr "Idő: %1"
+
+msgid "Time and Date"
+msgstr "Dátum és idő"
+
+msgid "Time Zone"
+msgstr "Időzóna"
+
+msgid "Timeline"
+msgstr "Idővonal"
+
+msgid "Timeout"
+msgstr "Időkorlát"
+
+msgid "Timer"
+msgstr "Időzítő"
+
+msgid "Timestamp"
+msgstr "Időbélyeg"
+
+msgid "Timezone"
+msgstr "Időzóna"
+
+msgid "Tiny"
+msgstr "Apró"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "title"
+msgstr "cím"
+
+msgid "&Title"
+msgstr "&Cím"
+
+msgid "_Title"
+msgstr "_Cím"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "Címzett"
+
+msgid "to"
+msgstr "eddig"
+
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+msgid "Today"
+msgstr "Ma"
+
+msgid "today"
+msgstr "ma"
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "Todo"
+msgstr "Teendő"
+
+msgid "Toggle Fullscreen"
+msgstr "Teljes képernyő be- és kikapcsolása"
+
+msgid "Toggle Sidebar"
+msgstr "Oldalsáv be- vagy kikapcsolása"
+
+msgid "Toggle sidebar"
+msgstr "Oldalsáv be/ki"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Tolerance"
+msgstr "Tűréshatár"
+
+msgid "Tomorrow"
+msgstr "Holnap"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Tool"
+msgstr "Eszköz"
+
+msgid "Tool Options"
+msgstr "Eszközbeállítások"
+
+msgid "_Toolbar"
+msgstr "Eszköz_tár"
+
+msgid "T_oolbar"
+msgstr "Esz_köztár"
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "Eszköztár"
+
+msgid "Tools"
+msgstr "Eszközök"
+
+msgid "&Tools"
+msgstr "&Eszközök"
+
+msgid "_Tools"
+msgstr "_Eszközök"
+
+msgid "Top"
+msgstr "Fent"
+
+msgid "_Top"
+msgstr "_Fent"
+
+msgid "Top Left"
+msgstr "Balra fent"
+
+msgid "Top left"
+msgstr "Bal felső"
+
+msgid "Top Right"
+msgstr "Jobbra fent"
+
+msgid "Top right"
+msgstr "Jobb felső"
+
+msgid "Topic"
+msgstr "Téma"
+
+msgid "Top-left"
+msgstr "Balra fent"
+
+msgid "Top-right"
+msgstr "Jobbra fent"
+
+msgid "Total"
+msgstr "Összesen"
+
+msgid "Track"
+msgstr "Szám"
+
+msgid "Track Number"
+msgstr "Sorszám"
+
+msgid "Tracker"
+msgstr "Követő"
+
+msgid "Tracks"
+msgstr "Számok"
+
+msgid "Traditional"
+msgstr "Hagyományos"
+
+msgid "Transfer"
+msgstr "Átutalás"
+
+msgid "Transform"
+msgstr "Átalakítás"
+
+msgid "Transformation"
+msgstr "Átalakítás"
+
+msgid "Translate"
+msgstr "Eltolás"
+
+msgid "Translation"
+msgstr "Fordítás"
+
+msgid "Translator"
+msgstr "Fordító"
+
+msgid "translator-credits"
+msgstr ""
+"Meskó Balázs <mesko dot balazs at fsf dot hu>\n"
+"Úr Balázs <ur dot balazs at fsf dot hu>"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "Fordítók"
+
+msgid "Transparency"
+msgstr "Átlátszóság"
+
+msgid "Transparent"
+msgstr "Átlátszó"
+
+msgid "Transport"
+msgstr "Közlekedés"
+
+msgid "Transpose"
+msgstr "Felcserélés"
+
+msgid "Trash"
+msgstr "Kuka"
+
+msgid "Travel"
+msgstr "Utazás"
+
+msgid "Tree"
+msgstr "Fa"
+
+msgid "Tree View"
+msgstr "Fastruktúra-nézet"
+
+msgid "Triangle"
+msgstr "Háromszög"
+
+msgid "True"
+msgstr "Igaz"
+
+msgid "true"
+msgstr "igaz"
+
+msgid "Trusted"
+msgstr "Megbízható"
+
+msgid "Try a different search"
+msgstr "Próbáljon egy másik keresést"
+
+msgid "Try Again"
+msgstr "Próbálja újra"
+
+msgid "Tuesday"
+msgstr "K"
+
+msgid "Tunisia"
+msgstr "Tunézia"
+
+msgid "Turkey"
+msgstr "Törökország"
+
+msgid "Turkish"
+msgstr "Török"
+
+msgid "Turkmenistan"
+msgstr "Türkmenisztán"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "TYPE"
+msgstr "TÍPUS"
+
+msgid "Type"
+msgstr "Típus"
+
+msgid "type"
+msgstr "típus"
+
+msgid "&Type"
+msgstr "&Típus"
+
+msgid "Type: %1"
+msgstr "Típus: %1"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ukraine"
+msgstr "Ukrajna"
+
+msgid "Ukrainian"
+msgstr "Ukrán"
+
+msgid "Unable to create a temporary file."
+msgstr "Nem lehet létrehozni egy ideiglenes fájlt."
+
+msgid "unable to get editor plugin name: %s"
+msgstr "nem kérdezhető le a szerkesztőbővítmény neve: %s"
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+"nem állítható be „%2$s” típusú „%1$s” tulajdonság „%3$s” típusú értékre"
+
+msgid "Unavailable"
+msgstr "Nem érhető el"
+
+msgid "Undefined"
+msgstr "Nem definiált"
+
+msgid "Underline"
+msgstr "Aláhúzott"
+
+msgid "&Underline"
+msgstr "&Aláhúzott"
+
+msgid "_Underline"
+msgstr "_Aláhúzott"
+
+msgid "Undo"
+msgstr "Visszavonás"
+
+msgid "&Undo"
+msgstr "&Visszavonás"
+
+msgid "_Undo"
+msgstr "_Visszavonás"
+
+msgid "Undo %1"
+msgstr "%1 visszavonása"
+
+msgid "Undo History"
+msgstr "Visszavonási előzmények"
+
+msgid "UnFav it"
+msgstr "Nem kedvenc"
+
+msgid "unhandled property “%s” type %s"
+msgstr "kezeletlen %2$s típusú érték: „%1$s”"
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Uniform"
+msgstr "Egységes"
+
+msgid "Union"
+msgstr "Unió"
+
+msgid "Unit"
+msgstr "Egység"
+
+msgid "United Arab Emirates"
+msgstr "Egyesült Arab Emirátusok"
+
+msgid "United Kingdom"
+msgstr "Egyesült Királyság"
+
+msgid "United States"
+msgstr "Egyesült Államok"
+
+msgid "United States Minor Outlying Islands"
+msgstr "Egyesült Államok külső szigetei"
+
+msgid "Units"
+msgstr "Mértékegységek"
+
+msgid "University"
+msgstr "Egyetem"
+
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+msgid "unknown"
+msgstr "ismeretlen"
+
+msgid "(unknown)"
+msgstr "(ismeretlen)"
+
+msgid "Unknown Error"
+msgstr "Ismeretlen hiba"
+
+msgid "Unknown error"
+msgstr "Ismeretlen hiba"
+
+msgid "Unknown error."
+msgstr "Ismeretlen hiba."
+
+msgid "unknown error creating editor instance"
+msgstr "ismeretlen hiba a szerkesztő példány létrehozásakor"
+
+msgid "Unknown file type"
+msgstr "Ismeretlen fájltípus"
+
+msgid "Unlimited"
+msgstr "Korlátlan"
+
+msgid "unlimited"
+msgstr "korlátlan"
+
+msgid "Unlock"
+msgstr "Feloldás"
+
+msgid "_Unlock"
+msgstr "_Feloldás"
+
+msgid "Unmount"
+msgstr "Leválasztás"
+
+msgid "Unmute"
+msgstr "Visszahangosítás"
+
+msgid "Unnamed"
+msgstr "Névtelen"
+
+msgid "unnamed"
+msgstr "névtelen"
+
+msgid "Unread"
+msgstr "Olvasatlan"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "Nem mentett változtatások"
+
+msgid "Unselect All"
+msgstr "Kijelölés megszüntetése"
+
+msgid "Unselect all"
+msgstr "Kijelölés megszüntetése"
+
+msgid "Unspecified"
+msgstr "Nincs megadva"
+
+msgid "Untitled"
+msgstr "Névtelen"
+
+msgid "untitled"
+msgstr "névtelen"
+
+msgid "Unused"
+msgstr "Nem használt"
+
+msgid "Up"
+msgstr "Fel"
+
+msgid "&Up"
+msgstr "&Fel"
+
+msgid "Update"
+msgstr "Frissítés"
+
+msgid "&Update"
+msgstr "&Frissítés"
+
+msgid "_Update"
+msgstr "_Frissítés"
+
+msgid "Updates"
+msgstr "Frissítések"
+
+msgid "Updating"
+msgstr "Frissítés"
+
+msgid "Updating..."
+msgstr "Frissítés…"
+
+msgid "Upload"
+msgstr "Feltöltés"
+
+msgid "_Upload"
+msgstr "_Feltöltés"
+
+msgid "Uploaded"
+msgstr "Feltöltve"
+
+msgid "Upper"
+msgstr "Nagybetűs"
+
+msgid "Uppercase"
+msgstr "Nagybetű"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "Usage"
+msgstr "Használat"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "Használat"
+
+msgid "Used"
+msgstr "Használt"
+
+msgid "User"
+msgstr "Felhasználó"
+
+msgid "User Certificate"
+msgstr "Felhasználói tanúsítvány"
+
+msgid "User Defined"
+msgstr "Felhasználó által megadott"
+
+msgid "User Feedback"
+msgstr "Felhasználói visszajelzés"
+
+msgid "User ID"
+msgstr "Felhasználóazonosító"
+
+msgid "User Interface"
+msgstr "Felhasználói felület"
+
+msgid "User name"
+msgstr "Felhasználónév"
+
+msgid "User Password"
+msgstr "Felhasználó jelszava"
+
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgid "_Username"
+msgstr "_Felhasználónév"
+
+msgid "Users"
+msgstr "Felhasználók"
+
+msgid "Utilities"
+msgstr "Segédprogramok"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "Üzbegisztán"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr "%v%"
+
+msgid "Valid"
+msgstr "Érvényes"
+
+msgid "Valid from"
+msgstr "Mikortól érvényes"
+
+msgid "Validity"
+msgstr "Érvényesség"
+
+msgid "Value"
+msgstr "Érték"
+
+msgid "value"
+msgstr "érték"
+
+msgid "&Value"
+msgstr "&Érték"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+"a(z) „%2$s” típusú „%1$s” érték érvénytelen vagy kívül esik a tartományon "
+"„%4$s” típusú „%3$s” tulajdonsághoz"
+
+msgid "Values"
+msgstr "Értékek"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Variable"
+msgstr "Változó"
+
+msgid "Variables"
+msgstr "Változók"
+
+msgid "Variance"
+msgstr "Variancia"
+
+msgid "Vector"
+msgstr "Vektor"
+
+msgid "Velocity"
+msgstr "Sebesség"
+
+msgid "Vendor"
+msgstr "Gyártó"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Verb"
+msgstr "Ige"
+
+msgid "Verify"
+msgstr "Ellenőrzés"
+
+msgid "Version"
+msgstr "Verzió"
+
+msgid "Version %1"
+msgstr "%1 verzió"
+
+msgid "Vertical"
+msgstr "Függőleges"
+
+msgid "Very Large"
+msgstr "Nagyon nagy"
+
+msgid "Video"
+msgstr "Videó"
+
+msgid "Video CD"
+msgstr "Video CD"
+
+msgid "Video Codec"
+msgstr "Videokodek"
+
+msgid "Video Files"
+msgstr "Videófájlok"
+
+msgid "Videos"
+msgstr "Videók"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Vietnamese"
+msgstr "Vietnami"
+
+msgid "View"
+msgstr "Nézet"
+
+msgid "&View"
+msgstr "Né&zet"
+
+msgid "_View"
+msgstr "_Nézet"
+
+msgid "View Options"
+msgstr "Nézetbeállítások"
+
+msgid "View Settings"
+msgstr "A beállítások megtekintése"
+
+msgid "Viewer"
+msgstr "Megjelenítő"
+
+msgid "Views"
+msgstr "Nézetek"
+
+msgid "Virtual"
+msgstr "Virtuális"
+
+msgid "Virtual Keyboard"
+msgstr "Virtuális billentyűzet"
+
+msgid "Visibility"
+msgstr "Láthatóság"
+
+msgid "Visible"
+msgstr "Látható"
+
+msgid "Voltage"
+msgstr "Feszültség"
+
+msgid "Volume"
+msgstr "Hangerő"
+
+msgid "Volume Down"
+msgstr "Hangerő le"
+
+msgid "Volume Up"
+msgstr "Hangerő fel"
+
+msgid "W"
+msgstr "W"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "Várakozás"
+
+msgid "Wallpaper"
+msgstr "Háttérkép"
+
+msgid "Wallpaper type"
+msgstr "Háttérkép típus"
+
+msgid "WARNING"
+msgstr "FIGYELMEZTETÉS"
+
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+msgid "warning"
+msgstr "figyelmeztetés"
+
+msgid "Warnings"
+msgstr "Figyelmeztetések"
+
+msgid "Water"
+msgstr "Víz"
+
+msgid "Wave"
+msgstr "Hullám"
+
+msgid "Weak"
+msgstr "Gyenge"
+
+msgid "Weather"
+msgstr "Időjárás"
+
+msgid "Web Browser"
+msgstr "Webböngésző"
+
+msgid "Web browser"
+msgstr "Webböngésző"
+
+msgid "Website"
+msgstr "Weboldal"
+
+msgid "Wednesday"
+msgstr "Sze"
+
+msgid "Week"
+msgstr "Hét"
+
+msgid "Week View"
+msgstr "Heti nézet"
+
+msgid "Weekly"
+msgstr "Hetente"
+
+msgid "Weeks"
+msgstr "hét"
+
+msgid "weeks"
+msgstr "hét"
+
+msgid "Weight"
+msgstr "Súly"
+
+msgid "Welcome"
+msgstr "Üdvözöljük"
+
+msgid "Welsh"
+msgstr "Walesi"
+
+msgid "West"
+msgstr "Nyugat"
+
+msgid "Western"
+msgstr "Nyugati"
+
+msgid "Western Sahara"
+msgstr "Nyugat-Szahara"
+
+msgid "What's new"
+msgstr "Újdonságok"
+
+msgid "Wheel"
+msgstr "Görgő"
+
+msgid "Whether sound effects should be played."
+msgstr "A hanghatások bekapcsolása."
+
+msgid "White"
+msgstr "Fehér"
+
+msgid "white"
+msgstr "fehér"
+
+msgid "White Balance"
+msgstr "Fehéregyensúly"
+
+msgid "Wide"
+msgstr "Széles"
+
+msgid "Widgets"
+msgstr "Elemek"
+
+msgid "Width"
+msgstr "Szélesség"
+
+msgid "&Width"
+msgstr "&Szélesség"
+
+msgid "_Width"
+msgstr "_Szélesség"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Wikipedia"
+msgstr "Wikipédia"
+
+msgid "Window"
+msgstr "Ablak"
+
+msgid "&Window"
+msgstr "&Ablak"
+
+msgid "&Window Color Scheme"
+msgstr "&Ablak színsémája"
+
+msgid "Window height"
+msgstr "Ablakmagasság"
+
+msgid "Window Management"
+msgstr "Ablakkezelés"
+
+msgid "Window maximized"
+msgstr "Teljes méretű ablak"
+
+msgid "Window size"
+msgstr "Ablakméret"
+
+msgid "Window Title"
+msgstr "Ablakcím"
+
+msgid "Window width"
+msgstr "Ablakszélesség"
+
+msgid "Windows"
+msgstr "Ablakok"
+
+msgid "_Windows"
+msgstr "_Ablakok"
+
+msgid "with"
+msgstr "erre:"
+
+msgid "Word"
+msgstr "Szavanként"
+
+msgid "Word Count"
+msgstr "Szavak száma"
+
+msgid "Words"
+msgstr "Szavak"
+
+msgid "Work"
+msgstr "Munkahelyi"
+
+msgid "World"
+msgstr "Világ"
+
+msgid "Wrap"
+msgstr "Tördelés"
+
+msgid "_Wrap around"
+msgstr "Kö_rbe"
+
+msgid "Wrap Text"
+msgstr "Szöveg tördelése"
+
+msgid "Write"
+msgstr "Írás"
+
+msgid "Writing"
+msgstr "Írás"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "Év"
+
+msgid "Yearly"
+msgstr "Évente"
+
+msgid "Years"
+msgstr "Év"
+
+msgid "years"
+msgstr "év"
+
+msgid "Yellow"
+msgstr "Sárga"
+
+msgid "yellow"
+msgstr "sárga"
+
+msgid "Yemen"
+msgstr "Jemen"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "yes"
+msgstr "igen"
+
+msgid "_Yes"
+msgstr "_Igen"
+
+msgid "Yesterday"
+msgstr "Tegnap"
+
+msgid "Yiddish"
+msgstr "Jiddis"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr "Hitelesítenie kell magát a(z) „%s” virtuális magánhálózat eléréséhez."
+
+msgid "Yukon"
+msgstr "Yukon"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "Zambia"
+
+msgid "Zero"
+msgstr "Nulla"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Zoom"
+msgstr "Nagyítás"
+
+msgid "&Zoom"
+msgstr "Na&gyítás"
+
+msgid "_Zoom"
+msgstr "_Nagyítás"
+
+msgid "Zoom In"
+msgstr "Nagyítás"
+
+msgid "Zoom in"
+msgstr "Nagyítás"
+
+msgid "Zoom &In"
+msgstr "N&agyítás"
+
+msgid "Zoom _In"
+msgstr "_Nagyítás"
+
+msgid "Zoom Out"
+msgstr "Kicsinyítés"
+
+msgid "Zoom out"
+msgstr "Kicsinyítés"
+
+msgid "Zoom &Out"
+msgstr "K&icsinyítés"
+
+msgid "Zoom _Out"
+msgstr "_Kicsinyítés"
+
+msgid "Zoom to Fit"
+msgstr "Mérethez igazítás"

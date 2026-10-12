@@ -7,1370 +7,9451 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "סרגל כלים ראשי"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "כללי"
+msgid "#"
+msgstr "מס׳"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "הסר"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "בטל"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "&קובץ"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "מחק"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "ללא"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "שם"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "מתחזק"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "שם:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "&עריכה"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "&הגדרות"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "שגיאה"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "&תצוגה"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "הוסף"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "סיסמה:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "מפתח"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "כותב"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "סגור"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "אפשרויות"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "הגדרות"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "לא ידוע"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "&כלים"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "סוג"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "&מחק"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "עריכה"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "שמור"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "תיאור"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "תיאור:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "תאריך"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "קובץ"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "תצוגה מקדימה"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "הגדר"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "מראה"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "מאפיינים"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "סוג:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "גודל"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "&הסר"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "חפש"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "ברירת מחדל"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "שם משתמש:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&עזרה"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "העתק"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "עצור"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "תצוגה"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "אזהרה"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "רגיל"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "שנה שם"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "כן"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "מתקדם"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "לא"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "מצב"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "טקסט"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "ערך"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "צבעים"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "דו-שיח"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "כותרת"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "כותב מקורי"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "חיפוש…"
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "הוסף..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "מידע"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "זמן"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "הערה"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "גובה:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "שמאל"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "חדש"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "פתח"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "גודל:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "רוחב:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "יציאה:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "ימין"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "שמירה בשם"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "כותרת:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&ייצא"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "אוטומטי"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "ניקוי"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "צור"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "ייצוא"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "עזרה"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "אישור"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "&שם:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "אימות"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "פרטים"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "מסנן"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "התעלם"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "תמונה"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "מיקום:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "רענן"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "הכל"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "מרכז"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "מותאם אישית"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "גופן"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "הוסף"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "אף פעם"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "כלים"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "בטל"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "ללא שם"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "&עבור"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "עריכה..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "מאופשר"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "ייבא"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "מיקום"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "הזז למטה"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "הזז מעלה"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "בחר הכל"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "עדכן"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "&הוסף"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "על אודות"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "הערה:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "הגדרות..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "שם הקובץ:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "הגדרות כלליות"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "הבא"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "אחר"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "בחר"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "למעלה"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "אנכי"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "&סגור"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "מחבר:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "אפשר"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "אופקי"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "ייבא..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "בצע שוב"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "דחה"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "החלף"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "&ערוך..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "פעולות"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "תמיד"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "סימניות"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "תאריך:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "ייצא..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "מידע"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "מספר"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "כותב מקורי"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "נגן"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "טען מחדש"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "התחל"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "תגיות"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "ערכת נושא"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "אל:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "&חדש"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "אשר"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "רקע"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "צבע:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "פקודה"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "מבוטל"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "הושלם"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "גופנים"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "מאת:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "שורה"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "שונות"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "רשת"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "הדבק"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "הפסק"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "מיקום"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "לא ידוע"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "הגדרות"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " אלפיות שנייה"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "החל"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "אוטומטי"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "למטה"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "עמודות"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "הורדה"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "עורך"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "גופן:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "אתחול"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "מאת"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "שפה"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "שונות"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "פתח קובץ"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "סיסמה"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "מוכן"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "אפס"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "נושא"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "ל"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "הגדלה"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "&בטל"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "חשבון:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "כל הקבצים"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "שחור"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "מודגש"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "המשך"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "מידע"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "יעד"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "דוא\"ל:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "תיקיה"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "קבוצה"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "סמל:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "נטוי"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "פריסה"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "בינוני"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "הודעה"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "תוספים"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "הקודם"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "אדום"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "שמור בשם..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "מקור"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "מצב"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "שגיאה לא ידועה"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "למעלה"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "רוחב"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "שם"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "&הוספה..."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "&שמור"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "יישומים"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "חזור"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "התנהגות"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "תלוי רישיות"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "העתק ללוח-עריכה"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "מתחזק נוכחי"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "דיבאג"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "תבנית:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "אורך"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "ידנית"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "מצב"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "פלט"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "נתיב:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "מיקום:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "בחירה"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "שתף"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "סגנון"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "התקרב(הגדל זום)"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "התרחק(הקטן זום)"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "&משחק"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "&יבוא"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&חיפוש"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "כחול"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "צבע"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "התחבר"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "ארץ"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "תיעוד"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "למטה"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "דוא\"ל"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "שם קובץ"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "תיקיות"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "ירוק"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "תמונות"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "תווית"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "נמוך"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "חודש"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "השתק"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "יציאה"
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "מצב:"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "תג"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "תווית טקסט"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "שנה"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "לא"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "כן"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " פיקסלים"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "&סימניות"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "&כללי"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "&חדש..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "&פתח"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "&עצור"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "העדפות חשבון"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "פעולה"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "צבע רקע"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "קטגוריות"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "קטגוריה"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "קטגוריה:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "הסתר הכל"
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "הרחב הכל"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "שם קובץ"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "מסנן:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "גאומטריה"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "גובה"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "סמלים"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "מפתח"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "שורות"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "רשימה"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "טוען..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "חודשים"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "הזז"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "כינוי:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "הערה"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "פתח תיקיה מכילה"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "לשכתב את הקובץ?"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "הפעל מחדש"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "הרץ"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "חיפוש:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "שלח"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "שרת:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "מהירות"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "כתובת"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "כתובת:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "משתמש:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "דקות"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "שגיאה"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "&העתק"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
-msgid "Abort"
-msgstr "בטל עבודה"
+msgid "?"
+msgstr "?"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "…"
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " וגם "
+
+msgid " (default)"
+msgstr " (ברירת מחדל)"
+
+msgid "© KDE Community"
+msgstr "© קהילת KDE"
+
+msgid " MB"
+msgstr " מ״ב"
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " דק׳"
+
+msgid " minutes"
+msgstr " דקות"
+
+msgid " ms"
+msgstr " מ״ש"
+
+msgid " px"
+msgstr " פיקסלים"
+
+msgid " s"
+msgstr " שנ׳"
+
+msgid " sec"
+msgstr " שנ׳"
+
+msgid " seconds"
+msgstr " שניות"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 %"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 ו־%2"
+
+msgid "%1 bytes"
+msgstr "%1 בתים"
+
+msgid "1 day"
+msgstr "יום"
+
+msgid "%1 does not exist"
+msgstr "%1 לא קיים"
+
+msgid "%1 free"
+msgstr "%1 פנויים"
+
+msgid "1 hour"
+msgstr "שעה"
+
+msgid "%1 Hz"
+msgstr "%1 הרץ"
+
+msgid "%1 MB"
+msgstr "%1 מ״ב"
+
+msgid "%1 ms"
+msgstr "%1 מ״ש"
+
+msgid "%1 of %2"
+msgstr "%1 מתוך %2"
+
+msgid "%1 on %2"
+msgstr "%1 על גבי %2"
+
+msgid "%1 s"
+msgstr "%1 שנ׳"
+
+msgid "%1 seconds"
+msgstr "%1 שניות"
+
+msgid "%1 to %2"
+msgstr "%1 אל %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 דקות"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "128 סיביות"
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 דקות"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1 דק׳"
+
+msgid "%1/s"
+msgstr "%1 לשנייה"
+
+msgid "1st"
+msgstr "הראשון"
+
+msgid "%1x%2"
+msgstr "%1×%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "2nd"
+msgstr "השני"
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "חצי שעה"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "השלישי"
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "הרביעי"
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 דקות"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr "החמישי"
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "א"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "כבר קיים קובץ בשם „%1”. לשכתב אותו?"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "Abort"
+msgstr "ביטול גורף"
+
+msgid "&Abort"
+msgstr "ביטול &גורף"
+
+msgid "Aborted"
+msgstr "בוטל באופן גורף"
+
+msgid "About"
+msgstr "על אודות"
+
+msgid "&About"
+msgstr "על &אודות"
+
+msgid "_About"
+msgstr "על _אודות"
+
+msgid "About %1"
+msgstr "על %1"
+
+msgid "About KDE"
+msgstr "על KDE"
+
+msgid "Abstract"
+msgstr "מופשט"
+
+msgid "Accept"
+msgstr "קבלה"
+
+msgid "Accepted"
+msgstr "התקבל"
+
+msgid "Accessed"
+msgstr "מועד גישה"
+
+msgid "Accessibility"
+msgstr "נגישות"
+
+msgid "Account"
+msgstr "חשבון"
+
+msgid "Account Details"
+msgstr "פרטי חשבון"
+
+msgid "Account Information"
+msgstr "פרטי החשבון"
+
+msgid "Account Name"
+msgstr "שם חשבון"
+
+msgid "Accounts"
+msgstr "חשבונות"
+
+msgid "Accuracy"
+msgstr "דיוק"
+
+msgid "Action"
+msgstr "פעולה"
+
+msgid "Actions"
+msgstr "פעולות"
+
+msgid "Activate"
+msgstr "הפעלה"
+
+msgid "Active"
+msgstr "פעיל"
+
+msgid "Activities"
+msgstr "פעילויות"
+
+msgid "Activity"
+msgstr "פעילות"
+
+msgid "Adaptive"
+msgstr "מסתגל"
+
+msgid "Add"
+msgstr "הוספה"
+
+msgid "&Add"
+msgstr "הו&ספה"
+
+msgid "_Add"
+msgstr "_הוספה"
+
+msgid "Add..."
+msgstr "הוספה…"
+
+msgid "&Add..."
+msgstr "הו&ספה…"
+
+msgid "A&dd..."
+msgstr "הו&ספה…"
+
+msgid "Add Account"
+msgstr "הוספת חשבון"
+
+msgid "Add Bookmark"
+msgstr "הוספת סימנייה"
+
+msgid "_Add Bookmark"
+msgstr ""
+
+msgid "Add Filter"
+msgstr "הוספת מסנן"
+
+msgid "Add Folder"
+msgstr "הוספת תיקייה"
+
+msgid "Add Folder..."
+msgstr "הוספת תיקייה…"
+
+msgid "Add Group"
+msgstr "הוספת קבוצה"
+
+msgid "Add New"
+msgstr "הוספת חדש"
+
+msgid "Add Rule..."
+msgstr "הוספת כלל…"
+
+msgid "Add Tag"
+msgstr "הוספת תגית"
+
+msgid "Add tag"
+msgstr "הוספת תגית"
+
+msgid "Add to Dictionary"
+msgstr "הוספה למילון"
+
+msgid "Add to Favorites"
+msgstr "הוספה למועדפים"
+
+msgid "Added"
+msgstr "נוסף"
+
+msgid "Addition"
+msgstr "תוספת"
+
+msgid "Additional Information"
+msgstr "מידע נוסף"
+
+msgid "Address"
+msgstr "כתובת"
+
+msgid "Address Book"
+msgstr "פנקס כתובות"
+
+msgid "Addresses"
+msgstr "כתובות"
+
+msgid "Adjust"
+msgstr "כוונון"
+
+msgid "Advanced"
+msgstr "מתקדם"
+
+msgid "Advanced..."
+msgstr "מתקדם…"
+
+msgid "Ad_vanced..."
+msgstr "מ_תקדם..."
+
+msgid "Advanced options"
 msgstr "אפשרויות מתקדמות"
 
-#. Occurs in 10 KDE PO files
+msgid "Advanced Properties"
+msgstr "מאפיינים מתקדמים"
+
+msgid "Advanced Settings"
+msgstr "הגדרות מתקדמות"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "אפגניסטן"
+
+msgid "Africa"
+msgstr "אפריקה"
+
+msgid "Afrikaans"
+msgstr "אפריקאנס"
+
+msgid "After"
+msgstr "אחרי"
+
+msgid "Agenda"
+msgstr "סדר יום"
+
+msgid "Alarm"
+msgstr "התראה"
+
+msgid "Alarms"
+msgstr "התראות"
+
+msgid "Albania"
+msgstr "אלבניה"
+
+msgid "Albanian"
+msgstr "אלבנית"
+
+msgid "Albert Vaca Cintora"
+msgstr "אלברט ואקה סינטורה"
+
 msgid "Album"
-msgstr "אוסף-תמונות"
+msgstr "אלבום"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "Album Artist"
+msgstr "אומן/ית האלבום"
 
-#. Occurs in 10 KDE PO files
+msgid "Albums"
+msgstr "אלבומים"
+
+msgid "Alert"
+msgstr "אזהרה"
+
+msgid "Alexander Neundorf"
+msgstr "אלכסנדר נוינדורף"
+
+msgid "Algeria"
+msgstr "אלג׳יריה"
+
+msgid "Algorithm"
+msgstr "אלגוריתם"
+
+msgid "Alias"
+msgstr "כינוי"
+
+msgid "Aliases"
+msgstr "כינויים"
+
+msgid "Align"
+msgstr "יישור"
+
+msgid "Align Bottom"
+msgstr "יישור למטה"
+
+msgid "Align Center"
+msgstr "יישור למרכז"
+
+msgid "Align Left"
+msgstr "יישור שמאלה"
+
+msgid "Align left"
+msgstr "יישור לשמאל"
+
+msgid "Align Right"
+msgstr "יישור ימינה"
+
+msgid "Align right"
+msgstr "יישור לימין"
+
+msgid "Align Top"
+msgstr "יישור למעלה"
+
+msgid "Alignment"
+msgstr "יישור"
+
+msgid "All"
+msgstr "הכול"
+
+msgid "all"
+msgstr "הכול"
+
+msgid "_All"
+msgstr "_הכול"
+
+msgid "All Files"
+msgstr "כל הקבצים"
+
+msgid "All files"
+msgstr "כל הקבצים"
+
+msgid "All Files (*)"
+msgstr "כל הקבצים (*)"
+
+msgid "All files (*)"
+msgstr "כל הקבצים (*)"
+
+msgid "All Supported Files"
+msgstr "כל הקבצים הנתמכים"
+
+msgid "Allen Winter"
+msgstr "אלן וינטר"
+
+msgid "Allow"
+msgstr "לאפשר"
+
+msgid "Allow Deflate compression"
+msgstr "לאפשר דחיסת Deflate"
+
+msgid "Alpha"
+msgstr "שקיפות"
+
+msgid "Alphabetically"
+msgstr "לפי האלפבית"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "חלופה"
+
+msgid "Always"
+msgstr "תמיד"
+
+msgid "Always ask"
+msgstr "תמיד לשאול"
+
+msgid "Always visible"
+msgstr "גלוי תמיד"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Ambient"
+msgstr "אמביאנט"
+
+msgid "Amount"
+msgstr "כמות"
+
+msgid "An error occurred"
+msgstr "אירעה שגיאה"
+
+msgid "An unknown error occurred."
+msgstr "אירעה שגיאה לא ידועה."
+
+msgid "Analysis"
+msgstr "ניתוח"
+
+msgid "Anchor"
+msgstr "עוגן"
+
+msgid "AND"
+msgstr "וגם"
+
+msgid "and"
+msgstr "וגם"
+
+msgid "Andorra"
+msgstr "אנדורה"
+
+msgid "Andrius Štikonas"
+msgstr "אנדריוס שטיקונאס"
+
+msgid "Angle"
+msgstr "זווית"
+
+msgid "angle"
+msgstr "זווית"
+
+msgid "Angola"
+msgstr "אנגולה"
+
+msgid "Animation"
+msgstr "הנפשה"
+
+msgid "Animations"
+msgstr "הנפשות"
+
+msgid "Anniversary"
+msgstr "יום נישואין"
+
+msgid "Annotate"
+msgstr "פירוש"
+
+msgid "Annotation"
+msgstr "פירוש"
+
+msgid "Annotations"
+msgstr "פירושים"
+
+msgid "Anonymous"
+msgstr "אלמוני"
+
+msgid "Antarctica"
+msgstr "אנטארקטיקה"
+
+msgid "Any"
+msgstr "כלשהו"
+
+msgid "Aperture"
+msgstr "מפתח"
+
+msgid "Appearance"
+msgstr "מראה"
+
+msgid "Append"
+msgstr "הוספה לסוף"
+
+msgid "AppImage"
+msgstr "AppImage"
+
+msgid "Application"
+msgstr "יישום"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "תפריט יישום"
+
+msgid "Applications"
+msgstr "יישומים"
+
+msgid "Apply"
+msgstr "החלה"
+
+msgid "&Apply"
+msgstr "ה&חלה"
+
+msgid "_Apply"
+msgstr "ה_חלה"
+
+msgid "Apply Settings"
+msgstr "החלת הגדרות"
+
+msgid "April"
+msgstr "אפריל"
+
+msgid "Arabic"
+msgstr "ערבית"
+
+msgid "Archive"
+msgstr "ארכיון"
+
+msgid "Archives"
+msgstr "ארכיונים"
+
+msgid "Area"
+msgstr "שטח"
+
+msgid "Argentina"
+msgstr "ארגנטינה"
+
+msgid "Arguments"
+msgstr "ארגומנטים"
+
+msgid "Armenia"
+msgstr "ארמניה"
+
+msgid "Armenian"
+msgstr "ארמנית"
+
+msgid "Arrow"
+msgstr "חץ"
+
+msgid "Arrows"
+msgstr "חיצים"
+
+msgid "Articles"
+msgstr "כתבות"
+
+msgid "Artist"
+msgstr "אומן/נית"
+
+msgid "Artists"
+msgstr "אומנים"
+
+msgid "Artwork"
+msgstr "יצירת אומנות"
+
+msgid "Ascending"
+msgstr "עולה"
+
+msgid "Asia"
+msgstr "אסיה"
+
+msgid "Ask"
+msgstr "לשאול"
+
+msgid "Aspect Ratio"
+msgstr "יחס גובה־רוחב"
+
+msgid "Aspect ratio"
+msgstr "יחס גובה־רוחב"
+
+msgid "Assamese"
+msgstr "אסאמית"
+
+msgid "Assign Tags"
+msgstr "הקצאת תגיות"
+
+msgid "Assistant"
+msgstr "עוזר"
+
+msgid "ATM"
+msgstr "כספומט"
+
+msgid "Attach"
+msgstr "צירוף"
+
+msgid "Attach File"
+msgstr "צירוף קובץ"
+
+msgid "Attachment"
+msgstr "צרופה"
+
+msgid "Attachments"
+msgstr "צרופות"
+
+msgid "Attendees"
+msgstr "משתתפים"
+
+msgid "Attribute"
+msgstr "מאפיין"
+
+msgid "Attributes"
+msgstr "מאפיינים"
+
+msgid "Audio"
+msgstr "שמע"
+
+msgid "Audio CD"
+msgstr "תקליטור שמע"
+
+msgid "Audio Codec"
+msgstr "מפענח שמע"
+
+msgid "Audio files"
+msgstr "קובצי שמע"
+
+msgid "August"
+msgstr "אוגוסט"
+
+msgid "Australia"
+msgstr "אוסטרליה"
+
+msgid "Austria"
+msgstr "אוסטריה"
+
+msgid "Authenticate"
+msgstr "אימות"
+
+msgid "Authenticate VPN"
+msgstr "אימות מול ה־VPN"
+
+msgid "Authentication"
+msgstr "אימות"
+
+msgid "Authentication Required"
+msgstr "נדרש אימות"
+
+msgid "Author"
+msgstr "יוצר"
+
+msgid "Authors"
+msgstr "יוצרים"
+
+msgid "Auto"
+msgstr "אוטו׳"
+
+msgid "auto"
+msgstr "אוטומטי"
+
+msgid "Auto Detect"
+msgstr "זיהוי אוטומטי"
+
+msgid "Auto Save"
+msgstr "שמירה אוטומטית"
+
+msgid "Autodetect"
+msgstr "זיהוי אוטומטי"
+
+msgid "Automatic"
+msgstr "אוטומטי"
+
+msgid "Autosave interval"
+msgstr "הפרש בין שמירות אוטומטיות"
+
+msgid "Available"
+msgstr "זמין"
+
+msgid "A&vailable actions"
+msgstr "פ&עולות זמינות"
+
+msgid "Average"
+msgstr "ממוצע"
+
+msgid "Axes"
+msgstr "צירים"
+
+msgid "Azerbaijan"
+msgstr "אזרבייג׳ן"
+
+msgid "Azerbaijani"
+msgstr "אזרית"
+
+msgid "B"
+msgstr "ב׳"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "חזרה"
+
+msgid "&Back"
+msgstr "&אחורה"
+
+msgid "_Back"
+msgstr "_אחורה"
+
+msgid "Background"
+msgstr "רקע"
+
+msgid "Background Color"
+msgstr "צבע רקע"
+
+msgid "Background color"
+msgstr "צבע רקע"
+
+msgid "&Background color"
+msgstr "צבע &רקע"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "גיבוי"
+
+msgid "Bahamas"
+msgstr "איי בהאמה"
+
+msgid "Bahrain"
+msgstr "בחריין"
+
+msgid "Balance"
+msgstr "איזון"
+
+msgid "Balanced"
+msgstr "מאוזן"
+
+msgid "Baltic"
+msgstr "בלטי"
+
+msgid "Bangladesh"
+msgstr "בנגלדש"
+
+msgid "Bank"
+msgstr "בנק"
+
+msgid "Bar"
+msgstr "בר"
+
+msgid "Barbados"
+msgstr "ברבדוס"
+
+msgid "Base"
+msgstr "בסיס"
+
+msgid "Basic"
+msgstr "בסיסי"
+
+msgid "Basque"
+msgstr "בסקית"
+
+msgid "Bass"
+msgstr "בס"
+
+msgid "Battery"
+msgstr "סוללה"
+
+msgid "Bcc"
+msgstr "עותק סמוי"
+
+msgid "Before"
+msgstr "לפני"
+
+msgid "Behavior"
+msgstr "התנהגות"
+
+msgid "Belarus"
+msgstr "בלארוס"
+
+msgid "Belarusian"
+msgstr "בלארוסית"
+
+msgid "Belgium"
+msgstr "בלגיה"
+
+msgid "Belize"
+msgstr "בליז"
+
+msgid "Bengali"
+msgstr "בנגלית"
+
+msgid "Benin"
+msgstr "בנין"
+
+msgid "Best"
+msgstr "הטוב ביותר"
+
+msgid "Bhutan"
+msgstr "בהוטן"
+
+msgid "Bibliography"
+msgstr "ביבליוגרפיה"
+
+msgid "Binary"
+msgstr "בינרי"
+
+msgid "Birthday"
+msgstr "יום הולדת"
+
+msgid "Bitrate"
+msgstr "קצב סיביות"
+
+msgid "Black"
+msgstr "שחור"
+
+msgid "black"
+msgstr "שחור"
+
+msgid "Blend"
+msgstr "מיזוג"
+
+msgid "Block"
+msgstr "בלוק"
+
+msgid "Block Elements"
+msgstr "יסודות לבנים"
+
+msgid "Blocked"
+msgstr "חסום"
+
+msgid "Blue"
+msgstr "כחול"
+
+msgid "Blues"
+msgstr "בלוז"
+
+msgid "Bluetooth"
+msgstr "בלוטות׳"
+
+msgid "Blur"
+msgstr "טשטוש"
+
+msgid "<b>Name:</b>"
+msgstr "<b>שם:</b>"
+
+msgid "Body"
+msgstr "תוכן"
+
+msgid "Bold"
+msgstr "מודגש"
+
+msgid "&Bold"
+msgstr "מו&דגש"
+
+msgid "_Bold"
+msgstr "מו_דגש"
+
+msgid "Bold text"
+msgstr "טקסט מודגש"
+
+msgid "Bolivia"
+msgstr "בוליביה"
+
+msgid "Book"
+msgstr "הזמנה"
+
+msgid "Bookmark"
+msgstr "סימנייה"
+
+msgid "Bookmarks"
+msgstr "סימניות"
+
+msgid "&Bookmarks"
+msgstr "&סימניות"
+
+msgid "_Bookmarks"
+msgstr "_סימניות"
+
+msgid "Boolean"
+msgstr "בוליאני"
+
+msgid "Border"
+msgstr "גבול"
+
+msgid "Bosnian"
+msgstr "בוסנית"
+
+msgid "Both"
+msgstr "שניהם"
+
+msgid "Botswana"
+msgstr "בוטסואנה"
+
+msgid "Bottom"
+msgstr "למטה"
+
+msgid "_Bottom"
+msgstr "_תחתית"
+
+msgid "Bottom Left"
+msgstr "משמאל למטה"
+
+msgid "Bottom Right"
+msgstr "למטה מימין"
+
+msgid "Bottom-left"
+msgstr "משמאל למטה"
+
+msgid "Bottom-right"
+msgstr "מימין למטה"
+
+msgid "Box"
+msgstr "תיבה"
+
+msgid "BPM"
+msgstr "בתים לדקה"
+
+msgid "Branch"
+msgstr "ענף"
+
+msgid "Brazil"
+msgstr "ברזיל"
+
+msgid "Breeze"
+msgstr "בריזה"
+
+msgid "Breeze by the KDE VDG"
+msgstr "בריזה מאת צוות העיצוב החזותי של KDE"
+
+msgid "Breeze Dark"
+msgstr "בריזה כהה"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "בריזה כהה מאת צוות העיצוב החזותי של KDE"
+
+msgid "Breton"
+msgstr "ברטונית"
+
+msgid "Brian Croom"
+msgstr "בריאן קרום"
+
+msgid "Bridge"
+msgstr "גשר"
+
+msgid "Brightness"
+msgstr "בהירות"
+
+msgid "Broken"
+msgstr "פגום"
+
+msgid "Browse"
+msgstr "עיון"
+
+msgid "Browse..."
+msgstr "עיון…"
+
+msgid "_Browse..."
+msgstr "_עיון..."
+
+msgid "Browser"
+msgstr "דפדפן"
+
+msgid "Buffer"
+msgstr "חוצץ"
+
+msgid "Bug fixes"
+msgstr "תיקוני תקלות"
+
+msgid "Build"
+msgstr "בנייה"
+
+msgid "Built-in Screen"
+msgstr "מסך מובנה"
+
+msgid "Bulgaria"
+msgstr "בולגריה"
+
+msgid "Bulgarian"
+msgstr "בולגרית"
+
+msgid "Burkina Faso"
+msgstr "בורקינה פאסו"
+
+msgid "Burn"
+msgstr "צרוב"
+
+msgid "Burundi"
+msgstr "בורונדי"
+
+msgid "Bus"
+msgstr "אוטובוס"
+
+msgid "Busy"
+msgstr "עסוק"
+
+msgid "Butt"
+msgstr "בדל"
+
+msgid "Button"
+msgstr "כפתור"
+
+msgid "Buttons"
+msgstr "כפתורים"
+
+msgid "by"
+msgstr "מאת"
+
+msgid "By %1"
+msgstr "מאת %1"
+
+msgid "By extension"
+msgstr "לפי סיומת"
+
+msgid "Bytes"
+msgstr "בתים"
+
+msgid "bytes"
+msgstr "בתים"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "אישור רשות אישורים (CA)"
+
+msgid "Cache"
+msgstr "מטמון"
+
+msgid "Calculate"
+msgstr "חישוב"
+
+msgid "Calculating..."
+msgstr "מתבצע חישוב…"
+
+msgid "Calculator"
+msgstr "מחשבון"
+
+msgid "Calendar"
+msgstr "לוח שנה"
+
+msgid "Calendars"
+msgstr "לוחות שנה"
+
+msgid "Call"
+msgstr "התקשרות"
+
+msgid "Calls"
+msgstr "קריאות"
+
+msgid "Cambodia"
+msgstr "קמבודיה"
+
+msgid "Camera"
+msgstr "מצלמה"
+
+msgid "Cameroon"
+msgstr "קמרון"
+
+msgid "Canada"
+msgstr "קנדה"
+
+msgid "Cancel"
+msgstr "ביטול"
+
+msgid "&Cancel"
+msgstr "&ביטול"
+
+msgid "_Cancel"
+msgstr "_ביטול"
+
 msgid "C&ancel"
-msgstr "&בטל"
+msgstr "&ביטול"
 
-#. Occurs in 10 KDE PO files
+msgid "Canceled"
+msgstr "בוטל"
+
+msgid "Cancelled"
+msgstr "בוטל"
+
+msgid "cannot load editor plugin: %s"
+msgstr "לא ניתן לטעון את תוסף העורך: %s"
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "משטח ציור"
+
+msgid "Capabilities"
+msgstr "יכולות"
+
+msgid "Capacity"
+msgstr "קיבולת"
+
+msgid "Cape Verde"
+msgstr "כף ורדה"
+
+msgid "Capitalize"
+msgstr "הגדלת אותיות ראשונות"
+
+msgid "Caps Lock is on"
+msgstr "Caps Lock דולק"
+
+msgid "Capture"
+msgstr "לכידה"
+
+msgid "Car"
+msgstr "מכונית"
+
+msgid "Carsten Pfeiffer"
+msgstr "קרסטן פייפר"
+
+msgid "Cascade"
+msgstr "דירוג"
+
+msgid "Case Sensitive"
+msgstr "תלוי רישיות"
+
+msgid "Case sensitive"
+msgstr "תלוי רישיות"
+
+msgid "Castle"
+msgstr "טירה"
+
+msgid "Catalan"
+msgstr "קטלאנית"
+
+msgid "Categories"
+msgstr "קטגוריות"
+
+msgid "Category"
+msgstr "קטגוריה"
+
+msgid "CC"
+msgstr "עותק"
+
+msgid "Cc"
+msgstr "עותק"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "תא"
+
+msgid "Celsius"
+msgstr "צלזיוס"
+
+msgid "Celtic"
+msgstr "קלטית"
+
+msgid "Center"
+msgstr "מרכז"
+
+msgid "Centered"
+msgstr "ממורכז"
+
+msgid "Centimeters"
+msgstr "סנטימטרים"
+
+msgid "Centimeters (cm)"
+msgstr "סנטימטרים (ס״מ)"
+
+msgid "Central"
+msgstr "המרכז"
+
+msgid "Central African Republic"
+msgstr "הרפובליקה המרכז-אפריקאית"
+
+msgid "Central European"
+msgstr "מרכז אירופאי"
+
+msgid "Certificate"
+msgstr "אישור"
+
+msgid "Certificates (TLS)"
+msgstr "אישור (TLS)"
+
+msgid "Chad"
+msgstr "צ׳אד"
+
+msgid "Change"
+msgstr "שינוי"
+
+msgid "Change..."
+msgstr "שינוי…"
+
+msgid "Changed"
+msgstr "השתנה"
+
+msgid "Channel"
+msgstr "ערוץ"
+
+msgid "Channels"
+msgstr "ערוצים"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "פרק"
+
+msgid "Chapters"
+msgstr "פרקים"
+
+msgid "Character"
+msgstr "תו"
+
+msgid "Characters"
+msgstr "דמויות"
+
+msgid "Charging"
+msgstr "בטעינה"
+
+msgid "Chart"
+msgstr "תרשים"
+
+msgid "Chat"
+msgstr "שיחה"
+
+msgid "Check"
+msgstr "בדיקה"
+
+msgid "Check for updates"
+msgstr "איתור עדכונים"
+
+msgid "Check Spelling"
+msgstr "בדיקת איות"
+
+msgid "Checkbox"
+msgstr "תיבת סימון"
+
+msgid "Checkout"
+msgstr "שליפה"
+
+msgid "Cherokee"
+msgstr "צ׳רוקי"
+
+msgid "Children"
+msgstr "ילדים"
+
+msgid "Chile"
+msgstr "צ׳ילה"
+
+msgid "China"
+msgstr "סין"
+
+msgid "Chinese"
+msgstr "סינית"
+
+msgid "Chinese Simplified"
+msgstr "סיני מפושט"
+
+msgid "Chinese Traditional"
+msgstr "סינית מסורתית"
+
+msgid "Choose"
+msgstr "בחירה"
+
+msgid "Choose..."
+msgstr "בחירה…"
+
+msgid "Cinema"
+msgstr "קולנוע"
+
+msgid "Circle"
+msgstr "עיגול"
+
+msgid "City"
+msgstr "עיר"
+
+msgid "Class"
+msgstr "מחלקה"
+
+msgid "Classes"
+msgstr "מחלקות"
+
+msgid "Classic"
+msgstr "קלסי"
+
+msgid "Classical"
+msgstr "קלסי"
+
+msgid "Clean"
+msgstr "נקייה"
+
+msgid "Cleanup"
+msgstr "ניקוי"
+
+msgid "Clear"
+msgstr "פינוי"
+
+msgid "&Clear"
+msgstr "&נקה"
+
+msgid "_Clear"
+msgstr "_ניקוי"
+
+msgid "C&lear"
+msgstr "&פינוי"
+
+msgid "Clear All"
+msgstr "פינוי של הכול"
+
 msgid "Clear History"
-msgstr "נקה היסטוריה"
+msgstr "פינוי ההיסטוריה"
 
-#. Occurs in 10 KDE PO files
+msgid "Clear history"
+msgstr "פינוי ההיסטוריה"
+
+msgid "Clear List"
+msgstr "פינוי הרשימה"
+
+msgid "Client"
+msgstr "לקוח"
+
+msgid "Clip"
+msgstr "סרטון"
+
+msgid "Clipboard"
+msgstr "לוח גזירים"
+
+msgid "Clock"
+msgstr "שעון"
+
+msgid "Clockwise"
+msgstr "עם כיוון השעון"
+
+msgid "Clone"
+msgstr "שכפול"
+
+msgid "Close"
+msgstr "סגירה"
+
+msgid "&Close"
+msgstr "&סגירה"
+
+msgid "_Close"
+msgstr "_סגירה"
+
+msgid "Close All"
+msgstr "לסגור הכול"
+
+msgid "Close Document"
+msgstr "סגירת המסמך"
+
+msgid "Close message"
+msgstr "סגירת הודעה"
+
+msgid "Close Tab"
+msgstr "סגירת לשונית"
+
+msgid "Close tab"
+msgstr "סגירת לשונית"
+
+msgid "Close the current tab"
+msgstr "סגירת הלשונית הנוכחית"
+
+msgid "Close this window"
+msgstr "לסגור את החלון הנוכחי"
+
+msgid "Close Window"
+msgstr "סגירת חלון"
+
+msgid "Close window"
+msgstr "סגירת חלון"
+
+msgid "Close _without Saving"
+msgstr "_סגירה ללא שמירה"
+
+msgid "Closed"
+msgstr "סגור"
+
+msgid "Cloud"
+msgstr "ענן"
+
+msgid "cm"
+msgstr "ס״מ"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "קוד"
+
+msgid "code"
+msgstr "קוד"
+
+msgid "Codec"
+msgstr "מפענח"
+
+msgid "Collapse"
+msgstr "צמצום"
+
+msgid "Collapse All"
+msgstr "צמצום של הכול"
+
+msgid "Collection"
+msgstr "אוסף"
+
+msgid "Collections"
+msgstr "אוספים"
+
+msgid "Colombia"
+msgstr "קולומביה"
+
+msgid "Color"
+msgstr "צבע"
+
+msgid "color"
+msgstr "צבע"
+
+msgid "&Color"
+msgstr "&צבע"
+
+msgid "Color Balance"
+msgstr "איזון צבעים"
+
+msgid "Color Management"
+msgstr "ניהול צבעים"
+
+msgid "Color Mode"
+msgstr "מצב צבע"
+
+msgid "Color Picker"
+msgstr "בורר צבעים"
+
+msgid "Color Scheme"
+msgstr "ערכת צבעים"
+
+msgid "Color scheme"
+msgstr "ערכת צבעים"
+
+msgid "Color Space"
+msgstr "מרחב צבעים"
+
+msgid "Color theme"
+msgstr "ערכת צבעים"
+
+msgid "Colorize"
+msgstr "צביעה"
+
+msgid "Colors"
+msgstr "צבעים"
+
+msgid "Column"
+msgstr "עמודה"
+
+msgid "Column %1"
+msgstr "עמודה %1"
+
+msgid "Columns"
+msgstr "עמודות"
+
+msgid "Comma"
+msgstr "פסיק"
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "Command"
+msgstr "פקודה"
+
+msgid "command"
+msgstr "פקודה"
+
+msgid "Command Line"
+msgstr "שורת פקודה"
+
+msgid "Command to execute"
+msgstr "פקודה להרצה"
+
+msgid "Commands"
+msgstr "פקודות"
+
+msgid "Comment"
+msgstr "הערה"
+
+msgid "Comments"
+msgstr "הערות"
+
+msgid "Commit"
+msgstr "הגשה"
+
+msgid "Common"
+msgstr "משותף"
+
+msgid "Comoros"
+msgstr "קומורו"
+
+msgid "Compact"
+msgstr "מצומצם"
+
+msgid "Compare"
+msgstr "השוואה"
+
+msgid "Complete"
+msgstr "השלמה"
+
+msgid "Completed"
+msgstr "הושלמה"
+
+msgid "Completion"
+msgstr "השלמה"
+
+msgid "Component"
+msgstr "רכיב"
+
+msgid "Components"
+msgstr "רכיבים"
+
+msgid "Composer"
+msgstr "מלחין/נה"
+
+msgid "Composition"
+msgstr "תרכובת"
+
+msgid "Compress"
+msgstr "דחיסה"
+
 msgid "Compression"
 msgstr "דחיסה"
 
-#. Occurs in 10 KDE PO files
+msgid "Computer"
+msgstr "מחשב"
+
+msgid "Condition"
+msgstr "תנאי"
+
+msgid "Confidential"
+msgstr "חסוי"
+
+msgid "Configuration"
+msgstr "הגדרות"
+
+msgid "Configure"
+msgstr "הגדרה"
+
+msgid "Configure..."
+msgstr "הגדרה…"
+
+msgid "Configure %1"
+msgstr "הגדרת %1"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "הגדרת קיצורי מקלדת"
+
+msgid "Configure Plugins"
+msgstr "הגדרת תוספים"
+
+msgid "Configure Toolbars"
+msgstr "הגדרת סרגלי כלים"
+
+msgid "Configure Web Shortcuts..."
+msgstr "הגדרת קיצורי אינטרנט…"
+
+msgid "Confirm"
+msgstr "אישור"
+
+msgid "Confirmation"
+msgstr "אישור"
+
+msgid "Confirmation Required"
+msgstr "נדרש אישור"
+
+msgid "Confirmed"
+msgstr "אושר"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "סתירה מול קיצור יישום תקני"
+
+msgid "Connect"
+msgstr "התחברות"
+
+msgid "C_onnect"
+msgstr "ה_תחברות"
+
+msgid "Connected"
+msgstr "מחובר"
+
+msgid "Connecting"
+msgstr "מתחבר"
+
+msgid "Connecting..."
+msgstr "מתבצעת התחברות…"
+
+msgid "Connection"
+msgstr "חיבור"
+
+msgid "Connection Failed"
+msgstr "החיבור נכשל"
+
+msgid "Connection Settings"
+msgstr "הגדרות החיבור"
+
+msgid "Connections"
+msgstr "חיבורים"
+
+msgid "Console"
+msgstr "מסוף"
+
+msgid "Constant"
+msgstr "קבוע"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+
+msgid "Contact"
+msgstr "פרטי קשר"
+
 msgid "Contacts"
 msgstr "אנשי קשר"
 
-#. Occurs in 10 KDE PO files
+msgid "Container"
+msgstr "Container"
+
+msgid "Contains"
+msgstr "מכיל"
+
+msgid "contains"
+msgstr "מכיל"
+
+msgid "Content"
+msgstr "תוכן"
+
+msgid "Content Type"
+msgstr "סוג תוכן"
+
+msgid "Contents"
+msgstr "תוכן"
+
+msgid "_Contents"
+msgstr "_תכנים"
+
+msgid "Context"
+msgstr "הקשר"
+
+msgid "Continue"
+msgstr "להמשיך"
+
+msgid "_Continue"
+msgstr "_המשך"
+
+msgid "Contrast"
+msgstr "ניגודיות"
+
+msgid "Contributor"
+msgstr "מתנדב"
+
+msgid "Control"
+msgstr "בקרה"
+
+msgid "Convert"
+msgstr "המרה"
+
+msgid "Convert to Path"
+msgstr "המרה לנתיב"
+
+msgid "Cookies"
+msgstr "עוגיות"
+
+msgid "Coordinates"
+msgstr "נקודות ציון"
+
+msgid "Copied to clipboard"
+msgstr "הועתק ללוח הגזירים"
+
+msgid "Coptic"
+msgstr "קופטית"
+
+msgid "Copy"
+msgstr "העתקה"
+
+msgid "copy"
+msgstr "העתקה"
+
+msgid "&Copy"
+msgstr "ה&עתקה"
+
+msgid "_Copy"
+msgstr "ה_עתקה"
+
+msgid "Copy Email Address"
+msgstr "העתקת כתובת דוא״ל"
+
+msgid "&Copy Here"
+msgstr "הע&תקה לכאן"
+
+msgid "Copy Image"
+msgstr "העתקת תמונה"
+
+msgid "Copy Link"
+msgstr "העתקת קישור"
+
+msgid "Copy Link Address"
+msgstr "העתקת כתובת קישור"
+
+msgid "_Copy Link Address"
+msgstr "העתקת מיקום ה_קישור"
+
+msgid "Copy Location"
+msgstr "העתקת מקום"
+
+msgid "Copy of %1"
+msgstr "עותק של %1"
+
+msgid "Copy selection to clipboard"
+msgstr "העתקת הבחירה ללוח הגזירים"
+
+msgid "Copy Text"
+msgstr "העתקת טקסט"
+
+msgid "Copy to Clipboard"
+msgstr "העתקה ללוח הגזירים"
+
+msgid "Copy to clipboard"
+msgstr "העתקה ללוח הגזירים"
+
+msgid "Copy URL"
+msgstr "העתקת הכתובת"
+
+msgid "Copying files"
+msgstr "הקבצים מועתקים"
+
 msgid "Copyright"
 msgstr "זכויות יוצרים"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "התקן:"
+msgid "Cost"
+msgstr "עלות"
 
-#. Occurs in 10 KDE PO files
+msgid "Costa Rica"
+msgstr "קוסטה ריקה"
+
+msgid "Could not open %1"
+msgstr "לא ניתן לפתוח את %1"
+
+msgid "Could not open file."
+msgstr "לא ניתן לפתוח את הקובץ."
+
+msgid "Count"
+msgstr "כמות"
+
+msgid "Counter"
+msgstr "מונה"
+
+msgid "Country"
+msgstr "מדינה"
+
+msgid "CPU"
+msgstr "מעבד"
+
+msgid "Create"
+msgstr "יצירה"
+
+msgid "C_reate"
+msgstr "י_צירה"
+
+msgid "Create Folder"
+msgstr "יצירת תיקייה"
+
+msgid "Create New"
+msgstr "יצירת חדש"
+
+msgid "Created"
+msgstr "נוצר"
+
+msgid "Creation Date"
+msgstr "תאריך יצירה"
+
+msgid "Creation date"
+msgstr "תאריך יצירה"
+
+msgid "Creator"
+msgstr "יוצר/ת"
+
+msgid "Credentials"
+msgstr "פרטי גישה"
+
+msgid "Credits"
+msgstr "תודות"
+
+msgid "Criteria"
+msgstr "תנאים"
+
+msgid "Critical"
+msgstr "משמעותי"
+
+msgid "Croatia"
+msgstr "קרואטיה"
+
+msgid "Croatian"
+msgstr "קרואטית"
+
+msgid "Crop"
+msgstr "חיתוך"
+
+msgid "Crop image"
+msgstr "חיתוך תמונה"
+
+msgid "Cross"
+msgstr "צלב"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr "Ctrl+O"
+
+msgid "Cuba"
+msgstr "קובה"
+
+msgid "Currency"
+msgstr "מטבע"
+
+msgid "Current"
+msgstr "נוכחי"
+
+msgid "Current Maintainer"
+msgstr "מתחזק נוכחי"
+
+msgid "Current maintainer"
+msgstr "מתחזק נוכחי"
+
+msgid "Cursor"
+msgstr "סמן"
+
+msgid "Curve"
+msgstr "עקומה"
+
+msgid "Curves"
+msgstr "עקומות"
+
+msgid "Custom"
+msgstr "מותאם אישית"
+
+msgid "Custom..."
+msgstr "התאמה אישית…"
+
+msgid "Custom Font"
+msgstr "גופן מותאם אישית"
+
+msgid "Cut"
+msgstr "גזירה"
+
+msgid "Cu&t"
+msgstr "ג&זירה"
+
+msgid "Cu_t"
+msgstr "_גזירה"
+
+msgid "Cyan"
+msgstr "ציאן"
+
+msgid "Cyprus"
+msgstr "קפריסין"
+
+msgid "Cyrillic"
+msgstr "קירילית"
+
+msgid "Czech"
+msgstr "צ׳כית"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "יומית"
+
+msgid "Dance"
+msgstr "דאנס"
+
+msgid "Daniel Molkentin"
+msgstr "דניאל מולקנטין"
+
+msgid "Daniel Vrátil"
+msgstr "דניאל וראטיל"
+
+msgid "Danish"
+msgstr "דנית"
+
+msgid "Danny Allen"
+msgstr "דני אלן"
+
+msgid "Dark"
+msgstr "כהה"
+
+msgid "Dark Mode"
+msgstr "מצב כהה"
+
+msgid "Darken"
+msgstr "החשכה"
+
+msgid "Dashboard"
+msgstr "לוח בקרה"
+
+msgid "Dashed"
+msgstr "מקווקוו"
+
+msgid "Data"
+msgstr "נתונים"
+
+msgid "Database"
+msgstr "מסד נתונים"
+
+msgid "Date"
+msgstr "תאריך"
+
+msgid "date"
+msgstr "תאריך"
+
+msgid "Date & Time"
+msgstr "תאריך ושעה"
+
+msgid "Date and Time"
+msgstr "תאריך ושעה"
+
+msgid "Date Format"
+msgstr "תבנית תאריך"
+
+msgid "Date Modified"
+msgstr "מועד עריכה"
+
+msgid "David Edmundson"
+msgstr "דיויד אדמונדסון"
+
+msgid "Day"
+msgstr "יום"
+
+msgid "Days"
+msgstr "ימים"
+
+msgid "days"
+msgstr "ימים"
+
+msgid "day(s)"
+msgstr "יום/ימים"
+
+msgid "D-Bus name to use for this instance"
+msgstr "שם D-Bus לשימוש עבור המופע הזה"
+
+msgid "Debug"
+msgstr "ניפוי שגיאות"
+
+msgid "Debugger"
+msgstr "מנפה שגיאות"
+
+msgid "Debugging"
+msgstr "ניפוי שגיאות"
+
+msgid "December"
+msgstr "דצמבר"
+
+msgid "Decimal"
+msgstr "עשרוני"
+
+msgid "Decline"
+msgstr "דחייה"
+
+msgid "Decrease Font Size"
+msgstr "הקטנת הכתב"
+
+msgid "Decrease Indent"
+msgstr "הקטן הזחה"
+
+msgid "Decrease Volume"
+msgstr "הנמכת עוצמת שמע"
+
+msgid "Decrypt"
+msgstr "פיענוח"
+
+msgid "Default"
+msgstr "ברירת מחדל"
+
+msgid "default"
+msgstr "ברירת מחדל"
+
+msgid "Defaults"
+msgstr "ברירות מחדל"
+
+msgid "Definition"
+msgstr "הגדרה"
+
+msgid "degrees"
+msgstr "מעלות"
+
+msgid "Del"
+msgstr "מחיקה"
+
+msgid "Delay"
+msgstr "השהיה"
+
+msgid "Delete"
+msgstr "מחיקה"
+
+msgid "&Delete"
+msgstr "מ&חיקה"
+
+msgid "_Delete"
+msgstr "_מחיקה"
+
+msgid "D&elete"
+msgstr "מ&חיקה"
+
+msgid "Delete..."
+msgstr "מחיקה…"
+
+msgid "Delete %1"
+msgstr "מחיקת %1"
+
+msgid "Delete All"
+msgstr "למחוק הכול"
+
+msgid "Delete File"
+msgstr "מחיקת קובץ"
+
+msgid "Delete Folder"
+msgstr "מחיקת תיקייה"
+
+msgid "Delete Image"
+msgstr "מחיקת תמונה"
+
+msgid "Delete Selected"
+msgstr "מחיקת הבחירה"
+
+msgid "Delete selection"
+msgstr "מחיקת בחירה"
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "נמחק"
+
+msgid "Deletion"
+msgstr "מחיקה"
+
+msgid "Delimiter"
+msgstr "מפריד"
+
+msgid "Delta"
+msgstr "הפרש"
+
+msgid "Denmark"
+msgstr "דנמרק"
+
+msgid "Density"
+msgstr "צפיפות"
+
+msgid "Deny"
+msgstr "לסרב"
+
+msgid "Dependencies"
+msgstr "תלויות"
+
+msgid "Depth"
+msgstr "עומק"
+
+msgid "Desaturate"
+msgstr "ביטול הרוויה"
+
+msgid "Descending"
+msgstr "יורד"
+
+msgid "Description"
+msgstr "תיאור"
+
+msgid "&Description"
+msgstr "&תיאור"
+
+msgid "Deselect"
+msgstr "ביטול בחירה"
+
+msgid "Deselect All"
+msgstr "ביטול בחירה"
+
+msgid "Desert"
+msgstr "מדבר"
+
+msgid "Desktop"
+msgstr "שולחן עבודה"
+
+msgid "Destination"
+msgstr "יעד"
+
+msgid "Detach"
+msgstr "ניתוק"
+
+msgid "_Detach Tab"
+msgstr "_נתק לשונית"
+
+msgid "Details"
+msgstr "פרטים"
+
+msgid "&Details"
+msgstr "&פרטים"
+
+msgid "_Details"
+msgstr "_פרטים"
+
+msgid "Details..."
+msgstr "פרטים…"
+
+msgid "Devanagari"
+msgstr "דוונאגרי"
+
+msgid "Developer"
+msgstr "מפתח"
+
+msgid "Development"
+msgstr "פיתוח"
+
+msgid "Device"
+msgstr "התקן"
+
+msgid "device"
+msgstr "התקן"
+
+msgid "Device Information"
+msgstr "פרטי התקן"
+
+msgid "Device Status"
+msgstr "מצב ההתקן"
+
+msgid "Device type"
+msgstr "סוג התקן"
+
+msgid "Devices"
+msgstr "התקנים"
+
+msgid "Diagnostics"
+msgstr "אבחון"
+
+msgid "Diagonal"
+msgstr "אלכסוני"
+
+msgid "Dialog"
+msgstr "חלונית"
+
+msgid "Dialogs"
+msgstr "חלוניות"
+
+msgid "Diamond"
+msgstr "יהלום"
+
+msgid "Dictionary"
+msgstr "מילון"
+
+msgid "Diff"
+msgstr "הבדלים"
+
+msgid "Difference"
+msgstr "הבדל"
+
+msgid "Difficulty"
+msgstr "קושי"
+
+msgid "Digit"
+msgstr "ספרה"
+
+msgid "Dimensions"
+msgstr "ממדים"
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "Direction"
+msgstr "כיוון"
+
+msgid "Directories"
+msgstr "יצירת תיקיות"
+
+msgid "Directory"
+msgstr "תיקייה"
+
+msgid "directory"
+msgstr "תיקייה"
+
+msgid "Directory Name"
+msgstr "שם התיקייה"
+
+msgid "Disable"
+msgstr "השבתה"
+
+msgid "Disable connection to session manager"
+msgstr "Disable connection to session manager"
+
+msgid "Disabled"
+msgstr "מושבת"
+
+msgid "disabled"
+msgstr "מושבת"
+
+msgid "Disc"
+msgstr "טבעת"
+
+msgid "Disc Number"
+msgstr "מספר דיסק"
+
+msgid "Discard"
+msgstr "התעלמות"
+
+msgid "_Discard"
+msgstr "השל_כה"
+
+msgid "Discard All"
+msgstr "התעלמות מהכול"
+
+msgid "Discard Changes"
+msgstr "התעלמות מהשינויים"
+
+msgid "Discard changes"
+msgstr "התעלמות מהשינויים"
+
+msgid "_Discard Changes"
+msgstr "הת_עלמות מהשינויים"
+
+msgid "Discharging"
+msgstr "בפריקה"
+
 msgid "Disconnect"
-msgstr "התנתק"
+msgstr "ניתוק"
 
-#. Occurs in 10 KDE PO files
+msgid "Disconnected"
+msgstr "מנותק"
+
+msgid "Discover"
+msgstr "Discover"
+
+msgid "Discrete"
+msgstr "נפרד"
+
+msgid "Disk"
+msgstr "כונן"
+
+msgid "Dismiss"
+msgstr "התעלמות"
+
+msgid "Display"
+msgstr "תצוגה"
+
+msgid "Display Configuration"
+msgstr "הגדרות תצוגה"
+
+msgid "Display Name"
+msgstr "שם תצוגה"
+
+msgid "Display Settings"
+msgstr "הגדרות תצוגה"
+
+msgid "Dissolve"
+msgstr "התמוססות"
+
+msgid "Distance"
+msgstr "מרחק"
+
+msgid "Divide"
+msgstr "חילוק"
+
+msgid "Djibouti"
+msgstr "ג׳יבוטי"
+
+msgid "Dmitry Suzdalev"
+msgstr "דמיטרי סוזדלב"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "לא לשאול שוב"
+
+msgid "Do Not Cancel"
+msgstr "לא לבטל"
+
+msgid "Do not change the actual backend data."
+msgstr "לא לשנות את נתוני המנגנון בפועל."
+
+msgid "Do not show again"
+msgstr "לא להציג שוב"
+
+msgid "Do not show this message again"
+msgstr "לא להציג את ההודעה הזאת שוב"
+
+msgid "Do Nothing"
+msgstr "לא לעשות כלום"
+
+msgid "Do nothing"
+msgstr "לא לעשות כלום"
+
+msgid "Document"
+msgstr "מסמך"
+
+msgid "Document Properties"
+msgstr "מאפייני מסמך"
+
+msgid "Document to open"
+msgstr "מסמך לפתיחה"
+
+msgid "Document Viewer"
+msgstr "מציג מסמכים"
+
+msgid "Documentation"
+msgstr "תיעוד"
+
+msgid "Documents"
+msgstr "מסמכים"
+
+msgid "does not contain"
+msgstr "אינו מכיל"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "שם תחום"
+
+msgid "Dominica"
+msgstr "דומיניקה"
+
+msgid "Dominican Republic"
+msgstr "הרפובליקה הדומיניקנית"
+
+msgid "Donate"
+msgstr "תרומה"
+
+msgid "Done"
+msgstr "בוצע"
+
+msgid "Dot"
+msgstr "נקודה"
+
+msgid "Dots"
+msgstr "נקודות"
+
+msgid "Dotted"
+msgstr "מנוקד"
+
+msgid "Double"
+msgstr "כפול"
+
+msgid "Down"
+msgstr "למטה"
+
+msgid "Download"
+msgstr "הורדה"
+
+msgid "Download Manager"
+msgstr "מנהל הורדות"
+
+msgid "Downloaded"
+msgstr "ירד"
+
+msgid "Downloading"
+msgstr "הורדה"
+
+msgid "Downloading..."
+msgstr "מתבצעת הורדה…"
+
+msgid "Downloads"
+msgstr "הורדות"
+
+msgid "Dr."
+msgstr "ד״ר"
+
+msgid "Draft"
+msgstr "טיוטה"
+
+msgid "Drafts"
+msgstr "טיוטות"
+
+msgid "Draw"
+msgstr "ציור"
+
+msgid "Drive"
+msgstr "כונן"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "יעד"
+
+msgid "Due Date"
+msgstr "תאריך יעד"
+
+msgid "Duplicate"
+msgstr "שכפול"
+
+msgid "_Duplicate"
+msgstr "_שכפול"
+
+msgid "Duplicates"
+msgstr "כפילויות"
+
+msgid "Duration"
+msgstr "משך"
+
+msgid "Dutch"
+msgstr "הולנדית"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "מז׳"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "מזרח"
+
+msgid "Easy"
+msgstr "קל"
+
+msgid "Echo"
+msgstr "הד (Echo)"
+
+msgid "Ecuador"
+msgstr "אקוודור"
+
+msgid "Edge"
+msgstr "קצה"
+
+msgid "Edit"
+msgstr "עריכה"
+
+msgid "&Edit"
+msgstr "&עריכה"
+
+msgid "_Edit"
+msgstr "_עריכה"
+
+msgid "Edit..."
+msgstr "עריכה…"
+
+msgid "&Edit..."
+msgstr "&עריכה…"
+
+msgid "Edit %1"
+msgstr "עריכת %1"
+
+msgid "Edit Bookmark"
+msgstr "עריכת סימנייה"
+
+msgid "Edit Filter"
+msgstr "עריכת מסנן"
+
+msgid "Edit Image"
+msgstr "עריכת תמונה"
+
+msgid "Editing"
+msgstr "עריכה"
+
+msgid "Editor"
+msgstr "עורך"
+
+msgid "Education"
+msgstr "חינוך"
+
+msgid "Effects"
+msgstr "אפקטים"
+
+msgid "Egypt"
+msgstr "מצרים"
+
+msgid "Egyptian"
+msgstr "מצרי"
+
+msgid "Eike Hein"
+msgstr "אייק היין"
+
+msgid "Eject"
+msgstr "שליפה"
+
+msgid "_Eject"
+msgstr "_שליפה"
+
+msgid "El Salvador"
+msgstr "אל סלבדור"
+
+msgid "Electronic"
+msgstr "אלקטרוני"
+
+msgid "Element"
+msgstr "רכיב"
+
+msgid "Ellipse"
+msgstr "אליפסה"
+
+msgid "Email"
+msgstr "דוא״ל"
+
+msgid "E-mail"
+msgstr "דוא״ל"
+
+msgid "Email Address"
+msgstr "כתובת דוא״ל"
+
+msgid "Email address"
+msgstr "כתובת דוא״ל"
+
+msgid "Emails"
+msgstr "כתובות דוא״ל"
+
+msgid "Embedded"
+msgstr "משובץ"
+
+msgid "Emboss"
+msgstr "הבלטה"
+
+msgid "Emphasis"
+msgstr "הדגשה"
+
+msgid "Empty"
+msgstr "ריק"
+
+msgid "empty"
+msgstr "ריק"
+
+msgid "(empty)"
+msgstr "(ריק)"
+
+msgid "<empty>"
+msgstr "<ריק>"
+
+msgid "Empty Trash"
+msgstr "פינוי אשפה"
+
+msgid "Enable"
+msgstr "הפעלה"
+
+msgid "Enable system tray icon"
+msgstr "הפעלת סמל בשורת המערכת"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr "הפעלת תיעוד שגיאות מפורט (עשוי לחשוף סיסמאות)"
+
+msgid "Enabled"
+msgstr "פעיל"
+
+msgid "Encoder"
+msgstr "מצפין"
+
+msgid "Encoding"
+msgstr "קידוד"
+
+msgid "_Encoding"
+msgstr "_קידוד"
+
+msgid "Encrypt"
+msgstr "הצפנה"
+
+msgid "&Encrypt"
+msgstr "ה&צפנה"
+
+msgid "Encrypted"
+msgstr "מוצפן"
+
+msgid "Encryption"
+msgstr "הצפנה"
+
+msgid "End"
+msgstr "סוף"
+
+msgid "end"
+msgstr "סוף"
+
+msgid "End Date"
+msgstr "תאריך סיום"
+
+msgid "End Time"
+msgstr "זמן סיום"
+
+msgid "ends with"
+msgstr "מסתיים ב־"
+
+msgid "Energy"
+msgstr "אנרגיה"
+
+msgid "Engine"
+msgstr "מנוע"
+
+msgid "Engineering"
+msgstr "הנדסה"
+
+msgid "English"
+msgstr "אנגלית"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Enter password"
+msgstr "נא למלא סיסמה"
+
+msgid "Entry"
+msgstr "רשומה"
+
+msgid "Environment"
+msgstr "סביבה"
+
+msgid "equals"
+msgstr "שווה"
+
+msgid "Equation"
+msgstr ""
+
+msgid "Equatorial Guinea"
+msgstr "גינאה המשוונית"
+
+msgid "Erase"
+msgstr "מחיקה"
+
+msgid "Eraser"
+msgstr "מוחק"
+
+msgid "Eritrea"
+msgstr "אריתריאה"
+
+msgid "ERROR"
+msgstr "שגיאה"
+
+msgid "Error"
+msgstr "שגיאה"
+
+msgid "error"
+msgstr "שגיאה"
+
 msgid "Error: %1"
 msgstr "שגיאה: %1"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "קובץ:"
+msgid "Error message"
+msgstr "הודעת שגיאה"
 
-#. Occurs in 10 KDE PO files
+msgid "Errors"
+msgstr "שגיאות"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Esperanto"
+msgstr "אספרנטו"
+
+msgid "Estonia"
+msgstr "אסטוניה"
+
+msgid "Estonian"
+msgstr "אסטונית"
+
+msgid "Ethiopia"
+msgstr "אתיופיה"
+
+msgid "Ethiopic"
+msgstr "אתיופית"
+
+msgid "Europe"
+msgstr "אירופה"
+
+msgid "Evaluate"
+msgstr "שערוך"
+
+msgid "Event"
+msgstr "אירוע"
+
+msgid "Events"
+msgstr "אירועים"
+
+msgid "Everyone"
+msgstr "כולם"
+
+msgid "Everything"
+msgstr "הכול"
+
+msgid "Exact"
+msgstr "מדויק"
+
+msgid "Example"
+msgstr "דוגמה"
+
+msgid "Examples"
+msgstr "דוגמאות"
+
+msgid "Exception"
+msgstr "חריגה"
+
+msgid "Exclude"
+msgstr "להחריג"
+
+msgid "Exclusion"
+msgstr "החרגה"
+
+msgid "Executable"
+msgstr "קובץ הפעלה"
+
+msgid "Execute"
+msgstr "הרצה"
+
+msgid "Exit"
+msgstr "יציאה"
+
+msgid "Exit Full Screen"
+msgstr "יציאה ממסך מלא"
+
+msgid "Exit Fullscreen"
+msgstr "יציאה ממסך מלא"
+
+msgid "Exiting..."
+msgstr "יציאה…"
+
+msgid "Expand"
+msgstr "הרחבה"
+
+msgid "Expand All"
+msgstr "הרחבה של הכול"
+
+msgid "Experimental"
+msgstr "ניסיוני"
+
+msgid "Expired"
+msgstr "פג תוקף"
+
+msgid "Expires"
+msgstr "תום תוקף"
+
+msgid "Export"
+msgstr "ייצוא"
+
+msgid "&Export"
+msgstr "יי&צוא"
+
+msgid "_Export"
+msgstr "_יצוא"
+
+msgid "Export..."
+msgstr "ייצוא…"
+
+msgid "&Export..."
+msgstr "יי&צוא…"
+
+msgid "_Export..."
+msgstr "_ייצוא…"
+
+msgid "E&xport..."
+msgstr "יי&צוא…"
+
+msgid "Export As..."
+msgstr "ייצוא בתור…"
+
+msgid "Export failed"
+msgstr "הייצוא נכשל"
+
+msgid "Export Options"
+msgstr "אפשרויות ייצוא"
+
+msgid "Exposure"
+msgstr "חשיפה"
+
+msgid "Expression"
+msgstr "ביטוי"
+
+msgid "Extended"
+msgstr "מורחב"
+
+msgid "Extension"
+msgstr "סיומת"
+
+msgid "Extensions"
+msgstr "הרחבות"
+
+msgid "Extra Toolbar"
+msgstr "סרגל כלים נוסף"
+
+msgid "Extract"
+msgstr "חילוץ"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "פייסבוק"
+
+msgid "Fade"
+msgstr "עמעום"
+
+msgid "Fahrenheit"
+msgstr "פרנהייט"
+
+msgid "Failed"
+msgstr "נכשל"
+
+msgid "False"
+msgstr "שלילי"
+
+msgid "false"
+msgstr "שלילי"
+
+msgid "Family"
+msgstr "משפחה"
+
+msgid "Family Name"
+msgstr "שם משפחה"
+
+msgid "Fast"
+msgstr "מהירה"
+
+msgid "Faster"
+msgstr "מהירה יותר"
+
+msgid "Fatal Error"
+msgstr "שגיאה חמורה"
+
+msgid "Favorite"
+msgstr "הוספה למועדפים"
+
+msgid "Favorites"
+msgstr "מועדפים"
+
+msgid "Fax"
+msgstr "פקס"
+
+msgid "Features"
+msgstr "יכולות"
+
+msgid "February"
+msgstr "פברואר"
+
+msgid "Feeds"
+msgstr "ערוצים"
+
+msgid "Felipe Kinoshita"
+msgstr "פליפה קינושיטה"
+
+msgid "Fetch"
+msgstr "משיכה"
+
+msgid "Fiji"
+msgstr "פיג׳י"
+
+msgid "FILE"
+msgstr "FILE"
+
+msgid "File"
+msgstr "קובץ"
+
+msgid "file"
+msgstr "קובץ"
+
+msgid "&File"
+msgstr "&קובץ"
+
+msgid "_File"
+msgstr "_קובץ"
+
+msgid "[FILE...]"
+msgstr "[קובץ…]"
+
+msgid "File Already Exists"
+msgstr "הקובץ כבר קיים"
+
+msgid "File already exists"
+msgstr "הקובץ כבר קיים"
+
+msgid "File Exists"
+msgstr "הקובץ קיים"
+
+msgid "File Format"
+msgstr "תבנית קובץ"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "מנהל קבצים"
+
+msgid "File Name"
+msgstr "שם קובץ"
+
+msgid "File name"
+msgstr "שם קובץ"
+
+msgid "File Not Found"
+msgstr "הקובץ לא נמצא"
+
+msgid "File not found"
+msgstr "הקובץ לא נמצא"
+
+msgid "File Path"
+msgstr "נתיב קובץ"
+
+msgid "File Properties"
+msgstr "מאפייני קובץ"
+
+msgid "File Size"
+msgstr "גודל קובץ"
+
+msgid "File size"
+msgstr "גודל קובץ"
+
+msgid "File System"
+msgstr "מערכת קבצים"
+
+msgid "File to open"
+msgstr "קובץ לפתיחה"
+
+msgid "File Transfer"
+msgstr "העברת קבצים"
+
+msgid "File Type"
+msgstr "סוג קובץ"
+
+msgid "Filename"
+msgstr "שם קובץ"
+
 msgid "Files"
 msgstr "קבצים"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "חפש"
+msgid "Filesystem"
+msgstr "מערכת קבצים"
 
-#. Occurs in 10 KDE PO files
+msgid "Fill"
+msgstr "מילוי"
+
+msgid "Fill Color"
+msgstr "צבע מילוי"
+
+msgid "Filter"
+msgstr "מסנן"
+
+msgid "Filter..."
+msgstr "סינון…"
+
+msgid "Filters"
+msgstr "מסננים"
+
+msgid "Final"
+msgstr "סופי"
+
+msgid "Find"
+msgstr "איתור"
+
+msgid "&Find"
+msgstr "&איתור"
+
+msgid "_Find"
+msgstr "_חיפוש"
+
+msgid "F&ind"
+msgstr "&איתור"
+
+msgid "Find..."
+msgstr "איתור…"
+
+msgid "_Find..."
+msgstr "_חיפוש..."
+
+msgid "Find and Replace"
+msgstr "איתור והחלפה"
+
+msgid "Find Next"
+msgstr "איתור הבא"
+
+msgid "Find _Next"
+msgstr "ה_בא"
+
+msgid "Find Ne_xt"
+msgstr "חיפוש ה_בא"
+
+msgid "Find Previous"
+msgstr "חיפוש הקודם"
+
+msgid "Find Pre_vious"
+msgstr "חיפוש הקו_דם"
+
+msgid "Fingerprint"
+msgstr "טביעת אצבע"
+
+msgid "Finish"
+msgstr "סיום"
+
+msgid "Finished"
+msgstr "הסתיים"
+
+msgid "Finland"
+msgstr "פינלנד"
+
+msgid "Finnish"
+msgstr "פינית"
+
+msgid "First"
+msgstr "ראשון"
+
+msgid "First Page"
+msgstr "עמוד ראשון"
+
+msgid "Fit"
+msgstr "התאמה"
+
+msgid "Fit Width"
+msgstr "התאמה לרוחב"
+
+msgid "Fixed"
+msgstr "קבוע"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "דגל"
+
+msgid "Flags"
+msgstr "דגלים"
+
+msgid "Flash"
+msgstr "מבזק"
+
+msgid "Flat"
+msgstr "שטוח"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "היפוך"
+
+msgid "Flip Horizontally"
+msgstr "היפוך אופקי"
+
+msgid "Flip horizontally"
+msgstr "היפוך אופקי"
+
+msgid "Flip Vertically"
+msgstr "היפוך אנכי"
+
+msgid "Flip vertically"
+msgstr "היפוך אנכי"
+
+msgid "Float"
+msgstr "נקודה צפה"
+
+msgid "Floating"
+msgstr "צף"
+
+msgid "Flow"
+msgstr "זרימה"
+
+msgid "flower"
+msgstr "פרח"
+
+msgid "Focal Length"
+msgstr "אורך מוקד"
+
+msgid "Focus"
+msgstr "מיקוד"
+
+msgid "Folder"
+msgstr "תיקייה"
+
+msgid "Folder name"
+msgstr "שם התיקייה"
+
+msgid "Folders"
+msgstr "תיקיות"
+
+msgid "Folk"
+msgstr "עממי"
+
+msgid "Font"
+msgstr "גופן"
+
+msgid "&Font"
+msgstr "&גופן"
+
+msgid "Font Color"
+msgstr "צבע גופן"
+
+msgid "Font Family"
+msgstr "משפחת גופנים"
+
+msgid "Font Size"
+msgstr "גודל כתב"
+
+msgid "Font size"
+msgstr "גודל כתב"
+
+msgid "Fonts"
+msgstr "גופנים"
+
+msgid "_Fonts"
+msgstr "_גופנים"
+
+msgid "Food"
+msgstr "מזון"
+
+msgid "Footer"
+msgstr "כותרת תחתונה"
+
+msgid "Force"
+msgstr "אכיפה"
+
+msgid "Forecast"
+msgstr "תחזית"
+
+msgid "Foreground"
+msgstr "חזית"
+
+msgid "Foreground Color"
+msgstr "צבע חזית"
+
+msgid "Foreground color"
+msgstr "צבע חזית"
+
+msgid "forever"
+msgstr "לעד"
+
+msgid "Form"
+msgstr "צורה"
+
+msgid "Format"
+msgstr "תבנית"
+
+msgid "Formatting"
+msgstr "עיצוב"
+
+msgid "Former Maintainer"
+msgstr "מתחזק לשעבר"
+
+msgid "Former maintainer"
+msgstr "מתחזק לשעבר"
+
+msgid "Formula"
+msgstr "נוסחה"
+
+msgid "Forward"
+msgstr "קדימה"
+
+msgid "&Forward"
+msgstr "&קדימה"
+
+msgid "_Forward"
+msgstr "ק_דימה"
+
+msgid "Fraction"
+msgstr "שבר"
+
+msgid "Frame"
+msgstr "מסגרת"
+
+msgid "Framerate"
+msgstr "קצב תמוניות"
+
+msgid "Frames"
+msgstr "מסגרות"
+
+msgid "France"
+msgstr "צרפת"
+
+msgid "Free"
+msgstr "חופשי"
+
+msgid "French"
+msgstr "צרפתית"
+
+msgid "French Guiana"
+msgstr "גיינה הצרפתית"
+
+msgid "Frequency"
+msgstr "תדירות"
+
+msgid "Friday"
+msgstr "יום שישי"
+
+msgid "Friends"
+msgstr "חברים"
+
+msgid "From"
+msgstr "מאת"
+
+msgid "from"
+msgstr "מאת"
+
+msgid "From %1"
+msgstr "מ־%1"
+
+msgid "Frozen"
+msgstr "קפוא"
+
+msgid "Full"
+msgstr "מלא"
+
+msgid "Full Name"
+msgstr "שם מלא"
+
+msgid "Full Screen"
+msgstr "מסך מלא"
+
+msgid "Full Screen Mode"
+msgstr "מצב מסך מלא"
+
+msgid "F&ull Screen Mode"
+msgstr "מצב מסך מ&לא"
+
+msgid "Fullscreen"
+msgstr "מסך מלא"
+
+msgid "_Fullscreen"
+msgstr "מסך מ_לא"
+
 msgid "Function"
 msgstr "פונקציה"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "קבוצה:"
+msgid "function"
+msgstr "פונקציה"
 
-#. Occurs in 10 KDE PO files
+msgid "Functions"
+msgstr "פונקציות"
+
+msgid "Future"
+msgstr "עתידי"
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "גבון"
+
+msgid "Galician"
+msgstr "גליסית"
+
+msgid "Gallery"
+msgstr "גלריה"
+
+msgid "Gambia"
+msgstr "גמביה"
+
+msgid "Game"
+msgstr "משחק"
+
+msgid "&Game"
+msgstr "מ&שחק"
+
+msgid "Game Over"
+msgstr "המשחק הסתיים"
+
+msgid "Games"
+msgstr "משחקים"
+
+msgid "Gamma"
+msgstr "גאמה"
+
+msgid "Gas"
+msgstr "דלק"
+
+msgid "Gate"
+msgstr "שער"
+
+msgid "Gateway"
+msgstr "שער גישה"
+
+msgid "Gaussian Blur"
+msgstr "טשטוש גאוסי"
+
+msgid "GB"
+msgstr "ג״ב"
+
+msgid "Gender"
+msgstr "מגדר"
+
+msgid "General"
+msgstr "כללי"
+
+msgid "&General"
+msgstr "&כללי"
+
+msgid "General Options"
+msgstr "אפשרויות כלליות"
+
+msgid "General options"
+msgstr "אפשרויות כלליות"
+
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+msgid "Generate"
+msgstr "יצירה"
+
+msgid "Generic"
+msgstr "כללי"
+
+msgid "Genre"
+msgstr "סגנון"
+
+msgid "Genres"
+msgstr "סוגות"
+
+msgid "Geometry"
+msgstr "גאומטריה"
+
+msgid "George Staikos"
+msgstr "ג׳ורג׳ סטייקוס"
+
+msgid "Georgia"
+msgstr "גאורגיה"
+
+msgid "Georgian"
+msgstr "גאורגית"
+
+msgid "German"
+msgstr "גרמנית"
+
+msgid "Germany"
+msgstr "גרמניה"
+
+msgid "Get New..."
+msgstr "הורדת חדש…"
+
+msgid "Get New Plugins..."
+msgstr "הורדת תוספים חדשים…"
+
+msgid "Ghana"
+msgstr "גאנה"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "שם פרטי"
+
+msgid "Global"
+msgstr "מקיף"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "מעבר"
+
+msgid "&Go"
+msgstr "מ&עבר"
+
+msgid "_Go"
+msgstr "_מעבר"
+
+msgid "Go Back"
+msgstr "חזרה"
+
+msgid "Go back"
+msgstr "חזרה"
+
+msgid "Go forward"
+msgstr "התקדמות"
+
+msgid "Go To"
+msgstr "מעבר אל"
+
+msgid "Go to first page"
+msgstr "מעבר לעמוד הראשון"
+
+msgid "Go to last page"
+msgstr "מעבר לעמוד האחרון"
+
+msgid "Go to Line"
+msgstr "מעבר לשורה"
+
+msgid "Go to next page"
+msgstr "מעבר לעמוד הבא"
+
+msgid "Go to previous page"
+msgstr "מעבר לעמוד הקודם"
+
+msgid "Goa"
+msgstr "גואה"
+
+msgid "Gold"
+msgstr "זהב"
+
+msgid "Good"
+msgstr "טובה"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "גותי"
+
+msgid "Gradient"
+msgstr "מדרג"
+
+msgid "Gradients"
+msgstr "מדרגים"
+
+msgid "Graph"
+msgstr "תרשים"
+
+msgid "Graphics"
+msgstr "גרפיקה"
+
+msgid "Gray"
+msgstr "אפור"
+
+msgid "gray"
+msgstr "אפור"
+
+msgid "Grayscale"
+msgstr "גווני אפור"
+
+msgid "Greece"
+msgstr "יוון"
+
+msgid "Greek"
+msgstr "יוונית"
+
+msgid "Green"
+msgstr "ירוק"
+
+msgid "green"
+msgstr "ירוק"
+
+msgid "Grenada"
+msgstr "גרנדה"
+
+msgid "Grey"
+msgstr "אפור"
+
+msgid "Grid"
+msgstr "רשת"
+
+msgid "Group"
+msgstr "קבוצה"
+
+msgid "Group name"
+msgstr "שם קבוצה"
+
+msgid "Grouping"
+msgstr "קיבוץ"
+
+msgid "Groups"
+msgstr "קבוצות"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "גואטמלה"
+
+msgid "Guides"
+msgstr "קווים מנחים"
+
+msgid "Guinea"
+msgstr "גינאה"
+
+msgid "Gujarati"
+msgstr "גוג׳ראטית"
+
+msgid "Gurmukhi"
+msgstr "גורמוקי"
+
+msgid "Guyana"
+msgstr "גיאנה"
+
+msgid "H"
+msgstr "H"
+
+msgid "Haiti"
+msgstr "האיטי"
+
+msgid "Hard"
+msgstr "קשה"
+
+msgid "Hardware"
+msgstr "חומרה"
+
+msgid "Hawaiian"
+msgstr "הוואית"
+
+msgid "Header"
+msgstr "כותרת"
+
+msgid "Headers"
+msgstr "כותרות"
+
+msgid "Heading"
+msgstr "כותרת"
+
+msgid "Heading 1"
+msgstr "כותרת 1"
+
+msgid "Heading 2"
+msgstr "כותרת 2"
+
+msgid "Heading 3"
+msgstr "כותרת 3"
+
+msgid "Heading 4"
+msgstr "כותרת 4"
+
+msgid "Headphones"
+msgstr "אוזניות"
+
+msgid "Headset"
+msgstr "אוזניות עם מיקרופון"
+
+msgid "Health"
+msgstr "בריאות"
+
+msgid "Hebrew"
+msgstr "עברית"
+
+msgid "Height"
+msgstr "גובה"
+
+msgid "&Height"
+msgstr "&גובה"
+
+msgid "Help"
+msgstr "עזרה"
+
+msgid "&Help"
+msgstr "ע&זרה"
+
+msgid "_Help"
+msgstr "ע_זרה"
+
+msgid "Helsinki"
+msgstr "הלסינקי"
+
+msgid "Hex"
+msgstr "הקס"
+
+msgid "Hexadecimal"
+msgstr "הקסדצימלי"
+
+msgid "Hexagon"
+msgstr "משושה"
+
+msgid "Hibernate"
+msgstr "תרדמת"
+
+msgid "Hidden"
+msgstr "מוסתר"
+
+msgid "hidden"
+msgstr "מוסתר"
+
+msgid "Hide"
+msgstr "הסתרה"
+
+msgid "&Hide"
+msgstr "ה&סתרה"
+
 msgid "Hide menu bar"
-msgstr "הסתר תפריט"
+msgstr "הסתרת סרגל תפריטים"
 
-#. Occurs in 10 KDE PO files
 msgid "High"
 msgstr "גבוהה"
 
-#. Occurs in 10 KDE PO files
+msgid "Highlight"
+msgstr "הדגשה"
+
+msgid "Highlighter"
+msgstr "מדגיש"
+
+msgid "Highlights"
+msgstr "הדגשות"
+
+msgid "Hindi"
+msgstr "הינדי"
+
+msgid "Hint"
+msgstr "רמז"
+
+msgid "Histogram"
+msgstr "היסטוגרמה"
+
 msgid "History"
 msgstr "היסטוריה"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "%H:%M"
+msgstr "%H:%M"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "הזז מ&עלה"
+msgid "Hold"
+msgstr "החזקה"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
+msgid "Holidays"
+msgstr "חגים"
+
+msgid "Home"
+msgstr "בית"
+
+msgid "&Home"
+msgstr "&בית"
+
+msgid "Home Folder"
+msgstr "תיקיית הבית"
+
+msgid "Home Page"
+msgstr "אתר הבית"
+
+msgid "Homepage"
+msgstr "דף הבית"
+
+msgid "Honduras"
+msgstr "הונדורס"
+
+msgid "Hong Kong"
+msgstr "הונג קונג"
+
+msgid "Horizontal"
+msgstr "אופקי"
+
+msgid "Host"
+msgstr "מארח"
+
+msgid "Hostname"
+msgstr "שם מארח"
+
+msgid "Hotspot"
+msgstr "נקודה חמה"
+
+msgid "Hour"
+msgstr "שעה"
+
+msgid "Hours"
+msgstr "שעות"
+
+msgid "hours"
+msgstr "שעות"
+
+msgid "House"
+msgstr "בית"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "גוון"
+
+msgid "Huge"
+msgstr "ענק"
+
+msgid "Hungarian"
+msgstr "הונגרית"
+
+msgid "Hungary"
+msgstr "הונגריה"
+
+msgid "Hz"
+msgstr "הרץ"
+
+msgid "I"
+msgstr "הראשון"
+
+msgid "Ian Wadham"
+msgstr "איאן ודהאם"
+
+msgid "Iceland"
+msgstr "איסלנד"
+
+msgid "Icelandic"
+msgstr "איסלנדית"
+
+msgid "Icon"
+msgstr "סמל"
+
+msgid "Icon Size"
+msgstr "גודל סמלים"
+
+msgid "Icon size"
+msgstr "גודל סמלים"
+
+msgid "Icon View"
+msgstr "תצוגת סמלים"
+
+msgid "Icons"
+msgstr "סמלים"
+
+msgid "ID"
+msgstr "מזהה"
+
+msgid "Id"
+msgstr "מזהה"
+
+msgid "id"
+msgstr "מזהה"
+
+msgid "Identifier"
+msgstr "מזהה"
+
+msgid "Identity"
+msgstr "זהות"
+
+msgid "Idle"
+msgstr "בהמתנה"
+
+msgid "Ignore"
+msgstr "התעלמות"
+
+msgid "_Ignore"
+msgstr "הת_עלמות"
+
+msgid "Ignore Case"
+msgstr "התעלמות מרישיות"
+
+msgid "Ignored"
+msgstr "נתעלמה"
+
+msgid "Image"
+msgstr "תמונה"
+
+msgid "image"
+msgstr "תמונה"
+
+msgid "&Image"
+msgstr "&תמונה"
+
+msgid "_Image"
+msgstr "_תמונה"
+
+msgid "Image Editor"
+msgstr "עורך תמונות"
+
+msgid "Image Files"
+msgstr "קובצי תמונות"
+
+msgid "Image files"
+msgstr "קובצי תמונות"
+
+msgid "Image Gallery"
+msgstr "גלריית תמונות"
+
+msgid "Image Properties"
+msgstr "מאפייני תמונה"
+
+msgid "Image Settings"
+msgstr "הגדרות תמונה"
+
+msgid "Image Size"
+msgstr "גודל תמונה"
+
+msgid "Image Viewer"
+msgstr "מציג תמונות"
+
+msgid "Images"
+msgstr "תמונות"
+
+msgid "Images (%1)"
+msgstr "תמונות (%1)"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "ייבוא"
+
+msgid "&Import"
+msgstr "יי&בוא"
+
+msgid "_Import"
+msgstr "_ייבוא"
+
+msgid "Import..."
+msgstr "ייבוא…"
+
+msgid "&Import..."
+msgstr "יי&בוא…"
+
+msgid "Import failed"
+msgstr "הייבוא נכשל"
+
+msgid "Important"
+msgstr "חשוב"
+
+msgid "In"
+msgstr "כניסה"
+
+msgid "in"
+msgstr "אינץ׳"
+
+msgid "Inactive"
+msgstr "לא פעיל"
+
+msgid "Inbox"
+msgstr "דואר נכנס"
+
+msgid "inch"
+msgstr "אינטש"
+
+msgid "Inches"
+msgstr "אינצ׳ים"
+
+msgid "inches"
+msgstr "אינצ׳ים"
+
+msgid "Inches (in)"
+msgstr "אינצ׳ים (in)"
+
+msgid "Include"
+msgstr "לכלול"
+
+msgid "Includes"
+msgstr "הכללות (Includes)"
+
+msgid "Incoming"
+msgstr "נכנס"
+
+msgid "Increase Font Size"
+msgstr "הגדלת הכתב"
+
+msgid "Increase Indent"
+msgstr "הגדלת הזחה"
+
+msgid "Increase Volume"
+msgstr "הגברת עוצמת שמע"
+
+msgid "Incremental"
+msgstr "לוח צבעים"
+
+msgid "Indentation"
+msgstr "הזחה"
+
+msgid "Index"
+msgstr "מפתח"
+
+msgid "Indexed"
+msgstr "טבלת צבעים"
+
+msgid "India"
+msgstr "הודו"
+
+msgid "Indonesia"
+msgstr "אינדונזיה"
+
+msgid "Indonesian"
+msgstr "אינדונזית"
+
+msgid "Industrial"
+msgstr "תעשייתי"
+
+msgid "Info"
+msgstr "פרטים"
+
+msgid "Information"
+msgstr "פרטים"
+
+msgid "Initials"
+msgstr "ראשי תיבות"
+
+msgid "Input"
+msgstr "קלט"
+
+msgid "Input Devices"
+msgstr "התקני קלט"
+
+msgid "Insert"
+msgstr "הוספה"
+
+msgid "&Insert"
+msgstr "הו&ספה"
+
+msgid "Insert Image"
+msgstr "הוספת תמונה"
+
+msgid "Insert Link"
+msgstr "הוספת קישור"
+
+msgid "Insert Table"
+msgstr "הוספת טבלה"
+
+msgid "Insert Text"
+msgstr "הוספת טקסט"
+
+msgid "Install"
+msgstr "התקנה"
+
+msgid "Install..."
+msgstr "התקנה…"
+
+msgid "Install from File..."
+msgstr "התקנה מקובץ…"
+
+msgid "Installed"
+msgstr "מותקן"
+
+msgid "Installing"
+msgstr "בהתקנה"
+
+msgid "Instant"
+msgstr "מיידי"
+
+msgid "Integer"
+msgstr "מספר שלם"
+
+msgid "Integrate"
+msgstr "שילוב"
+
+msgid "Intensity"
+msgstr "עוצמה"
+
+msgid "Interface"
+msgstr "ממשק"
+
+msgid "Internal"
+msgstr "פנימי"
+
+msgid "Internal Error"
+msgstr "שגיאה פנימית"
+
+msgid "Internal error"
+msgstr "שגיאה פנימית"
+
+msgid "International"
+msgstr "בינלאומי"
+
+msgid "Internet"
+msgstr "אינטרנט"
+
+msgid "Interpolation"
+msgstr "ביון"
+
+msgid "Interrupt"
+msgstr "הפרעה"
+
+msgid "Interval"
+msgstr "הפרש"
+
+msgid "Introduction"
+msgstr "היכרות"
+
+msgid "Invalid"
+msgstr "שגוי"
+
+msgid "invalid"
+msgstr "שגוי"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr ""
+
+msgid "Invalid date"
+msgstr "תאריך שגוי"
+
+msgid "Invalid password"
+msgstr "הסיסמה שגויה"
+
+msgid "Invalid URL"
+msgstr "כתובת שגויה"
+
+msgid "Invert"
+msgstr "היפוך"
+
+msgid "Invert Selection"
+msgstr "היפוך בחירה"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "כתובת IP"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "איראן"
+
+msgid "Iraq"
+msgstr "עיראק"
+
+msgid "Ireland"
+msgstr "אירלנד"
+
+msgid "Irish"
+msgstr "אירית"
+
+msgid "is"
+msgstr "הוא"
+
+msgid "Israel"
+msgstr "ישראל"
+
+msgid "Issued By"
+msgstr "הונפק על ידי"
+
+msgid "Issuer"
+msgstr "מנפיק"
+
+msgid "Italian"
+msgstr "איטלקית"
+
+msgid "Italic"
+msgstr "נטוי"
+
+msgid "&Italic"
+msgstr "&נטוי"
+
+msgid "_Italic"
+msgstr "_נטוי"
+
+msgid "Italy"
+msgstr "איטליה"
+
+msgid "Item"
+msgstr "פריט"
+
+msgid "Items"
+msgstr "פריטים"
+
+msgid "Iterations"
+msgstr "איטרציות"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "ג׳מייקה"
+
+msgid "January"
+msgstr "ינואר"
+
+msgid "Japan"
+msgstr "יפן"
+
+msgid "Japanese"
+msgstr "יפנית"
+
+msgid "Javanese"
+msgstr "ג׳אווה"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "ג'אז"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "יוהאן אוליבייר לאפייר"
+
+msgid "Join"
+msgstr "הצטרפות"
+
+msgid "Jonah Brüchert"
+msgstr "יונה ברכרט"
+
+msgid "Jordan"
+msgstr "ירדן"
+
+msgid "Joseph Wenninger"
+msgstr "ג׳וזף ונינגר"
+
+msgid "Joshua Goins"
+msgstr "ג׳ושוע גוינס"
+
+msgid "Journal"
+msgstr "יומן"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "יולי"
+
+msgid "Jump to next match"
+msgstr "דילוג לתוצאה הבאה"
+
+msgid "Jump to previous match"
+msgstr "דילוג לתוצאה הקודמת"
+
+msgid "June"
+msgstr "יוני"
+
+msgid "Justify"
+msgstr "יישור"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "קאנדה"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "קזחית"
+
+msgid "Kazakhstan"
+msgstr "קזחסטן"
+
+msgid "kB"
+msgstr "ק״ב"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "קהילת KDE, פליפה קינושיטה"
+
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "להשאיר"
+
+msgid "_Keep"
+msgstr "_שמירה"
+
+msgid "Keep aspect ratio"
+msgstr "שמירה על יחס גובה־רוחב"
+
+msgid "Keep Open"
+msgstr "להשאיר פתוח"
+
+msgid "Kenya"
+msgstr "קניה"
+
+msgid "Kernel"
+msgstr "ליבה"
+
+msgid "Key"
+msgstr "מפתח"
+
+msgid "Key ID"
+msgstr "מזהה מפתח"
+
+msgid "Keyboard"
+msgstr "מקלדת"
+
+msgid "Keyboard Layout"
+msgstr "פריסת מקלדת"
+
+msgid "Keyboard Shortcuts"
+msgstr "צירופי מקשים"
+
+msgid "Keyboard shortcuts"
+msgstr "צירופי מקשים"
+
+msgid "_Keyboard Shortcuts"
+msgstr "_צירופי מקשים"
+
+msgid "Keys"
+msgstr "מקשים"
+
+msgid "Keyword"
+msgstr "מילת מפתח"
+
+msgid "Keywords"
+msgstr "מילות מפתח"
+
+msgid "Khmer"
+msgstr "חמרית"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "סוג"
+
+msgid "Kiribati"
+msgstr "קיריבס"
+
+msgid "km"
+msgstr "ק״מ"
+
+msgid "KMail"
+msgstr "KMail"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "קוריאנית"
+
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+msgid "Kuwait"
+msgstr "כווית"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "תווית"
+
+msgid "label"
+msgstr "תווית"
+
+msgid "Labels"
+msgstr "תוויות"
+
+msgid "Landscape"
+msgstr "לרוחב"
+
+msgid "Language"
+msgstr "שפה"
+
+msgid "_Language"
+msgstr "_שפה"
+
+msgid "Languages"
+msgstr "שפות"
+
+msgid "Lao"
+msgstr "לאו"
+
+msgid "Laos"
+msgstr "לאוס"
+
+msgid "Large"
+msgstr "גדול"
+
+msgid "Last"
+msgstr "אחרון"
+
+msgid "Last Modified"
+msgstr "שינוי אחרון"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "לטינית"
+
+msgid "Latitude"
+msgstr "קו רוחב"
+
+msgid "Latvia"
+msgstr "לטביה"
+
+msgid "Latvian"
+msgstr "לטבית"
+
+msgid "Launch %1"
+msgstr "הפעלת %1"
+
+msgid "Layer"
+msgstr "שכבה"
+
+msgid "Layers"
+msgstr "שכבות"
+
+msgid "Layout"
+msgstr "פריסה"
+
+msgid "Leave Fullscreen"
+msgstr "יציאה ממצב מסך מלא"
+
+msgid "Lebanon"
+msgstr "לבנון"
+
+msgid "Left"
+msgstr "שמאל"
+
+msgid "left"
+msgstr "שמאל"
+
+msgid "&Left"
+msgstr "&שמאל"
+
+msgid "_Left"
+msgstr "_שמאל"
+
+msgid "Left to Right"
+msgstr "משמאל לימין"
+
+msgid "Legacy"
+msgstr "מיושן"
+
+msgid "Legend"
+msgstr "מקרא"
+
+msgid "Length"
+msgstr "אורך"
+
+msgid "Lesotho"
+msgstr "לסוטו"
+
+msgid "Letter"
+msgstr "מכתב"
+
+msgid "Level"
+msgstr "רמה"
+
+msgid "Level %1"
+msgstr "שלב %1"
+
+msgid "Levels"
+msgstr "רמות"
+
+msgid "Liberia"
+msgstr "ליבריה"
+
+msgid "Library"
+msgstr "ספרייה"
+
+msgid "License"
+msgstr "רישיון"
+
+msgid "Liechtenstein"
+msgstr "ליכטנשטיין"
+
+msgid "Light"
+msgstr "בהיר"
+
+msgid "Lighten"
+msgstr "הבהרה"
+
+msgid "Lightness"
+msgstr "בהירות"
+
+msgid "Limit"
+msgstr "הגבלה"
+
+msgid "Limits"
+msgstr "הגבלות"
+
+msgid "Line"
+msgstr "קו"
+
+msgid "line"
+msgstr "שורה"
+
+msgid "Line Break"
+msgstr "ירידת שורה"
+
+msgid "Line Color"
+msgstr "צבע קו"
+
+msgid "Line Numbers"
+msgstr "מספרי שורות"
+
+msgid "Line Width"
+msgstr "עובי קו"
+
+msgid "Line width"
+msgstr "עובי קו"
+
+msgid "Linear"
+msgstr "קווי"
+
+msgid "Lines"
+msgstr "קווים"
+
+msgid "Link"
+msgstr "קישור"
+
+msgid "link"
+msgstr "קישור"
+
+msgid "Link URL"
+msgstr "כתובת קישור"
+
+msgid "Links"
+msgstr "קישורים"
+
+msgid "Linux"
+msgstr "לינוקס"
+
+msgid "List"
+msgstr "רשימה"
+
+msgid "List View"
+msgstr "תצוגת רשימה"
+
+msgid "Lists"
+msgstr "רשימות"
+
+msgid "Lists the available options for user feedback"
+msgstr "הצגת האפשרויות הזמינות למשוב משתמש"
+
+msgid "Lithuania"
+msgstr "ליטא"
+
+msgid "Lithuanian"
+msgstr "ליטאית"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "טעינה"
+
+msgid "Load..."
+msgstr "טעינה…"
+
+msgid "Load Game"
+msgstr "טעינת משחק"
+
+msgid "Loading"
+msgstr "בטעינה"
+
+msgid "Loading..."
+msgstr "בטעינה…"
+
+msgid "Loading %1..."
+msgstr "%1  בטעינה…"
+
+msgid "Local"
+msgstr "מקומי"
+
+msgid "Locale"
+msgstr "אזור"
+
+msgid "Locality"
+msgstr "מחוז"
+
+msgid "Location"
+msgstr "מקום"
+
+msgid "Locations"
+msgstr "מקומות"
+
+msgid "Lock"
+msgstr "נעילה"
+
+msgid "Lock Screen"
+msgstr "נעילת המסך"
+
+msgid "Locked"
+msgstr "נעול"
+
+msgid "Log"
+msgstr "יומן"
+
+msgid "Log in"
+msgstr "כניסה"
+
+msgid "Log Out"
+msgstr "יציאה"
+
+msgid "Logarithmic"
+msgstr "לוגריתמי"
+
+msgid "Logging"
+msgstr "תיעוד"
+
+msgid "Logging in..."
+msgstr "בהתחברות…"
+
+msgid "Logic"
+msgstr "היגיון"
+
+msgid "Login"
+msgstr "כניסה"
+
+msgid "_Login"
+msgstr "_כניסה"
+
+msgid "Logout"
+msgstr "יציאה"
+
+msgid "Logs"
+msgstr "יומנים"
+
+msgid "Longitude"
+msgstr "קו אורך"
+
+msgid "Loop"
+msgstr "לולאה"
+
+msgid "Low"
+msgstr "נמוכה"
+
+msgid "Lower"
+msgstr "דוחקת"
+
+msgid "Lowercase"
+msgstr "אותיות רגילות"
+
+msgid "Lukáš Tinkl"
+msgstr "לוקאש טינקל"
+
+msgid "Luminance"
+msgstr "הארה"
+
+msgid "Luxembourg"
+msgstr "לוקסמבורג"
+
+msgid "Lyricist"
+msgstr "פזמונאי/ת"
+
+msgid "Lyrics"
+msgstr "מילות־שיר"
+
+msgid "M"
+msgstr "ב"
+
+msgid "m"
+msgstr "מ׳"
+
+msgid "Macedonian"
+msgstr "מקדונית"
+
+msgid "Macro"
+msgstr "תסריט"
+
+msgid "Macros"
+msgstr "תסריטי מאקרו"
+
+msgid "Madagascar"
+msgstr "מדגסקר"
+
+msgid "Magenta"
+msgstr "ארגמן"
+
+msgid "Mail"
+msgstr "דוא״ל"
+
+msgid "Main"
+msgstr "ראשי"
+
+msgid "Main Menu"
+msgstr "תפריט ראשי"
+
+msgid "Main Toolbar"
+msgstr "סרגל כלים ראשי"
+
+msgid "Main Window"
+msgstr "חלון ראשי"
+
+msgid "Main window"
+msgstr "חלון ראשי"
+
+msgid "Maintainer"
+msgstr "מתחזק"
+
+msgid "Malawi"
+msgstr "מלאווי"
+
+msgid "Malay"
+msgstr "מלאית"
+
+msgid "Malayalam"
+msgstr "מלאיאלאם"
+
+msgid "Malaysia"
+msgstr "מלזיה"
+
+msgid "Maldives"
+msgstr "האיים המלדיביים"
+
+msgid "Male"
+msgstr "זכר"
+
+msgid "Mali"
+msgstr "מאלי"
+
+msgid "Malta"
+msgstr "מלטה"
+
+msgid "Maltese"
+msgstr "מלטית"
+
+msgid "Manager"
+msgstr "מנהל/ת"
+
+msgid "Manual"
+msgstr "ידני"
+
+msgid "Manufacturer"
+msgstr "יצרן"
+
+msgid "Map"
+msgstr "מפה"
+
+msgid "Maps"
+msgstr "מפות"
+
+msgid "Marathi"
+msgstr "מראטהית"
+
+msgid "Marble"
+msgstr "Marble"
+
+msgid "March"
+msgstr "מרץ"
+
+msgid "Margins"
+msgstr "שוליים"
+
+msgid "Mark"
+msgstr "סימון"
+
+msgid "Mark as Read"
+msgstr "סימון כנקראה"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Marker"
+msgstr "סמן"
+
+msgid "Markers"
+msgstr "סמנים"
+
+msgid "Marshall Islands"
+msgstr "איי מרשל"
+
+msgid "Mask"
+msgstr "מסכה"
+
+msgid "Mass"
+msgstr "מסה"
+
+msgid "Match"
+msgstr "התאמה"
+
+msgid "Match case"
+msgstr "התאמת רישיות"
+
+msgid "_Match case"
+msgstr "הת_אמת רשיות"
+
+msgid "Math"
+msgstr "מתמטיקה"
+
+msgid "Matrix"
+msgstr "Matrix"
+
+msgid "Matthias Ettrich"
+msgstr "מתיאס אטריק"
+
+msgid "Mauricio Piacentini"
+msgstr "מאוריציו פיאצנטיני"
+
+msgid "Mauritania"
+msgstr "מאוריטניה"
+
+msgid "Mauritius"
+msgstr "מאוריציוס"
+
+msgid "Max"
+msgstr "מרבי"
+
+msgid "max"
+msgstr "מרבי"
+
+msgid "Maximize"
+msgstr "הגדלה"
+
+msgid "Maximum"
+msgstr "מרבי"
+
+msgid "May"
+msgstr "מאי"
+
+msgid "Maze"
+msgstr "מבוך"
+
+msgid "MB"
+msgstr "מ״ב"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "ממוצע"
+
+msgid "Measure"
+msgstr "מדידה"
+
+msgid "Media"
+msgstr "מדיה"
+
+msgid "Media Player"
+msgstr "נגן מדיה"
+
+msgid "Median"
+msgstr "חציון"
+
+msgid "Medium"
+msgstr "בינוני"
+
+msgid "medium"
+msgstr "בינוני"
+
+msgid "Member"
+msgstr "חבר"
+
+msgid "Memory"
+msgstr "זיכרון"
+
+msgid "Menu"
+msgstr "תפריט"
+
+msgid "Mercury"
+msgstr "כוכב חמה"
+
+msgid "Merge"
+msgstr "מיזוג"
+
+msgid "Message"
+msgstr "הודעה"
+
+msgid "message"
+msgstr "הודעה"
+
+msgid "Messages"
 msgstr "הודעות"
 
-#. Occurs in 10 KDE PO files
+msgid "Meta"
+msgstr "מטא"
+
+msgid "Metadata"
+msgstr "נתוני־על"
+
+msgid "Metal"
+msgstr "מתכת"
+
+msgid "meters"
+msgstr "מטרים"
+
+msgid "Method"
+msgstr "שיטה"
+
+msgid "Metric"
+msgstr "עדיפות"
+
+msgid "Mexico"
+msgstr "מקסיקו"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "מיקרופון"
+
+msgid "Middle"
+msgstr "אמצע"
+
+msgid "Miha Čančula"
+msgstr "מִיהַה צ׳נצ׳ולה"
+
+msgid "Milian Wolff"
+msgstr "מיליאן וולף"
+
+msgid "Millimeters"
+msgstr "מילימטרים"
+
+msgid "Millimeters (mm)"
+msgstr "מילימטרים (מ״מ)"
+
+msgid "Milliseconds"
+msgstr "מילישניות"
+
+msgid "milliseconds"
+msgstr " מילישניות"
+
+msgid "Min"
+msgstr "מזערי"
+
+msgid "min"
+msgstr "דק׳"
+
+msgid "Minimize"
+msgstr "מזעור"
+
+msgid "Minimum"
+msgstr "מזערי"
+
+msgid "Minute"
+msgstr "דקה"
+
+msgid "Minutes"
+msgstr "דקות"
+
+msgid "minutes"
+msgstr "דקות"
+
+msgid "Mirror"
+msgstr "שיקוף"
+
+msgid "Misc"
+msgstr "שונות"
+
+msgid "Miscellaneous"
+msgstr "שונות"
+
+msgid "missing plugin file \"%s\""
+msgstr "קובץ התוסף „%s” חסר"
+
+msgid "Miter limit"
+msgstr "גבול תפר"
+
+msgid "Mix"
+msgstr "ערבול"
+
+msgid "mm"
+msgstr "מ״מ"
+
+msgid "Mobile"
+msgstr "נייד"
+
+msgid "Mode"
+msgstr "מצב"
+
+msgid "Model"
+msgstr "דגם"
+
+msgid "Modem"
+msgstr "מודם"
+
+msgid "Modified"
+msgstr "מועד עריכה"
+
+msgid "modified"
+msgstr "השתנתה"
+
+msgid "Modifiers"
+msgstr "מחליפים"
+
+msgid "Modify"
+msgstr "שינוי"
+
+msgid "Modify..."
+msgstr "שינוי…"
+
+msgid "&Modify..."
+msgstr "&שינוי…"
+
+msgid "Modify search behavior"
+msgstr "שינוי התנהגות החיפוש"
+
+msgid "Module"
+msgstr "מודול"
+
+msgid "Modules"
+msgstr "מודולים"
+
+msgid "Moldova"
+msgstr "‫מולדובה‬"
+
+msgid "Monaco"
+msgstr "מונקו"
+
+msgid "Monday"
+msgstr "יום שני"
+
+msgid "Mongolia"
+msgstr "מונגוליה"
+
+msgid "Mongolian"
+msgstr "מונגולית"
+
+msgid "Monitor"
+msgstr "צג"
+
+msgid "Mono"
+msgstr "מונו"
+
+msgid "Monochrome"
+msgstr "צבע אחיד"
+
+msgid "Monospace"
+msgstr "רוחב אחיד"
+
+msgid "Montenegro"
+msgstr "מונטנגרו"
+
+msgid "Month"
+msgstr "חודש"
+
+msgid "Month View"
+msgstr "תצוגת חודש"
+
+msgid "Monthly"
+msgstr "חודשית"
+
+msgid "Months"
+msgstr "חודשים"
+
+msgid "More"
+msgstr "עוד"
+
+msgid "More..."
+msgstr "עוד…"
+
+msgid "More actions"
+msgstr "פעולות נוספות"
+
+msgid "More Information"
+msgstr "מידע נוסף"
+
+msgid "More options"
+msgstr "אפשרויות נוספות"
+
+msgid "Morocco"
+msgstr "מרוקו"
+
+msgid "Mount"
+msgstr "עיגון"
+
+msgid "Mount point"
+msgstr "נקודת עגינה"
+
+msgid "Mouse"
+msgstr "עכבר"
+
+msgid "Mouse Wheel"
+msgstr "גלגלת עכבר"
+
+msgid "Move"
+msgstr "העברה"
+
+msgid "&Move"
+msgstr "ה&זזה"
+
+msgid "_Move"
+msgstr "ה_זזה"
+
+msgid "Move %1"
+msgstr "הזזת %1"
+
+msgid "Move Down"
+msgstr "הורדה למטה"
+
+msgid "Move down"
+msgstr "הורדה למטה"
+
+msgid "Move &Down"
+msgstr "הורדה למ&טה"
+
+msgid "&Move Here"
+msgstr "ה&עברה לכאן"
+
+msgid "Move Left"
+msgstr "העברה שמאלה"
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr "העברה ימינה"
+
+msgid "Move Tab Left"
+msgstr "העברת לשונית שמאלה"
+
+msgid "Move Tab Right"
+msgstr "העברת לשונית ימינה"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "העברה אל"
+
+msgid "Move to Bottom"
+msgstr "העברה לתחתית"
+
+msgid "Move to Top"
+msgstr "העברה לראש"
+
+msgid "Move to Trash"
+msgstr "העברה לאשפה"
+
+msgid "&Move to Trash"
+msgstr "העברה ל&אשפה"
+
+msgid "Move Up"
+msgstr "העלאה למעלה"
+
+msgid "Move up"
+msgstr "העלאה למעלה"
+
+msgid "Move &Up"
+msgstr "העלאה למ&עלה"
+
+msgid "Mozambique"
+msgstr "מוזמביק"
+
+msgid "ms"
+msgstr "מ״ש"
+
+msgid "m/s"
+msgstr "מטרים לשנייה"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "מולטימדיה"
+
+msgid "Multiply"
+msgstr "הכפלה"
+
+msgid "Music"
+msgstr "מוזיקה"
+
+msgid "Music Player"
+msgstr "נגן מוזיקה"
+
+msgid "Mute"
+msgstr "השתקה"
+
+msgid "Myanmar"
+msgstr "מיאנמר"
+
+msgid "N"
+msgstr "צפ׳"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "לא זמין"
+
+msgid "n/a"
+msgstr "לא זמין"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "Name"
+msgstr "שם"
+
+msgid "name"
+msgstr "שם"
+
+msgid "&Name"
+msgstr "&שם"
+
+msgid "_Name"
+msgstr "_שם"
+
+msgid "Name: %1"
+msgstr "שם: %1"
+
+msgid "Namespace"
+msgstr "מרחב שם"
+
+msgid "Namibia"
+msgstr "נמיביה"
+
+msgid "Nature"
+msgstr "טבע"
+
+msgid "Nauru"
+msgstr "נאורו"
+
+msgid "Navigation"
+msgstr "ניווט"
+
+msgid "Negative"
+msgstr "שלילי"
+
+msgid "Neon"
+msgstr "נאון"
+
+msgid "Nepal"
+msgstr "נפאל"
+
+msgid "Nepali"
+msgstr "נפאלית"
+
+msgid "Netherlands"
+msgstr "הולנד"
+
+msgid "Network"
+msgstr "רשת"
+
+msgid "Networks"
+msgstr "רשתות"
+
+msgid "Never"
+msgstr "אף פעם"
+
+msgid "never"
+msgstr "אף פעם לא"
+
+msgid "New"
+msgstr "חדש"
+
+msgid "&New"
+msgstr "&חדש"
+
+msgid "_New"
+msgstr "_חדש"
+
+msgid "New..."
+msgstr "חדש…"
+
+msgid "&New..."
+msgstr "&חדש…"
+
+msgid "_New..."
+msgstr ""
+
+msgid "New Bookmark"
+msgstr "סימנייה חדשה"
+
+msgid "New Connection"
+msgstr "חיבור חדש"
+
+msgid "New File"
+msgstr "קובץ חדש"
+
+msgid "New Folder"
+msgstr "תיקייה חדשה"
+
+msgid "New folder"
+msgstr "תיקייה חדשה"
+
+msgid "New Folder..."
+msgstr "תיקייה חדשה…"
+
+msgid "New Game"
+msgstr "משחק חדש"
+
+msgid "New Group"
+msgstr "קבוצה חדשה"
+
+msgid "New Item"
+msgstr "פריט חדש"
+
+msgid "New Layer"
+msgstr "שכבה חדשה"
+
+msgid "New Message"
+msgstr "הודעה חדשה"
+
+msgid "New Name"
+msgstr "שם חדש"
+
+msgid "New name"
+msgstr "שם חדש"
+
+msgid "New Profile"
+msgstr "פרופיל חדש"
+
+msgid "New Project"
+msgstr "מיזם חדש"
+
+msgid "New Session"
+msgstr "הפעלה חדשה"
+
+msgid "New South Wales"
+msgstr "ניו סאות׳ ויילס"
+
+msgid "New Tab"
+msgstr "לשונית חדשה"
+
+msgid "New tag"
+msgstr "תגית חדשה"
+
+msgid "New Window"
+msgstr "חלון חדש"
+
+msgid "_New Window"
+msgstr "_חלון חדש"
+
+msgid "New &Window"
+msgstr "&חלון חדש"
+
+msgid "New _Window"
+msgstr "_חלון חדש"
+
+msgid "New Zealand"
+msgstr "ניו זילנד"
+
+msgid "News"
+msgstr "חדשות"
+
+msgid "Newton"
+msgstr "Newton"
+
+msgid "Next"
+msgstr "הבא"
+
+msgid "&Next"
+msgstr "ה&בא"
+
+msgid "_Next"
+msgstr "ה_בא"
+
+msgid "Next Image"
+msgstr "התמונה הבאה"
+
+msgid "Next month"
+msgstr "החודש הבא"
+
+msgid "Next Page"
+msgstr "העמוד הבא"
+
+msgid "Next Tab"
+msgstr "הלשונית הבאה"
+
+msgid "Next Track"
+msgstr "הרצועה הבאה"
+
+msgid "Nicaragua"
+msgstr "ניקרגואה"
+
+msgid "Nickname"
+msgstr "כינוי"
+
+msgid "Niger"
+msgstr "ניז׳ר"
+
+msgid "Nigeria"
+msgstr "ניגריה"
+
+msgid "Night"
+msgstr "לילה"
+
+msgid "No"
+msgstr "לא"
+
+msgid "no"
+msgstr "לא"
+
+msgid "_No"
+msgstr "_לא"
+
+msgid "No."
+msgstr "מס׳"
+
+msgid "No description available"
+msgstr "אין תיאור זמין"
+
+msgid "No devices found"
+msgstr "לא נמצאו מכשירים"
+
+msgid "No error"
+msgstr "אין שגיאה"
+
+msgid "No file selected"
+msgstr "לא נבחר קובץ"
+
+msgid "No filter"
+msgstr "ללא מסנן"
+
+msgid "No Limit"
+msgstr "ללא הגבלה"
+
+msgid "No matches"
+msgstr "אין התאמות"
+
+msgid "No Name"
+msgstr "אין שם"
+
+msgid "No name"
+msgstr "אין שם"
+
+msgid "No network connection"
+msgstr "אין חיבור לאינטרנט"
+
+msgid "No results"
+msgstr "אין תוצאות"
+
+msgid "No Results Found"
+msgstr "לא נמצאו תוצאות"
+
+msgid "No results found"
+msgstr "לא נמצאו תוצאות"
+
+msgid "No search results"
+msgstr "אין תוצאות לחיפוש"
+
+msgid "No selection"
+msgstr "אין בחירה"
+
+msgid "No Subject"
+msgstr "ללא נושא"
+
+msgid "No VPN configuration options."
+msgstr "אין אפשרויות הגדרת VPN."
+
+msgid "Noise"
+msgstr "רעש"
+
+msgid "None"
+msgstr "ללא"
+
+msgid "none"
+msgstr "אין"
+
+msgid "&None"
+msgstr "&ללא"
+
+msgid "_None"
+msgstr "_ללא"
+
+msgid "(None)"
+msgstr "(אין)"
+
+msgid "(none)"
+msgstr "(אין)"
+
+msgid "Nordic"
+msgstr "נורדית"
+
+msgid "Normal"
+msgstr "רגיל"
+
+msgid "_Normal Size"
+msgstr "גודל _רגיל"
+
+msgid "Normalize"
+msgstr "נרמול"
+
+msgid "North"
+msgstr "צפון"
+
+msgid "North America"
+msgstr "צפון אמריקה"
+
+msgid "Norway"
+msgstr "נורבגיה"
+
+msgid "Norwegian"
+msgstr "נורווגית"
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "אי אפשר לכתוב את ‚%1’. המחיצה מלאה?"
+
+msgid "Not Available"
+msgstr "לא זמין"
+
+msgid "Not available"
+msgstr "לא זמין"
+
+msgid "not available"
+msgstr "לא זמין"
+
+msgid "Not Connected"
+msgstr "לא מחובר"
+
+msgid "Not connected"
+msgstr "לא מחובר"
+
+msgid "Not defined"
+msgstr "לא מוגדר"
+
+msgid "Not found"
+msgstr "לא נמצא"
+
+msgid "Not implemented"
+msgstr "לא ממומש"
+
+msgid "Not running"
+msgstr "לא פועל"
+
+msgid "Not supported"
+msgstr "לא נתמך"
+
+msgid "Note"
+msgstr "הערה"
+
+msgid "Notes"
+msgstr "הערות"
+
+msgid "Nothing"
+msgstr "כלום"
+
+msgid "Notice"
+msgstr "הודעה"
+
+msgid "Notification"
+msgstr "התראה"
+
+msgid "Notifications"
+msgstr "התראות"
+
+msgid "Noun"
+msgstr "שם עצם"
+
+msgid "November"
+msgstr "נובמבר"
+
+msgid "Now"
+msgstr "עכשיו"
+
+msgid "now"
+msgstr "עכשיו"
+
+msgid "NT Domain"
+msgstr "שם תחום NT"
+
+msgid "NUMBER"
+msgstr "NUMBER"
+
+msgid "Number"
+msgstr "מספר"
+
+msgid "number"
+msgstr "מספר"
+
+msgid "Number of columns"
+msgstr "מספר העמודות"
+
+msgid "Numbers"
+msgstr "מספרים"
+
+msgid "Numeric"
+msgstr "מספרי"
+
+msgid "Nuno Pinheiro"
+msgstr "נונו פיניירו"
+
+msgid "Object"
+msgstr "עצם"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr "למחלקת העצמים ‚%s’ אין מאפיין בשם ‚%s’"
+
+msgid "Objects"
+msgstr "עצמים"
+
+msgid "Oblique"
+msgstr "מוטה"
+
+msgid "Octal"
+msgstr "אוקטלי"
+
+msgid "October"
+msgstr "אוקטובר"
+
+msgid "Off"
+msgstr "כבוי"
+
+msgid "off"
+msgstr "כבוי"
+
+msgid "Office"
+msgstr "משרד"
+
+msgid "Offline"
+msgstr "מנותק"
+
+msgid "Offset"
+msgstr "היסט"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "אישור"
+
+msgid "Ok"
+msgstr "אישור"
+
+msgid "&OK"
+msgstr "&אישור"
+
+msgid "_OK"
+msgstr "_אישור"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Oman"
+msgstr "עומאן"
+
+msgid "On"
+msgstr "פעיל"
+
+msgid "on"
+msgstr "פעיל"
+
+msgid "One"
+msgstr "אחד"
+
+msgid "Online"
+msgstr "מקוון"
+
+msgid "Online Accounts"
+msgstr "חשבונות מקוונים"
+
+msgid "Opacity"
+msgstr "אטימות"
+
+msgid "Opaque"
+msgstr "אטום"
+
+msgid "Open"
+msgstr "פתיחה"
+
+msgid "&Open"
+msgstr "&פתיחה"
+
+msgid "_Open"
+msgstr "_פתיחה"
+
+msgid "Open..."
+msgstr "פתיחה…"
+
+msgid "&Open..."
+msgstr "&פתיחה…"
+
+msgid "_Open..."
+msgstr "_פתיחה..."
+
+msgid "Open %1"
+msgstr "פתיחת %1"
+
+msgid "Open a file"
+msgstr "פתח קובץ"
+
+msgid "Open a new tab"
+msgstr "פתיחת לשונית חדשה"
+
+msgid "Open a new window"
+msgstr "פתיחת חלון חדש"
+
+msgid "Open an existing document"
+msgstr "פתיחת מסמך קיים"
+
+msgid "Open Audio"
+msgstr "פתיחת קטע שמע"
+
+msgid "Open Containing Folder"
+msgstr "פתיחת התיקייה המכילה"
+
+msgid "&Open Containing Folder"
+msgstr "&פתיחת התיקייה המכילה"
+
+msgid "Open Document"
+msgstr "פתיחת מסמך"
+
+msgid "Open File"
+msgstr "פתיחת קובץ"
+
+msgid "Open file"
+msgstr "פתיחת קובץ"
+
+msgid "Open Folder"
+msgstr "פתיחת תיקייה"
+
+msgid "Open folder"
+msgstr "פתיחת תיקייה"
+
+msgid "Open Image"
+msgstr "פתיחת תמונה"
+
+msgid "Open in Browser"
+msgstr "פתיחה בדפדפן"
+
+msgid "Open in File Manager"
+msgstr "פתיחה במנהל הקבצים"
+
+msgid "Open in New Tab"
+msgstr "פתיחה בלשונית חדשה"
+
+msgid "Open in New Window"
+msgstr "פתיחה בחלון חדש"
+
+msgid "Open Link"
+msgstr "פתיחת קישור"
+
+msgid "_Open Link"
+msgstr "_פתיחת קישור"
+
+msgid "Open Location"
+msgstr "פתיחת מקום"
+
+msgid "Open Menu"
+msgstr "פתיחת תפריט"
+
+msgid "Open Project"
+msgstr "פתיחת מיזם"
+
+msgid "Open &Recent"
+msgstr "פתיחת &אחרונים"
+
+msgid "Open Terminal Here"
+msgstr "פתיחת מסוף כאן"
+
+msgid "Open URL"
+msgstr "פתיחת כתובת"
+
+msgid "Open Video"
+msgstr "פתיחת סרטון"
+
+msgid "Open With"
+msgstr "פתיחה עם"
+
+msgid "Open with"
+msgstr "פתיחה עם"
+
+msgid "&Open With"
+msgstr "&פתיחה עם"
+
+msgid "Open With..."
+msgstr "פתיחה עם…"
+
+msgid "Open &with %1"
+msgstr "פתיחה &עם %1"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "קובץ נפתח…"
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr "אופרה"
+
+msgid "Operation"
+msgstr "פעולה"
+
+msgid "Operation was cancelled"
+msgstr "הפעולה בוטלה"
+
+msgid "Operations"
+msgstr "פעולות"
+
+msgid "Operator"
+msgstr "מפעיל"
+
+msgid "Optical Character Recognition"
+msgstr "זיהוי תווים אופטי"
+
+msgid "Optimize"
+msgstr "מיטוב"
+
+msgid "Option"
+msgstr "אפשרות"
+
+msgid "Optional"
+msgstr "רשות"
+
+msgid "Options"
+msgstr "אפשרויות"
+
+msgid "&Options"
+msgstr "&אפשרויות"
+
+msgid "OR"
+msgstr "או"
+
+msgid "Or"
+msgstr "או"
+
+msgid "or"
+msgstr "או"
+
+msgid "Orange"
+msgstr "כתום"
+
+msgid "Order"
+msgstr "סדר"
+
 msgid "Organization"
 msgstr "ארגון"
 
-#. Occurs in 10 KDE PO files
+msgid "Orientation"
+msgstr "כיוון"
+
+msgid "Origin"
+msgstr "מקור"
+
+msgid "Original"
+msgstr "מקור"
+
+msgid "Original Author"
+msgstr "יוצר מקורי"
+
+msgid "Original author"
+msgstr "יוצר מקורי"
+
+msgid "Original Size"
+msgstr "גודל מקורי"
+
+msgid "Oriya"
+msgstr "אורייה"
+
+msgid "Other"
+msgstr "אחר"
+
+msgid "other"
+msgstr "אחר"
+
+msgid "Other..."
+msgstr "אחר…"
+
+msgid "Other Application..."
+msgstr "יישום אחר…"
+
+msgid "Other Options"
+msgstr "אפשרויות אחרות"
+
+msgid "Others"
+msgstr "אחרים"
+
+msgid "Out"
+msgstr "יציאה"
+
+msgid "Out of memory"
+msgstr "נגמר הזיכרון"
+
+msgid "Outgoing"
+msgstr "יוצא"
+
+msgid "Outline"
+msgstr "מתאר"
+
+msgid "Output"
+msgstr "פלט"
+
+msgid "Overlay"
+msgstr "שכבת על"
+
+msgid "Overview"
+msgstr "סקירה"
+
+msgid "Overwrite"
+msgstr "שכתוב"
+
+msgid "Overwrite File?"
+msgstr "לשכתב קובץ?"
+
+msgid "Owner"
+msgstr "בעלות"
+
+msgid "Ownership"
+msgstr "בעלות"
+
+msgid "Oxygen"
+msgstr "חמצן"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "חבילה"
+
+msgid "Padding"
+msgstr "ריפוד"
+
+msgid "Page"
+msgstr "עמוד"
+
+msgid "page"
+msgstr "עמוד"
+
+msgid "Page %1"
+msgstr "עמוד %1"
+
+msgid "Page %1 of %2"
+msgstr "עמוד %1 מתוך %2"
+
+msgid "Page Break"
+msgstr "מעבר עמוד"
+
+msgid "Page Count"
+msgstr "מספר עמודים"
+
+msgid "Page Number"
+msgstr "מספר עמוד"
+
+msgid "Page Setup"
+msgstr "הגדרות עמוד"
+
+msgid "Pager"
+msgstr "זימונית"
+
+msgid "Pages"
+msgstr "עמודים"
+
+msgid "Paint"
+msgstr "צבע"
+
+msgid "Pair"
+msgstr "צימוד"
+
+msgid "Pakistan"
+msgstr "פקיסטן"
+
+msgid "Palau"
+msgstr "פלאו"
+
+msgid "Palette"
+msgstr "לוח צבעים"
+
+msgid "Panama"
+msgstr "פנמה"
+
+msgid "Panel"
+msgstr "לוח"
+
+msgid "Panels"
+msgstr "לוחות"
+
+msgid "&Panels"
+msgstr "&לוחות"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "נייר"
+
+msgid "Paper Size"
+msgstr "גודל נייר"
+
+msgid "Papua New Guinea"
+msgstr "פפואה גינאה החדשה"
+
+msgid "Paragraph"
+msgstr "פסקה"
+
+msgid "Paraguay"
+msgstr "פרגוואי"
+
+msgid "Parallel"
+msgstr "מקבילי"
+
+msgid "Parameter"
+msgstr "משתנה"
+
+msgid "Parameters"
+msgstr "משתנים"
+
+msgid "Parent"
+msgstr "הורה"
+
+msgid "Partition"
+msgstr "מחיצה"
+
+msgid "Password"
+msgstr "סיסמה"
+
+msgid "password"
+msgstr "סיסמה"
+
+msgid "&Password"
+msgstr "&סיסמה"
+
+msgid "_Password"
+msgstr "_ססמה"
+
+msgid "Password..."
+msgstr "סיסמה…"
+
+msgid "Passwords"
+msgstr "סיסמאות"
+
+msgid "Paste"
+msgstr "הדבקה"
+
+msgid "&Paste"
+msgstr "ה&דבקה"
+
+msgid "_Paste"
+msgstr "ה_דבקה"
+
 msgid "Path"
 msgstr "נתיב"
 
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "יציאה"
+msgid "path"
+msgstr "נתיב"
 
-#. Occurs in 10 KDE PO files
+msgid "Paths"
+msgstr "נתיבים"
+
+msgid "Pattern"
+msgstr "תבנית"
+
+msgid "Patterns"
+msgstr "תבניות"
+
+msgid "Pause"
+msgstr "השהיה"
+
+msgid "&Pause"
+msgstr "ה&שהיה"
+
+msgid "Pause playback"
+msgstr "השהיית נגינה"
+
+msgid "PAUSED"
+msgstr "מושהה"
+
+msgid "Paused"
+msgstr "מושהה"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr "פסגה"
+
+msgid "Peek at Desktop"
+msgstr "הצצה על שולחן העבודה"
+
+msgid "Pencil"
+msgstr "עיפרון"
+
+msgid "Pending"
+msgstr "בהמתנה"
+
+msgid "Pentagon"
+msgstr "מחומש"
+
+msgid "People"
+msgstr "אנשים"
+
+msgid "Percent"
+msgstr "אחוז"
+
+msgid "Percentage"
+msgstr "אחוז"
+
+msgid "Perceptual"
+msgstr "תפיסתי"
+
+msgid "Performance"
+msgstr "ביצועים"
+
+msgid "Period"
+msgstr "תקופה"
+
+msgid "Permission denied"
+msgstr "ההרשאה נדחתה"
+
+msgid "Permissions"
+msgstr "הרשאות"
+
+msgid "Persian"
+msgstr "פרסית"
+
+msgid "Person"
+msgstr "אדם"
+
+msgid "Personal"
+msgstr "אישי"
+
+msgid "Personal Information"
+msgstr "פרטים אישיים"
+
+msgid "Peru"
+msgstr "פרו"
+
+msgid "Phase"
+msgstr "שלב"
+
+msgid "Philippines"
+msgstr "הפיליפינים"
+
+msgid "Phone"
+msgstr "טלפון"
+
+msgid "Photo"
+msgstr "תמונה"
+
+msgid "PHP Documentation"
+msgstr "תיעוד PHP"
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "בחירת צבע"
+
+msgid "Picture"
+msgstr "תמונה"
+
+msgid "Pictures"
+msgstr "תמונות"
+
+msgid "PID"
+msgstr "מזהה תהליך"
+
+msgid "Pie"
+msgstr "עוגה"
+
+msgid "Pin"
+msgstr "נעיצה"
+
+msgid "Pino Toscano"
+msgstr "פינו טוסקנו"
+
+msgid "Pixels"
+msgstr "פיקסלים"
+
+msgid "pixels"
+msgstr "פיקסלים"
+
+msgid "Placement"
+msgstr "הצבה"
+
+msgid "Places"
+msgstr "מקומות"
+
+msgid "Plain"
+msgstr "פשוט"
+
+msgid "Plain Text"
+msgstr "טקסט פשוט"
+
+msgid "Plan"
+msgstr "תכנון"
+
+msgid "Plasma"
+msgstr "פלזמה"
+
+msgid "Platform"
+msgstr "פלטפורמה"
+
+msgid "Play"
+msgstr "נגינה"
+
+msgid "Play Next"
+msgstr "לנגן את הבא"
+
+msgid "Play Sounds"
+msgstr "השמעת צלילים"
+
+msgid "Playback"
+msgstr "נגינה"
+
+msgid "Player"
+msgstr "שחקן"
+
+msgid "Player %1"
+msgstr "שחקן %1"
+
+msgid "Players"
+msgstr "שחקנים"
+
+msgid "Playground"
+msgstr "מגרש משחקים"
+
+msgid "Playing"
+msgstr "מנגן"
+
+msgid "Playlist"
+msgstr "רשימת נגינה"
+
+msgid "Playlists"
+msgstr "רשימות נגינה"
+
+msgid "Play/Pause"
+msgstr "נגינה/השהיה"
+
+msgid "Please choose a file"
+msgstr "נא לבחור קובץ"
+
+msgid "Please wait"
+msgstr "נא להמתין"
+
+msgid "Please wait..."
+msgstr "נא להמתין…"
+
+msgid "Plot"
+msgstr "שרטוט"
+
+msgid "Plots"
+msgstr "שרטוטים"
+
+msgid "Plugin"
+msgstr "תוסף"
+
+msgid "Plugins"
+msgstr "תוספים"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "נקודה"
+
+msgid "Pointers"
+msgstr "סמנים"
+
+msgid "Points"
+msgstr "נקודות"
+
+msgid "points"
+msgstr "נקודות"
+
+msgid "Poland"
+msgstr "פולין"
+
+msgid "Policy"
+msgstr "מדיניות"
+
+msgid "Polish"
+msgstr "פולנית"
+
+msgid "Polygon"
+msgstr "מצולע"
+
+msgid "Pop"
+msgstr "פופ"
+
+msgid "Port"
+msgstr "פתחה"
+
+msgid "&Port"
+msgstr "&פתחה"
+
+msgid "Portrait"
+msgstr "לאורך"
+
+msgid "Portugal"
+msgstr "פורטוגל"
+
+msgid "Portuguese"
+msgstr "פורטוגלית"
+
+msgid "Position"
+msgstr "מקום"
+
+msgid "Posterize"
+msgstr ""
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "כיבוי"
+
+msgid "Power Management"
+msgstr "ניהול צריכת חשמל"
+
+msgid "Precision"
+msgstr "דיוק"
+
+msgid "Preferences"
+msgstr "העדפות"
+
+msgid "_Preferences"
+msgstr "_העדפות"
+
+msgid "Prefix"
+msgstr "קידומת"
+
+msgid "Presentation"
+msgstr "מצגת"
+
+msgid "Preset"
+msgstr "ערכה"
+
+msgid "Presets"
+msgstr "ערכות"
+
+msgid "Pressure"
+msgstr "לחץ"
+
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+msgid "&Preview"
+msgstr "&תצוגה מקדימה"
+
+msgid "Previews"
+msgstr "תצוגות מקדימות"
+
+msgid "Previous"
+msgstr "הקודם"
+
+msgid "&Previous"
+msgstr "ה&קודם"
+
+msgid "_Previous"
+msgstr "ה_קודם"
+
+msgid "Previous Image"
+msgstr "התמונה הקודמת"
+
+msgid "Previous month"
+msgstr "החודש הקודם"
+
+msgid "Previous Page"
+msgstr "העמוד הקודם"
+
+msgid "Previous Tab"
+msgstr "הלשונית הקודמת"
+
+msgid "Previous Track"
+msgstr "הרצועה הקודמת"
+
+msgid "Price"
+msgstr "מחיר"
+
+msgid "Primary"
+msgstr "עיקרי"
+
+msgid "Print"
+msgstr "הדפסה"
+
+msgid "_Print"
+msgstr "_הדפסה"
+
+msgid "Print..."
+msgstr "הדפסה…"
+
+msgid "&Print..."
+msgstr "ה&דפסה…"
+
+msgid "_Print..."
+msgstr "_הדפס..."
+
+msgid "Print Image"
+msgstr "הדפסת תמונה"
+
+msgid "Print Preview"
+msgstr "הצגה מקדימה להדפסה"
+
+msgid "Print version"
+msgstr "הצגת גרסה"
+
+msgid "Print version information and exit"
+msgstr "הצגת נתוני הגרסה ולצאת"
+
+msgid "Printer"
+msgstr "מדפסת"
+
+msgid "Printers"
+msgstr "מדפסות"
+
+msgid "Printing"
+msgstr "הדפסה"
+
+msgid "Printing..."
+msgstr "הדפסה…"
+
 msgid "Priority"
 msgstr "עדיפות"
 
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "עדיפות:"
+msgid "Privacy"
+msgstr "פרטיות"
 
-#. Occurs in 10 KDE PO files
+msgid "Private"
+msgstr "פרטי"
+
+msgid "Process"
+msgstr "תהליך"
+
+msgid "Processor"
+msgstr "מעבד"
+
+msgid "Producer"
+msgstr "מפיק/ה"
+
+msgid "Product"
+msgstr "מוצר"
+
+msgid "Profession"
+msgstr "עיסוק"
+
+msgid "Profile"
+msgstr "פרופיל"
+
+msgid "Profile name"
+msgstr "שם הפרופיל"
+
+msgid "Profiles"
+msgstr "פרופילים"
+
+msgid "Program"
+msgstr "תוכנית"
+
+msgid "Progress"
+msgstr "התקדמות"
+
 msgid "Project"
-msgstr "פרויקט"
+msgstr "מיזם"
 
-#. Occurs in 10 KDE PO files
+msgid "&Project"
+msgstr "מי&זם"
+
+msgid "Projects"
+msgstr "מיזמים"
+
+msgid "Properties"
+msgstr "מאפיינים"
+
+msgid "&Properties"
+msgstr "מ&אפיינים"
+
+msgid "_Properties"
+msgstr "_מאפיינים"
+
+msgid "Properties..."
+msgstr "מאפיינים…"
+
+msgid "&Properties..."
+msgstr "מ&אפיינים…"
+
+msgid "Property"
+msgstr "מאפיין"
+
+msgid "property “%s” invalid or not supported"
+msgstr "המאפיין „%s” שגוי או לא נתמך"
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr "המאפיין ‚%s’ של מחלקת העצמים ‚%s’ נעול בפני כתיבה"
+
+msgid "Proportional"
+msgstr "יחסי"
+
+msgid "Protected"
+msgstr "מוגן"
+
+msgid "Protocol"
+msgstr "פרוטוקול"
+
+msgid "Provider"
+msgstr "ספק"
+
+msgid "Proxy"
+msgstr "מתווך"
+
+msgid "Proxy Settings"
+msgstr "הגדרות מתווך"
+
+msgid "Public"
+msgstr "ציבורי"
+
+msgid "Public Key"
+msgstr "מפתח ציבורי"
+
+msgid "Publisher"
+msgstr "הוצאה לאור"
+
+msgid "Publishing"
+msgstr "הוצאה לאור"
+
+msgid "Puerto Rico"
+msgstr "פוארטו ריקו"
+
+msgid "Punjabi"
+msgstr "פנג׳אבי"
+
+msgid "Push"
+msgstr "דחיפה"
+
+msgid "px"
+msgstr "פיקסלים"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "קטר"
+
+msgid "QR Code"
+msgstr "קוד QR"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>הפעולה הזת תסתיר את סרגל התפריטים לחלוטין. אפשר להציג אותו שוב בהקלדת "
+"%1.</qt>"
+
+msgid "Quality"
+msgstr "איכות"
+
+msgid "Quebec"
+msgstr "קוויבק"
+
+msgid "Query"
+msgstr "שאילתה"
+
+msgid "Question"
+msgstr "שאלה"
+
+msgid "Queue"
+msgstr "תור"
+
+msgid "Queued"
+msgstr "בתור"
+
+msgid "Quit"
+msgstr "יציאה"
+
+msgid "&Quit"
+msgstr "י&ציאה"
+
+msgid "_Quit"
+msgstr "י_ציאה"
+
+msgid "Quit application"
+msgstr "יציאה מהיישום"
+
+msgid "Quit the application"
+msgstr "יציאה מהיישום"
+
+msgid "Quits the application"
+msgstr "יציאה מהיישום"
+
+msgid "Quote"
+msgstr "ציטוט"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "מעגלי"
+
+msgid "Radio"
+msgstr "רדיו"
+
+msgid "Radius"
+msgstr "רדיוס"
+
+msgid "Raise"
+msgstr "הגבהה"
+
+msgid "Random"
+msgstr "אקראי"
+
+msgid "Range"
+msgstr "טווח"
+
+msgid "Rank"
+msgstr "דירוג"
+
+msgid "Rate"
+msgstr "קצב"
+
+msgid "Rating"
+msgstr "דירוג"
+
+msgid "Raw"
+msgstr "גולמי"
+
+msgid "Read"
+msgstr "קריאה"
+
+msgid "Read error"
+msgstr "שגיאת קריאה"
+
+msgid "Read Only"
+msgstr "לקריאה בלבד"
+
+msgid "Read only"
+msgstr "לקריאה בלבד"
+
+msgid "Reading"
+msgstr "Reading"
+
+msgid "read-only"
+msgstr "לקריאה בלבד"
+
+msgid "Ready"
+msgstr "בהמתנה"
+
+msgid "Ready."
+msgstr "בהמתנה."
+
+msgid "Reason"
+msgstr "סיבה"
+
+msgid "Reassign"
+msgstr "הקצאה מחדש"
+
+msgid "Recent"
+msgstr "אחרונים"
+
+msgid "Recent Documents"
+msgstr "מסמכים אחרונים"
+
+msgid "Recent Files"
+msgstr "קבצים אחרונים"
+
+msgid "Recent files"
+msgstr "קבצים אחרונים"
+
+msgid "Record"
+msgstr "הקלטה"
+
+msgid "Recording"
+msgstr "הקלטה"
+
+msgid "Rectangle"
+msgstr "מרובע"
+
+msgid "Recursive"
+msgstr "רקורסיבי"
+
+msgid "Red"
+msgstr "אדום"
+
+msgid "red"
+msgstr "אדום"
+
+msgid "Redo"
+msgstr "ביצוע מחדש"
+
+msgid "&Redo"
+msgstr "&ביצוע מחדש"
+
+msgid "_Redo"
+msgstr "ב_צע שוב"
+
+msgid "Re&do"
+msgstr "ביצוע מ&חדש"
+
+msgid "Redo %1"
+msgstr "ביצוע %1 מחדש"
+
+msgid "Reference"
+msgstr "סימוכין"
+
+msgid "References"
+msgstr "הפניות"
+
+msgid "Refresh"
+msgstr "ריענון"
+
+msgid "_Refresh"
+msgstr "_רענון"
+
+msgid "Reggae"
+msgstr "ראגיי"
+
+msgid "Region"
+msgstr "אזור"
+
+msgid "Register"
+msgstr "הרשמה"
+
+msgid "Regular"
+msgstr "רגיל"
+
+msgid "Regular Expression"
+msgstr "ביטוי רגולרי"
+
+msgid "Regular expression"
+msgstr "ביטוי רגולרי"
+
+msgid "Reject"
+msgstr "דחייה"
+
+msgid "Relative"
+msgstr "יחסי"
+
+msgid "Reload"
+msgstr "ריענון"
+
+msgid "&Reload"
+msgstr "&ריענון"
+
+msgid "_Reload"
+msgstr "_טעינה מחדש"
+
+msgid "Reminders"
+msgstr "תזכורות"
+
+msgid "Remote"
+msgstr "מרוחק"
+
+msgid "Removable"
+msgstr "נשלף"
+
+msgid "Remove"
+msgstr "הסרה"
+
+msgid "&Remove"
+msgstr "הס&רה"
+
+msgid "_Remove"
+msgstr "ה_סרה"
+
+msgid "R&emove"
+msgstr "ה&סרה"
+
+msgid "Re&move"
+msgstr "הס&רה"
+
+msgid "Remove..."
+msgstr "הסרה…"
+
+msgid "Remove %1"
+msgstr "הסרת %1"
+
+msgid "Remove Account"
+msgstr "הסרת חשבון"
+
+msgid "Remove All"
+msgstr "הסרה של הכול"
+
+msgid "Remove Bookmark"
+msgstr "הסרת סימנייה"
+
+msgid "Remove Folder"
+msgstr "הסרת תיקייה"
+
+msgid "Remove from Favorites"
+msgstr "הסרה מהמועדפים"
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
 msgid "Remove Group"
-msgstr "הסר קבוצה"
+msgstr "הסרת קבוצה"
 
-#. Occurs in 10 KDE PO files
+msgid "Remove Rule"
+msgstr "הסרת כלל"
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "שינוי שם"
+
+msgid "&Rename"
+msgstr "&שינוי שם"
+
+msgid "_Rename"
+msgstr "_שינוי שם"
+
+msgid "Rename..."
+msgstr "שינוי שם…"
+
+msgid "&Rename..."
+msgstr "&שינוי שם…"
+
+msgid "Rename Bookmark"
+msgstr "שינוי שם סימנייה"
+
+msgid "Rename File"
+msgstr "שינוי שם הקובץ"
+
+msgid "Repeat"
+msgstr "חזרה"
+
+msgid "Replace"
+msgstr "החלפה"
+
+msgid "&Replace"
+msgstr "ה&חלפה"
+
+msgid "_Replace"
+msgstr "ה_חלפה"
+
+msgid "Replace All"
+msgstr "החלפה של הכול"
+
+msgid "Replace _All"
+msgstr "החלפת _הכל"
+
+msgid "Replace an existing instance"
+msgstr "החלפת עותק קיים"
+
+msgid "Replacement"
+msgstr "החלפה"
+
+msgid "Reply"
+msgstr "תגובה"
+
+msgid "Report"
+msgstr "דיווח"
+
+msgid "Report a bug"
+msgstr "דיווח על תקלה"
+
+msgid "Report Bug"
+msgstr "דיווח על תקלה"
+
+msgid "Report Bug..."
+msgstr "דיווח על תקלה…"
+
+msgid "&Report Bug..."
+msgstr "דיווח על &תקלה…"
+
+msgid "Reports"
+msgstr "דוחות"
+
+msgid "Required"
+msgstr "חובה"
+
+msgid "Rescan"
+msgstr "סריקה מחדש"
+
+msgid "Resend"
+msgstr "שליחה מחדש"
+
+msgid "Reset"
+msgstr "איפוס"
+
+msgid "&Reset"
+msgstr "&איפוס"
+
+msgid "_Reset"
+msgstr "_איפוס"
+
+msgid "Reset to Default"
+msgstr "איפוס לברירת המחדל"
+
+msgid "Reset to default"
+msgstr "איפוס לברירת המחדל"
+
+msgid "Reset Zoom"
+msgstr "איפוס רמת תקריב"
+
+msgid "Resize"
+msgstr "שינוי גודל"
+
+msgid "_Resize"
+msgstr "_שינוי הגודל"
+
+msgid "Resize Image"
+msgstr "שינוי גודל תמונה"
+
+msgid "Resolution"
+msgstr "רזולוציה"
+
+msgid "Resource"
+msgstr "משאב"
+
+msgid "Resources"
+msgstr "משאבים"
+
+msgid "Restart"
+msgstr "הפעלה מחדש"
+
+msgid "Restore"
+msgstr "שחזור"
+
+msgid "Restore Session"
+msgstr "שחזור הפעלה"
+
+msgid "Result"
+msgstr "תוצאה"
+
+msgid "Results"
+msgstr "תוצאות"
+
+msgid "Resume"
+msgstr "המשך"
+
+msgid "&Resume"
+msgstr "ה&משך"
+
+msgid "Retry"
+msgstr "לנסות שוב"
+
+msgid "Return"
+msgstr "חזרה"
+
+msgid "Reverse"
+msgstr "היפוך"
+
+msgid "Revert"
+msgstr "הסגה"
+
+msgid "_Revert"
+msgstr "_ביטול"
+
+msgid "Review"
+msgstr "סקירה"
+
+msgid "Revision"
+msgstr "מהדורה"
+
+msgid "Revoked"
+msgstr "נשלל"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "ימין"
+
+msgid "right"
+msgstr "ימין"
+
+msgid "&Right"
+msgstr "&ימין"
+
+msgid "_Right"
+msgstr "_ימין"
+
+msgid "Right to Left"
+msgstr "מימין לשמאל"
+
+msgid "Right-click"
+msgstr "לחיצה ימנית"
+
+msgid "River"
+msgstr "נהר"
+
+msgid "RKWard Team"
+msgstr "צוות RKWard"
+
+msgid "Rock"
+msgstr "רוק"
+
+msgid "Role"
+msgstr "תפקיד"
+
+msgid "Roman"
+msgstr "מעוטר לועזי"
+
+msgid "Romania"
+msgstr "רומניה"
+
+msgid "Romanian"
+msgstr "רומנית"
+
+msgid "Room"
+msgstr "חדר"
+
+msgid "Root"
+msgstr "שורש"
+
+msgid "Rotate"
+msgstr "סיבוב"
+
+msgid "Rotate Left"
+msgstr "סיבוב שמאלה"
+
+msgid "Rotate Right"
+msgstr "סיבוב ימינה"
+
+msgid "Rotation"
+msgstr "סיבוב"
+
+msgid "Round"
+msgstr "מעוגל"
+
+msgid "Row"
+msgstr "שורה"
+
+msgid "Rows"
+msgstr "שורות"
+
+msgid "rows"
+msgstr "שורות"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "כללים"
+
+msgid "Run"
+msgstr "הרצה"
+
+msgid "&Run"
+msgstr "ה&רצה"
+
+msgid "Run in terminal"
+msgstr "הרצה במסוף"
+
+msgid "Running"
+msgstr "רץ"
+
+msgid "Russia"
+msgstr "רוסיה"
+
+msgid "Russian"
+msgstr "רוסית"
+
+msgid "Rwanda"
+msgstr "רואנדה"
+
+msgid "S"
+msgstr "דר׳"
+
+msgid "s"
+msgstr "שנ׳"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "מאפייני %s"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "סמואה‬"
+
+msgid "Sample"
+msgstr "דוגמה"
+
+msgid "Sample Rate"
+msgstr "קצב דגימה"
+
+msgid "Sample rate"
+msgstr "קצב דגימה"
+
+msgid "Samples"
+msgstr "דגימות"
+
+msgid "San Marino"
+msgstr "סן מרינו"
+
+msgid "Sans Serif"
+msgstr "גופן חסר עיטור"
+
+msgid "Satellite"
+msgstr "לוויין"
+
+msgid "Saturation"
+msgstr "רוויה"
+
+msgid "Saturday"
+msgstr "שבת"
+
+msgid "Saudi Arabia"
+msgstr "ערב הסעודית"
+
+msgid "Save"
+msgstr "שמירה"
+
+msgid "&Save"
+msgstr "&שמירה"
+
+msgid "_Save"
+msgstr "_שמירה"
+
+msgid "Save..."
+msgstr "שמירה…"
+
+msgid "Save All"
+msgstr "שמירה של הכול"
+
+msgid "Save As"
+msgstr "שמירה בשם"
+
+msgid "Save as"
+msgstr "שמירה בשם"
+
+msgid "Save _As"
+msgstr "שמירה _בשם"
+
+msgid "Save As..."
+msgstr "שמירה בשם…"
+
+msgid "Save as..."
+msgstr "שמירה בשם…"
+
+msgid "_Save As..."
+msgstr "שמירה _בשם…"
+
+msgid "Save &As..."
+msgstr "שמירה &בשם…"
+
+msgid "Save _As..."
+msgstr "שמירה _בשם..."
+
+msgid "Save Attachment"
+msgstr "שמירת צרופה"
+
+msgid "Save Changes"
+msgstr "שמירת השינויים"
+
+msgid "Save Changes?"
+msgstr "לשמור את השינויים?"
+
+msgid "Save File"
+msgstr "שמירת קובץ"
+
+msgid "Save file"
+msgstr "שמירת קובץ"
+
+msgid "Save Game"
+msgstr "שמירת משחק"
+
+msgid "Save Image"
+msgstr "שמירת תמונה"
+
+msgid "_Save Image As..."
+msgstr "שמירת תמונה _בשם…"
+
+msgid "Save Project"
+msgstr "שמירת מיזם"
+
+msgid "Save Session"
+msgstr "שמירת הפעלה"
+
+msgid "Save Settings"
+msgstr "שמירת ההגדרות"
+
+msgid "Saved"
+msgstr "נשמר"
+
+msgid "Saving"
+msgstr "שמירה"
+
+msgid "Saving..."
+msgstr "מתבצעת שמירה…"
+
+msgid "Saving file..."
+msgstr "הקובץ נשמר…"
+
+msgid "Scale"
+msgstr "קנה מידה"
+
+msgid "_Scale"
+msgstr "_קנה מידה"
+
+msgid "Scaled"
+msgstr "מותאם"
+
+msgid "Scaling"
+msgstr "התאמת קנה מידה"
+
+msgid "Scan"
+msgstr "סריקה"
+
+msgid "Scanner"
+msgstr "סורק"
+
+msgid "Scanning..."
+msgstr "מתבצעת סריקה…"
+
+msgid "Schedule"
+msgstr "תזמון"
+
+msgid "Scheduling"
+msgstr "תזמון"
+
+msgid "Scheme"
+msgstr "סכמה"
+
+msgid "School"
+msgstr "בית ספר"
+
+msgid "Scientific"
+msgstr "מדעי"
+
+msgid "Scope"
+msgstr "היקף"
+
+msgid "Score"
+msgstr "ניקוד"
+
+msgid "Score: %1"
+msgstr "ניקוד: %1"
+
+msgid "Screen"
+msgstr "מסך"
+
+msgid "Screenshot"
+msgstr "צילום מסך"
+
+msgid "Screenshots"
+msgstr "צילומי מסך"
+
+msgid "Script"
+msgstr "סקריפט"
+
+msgid "Scripting"
+msgstr "סקריפטים"
+
+msgid "Scripts"
+msgstr "סקריפטים"
+
+msgid "Scroll"
+msgstr "גלילה"
+
+msgid "Scroll Down"
+msgstr "גלילה למטה"
+
+msgid "Scroll Left"
+msgstr "גלול שמאלה"
+
+msgid "Scroll Right"
+msgstr "גלול ימינה"
+
+msgid "Scroll Up"
+msgstr "גלילה למעלה"
+
+msgid "Scrolling"
+msgstr "גלילה"
+
+msgid "Search"
+msgstr "חיפוש"
+
+msgid "&Search"
+msgstr "&חיפוש"
+
+msgid "_Search"
+msgstr "_חיפוש"
+
+msgid "S&earch"
+msgstr "&חיפוש"
+
+msgid "Search..."
+msgstr "חיפוש…"
+
+msgid "Search Bar"
+msgstr "סרגל חיפוש"
+
+msgid "_Search for"
+msgstr "_חיפוש אחר"
+
+msgid "Search for '%1' with"
+msgstr "חיפוש אחר ‚%1’ בעזרת"
+
+msgid "Search Options"
+msgstr "אפשרויות חיפוש"
+
+msgid "Search Results"
+msgstr "תוצאות חיפוש"
+
+msgid "Search results"
+msgstr "תוצאות חיפוש"
+
+msgid "Searching..."
+msgstr "מתבצע חיפוש…"
+
+msgid "Sebastian Kügler"
+msgstr "סבסטיאן קיגלר"
+
+msgid "Second"
+msgstr "שנייה"
+
+msgid "Seconds"
+msgstr "שניות"
+
+msgid "seconds"
+msgstr "שניות"
+
+msgid "Section"
+msgstr "סעיף"
+
+msgid "Security"
+msgstr "אבטחה"
+
+msgid "Seek"
+msgstr "חתירה"
+
+msgid "Select"
+msgstr "בחירה"
+
+msgid "_Select"
+msgstr "_בחירה"
+
+msgid "Select..."
+msgstr "בחירה…"
+
+msgid "Select All"
+msgstr "בחירה בהכול"
+
+msgid "Select all"
+msgstr "בחירה בהכול"
+
+msgid "&Select All"
+msgstr "בחירה בה&כול"
+
+msgid "_Select All"
+msgstr "בחירת ה_כול"
+
+msgid "Select &All"
+msgstr "בחירה בה&כול"
+
+msgid "Select _All"
+msgstr "_בחירת הכול"
+
+msgid "Select an authentication mode."
+msgstr "נא לבחור מצב אימות."
+
+msgid "Select an image"
+msgstr "בחירת תמונה"
+
+msgid "Select Color"
+msgstr "בחירת צבע"
+
+msgid "Select Directory"
+msgstr "בחירת תיקייה"
+
+msgid "Select File"
+msgstr "בחירת קובץ"
+
+msgid "Select file"
+msgstr "בחירת קובץ"
+
+msgid "Select Folder"
+msgstr "בחירת תיקייה"
+
+msgid "Select folder"
+msgstr "בחירת תיקייה"
+
+msgid "Select Font"
+msgstr "בחירת גופן"
+
+msgid "Select None"
+msgstr "לא לבחור בכלום"
+
+msgid "Select Source"
+msgstr "בחירת מקור"
+
+msgid "Selected"
+msgstr "נבחר"
+
+msgid "Selection"
+msgstr "בחירה"
+
+msgid "Selections"
+msgstr "בחירות"
+
+msgid "Semicolon"
+msgstr "נקודה־פסיק"
+
+msgid "Send"
+msgstr "שליחה"
+
+msgid "Send an email to %1"
+msgstr "שליחת דוא״ל אל %1"
+
+msgid "Send File"
+msgstr "שליחת קובץ"
+
+msgid "Send to %1"
+msgstr "שליחה אל %1"
+
+msgid "Sender"
+msgstr "מוען"
+
+msgid "Senegal"
+msgstr "סנגל"
+
+msgid "Sensitivity"
+msgstr "רגישות"
+
+msgid "Sent"
+msgstr "נשלחה"
+
+msgid "Separator"
+msgstr "קו מפריד"
+
+msgid "September"
+msgstr "ספטמבר"
+
+msgid "Serbia"
+msgstr "סרביה"
+
+msgid "Serbian"
+msgstr "סרבית"
+
+msgid "Serial Number"
+msgstr "מספר סידורי"
+
+msgid "Serial number"
+msgstr "מספר סידורי"
+
+msgid "Series"
+msgstr "סדרה"
+
+msgid "Serif"
+msgstr "גופן מעוטר"
+
+msgid "Server"
+msgstr "שרת"
+
+msgid "Server URL"
+msgstr "כתובת שרת"
+
+msgid "Service"
+msgstr "שירות"
+
+msgid "Services"
+msgstr "שירותים"
+
+msgid "Session"
+msgstr "הפעלה"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "הפעלות"
+
+msgid "Set"
+msgstr "הגדרה"
+
+msgid "Set as Default"
+msgstr "הגדרה כברירת מחדל"
+
+msgid "Set as default"
+msgstr "הגדרה כברירת מחדל"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "&Settings"
+msgstr "ה&גדרות"
+
+msgid "_Settings"
+msgstr "_הגדרות"
+
+msgid "Settings..."
+msgstr "הגדרות…"
+
+msgid "Severity"
+msgstr "חומרה"
+
+msgid "Seychelles"
+msgstr "סיישל"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "הצללה"
+
+msgid "Shadow"
+msgstr "צל"
+
+msgid "Shadows"
+msgstr "הצללות"
+
+msgid "Shape"
+msgstr "צורה"
+
+msgid "Share"
+msgstr "שיתוף"
+
+msgid "Share..."
+msgstr "שיתוף…"
+
+msgid "Shared"
+msgstr "משותף"
+
+msgid "Sharing"
+msgstr "שיתוף"
+
+msgid "Sharing failed"
+msgstr "השיתוף נכשל"
+
+msgid "Sharpen"
+msgstr "חידוד"
+
+msgid "Sharpness"
+msgstr "חדות"
+
+msgid "Shear"
+msgstr "גזירה"
+
+msgid "Shell"
+msgstr "מעטפת"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "קצר"
+
+msgid "Shortcut"
+msgstr "קיצור דרך"
+
+msgid "Shortcuts"
+msgstr "מקשי קיצור"
+
+msgid "Show"
+msgstr "הצגה"
+
+msgid "Show All"
+msgstr "להציג הכול"
+
+msgid "Show Details"
+msgstr "הצגת פרטים"
+
+msgid "Show details"
+msgstr "הצגת פרטים"
+
+msgid "Show Grid"
+msgstr "הצגת רשת"
+
+msgid "Show grid"
+msgstr "הצגת רשת"
+
+msgid "Show Help"
+msgstr "הצגת עזרה"
+
+msgid "Show help"
+msgstr "הצגת עזרה"
+
+msgid "Show Hidden Files"
+msgstr "הצגת קבצים מוסתרים"
+
+msgid "Show in folder"
+msgstr "הצגה בתיקייה"
+
+msgid "Show legend"
+msgstr "הצגת מקרא"
+
+msgid "Show Password"
+msgstr "הצגת סיסמה"
+
+msgid "Show Preview"
+msgstr "הצגת תצוגה מקדימה"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr "הצגת צירופי מקשים"
+
+msgid "Show Status Bar"
+msgstr "הצגת שורת מצב"
+
+msgid "Show St&atusbar"
+msgstr "הצגת &שורת מצב"
+
+msgid "Show the application's version"
+msgstr "Show the application's version"
+
+msgid "Show Toolbar"
+msgstr "הצגת סרגל כלים"
+
+msgid "Show toolbar"
+msgstr "הצגת סרגל כלים"
+
+msgid "Show &Toolbar"
+msgstr "הצגת סרגל &כלים"
+
+msgid "Shuffle"
+msgstr "ערבוב"
+
+msgid "Shut Down"
+msgstr "כיבוי"
+
+msgid "Shutdown"
+msgstr "כיבוי"
+
+msgid "Side _Pane"
+msgstr "סרגל _צד"
+
+msgid "Sidebar"
+msgstr "סרגל צד"
+
+msgid "Sierra Leone"
+msgstr "סיירה לאון"
+
+msgid "Sign"
+msgstr "חתימה"
+
+msgid "Signal"
+msgstr "אות"
+
+msgid "Signature"
+msgstr "חתימה"
+
+msgid "Simple"
+msgstr "פשוט"
+
+msgid "Singapore"
+msgstr "סינגפור"
+
+msgid "Single"
+msgstr "בודד"
+
+msgid "Sinhala"
+msgstr "סינהלית"
+
+msgid "Size"
+msgstr "גודל"
+
+msgid "size"
+msgstr "גודל"
+
+msgid "&Size"
+msgstr "&גודל"
+
+msgid "Size: %1"
+msgstr "גודל: %1"
+
+msgid "Skip"
+msgstr "דילוג"
+
+msgid "&Skip"
+msgstr "&דילוג"
+
+msgid "_Skip"
+msgstr "_דילוג"
+
+msgid "Skip forward"
+msgstr "דילוג קדימה"
+
+msgid "Sleep"
+msgstr "שינה"
+
+msgid "Slide"
+msgstr "שקופית"
+
+msgid "Slider"
+msgstr "מחוון"
+
+msgid "Slideshow"
+msgstr "מצגת"
+
+msgid "Slovak"
+msgstr "סלובקית"
+
+msgid "Slovenia"
+msgstr "סלובניה"
+
+msgid "Slovenian"
+msgstr "סלובנית"
+
+msgid "Slow"
+msgstr "איטית"
+
+msgid "Slower"
+msgstr "איטית יותר"
+
+msgid "Small"
+msgstr "קטן"
+
+msgid "Smooth"
+msgstr "חלק"
+
+msgid "Smoothing"
+msgstr "החלקה"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Snap"
+
+msgid "Snap to Grid"
+msgstr "הצמדה לרשת"
+
+msgid "Snow"
+msgstr "שלג"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr "Socks5"
+
+msgid "Software"
+msgstr "תוכנה"
+
+msgid "Solid"
+msgstr "אחיד"
+
+msgid "Solid color"
+msgstr "צבע אחיד"
+
+msgid "Solomon Islands"
+msgstr "איי שלמה"
+
+msgid "Somalia"
+msgstr "סומליה"
+
+msgid "Sort"
+msgstr "מיון"
+
+msgid "Sort By"
+msgstr "מיון לפי"
+
+msgid "Sort by"
+msgstr "מיון לפי"
+
+msgid "Sorting"
+msgstr "מיון"
+
+msgid "Sound"
+msgstr "צליל"
+
+msgid "Soundtrack"
+msgstr "פסקול"
+
+msgid "Source"
+msgstr "מקור"
+
+msgid "Sources"
+msgstr "מקורות"
+
+msgid "South"
+msgstr "דרום"
+
+msgid "South Africa"
+msgstr "דרום אפריקה"
+
+msgid "South European"
+msgstr "דרום אירופאי"
+
 msgid "Space"
 msgstr "רווח"
 
-#. Occurs in 10 KDE PO files
+msgid "Spacing"
+msgstr "ריווח"
+
+msgid "Spain"
+msgstr "ספרד"
+
+msgid "Spam"
+msgstr "זבל"
+
+msgid "Spanish"
+msgstr "ספרדית"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "הקראה"
+
+msgid "Speak Text"
+msgstr "הקראת הטקסט"
+
+msgid "Speaker"
+msgstr "רמקול"
+
+msgid "Special"
+msgstr "מיוחד"
+
+msgid "Special Characters"
+msgstr "תווים מיוחדים"
+
+msgid "Specials"
+msgstr "מיוחדים"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr "Specify session management ID"
+
+msgid "Speed"
+msgstr "מהירות"
+
+msgid "Spell Check"
+msgstr "בדיקת איות"
+
+msgid "Spell Checking"
+msgstr "בדיקת איות"
+
+msgid "Spelling"
+msgstr "איות"
+
+msgid "Spiral"
+msgstr "מערבולת"
+
+msgid "Split"
+msgstr "פיצול"
+
+msgid "Split View"
+msgstr "תצוגה מפוצלת"
+
+msgid "Sports"
+msgstr "ספורט"
+
+msgid "Spreadsheet"
+msgstr "גיליון אלקטרוני"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "ריבוע"
+
+msgid "Sri Lanka"
+msgstr "סרי לנקה"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr "ערימה"
+
+msgid "Stacked"
+msgstr "מוערם"
+
+msgid "Standard"
+msgstr "רגיל"
+
+msgid "Standard deviation"
+msgstr "סטיית תקן"
+
+msgid "Star"
+msgstr "כוכב"
+
+msgid "Start"
+msgstr "התחלה"
+
+msgid "&Start"
+msgstr "ה&תחלה"
+
+msgid "Start a new game"
+msgstr "התחלת משחק חדש"
+
+msgid "Start Date"
+msgstr "תאריך התחלה"
+
+msgid "Start date"
+msgstr "תאריך התחלה"
+
+msgid "Start Presentation"
+msgstr "התחלת המצגת"
+
+msgid "Start Time"
+msgstr "זמן התחלה"
+
+msgid "Started"
+msgstr "החל"
+
+msgid "Starting"
+msgstr "מופעל"
+
+msgid "Starting..."
+msgstr "מופעל…"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "מתחיל ב־"
+
+msgid "Startup"
+msgstr "עלייה"
+
+msgid "Stash"
+msgstr "הטמנה"
+
+msgid "State"
+msgstr "מצב"
+
+msgid "States"
+msgstr "מדינות"
+
+msgid "Statistics"
+msgstr "סטטיסטיקה"
+
+msgid "Status"
+msgstr "מצב"
+
+msgid "Status: %1"
+msgstr "מצב: %1"
+
+msgid "Statusbar"
+msgstr "שורת מצב"
+
+msgid "_Statusbar"
+msgstr "_שורת מצב"
+
+msgid "Step"
+msgstr "צעד"
+
+msgid "Stephan Kulow"
+msgstr "סטיבן קולוב"
+
+msgid "Steps"
+msgstr "צעדים"
+
+msgid "Stereo"
+msgstr "סטריאו"
+
+msgid "Stop"
+msgstr "עצירה"
+
+msgid "&Stop"
+msgstr "&עצירה"
+
+msgid "_Stop"
+msgstr "_השהיה"
+
+msgid "S&top"
+msgstr "ע&צירה"
+
+msgid "Stop Recording"
+msgstr "עצירת ההקלטה"
+
+msgid "Stopped"
+msgstr "נעצר"
+
+msgid "Storage"
+msgstr "אחסון"
+
+msgid "Store"
+msgstr "אחסון"
+
+msgid "Stream"
+msgstr "הזרמה"
+
+msgid "Street"
+msgstr "רחוב"
+
+msgid "Strength"
+msgstr "עוצמה"
+
+msgid "Stretch"
+msgstr "מתיחה"
+
+msgid "Strike Out"
+msgstr "קו חוצה"
+
+msgid "Strikethrough"
+msgstr "קו חוצה"
+
+msgid "String"
+msgstr "מחרוזת"
+
+msgid "string"
+msgstr "מחרוזת"
+
+msgid "Strings"
+msgstr "מחרוזות"
+
+msgid "Stroke"
+msgstr "קו מתאר"
+
+msgid "Strong"
+msgstr "חזקה"
+
+msgid "Structure"
+msgstr "מבנה"
+
+msgid "Style"
+msgstr "סגנון"
+
+msgid "Subject"
+msgstr "נושא"
+
+msgid "Submit"
+msgstr "הגשה"
+
+msgid "Subscribe"
+msgstr "הרשמה"
+
+msgid "Subscript"
+msgstr "כתב תחתי"
+
+msgid "Subscriptions"
+msgstr "מינויים"
+
+msgid "Subtitle"
+msgstr "כותרת משנה"
+
+msgid "Subtitles"
+msgstr "כתוביות"
+
+msgid "Subtract"
+msgstr "חיסור"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "הצלחה"
+
+msgid "Sudan"
+msgstr "סודאן"
+
+msgid "Suffix"
+msgstr "סיומת"
+
+msgid "Sum"
+msgstr "סכום"
+
+msgid "Summary"
+msgstr "תקציר"
+
+msgid "Sun"
+msgstr "שמש"
+
+msgid "Sundanese"
+msgstr "סונדית"
+
+msgid "Sunday"
+msgstr "יום ראשון"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "כתב עילי"
+
+msgid "Support"
+msgstr "תמיכה"
+
+msgid "Suriname"
+msgstr "סורינאם"
+
+msgid "Surname"
+msgstr "שם משפחה"
+
+msgid "Suspend"
+msgstr "השהיה"
+
+msgid "Suspended"
+msgstr "מושהה"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "החלפה"
+
+msgid "Sweden"
+msgstr "שוודיה"
+
+msgid "Swedish"
+msgstr "שוודית"
+
+msgid "Switch"
+msgstr "החלפה"
+
+msgid "Switches"
+msgstr "מתגים"
+
+msgid "Switzerland"
+msgstr "שווייץ"
+
+msgid "Symbol"
+msgstr "סמל"
+
+msgid "Symbols"
+msgstr "סמלים"
+
+msgid "Sync"
+msgstr "סנכרון"
+
+msgid "Synchronization"
+msgstr "סנכרון"
+
+msgid "Synchronize"
+msgstr "סנכרון"
+
+msgid "Syriac"
+msgstr "סורית"
+
+msgid "System"
+msgstr "מערכת"
+
+msgid "System Default"
+msgstr "כמו המערכת"
+
+msgid "System Settings"
+msgstr "הגדרות מערכת"
+
+msgid "T"
+msgstr "ט"
+
+msgid "Tab"
+msgstr "טאב"
+
+msgid "Table"
+msgstr "טבלה"
+
+msgid "Table of Contents"
+msgstr "תוכן העניינים"
+
+msgid "Tablet"
+msgstr "לוח ציור"
+
+msgid "Tabs"
+msgstr "לשוניות"
+
+msgid "Tag"
+msgstr "תגית"
+
+msgid "Tagalog"
+msgstr "טאגאלוג"
+
+msgid "Tagged"
+msgstr "מתויג"
+
+msgid "Tags"
+msgstr "תגיות"
+
+msgid "Taiwan"
+msgstr "טאיוואן"
+
+msgid "Tajikistan"
+msgstr "טג׳יקיסטן"
+
+msgid "Take Screenshot"
+msgstr "צילום המסך"
+
+msgid "Tamil"
+msgstr "טמילית"
+
+msgid "Tango"
+msgstr "טנגו"
+
+msgid "Tanzania"
+msgstr "טנזניה"
+
+msgid "Target"
+msgstr "יעד"
+
+msgid "Task"
+msgstr "משימה"
+
+msgid "Tasks"
+msgstr "משימות"
+
+msgid "Tatar"
+msgstr "טטרית"
+
+msgid "TB"
+msgstr "ט״ב"
+
+msgid "Team"
+msgstr "צוות"
+
+msgid "Technology"
+msgstr "טכנולוגיה"
+
+msgid "Telephone"
+msgstr "טלפון"
+
+msgid "Telugu"
+msgstr "טלוגו"
+
+msgid "Temperature"
+msgstr "טמפרטורה"
+
+msgid "Template"
+msgstr "תבנית"
+
+msgid "Templates"
+msgstr "תבניות"
+
+msgid "Tentative"
+msgstr "על תנאי"
+
+msgid "Terminal"
+msgstr "מסוף"
+
+msgid "Terminal Emulator"
+msgstr "מדמה מסוף"
+
+msgid "Test"
+msgstr "בדיקה"
+
+msgid "Testing"
+msgstr "בדיקה"
+
+msgid "Text"
+msgstr "טקסט"
+
+msgid "text"
+msgstr "טקסט"
+
+msgid "_Text"
+msgstr "_טקסט"
+
+msgid "Text Color"
+msgstr "צבע טקסט"
+
+msgid "Text color"
+msgstr "צבע טקסט"
+
+msgid "Text Editor"
+msgstr "עורך טקסט"
+
+msgid "Text File"
+msgstr "קובץ טקסט"
+
+msgid "Text Files"
+msgstr "קובצי טקסט"
+
+msgid "Text Only"
+msgstr "כיתוב בלבד"
+
+msgid "Text only"
+msgstr "טקסט בלבד"
+
+msgid "Text to search for"
+msgstr "טקסט לחיפוש"
+
+msgid "Text Tool"
+msgstr "כלי טקסט"
+
+msgid "TextLabel"
+msgstr "תווית טקסט"
+
+msgid "Thai"
+msgstr "תאית"
+
+msgid "Thailand"
+msgstr "תאילנד"
+
+msgid "The file %1 does not exist."
+msgstr "הקובץ %1 לא קיים."
+
+msgid "The GNOME Project"
+msgstr "מיזם GNOME"
+
+msgid "The graphical theme to be used."
+msgstr "ערכת העיצוב הגרפית לשימוש."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+"השינויים המשמעותיים ביותר ב־Calligra הם המעבר המלא ל־Qt6 ו־KF6, לרבות מתיחת "
+"פנים משמעותית של ממשק המשתמש."
+
+msgid "The NetworkManager Developers"
+msgstr "מפתחי NetworkManager"
+
+msgid "Theme"
+msgstr "ערכת עיצוב"
+
+msgid "Themes"
+msgstr "ערכות עיצוב"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "אירעה בעיה בשיתוף המסמך: %1"
+
+msgid "Thin"
+msgstr "דק"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr "המהדורה הזאת מוסיפה תמיכה ב־Flatpak לחבילת הכלים המשרדיים Calligra."
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"הפעולה הזת תסתיר את סרגל התפריטים לחלוטין. אפשר להציג אותו שוב בהקלדת %1."
+
+msgid "Thomas Zander"
+msgstr "תומס זנדר"
+
+msgid "Threshold"
+msgstr "סף"
+
+msgid "Thumbnail"
+msgstr "תמונה ממוזערת"
+
+msgid "Thumbnails"
+msgstr "תמונות ממוזערות"
+
+msgid "Thursday"
+msgstr "חמישי"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "טיבטית"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "ריצוף"
+
+msgid "Tiled"
+msgstr "מרוצף"
+
+msgid "Tilt"
+msgstr "הטייה"
+
+msgid "Time"
+msgstr "זמן"
+
+msgid "time"
+msgstr "שעה"
+
+msgid "Time: %1"
+msgstr "זמן: %1"
+
+msgid "Time and Date"
+msgstr "שעה ותאריך"
+
+msgid "Time Zone"
+msgstr "אזור זמן"
+
+msgid "Timeline"
+msgstr "ציר זמן"
+
+msgid "Timeout"
+msgstr "זמן תום המתנה"
+
+msgid "Timer"
+msgstr "קוצב זמן"
+
+msgid "Timestamp"
+msgstr "חותמת זמן"
+
+msgid "Timezone"
+msgstr "אזור זמן"
+
+msgid "Tiny"
+msgstr "פצפון"
+
+msgid "Title"
+msgstr "כותרת"
+
+msgid "title"
+msgstr "כותרת"
+
+msgid "&Title"
+msgstr "&כותרת"
+
+msgid "_Title"
+msgstr "_שם"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "אל"
+
+msgid "to"
+msgstr "עד"
+
+msgid "Tobias Fella"
+msgstr "טוביאס פלה"
+
 msgid "Today"
 msgstr "היום"
 
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "ערך:"
+msgid "today"
+msgstr "היום"
 
-#. Occurs in 10 KDE PO files
+msgid "TODO"
+msgstr "לביצוע"
+
+msgid "Todo"
+msgstr "מטלה"
+
+msgid "Toggle Fullscreen"
+msgstr "שינוי מצב מסך מלא"
+
+msgid "Toggle Sidebar"
+msgstr "הצגת/הסתרת סרגל צד"
+
+msgid "Toggle sidebar"
+msgstr "הצגת/הסתרת סרגל צד"
+
+msgid "Togo"
+msgstr "טוגו"
+
+msgid "Token"
+msgstr "אסימון"
+
+msgid "Tolerance"
+msgstr "סבילות"
+
+msgid "Tomorrow"
+msgstr "מחר"
+
+msgid "Tonga"
+msgstr "טונגה"
+
+msgid "Tool"
+msgstr "כלי"
+
+msgid "Tool Options"
+msgstr "אפשרויות כלים"
+
+msgid "_Toolbar"
+msgstr "_סרגל כלים"
+
+msgid "T_oolbar"
+msgstr "_סרגל כלים"
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "תיבת כלים"
+
+msgid "Tools"
+msgstr "כלים"
+
+msgid "&Tools"
+msgstr "&כלים"
+
+msgid "_Tools"
+msgstr "_כלים"
+
+msgid "Top"
+msgstr "למעלה"
+
+msgid "_Top"
+msgstr "מע_לה"
+
+msgid "Top Left"
+msgstr "למעלה משמאל"
+
+msgid "Top left"
+msgstr "שמאל למעלה"
+
+msgid "Top Right"
+msgstr "למעלה מימין"
+
+msgid "Top right"
+msgstr "ימין למעלה"
+
+msgid "Topic"
+msgstr "נושא"
+
+msgid "Top-left"
+msgstr "משמאל למעלה"
+
+msgid "Top-right"
+msgstr "מימין למעלה"
+
+msgid "Total"
+msgstr "סך הכול"
+
+msgid "Track"
+msgstr "רצועה"
+
+msgid "Track Number"
+msgstr "מספר רצועה"
+
+msgid "Tracker"
+msgstr "עוקב"
+
+msgid "Tracks"
+msgstr "רצועות"
+
+msgid "Traditional"
+msgstr "מסורתי"
+
+msgid "Transfer"
+msgstr "העברה"
+
+msgid "Transform"
+msgstr "התמרה"
+
+msgid "Transformation"
+msgstr "הסבה"
+
+msgid "Translate"
+msgstr "תרגום"
+
+msgid "Translation"
+msgstr "תרגום"
+
+msgid "Translator"
+msgstr "מתרגם"
+
+msgid "translator-credits"
+msgstr ""
+"יוסף אור בוצ׳קו <yoseforb@gmail.com>\n"
+"מיזם תרגום GNOME לעברית https://l10n.gnome.org/teams/he/"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "מתרגמים"
+
+msgid "Transparency"
+msgstr "שקיפות"
+
+msgid "Transparent"
+msgstr "שקוף"
+
+msgid "Transport"
+msgstr "תעבורה"
+
+msgid "Transpose"
+msgstr "שחלוף"
+
+msgid "Trash"
+msgstr "אשפה"
+
+msgid "Travel"
+msgstr "נסיעות"
+
+msgid "Tree"
+msgstr "עץ"
+
+msgid "Tree View"
+msgstr "תצוגת עץ"
+
+msgid "Triangle"
+msgstr "משולש"
+
+msgid "True"
+msgstr "חיובי"
+
+msgid "true"
+msgstr "אמת"
+
+msgid "Trusted"
+msgstr "מהימן"
+
+msgid "Try a different search"
+msgstr "יש לנסות חיפוש שונה"
+
+msgid "Try Again"
+msgstr "לנסות שוב"
+
+msgid "Tuesday"
+msgstr "יום שלישי"
+
+msgid "Tunisia"
+msgstr "טוניסיה"
+
+msgid "Turkey"
+msgstr "טורקיה"
+
+msgid "Turkish"
+msgstr "טורקית"
+
+msgid "Turkmenistan"
+msgstr "טורקמניסטן"
+
+msgid "Tuvalu"
+msgstr "טובאלו"
+
+msgid "TV"
+msgstr "טלוויזיה"
+
+msgid "Twitter"
+msgstr "טוויטר"
+
+msgid "TYPE"
+msgstr "TYPE"
+
+msgid "Type"
+msgstr "סוג"
+
+msgid "type"
+msgstr "סוג"
+
+msgid "&Type"
+msgstr "&סוג"
+
+msgid "Type: %1"
+msgstr "סוג: %1"
+
+msgid "Uganda"
+msgstr "אוגנדה"
+
+msgid "Ukraine"
+msgstr "אוקראינה"
+
+msgid "Ukrainian"
+msgstr "אוקראינית"
+
+msgid "Unable to create a temporary file."
+msgstr "לא ניתן ליצור קובץ זמני."
+
+msgid "unable to get editor plugin name: %s"
+msgstr ""
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+
+msgid "Unavailable"
+msgstr "לא זמין"
+
+msgid "Undefined"
+msgstr "לא מוגדר"
+
+msgid "Underline"
+msgstr "קו תחתון"
+
+msgid "&Underline"
+msgstr "קו &תחתון"
+
+msgid "_Underline"
+msgstr "_קו תחתי"
+
+msgid "Undo"
+msgstr "הסגה"
+
+msgid "&Undo"
+msgstr "ה&סגה"
+
+msgid "_Undo"
+msgstr "_בטל"
+
+msgid "Undo %1"
+msgstr "הסגת %1"
+
+msgid "Undo History"
+msgstr "היסטוריית הסגות"
+
+msgid "UnFav it"
+msgstr "הוצאה מהמועדפים"
+
+msgid "unhandled property “%s” type %s"
+msgstr ""
+
+msgid "Unicode"
+msgstr "יוניקוד"
+
+msgid "Uniform"
+msgstr "אחיד"
+
+msgid "Union"
+msgstr "איחוד"
+
+msgid "Unit"
+msgstr "יחידה"
+
+msgid "United Arab Emirates"
+msgstr "איחוד האמירויות הערביות"
+
+msgid "United Kingdom"
+msgstr "אנגליה"
+
+msgid "United States"
+msgstr "ארצות הברית"
+
+msgid "United States Minor Outlying Islands"
+msgstr "איים קטנים מרוחקים של ארצות הברית"
+
+msgid "Units"
+msgstr "יחידות"
+
+msgid "University"
+msgstr "אוניברסיטה"
+
+msgid "Unknown"
+msgstr "לא ידוע"
+
+msgid "unknown"
+msgstr "לא ידוע"
+
+msgid "(unknown)"
+msgstr "(לא ידוע)"
+
+msgid "Unknown Error"
+msgstr "שגיאה לא ידועה"
+
+msgid "Unknown error"
+msgstr "שגיאה לא ידועה"
+
+msgid "Unknown error."
+msgstr "שגיאה לא ידועה."
+
+msgid "unknown error creating editor instance"
+msgstr "שגיאה בלתי ידועה ביצירת מופע עורך"
+
+msgid "Unknown file type"
+msgstr "סוג קובץ לא ידוע"
+
+msgid "Unlimited"
+msgstr "ללא הגבלה"
+
+msgid "unlimited"
+msgstr "ללא הגבלה"
+
+msgid "Unlock"
+msgstr "שחרור"
+
+msgid "_Unlock"
+msgstr "_שחרור"
+
+msgid "Unmount"
+msgstr "ניתוק"
+
+msgid "Unmute"
+msgstr "ביטול השתקה"
+
+msgid "Unnamed"
+msgstr "ללא שם"
+
+msgid "unnamed"
+msgstr "ללא שם"
+
+msgid "Unread"
+msgstr "לא נקרא"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "שינויים שלא נשמרו"
+
+msgid "Unselect All"
+msgstr "ביטול בחירה"
+
+msgid "Unselect all"
+msgstr "ביטול בחירה"
+
+msgid "Unspecified"
+msgstr "לא צוין"
+
+msgid "Untitled"
+msgstr "ללא שם"
+
+msgid "untitled"
+msgstr "ללא שם"
+
+msgid "Unused"
+msgstr "לא בשימוש"
+
+msgid "Up"
+msgstr "למעלה"
+
+msgid "&Up"
+msgstr "למ&עלה"
+
+msgid "Update"
+msgstr "עדכון"
+
+msgid "&Update"
+msgstr "&עדכון"
+
+msgid "_Update"
+msgstr "_עדכן"
+
+msgid "Updates"
+msgstr "עדכונים"
+
+msgid "Updating"
+msgstr "בעדכון"
+
+msgid "Updating..."
+msgstr "מתבצע עדכון…"
+
+msgid "Upload"
+msgstr "העלאה"
+
+msgid "_Upload"
+msgstr "הע_לאה"
+
+msgid "Uploaded"
+msgstr "הועלה"
+
+msgid "Upper"
+msgstr "אות גדולה"
+
+msgid "Uppercase"
+msgstr "אותיות רישיות"
+
+msgid "Urdu"
+msgstr "אורדו"
+
+msgid "URI"
+msgstr "כתובת ייחודית"
+
+msgid "URL"
+msgstr "כתובת"
+
+msgid "Url"
+msgstr "כתובת"
+
+msgid "Uruguay"
+msgstr "אורוגוואי"
+
+msgid "US Letter"
+msgstr "מכתב אמריקאי"
+
+msgid "Usage"
+msgstr "שימוש"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "להשתמש"
+
+msgid "Used"
+msgstr "בשימוש"
+
+msgid "User"
+msgstr "משתמש"
+
+msgid "User Certificate"
+msgstr "אישור משתמש"
+
+msgid "User Defined"
+msgstr "בהגדרת המשתמש"
+
+msgid "User Feedback"
+msgstr "משוב משתמש"
+
+msgid "User ID"
+msgstr "מזהה משתמש"
+
+msgid "User Interface"
+msgstr "ממשק משתמש"
+
+msgid "User name"
+msgstr "שם משתמש"
+
+msgid "User Password"
+msgstr "סיסמת משתמש"
+
+msgid "Username"
+msgstr "שם משתמש"
+
+msgid "_Username"
+msgstr "_שם משתמש"
+
+msgid "Users"
+msgstr "משתמשים"
+
+msgid "Utilities"
+msgstr "עזרים"
+
+msgid "UUID"
+msgstr "מזהה ייחודי"
+
+msgid "Uzbekistan"
+msgstr "אוזבקיסטן"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr "%v%"
+
+msgid "Valid"
+msgstr "תקף"
+
+msgid "Valid from"
+msgstr "תקף מ־"
+
+msgid "Validity"
+msgstr "תוקף"
+
+msgid "Value"
+msgstr "ערך"
+
+msgid "value"
+msgstr "ערך"
+
+msgid "&Value"
+msgstr "&ערך"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+
+msgid "Values"
+msgstr "ערכים"
+
+msgid "Vanuatu"
+msgstr "ונואטו"
+
+msgid "Variable"
+msgstr "משתנה"
+
+msgid "Variables"
+msgstr "משתנים"
+
+msgid "Variance"
+msgstr "שׁוֹנוּת"
+
+msgid "Vector"
+msgstr "וקטור"
+
+msgid "Velocity"
+msgstr "מהירות"
+
+msgid "Vendor"
+msgstr "יצרן"
+
+msgid "Venezuela"
+msgstr "ונצואלה"
+
+msgid "Verb"
+msgstr "פועל"
+
+msgid "Verify"
+msgstr "אימות"
+
 msgid "Version"
-msgstr "גירסה"
+msgstr "גרסה"
 
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "גרסה:"
+msgid "Version %1"
+msgstr "גרסה %1"
 
-#. Occurs in 10 KDE PO files
+msgid "Vertical"
+msgstr "אנכי"
+
+msgid "Very Large"
+msgstr "גדול מאוד"
+
 msgid "Video"
 msgstr "וידאו"
 
-#. Occurs in 10 KDE PO files
+msgid "Video CD"
+msgstr "וידאו CD"
+
+msgid "Video Codec"
+msgstr "מפענח וידאו"
+
+msgid "Video Files"
+msgstr "קובצי וידאו"
+
+msgid "Videos"
+msgstr "סרטונים"
+
+msgid "Vietnam"
+msgstr "וייטנאם"
+
+msgid "Vietnamese"
+msgstr "וייטנאמית"
+
+msgid "View"
+msgstr "תצוגה"
+
+msgid "&View"
+msgstr "ת&צוגה"
+
+msgid "_View"
+msgstr "_תצוגה"
+
+msgid "View Options"
+msgstr "אפשרויות תצוגה"
+
+msgid "View Settings"
+msgstr "הגדרות תצוגה"
+
+msgid "Viewer"
+msgstr "מציג"
+
+msgid "Views"
+msgstr "תצוגות"
+
+msgid "Virtual"
+msgstr "וירטואלי"
+
+msgid "Virtual Keyboard"
+msgstr "מקלדת וירטואלית"
+
+msgid "Visibility"
+msgstr "חשיפה"
+
+msgid "Visible"
+msgstr "גלוי"
+
+msgid "Voltage"
+msgstr "מתח"
+
+msgid "Volume"
+msgstr "עוצמת שמע"
+
+msgid "Volume Down"
+msgstr "Volume Down"
+
+msgid "Volume Up"
+msgstr "Volume Up"
+
+msgid "W"
+msgstr "מע׳"
+
+msgid "w"
+msgstr "כ"
+
+msgid "Waiting"
+msgstr "בהמתנה"
+
+msgid "Wallpaper"
+msgstr "תמונת רקע"
+
+msgid "Wallpaper type"
+msgstr "סוג תמונת רקע"
+
+msgid "WARNING"
+msgstr "אזהרה"
+
+msgid "Warning"
+msgstr "אזהרה"
+
+msgid "warning"
+msgstr "אזהרה"
+
+msgid "Warnings"
+msgstr "אזהרות"
+
+msgid "Water"
+msgstr "מים"
+
+msgid "Wave"
+msgstr "גל"
+
+msgid "Weak"
+msgstr "חלש"
+
+msgid "Weather"
+msgstr "מזג אוויר"
+
+msgid "Web Browser"
+msgstr "דפדפן"
+
+msgid "Web browser"
+msgstr "דפדפן"
+
+msgid "Website"
+msgstr "אתר"
+
+msgid "Wednesday"
+msgstr "יום רביעי"
+
+msgid "Week"
+msgstr "שבוע"
+
+msgid "Week View"
+msgstr "תצוגת שבוע"
+
+msgid "Weekly"
+msgstr "שבועית"
+
+msgid "Weeks"
+msgstr "שבועות"
+
+msgid "weeks"
+msgstr "שבועות"
+
+msgid "Weight"
+msgstr "משקל"
+
+msgid "Welcome"
+msgstr "ברוך בואך"
+
+msgid "Welsh"
+msgstr "ולשית"
+
+msgid "West"
+msgstr "מערב"
+
+msgid "Western"
+msgstr "מערבי"
+
+msgid "Western Sahara"
+msgstr "סהרה המערבית"
+
+msgid "What's new"
+msgstr "מה חדש"
+
+msgid "Wheel"
+msgstr "גלגל"
+
+msgid "Whether sound effects should be played."
+msgstr "האם להשמיע אפקטים קוליים."
+
+msgid "White"
+msgstr "לבן"
+
+msgid "white"
+msgstr "לבן"
+
+msgid "White Balance"
+msgstr "איזון לבן"
+
+msgid "Wide"
+msgstr "רחב"
+
+msgid "Widgets"
+msgstr "יישומונים"
+
+msgid "Width"
+msgstr "רוחב"
+
+msgid "&Width"
+msgstr "&רוחב"
+
+msgid "_Width"
+msgstr "_רוחב"
+
+msgid "Wi-Fi"
+msgstr "רשת אלחוטית"
+
+msgid "Wikipedia"
+msgstr "ויקיפדיה"
+
+msgid "Window"
+msgstr "חלון"
+
+msgid "&Window"
+msgstr "&חלון"
+
+msgid "&Window Color Scheme"
+msgstr "&ערכת צבע חלונות"
+
+msgid "Window height"
+msgstr "Window height"
+
+msgid "Window Management"
+msgstr "ניהול חלונות"
+
+msgid "Window maximized"
+msgstr "Window maximized"
+
+msgid "Window size"
+msgstr "גודל חלון"
+
+msgid "Window Title"
+msgstr "כותרת חלון"
+
+msgid "Window width"
+msgstr "Window width"
+
+msgid "Windows"
+msgstr "חלונות"
+
+msgid "_Windows"
+msgstr "_חלונות"
+
+msgid "with"
+msgstr "עם"
+
+msgid "Word"
+msgstr "מילה"
+
+msgid "Word Count"
+msgstr "כמות מילים"
+
+msgid "Words"
+msgstr "מילים"
+
+msgid "Work"
+msgstr "עבודה"
+
+msgid "World"
+msgstr "עולם"
+
+msgid "Wrap"
+msgstr "Wrap"
+
+msgid "_Wrap around"
+msgstr "_גלוש מסביב"
+
+msgid "Wrap Text"
+msgstr "גלישת טקסט"
+
+msgid "Write"
+msgstr "כתיבה"
+
+msgid "Writing"
+msgstr "כותב"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "שנה"
+
+msgid "Yearly"
+msgstr "שנתי"
+
 msgid "Years"
 msgstr "שנים"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
-msgid "Delete"
-msgstr "מחק"
+msgid "years"
+msgstr "שנים"
+
+msgid "Yellow"
+msgstr "צהוב"
+
+msgid "yellow"
+msgstr "צהוב"
+
+msgid "Yemen"
+msgstr "תימן"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "yes"
+msgstr "כן"
+
+msgid "_Yes"
+msgstr "_כן"
+
+msgid "Yesterday"
+msgstr "אתמול"
+
+msgid "Yiddish"
+msgstr "יידיש"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr "עליך להתאמת כדי לגשת לרשת הווירטואלית הפרטית „%s”."
+
+msgid "Yukon"
+msgstr "יוקון"
+
+msgid "Z"
+msgstr "ז"
+
+msgid "Zambia"
+msgstr "זמביה"
+
+msgid "Zero"
+msgstr "אפס"
+
+msgid "Zimbabwe"
+msgstr "זימבבואה"
+
+msgid "Zoom"
+msgstr "תקריב"
+
+msgid "&Zoom"
+msgstr "ת&קריב"
+
+msgid "_Zoom"
+msgstr "_התאמת גודל"
+
+msgid "Zoom In"
+msgstr "התקרבות"
+
+msgid "Zoom in"
+msgstr "התקרבות"
+
+msgid "Zoom &In"
+msgstr "הת&קרבות"
+
+msgid "Zoom _In"
+msgstr "הת_קרבות"
+
+msgid "Zoom Out"
+msgstr "התרחקות"
+
+msgid "Zoom out"
+msgstr "התרחקות"
+
+msgid "Zoom &Out"
+msgstr "הת&רחקות"
+
+msgid "Zoom _Out"
+msgstr "הת_רחקות"
+
+msgid "Zoom to Fit"
+msgstr "תקריב לפי גודל המסך"

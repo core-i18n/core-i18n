@@ -7,1437 +7,9453 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "Hlavný panel nástrojov"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "Všeobecné"
+msgid "#"
+msgstr "#"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "Odstrániť"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "Zrušiť"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "&Súbor"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "Vymazať"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "Žiadne"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "Názov"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "Správca"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "Názov:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "&Upraviť"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "&Nastavenia"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "Chyba"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "&Zobraziť"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "Pridať"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "Heslo:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "Vývojár"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "Autor"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "Zavrieť"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "Možnosti"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "Nastavenia"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "Neznáme"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "&Nástroje"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "Typ"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "O&dstrániť"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "Upraviť"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "Uložiť"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "Popis"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "Popis:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "Dátum"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "Súbor"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "Náhľad"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "Nastaviť"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "Vzhľad"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "Vlastnosti"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "Typ:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "Veľkosť"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "O&dstrániť"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "Hľadať"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "Predvolené"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "Užívateľské meno:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&Pomocník"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "Kopírovať"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "Zastaviť"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "Zobraziť"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "Upozornenie"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "Normálne"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "Premenovať"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "Áno"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "Pokročilé"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "Nie"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "Stav"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "Text"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "Hodnota"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "Farby"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "Dialóg"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "Názov"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "Pôvodný autor"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "Hľadať..."
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "Pridať..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "Informácia"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "Čas"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "Komentár"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "Výška:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "Vľavo"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "Nové"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "Otvoriť"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "Veľkosť:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "Šírka:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "Port:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "Vpravo"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "Uložiť ako"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "Názov:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&Exportovať"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "Automatické"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "Vyčistiť"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "Vytvoriť"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "Exportovať"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "Pomocník"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "OK"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "&Názov:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "Overenie"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "Podrobnosti"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "Filter"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "Ignorovať"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "Obrázok"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "Umiestnenie:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "Obnoviť"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "Všetko"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "Vycentrovať"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "Vlastné"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "Písmo"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "Vložiť"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "Nikdy"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "Nástroje"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "Späť"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "Bez názvu"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "Pre&jsť"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "Upraviť..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "Povolené"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "Importovať"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "Umiestnenie"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "Posunúť dole"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "Posunúť hore"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "Vybrať všetko"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "Aktualizovať"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "&Pridať"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "O aplikácii"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "Komentár:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "Nastaviť..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "Názov súboru:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "Všeobecné nastavenia"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "Nasledujúci"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "Iné"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "Vybrať"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "Hore"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "Vertikálne"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "&Zavrieť"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "Autor:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "Povoliť"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "Horizontálne"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "Importovať..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "Znovu"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "Odmietnuť"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "Nahradiť"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "&Upraviť..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "Akcie"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "Vždy"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "Záložky"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "Dátum:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "Exportovať..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "Info"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "Číslo"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "Pôvodný autor"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "Prehrať"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "Znovu načítať"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "Spustiť"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "Značky"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "Téma"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "Pre:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "&Nový"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "Prijať"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "Pozadie"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "Farba:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "Príkaz"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "Zakázané"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "Hotovo"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "Písma"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "Od:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "Čiara"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "Rôzne"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "Sieť"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "Vložiť"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "Pozastaviť"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "Pozícia"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "neznáme"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "Nastaviť"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " ms"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "Použiť"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "Auto"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "Dole"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "Stĺpce"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "Stiahnuť"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "Editor"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "Písmo:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "Formát"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "Od"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "Jazyk"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "Rôzne"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "Otvoriť súbor"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "Heslo"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "Pripravený"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "Obnoviť"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "Predmet"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "Pre"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "Lupa"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "&Zrušiť"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "Účet:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "Všetky súbory"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "Čierna"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "Tučné"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "Pokračovať"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "Dáta"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "Cieľ"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "E-mail:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "Priečinok"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "Skupina"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "Ikona:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "Kurzíva"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "Rozloženie"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "Stredné"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "Správa"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "Moduly"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "Predchádzajúci"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "Červená"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "Uložiť ako..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "Zdroj"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "Stav"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "Neznáma chyba"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "Hore"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "Šírka"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "Názov"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "&Pridať..."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "&Uložiť"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "Aplikácie"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "Späť"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "Správanie"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "Rozlišovať veľkosť písmen"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "Kopírovať do schránky"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "Aktuálny správca"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "Ladenie"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "Formát:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "Dĺžka"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "Ručne"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "Režim"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "Výstup"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "Cesta:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "Pozícia:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "Výber"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "Zdieľať"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "Štýl"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "Priblížiť"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "Oddialiť"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "&Hra"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "&Importovať"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&Hľadať"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "Všetky súbory (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "Modrá"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "Farba"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "Pripojiť"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "Krajina"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "Dokumentácia"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "Dolu"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "E-mail"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "Meno súboru"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "Priečinky"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "Zelená"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "Obrázky"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "Štítok"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "Nízka"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "Mesiac"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "Stlmiť"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "Ukončiť"
-
-#. Occurs in 12 KDE PO files
-msgid "Search…"
-msgstr "Hľadať..."
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "Stav:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "Tabuľka"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "Značka"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "TextLabel"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "Rok"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "nie"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "áno"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " px"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "&Záložky"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "&Všeobecné"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "&Nový..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "&Otvoriť"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "Za&staviť"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "Účet"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "Predvoľby účtu"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "Akcia"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "Farba pozadia"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "Kategórie"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "Kategória"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "Kategória:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "Zbaliť všetko"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "Vystrihnúť"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "Nezmeniť aktuálne backend dáta."
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "Rozbaliť všetko"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "Názov súboru"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter..."
-msgstr "Filtrovať..."
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "Filter:"
-
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "Brána:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "Geometria"
-
-#. Occurs in 11 KDE PO files
-msgid "Harald Sitter"
-msgstr "Harald Sitter"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "Výška"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "Domov"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "Ikony"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "Kľúč"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "Čiary"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "Zoznam"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "Načítava sa..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "Mesiace"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "Presunúť"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "Prezývka:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "Poznámka"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "Otvoriť priečinok s obsahom"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "Prepísať súbor?"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "Reštart"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "Spustiť"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "Hľadať:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "Poslať"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "Server:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "Rýchlosť"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "URL"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "URL:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "Užívateľ:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "minúty"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "Chyba"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "&Kopírovať"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr "?"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " a "
+
+msgid " (default)"
+msgstr " (predvolené)"
+
+msgid "© KDE Community"
+msgstr "© Komunita KDE"
+
+msgid " MB"
+msgstr " MB"
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " min"
+
+msgid " minutes"
+msgstr " minúty"
+
+msgid " ms"
+msgstr " ms"
+
+msgid " px"
+msgstr " px"
+
+msgid " s"
+msgstr " s"
+
+msgid " sec"
+msgstr " sek"
+
+msgid " seconds"
+msgstr " sekundy"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 %"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 a %2"
+
+msgid "%1 bytes"
+msgstr "%1 bajtov"
+
+msgid "1 day"
+msgstr "1 deň"
+
+msgid "%1 does not exist"
+msgstr "%1 neexistuje"
+
+msgid "%1 free"
+msgstr "%1 voľných"
+
+msgid "1 hour"
+msgstr "1 hodina"
+
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgid "%1 ms"
+msgstr "%1 ms"
+
+msgid "%1 of %2"
+msgstr "%1 z %2"
+
+msgid "%1 on %2"
+msgstr "%1 na %2"
+
+msgid "%1 s"
+msgstr "%1 s"
+
+msgid "%1 seconds"
+msgstr "%1 sekúnd"
+
+msgid "%1 to %2"
+msgstr "%1 do %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 minút"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "128 bitové"
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 minút"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1m"
+
+msgid "%1/s"
+msgstr "%1/s"
+
+msgid "1st"
+msgstr "1."
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 minút"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "4."
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 minút"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr "5."
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"Súbor s názvom \"%1\" už existuje. Ste si istý, že si ho prajete prepísať?"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
 msgstr "Prerušiť"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "Pokročilé možnosti"
+msgid "&Abort"
+msgstr "&Prerušiť"
 
-#. Occurs in 10 KDE PO files
-msgid "Album"
-msgstr "Album"
+msgid "Aborted"
+msgstr "Prerušené"
 
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
+msgid "About"
+msgstr "O aplikácii"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "&About"
+msgstr "&O programe"
 
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
-msgstr "&Zrušiť"
+msgid "_About"
+msgstr "_O programe"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "Vyčistiť históriu"
+msgid "About %1"
+msgstr "Informácie o %1"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "Kompresia"
+msgid "About KDE"
+msgstr "Informácie o KDE"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "Kontakty"
+msgid "Abstract"
+msgstr "Abstraktné"
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "Copyright"
+msgid "Accept"
+msgstr "Prijať"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "Zariadenie:"
+msgid "Accepted"
+msgstr "Akceptovaný"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "Odpojiť"
+msgid "Accessed"
+msgstr "Otvorený"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "Trvanie"
+msgid "Accessibility"
+msgstr "Prístupnosť"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "Chyba: %1"
+msgid "Account"
+msgstr "Účet"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Account Details"
+msgstr "Detaily účtu"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "Súbor:"
+msgid "Account Information"
+msgstr "Informácie o účte"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "Súbory"
+msgid "Account Name"
+msgstr "Meno účtu"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "Nájsť"
+msgid "Accounts"
+msgstr "Účty"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "Funkcia"
+msgid "Accuracy"
+msgstr "Presnosť"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "Skupina:"
+msgid "Action"
+msgstr "Akcia"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "Skryť panel ponuky"
+msgid "Actions"
+msgstr "Akcie"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "Vysoká"
+msgid "Activate"
+msgstr "Aktivovať"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "História"
+msgid "Active"
+msgstr "Aktívne"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "Activities"
+msgstr "Aktivity"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "Posunúť &vyššie"
+msgid "Activity"
+msgstr "Aktivita"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "Upozornenia"
+msgid "Adaptive"
+msgstr "Adaptívne"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "Organizácia"
-
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "Cesta"
-
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "Port"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "Priorita"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "Priorita:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "Projekt"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "Odstrániť skupinu"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "Medzera"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "Dnes"
-
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "Hodnota:"
-
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "Verzia"
-
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "Verzia:"
-
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "Video"
-
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "Roky"
-
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
 msgid "Add"
 msgstr "Pridať"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
+msgid "&Add"
+msgstr "&Pridať"
+
+msgid "_Add"
+msgstr "_Pridať"
+
+msgid "Add..."
+msgstr "Pridať..."
+
+msgid "&Add..."
+msgstr "&Pridať..."
+
+msgid "A&dd..."
+msgstr "Pri&dať…"
+
+msgid "Add Account"
+msgstr "Pridať účet"
+
+msgid "Add Bookmark"
+msgstr "Pridať záložku"
+
+msgid "_Add Bookmark"
+msgstr "_Pridať záložku"
+
+msgid "Add Filter"
+msgstr "Pridať filter"
+
+msgid "Add Folder"
+msgstr "Pridať priečinok"
+
+msgid "Add Folder..."
+msgstr "Pridať priečinok..."
+
+msgid "Add Group"
+msgstr "Pridať skupinu"
+
+msgid "Add New"
+msgstr "Pridať nový"
+
+msgid "Add Rule..."
+msgstr "Pridať pravidlo"
+
+msgid "Add Tag"
+msgstr "Pridať značku"
+
+msgid "Add tag"
+msgstr "Pridať značku"
+
+msgid "Add to Dictionary"
+msgstr "Pridať do slovníka"
+
+msgid "Add to Favorites"
+msgstr "Pridať do obľúbených"
+
+msgid "Added"
+msgstr "Pridané"
+
+msgid "Addition"
+msgstr "Súčet"
+
+msgid "Additional Information"
+msgstr "Ďalšie informácie"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Address Book"
+msgstr "Adresár"
+
+msgid "Addresses"
+msgstr "Adresy"
+
+msgid "Adjust"
+msgstr "Upraviť"
+
+msgid "Advanced"
+msgstr "Pokročilé"
+
+msgid "Advanced..."
+msgstr "Pokročilé..."
+
+msgid "Ad_vanced..."
+msgstr "_Rozšírené…"
+
+msgid "Advanced options"
+msgstr "Pokročilé nastavenia"
+
+msgid "Advanced Properties"
+msgstr "&Rozšírené vlastnosti"
+
+msgid "Advanced Settings"
+msgstr "Pokročilé nastavenia"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "Afrikaans"
+msgstr "Afrikánčina"
+
+msgid "After"
+msgstr "Po"
+
+msgid "Agenda"
+msgstr "Agenda"
+
+msgid "Alarm"
+msgstr "Budík"
+
+msgid "Alarms"
+msgstr "Alarmy"
+
+msgid "Albania"
+msgstr "Albánsko"
+
+msgid "Albanian"
+msgstr "Albánčina"
+
+msgid "Albert Vaca Cintora"
+msgstr "Albert Vaca Cintora"
+
+msgid "Album"
+msgstr "Album"
+
+msgid "Album Artist"
+msgstr "Interpret albumu"
+
+msgid "Albums"
+msgstr "Albumy"
+
+msgid "Alert"
+msgstr "Varovanie"
+
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+msgid "Algeria"
+msgstr "Alžírsko"
+
+msgid "Algorithm"
+msgstr "Algorithm"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "Aliases"
+msgstr "Aliasy"
+
+msgid "Align"
+msgstr "Zarovnať"
+
+msgid "Align Bottom"
+msgstr "Zarovnať dole"
+
+msgid "Align Center"
+msgstr "Zarovnať na stred"
+
+msgid "Align Left"
+msgstr "Zarovnať vľavo"
+
+msgid "Align left"
+msgstr "Zarovnať vľavo"
+
+msgid "Align Right"
+msgstr "Zarovnať vpravo"
+
+msgid "Align right"
+msgstr "Zarovnať vpravo"
+
+msgid "Align Top"
+msgstr "Zarovnať hore"
+
+msgid "Alignment"
+msgstr "Zarovnanie"
+
+msgid "All"
+msgstr "Všetko"
+
+msgid "all"
+msgstr "všetko"
+
+msgid "_All"
+msgstr "_Všetko"
+
+msgid "All Files"
+msgstr "Všetky súbory"
+
+msgid "All files"
+msgstr "Všetky súbory"
+
+msgid "All Files (*)"
+msgstr "Všetky súbory (*)"
+
+msgid "All files (*)"
+msgstr "Všetky súbory (*)"
+
+msgid "All Supported Files"
+msgstr "Všetky podporované súbory"
+
+msgid "Allen Winter"
+msgstr "Allen Winter"
+
+msgid "Allow"
+msgstr "Povoliť"
+
+msgid "Allow Deflate compression"
+msgstr "Povoliť Deflate kompresiu"
+
+msgid "Alpha"
+msgstr "Alfa"
+
+msgid "Alphabetically"
+msgstr "Abecedne"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "Alternatívne"
+
+msgid "Always"
+msgstr "Vždy"
+
+msgid "Always ask"
+msgstr "Vždy sa pýtať"
+
+msgid "Always visible"
+msgstr "Vždy viditeľný"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Ambient"
+msgstr "Ambient"
+
+msgid "Amount"
+msgstr "Množstvo"
+
+msgid "An error occurred"
+msgstr "Vyskytla sa chyba"
+
+msgid "An unknown error occurred."
+msgstr "Nastala neznáma chyba."
+
+msgid "Analysis"
+msgstr "Rozbor"
+
+msgid "Anchor"
+msgstr "Ukotvenie"
+
+msgid "AND"
+msgstr "AND"
+
+msgid "and"
+msgstr "a"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "Uhol"
+
+msgid "angle"
+msgstr "uhol"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animation"
+msgstr "Animácia"
+
+msgid "Animations"
+msgstr "Animácie"
+
+msgid "Anniversary"
+msgstr "Výročie"
+
+msgid "Annotate"
+msgstr "Pridanie poznámky"
+
+msgid "Annotation"
+msgstr "Poznámka"
+
+msgid "Annotations"
+msgstr "Poznámky"
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Antarctica"
+msgstr "Antarktída"
+
+msgid "Any"
+msgstr "Hocičo"
+
+msgid "Aperture"
+msgstr "Clona"
+
+msgid "Appearance"
+msgstr "Vzhľad"
+
+msgid "Append"
+msgstr "Pripojiť"
+
+msgid "AppImage"
+msgstr "AppImage"
+
+msgid "Application"
+msgstr "Aplikácia"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "Menu aplikácie"
+
+msgid "Applications"
+msgstr "Aplikácie"
+
+msgid "Apply"
+msgstr "Použiť"
+
+msgid "&Apply"
+msgstr "&Použiť"
+
+msgid "_Apply"
+msgstr "_Použiť"
+
+msgid "Apply Settings"
+msgstr "Použiť nastavenie"
+
+msgid "April"
+msgstr "Apríl"
+
+msgid "Arabic"
+msgstr "Arabské"
+
+msgid "Archive"
+msgstr "Archív"
+
+msgid "Archives"
+msgstr "Archívy"
+
+msgid "Area"
+msgstr "Oblasť"
+
+msgid "Argentina"
+msgstr "Argentína"
+
+msgid "Arguments"
+msgstr "Argumenty"
+
+msgid "Armenia"
+msgstr "Arménsko"
+
+msgid "Armenian"
+msgstr "Arménske"
+
+msgid "Arrow"
+msgstr "Šípka"
+
+msgid "Arrows"
+msgstr "Šípky"
+
+msgid "Articles"
+msgstr "Články"
+
+msgid "Artist"
+msgstr "Interpret"
+
+msgid "Artists"
+msgstr "Interpreti"
+
+msgid "Artwork"
+msgstr "Grafický dizajn"
+
+msgid "Ascending"
+msgstr "Vzostupne"
+
+msgid "Asia"
+msgstr "Ázia"
+
+msgid "Ask"
+msgstr "Pýtať sa"
+
+msgid "Aspect Ratio"
+msgstr "Pomer strán"
+
+msgid "Aspect ratio"
+msgstr "Pomer strán"
+
+msgid "Assamese"
+msgstr "Asámčina"
+
+msgid "Assign Tags"
+msgstr "Priradiť značky"
+
+msgid "Assistant"
+msgstr "Asistent"
+
+msgid "ATM"
+msgstr "ATM"
+
+msgid "Attach"
+msgstr "Pripojiť"
+
+msgid "Attach File"
+msgstr "Priložiť súbor"
+
+msgid "Attachment"
+msgstr "Príloha"
+
+msgid "Attachments"
+msgstr "Prílohy"
+
+msgid "Attendees"
+msgstr "Účastníci"
+
+msgid "Attribute"
+msgstr "Atribút"
+
+msgid "Attributes"
+msgstr "Atribúty"
+
+msgid "Audio"
+msgstr "Zvuk"
+
+msgid "Audio CD"
+msgstr "Zvukové CD"
+
+msgid "Audio Codec"
+msgstr "Audio súbory"
+
+msgid "Audio files"
+msgstr "Audio súbory"
+
+msgid "August"
+msgstr "August"
+
+msgid "Australia"
+msgstr "Austrália"
+
+msgid "Austria"
+msgstr "Rakúsko"
+
+msgid "Authenticate"
+msgstr "Overiť"
+
+msgid "Authenticate VPN"
+msgstr "Overenie totožnosti VPN"
+
+msgid "Authentication"
+msgstr "Overenie"
+
+msgid "Authentication Required"
+msgstr "Vyžaduje sa overenie"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Authors"
+msgstr "Autori"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "auto"
+msgstr "Automaticky"
+
+msgid "Auto Detect"
+msgstr "Automatická detekcia"
+
+msgid "Auto Save"
+msgstr "Automatické ukladanie"
+
+msgid "Autodetect"
+msgstr "Automatická detekcia"
+
+msgid "Automatic"
+msgstr "Automatické"
+
+msgid "Autosave interval"
+msgstr "Interval pre automatické ukladanie"
+
+msgid "Available"
+msgstr "Dostupný"
+
+msgid "A&vailable actions"
+msgstr "&Dostupné akcie"
+
+msgid "Average"
+msgstr "Priemer"
+
+msgid "Axes"
+msgstr "Osi"
+
+msgid "Azerbaijan"
+msgstr "Azerbajdžan"
+
+msgid "Azerbaijani"
+msgstr "Azerbajdžančina"
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "Späť"
+
+msgid "&Back"
+msgstr "&Späť"
+
+msgid "_Back"
+msgstr "_Späť"
+
+msgid "Background"
+msgstr "Pozadie"
+
+msgid "Background Color"
+msgstr "Farba pozadia"
+
+msgid "Background color"
+msgstr "Farba pozadia"
+
+msgid "&Background color"
+msgstr "&Farba pozadia"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "Zálohovať"
+
+msgid "Bahamas"
+msgstr "Bahamy"
+
+msgid "Bahrain"
+msgstr "Bahrajn"
+
+msgid "Balance"
+msgstr "Vyváženie"
+
+msgid "Balanced"
+msgstr "Vyvážený"
+
+msgid "Baltic"
+msgstr "Pobaltské"
+
+msgid "Bangladesh"
+msgstr "Bangladéš"
+
+msgid "Bank"
+msgstr "Banka"
+
+msgid "Bar"
+msgstr "Stĺpec"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Base"
+msgstr "Základ"
+
+msgid "Basic"
+msgstr "Základné"
+
+msgid "Basque"
+msgstr "Baskičtina"
+
+msgid "Bass"
+msgstr "Bass"
+
+msgid "Battery"
+msgstr "Batéria"
+
+msgid "Bcc"
+msgstr "Skrytá kópia"
+
+msgid "Before"
+msgstr "Pred"
+
+msgid "Behavior"
+msgstr "Správanie"
+
+msgid "Belarus"
+msgstr "Bielorusko"
+
+msgid "Belarusian"
+msgstr "Bieloruština"
+
+msgid "Belgium"
+msgstr "Belgicko"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Bengali"
+msgstr "Bengálske"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Best"
+msgstr "Najlepšie"
+
+msgid "Bhutan"
+msgstr "Bhután"
+
+msgid "Bibliography"
+msgstr "Bibliografia"
+
+msgid "Binary"
+msgstr "Binárny"
+
+msgid "Birthday"
+msgstr "Narodeniny"
+
+msgid "Bitrate"
+msgstr "Dátový tok"
+
+msgid "Black"
+msgstr "Čierna"
+
+msgid "black"
+msgstr "čierna"
+
+msgid "Blend"
+msgstr "Premiešavanie"
+
+msgid "Block"
+msgstr "Blok"
+
+msgid "Block Elements"
+msgstr "Blokové prvky"
+
+msgid "Blocked"
+msgstr "Blokované"
+
+msgid "Blue"
+msgstr "Modrá"
+
+msgid "Blues"
+msgstr "Blues"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Blur"
+msgstr "Rozmazať"
+
+msgid "<b>Name:</b>"
+msgstr "<b>Názov:</b>"
+
+msgid "Body"
+msgstr "Telo"
+
+msgid "Bold"
+msgstr "Tučné"
+
+msgid "&Bold"
+msgstr "&Tučné"
+
+msgid "_Bold"
+msgstr "_Tučné"
+
+msgid "Bold text"
+msgstr "Tučný text"
+
+msgid "Bolivia"
+msgstr "Bolívia"
+
+msgid "Book"
+msgstr "Kniha"
+
+msgid "Bookmark"
+msgstr "Záložka"
+
+msgid "Bookmarks"
+msgstr "Záložky"
+
+msgid "&Bookmarks"
+msgstr "&Záložky"
+
+msgid "_Bookmarks"
+msgstr "Zá_ložky"
+
+msgid "Boolean"
+msgstr "Logická hodnota"
+
+msgid "Border"
+msgstr "Okraj"
+
+msgid "Bosnian"
+msgstr "Bosniačtina"
+
+msgid "Both"
+msgstr "Obe"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Bottom"
+msgstr "Dole"
+
+msgid "_Bottom"
+msgstr "Na _spodku"
+
+msgid "Bottom Left"
+msgstr "Vľavo dole"
+
+msgid "Bottom Right"
+msgstr "Vpravo dole"
+
+msgid "Bottom-left"
+msgstr "Vľavo dole"
+
+msgid "Bottom-right"
+msgstr "Vpravo dole"
+
+msgid "Box"
+msgstr "Obdĺžnik"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Branch"
+msgstr "Vetva"
+
+msgid "Brazil"
+msgstr "Brazília"
+
+msgid "Breeze"
+msgstr "Vánok"
+
+msgid "Breeze by the KDE VDG"
+msgstr "Vánok od KDE VDG"
+
+msgid "Breeze Dark"
+msgstr "Tmavý vánok"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "Vánok Tmavý od KDE VDG"
+
+msgid "Breton"
+msgstr "Bretónčina"
+
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+msgid "Bridge"
+msgstr "Most"
+
+msgid "Brightness"
+msgstr "Jas"
+
+msgid "Broken"
+msgstr "Poškodené"
+
+msgid "Browse"
+msgstr "Prehliadať"
+
+msgid "Browse..."
+msgstr "Prechádzať..."
+
+msgid "_Browse..."
+msgstr "_Prehliadať..."
+
+msgid "Browser"
+msgstr "Prehliadač"
+
+msgid "Buffer"
+msgstr "Buffer"
+
+msgid "Bug fixes"
+msgstr "Opravy chýb"
+
+msgid "Build"
+msgstr "Zostavenie"
+
+msgid "Built-in Screen"
+msgstr "Vstavaná obrazovka"
+
+msgid "Bulgaria"
+msgstr "Bulharsko"
+
+msgid "Bulgarian"
+msgstr "Bulharčina"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burn"
+msgstr "Napáliť"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Bus"
+msgstr "Autobus"
+
+msgid "Busy"
+msgstr "Zaneprázdnený"
+
+msgid "Butt"
+msgstr "Rovný"
+
+msgid "Button"
+msgstr "Tlačidlo"
+
+msgid "Buttons"
+msgstr "Tlačidlá"
+
+msgid "by"
+msgstr "od"
+
+msgid "By %1"
+msgstr "od %1"
+
+msgid "By extension"
+msgstr "Podľa prípony"
+
+msgid "Bytes"
+msgstr "Bajtov"
+
+msgid "bytes"
+msgstr "bajtov"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "CA certifikát"
+
+msgid "Cache"
+msgstr "Vyrovnávacia pamäť"
+
+msgid "Calculate"
+msgstr "Spočítať"
+
+msgid "Calculating..."
+msgstr "Vypočítava sa..."
+
+msgid "Calculator"
+msgstr "Kalkulačka"
+
+msgid "Calendar"
+msgstr "Kalendár"
+
+msgid "Calendars"
+msgstr "Kalendáre"
+
+msgid "Call"
+msgstr "Hovor"
+
+msgid "Calls"
+msgstr "Volania"
+
+msgid "Cambodia"
+msgstr "Kambodža"
+
+msgid "Camera"
+msgstr "Fotoaparát"
+
+msgid "Cameroon"
+msgstr "Kamerun"
+
+msgid "Canada"
+msgstr "Kanada"
+
 msgid "Cancel"
 msgstr "Zrušiť"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "&Cancel"
+msgstr "&Zrušiť"
+
+msgid "_Cancel"
+msgstr "_Zrušiť"
+
+msgid "C&ancel"
+msgstr "&Zrušiť"
+
+msgid "Canceled"
+msgstr "Zrušené"
+
+msgid "Cancelled"
+msgstr "Zrušené"
+
+msgid "cannot load editor plugin: %s"
+msgstr "nedá sa načítať zásuvný modul editora: %s"
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "Plátno"
+
+msgid "Capabilities"
+msgstr "Schopnosti"
+
+msgid "Capacity"
+msgstr "Kapacita"
+
+msgid "Cape Verde"
+msgstr "Kapverdy"
+
+msgid "Capitalize"
+msgstr "Veľké prvé písmená"
+
+msgid "Caps Lock is on"
+msgstr "Funkcia Caps Lock je zapnutá"
+
+msgid "Capture"
+msgstr "Zachytiť"
+
+msgid "Car"
+msgstr "Auto"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "Kaskáda"
+
+msgid "Case Sensitive"
+msgstr "Rozlišovať veľkosť písmen"
+
+msgid "Case sensitive"
+msgstr "Rozlišovať veľkosť písmen"
+
+msgid "Castle"
+msgstr "Hrad"
+
+msgid "Catalan"
+msgstr "Katalánčina"
+
+msgid "Categories"
+msgstr "Kategórie"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "CC"
+msgstr "Kópia"
+
+msgid "Cc"
+msgstr "Kópia"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "Bunka"
+
+msgid "Celsius"
+msgstr "Celzius"
+
+msgid "Celtic"
+msgstr "Keltské"
+
+msgid "Center"
+msgstr "Vycentrovať"
+
+msgid "Centered"
+msgstr "Na stred"
+
+msgid "Centimeters"
+msgstr "Centimetre"
+
+msgid "Centimeters (cm)"
+msgstr "Centimetre (cm)"
+
+msgid "Central"
+msgstr "Stredný"
+
+msgid "Central African Republic"
+msgstr "Stredoafrická republika"
+
+msgid "Central European"
+msgstr "Stredoeurópske"
+
+msgid "Certificate"
+msgstr "Certifikát"
+
+msgid "Certificates (TLS)"
+msgstr "Certifikáty (TLS)"
+
+msgid "Chad"
+msgstr "Čad"
+
+msgid "Change"
+msgstr "Zmeniť"
+
+msgid "Change..."
+msgstr "Zmeniť..."
+
+msgid "Changed"
+msgstr "Zmenené"
+
+msgid "Channel"
+msgstr "Kanál"
+
+msgid "Channels"
+msgstr "Kanály"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "Kapitola"
+
+msgid "Chapters"
+msgstr "Kapitoly"
+
+msgid "Character"
+msgstr "Znak"
+
+msgid "Characters"
+msgstr "Znaky"
+
+msgid "Charging"
+msgstr "Nabíja sa"
+
+msgid "Chart"
+msgstr "Graf"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Check"
+msgstr "Skontrolovať"
+
+msgid "Check for updates"
+msgstr "Skontrolovať aktualizácie"
+
+msgid "Check Spelling"
+msgstr "Kontrola pravopisu"
+
+msgid "Checkbox"
+msgstr "Zaškrtávacie pole"
+
+msgid "Checkout"
+msgstr "Získať"
+
+msgid "Cherokee"
+msgstr "Cherokee"
+
+msgid "Children"
+msgstr "Deti"
+
+msgid "Chile"
+msgstr "Čile"
+
+msgid "China"
+msgstr "Čína"
+
+msgid "Chinese"
+msgstr "Čínština"
+
+msgid "Chinese Simplified"
+msgstr "Čínske zjednodušené"
+
+msgid "Chinese Traditional"
+msgstr "Čínske tradičné"
+
+msgid "Choose"
+msgstr "Vybrať"
+
+msgid "Choose..."
+msgstr "Vybrať..."
+
+msgid "Cinema"
+msgstr "Kino"
+
+msgid "Circle"
+msgstr "Kruh"
+
+msgid "City"
+msgstr "Mesto"
+
+msgid "Class"
+msgstr "Trieda"
+
+msgid "Classes"
+msgstr "Triedy"
+
+msgid "Classic"
+msgstr "Klasická"
+
+msgid "Classical"
+msgstr "Klasika"
+
+msgid "Clean"
+msgstr "Vyčistiť"
+
+msgid "Cleanup"
+msgstr "Vyčistenie"
+
+msgid "Clear"
+msgstr "Vyčistiť"
+
+msgid "&Clear"
+msgstr "V&yčistiť"
+
+msgid "_Clear"
+msgstr "Vy_mazať"
+
+msgid "C&lear"
+msgstr "&Vyčistiť"
+
+msgid "Clear All"
+msgstr "Vyčistiť všetko"
+
+msgid "Clear History"
+msgstr "Vyčistiť históriu"
+
+msgid "Clear history"
+msgstr "Vyčistiť históriu"
+
+msgid "Clear List"
+msgstr "Vyčistiť zoznam"
+
+msgid "Client"
+msgstr "Klient"
+
+msgid "Clip"
+msgstr "Clip"
+
+msgid "Clipboard"
+msgstr "Schránka"
+
+msgid "Clock"
+msgstr "Hodiny"
+
+msgid "Clockwise"
+msgstr "V smere hodinových ručičiek"
+
+msgid "Clone"
+msgstr "Klonovať"
+
+msgid "Close"
+msgstr "Zavrieť"
+
+msgid "&Close"
+msgstr "&Zavrieť"
+
+msgid "_Close"
+msgstr "_Zavrieť"
+
+msgid "Close All"
+msgstr "Zavrieť všetko"
+
+msgid "Close Document"
+msgstr "Zatvoriť dokument"
+
+msgid "Close message"
+msgstr "Zatvoriť správu"
+
+msgid "Close Tab"
+msgstr "Zavrieť kartu"
+
+msgid "Close tab"
+msgstr "Zavrieť kartu"
+
+msgid "Close the current tab"
+msgstr "Zavrieť aktuálnu kartu"
+
+msgid "Close this window"
+msgstr "Zatvoriť toto okno"
+
+msgid "Close Window"
+msgstr "Zatvoriť okno"
+
+msgid "Close window"
+msgstr "Zavrieť okno"
+
+msgid "Close _without Saving"
+msgstr "Zavrieť _bez uloženia"
+
+msgid "Closed"
+msgstr "Uzavreté"
+
+msgid "Cloud"
+msgstr "Oblak"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "code"
+msgstr "kód"
+
+msgid "Codec"
+msgstr "Kodek"
+
+msgid "Collapse"
+msgstr "Zbaliť"
+
+msgid "Collapse All"
+msgstr "Zbaliť všetko"
+
+msgid "Collection"
+msgstr "Kolekcia"
+
+msgid "Collections"
+msgstr "Kolekcie"
+
+msgid "Colombia"
+msgstr "Kolumbia"
+
+msgid "Color"
+msgstr "Farba"
+
+msgid "color"
+msgstr "farba"
+
+msgid "&Color"
+msgstr "Farba"
+
+msgid "Color Balance"
+msgstr "Vyváženie farieb"
+
+msgid "Color Management"
+msgstr "Správa farieb"
+
+msgid "Color Mode"
+msgstr "Farebný režim"
+
+msgid "Color Picker"
+msgstr "Výber farby"
+
+msgid "Color Scheme"
+msgstr "Farebná schéma"
+
+msgid "Color scheme"
+msgstr "Farebná schéma"
+
+msgid "Color Space"
+msgstr "Farebný priestor"
+
+msgid "Color theme"
+msgstr "Farebná téma"
+
+msgid "Colorize"
+msgstr "Zafarbiť"
+
+msgid "Colors"
+msgstr "Farby"
+
+msgid "Column"
+msgstr "Stĺpec"
+
+msgid "Column %1"
+msgstr "Stĺpec %1"
+
+msgid "Columns"
+msgstr "Stĺpce"
+
+msgid "Comma"
+msgstr "Čiarka"
+
+msgid "COMMAND"
+msgstr "PRÍKAZ"
+
+msgid "Command"
+msgstr "Príkaz"
+
+msgid "command"
+msgstr "príkaz"
+
+msgid "Command Line"
+msgstr "Príkazový riadok"
+
+msgid "Command to execute"
+msgstr "Príkaz, ktorý sa má spustiť"
+
+msgid "Commands"
+msgstr "Príkazy"
+
+msgid "Comment"
+msgstr "Komentár"
+
+msgid "Comments"
+msgstr "Komentáre"
+
+msgid "Commit"
+msgstr "Začleniť"
+
+msgid "Common"
+msgstr "Spoločné"
+
+msgid "Comoros"
+msgstr "Komory"
+
+msgid "Compact"
+msgstr "Kompaktný"
+
+msgid "Compare"
+msgstr "Porovnať"
+
+msgid "Complete"
+msgstr "Dokončené"
+
+msgid "Completed"
+msgstr "Dokončené"
+
+msgid "Completion"
+msgstr "Dokončovanie"
+
+msgid "Component"
+msgstr "Komponent"
+
+msgid "Components"
+msgstr "Komponenty"
+
+msgid "Composer"
+msgstr "Skladateľ"
+
+msgid "Composition"
+msgstr "Kompozícia"
+
+msgid "Compress"
+msgstr "Komprimovať"
+
+msgid "Compression"
+msgstr "Kompresia"
+
+msgid "Computer"
+msgstr "Počítač"
+
+msgid "Condition"
+msgstr "Podmienka"
+
+msgid "Confidential"
+msgstr "Dôverné"
+
+msgid "Configuration"
+msgstr "Nastavenie"
+
+msgid "Configure"
+msgstr "Nastaviť"
+
+msgid "Configure..."
+msgstr "Nastaviť..."
+
+msgid "Configure %1"
+msgstr "Nastaviť %1"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "Nastaviť klávesové skratky"
+
+msgid "Configure Plugins"
+msgstr "Nastaviť pluginy"
+
+msgid "Configure Toolbars"
+msgstr "Nastaviť panely nástrojov"
+
+msgid "Configure Web Shortcuts..."
+msgstr "Nastaviť webové skratky..."
+
+msgid "Confirm"
+msgstr "Potvrdiť"
+
+msgid "Confirmation"
+msgstr "Potvrdenie"
+
+msgid "Confirmation Required"
+msgstr "Vyžaduje sa potvrdenie"
+
+msgid "Confirmed"
+msgstr "Potvrdené"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "Konflikt so štandardnou skratkou aplikácie"
+
+msgid "Connect"
+msgstr "Pripojiť"
+
+msgid "C_onnect"
+msgstr "Prip_ojiť"
+
+msgid "Connected"
+msgstr "Pripojené"
+
+msgid "Connecting"
+msgstr "Pripájam"
+
+msgid "Connecting..."
+msgstr "Prebieha pripájanie…"
+
+msgid "Connection"
+msgstr "Pripojenie"
+
+msgid "Connection Failed"
+msgstr "Pripojenie zlyhalo"
+
+msgid "Connection Settings"
+msgstr "Nastavenie pripojenia"
+
+msgid "Connections"
+msgstr "Pripojenia"
+
+msgid "Console"
+msgstr "Konzola"
+
+msgid "Constant"
+msgstr "Konštanta"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr "vlastnosť konštrukcie „%s“ objektu „%s“ nemožno nastaviť po vytvorení"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Contacts"
+msgstr "Kontakty"
+
+msgid "Container"
+msgstr "Kontajner"
+
+msgid "Contains"
+msgstr "Obsahuje"
+
+msgid "contains"
+msgstr "obsahuje"
+
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Content Type"
+msgstr "Typ obsahu"
+
+msgid "Contents"
+msgstr "Obsah"
+
+msgid "_Contents"
+msgstr "Ob_sah"
+
+msgid "Context"
+msgstr "Kontext"
+
+msgid "Continue"
+msgstr "Pokračovať"
+
+msgid "_Continue"
+msgstr "_Pokračovať"
+
+msgid "Contrast"
+msgstr "Kontrast"
+
+msgid "Contributor"
+msgstr "Prispievateľ"
+
+msgid "Control"
+msgstr "Ovládanie"
+
+msgid "Convert"
+msgstr "Previesť"
+
+msgid "Convert to Path"
+msgstr "Konvertovať na cestu"
+
+msgid "Cookies"
+msgstr "Cookies"
+
+msgid "Coordinates"
+msgstr "Súradnice"
+
+msgid "Copied to clipboard"
+msgstr "Skopírované do schránky"
+
+msgid "Coptic"
+msgstr "Koptické"
+
+msgid "Copy"
+msgstr "Kopírovať"
+
+msgid "copy"
+msgstr "kópia"
+
+msgid "&Copy"
+msgstr "&Kopírovať"
+
+msgid "_Copy"
+msgstr "_Kopírovať"
+
+msgid "Copy Email Address"
+msgstr "Kopírovať e-mailovú adresu"
+
+msgid "&Copy Here"
+msgstr "&Kopírovať sem"
+
+msgid "Copy Image"
+msgstr "Kopírovať obrázok"
+
+msgid "Copy Link"
+msgstr "Kopírovať odkaz"
+
+msgid "Copy Link Address"
+msgstr "Kopírovať adresu odkazu"
+
+msgid "_Copy Link Address"
+msgstr "_Kopírovať adresu odkazu"
+
+msgid "Copy Location"
+msgstr "Kopírovať umiestnenie"
+
+msgid "Copy of %1"
+msgstr "Kópia %1"
+
+msgid "Copy selection to clipboard"
+msgstr "Skopírovať výber do schránky"
+
+msgid "Copy Text"
+msgstr "Kopírovať text"
+
+msgid "Copy to Clipboard"
+msgstr "Kopírovať do schránky"
+
+msgid "Copy to clipboard"
+msgstr "Kopírovať do schránky"
+
+msgid "Copy URL"
+msgstr "Kopírovať URL"
+
+msgid "Copying files"
+msgstr "Kopírovanie súborov"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Cost"
+msgstr "Náklady"
+
+msgid "Costa Rica"
+msgstr "Kostarika"
+
+msgid "Could not open %1"
+msgstr "Nepodarilo sa otvoriť %1"
+
+msgid "Could not open file."
+msgstr "Nepodarilo sa otvoriť súbor."
+
+msgid "Count"
+msgstr "Počet"
+
+msgid "Counter"
+msgstr "Počítadlo"
+
+msgid "Country"
+msgstr "Krajina"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "Vytvoriť"
+
+msgid "C_reate"
+msgstr "Vy_tvoriť"
+
+msgid "Create Folder"
+msgstr "Vytvoriť priečinok"
+
+msgid "Create New"
+msgstr "Vytvoriť nové"
+
+msgid "Created"
+msgstr "Vytvorené"
+
+msgid "Creation Date"
+msgstr "Dátum vytvorenia"
+
+msgid "Creation date"
+msgstr "Dátum vytvorenia"
+
+msgid "Creator"
+msgstr "Tvorca"
+
+msgid "Credentials"
+msgstr "Prihlasovacie údaje"
+
+msgid "Credits"
+msgstr "Zásluhy"
+
+msgid "Criteria"
+msgstr "Kritérium"
+
+msgid "Critical"
+msgstr "Kritické"
+
+msgid "Croatia"
+msgstr "Chorvátsko"
+
+msgid "Croatian"
+msgstr "Chorvátčina"
+
+msgid "Crop"
+msgstr "Orezať"
+
+msgid "Crop image"
+msgstr "Orezanie obrázka"
+
+msgid "Cross"
+msgstr "Kríž"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr "Ctrl+O"
+
+msgid "Cuba"
+msgstr "Kuba"
+
+msgid "Currency"
+msgstr "Mena"
+
+msgid "Current"
+msgstr "Aktuálne"
+
+msgid "Current Maintainer"
+msgstr "Aktuálny správca"
+
+msgid "Current maintainer"
+msgstr "Aktuálny správca"
+
+msgid "Cursor"
+msgstr "Kurzor"
+
+msgid "Curve"
+msgstr "Krivka"
+
+msgid "Curves"
+msgstr "Krivky"
+
+msgid "Custom"
+msgstr "Vlastné"
+
+msgid "Custom..."
+msgstr "Vlastné..."
+
+msgid "Custom Font"
+msgstr "Vlastné písmo"
+
+msgid "Cut"
+msgstr "Vystrihnúť"
+
+msgid "Cu&t"
+msgstr "Vys&trihnúť"
+
+msgid "Cu_t"
+msgstr "Vys_trihnúť"
+
+msgid "Cyan"
+msgstr "Azúrová"
+
+msgid "Cyprus"
+msgstr "Cyprus"
+
+msgid "Cyrillic"
+msgstr "Cyrilika"
+
+msgid "Czech"
+msgstr "Čeština"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "Denne"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+msgid "Danish"
+msgstr "Dánčina"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr "Tmavá"
+
+msgid "Dark Mode"
+msgstr "Tmavý režim"
+
+msgid "Darken"
+msgstr "Stmaviť"
+
+msgid "Dashboard"
+msgstr "Nástenka"
+
+msgid "Dashed"
+msgstr "Čiarkované"
+
+msgid "Data"
+msgstr "Dáta"
+
+msgid "Database"
+msgstr "Databáza"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "date"
+msgstr "dátum"
+
+msgid "Date & Time"
+msgstr "Dátum a čas"
+
+msgid "Date and Time"
+msgstr "Dátum a čas"
+
+msgid "Date Format"
+msgstr "Formát dátumu"
+
+msgid "Date Modified"
+msgstr "Dátum zmeny"
+
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+msgid "Day"
+msgstr "Deň"
+
+msgid "Days"
+msgstr "Dni"
+
+msgid "days"
+msgstr "dní"
+
+msgid "day(s)"
+msgstr "dňa/í"
+
+msgid "D-Bus name to use for this instance"
+msgstr "Názov zbernice D-Bus, ktorá sa má použiť pre túto inštanciu"
+
+msgid "Debug"
+msgstr "Ladenie"
+
+msgid "Debugger"
+msgstr "Debugger"
+
+msgid "Debugging"
+msgstr "Ladenie"
+
+msgid "December"
+msgstr "December"
+
+msgid "Decimal"
+msgstr "Dekadický"
+
+msgid "Decline"
+msgstr "Odmietnuť"
+
+msgid "Decrease Font Size"
+msgstr "Zmenšiť veľkosť písma"
+
+msgid "Decrease Indent"
+msgstr "Zmenšiť odsadenie"
+
+msgid "Decrease Volume"
+msgstr "Znížiť hlasitosť"
+
+msgid "Decrypt"
+msgstr "Dešifrovať"
+
+msgid "Default"
+msgstr "Predvolené"
+
+msgid "default"
+msgstr "predvolené"
+
+msgid "Defaults"
+msgstr "Predvolené"
+
+msgid "Definition"
+msgstr "Definícia"
+
+msgid "degrees"
+msgstr "stupne"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay"
+msgstr "Oneskorenie"
+
 msgid "Delete"
+msgstr "Vymazať"
+
+msgid "&Delete"
+msgstr "O&dstrániť"
+
+msgid "_Delete"
+msgstr "O_dstrániť"
+
+msgid "D&elete"
+msgstr "&Odstrániť"
+
+msgid "Delete..."
+msgstr "Odstrániť…"
+
+msgid "Delete %1"
+msgstr "Odstrániť %1"
+
+msgid "Delete All"
+msgstr "Odstrániť všetko"
+
+msgid "Delete File"
+msgstr "Vymazať súbor"
+
+msgid "Delete Folder"
+msgstr "Vymazať priečinok"
+
+msgid "Delete Image"
+msgstr "Odstrániť obrázok"
+
+msgid "Delete Selected"
+msgstr "Odstrániť vybrané"
+
+msgid "Delete selection"
+msgstr "Vymazať výber"
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "Odstránené"
+
+msgid "Deletion"
+msgstr "Odstránenie"
+
+msgid "Delimiter"
+msgstr "Oddeľovač"
+
+msgid "Delta"
+msgstr "Delta"
+
+msgid "Denmark"
+msgstr "Dánsko"
+
+msgid "Density"
+msgstr "Hustota"
+
+msgid "Deny"
+msgstr "Zakázať"
+
+msgid "Dependencies"
+msgstr "Závislosti"
+
+msgid "Depth"
+msgstr "Hĺbka"
+
+msgid "Desaturate"
+msgstr "Odfarbenie"
+
+msgid "Descending"
+msgstr "Zostupne"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "&Description"
+msgstr "&Popis"
+
+msgid "Deselect"
+msgstr "Zrušiť výber"
+
+msgid "Deselect All"
+msgstr "Zrušiť výber"
+
+msgid "Desert"
+msgstr "Púšť"
+
+msgid "Desktop"
+msgstr "Plocha"
+
+msgid "Destination"
+msgstr "Cieľ"
+
+msgid "Detach"
+msgstr "Odpojiť"
+
+msgid "_Detach Tab"
+msgstr "_Odpojiť kartu"
+
+msgid "Details"
+msgstr "Podrobnosti"
+
+msgid "&Details"
+msgstr "&Detaily"
+
+msgid "_Details"
+msgstr "_Podrobnosti"
+
+msgid "Details..."
+msgstr "Podrobnosti..."
+
+msgid "Devanagari"
+msgstr "Devanagari"
+
+msgid "Developer"
+msgstr "Vývojár"
+
+msgid "Development"
+msgstr "Vývoj"
+
+msgid "Device"
+msgstr "Zariadenie"
+
+msgid "device"
+msgstr "zariadenie"
+
+msgid "Device Information"
+msgstr "Informácie o zariadení"
+
+msgid "Device Status"
+msgstr "Stav zariadení"
+
+msgid "Device type"
+msgstr "Typ zariadenia"
+
+msgid "Devices"
+msgstr "Zariadenia"
+
+msgid "Diagnostics"
+msgstr "Diagnostika"
+
+msgid "Diagonal"
+msgstr "Diagonálne"
+
+msgid "Dialog"
+msgstr "Dialóg"
+
+msgid "Dialogs"
+msgstr "Dialógy"
+
+msgid "Diamond"
+msgstr "Diamant"
+
+msgid "Dictionary"
+msgstr "Slovník"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "Rozdiel"
+
+msgid "Difficulty"
+msgstr "Obtiažnosť"
+
+msgid "Digit"
+msgstr "Číslica"
+
+msgid "Dimensions"
+msgstr "Rozmery"
+
+msgid "DIR"
+msgstr "ADRESÁR"
+
+msgid "Direction"
+msgstr "Smer"
+
+msgid "Directories"
+msgstr "Priečinky"
+
+msgid "Directory"
+msgstr "Adresár"
+
+msgid "directory"
+msgstr "adresár"
+
+msgid "Directory Name"
+msgstr "Názov adresára"
+
+msgid "Disable"
+msgstr "Zakázať"
+
+msgid "Disable connection to session manager"
+msgstr "Zakázať spojenia na správcu relácií"
+
+msgid "Disabled"
+msgstr "Zakázané"
+
+msgid "disabled"
+msgstr "zakázané"
+
+msgid "Disc"
+msgstr "Disk"
+
+msgid "Disc Number"
+msgstr "Číslo disku"
+
+msgid "Discard"
+msgstr "Zahodiť"
+
+msgid "_Discard"
+msgstr "_Zahodiť"
+
+msgid "Discard All"
+msgstr "Zahodiť všetko"
+
+msgid "Discard Changes"
+msgstr "Zahodiť zmeny"
+
+msgid "Discard changes"
+msgstr "Zahodiť zmeny"
+
+msgid "_Discard Changes"
+msgstr "_Zahodiť zmeny"
+
+msgid "Discharging"
+msgstr "Vybíja sa"
+
+msgid "Disconnect"
+msgstr "Odpojiť"
+
+msgid "Disconnected"
+msgstr "Odpojené"
+
+msgid "Discover"
+msgstr "Discover"
+
+msgid "Discrete"
+msgstr "Diskrétne"
+
+msgid "Disk"
+msgstr "Disk"
+
+msgid "Dismiss"
+msgstr "Zamietnuť"
+
+msgid "Display"
+msgstr "Obrazovka"
+
+msgid "Display Configuration"
+msgstr "Nastavenie obrazovky"
+
+msgid "Display Name"
+msgstr "Zobrazené meno"
+
+msgid "Display Settings"
+msgstr "Nastavenia displeja"
+
+msgid "Dissolve"
+msgstr "Rozplynúť"
+
+msgid "Distance"
+msgstr "Vzdialenosť"
+
+msgid "Divide"
+msgstr "Deliť"
+
+msgid "Djibouti"
+msgstr "Džibutsko"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "Znovu sa už nepýtať"
+
+msgid "Do Not Cancel"
+msgstr "Neposielať"
+
+msgid "Do not change the actual backend data."
+msgstr "Nezmeniť aktuálne backend dáta."
+
+msgid "Do not show again"
+msgstr "Znovu nezobrazovať"
+
+msgid "Do not show this message again"
+msgstr "Túto správu už znovu nezobrazovať"
+
+msgid "Do Nothing"
+msgstr "Nerobiť nič"
+
+msgid "Do nothing"
+msgstr "Nerobiť nič"
+
+msgid "Document"
+msgstr "Dokument"
+
+msgid "Document Properties"
+msgstr "Vlastnosti dokumentu"
+
+msgid "Document to open"
+msgstr "Dokument na otvorenie"
+
+msgid "Document Viewer"
+msgstr "Prehliadač dokumentov"
+
+msgid "Documentation"
+msgstr "Dokumentácia"
+
+msgid "Documents"
+msgstr "Dokumenty"
+
+msgid "does not contain"
+msgstr "neobsahuje"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "Doména"
+
+msgid "Dominica"
+msgstr "Dominika"
+
+msgid "Dominican Republic"
+msgstr "Dominikánska republika"
+
+msgid "Donate"
+msgstr "Venovať peniaze"
+
+msgid "Done"
+msgstr "Hotovo"
+
+msgid "Dot"
+msgstr "Dot"
+
+msgid "Dots"
+msgstr "Bodky"
+
+msgid "Dotted"
+msgstr "Bodkované"
+
+msgid "Double"
+msgstr "Dvojité"
+
+msgid "Down"
+msgstr "Dolu"
+
+msgid "Download"
+msgstr "Stiahnuť"
+
+msgid "Download Manager"
+msgstr "Správca preberaní"
+
+msgid "Downloaded"
+msgstr "Stiahnuté"
+
+msgid "Downloading"
+msgstr "Preberá sa"
+
+msgid "Downloading..."
+msgstr "Preberá sa..."
+
+msgid "Downloads"
+msgstr "Stiahnuté"
+
+msgid "Dr."
+msgstr "Dr."
+
+msgid "Draft"
+msgstr "Koncept"
+
+msgid "Drafts"
+msgstr "Koncepty"
+
+msgid "Draw"
+msgstr "Kresliť"
+
+msgid "Drive"
+msgstr "Mechanika"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "Termín"
+
+msgid "Due Date"
+msgstr "Termín splnenia"
+
+msgid "Duplicate"
+msgstr "Duplikovať"
+
+msgid "_Duplicate"
+msgstr "_Duplikovať"
+
+msgid "Duplicates"
+msgstr "Duplikáty"
+
+msgid "Duration"
+msgstr "Trvanie"
+
+msgid "Dutch"
+msgstr "Holandčina"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "V"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "Východ"
+
+msgid "Easy"
+msgstr "Jednoduchá"
+
+msgid "Echo"
+msgstr "Echo"
+
+msgid "Ecuador"
+msgstr "Ekvádor"
+
+msgid "Edge"
+msgstr "Hrana"
+
+msgid "Edit"
+msgstr "Upraviť"
+
+msgid "&Edit"
+msgstr "&Upraviť"
+
+msgid "_Edit"
+msgstr "_Upraviť"
+
+msgid "Edit..."
+msgstr "Upraviť..."
+
+msgid "&Edit..."
+msgstr "&Upraviť..."
+
+msgid "Edit %1"
+msgstr "Upraviť %1"
+
+msgid "Edit Bookmark"
+msgstr "Upraviť záložku"
+
+msgid "Edit Filter"
+msgstr "Upraviť filter"
+
+msgid "Edit Image"
+msgstr "Upraviť obrázok"
+
+msgid "Editing"
+msgstr "Editovanie"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Education"
+msgstr "Vzdelávanie"
+
+msgid "Effects"
+msgstr "Efekty"
+
+msgid "Egypt"
+msgstr "Egypt"
+
+msgid "Egyptian"
+msgstr "Egyptská"
+
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+msgid "Eject"
+msgstr "Vysunúť"
+
+msgid "_Eject"
+msgstr "_Vysunúť"
+
+msgid "El Salvador"
+msgstr "Salvádor"
+
+msgid "Electronic"
+msgstr "Elektronická"
+
+msgid "Element"
+msgstr "Prvok"
+
+msgid "Ellipse"
+msgstr "Elipsa"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Email Address"
+msgstr "E-mailová adresa"
+
+msgid "Email address"
+msgstr "E-mailová adresa"
+
+msgid "Emails"
+msgstr "Emaily"
+
+msgid "Embedded"
+msgstr "Vložené"
+
+msgid "Emboss"
+msgstr "Vyraziť"
+
+msgid "Emphasis"
+msgstr "Dôraz"
+
+msgid "Empty"
+msgstr "Prázdne"
+
+msgid "empty"
+msgstr "prázdne"
+
+msgid "(empty)"
+msgstr "(prázdne)"
+
+msgid "<empty>"
+msgstr "<prázdne>"
+
+msgid "Empty Trash"
+msgstr "Vyprázdniť kôš"
+
+msgid "Enable"
+msgstr "Povoliť"
+
+msgid "Enable system tray icon"
+msgstr "Povoliť ikonu v systémovej lište"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+
+msgid "Enabled"
+msgstr "Povolené"
+
+msgid "Encoder"
+msgstr "Kódovač"
+
+msgid "Encoding"
+msgstr "Kódovanie"
+
+msgid "_Encoding"
+msgstr "_Kódovanie"
+
+msgid "Encrypt"
+msgstr "Šifrovať"
+
+msgid "&Encrypt"
+msgstr "Šifrovať"
+
+msgid "Encrypted"
+msgstr "Šifrovaný"
+
+msgid "Encryption"
+msgstr "Šifrovanie"
+
+msgid "End"
+msgstr "Koniec"
+
+msgid "end"
+msgstr "koniec"
+
+msgid "End Date"
+msgstr "Konečný dátum"
+
+msgid "End Time"
+msgstr "Čas konca"
+
+msgid "ends with"
+msgstr "končí na"
+
+msgid "Energy"
+msgstr "Energia"
+
+msgid "Engine"
+msgstr "Nástroj"
+
+msgid "Engineering"
+msgstr "Inžinierske"
+
+msgid "English"
+msgstr "Angličtina"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Enter password"
+msgstr "Zadajte heslo"
+
+msgid "Entry"
+msgstr "Položka"
+
+msgid "Environment"
+msgstr "Prostredie"
+
+msgid "equals"
+msgstr "je rovné"
+
+msgid "Equation"
+msgstr "Rovnica"
+
+msgid "Equatorial Guinea"
+msgstr "Rovníková Guinea"
+
+msgid "Erase"
+msgstr "Mazať"
+
+msgid "Eraser"
+msgstr "Guma"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "ERROR"
+msgstr "CHYBA"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "error"
+msgstr "chyba"
+
+msgid "Error: %1"
+msgstr "Chyba: %1"
+
+msgid "Error message"
+msgstr "Chybová správa"
+
+msgid "Errors"
+msgstr "Chyby"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonia"
+msgstr "Estónsko"
+
+msgid "Estonian"
+msgstr "Estónčina"
+
+msgid "Ethiopia"
+msgstr "Etiópia"
+
+msgid "Ethiopic"
+msgstr "Etiópske"
+
+msgid "Europe"
+msgstr "Európa"
+
+msgid "Evaluate"
+msgstr "Vyhodnotiť"
+
+msgid "Event"
+msgstr "Udalosť"
+
+msgid "Events"
+msgstr "Udalosti"
+
+msgid "Everyone"
+msgstr "Každý"
+
+msgid "Everything"
+msgstr "Všetko"
+
+msgid "Exact"
+msgstr "Presné"
+
+msgid "Example"
+msgstr "Príklad"
+
+msgid "Examples"
+msgstr "Príklady"
+
+msgid "Exception"
+msgstr "Výnimka"
+
+msgid "Exclude"
+msgstr "Vylúčiť"
+
+msgid "Exclusion"
+msgstr "Vylúčenie"
+
+msgid "Executable"
+msgstr "Spustiteľný súbor"
+
+msgid "Execute"
+msgstr "Spustiť"
+
+msgid "Exit"
+msgstr "Ukončiť"
+
+msgid "Exit Full Screen"
+msgstr "Ukončiť režim celej obrazovky"
+
+msgid "Exit Fullscreen"
+msgstr "Ukončiť režim celej obrazovky"
+
+msgid "Exiting..."
+msgstr "Ukončujem..."
+
+msgid "Expand"
+msgstr "Rozbaliť"
+
+msgid "Expand All"
+msgstr "Rozbaliť všetko"
+
+msgid "Experimental"
+msgstr "Experimentálne"
+
+msgid "Expired"
+msgstr "Expirované"
+
+msgid "Expires"
+msgstr "Vyprší"
+
+msgid "Export"
+msgstr "Exportovať"
+
+msgid "&Export"
+msgstr "&Exportovať"
+
+msgid "_Export"
+msgstr "_Exportovať"
+
+msgid "Export..."
+msgstr "Exportovať..."
+
+msgid "&Export..."
+msgstr "&Exportovať..."
+
+msgid "_Export..."
+msgstr "_Exportovať…"
+
+msgid "E&xport..."
+msgstr "E&xportovať..."
+
+msgid "Export As..."
+msgstr "Exportovať ako..."
+
+msgid "Export failed"
+msgstr "Export zlyhal"
+
+msgid "Export Options"
+msgstr "Exportovať nastavenia"
+
+msgid "Exposure"
+msgstr "Expozícia"
+
+msgid "Expression"
+msgstr "Výraz"
+
+msgid "Extended"
+msgstr "Rozšírené"
+
+msgid "Extension"
+msgstr "Prípona"
+
+msgid "Extensions"
+msgstr "Rozšírenia"
+
+msgid "Extra Toolbar"
+msgstr "Extra panel nástrojov"
+
+msgid "Extract"
+msgstr "Rozbaliť"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "Blednutie"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Failed"
+msgstr "Zlyhalo"
+
+msgid "False"
+msgstr "Nepravda"
+
+msgid "false"
+msgstr "nepravda"
+
+msgid "Family"
+msgstr "Rodina"
+
+msgid "Family Name"
+msgstr "Priezvisko"
+
+msgid "Fast"
+msgstr "Rýchlo"
+
+msgid "Faster"
+msgstr "Rýchlejšie"
+
+msgid "Fatal Error"
+msgstr "Fatálna chyba"
+
+msgid "Favorite"
+msgstr "Obľúbené"
+
+msgid "Favorites"
+msgstr "Obľúbené"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Features"
+msgstr "Funkcie"
+
+msgid "February"
+msgstr "Február"
+
+msgid "Feeds"
+msgstr "Kanály"
+
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+msgid "Fetch"
+msgstr "Získať"
+
+msgid "Fiji"
+msgstr "Fidži"
+
+msgid "FILE"
+msgstr "SÚBOR"
+
+msgid "File"
+msgstr "Súbor"
+
+msgid "file"
+msgstr "súbor"
+
+msgid "&File"
+msgstr "&Súbor"
+
+msgid "_File"
+msgstr "_Súbor"
+
+msgid "[FILE...]"
+msgstr "[SÚBOR...]"
+
+msgid "File Already Exists"
+msgstr "Súbor už existuje"
+
+msgid "File already exists"
+msgstr "Súbor už existuje"
+
+msgid "File Exists"
+msgstr "Súbor existuje"
+
+msgid "File Format"
+msgstr "Formát súboru"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "Správca súborov"
+
+msgid "File Name"
+msgstr "Meno súboru"
+
+msgid "File name"
+msgstr "Názov súboru"
+
+msgid "File Not Found"
+msgstr "Súbor nenájdený"
+
+msgid "File not found"
+msgstr "Súbor nenájdený"
+
+msgid "File Path"
+msgstr "Cesta k súboru"
+
+msgid "File Properties"
+msgstr "Vlastnosti súboru"
+
+msgid "File Size"
+msgstr "Veľkosť súboru"
+
+msgid "File size"
+msgstr "Veľkosť súboru"
+
+msgid "File System"
+msgstr "Súborový systém"
+
+msgid "File to open"
+msgstr "Súbor na otvorenie"
+
+msgid "File Transfer"
+msgstr "Prenos súboru"
+
+msgid "File Type"
+msgstr "Typ súboru"
+
+msgid "Filename"
+msgstr "Názov súboru"
+
+msgid "Files"
+msgstr "Súbory"
+
+msgid "Filesystem"
+msgstr "Súborový systém"
+
+msgid "Fill"
+msgstr "Výplň"
+
+msgid "Fill Color"
+msgstr "Farba výplne"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Filter..."
+msgstr "Filtrovať..."
+
+msgid "Filters"
+msgstr "Filtre"
+
+msgid "Final"
+msgstr "Finálne"
+
+msgid "Find"
+msgstr "Nájsť"
+
+msgid "&Find"
+msgstr "&Nájsť"
+
+msgid "_Find"
+msgstr "_Nájsť"
+
+msgid "F&ind"
+msgstr "&Nájsť"
+
+msgid "Find..."
+msgstr "Nájsť..."
+
+msgid "_Find..."
+msgstr "_Nájsť…"
+
+msgid "Find and Replace"
+msgstr "Nájsť a Nahradiť"
+
+msgid "Find Next"
+msgstr "Nájsť nasledujúci"
+
+msgid "Find _Next"
+msgstr "Nájsť _nasledujúce"
+
+msgid "Find Ne_xt"
+msgstr "Ná_jsť ďalšie"
+
+msgid "Find Previous"
+msgstr "Nájsť predchádzajúci"
+
+msgid "Find Pre_vious"
+msgstr "Nájsť pre_dchádzajúci"
+
+msgid "Fingerprint"
+msgstr "Odtlačok"
+
+msgid "Finish"
+msgstr "Dokončiť"
+
+msgid "Finished"
+msgstr "Dokončené"
+
+msgid "Finland"
+msgstr "Fínsko"
+
+msgid "Finnish"
+msgstr "Fínčina"
+
+msgid "First"
+msgstr "Prvý"
+
+msgid "First Page"
+msgstr "Prvá stránka"
+
+msgid "Fit"
+msgstr "Prispôsobiť"
+
+msgid "Fit Width"
+msgstr "Prispôsobiť šírke"
+
+msgid "Fixed"
+msgstr "Pevné"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "Označené"
+
+msgid "Flags"
+msgstr "Príznaky"
+
+msgid "Flash"
+msgstr "Blesk"
+
+msgid "Flat"
+msgstr "Ploché"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "Prevrátiť"
+
+msgid "Flip Horizontally"
+msgstr "Prevrátiť horizontálne"
+
+msgid "Flip horizontally"
+msgstr "Prevrátiť horizontálne"
+
+msgid "Flip Vertically"
+msgstr "Prevrátiť vertikálne"
+
+msgid "Flip vertically"
+msgstr "Prevrátiť vertikálne"
+
+msgid "Float"
+msgstr "Reálne číslo"
+
+msgid "Floating"
+msgstr "Plávajúce"
+
+msgid "Flow"
+msgstr "Tok"
+
+msgid "flower"
+msgstr "kvet"
+
+msgid "Focal Length"
+msgstr "Ohnisková vzdialenosť"
+
+msgid "Focus"
+msgstr "Zameranie"
+
+msgid "Folder"
+msgstr "Priečinok"
+
+msgid "Folder name"
+msgstr "Názov priečinka"
+
+msgid "Folders"
+msgstr "Priečinky"
+
+msgid "Folk"
+msgstr "Folk"
+
+msgid "Font"
+msgstr "Písmo"
+
+msgid "&Font"
+msgstr "&Písmo"
+
+msgid "Font Color"
+msgstr "Farba písma"
+
+msgid "Font Family"
+msgstr "Rodina písma"
+
+msgid "Font Size"
+msgstr "Veľkosť písma"
+
+msgid "Font size"
+msgstr "Veľkosť písma"
+
+msgid "Fonts"
+msgstr "Písma"
+
+msgid "_Fonts"
+msgstr "_Písma"
+
+msgid "Food"
+msgstr "Jedlo"
+
+msgid "Footer"
+msgstr "Pätička"
+
+msgid "Force"
+msgstr "Sila"
+
+msgid "Forecast"
+msgstr "Predpoveď"
+
+msgid "Foreground"
+msgstr "Popredie"
+
+msgid "Foreground Color"
+msgstr "Farba popredia"
+
+msgid "Foreground color"
+msgstr "Farba popredia"
+
+msgid "forever"
+msgstr "forever"
+
+msgid "Form"
+msgstr "Formulár"
+
+msgid "Format"
+msgstr "Formát"
+
+msgid "Formatting"
+msgstr "Formátovanie"
+
+msgid "Former Maintainer"
+msgstr "Pôvodný správca"
+
+msgid "Former maintainer"
+msgstr "Predošlý správca"
+
+msgid "Formula"
+msgstr "Vzorec"
+
+msgid "Forward"
+msgstr "Dopredu"
+
+msgid "&Forward"
+msgstr "Do&predu"
+
+msgid "_Forward"
+msgstr "_Dopredu"
+
+msgid "Fraction"
+msgstr "Zlomok"
+
+msgid "Frame"
+msgstr "Rámec"
+
+msgid "Framerate"
+msgstr "Rýchlosť snímkov"
+
+msgid "Frames"
+msgstr "Rámce"
+
+msgid "France"
+msgstr "Francúzsko"
+
+msgid "Free"
+msgstr "Voľné"
+
+msgid "French"
+msgstr "Francúzština"
+
+msgid "French Guiana"
+msgstr "Francúzska Guyana"
+
+msgid "Frequency"
+msgstr "Frekvencia"
+
+msgid "Friday"
+msgstr "Piatok"
+
+msgid "Friends"
+msgstr "Priatelia"
+
+msgid "From"
+msgstr "Od"
+
+msgid "from"
+msgstr "od"
+
+msgid "From %1"
+msgstr "Od %1"
+
+msgid "Frozen"
+msgstr "Zmrazený"
+
+msgid "Full"
+msgstr "Plné"
+
+msgid "Full Name"
+msgstr "Celé meno"
+
+msgid "Full Screen"
+msgstr "Celá obrazovka"
+
+msgid "Full Screen Mode"
+msgstr "Režim celej obrazovky"
+
+msgid "F&ull Screen Mode"
+msgstr "Režim &celej obrazovky"
+
+msgid "Fullscreen"
+msgstr "Celá obrazovka"
+
+msgid "_Fullscreen"
+msgstr "_Celá obrazovka"
+
+msgid "Function"
+msgstr "Funkcia"
+
+msgid "function"
+msgstr "funkcia"
+
+msgid "Functions"
+msgstr "Funkcie"
+
+msgid "Future"
+msgstr "Budúcnosť"
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Galician"
+msgstr "Galícijčina"
+
+msgid "Gallery"
+msgstr "Galéria"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Game"
+msgstr "Hra"
+
+msgid "&Game"
+msgstr "&Hra"
+
+msgid "Game Over"
+msgstr "Koniec hry"
+
+msgid "Games"
+msgstr "Hry"
+
+msgid "Gamma"
+msgstr "Gama"
+
+msgid "Gas"
+msgstr "Plyn"
+
+msgid "Gate"
+msgstr "Brána"
+
+msgid "Gateway"
+msgstr "Brána"
+
+msgid "Gaussian Blur"
+msgstr "Gaussovo rozmazanie"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "Pohlavie"
+
+msgid "General"
+msgstr "Všeobecné"
+
+msgid "&General"
+msgstr "&Všeobecné"
+
+msgid "General Options"
+msgstr "Všeobecné nastavenia"
+
+msgid "General options"
+msgstr "Všeobecné voľby"
+
+msgid "General Settings"
+msgstr "Všeobecné nastavenia"
+
+msgid "Generate"
+msgstr "Generovať"
+
+msgid "Generic"
+msgstr "Všeobecné"
+
+msgid "Genre"
+msgstr "Žáner"
+
+msgid "Genres"
+msgstr "Žánre"
+
+msgid "Geometry"
+msgstr "Geometria"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "Gruzínsko"
+
+msgid "Georgian"
+msgstr "Gruzínske"
+
+msgid "German"
+msgstr "Nemčina"
+
+msgid "Germany"
+msgstr "Nemecko"
+
+msgid "Get New..."
+msgstr "Získať nové..."
+
+msgid "Get New Plugins..."
+msgstr "Získať nové doplnky..."
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "Krstné meno"
+
+msgid "Global"
+msgstr "Globálne"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "Prejsť"
+
+msgid "&Go"
+msgstr "Pre&jsť"
+
+msgid "_Go"
+msgstr "_Prejsť na"
+
+msgid "Go Back"
+msgstr "Návrat"
+
+msgid "Go back"
+msgstr "Prejsť späť"
+
+msgid "Go forward"
+msgstr "Prejsť dopredu"
+
+msgid "Go To"
+msgstr "Prejsť na"
+
+msgid "Go to first page"
+msgstr "Prejsť na prvú stranu"
+
+msgid "Go to last page"
+msgstr "Prejsť na poslednú stránku"
+
+msgid "Go to Line"
+msgstr "Prejsť na riadok"
+
+msgid "Go to next page"
+msgstr "Prejsť na nasledujúcu stránku"
+
+msgid "Go to previous page"
+msgstr "Prejsť na predošlú stranu"
+
+msgid "Goa"
+msgstr "Goa"
+
+msgid "Gold"
+msgstr "Zlato"
+
+msgid "Good"
+msgstr "Dobrá"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "Gotické"
+
+msgid "Gradient"
+msgstr "Prechod"
+
+msgid "Gradients"
+msgstr "Prechody"
+
+msgid "Graph"
+msgstr "Graf"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "Gray"
+msgstr "Šedá"
+
+msgid "gray"
+msgstr "sivá"
+
+msgid "Grayscale"
+msgstr "Odtiene šedej"
+
+msgid "Greece"
+msgstr "Grécko"
+
+msgid "Greek"
+msgstr "Gréčtina"
+
+msgid "Green"
+msgstr "Zelená"
+
+msgid "green"
+msgstr "zelená"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Grey"
+msgstr "Šedá"
+
+msgid "Grid"
+msgstr "Mriežka"
+
+msgid "Group"
+msgstr "Skupina"
+
+msgid "Group name"
+msgstr "Názov skupiny"
+
+msgid "Grouping"
+msgstr "Zoskupovanie"
+
+msgid "Groups"
+msgstr "Skupiny"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guides"
+msgstr "Vodiace čiary"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Gujarati"
+msgstr "Gudžarátske"
+
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "H"
+msgstr "H"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Hard"
+msgstr "Ťažká"
+
+msgid "Hardware"
+msgstr "Hardvér"
+
+msgid "Hawaiian"
+msgstr "Hawaiian"
+
+msgid "Header"
+msgstr "Hlavička"
+
+msgid "Headers"
+msgstr "Hlavičky"
+
+msgid "Heading"
+msgstr "Nadpis"
+
+msgid "Heading 1"
+msgstr "Nadpis 1"
+
+msgid "Heading 2"
+msgstr "Nadpis 2"
+
+msgid "Heading 3"
+msgstr "Nadpis 3"
+
+msgid "Heading 4"
+msgstr "Nadpis 4"
+
+msgid "Headphones"
+msgstr "Slúchadlá"
+
+msgid "Headset"
+msgstr "Náhlavná súprava"
+
+msgid "Health"
+msgstr "Zdravie"
+
+msgid "Hebrew"
+msgstr "Hebrejské"
+
+msgid "Height"
+msgstr "Výška"
+
+msgid "&Height"
+msgstr "&Výška"
+
+msgid "Help"
+msgstr "Pomocník"
+
+msgid "&Help"
+msgstr "&Pomocník"
+
+msgid "_Help"
+msgstr "_Pomocník"
+
+msgid "Helsinki"
+msgstr "Helsinki"
+
+msgid "Hex"
+msgstr "He&x"
+
+msgid "Hexadecimal"
+msgstr "Hexadecimálny"
+
+msgid "Hexagon"
+msgstr "Šesťuholník"
+
+msgid "Hibernate"
+msgstr "Hibernovať"
+
+msgid "Hidden"
+msgstr "Skryté"
+
+msgid "hidden"
+msgstr "skryté"
+
+msgid "Hide"
+msgstr "Skryť"
+
+msgid "&Hide"
+msgstr "&Skryť"
+
+msgid "Hide menu bar"
+msgstr "Skryť panel ponuky"
+
+msgid "High"
+msgstr "Vysoká"
+
+msgid "Highlight"
+msgstr "Zvýraznenie"
+
+msgid "Highlighter"
+msgstr "Zvýrazňovač"
+
+msgid "Highlights"
+msgstr "Svetlá"
+
+msgid "Hindi"
+msgstr "Hindčina"
+
+msgid "Hint"
+msgstr "Rada"
+
+msgid "Histogram"
+msgstr "Histogram"
+
+msgid "History"
+msgstr "História"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "Pozdržať"
+
+msgid "Holidays"
+msgstr "Sviatky"
+
+msgid "Home"
+msgstr "Domov"
+
+msgid "&Home"
+msgstr "&Domov"
+
+msgid "Home Folder"
+msgstr "Domovský priečinok"
+
+msgid "Home Page"
+msgstr "Domovská stránka"
+
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "Horizontal"
+msgstr "Horizontálne"
+
+msgid "Host"
+msgstr "Hostiteľ"
+
+msgid "Hostname"
+msgstr "Názov hostiteľa"
+
+msgid "Hotspot"
+msgstr "Prístupový bod"
+
+msgid "Hour"
+msgstr "Hodina"
+
+msgid "Hours"
+msgstr "Hodiny"
+
+msgid "hours"
+msgstr "hodiny"
+
+msgid "House"
+msgstr "Dom"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "Odtieň"
+
+msgid "Huge"
+msgstr "Obrovská"
+
+msgid "Hungarian"
+msgstr "Maďarčina"
+
+msgid "Hungary"
+msgstr "Maďarsko"
+
+msgid "Hz"
+msgstr "Hz"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+msgid "Iceland"
+msgstr "Island"
+
+msgid "Icelandic"
+msgstr "Islandčina"
+
+msgid "Icon"
+msgstr "Ikona"
+
+msgid "Icon Size"
+msgstr "Veľkosť ikon"
+
+msgid "Icon size"
+msgstr "Veľkosť ikon"
+
+msgid "Icon View"
+msgstr "Zobrazenie s ikonami"
+
+msgid "Icons"
+msgstr "Ikony"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "id"
+msgstr "id"
+
+msgid "Identifier"
+msgstr "Identifikátor"
+
+msgid "Identity"
+msgstr "Identita"
+
+msgid "Idle"
+msgstr "Nečinný"
+
+msgid "Ignore"
+msgstr "Ignorovať"
+
+msgid "_Ignore"
+msgstr "_Ignorovať"
+
+msgid "Ignore Case"
+msgstr "Ignorovať veľkosť písmen"
+
+msgid "Ignored"
+msgstr "Ignorované"
+
+msgid "Image"
+msgstr "Obrázok"
+
+msgid "image"
+msgstr "obrázok"
+
+msgid "&Image"
+msgstr "&Obrázok"
+
+msgid "_Image"
+msgstr "_Obrázok"
+
+msgid "Image Editor"
+msgstr "Editor obrázkov"
+
+msgid "Image Files"
+msgstr "Súbory obrázkov"
+
+msgid "Image files"
+msgstr "Súbory obrázkov"
+
+msgid "Image Gallery"
+msgstr "Galéria obrázkov"
+
+msgid "Image Properties"
+msgstr "Vlastnosti obrázka"
+
+msgid "Image Settings"
+msgstr "Nastavenia obrázka"
+
+msgid "Image Size"
+msgstr "Veľkosť obrázka"
+
+msgid "Image Viewer"
+msgstr "Prehliadač obrázkov"
+
+msgid "Images"
+msgstr "Obrázky"
+
+msgid "Images (%1)"
+msgstr "Obrázky (%1)"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "Importovať"
+
+msgid "&Import"
+msgstr "&Importovať"
+
+msgid "_Import"
+msgstr "_Importovať"
+
+msgid "Import..."
+msgstr "Importovať..."
+
+msgid "&Import..."
+msgstr "&Importovať..."
+
+msgid "Import failed"
+msgstr "Import zlyhal"
+
+msgid "Important"
+msgstr "Dôležité"
+
+msgid "In"
+msgstr "Dnu"
+
+msgid "in"
+msgstr "in"
+
+msgid "Inactive"
+msgstr "Neaktívne"
+
+msgid "Inbox"
+msgstr "Doručená pošta"
+
+msgid "inch"
+msgstr "palec"
+
+msgid "Inches"
+msgstr "Palce"
+
+msgid "inches"
+msgstr "palce"
+
+msgid "Inches (in)"
+msgstr "Palce (in)"
+
+msgid "Include"
+msgstr "Zahrnúť"
+
+msgid "Includes"
+msgstr "Zahŕňa"
+
+msgid "Incoming"
+msgstr "Prichádzajúci"
+
+msgid "Increase Font Size"
+msgstr "Zväčšiť veľkosť písma"
+
+msgid "Increase Indent"
+msgstr "Zväčšiť odsadenie"
+
+msgid "Increase Volume"
+msgstr "Zvýšiť hlasitosť"
+
+msgid "Incremental"
+msgstr "Postupný"
+
+msgid "Indentation"
+msgstr "Odsadenie"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Indexed"
+msgstr "Indexované"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesia"
+msgstr "Indonézia"
+
+msgid "Indonesian"
+msgstr "Indonézština"
+
+msgid "Industrial"
+msgstr "Industrial"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Information"
+msgstr "Informácia"
+
+msgid "Initials"
+msgstr "Iniciály"
+
+msgid "Input"
+msgstr "Vstup"
+
+msgid "Input Devices"
+msgstr "Vstupné zariadenia"
+
+msgid "Insert"
+msgstr "Vložiť"
+
+msgid "&Insert"
+msgstr "&Vložiť"
+
+msgid "Insert Image"
+msgstr "Vložiť obrázok"
+
+msgid "Insert Link"
+msgstr "Vložiť odkaz"
+
+msgid "Insert Table"
+msgstr "Vložiť tabuľku"
+
+msgid "Insert Text"
+msgstr "Vložiť text"
+
+msgid "Install"
+msgstr "Inštalovať"
+
+msgid "Install..."
+msgstr "Inštalovať..."
+
+msgid "Install from File..."
+msgstr "Nainštalovať zo súboru..."
+
+msgid "Installed"
+msgstr "Nainštalované"
+
+msgid "Installing"
+msgstr "Inštaluje sa"
+
+msgid "Instant"
+msgstr "Okamžitá"
+
+msgid "Integer"
+msgstr "Celé číslo"
+
+msgid "Integrate"
+msgstr "Integrovať"
+
+msgid "Intensity"
+msgstr "Intenzita"
+
+msgid "Interface"
+msgstr "Rozhranie"
+
+msgid "Internal"
+msgstr "Interný"
+
+msgid "Internal Error"
+msgstr "Interná chyba"
+
+msgid "Internal error"
+msgstr "Interná chyba"
+
+msgid "International"
+msgstr "Medzinárodné"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Interpolation"
+msgstr "Interpolácia"
+
+msgid "Interrupt"
+msgstr "Prerušenie"
+
+msgid "Interval"
+msgstr "Interval"
+
+msgid "Introduction"
+msgstr "Úvod"
+
+msgid "Invalid"
+msgstr "Neplatný"
+
+msgid "invalid"
+msgstr "neplatný"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr "neplatná boolovská vlastnosť „%s“ (nie je hodnota áno alebo nie)"
+
+msgid "Invalid date"
+msgstr "Neplatný dátum"
+
+msgid "Invalid password"
+msgstr "Neplatné heslo"
+
+msgid "Invalid URL"
+msgstr "Neplatná adresa URL"
+
+msgid "Invert"
+msgstr "Invertovať"
+
+msgid "Invert Selection"
+msgstr "Invertovať výber"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP adresa"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "Irán"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Írsko"
+
+msgid "Irish"
+msgstr "Írčina"
+
+msgid "is"
+msgstr "je"
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Issued By"
+msgstr "Vydané (kým)"
+
+msgid "Issuer"
+msgstr "Vydavateľ"
+
+msgid "Italian"
+msgstr "Taliančina"
+
+msgid "Italic"
+msgstr "Kurzíva"
+
+msgid "&Italic"
+msgstr "&Kurzíva"
+
+msgid "_Italic"
+msgstr "_Kurzíva"
+
+msgid "Italy"
+msgstr "Taliansko"
+
+msgid "Item"
+msgstr "Položka"
+
+msgid "Items"
+msgstr "Položky"
+
+msgid "Iterations"
+msgstr "Iterácie"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "Jamajka"
+
+msgid "January"
+msgstr "Január"
+
+msgid "Japan"
+msgstr "Japonsko"
+
+msgid "Japanese"
+msgstr "Japončina"
+
+msgid "Javanese"
+msgstr "Jávske"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr "Spojiť"
+
+msgid "Jonah Brüchert"
+msgstr "Jonah Brüchert"
+
+msgid "Jordan"
+msgstr "Jordánsko"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr "Joshua Goins"
+
+msgid "Journal"
+msgstr "Žurnál"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "Júl"
+
+msgid "Jump to next match"
+msgstr "Prejsť na ďalšiu zhodu"
+
+msgid "Jump to previous match"
+msgstr "Prejsť na predchádzajúcu zhodu"
+
+msgid "June"
+msgstr "Jún"
+
+msgid "Justify"
+msgstr "Do bloku"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "Kannadské"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "Kazaština"
+
+msgid "Kazakhstan"
+msgstr "Kazachstan"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "KDE komunita, Felipe Kinoshita"
+
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "Ponechať"
+
+msgid "_Keep"
+msgstr "_Ponechať"
+
+msgid "Keep aspect ratio"
+msgstr "Zachovať pomer strán"
+
+msgid "Keep Open"
+msgstr "Ponechať otvorené"
+
+msgid "Kenya"
+msgstr "Keňa"
+
+msgid "Kernel"
+msgstr "Jadro"
+
+msgid "Key"
+msgstr "Kľúč"
+
+msgid "Key ID"
+msgstr "ID kľúča"
+
+msgid "Keyboard"
+msgstr "Klávesnica"
+
+msgid "Keyboard Layout"
+msgstr "Rozloženie klávesnice"
+
+msgid "Keyboard Shortcuts"
+msgstr "Klávesové skratky"
+
+msgid "Keyboard shortcuts"
+msgstr "Klávesové skratky"
+
+msgid "_Keyboard Shortcuts"
+msgstr "_Klávesové skratky"
+
+msgid "Keys"
+msgstr "Klávesy"
+
+msgid "Keyword"
+msgstr "Kľúčové slovo"
+
+msgid "Keywords"
+msgstr "Kľúčové slová"
+
+msgid "Khmer"
+msgstr "Khmérske"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "Typ"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "km"
+msgstr "km"
+
+msgid "KMail"
+msgstr "KMail"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "Kórejčina"
+
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+msgid "Kuwait"
+msgstr "Kuvajt"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "Štítok"
+
+msgid "label"
+msgstr "popis"
+
+msgid "Labels"
+msgstr "Štítky"
+
+msgid "Landscape"
+msgstr "Krajinka"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "_Language"
+msgstr "_Jazyk"
+
+msgid "Languages"
+msgstr "Jazyky"
+
+msgid "Lao"
+msgstr "Laoské"
+
+msgid "Laos"
+msgstr "Laos"
+
+msgid "Large"
+msgstr "Veľké"
+
+msgid "Last"
+msgstr "Posledný"
+
+msgid "Last Modified"
+msgstr "Posledná zmena"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "Latinka"
+
+msgid "Latitude"
+msgstr "Zemepisná šírka"
+
+msgid "Latvia"
+msgstr "Lotyšsko"
+
+msgid "Latvian"
+msgstr "Lotyština"
+
+msgid "Launch %1"
+msgstr "Spustiť %1"
+
+msgid "Layer"
+msgstr "Vrstva"
+
+msgid "Layers"
+msgstr "Vrstvy"
+
+msgid "Layout"
+msgstr "Rozloženie"
+
+msgid "Leave Fullscreen"
+msgstr "Opustenie režimu na celú obrazovku"
+
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgid "Left"
+msgstr "Vľavo"
+
+msgid "left"
+msgstr "vľavo"
+
+msgid "&Left"
+msgstr "&Vľavo"
+
+msgid "_Left"
+msgstr "Vľav_o"
+
+msgid "Left to Right"
+msgstr "Zľava doprava"
+
+msgid "Legacy"
+msgstr "Staršie"
+
+msgid "Legend"
+msgstr "Vysvetlivky"
+
+msgid "Length"
+msgstr "Dĺžka"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Letter"
+msgstr "Letter"
+
+msgid "Level"
+msgstr "Úroveň"
+
+msgid "Level %1"
+msgstr "Úroveň %1"
+
+msgid "Levels"
+msgstr "Úrovne"
+
+msgid "Liberia"
+msgstr "Libéria"
+
+msgid "Library"
+msgstr "Knižnica"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Liechtenstein"
+msgstr "Lichtenštajnsko"
+
+msgid "Light"
+msgstr "Svetlo"
+
+msgid "Lighten"
+msgstr "Zosvetliť"
+
+msgid "Lightness"
+msgstr "Svetlosť"
+
+msgid "Limit"
+msgstr "Obmedzenie"
+
+msgid "Limits"
+msgstr "Limity"
+
+msgid "Line"
+msgstr "Čiara"
+
+msgid "line"
+msgstr "riadok"
+
+msgid "Line Break"
+msgstr "Koniec riadku"
+
+msgid "Line Color"
+msgstr "Farba čiary"
+
+msgid "Line Numbers"
+msgstr "Čísla riadkov"
+
+msgid "Line Width"
+msgstr "Šírka čiary"
+
+msgid "Line width"
+msgstr "Šírka čiary"
+
+msgid "Linear"
+msgstr "Lineárny"
+
+msgid "Lines"
+msgstr "Čiary"
+
+msgid "Link"
+msgstr "Odkaz"
+
+msgid "link"
+msgstr "odkaz"
+
+msgid "Link URL"
+msgstr "URL odkazu"
+
+msgid "Links"
+msgstr "Odkazy"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "Zoznam"
+
+msgid "List View"
+msgstr "Pohľad zoznamu"
+
+msgid "Lists"
+msgstr "Zoznamy"
+
+msgid "Lists the available options for user feedback"
+msgstr "Uvádza dostupné možnosti spätnej väzby od používateľov"
+
+msgid "Lithuania"
+msgstr "Litva"
+
+msgid "Lithuanian"
+msgstr "Litovčina"
+
+msgid "%l:%M %p"
+msgstr "%-H:%M"
+
+msgid "Load"
+msgstr "Načítať"
+
+msgid "Load..."
+msgstr "Načítať..."
+
+msgid "Load Game"
+msgstr "Načítať hru"
+
+msgid "Loading"
+msgstr "Načítavam"
+
+msgid "Loading..."
+msgstr "Načítava sa..."
+
+msgid "Loading %1..."
+msgstr "Načítava sa %1..."
+
+msgid "Local"
+msgstr "Lokálne"
+
+msgid "Locale"
+msgstr "Lokalizácia"
+
+msgid "Locality"
+msgstr "Lokalita"
+
+msgid "Location"
+msgstr "Umiestnenie"
+
+msgid "Locations"
+msgstr "Miesta"
+
+msgid "Lock"
+msgstr "Zamknúť"
+
+msgid "Lock Screen"
+msgstr "Zamknúť obrazovku"
+
+msgid "Locked"
+msgstr "Zamknuté"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Log in"
+msgstr "Prihlásenie"
+
+msgid "Log Out"
+msgstr "Odhlásiť sa"
+
+msgid "Logarithmic"
+msgstr "Logaritmická"
+
+msgid "Logging"
+msgstr "Zaznamenávanie"
+
+msgid "Logging in..."
+msgstr "Prihlasuje sa…"
+
+msgid "Logic"
+msgstr "Logika"
+
+msgid "Login"
+msgstr "Prihlásenie"
+
+msgid "_Login"
+msgstr "_Prihlásiť"
+
+msgid "Logout"
+msgstr "Odhlásenie"
+
+msgid "Logs"
+msgstr "Logy"
+
+msgid "Longitude"
+msgstr "Zemepisná dĺžka"
+
+msgid "Loop"
+msgstr "Opakovať"
+
+msgid "Low"
+msgstr "Nízka"
+
+msgid "Lower"
+msgstr "Presunúť dozadu"
+
+msgid "Lowercase"
+msgstr "Malé písmená"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "Jas"
+
+msgid "Luxembourg"
+msgstr "Luxembursko"
+
+msgid "Lyricist"
+msgstr "Textár"
+
+msgid "Lyrics"
+msgstr "Text piesne"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr "m"
+
+msgid "Macedonian"
+msgstr "Macedónčina"
+
+msgid "Macro"
+msgstr "Makro"
+
+msgid "Macros"
+msgstr "Makrá"
+
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+msgid "Magenta"
+msgstr "Purpurová"
+
+msgid "Mail"
+msgstr "Pošta"
+
+msgid "Main"
+msgstr "Hlavné"
+
+msgid "Main Menu"
+msgstr "Hlavná ponuka"
+
+msgid "Main Toolbar"
+msgstr "Hlavný panel nástrojov"
+
+msgid "Main Window"
+msgstr "Hlavné okno"
+
+msgid "Main window"
+msgstr "Hlavné okno"
+
+msgid "Maintainer"
+msgstr "Správca"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Malay"
+msgstr "Malajčina"
+
+msgid "Malayalam"
+msgstr "Malajálamske"
+
+msgid "Malaysia"
+msgstr "Malajzia"
+
+msgid "Maldives"
+msgstr "Maldivy"
+
+msgid "Male"
+msgstr "Muž"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Maltese"
+msgstr "Maltčina"
+
+msgid "Manager"
+msgstr "Správca"
+
+msgid "Manual"
+msgstr "Ručne"
+
+msgid "Manufacturer"
+msgstr "Výrobca"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Maps"
+msgstr "Mapy"
+
+msgid "Marathi"
+msgstr "Maráthčina"
+
+msgid "Marble"
+msgstr "Marble"
+
+msgid "March"
+msgstr "Marec"
+
+msgid "Margins"
+msgstr "Okraje"
+
+msgid "Mark"
+msgstr "Označiť"
+
+msgid "Mark as Read"
+msgstr "Označiť ako prečítané"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Marker"
+msgstr "Označník"
+
+msgid "Markers"
+msgstr "Značkovače"
+
+msgid "Marshall Islands"
+msgstr "Marshallove ostrovy"
+
+msgid "Mask"
+msgstr "Maska"
+
+msgid "Mass"
+msgstr "Hmotnosť"
+
+msgid "Match"
+msgstr "Zhoda"
+
+msgid "Match case"
+msgstr "Rozlišovať veľkosť"
+
+msgid "_Match case"
+msgstr "Rozlišovať veľkosť písmen"
+
+msgid "Math"
+msgstr "Matematika"
+
+msgid "Matrix"
+msgstr "Matica"
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "Mauritánia"
+
+msgid "Mauritius"
+msgstr "Maurícius"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "max"
+msgstr "max"
+
+msgid "Maximize"
+msgstr "Maximalizovať"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "May"
+msgstr "Máj"
+
+msgid "Maze"
+msgstr "Bludisko"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "Priemer"
+
+msgid "Measure"
+msgstr "Meradlo"
+
+msgid "Media"
+msgstr "Médiá"
+
+msgid "Media Player"
+msgstr "Prehrávač médií"
+
+msgid "Median"
+msgstr "Medián"
+
+msgid "Medium"
+msgstr "Stredné"
+
+msgid "medium"
+msgstr "stredný"
+
+msgid "Member"
+msgstr "Člen"
+
+msgid "Memory"
+msgstr "Pamäť"
+
+msgid "Menu"
+msgstr "Ponuka"
+
+msgid "Mercury"
+msgstr "Merkúr"
+
+msgid "Merge"
+msgstr "Zlúčiť"
+
+msgid "Message"
+msgstr "Správa"
+
+msgid "message"
+msgstr "správa"
+
+msgid "Messages"
+msgstr "Správy"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "Metadáta"
+
+msgid "Metal"
+msgstr "Kov"
+
+msgid "meters"
+msgstr "metre"
+
+msgid "Method"
+msgstr "Metóda"
+
+msgid "Metric"
+msgstr "Metrika"
+
+msgid "Mexico"
+msgstr "Mexiko"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "Mikrofón"
+
+msgid "Middle"
+msgstr "Stred"
+
+msgid "Miha Čančula"
+msgstr "Miha Čančula"
+
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+msgid "Millimeters"
+msgstr "Milimetre"
+
+msgid "Millimeters (mm)"
+msgstr "Milimetre (mm)"
+
+msgid "Milliseconds"
+msgstr "Milisekundy"
+
+msgid "milliseconds"
+msgstr "milisekúnd"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "min"
+msgstr "min"
+
+msgid "Minimize"
+msgstr "Minimalizovať"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Minute"
+msgstr "Minúta"
+
+msgid "Minutes"
+msgstr "Minúty"
+
+msgid "minutes"
+msgstr "minúty"
+
+msgid "Mirror"
+msgstr "Zrkadliť"
+
+msgid "Misc"
+msgstr "Rôzne"
+
+msgid "Miscellaneous"
+msgstr "Rôzne"
+
+msgid "missing plugin file \"%s\""
+msgstr "chýba súbor „%s“ zásuvného modulu"
+
+msgid "Miter limit"
+msgstr "Hranica mitry"
+
+msgid "Mix"
+msgstr "Mix"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Mode"
+msgstr "Režim"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Modem"
+msgstr "Modem"
+
+msgid "Modified"
+msgstr "Zmenené"
+
+msgid "modified"
+msgstr "zmenené"
+
+msgid "Modifiers"
+msgstr "Modifikátory"
+
+msgid "Modify"
+msgstr "Zmeniť"
+
+msgid "Modify..."
+msgstr "Upraviť…"
+
+msgid "&Modify..."
+msgstr "&Upraviť..."
+
+msgid "Modify search behavior"
+msgstr "Zmeniť chovanie vyhľadávania"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Modules"
+msgstr "Moduly"
+
+msgid "Moldova"
+msgstr "Moldavsko"
+
+msgid "Monaco"
+msgstr "Monako"
+
+msgid "Monday"
+msgstr "Pondelok"
+
+msgid "Mongolia"
+msgstr "Mongolsko"
+
+msgid "Mongolian"
+msgstr "Mongolské"
+
+msgid "Monitor"
+msgstr "Monitor"
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Monochrome"
+msgstr "Čiernobiely"
+
+msgid "Monospace"
+msgstr "Monospace"
+
+msgid "Montenegro"
+msgstr "Čierna Hora"
+
+msgid "Month"
+msgstr "Mesiac"
+
+msgid "Month View"
+msgstr "Mesačný pohľad"
+
+msgid "Monthly"
+msgstr "Mesačne"
+
+msgid "Months"
+msgstr "Mesiace"
+
+msgid "More"
+msgstr "Viac"
+
+msgid "More..."
+msgstr "Viac..."
+
+msgid "More actions"
+msgstr "Viac akcií"
+
+msgid "More Information"
+msgstr "Viac informácií"
+
+msgid "More options"
+msgstr "Viac možností"
+
+msgid "Morocco"
+msgstr "Maroko"
+
+msgid "Mount"
+msgstr "Pripojiť"
+
+msgid "Mount point"
+msgstr "Bod pripojenia"
+
+msgid "Mouse"
+msgstr "Myš"
+
+msgid "Mouse Wheel"
+msgstr "Koliesko myši"
+
+msgid "Move"
+msgstr "Presunúť"
+
+msgid "&Move"
+msgstr "&Presunúť"
+
+msgid "_Move"
+msgstr "_Presun"
+
+msgid "Move %1"
+msgstr "Presunúť %1"
+
+msgid "Move Down"
+msgstr "Posunúť dole"
+
+msgid "Move down"
+msgstr "Posunúť nižšie"
+
+msgid "Move &Down"
+msgstr "Posunúť &nižšie"
+
+msgid "&Move Here"
+msgstr "&Presunúť sem"
+
+msgid "Move Left"
+msgstr "Posunúť doľava"
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr "Posunúť doprava"
+
+msgid "Move Tab Left"
+msgstr "Presunúť kartu vľavo"
+
+msgid "Move Tab Right"
+msgstr "Presunúť kartu vpravo"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "Presunúť do"
+
+msgid "Move to Bottom"
+msgstr "Presunúť dolu"
+
+msgid "Move to Top"
+msgstr "Presunúť hore"
+
+msgid "Move to Trash"
+msgstr "Presunúť do koša"
+
+msgid "&Move to Trash"
+msgstr "&Presunúť do koša"
+
+msgid "Move Up"
+msgstr "Posunúť hore"
+
+msgid "Move up"
+msgstr "Posunúť vyššie"
+
+msgid "Move &Up"
+msgstr "Posunúť &vyššie"
+
+msgid "Mozambique"
+msgstr "Mozambik"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "Multimédiá"
+
+msgid "Multiply"
+msgstr "Násobenie"
+
+msgid "Music"
+msgstr "Hudba"
+
+msgid "Music Player"
+msgstr "Prehrávač hudby"
+
+msgid "Mute"
+msgstr "Stlmiť"
+
+msgid "Myanmar"
+msgstr "Mjanmarsko"
+
+msgid "N"
+msgstr "S"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "NAME"
+msgstr "NÁZOV"
+
+msgid "Name"
+msgstr "Názov"
+
+msgid "name"
+msgstr "názov"
+
+msgid "&Name"
+msgstr "&Názov"
+
+msgid "_Name"
+msgstr "_Meno"
+
+msgid "Name: %1"
+msgstr "Názov: %1"
+
+msgid "Namespace"
+msgstr "Menný priestor"
+
+msgid "Namibia"
+msgstr "Namíbia"
+
+msgid "Nature"
+msgstr "Príroda"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Navigation"
+msgstr "Navigácia"
+
+msgid "Negative"
+msgstr "Negatív"
+
+msgid "Neon"
+msgstr "Neón"
+
+msgid "Nepal"
+msgstr "Nepál"
+
+msgid "Nepali"
+msgstr "Nepálčina"
+
+msgid "Netherlands"
+msgstr "Holandsko"
+
+msgid "Network"
+msgstr "Sieť"
+
+msgid "Networks"
+msgstr "Siete"
+
+msgid "Never"
+msgstr "Nikdy"
+
+msgid "never"
+msgstr "nikdy"
+
+msgid "New"
+msgstr "Nové"
+
+msgid "&New"
+msgstr "&Nový"
+
+msgid "_New"
+msgstr "_Nový"
+
+msgid "New..."
+msgstr "Nový..."
+
+msgid "&New..."
+msgstr "&Nový..."
+
+msgid "_New..."
+msgstr "_Nový..."
+
+msgid "New Bookmark"
+msgstr "Nová záložka"
+
+msgid "New Connection"
+msgstr "Nové pripojenie"
+
+msgid "New File"
+msgstr "Nový súbor"
+
+msgid "New Folder"
+msgstr "Nový priečinok"
+
+msgid "New folder"
+msgstr "Nový priečinok"
+
+msgid "New Folder..."
+msgstr "Nový priečinok..."
+
+msgid "New Game"
+msgstr "Nová hra"
+
+msgid "New Group"
+msgstr "Nová skupina"
+
+msgid "New Item"
+msgstr "Nová položka"
+
+msgid "New Layer"
+msgstr "Nová vrstva"
+
+msgid "New Message"
+msgstr "Nová správa"
+
+msgid "New Name"
+msgstr "Nový názov"
+
+msgid "New name"
+msgstr "Nové meno"
+
+msgid "New Profile"
+msgstr "Nový profil"
+
+msgid "New Project"
+msgstr "Nový projekt"
+
+msgid "New Session"
+msgstr "Nové sedenie"
+
+msgid "New South Wales"
+msgstr "Nový Južný Wales"
+
+msgid "New Tab"
+msgstr "Nová karta"
+
+msgid "New tag"
+msgstr "Nová značka"
+
+msgid "New Window"
+msgstr "Nové okno"
+
+msgid "_New Window"
+msgstr "_Nové okno"
+
+msgid "New &Window"
+msgstr "&Nové okno"
+
+msgid "New _Window"
+msgstr "Nové o_kno"
+
+msgid "New Zealand"
+msgstr "Nový Zéland"
+
+msgid "News"
+msgstr "Novinky"
+
+msgid "Newton"
+msgstr "Newton"
+
+msgid "Next"
+msgstr "Nasledujúci"
+
+msgid "&Next"
+msgstr "&Nasledujúci"
+
+msgid "_Next"
+msgstr "_Nasledujúce"
+
+msgid "Next Image"
+msgstr "Nasledujúci obrázok"
+
+msgid "Next month"
+msgstr "Nasledujúci mesiac"
+
+msgid "Next Page"
+msgstr "Nasledujúca stránka"
+
+msgid "Next Tab"
+msgstr "Ďalšia karta"
+
+msgid "Next Track"
+msgstr "Nasledujúca skladba"
+
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+msgid "Nickname"
+msgstr "Prezývka"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nigeria"
+msgstr "Nigéria"
+
+msgid "Night"
+msgstr "Noc"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "no"
+msgstr "nie"
+
+msgid "_No"
+msgstr "_Nie"
+
+msgid "No."
+msgstr "Č."
+
+msgid "No description available"
+msgstr "Popis nie je k dispozícii"
+
+msgid "No devices found"
+msgstr "Nenašli sa žiadne zariadenia"
+
+msgid "No error"
+msgstr "Bez chyby"
+
+msgid "No file selected"
+msgstr "Nebol označený žiadny súbor"
+
+msgid "No filter"
+msgstr "Bez filtra"
+
+msgid "No Limit"
+msgstr "Bez obmedzenia"
+
+msgid "No matches"
+msgstr "Žiadne zhody"
+
+msgid "No Name"
+msgstr "Bez mena"
+
+msgid "No name"
+msgstr "Bez názvu"
+
+msgid "No network connection"
+msgstr "Bez sieťového pripojenia"
+
+msgid "No results"
+msgstr "Žiadne výsledky"
+
+msgid "No Results Found"
+msgstr "Nenašli sa žiadne výsledky"
+
+msgid "No results found"
+msgstr "Neboli nájdené žiadne výsledky"
+
+msgid "No search results"
+msgstr "Žiadne výsledky hľadania"
+
+msgid "No selection"
+msgstr "Žiadny výber"
+
+msgid "No Subject"
+msgstr "Bez predmetu"
+
+msgid "No VPN configuration options."
+msgstr "Žiadne voľby konfigurácie siete VPN."
+
+msgid "Noise"
+msgstr "Šum"
+
+msgid "None"
+msgstr "Žiadne"
+
+msgid "none"
+msgstr "žiadne"
+
+msgid "&None"
+msgstr "Ži&adne"
+
+msgid "_None"
+msgstr "_Nič"
+
+msgid "(None)"
+msgstr "(Žiadne)"
+
+msgid "(none)"
+msgstr "(žiadne)"
+
+msgid "Nordic"
+msgstr "nordické"
+
+msgid "Normal"
+msgstr "Normálne"
+
+msgid "_Normal Size"
+msgstr "_Normálna veľkosť"
+
+msgid "Normalize"
+msgstr "Normalizovať"
+
+msgid "North"
+msgstr "Sever"
+
+msgid "North America"
+msgstr "Severná Amerika"
+
+msgid "Norway"
+msgstr "Nórsko"
+
+msgid "Norwegian"
+msgstr "Nórčina"
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "Nedá sa zapísať '%1'. Plný disk?"
+
+msgid "Not Available"
+msgstr "Nedostupné"
+
+msgid "Not available"
+msgstr "Nedostupné"
+
+msgid "not available"
+msgstr "nedostupné"
+
+msgid "Not Connected"
+msgstr "Nepripojené"
+
+msgid "Not connected"
+msgstr "Nepripojený"
+
+msgid "Not defined"
+msgstr "Nie je definované"
+
+msgid "Not found"
+msgstr "Nenájdené"
+
+msgid "Not implemented"
+msgstr "Neimplementované"
+
+msgid "Not running"
+msgstr "Nebeží"
+
+msgid "Not supported"
+msgstr "Nepodporované"
+
+msgid "Note"
+msgstr "Poznámka"
+
+msgid "Notes"
+msgstr "Poznámky"
+
+msgid "Nothing"
+msgstr "Nič"
+
+msgid "Notice"
+msgstr "Poznámka"
+
+msgid "Notification"
+msgstr "Upozornenie"
+
+msgid "Notifications"
+msgstr "Upozornenia"
+
+msgid "Noun"
+msgstr "Podstatné meno"
+
+msgid "November"
+msgstr "November"
+
+msgid "Now"
+msgstr "Teraz"
+
+msgid "now"
+msgstr "teraz"
+
+msgid "NT Domain"
+msgstr "NT doména"
+
+msgid "NUMBER"
+msgstr "ČÍSLO"
+
+msgid "Number"
+msgstr "Číslo"
+
+msgid "number"
+msgstr "číslo"
+
+msgid "Number of columns"
+msgstr "Počet stĺpcov"
+
+msgid "Numbers"
+msgstr "Čísla"
+
+msgid "Numeric"
+msgstr "Numerické"
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "Objekt"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr "trieda objektu „%s“ nemá vlastnosť s názvom „%s“"
+
+msgid "Objects"
+msgstr "Objekty"
+
+msgid "Oblique"
+msgstr "Šikmé"
+
+msgid "Octal"
+msgstr "Osmičkové"
+
+msgid "October"
+msgstr "Október"
+
+msgid "Off"
+msgstr "Vypnuté"
+
+msgid "off"
+msgstr "vypnuté"
+
+msgid "Office"
+msgstr "Kancelária"
+
+msgid "Offline"
+msgstr "Nepripojený"
+
+msgid "Offset"
+msgstr "Posun"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "_OK"
+msgstr "_OK"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Oman"
+msgstr "Omán"
+
+msgid "On"
+msgstr "Zapnuté"
+
+msgid "on"
+msgstr "na"
+
+msgid "One"
+msgstr "Jeden"
+
+msgid "Online"
+msgstr "Pripojený"
+
+msgid "Online Accounts"
+msgstr "Online účty"
+
+msgid "Opacity"
+msgstr "Nepriehľadnosť"
+
+msgid "Opaque"
+msgstr "Nepriehľadný"
+
+msgid "Open"
+msgstr "Otvoriť"
+
+msgid "&Open"
+msgstr "&Otvoriť"
+
+msgid "_Open"
+msgstr "_Otvoriť"
+
+msgid "Open..."
+msgstr "Otvoriť..."
+
+msgid "&Open..."
+msgstr "&Otvoriť..."
+
+msgid "_Open..."
+msgstr "_Otvoriť..."
+
+msgid "Open %1"
+msgstr "Otvoriť %1"
+
+msgid "Open a file"
+msgstr "Otvorí súbor"
+
+msgid "Open a new tab"
+msgstr "Otvoriť novú kartu"
+
+msgid "Open a new window"
+msgstr "Otvorenie nového okna"
+
+msgid "Open an existing document"
+msgstr "Otvoriť existujúci dokument"
+
+msgid "Open Audio"
+msgstr "Otvoriť zvuk"
+
+msgid "Open Containing Folder"
+msgstr "Otvoriť priečinok s obsahom"
+
+msgid "&Open Containing Folder"
+msgstr "&Otvoriť priečinok s obsahom"
+
+msgid "Open Document"
+msgstr "Otvoriť dokument"
+
+msgid "Open File"
+msgstr "Otvoriť súbor"
+
+msgid "Open file"
+msgstr "Otvoriť súbor"
+
+msgid "Open Folder"
+msgstr "Otvoriť priečinok"
+
+msgid "Open folder"
+msgstr "Otvoriť priečinok"
+
+msgid "Open Image"
+msgstr "Otvoriť obrázok"
+
+msgid "Open in Browser"
+msgstr "Otvoriť v prehliadači"
+
+msgid "Open in File Manager"
+msgstr "Otvoriť v Správcovi súborov"
+
+msgid "Open in New Tab"
+msgstr "Otvoriť v novej karte"
+
+msgid "Open in New Window"
+msgstr "Otvoriť v novom okne"
+
+msgid "Open Link"
+msgstr "Otvoriť odkaz"
+
+msgid "_Open Link"
+msgstr "_Otvoriť odkaz"
+
+msgid "Open Location"
+msgstr "Otvoriť umiestnenie"
+
+msgid "Open Menu"
+msgstr "Otvoriť ponuku"
+
+msgid "Open Project"
+msgstr "Otvoriť projekt"
+
+msgid "Open &Recent"
+msgstr "Otvoriť n&edávne"
+
+msgid "Open Terminal Here"
+msgstr "Tu otvoriť terminál"
+
+msgid "Open URL"
+msgstr "Otvoriť URL"
+
+msgid "Open Video"
+msgstr "Otvoriť video"
+
+msgid "Open With"
+msgstr "Otvoriť s"
+
+msgid "Open with"
+msgstr "Otvorí pomocou"
+
+msgid "&Open With"
+msgstr "&Otvoriť pomocou"
+
+msgid "Open With..."
+msgstr "Otvoriť s..."
+
+msgid "Open &with %1"
+msgstr "&Otvoriť pomocou %1"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "Otváram súbor..."
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr "Opera"
+
+msgid "Operation"
+msgstr "Operácia"
+
+msgid "Operation was cancelled"
+msgstr "Operácia bola zrušená"
+
+msgid "Operations"
+msgstr "Operácie"
+
+msgid "Operator"
+msgstr "Operátor"
+
+msgid "Optical Character Recognition"
+msgstr "Optické rozlišovanie znakov"
+
+msgid "Optimize"
+msgstr "Optimalizovať"
+
+msgid "Option"
+msgstr "Voľba"
+
+msgid "Optional"
+msgstr "Voliteľné"
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "&Options"
+msgstr "&Možnosti"
+
+msgid "OR"
+msgstr "OR"
+
+msgid "Or"
+msgstr "Alebo"
+
+msgid "or"
+msgstr "alebo"
+
+msgid "Orange"
+msgstr "Oranžová"
+
+msgid "Order"
+msgstr "Poradie"
+
+msgid "Organization"
+msgstr "Organizácia"
+
+msgid "Orientation"
+msgstr "Orientácia"
+
+msgid "Origin"
+msgstr "Pôvod"
+
+msgid "Original"
+msgstr "Originál"
+
+msgid "Original Author"
+msgstr "Pôvodný autor"
+
+msgid "Original author"
+msgstr "Pôvodný autor"
+
+msgid "Original Size"
+msgstr "Originálna veľkosť"
+
+msgid "Oriya"
+msgstr "Uríjske"
+
+msgid "Other"
+msgstr "Iné"
+
+msgid "other"
+msgstr "ostatné"
+
+msgid "Other..."
+msgstr "Iné..."
+
+msgid "Other Application..."
+msgstr "Iná aplikácia..."
+
+msgid "Other Options"
+msgstr "&Popisy"
+
+msgid "Others"
+msgstr "Ostatné"
+
+msgid "Out"
+msgstr "Von"
+
+msgid "Out of memory"
+msgstr "Nedostatok pamäte"
+
+msgid "Outgoing"
+msgstr "Odchádzajúci"
+
+msgid "Outline"
+msgstr "Obrys"
+
+msgid "Output"
+msgstr "Výstup"
+
+msgid "Overlay"
+msgstr "Prekrytie"
+
+msgid "Overview"
+msgstr "Prehľad"
+
+msgid "Overwrite"
+msgstr "Prepísať"
+
+msgid "Overwrite File?"
+msgstr "Prepísať súbor?"
+
+msgid "Owner"
+msgstr "Vlastník"
+
+msgid "Ownership"
+msgstr "Vlastníctvo"
+
+msgid "Oxygen"
+msgstr "Oxygen"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "Balík"
+
+msgid "Padding"
+msgstr "Výplň"
+
+msgid "Page"
+msgstr "Strana"
+
+msgid "page"
+msgstr "strana"
+
+msgid "Page %1"
+msgstr "Stránka %1"
+
+msgid "Page %1 of %2"
+msgstr "Strana %1 z %2"
+
+msgid "Page Break"
+msgstr "Koniec strany"
+
+msgid "Page Count"
+msgstr "Počet strán"
+
+msgid "Page Number"
+msgstr "Číslo strany"
+
+msgid "Page Setup"
+msgstr "Nastavenie stránky"
+
+msgid "Pager"
+msgstr "Pager"
+
+msgid "Pages"
+msgstr "Stránky"
+
+msgid "Paint"
+msgstr "Kresliť"
+
+msgid "Pair"
+msgstr "Spárovať"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Palette"
+msgstr "Paleta"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Panel"
+msgstr "Panel"
+
+msgid "Panels"
+msgstr "Panely"
+
+msgid "&Panels"
+msgstr "Panely"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "Papier"
+
+msgid "Paper Size"
+msgstr "Veľkosť papiera"
+
+msgid "Papua New Guinea"
+msgstr "Papua-Nová Guinea"
+
+msgid "Paragraph"
+msgstr "Odstavec"
+
+msgid "Paraguay"
+msgstr "Paraguaj"
+
+msgid "Parallel"
+msgstr "Rovnobežka"
+
+msgid "Parameter"
+msgstr "Parameter"
+
+msgid "Parameters"
+msgstr "Parametre"
+
+msgid "Parent"
+msgstr "Rodič"
+
+msgid "Partition"
+msgstr "Oddiel"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "password"
+msgstr "heslo"
+
+msgid "&Password"
+msgstr "&Heslo"
+
+msgid "_Password"
+msgstr "_Heslo"
+
+msgid "Password..."
+msgstr "Heslo..."
+
+msgid "Passwords"
+msgstr "Heslá"
+
+msgid "Paste"
+msgstr "Vložiť"
+
+msgid "&Paste"
+msgstr "V&ložiť"
+
+msgid "_Paste"
+msgstr "_Vložiť"
+
+msgid "Path"
+msgstr "Cesta"
+
+msgid "path"
+msgstr "cesta"
+
+msgid "Paths"
+msgstr "Cesty"
+
+msgid "Pattern"
+msgstr "Vzorka"
+
+msgid "Patterns"
+msgstr "Vzorky"
+
+msgid "Pause"
+msgstr "Pozastaviť"
+
+msgid "&Pause"
+msgstr "&Pozastaviť"
+
+msgid "Pause playback"
+msgstr "Pozastaviť prehrávanie"
+
+msgid "PAUSED"
+msgstr "POZASTAVENÉ"
+
+msgid "Paused"
+msgstr "Pozastavené"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr "Vrch"
+
+msgid "Peek at Desktop"
+msgstr "Nazrieť na pracovnú plochu"
+
+msgid "Pencil"
+msgstr "Ceruzka"
+
+msgid "Pending"
+msgstr "Čakajúci"
+
+msgid "Pentagon"
+msgstr "Päťuholník"
+
+msgid "People"
+msgstr "Ľudia"
+
+msgid "Percent"
+msgstr "Percentá"
+
+msgid "Percentage"
+msgstr "Percento"
+
+msgid "Perceptual"
+msgstr "Vnemový"
+
+msgid "Performance"
+msgstr "Výkon"
+
+msgid "Period"
+msgstr "Obdobie"
+
+msgid "Permission denied"
+msgstr "Prístup zamietnutý"
+
+msgid "Permissions"
+msgstr "Práva"
+
+msgid "Persian"
+msgstr "Perzština"
+
+msgid "Person"
+msgstr "Osoba"
+
+msgid "Personal"
+msgstr "Osobné"
+
+msgid "Personal Information"
+msgstr "Osobné informácie"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Phase"
+msgstr "Fáza"
+
+msgid "Philippines"
+msgstr "Filipíny"
+
+msgid "Phone"
+msgstr "Telefón"
+
+msgid "Photo"
+msgstr "Fotka"
+
+msgid "PHP Documentation"
+msgstr "Dokumentácia PHP"
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "Vyberte farbu"
+
+msgid "Picture"
+msgstr "Obrázok"
+
+msgid "Pictures"
+msgstr "Obrázky"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr "Koláč"
+
+msgid "Pin"
+msgstr "Pin"
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "Pixely"
+
+msgid "pixels"
+msgstr "bodov"
+
+msgid "Placement"
+msgstr "Umiestnenie"
+
+msgid "Places"
+msgstr "Miesta"
+
+msgid "Plain"
+msgstr "Prostý"
+
+msgid "Plain Text"
+msgstr "Čistý text"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Platform"
+msgstr "Platforma"
+
+msgid "Play"
+msgstr "Prehrať"
+
+msgid "Play Next"
+msgstr "Play Next"
+
+msgid "Play Sounds"
+msgstr "Pre&hrávať zvuky"
+
+msgid "Playback"
+msgstr "Prehrávanie"
+
+msgid "Player"
+msgstr "Hráč"
+
+msgid "Player %1"
+msgstr "Hráč %1"
+
+msgid "Players"
+msgstr "Hráči"
+
+msgid "Playground"
+msgstr "Ihrisko"
+
+msgid "Playing"
+msgstr "Prehrávanie"
+
+msgid "Playlist"
+msgstr "Zoznam skladieb"
+
+msgid "Playlists"
+msgstr "Zoznamy skladieb"
+
+msgid "Play/Pause"
+msgstr "Prehrať/Pozastaviť"
+
+msgid "Please choose a file"
+msgstr "Prosím, vyberte súbor"
+
+msgid "Please wait"
+msgstr "Prosím čakajte"
+
+msgid "Please wait..."
+msgstr "Prosím čakajte..."
+
+msgid "Plot"
+msgstr "Kresliť"
+
+msgid "Plots"
+msgstr "Grafy"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Plugins"
+msgstr "Moduly"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "Bod"
+
+msgid "Pointers"
+msgstr "Pozícia kurzora"
+
+msgid "Points"
+msgstr "Body"
+
+msgid "points"
+msgstr "body"
+
+msgid "Poland"
+msgstr "Poľsko"
+
+msgid "Policy"
+msgstr "Politika"
+
+msgid "Polish"
+msgstr "Poľština"
+
+msgid "Polygon"
+msgstr "Mnohouholník"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "&Port"
+msgstr "&Port"
+
+msgid "Portrait"
+msgstr "Portrét"
+
+msgid "Portugal"
+msgstr "Portugalsko"
+
+msgid "Portuguese"
+msgstr "Portugalčina"
+
+msgid "Position"
+msgstr "Pozícia"
+
+msgid "Posterize"
+msgstr "Posterizovať"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "Napájanie"
+
+msgid "Power Management"
+msgstr "Správa napájania"
+
+msgid "Precision"
+msgstr "Presnosť"
+
+msgid "Preferences"
+msgstr "Nastavenia"
+
+msgid "_Preferences"
+msgstr "_Predvoľby"
+
+msgid "Prefix"
+msgstr "Predpona"
+
+msgid "Presentation"
+msgstr "Prezentácia"
+
+msgid "Preset"
+msgstr "Predvolené"
+
+msgid "Presets"
+msgstr "Predvoľby"
+
+msgid "Pressure"
+msgstr "Tlak"
+
+msgid "Preview"
+msgstr "Náhľad"
+
+msgid "&Preview"
+msgstr "&Náhľad"
+
+msgid "Previews"
+msgstr "Náhľady"
+
+msgid "Previous"
+msgstr "Predchádzajúci"
+
+msgid "&Previous"
+msgstr "&Predchádzajúci"
+
+msgid "_Previous"
+msgstr "_Predchádzajúca"
+
+msgid "Previous Image"
+msgstr "Predchádzajúci obrázok"
+
+msgid "Previous month"
+msgstr "Predchádzajúci mesiac"
+
+msgid "Previous Page"
+msgstr "Predchádzajúca stránka"
+
+msgid "Previous Tab"
+msgstr "Predošlá karta"
+
+msgid "Previous Track"
+msgstr "Predchádzajúca skladba"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Primary"
+msgstr "Primary"
+
+msgid "Print"
+msgstr "Tlačiť"
+
+msgid "_Print"
+msgstr "_Tlač"
+
+msgid "Print..."
+msgstr "Tlačiť..."
+
+msgid "&Print..."
+msgstr "&Tlačiť..."
+
+msgid "_Print..."
+msgstr "_Tlačiť..."
+
+msgid "Print Image"
+msgstr "Vytlačiť obrázok"
+
+msgid "Print Preview"
+msgstr "Náhľad tlače"
+
+msgid "Print version"
+msgstr "Vypíše verziu"
+
+msgid "Print version information and exit"
+msgstr "Vypíše informácie o verzii a skončí"
+
+msgid "Printer"
+msgstr "Tlačiareň"
+
+msgid "Printers"
+msgstr "Tlačiarne"
+
+msgid "Printing"
+msgstr "Tlač"
+
+msgid "Printing..."
+msgstr "Tlač..."
+
+msgid "Priority"
+msgstr "Priorita"
+
+msgid "Privacy"
+msgstr "Súkromie"
+
+msgid "Private"
+msgstr "Súkromné"
+
+msgid "Process"
+msgstr "Proces"
+
+msgid "Processor"
+msgstr "Procesor"
+
+msgid "Producer"
+msgstr "Producent"
+
+msgid "Product"
+msgstr "Produkt"
+
+msgid "Profession"
+msgstr "Profesia"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile name"
+msgstr "Názov profilu"
+
+msgid "Profiles"
+msgstr "Profily"
+
+msgid "Program"
+msgstr "Program"
+
+msgid "Progress"
+msgstr "Priebeh"
+
+msgid "Project"
+msgstr "Projekt"
+
+msgid "&Project"
+msgstr "&Projekt"
+
+msgid "Projects"
+msgstr "Projekty"
+
+msgid "Properties"
+msgstr "Vlastnosti"
+
+msgid "&Properties"
+msgstr "&Vlastnosti"
+
+msgid "_Properties"
+msgstr "_Vlastnosti"
+
+msgid "Properties..."
+msgstr "Vlastnosti..."
+
+msgid "&Properties..."
+msgstr "&Vlastnosti..."
+
+msgid "Property"
+msgstr "Vlastnosť"
+
+msgid "property “%s” invalid or not supported"
+msgstr "vlastnosť „%s“ nie je platná alebo podporovaná"
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr "vlastnosť „%s“ triedy objektu „%s“ nie je zapisovateľná"
+
+msgid "Proportional"
+msgstr "Proporcionálne"
+
+msgid "Protected"
+msgstr "Chránené"
+
+msgid "Protocol"
+msgstr "Protokol"
+
+msgid "Provider"
+msgstr "Poskytovateľ"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Proxy Settings"
+msgstr "Nastavenia proxy"
+
+msgid "Public"
+msgstr "Verejné"
+
+msgid "Public Key"
+msgstr "Verejný kľúč"
+
+msgid "Publisher"
+msgstr "Vydavateľ"
+
+msgid "Publishing"
+msgstr "Publikovanie"
+
+msgid "Puerto Rico"
+msgstr "Portoriko"
+
+msgid "Punjabi"
+msgstr "Pandžábčina"
+
+msgid "Push"
+msgstr "Tlačiť"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "Katar"
+
+msgid "QR Code"
+msgstr "QR kód"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>Toto úplne skryje panel ponuky. Môžete ho znova zobraziť stlačením "
+"%1.</qt>"
+
+msgid "Quality"
+msgstr "Kvalita"
+
+msgid "Quebec"
+msgstr "Quebec"
+
+msgid "Query"
+msgstr "Dopyt"
+
+msgid "Question"
+msgstr "Otázka"
+
+msgid "Queue"
+msgstr "Fronta"
+
+msgid "Queued"
+msgstr "Queued"
+
+msgid "Quit"
+msgstr "Ukončiť"
+
+msgid "&Quit"
+msgstr "&Koniec"
+
+msgid "_Quit"
+msgstr "U_končiť"
+
+msgid "Quit application"
+msgstr "Ukončiť aplikáciu"
+
+msgid "Quit the application"
+msgstr "Ukončenie aplikácie"
+
+msgid "Quits the application"
+msgstr "Ukončí aplikáciu"
+
+msgid "Quote"
+msgstr "Citácia"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "Radiálne"
+
+msgid "Radio"
+msgstr "Rádio"
+
+msgid "Radius"
+msgstr "Polomer"
+
+msgid "Raise"
+msgstr "Presunúť dopredu"
+
+msgid "Random"
+msgstr "Náhodné"
+
+msgid "Range"
+msgstr "Rozsah"
+
+msgid "Rank"
+msgstr "Postavenie"
+
+msgid "Rate"
+msgstr "Miera"
+
+msgid "Rating"
+msgstr "Hodnotenie"
+
+msgid "Raw"
+msgstr "Raw"
+
+msgid "Read"
+msgstr "Prečítané"
+
+msgid "Read error"
+msgstr "Chyba načítania"
+
+msgid "Read Only"
+msgstr "Iba na čítanie"
+
+msgid "Read only"
+msgstr "Len na čítanie"
+
+msgid "Reading"
+msgstr "Reading"
+
+msgid "read-only"
+msgstr "iba čítanie"
+
+msgid "Ready"
+msgstr "Pripravený"
+
+msgid "Ready."
+msgstr "Pripravený."
+
+msgid "Reason"
+msgstr "Dôvod"
+
+msgid "Reassign"
+msgstr "Znovu priradiť"
+
+msgid "Recent"
+msgstr "Nedávne"
+
+msgid "Recent Documents"
+msgstr "Nedávne dokumenty"
+
+msgid "Recent Files"
+msgstr "Nedávne súbory"
+
+msgid "Recent files"
+msgstr "Nedávne súbory"
+
+msgid "Record"
+msgstr "Nahrať"
+
+msgid "Recording"
+msgstr "Nahrávanie"
+
+msgid "Rectangle"
+msgstr "Obdĺžnik"
+
+msgid "Recursive"
+msgstr "Rekurzívne"
+
+msgid "Red"
+msgstr "Červená"
+
+msgid "red"
+msgstr "červená"
+
+msgid "Redo"
+msgstr "Znovu"
+
+msgid "&Redo"
+msgstr "&Dopredu"
+
+msgid "_Redo"
+msgstr "_Opakovať vrátené"
+
+msgid "Re&do"
+msgstr "Zn&ovu"
+
+msgid "Redo %1"
+msgstr "Opakovať vrátené %1"
+
+msgid "Reference"
+msgstr "Odkaz"
+
+msgid "References"
+msgstr "References"
+
+msgid "Refresh"
+msgstr "Obnoviť"
+
+msgid "_Refresh"
+msgstr "_Obnoviť"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Region"
+msgstr "Región"
+
+msgid "Register"
+msgstr "Zaregistrovať sa"
+
+msgid "Regular"
+msgstr "Bežné"
+
+msgid "Regular Expression"
+msgstr "Regulárny výraz"
+
+msgid "Regular expression"
+msgstr "Regulárny výraz"
+
+msgid "Reject"
+msgstr "Odmietnuť"
+
+msgid "Relative"
+msgstr "Relatívne"
+
+msgid "Reload"
+msgstr "Znovu načítať"
+
+msgid "&Reload"
+msgstr "&Obnoviť"
+
+msgid "_Reload"
+msgstr "_Znovu načítať"
+
+msgid "Reminders"
+msgstr "Pripomienky"
+
+msgid "Remote"
+msgstr "Vzdialené"
+
+msgid "Removable"
+msgstr "Vymeniteľné"
+
+msgid "Remove"
 msgstr "Odstrániť"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@title"
-msgid "Appearance"
-msgstr "Vzhľad"
+msgid "&Remove"
+msgstr "O&dstrániť"
+
+msgid "_Remove"
+msgstr "O_dstrániť"
+
+msgid "R&emove"
+msgstr "O&dstrániť"
+
+msgid "Re&move"
+msgstr "O&dstrániť"
+
+msgid "Remove..."
+msgstr "Odstrániť"
+
+msgid "Remove %1"
+msgstr "Odstrániť %1"
+
+msgid "Remove Account"
+msgstr "Odstrániť účet"
+
+msgid "Remove All"
+msgstr "Odstrániť všetko"
+
+msgid "Remove Bookmark"
+msgstr "Odstrániť záložku"
+
+msgid "Remove Folder"
+msgstr "Odstrániť priečinok"
+
+msgid "Remove from Favorites"
+msgstr "Odstrániť z obľúbených"
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "Odstrániť skupinu"
+
+msgid "Remove Rule"
+msgstr "Odstrániť pravidlo"
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "Premenovať"
+
+msgid "&Rename"
+msgstr "P&remenovať"
+
+msgid "_Rename"
+msgstr "P_remenovať"
+
+msgid "Rename..."
+msgstr "Premenovať..."
+
+msgid "&Rename..."
+msgstr "&Premenovať..."
+
+msgid "Rename Bookmark"
+msgstr "Premenovať záložku"
+
+msgid "Rename File"
+msgstr "Premenovať súbor"
+
+msgid "Repeat"
+msgstr "Opakovať"
+
+msgid "Replace"
+msgstr "Nahradiť"
+
+msgid "&Replace"
+msgstr "&Nahradiť"
+
+msgid "_Replace"
+msgstr "_Nahradiť"
+
+msgid "Replace All"
+msgstr "Nahradiť všetko"
+
+msgid "Replace _All"
+msgstr "Nahradiť _všetky"
+
+msgid "Replace an existing instance"
+msgstr "Nahradiť existujúcu inštanciu"
+
+msgid "Replacement"
+msgstr "Náhrada"
+
+msgid "Reply"
+msgstr "Odpovedať"
+
+msgid "Report"
+msgstr "Výkaz"
+
+msgid "Report a bug"
+msgstr "Nahlásiť chybu"
+
+msgid "Report Bug"
+msgstr "Nahlásiť chybu"
+
+msgid "Report Bug..."
+msgstr "Nahlásiť chybu..."
+
+msgid "&Report Bug..."
+msgstr "&Nahlásiť chybu..."
+
+msgid "Reports"
+msgstr "Správy"
+
+msgid "Required"
+msgstr "Vyžadované"
+
+msgid "Rescan"
+msgstr "Znovu prehľadať"
+
+msgid "Resend"
+msgstr "Znovu odoslať"
+
+msgid "Reset"
+msgstr "Obnoviť"
+
+msgid "&Reset"
+msgstr "Vrátiť &pôvodné"
+
+msgid "_Reset"
+msgstr "_Obnoviť"
+
+msgid "Reset to Default"
+msgstr "Vrátiť na predvolené"
+
+msgid "Reset to default"
+msgstr "Vrátiť na predvolené nastavenia"
+
+msgid "Reset Zoom"
+msgstr "Obnoviť priblíženie"
+
+msgid "Resize"
+msgstr "Zmeniť veľkosť"
+
+msgid "_Resize"
+msgstr "_Zmeniť veľkosť"
+
+msgid "Resize Image"
+msgstr "Zmena veľkosti obrázka"
+
+msgid "Resolution"
+msgstr "Rozlíšenie"
+
+msgid "Resource"
+msgstr "Zdroj"
+
+msgid "Resources"
+msgstr "Zdroje"
+
+msgid "Restart"
+msgstr "Reštart"
+
+msgid "Restore"
+msgstr "Obnoviť"
+
+msgid "Restore Session"
+msgstr "Obnoviť sedenie"
+
+msgid "Result"
+msgstr "Výsledok"
+
+msgid "Results"
+msgstr "Výsledky"
+
+msgid "Resume"
+msgstr "Pokračovať"
+
+msgid "&Resume"
+msgstr "&Obnoviť"
+
+msgid "Retry"
+msgstr "Znovu"
+
+msgid "Return"
+msgstr "Návrat"
+
+msgid "Reverse"
+msgstr "Otočiť"
+
+msgid "Revert"
+msgstr "Vrátiť"
+
+msgid "_Revert"
+msgstr "V_rátiť"
+
+msgid "Review"
+msgstr "Revízia"
+
+msgid "Revision"
+msgstr "Revízia"
+
+msgid "Revoked"
+msgstr "Zrušená platnosť"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "Vpravo"
+
+msgid "right"
+msgstr "vpravo"
+
+msgid "&Right"
+msgstr "V&pravo"
+
+msgid "_Right"
+msgstr "V_pravo"
+
+msgid "Right to Left"
+msgstr "Sprava doľava"
+
+msgid "Right-click"
+msgstr "Pravý klik"
+
+msgid "River"
+msgstr "Rieka"
+
+msgid "RKWard Team"
+msgstr "RKWard Team"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Role"
+msgstr "Rola"
+
+msgid "Roman"
+msgstr "Rímske"
+
+msgid "Romania"
+msgstr "Rumunsko"
+
+msgid "Romanian"
+msgstr "Rumunčina"
+
+msgid "Room"
+msgstr "Miestnosť"
+
+msgid "Root"
+msgstr "Koreň"
+
+msgid "Rotate"
+msgstr "Otočiť"
+
+msgid "Rotate Left"
+msgstr "Otočiť doľava"
+
+msgid "Rotate Right"
+msgstr "Otočiť doprava"
+
+msgid "Rotation"
+msgstr "Otočenie"
+
+msgid "Round"
+msgstr "Okrúhle"
+
+msgid "Row"
+msgstr "Riadok"
+
+msgid "Rows"
+msgstr "Riadky"
+
+msgid "rows"
+msgstr "riadky"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "Rules"
+
+msgid "Run"
+msgstr "Spustiť"
+
+msgid "&Run"
+msgstr "Spustiť"
+
+msgid "Run in terminal"
+msgstr "Spustiť v termináli"
+
+msgid "Running"
+msgstr "Beží"
+
+msgid "Russia"
+msgstr "Rusko"
+
+msgid "Russian"
+msgstr "Ruština"
+
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgid "S"
+msgstr "J"
+
+msgid "s"
+msgstr "s"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "Vlastnosti %s"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "Sample"
+msgstr "Vzorka"
+
+msgid "Sample Rate"
+msgstr "Vzorkovacia frekvencia"
+
+msgid "Sample rate"
+msgstr "Vzorkovacia frekvencia"
+
+msgid "Samples"
+msgstr "Vzorky"
+
+msgid "San Marino"
+msgstr "San Maríno"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Satellite"
+msgstr "Satelit"
+
+msgid "Saturation"
+msgstr "Sýtosť"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "Saudi Arabia"
+msgstr "Saudská Arábia"
+
+msgid "Save"
+msgstr "Uložiť"
+
+msgid "&Save"
+msgstr "&Uložiť"
+
+msgid "_Save"
+msgstr "_Uložiť"
+
+msgid "Save..."
+msgstr "Uložiť..."
+
+msgid "Save All"
+msgstr "Uložiť všetko"
+
+msgid "Save As"
+msgstr "Uložiť ako"
+
+msgid "Save as"
+msgstr "Uložiť ako"
+
+msgid "Save _As"
+msgstr "Uložiť _ako"
+
+msgid "Save As..."
+msgstr "Uložiť ako..."
+
+msgid "Save as..."
+msgstr "Uložiť ako..."
+
+msgid "_Save As..."
+msgstr "_Uložiť ako…"
+
+msgid "Save &As..."
+msgstr "Uložiť &ako..."
+
+msgid "Save _As..."
+msgstr "Uložiť _ako..."
+
+msgid "Save Attachment"
+msgstr "Uložiť prílohu"
+
+msgid "Save Changes"
+msgstr "Uložiť zmeny"
+
+msgid "Save Changes?"
+msgstr "Uložiť zmeny?"
+
+msgid "Save File"
+msgstr "Uložiť súbor"
+
+msgid "Save file"
+msgstr "Uložiť súbor"
+
+msgid "Save Game"
+msgstr "Uložiť hru"
+
+msgid "Save Image"
+msgstr "Uložiť obrázok"
+
+msgid "_Save Image As..."
+msgstr "_Uložiť obrázok ako…"
+
+msgid "Save Project"
+msgstr "Uloženie projektu"
+
+msgid "Save Session"
+msgstr "Uložiť sedenie"
+
+msgid "Save Settings"
+msgstr "Uložiť nastavenie"
+
+msgid "Saved"
+msgstr "Uložené"
+
+msgid "Saving"
+msgstr "Ukladá sa"
+
+msgid "Saving..."
+msgstr "Ukladám..."
+
+msgid "Saving file..."
+msgstr "Ukladá sa súbor..."
+
+msgid "Scale"
+msgstr "Mierka"
+
+msgid "_Scale"
+msgstr "_Zmeniť mierku"
+
+msgid "Scaled"
+msgstr "Zväčšený"
+
+msgid "Scaling"
+msgstr "Mierka"
+
+msgid "Scan"
+msgstr "Skenovať"
+
+msgid "Scanner"
+msgstr "Skener"
+
+msgid "Scanning..."
+msgstr "Prehľadáva sa..."
+
+msgid "Schedule"
+msgstr "Rozvrh"
+
+msgid "Scheduling"
+msgstr "Plánovanie"
+
+msgid "Scheme"
+msgstr "Schéma"
+
+msgid "School"
+msgstr "Škola"
+
+msgid "Scientific"
+msgstr "Vedecké"
+
+msgid "Scope"
+msgstr "Rozsah"
+
+msgid "Score"
+msgstr "Skóre"
+
+msgid "Score: %1"
+msgstr "Skóre: %1"
+
+msgid "Screen"
+msgstr "Obrazovka"
+
+msgid "Screenshot"
+msgstr "Snímka obrazovky"
+
+msgid "Screenshots"
+msgstr "Zachytené obrazovky"
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "Scripting"
+msgstr "Skriptovanie"
+
+msgid "Scripts"
+msgstr "Skripty"
+
+msgid "Scroll"
+msgstr "Posunúť"
+
+msgid "Scroll Down"
+msgstr "Rolovanie dole"
+
+msgid "Scroll Left"
+msgstr "Rolovanie doľava"
+
+msgid "Scroll Right"
+msgstr "Rolovanie doprava"
+
+msgid "Scroll Up"
+msgstr "Posunúť hore"
+
+msgid "Scrolling"
+msgstr "Rolovanie"
+
+msgid "Search"
+msgstr "Hľadať"
+
+msgid "&Search"
+msgstr "&Hľadať"
+
+msgid "_Search"
+msgstr "_Hľadať"
+
+msgid "S&earch"
+msgstr "&Hľadať"
+
+msgid "Search..."
+msgstr "Hľadať..."
+
+msgid "Search Bar"
+msgstr "Pruh hľadania"
+
+msgid "_Search for"
+msgstr "Hľadať"
+
+msgid "Search for '%1' with"
+msgstr "Hľadať '%1' pomocou"
+
+msgid "Search Options"
+msgstr "Možnosti hľadania"
+
+msgid "Search Results"
+msgstr "Výsledky hľadania"
+
+msgid "Search results"
+msgstr "Výsledok hľadania"
+
+msgid "Searching..."
+msgstr "Hľadá sa..."
+
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+msgid "Second"
+msgstr "Sekunda"
+
+msgid "Seconds"
+msgstr "Sekundy"
+
+msgid "seconds"
+msgstr "sekúnd"
+
+msgid "Section"
+msgstr "Oblasť"
+
+msgid "Security"
+msgstr "Bezpečnosť"
+
+msgid "Seek"
+msgstr "Posunúť"
+
+msgid "Select"
+msgstr "Vybrať"
+
+msgid "_Select"
+msgstr "_Vybrať"
+
+msgid "Select..."
+msgstr "Vybrať..."
+
+msgid "Select All"
+msgstr "Vybrať všetko"
+
+msgid "Select all"
+msgstr "Vybrať všetko"
+
+msgid "&Select All"
+msgstr "Vybrať &všetko"
+
+msgid "_Select All"
+msgstr "Vybr_ať všetko"
+
+msgid "Select &All"
+msgstr "Vybrať &všetko"
+
+msgid "Select _All"
+msgstr "Vybrať _všetko"
+
+msgid "Select an authentication mode."
+msgstr "Vyberte režim overenia totožnosti."
+
+msgid "Select an image"
+msgstr "Vybrať obrázok"
+
+msgid "Select Color"
+msgstr "Vybrať farbu"
+
+msgid "Select Directory"
+msgstr "Vybrať adresár"
+
+msgid "Select File"
+msgstr "Vyberte súbor"
+
+msgid "Select file"
+msgstr "Vyberte súbor"
+
+msgid "Select Folder"
+msgstr "Vybrať priečinok"
+
+msgid "Select folder"
+msgstr "Vybrať priečinok"
+
+msgid "Select Font"
+msgstr "Vybrať písmo"
+
+msgid "Select None"
+msgstr "Zrušiť výber"
+
+msgid "Select Source"
+msgstr "Vyberte zdroj"
+
+msgid "Selected"
+msgstr "Vybrané"
+
+msgid "Selection"
+msgstr "Výber"
+
+msgid "Selections"
+msgstr "Výbery"
+
+msgid "Semicolon"
+msgstr "Bodkočiarka"
+
+msgid "Send"
+msgstr "Odoslať"
+
+msgid "Send an email to %1"
+msgstr "Odoslať email na %1"
+
+msgid "Send File"
+msgstr "Odoslať súbor"
+
+msgid "Send to %1"
+msgstr "Poslať na %1"
+
+msgid "Sender"
+msgstr "Odosielateľ"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Sensitivity"
+msgstr "Citlivosť"
+
+msgid "Sent"
+msgstr "Odoslané"
+
+msgid "Separator"
+msgstr "Oddeľovač"
+
+msgid "September"
+msgstr "September"
+
+msgid "Serbia"
+msgstr "Srbsko"
+
+msgid "Serbian"
+msgstr "Srbčina"
+
+msgid "Serial Number"
+msgstr "Sériové číslo"
+
+msgid "Serial number"
+msgstr "Sériové číslo"
+
+msgid "Series"
+msgstr "Série"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Server URL"
+msgstr "URL servera"
+
+msgid "Service"
+msgstr "Služba"
+
+msgid "Services"
+msgstr "Služby"
+
+msgid "Session"
+msgstr "Sedenie"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "Sedenia"
+
+msgid "Set"
+msgstr "Nastaviť"
+
+msgid "Set as Default"
+msgstr "Nastaviť ako predvolené"
+
+msgid "Set as default"
+msgstr "Nastaviť ako predvolené"
+
+msgid "Settings"
+msgstr "Nastavenia"
+
+msgid "&Settings"
+msgstr "&Nastavenia"
+
+msgid "_Settings"
+msgstr "_Nastavenia"
+
+msgid "Settings..."
+msgstr "Nastavenie..."
+
+msgid "Severity"
+msgstr "Závažnosť"
+
+msgid "Seychelles"
+msgstr "Seychely"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "Tieňovanie"
+
+msgid "Shadow"
+msgstr "Tieň"
+
+msgid "Shadows"
+msgstr "Tiene"
+
+msgid "Shape"
+msgstr "Tvar"
+
+msgid "Share"
+msgstr "Zdieľať"
+
+msgid "Share..."
+msgstr "Zdieľať..."
+
+msgid "Shared"
+msgstr "Zdieľané"
+
+msgid "Sharing"
+msgstr "Zdieľanie"
+
+msgid "Sharing failed"
+msgstr "Zdieľanie zlyhalo"
+
+msgid "Sharpen"
+msgstr "Zaostrenie"
+
+msgid "Sharpness"
+msgstr "Ostrosť"
+
+msgid "Shear"
+msgstr "Skosiť"
+
+msgid "Shell"
+msgstr "Shell"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "Stručné"
+
+msgid "Shortcut"
+msgstr "Skratka"
+
+msgid "Shortcuts"
+msgstr "Skratky"
+
+msgid "Show"
+msgstr "Zobraziť"
+
+msgid "Show All"
+msgstr "Zobraziť všetko"
+
+msgid "Show Details"
+msgstr "Zobraziť detaily"
+
+msgid "Show details"
+msgstr "Zobraziť podrobnosti"
+
+msgid "Show Grid"
+msgstr "Zobraziť mriežku"
+
+msgid "Show grid"
+msgstr "Zobraziť mriežku"
+
+msgid "Show Help"
+msgstr "Zobraziť pomocníka"
+
+msgid "Show help"
+msgstr "Zobraziť pomocníka"
+
+msgid "Show Hidden Files"
+msgstr "Zobraziť skryté súbory"
+
+msgid "Show in folder"
+msgstr "Zobraziť v priečinku"
+
+msgid "Show legend"
+msgstr "Ukázať legendu"
+
+msgid "Show Password"
+msgstr "Zobraziť heslo"
+
+msgid "Show Preview"
+msgstr "Zobraziť náhľad"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr "Zobraziť skratky"
+
+msgid "Show Status Bar"
+msgstr "Zobraziť stavový riadok"
+
+msgid "Show St&atusbar"
+msgstr "Zobraziť s&tavový riadok"
+
+msgid "Show the application's version"
+msgstr "Zobrazí verziu aplikácie"
+
+msgid "Show Toolbar"
+msgstr "Zobraziť panel nástrojov"
+
+msgid "Show toolbar"
+msgstr "Sakoolbar"
+
+msgid "Show &Toolbar"
+msgstr "Zobraziť panel &nástrojov"
+
+msgid "Shuffle"
+msgstr "Zamiešať"
+
+msgid "Shut Down"
+msgstr "Vypnúť"
+
+msgid "Shutdown"
+msgstr "Vypnutie"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "Bočný panel"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Sign"
+msgstr "Podpísať"
+
+msgid "Signal"
+msgstr "Signál"
+
+msgid "Signature"
+msgstr "Podpis"
+
+msgid "Simple"
+msgstr "Jednoduchý"
+
+msgid "Singapore"
+msgstr "Singapur"
+
+msgid "Single"
+msgstr "Jednoduché"
+
+msgid "Sinhala"
+msgstr "Sinhalské"
+
+msgid "Size"
+msgstr "Veľkosť"
+
+msgid "size"
+msgstr "veľkosť"
+
+msgid "&Size"
+msgstr "Veľkosť"
+
+msgid "Size: %1"
+msgstr "Veľkosť: %1"
+
+msgid "Skip"
+msgstr "Preskočiť"
+
+msgid "&Skip"
+msgstr "&Preskočiť"
+
+msgid "_Skip"
+msgstr "Pre_skočiť"
+
+msgid "Skip forward"
+msgstr "Preskočiť dopredu"
+
+msgid "Sleep"
+msgstr "Uspať"
+
+msgid "Slide"
+msgstr "Snímka"
+
+msgid "Slider"
+msgstr "Posuvník"
+
+msgid "Slideshow"
+msgstr "Prezentácia"
+
+msgid "Slovak"
+msgstr "Slovenčina"
+
+msgid "Slovenia"
+msgstr "Slovinsko"
+
+msgid "Slovenian"
+msgstr "Slovinčina"
+
+msgid "Slow"
+msgstr "Pomalá"
+
+msgid "Slower"
+msgstr "Pomalšie"
+
+msgid "Small"
+msgstr "Malá"
+
+msgid "Smooth"
+msgstr "Plynulý"
+
+msgid "Smoothing"
+msgstr "Vyhladzovanie"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Prichytiť"
+
+msgid "Snap to Grid"
+msgstr "Pripnúť k mriežke"
+
+msgid "Snow"
+msgstr "Sneh"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr "Socks5"
+
+msgid "Software"
+msgstr "Softvér"
+
+msgid "Solid"
+msgstr "Plný"
+
+msgid "Solid color"
+msgstr "Jednoliata farba"
+
+msgid "Solomon Islands"
+msgstr "Šalamúnove ostrovy"
+
+msgid "Somalia"
+msgstr "Somálsko"
+
+msgid "Sort"
+msgstr "Triediť"
+
+msgid "Sort By"
+msgstr "Zoradiť podľa"
+
+msgid "Sort by"
+msgstr "Triediť podľa"
+
+msgid "Sorting"
+msgstr "Triedenie"
+
+msgid "Sound"
+msgstr "Zvuk"
+
+msgid "Soundtrack"
+msgstr "Soundtrack"
+
+msgid "Source"
+msgstr "Zdroj"
+
+msgid "Sources"
+msgstr "Zdroje"
+
+msgid "South"
+msgstr "Juh"
+
+msgid "South Africa"
+msgstr "Južná Afrika"
+
+msgid "South European"
+msgstr "Juhoeurópske"
+
+msgid "Space"
+msgstr "Medzera"
+
+msgid "Spacing"
+msgstr "Medzera"
+
+msgid "Spain"
+msgstr "Španielsko"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Spanish"
+msgstr "Španielčina"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "Hovoriť"
+
+msgid "Speak Text"
+msgstr "Povedať text"
+
+msgid "Speaker"
+msgstr "Reproduktor"
+
+msgid "Special"
+msgstr "Špeciálne"
+
+msgid "Special Characters"
+msgstr "Špeciálne znaky"
+
+msgid "Specials"
+msgstr "Špeciálne"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr "Zadať ID správy relácií"
+
+msgid "Speed"
+msgstr "Rýchlosť"
+
+msgid "Spell Check"
+msgstr "Kontrola pravopisu"
+
+msgid "Spell Checking"
+msgstr "Kontrola pravopisu"
+
+msgid "Spelling"
+msgstr "Pravopis"
+
+msgid "Spiral"
+msgstr "Špirála"
+
+msgid "Split"
+msgstr "Rozdeliť"
+
+msgid "Split View"
+msgstr "&Rozdeliť pohľad"
+
+msgid "Sports"
+msgstr "Športovanie"
+
+msgid "Spreadsheet"
+msgstr "Zošit"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "Štvorec"
+
+msgid "Sri Lanka"
+msgstr "Srí Lanka"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr "„%s::%s“ nie je platný názov vlastnosti; „%s“ nie je podtyp GObject"
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr "Stack"
+
+msgid "Stacked"
+msgstr "Skladaný"
+
+msgid "Standard"
+msgstr "Štandardné"
+
+msgid "Standard deviation"
+msgstr "Smerodajná odchýlka"
+
+msgid "Star"
+msgstr "Hviezda"
+
+msgid "Start"
+msgstr "Spustiť"
+
+msgid "&Start"
+msgstr "Spustiť"
+
+msgid "Start a new game"
+msgstr "Spustiť novú hru"
+
+msgid "Start Date"
+msgstr "Počiatočný dátum"
+
+msgid "Start date"
+msgstr "Počiatočný dátum"
+
+msgid "Start Presentation"
+msgstr "Spustiť prezentáciu"
+
+msgid "Start Time"
+msgstr "Čas spustenia"
+
+msgid "Started"
+msgstr "Spustené"
+
+msgid "Starting"
+msgstr "Spúšťa sa"
+
+msgid "Starting..."
+msgstr "Spúšťa sa..."
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "začína s"
+
+msgid "Startup"
+msgstr "Spustenie"
+
+msgid "Stash"
+msgstr "Úschovňa"
+
+msgid "State"
+msgstr "Stav"
+
+msgid "States"
+msgstr "Štáty"
+
+msgid "Statistics"
+msgstr "Štatistika"
+
+msgid "Status"
+msgstr "Stav"
+
+msgid "Status: %1"
+msgstr "Stav: %1"
+
+msgid "Statusbar"
+msgstr "Stavový riadok"
+
+msgid "_Statusbar"
+msgstr "_Stavová lišta"
+
+msgid "Step"
+msgstr "Krok"
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr "Kroky"
+
+msgid "Stereo"
+msgstr "Stereo"
+
+msgid "Stop"
+msgstr "Zastaviť"
+
+msgid "&Stop"
+msgstr "Za&staviť"
+
+msgid "_Stop"
+msgstr "_Zastaviť"
+
+msgid "S&top"
+msgstr "Zastaviť"
+
+msgid "Stop Recording"
+msgstr "Zastaviť nahrávanie"
+
+msgid "Stopped"
+msgstr "Zastavené"
+
+msgid "Storage"
+msgstr "Úložisko"
+
+msgid "Store"
+msgstr "Uložiť"
+
+msgid "Stream"
+msgstr "Prúd"
+
+msgid "Street"
+msgstr "Ulica"
+
+msgid "Strength"
+msgstr "Sila"
+
+msgid "Stretch"
+msgstr "Natiahnuť"
+
+msgid "Strike Out"
+msgstr "Prečiarknuté"
+
+msgid "Strikethrough"
+msgstr "Prečiarknuté"
+
+msgid "String"
+msgstr "Reťazec"
+
+msgid "string"
+msgstr "reťazec"
+
+msgid "Strings"
+msgstr "Reťazce"
+
+msgid "Stroke"
+msgstr "Ťah"
+
+msgid "Strong"
+msgstr "Silná"
+
+msgid "Structure"
+msgstr "Štruktúra"
+
+msgid "Style"
+msgstr "Štýl"
+
+msgid "Subject"
+msgstr "Predmet"
+
+msgid "Submit"
+msgstr "Odoslať"
+
+msgid "Subscribe"
+msgstr "Prihlásiť sa"
+
+msgid "Subscript"
+msgstr "Dolný index"
+
+msgid "Subscriptions"
+msgstr "Odbery"
+
+msgid "Subtitle"
+msgstr "Podtitulok"
+
+msgid "Subtitles"
+msgstr "Titulky"
+
+msgid "Subtract"
+msgstr "Odpočítať"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "Úspech"
+
+msgid "Sudan"
+msgstr "Sudán"
+
+msgid "Suffix"
+msgstr "Prípona"
+
+msgid "Sum"
+msgstr "Suma"
+
+msgid "Summary"
+msgstr "Súhrn"
+
+msgid "Sun"
+msgstr "Slnko"
+
+msgid "Sundanese"
+msgstr "Sundanese"
+
+msgid "Sunday"
+msgstr "Nedeľa"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "Horný index"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Suriname"
+msgstr "Surinam"
+
+msgid "Surname"
+msgstr "Priezvisko"
+
+msgid "Suspend"
+msgstr "Uspať"
+
+msgid "Suspended"
+msgstr "Pozastavené"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "Swap"
+
+msgid "Sweden"
+msgstr "Švédsko"
+
+msgid "Swedish"
+msgstr "Švédčina"
+
+msgid "Switch"
+msgstr "Prepnúť"
+
+msgid "Switches"
+msgstr "Prepínače"
+
+msgid "Switzerland"
+msgstr "Švajčiarsko"
+
+msgid "Symbol"
+msgstr "Symbol"
+
+msgid "Symbols"
+msgstr "Symboly"
+
+msgid "Sync"
+msgstr "Synchronizovať"
+
+msgid "Synchronization"
+msgstr "Synchronizácia"
+
+msgid "Synchronize"
+msgstr "Synchronizovať"
+
+msgid "Syriac"
+msgstr "Sýrske"
+
+msgid "System"
+msgstr "Systém"
+
+msgid "System Default"
+msgstr "Predvolené systémom"
+
+msgid "System Settings"
+msgstr "Systémové nastavenia"
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "Karta"
+
+msgid "Table"
+msgstr "Tabuľka"
+
+msgid "Table of Contents"
+msgstr "Obsah"
+
+msgid "Tablet"
+msgstr "Tablet"
+
+msgid "Tabs"
+msgstr "Karty"
+
+msgid "Tag"
+msgstr "Značka"
+
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Tagged"
+msgstr "Označené"
+
+msgid "Tags"
+msgstr "Značky"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Tajikistan"
+msgstr "Tadžikistan"
+
+msgid "Take Screenshot"
+msgstr "Vytvoriť snímku obrazovky"
+
+msgid "Tamil"
+msgstr "Tamilské"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "Tanzánia"
+
+msgid "Target"
+msgstr "Cieľ"
+
+msgid "Task"
+msgstr "Úloha"
+
+msgid "Tasks"
+msgstr "Úlohy"
+
+msgid "Tatar"
+msgstr "Tatárčina"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr "Tím"
+
+msgid "Technology"
+msgstr "Technológia"
+
+msgid "Telephone"
+msgstr "Telefón"
+
+msgid "Telugu"
+msgstr "Telugské"
+
+msgid "Temperature"
+msgstr "Teplota"
+
+msgid "Template"
+msgstr "Šablóna"
+
+msgid "Templates"
+msgstr "Šablóny"
+
+msgid "Tentative"
+msgstr "Nezáväzný"
+
+msgid "Terminal"
+msgstr "Terminál"
+
+msgid "Terminal Emulator"
+msgstr "Emulátor terminálu"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Testing"
+msgstr "Testovanie"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "text"
+msgstr "text"
+
+msgid "_Text"
+msgstr "_Text"
+
+msgid "Text Color"
+msgstr "Farba textu"
+
+msgid "Text color"
+msgstr "Farba textu"
+
+msgid "Text Editor"
+msgstr "Textový editor"
+
+msgid "Text File"
+msgstr "Textový súbor"
+
+msgid "Text Files"
+msgstr "Textové súbory"
+
+msgid "Text Only"
+msgstr "Iba text"
+
+msgid "Text only"
+msgstr "Iba text"
+
+msgid "Text to search for"
+msgstr "Text na hľadanie"
+
+msgid "Text Tool"
+msgstr "Textový nástroj"
+
+msgid "TextLabel"
+msgstr "TextLabel"
+
+msgid "Thai"
+msgstr "Thajské"
+
+msgid "Thailand"
+msgstr "Thajsko"
+
+msgid "The file %1 does not exist."
+msgstr "Súbor %1 neexistuje."
+
+msgid "The GNOME Project"
+msgstr "Projekt GNOME"
+
+msgid "The graphical theme to be used."
+msgstr "Grafická téma, ktorá bude použitá."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+"Najvýznamnejšie zmeny sú, že Calligra bola úplne prevedená na Qt6 a KF6, "
+"spolu s výraznou prestavbou používateľského rozhrania."
+
+msgid "The NetworkManager Developers"
+msgstr "Vývojári správcu siete NetworkManager"
+
+msgid "Theme"
+msgstr "Téma"
+
+msgid "Themes"
+msgstr "Témy"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "Pri zdieľaní dokumentu sa vyskytol problém: %1"
+
+msgid "Thin"
+msgstr "Tenké"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+"Toto vydanie pridáva podporu flatpak do kancelárskeho balíka Calligra."
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"Toto skryje ponuku možností. Môžete ju znovu zviditeľniť stlačením %1."
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "Prah"
+
+msgid "Thumbnail"
+msgstr "Náhľad"
+
+msgid "Thumbnails"
+msgstr "Miniatúry"
+
+msgid "Thursday"
+msgstr "Štvrtok"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "Tibetské"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "Dlaždice"
+
+msgid "Tiled"
+msgstr "Vydláždené"
+
+msgid "Tilt"
+msgstr "Sklon"
+
+msgid "Time"
+msgstr "Čas"
+
+msgid "time"
+msgstr "čas"
+
+msgid "Time: %1"
+msgstr "Čas: %1"
+
+msgid "Time and Date"
+msgstr "Čas a dátum"
+
+msgid "Time Zone"
+msgstr "Časové pásmo"
+
+msgid "Timeline"
+msgstr "Časová os"
+
+msgid "Timeout"
+msgstr "Časový limit"
+
+msgid "Timer"
+msgstr "Časovač"
+
+msgid "Timestamp"
+msgstr "Časová značka"
+
+msgid "Timezone"
+msgstr "Časové pásmo"
+
+msgid "Tiny"
+msgstr "Drobná"
+
+msgid "Title"
+msgstr "Názov"
+
+msgid "title"
+msgstr "názov"
+
+msgid "&Title"
+msgstr "&Názov"
+
+msgid "_Title"
+msgstr "_Názov"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "Pre"
+
+msgid "to"
+msgstr "do"
+
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+msgid "Today"
+msgstr "Dnes"
+
+msgid "today"
+msgstr "dnes"
+
+msgid "TODO"
+msgstr "Úlohy"
+
+msgid "Todo"
+msgstr "Úloha"
+
+msgid "Toggle Fullscreen"
+msgstr "Prepnúť do celoobrazovkového režimu"
+
+msgid "Toggle Sidebar"
+msgstr "Prepne bočný panel"
+
+msgid "Toggle sidebar"
+msgstr "Prepnúť bočný panel"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Tolerance"
+msgstr "Tolerancia"
+
+msgid "Tomorrow"
+msgstr "Zajtra"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Tool"
+msgstr "Nástroj"
+
+msgid "Tool Options"
+msgstr "Možnosti nástroja"
+
+msgid "_Toolbar"
+msgstr "Lišta _nástrojov"
+
+msgid "T_oolbar"
+msgstr "Panel _nástrojov"
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "Panel nástrojov"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "&Tools"
+msgstr "&Nástroje"
+
+msgid "_Tools"
+msgstr "_Nástroje"
+
+msgid "Top"
+msgstr "Hore"
+
+msgid "_Top"
+msgstr "_Hore"
+
+msgid "Top Left"
+msgstr "Vľavo hore"
+
+msgid "Top left"
+msgstr "Vľavo hore"
+
+msgid "Top Right"
+msgstr "Vpravo hore"
+
+msgid "Top right"
+msgstr "Vpravo hore"
+
+msgid "Topic"
+msgstr "Téma"
+
+msgid "Top-left"
+msgstr "Vľavo hore"
+
+msgid "Top-right"
+msgstr "Vpravo hore"
+
+msgid "Total"
+msgstr "Celkovo"
+
+msgid "Track"
+msgstr "Stopa"
+
+msgid "Track Number"
+msgstr "Číslo skladby"
+
+msgid "Tracker"
+msgstr "Tracker"
+
+msgid "Tracks"
+msgstr "Stopy"
+
+msgid "Traditional"
+msgstr "Tradičné"
+
+msgid "Transfer"
+msgstr "Prevod"
+
+msgid "Transform"
+msgstr "Transformovať"
+
+msgid "Transformation"
+msgstr "Transformácia"
+
+msgid "Translate"
+msgstr "Preložiť"
+
+msgid "Translation"
+msgstr "Preklad"
+
+msgid "Translator"
+msgstr "Prekladateľ"
+
+msgid "translator-credits"
+msgstr "Dušan Kazik <prescott66@gmail.com>"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "Prekladatelia"
+
+msgid "Transparency"
+msgstr "Priehľadnosť"
+
+msgid "Transparent"
+msgstr "Priehľadný"
+
+msgid "Transport"
+msgstr "Prenos"
+
+msgid "Transpose"
+msgstr "Transponovať"
+
+msgid "Trash"
+msgstr "Kôš"
+
+msgid "Travel"
+msgstr "Cestovanie"
+
+msgid "Tree"
+msgstr "Strom"
+
+msgid "Tree View"
+msgstr "Stromové zobrazenie"
+
+msgid "Triangle"
+msgstr "Trojuholník"
+
+msgid "True"
+msgstr "Pravda"
+
+msgid "true"
+msgstr "pravda"
+
+msgid "Trusted"
+msgstr "Dôveryhodné"
+
+msgid "Try a different search"
+msgstr "Skúste vyhľadať niečo iné"
+
+msgid "Try Again"
+msgstr "Skúsiť znova"
+
+msgid "Tuesday"
+msgstr "Utorok"
+
+msgid "Tunisia"
+msgstr "Tunisko"
+
+msgid "Turkey"
+msgstr "Turecko"
+
+msgid "Turkish"
+msgstr "Turečtina"
+
+msgid "Turkmenistan"
+msgstr "Turkménsko"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "TYPE"
+msgstr "TYP"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "type"
+msgstr "typ"
+
+msgid "&Type"
+msgstr "&Typ"
+
+msgid "Type: %1"
+msgstr "Typ: %1"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+msgid "Ukrainian"
+msgstr "Ukrajinčina"
+
+msgid "Unable to create a temporary file."
+msgstr "Nepodarilo sa vytvoriť dočasný súbor."
+
+msgid "unable to get editor plugin name: %s"
+msgstr "nie je možné získať názov zásuvného modulu editora: %s"
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr "nie je možné nastaviť vlastnosť „%s“ typu „%s“ z hodnoty typu „%s“"
+
+msgid "Unavailable"
+msgstr "Nedostupné"
+
+msgid "Undefined"
+msgstr "Nedefinované"
+
+msgid "Underline"
+msgstr "Podčiarknuté"
+
+msgid "&Underline"
+msgstr "Podčiark&nuté"
+
+msgid "_Underline"
+msgstr "_Podčiarknuté"
+
+msgid "Undo"
+msgstr "Späť"
+
+msgid "&Undo"
+msgstr "&Späť"
+
+msgid "_Undo"
+msgstr "_Späť"
+
+msgid "Undo %1"
+msgstr "Vrátiť späť %1"
+
+msgid "Undo History"
+msgstr "História vrátení späť"
+
+msgid "UnFav it"
+msgstr "Odstrániť z obľúbených"
+
+msgid "unhandled property “%s” type %s"
+msgstr "neošetrená vlastnosť „%s“ typu %s"
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Uniform"
+msgstr "Rovnomerné"
+
+msgid "Union"
+msgstr "Zjednotenie"
+
+msgid "Unit"
+msgstr "Jednotka"
+
+msgid "United Arab Emirates"
+msgstr "Spojené arabské emiráty"
+
+msgid "United Kingdom"
+msgstr "Spojené kráľovstvo"
+
+msgid "United States"
+msgstr "Spojené štáty"
+
+msgid "United States Minor Outlying Islands"
+msgstr "Menšie odľahlé ostrovy USA"
+
+msgid "Units"
+msgstr "Jednotky"
+
+msgid "University"
+msgstr "Univerzita"
+
+msgid "Unknown"
+msgstr "Neznáme"
+
+msgid "unknown"
+msgstr "neznáme"
+
+msgid "(unknown)"
+msgstr "(neznáme)"
+
+msgid "Unknown Error"
+msgstr "Neznáma chyba"
+
+msgid "Unknown error"
+msgstr "Neznáma chyba"
+
+msgid "Unknown error."
+msgstr "Neznáma chyba."
+
+msgid "unknown error creating editor instance"
+msgstr "neznáma chyba pri vytváraní inštancie editora"
+
+msgid "Unknown file type"
+msgstr "Neznámy typ súboru"
+
+msgid "Unlimited"
+msgstr "Bez obmedzenia"
+
+msgid "unlimited"
+msgstr "bez obmedzenia"
+
+msgid "Unlock"
+msgstr "Odomknúť"
+
+msgid "_Unlock"
+msgstr "Odo_mknúť"
+
+msgid "Unmount"
+msgstr "Odpojiť"
+
+msgid "Unmute"
+msgstr "Zrušiť stlmenie"
+
+msgid "Unnamed"
+msgstr "Nepomenované"
+
+msgid "unnamed"
+msgstr "bez mena"
+
+msgid "Unread"
+msgstr "Neprečítané"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "Neuložené zmeny"
+
+msgid "Unselect All"
+msgstr "Odznačiť všetko"
+
+msgid "Unselect all"
+msgstr "Zrušiť výber všetkého"
+
+msgid "Unspecified"
+msgstr "Neurčené"
+
+msgid "Untitled"
+msgstr "Bez názvu"
+
+msgid "untitled"
+msgstr "nepomenovaný"
+
+msgid "Unused"
+msgstr "Nepoužité"
+
+msgid "Up"
+msgstr "Hore"
+
+msgid "&Up"
+msgstr "&Hore"
+
+msgid "Update"
+msgstr "Aktualizovať"
+
+msgid "&Update"
+msgstr "Akt&ualizovať"
+
+msgid "_Update"
+msgstr "_Aktualizovať"
+
+msgid "Updates"
+msgstr "Aktualizácie"
+
+msgid "Updating"
+msgstr "Aktualizovanie"
+
+msgid "Updating..."
+msgstr "Aktualizuje sa..."
+
+msgid "Upload"
+msgstr "Odosielanie"
+
+msgid "_Upload"
+msgstr "_Odoslať"
+
+msgid "Uploaded"
+msgstr "Odoslané"
+
+msgid "Upper"
+msgstr "Veľké"
+
+msgid "Uppercase"
+msgstr "Veľké písmená"
+
+msgid "Urdu"
+msgstr "Urdčina"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Uruguay"
+msgstr "Uruguaj"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "Usage"
+msgstr "Použitie"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "Použiť"
+
+msgid "Used"
+msgstr "Využité"
+
+msgid "User"
+msgstr "Používateľ"
+
+msgid "User Certificate"
+msgstr "Užívateľský certifikát"
+
+msgid "User Defined"
+msgstr "Používateľské"
+
+msgid "User Feedback"
+msgstr "Používateľská odozva"
+
+msgid "User ID"
+msgstr "ID užívateľa"
+
+msgid "User Interface"
+msgstr "Používateľské rozhranie"
+
+msgid "User name"
+msgstr "Meno používateľa"
+
+msgid "User Password"
+msgstr "Heslo používateľa"
+
+msgid "Username"
+msgstr "Používateľské meno"
+
+msgid "_Username"
+msgstr "Po_užívateľské meno"
+
+msgid "Users"
+msgstr "Používatelia"
+
+msgid "Utilities"
+msgstr "Nástroje"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr "%v%"
+
+msgid "Valid"
+msgstr "Platný"
+
+msgid "Valid from"
+msgstr "Platné od"
+
+msgid "Validity"
+msgstr "Platnosť"
+
+msgid "Value"
+msgstr "Hodnota"
+
+msgid "value"
+msgstr "hodnota"
+
+msgid "&Value"
+msgstr "Hodnota"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+"hodnota „%s“ typu „%s“ je neplatná alebo mimo rozsah vlastnosti „%s“ typu "
+"„%s“"
+
+msgid "Values"
+msgstr "Hodnoty"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Variable"
+msgstr "Premenná"
+
+msgid "Variables"
+msgstr "Premenné"
+
+msgid "Variance"
+msgstr "Rozptyl"
+
+msgid "Vector"
+msgstr "Vektor"
+
+msgid "Velocity"
+msgstr "Rýchlosť"
+
+msgid "Vendor"
+msgstr "Dodávateľ"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Verb"
+msgstr "Sloveso"
+
+msgid "Verify"
+msgstr "Overiť"
+
+msgid "Version"
+msgstr "Verzia"
+
+msgid "Version %1"
+msgstr "Verzia %1"
+
+msgid "Vertical"
+msgstr "Vertikálne"
+
+msgid "Very Large"
+msgstr "Veľmi veľká"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video CD"
+msgstr "Video CD"
+
+msgid "Video Codec"
+msgstr "Video"
+
+msgid "Video Files"
+msgstr "Video súbory"
+
+msgid "Videos"
+msgstr "Videá"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Vietnamese"
+msgstr "Vietnamčina"
+
+msgid "View"
+msgstr "Zobraziť"
+
+msgid "&View"
+msgstr "&Zobraziť"
+
+msgid "_View"
+msgstr "_Zobraziť"
+
+msgid "View Options"
+msgstr "Možnosti zobrazenia"
+
+msgid "View Settings"
+msgstr "Zobraziť nastavenia"
+
+msgid "Viewer"
+msgstr "Prehliadač"
+
+msgid "Views"
+msgstr "Pohľady"
+
+msgid "Virtual"
+msgstr "Virtuálny"
+
+msgid "Virtual Keyboard"
+msgstr "Virtuálna klávesnica"
+
+msgid "Visibility"
+msgstr "Viditeľnosť"
+
+msgid "Visible"
+msgstr "Viditeľné"
+
+msgid "Voltage"
+msgstr "Napätie"
+
+msgid "Volume"
+msgstr "Hlasitosť"
+
+msgid "Volume Down"
+msgstr "Znížiť hlasitosť"
+
+msgid "Volume Up"
+msgstr "Zvýšiť hlasitosť"
+
+msgid "W"
+msgstr "Z"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "Čakajúce"
+
+msgid "Wallpaper"
+msgstr "Tapeta"
+
+msgid "Wallpaper type"
+msgstr "Typ tapety"
+
+msgid "WARNING"
+msgstr "UPOZORNENIE"
+
+msgid "Warning"
+msgstr "Upozornenie"
+
+msgid "warning"
+msgstr "warning"
+
+msgid "Warnings"
+msgstr "Upozornenia"
+
+msgid "Water"
+msgstr "Voda"
+
+msgid "Wave"
+msgstr "Vlna"
+
+msgid "Weak"
+msgstr "Slabá"
+
+msgid "Weather"
+msgstr "Počasie"
+
+msgid "Web Browser"
+msgstr "Webový prehliadač"
+
+msgid "Web browser"
+msgstr "Webový prehliadač"
+
+msgid "Website"
+msgstr "Webová stránka"
+
+msgid "Wednesday"
+msgstr "Streda"
+
+msgid "Week"
+msgstr "Týždeň"
+
+msgid "Week View"
+msgstr "Týždenný pohľad"
+
+msgid "Weekly"
+msgstr "Týždenne"
+
+msgid "Weeks"
+msgstr "Týždne"
+
+msgid "weeks"
+msgstr "týždňov"
+
+msgid "Weight"
+msgstr "Výška"
+
+msgid "Welcome"
+msgstr "Vitajte"
+
+msgid "Welsh"
+msgstr "Waleština"
+
+msgid "West"
+msgstr "Západ"
+
+msgid "Western"
+msgstr "Západné"
+
+msgid "Western Sahara"
+msgstr "Západná Sahara"
+
+msgid "What's new"
+msgstr "What's new"
+
+msgid "Wheel"
+msgstr "Koliesko"
+
+msgid "Whether sound effects should be played."
+msgstr "Či majú byť prehrávané zvukové efekty."
+
+msgid "White"
+msgstr "Biela"
+
+msgid "white"
+msgstr "biela"
+
+msgid "White Balance"
+msgstr "Vyváženie bielej"
+
+msgid "Wide"
+msgstr "Široké"
+
+msgid "Widgets"
+msgstr "Miniaplikácie"
+
+msgid "Width"
+msgstr "Šírka"
+
+msgid "&Width"
+msgstr "Ší&rka"
+
+msgid "_Width"
+msgstr "Ší_rka"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Wikipedia"
+msgstr "Wikipédia"
+
+msgid "Window"
+msgstr "Okno"
+
+msgid "&Window"
+msgstr "&Okno"
+
+msgid "&Window Color Scheme"
+msgstr "&Window Color Scheme"
+
+msgid "Window height"
+msgstr "Výška okna"
+
+msgid "Window Management"
+msgstr "Správa okien"
+
+msgid "Window maximized"
+msgstr "Maximalizované okno"
+
+msgid "Window size"
+msgstr "Veľkosť okna"
+
+msgid "Window Title"
+msgstr "Titulok okna"
+
+msgid "Window width"
+msgstr "Šírka okna"
+
+msgid "Windows"
+msgstr "Okná"
+
+msgid "_Windows"
+msgstr "_Okná"
+
+msgid "with"
+msgstr "s"
+
+msgid "Word"
+msgstr "Slovo"
+
+msgid "Word Count"
+msgstr "Počet slov"
+
+msgid "Words"
+msgstr "Slová"
+
+msgid "Work"
+msgstr "Práca"
+
+msgid "World"
+msgstr "Svet"
+
+msgid "Wrap"
+msgstr "Zalamovať"
+
+msgid "_Wrap around"
+msgstr "Pokračovať do_okola"
+
+msgid "Wrap Text"
+msgstr "Zalomiť text"
+
+msgid "Write"
+msgstr "Zápis"
+
+msgid "Writing"
+msgstr "Zápis"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "Yearly"
+msgstr "Ročne"
+
+msgid "Years"
+msgstr "Roky"
+
+msgid "years"
+msgstr "rokov"
+
+msgid "Yellow"
+msgstr "Žltá"
+
+msgid "yellow"
+msgstr "žltá"
+
+msgid "Yemen"
+msgstr "Jemen"
+
+msgid "Yes"
+msgstr "Áno"
+
+msgid "yes"
+msgstr "áno"
+
+msgid "_Yes"
+msgstr "Án_o"
+
+msgid "Yesterday"
+msgstr "Včera"
+
+msgid "Yiddish"
+msgstr "Jidiš"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+
+msgid "Yukon"
+msgstr "Yukon"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "Zambia"
+
+msgid "Zero"
+msgstr "Nula"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Zoom"
+msgstr "Lupa"
+
+msgid "&Zoom"
+msgstr "&Lupa"
+
+msgid "_Zoom"
+msgstr "_Lupa"
+
+msgid "Zoom In"
+msgstr "Priblížiť"
+
+msgid "Zoom in"
+msgstr "Priblížiť"
+
+msgid "Zoom &In"
+msgstr "&Priblížiť"
+
+msgid "Zoom _In"
+msgstr "Z_väčšiť"
+
+msgid "Zoom Out"
+msgstr "Oddialiť"
+
+msgid "Zoom out"
+msgstr "Oddialiť"
+
+msgid "Zoom &Out"
+msgstr "Oddialiť"
+
+msgid "Zoom _Out"
+msgstr "Z_menšiť"
+
+msgid "Zoom to Fit"
+msgstr "Prispôsobiť veľkosti"

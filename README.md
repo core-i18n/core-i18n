@@ -19,6 +19,8 @@ puts(core_i18n_gettext("Cancel"));
 
 `core-i18n.mo` is located and loaded automatically from the install locale dir (override with `CORE_I18N_LOCALEDIR`).
 
+Labels with and without a trailing colon share the colon-free translation entry. In a caller that supports `%1` placeholder substitution, append a colon with the `"%1:"` template and pass the translated label, for example `i18n("%1:", i18n("Alignment"))`.
+
 ## Other Languages
 
 - [core-i18n-qt](https://github.com/core-i18n/core-i18n-qt) for Qt Quick (QML) plugin

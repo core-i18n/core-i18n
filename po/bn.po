@@ -7,844 +7,9448 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "প্রধান টুলবার"
+msgid "\""
+msgstr ""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "সাধারণ"
+msgid "#"
+msgstr ""
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "সরাও"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "বাতিল করো"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "ফা&ইল"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "মুছে ফেলো"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "কিছু না"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "নাম"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "রক্ষণাবেক্ষণকারী"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "নাম:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "সম্পা&দনা"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "&পছন্দ"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "সমস্যা"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "ভি&উ"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "যোগ করো"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "ডেভেলপার"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "লেখক"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "বন্ধ করো"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "অপশন"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "সেটিংস"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "অজ্ঞাত"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "টু&লস"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "ধরন"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "মুছে ফে&ল"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "সম্পাদনা"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "বর্ণনা"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "বর্ণনা:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "তারিখ"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "ফাইল"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "প্রাকদর্শন"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "কনফিগার করো"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "চেহারা"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "প্রকৃতি"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "ধরন:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "মাপ"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "&সরাও"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "সন্ধান"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "ডিফল্ট"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "ইউসারনেম:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&সহায়তা"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "থামাও"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "ভিউ"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "সতর্কবার্তা"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "Normal"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "নাম পাল্টাও"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "হ্যাঁ"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "অগ্রসর"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "স্ট্যাটাস"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "টেক্সট"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "মান"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "রং"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "শিরোেনাম"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "প্রারম্ভিক লেখক"
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "যোগ করো..."
+msgid "'"
+msgstr ""
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "তথ্য"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "সময়"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "মন্তব্য"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "উচ্চতা:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "বাঁদিকে"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "নতুন"
+msgid "<"
+msgstr ""
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "খোলো"
+msgid "="
+msgstr ""
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "মাপ:"
+msgid ">"
+msgstr ""
 
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "প্রস্থ:"
+msgid "?"
+msgstr "?"
 
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "ডানদিকে"
+msgid "°"
+msgstr ""
 
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "নতুন নামে সংরক্ষণ করো"
+msgid "×"
+msgstr ""
 
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "শিরোনাম:"
+msgid "..."
+msgstr "..."
 
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&রপ্তানি"
+msgid "???"
+msgstr "???"
 
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "স্বয়ংক্রিয়"
+msgid " "
+msgstr ""
 
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "সহায়তা"
+msgid " %"
+msgstr " %"
 
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "না&ম:"
+msgid ", "
+msgstr ", "
 
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "বিস্তারিত বিবরণ"
+msgid " - "
+msgstr " -"
 
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "ফিল্টার"
+msgid " – "
+msgstr ""
 
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "অগ্রাহ্য করো"
+msgid "    "
+msgstr "    "
 
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "অবস্থান:"
+msgid " and "
+msgstr "এবং"
 
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "নতুন করে পড়ো"
+msgid " (default)"
+msgstr ""
 
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "সমস্ত"
+msgid "© KDE Community"
+msgstr ""
 
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "মাঝামাঝি"
+msgid " MB"
+msgstr " এম-বি"
 
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "স্বনির্বাচিত"
+msgid " MiB"
+msgstr ""
 
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "ফন্ট"
+msgid " min"
+msgstr ""
 
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "ঢোকাও"
+msgid " minutes"
+msgstr ""
 
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "সরঞ্জাম"
+msgid " ms"
+msgstr ""
 
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "বাতিল করো"
+msgid " px"
+msgstr ""
 
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "অনামিকা"
+msgid " s"
+msgstr ""
 
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "যা&ও"
+msgid " sec"
+msgstr " সেকণ্ড"
 
-#. Occurs in 20 KDE PO files
+msgid " seconds"
+msgstr ""
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr ""
+
 msgid "1"
 msgstr "১"
 
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "সম্পাদনা..."
+msgid "%1"
+msgstr "%1"
 
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "অবস্থান"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "নিচে যাও"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "উপরে যাও"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "সব নির্বাচন করো"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "আপডেট"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "যো&গ করো"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "০"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "মন্তব্য:"
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "সাধারণ বৈশিষ্ট্য"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "পরবর্তী"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "বাছাই করো"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "উপরে"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "&বন্ধ করো"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "লেখক:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "সক্রিয় করো"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "আমদানি করো..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "আবার করো"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "প্রত্যাখ্যান করো"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "বদলাও"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "&সম্পাদন..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "কাজ"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "বুকমার্ক"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "রপ্তানি করো..."
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "প্রারম্ভিক লেখক"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "চালাও"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "নতুন করে পড়ো"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "শুরু করো"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "Tags"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "থিম"
-
-#. Occurs in 16 KDE PO files
 msgid "%1%"
 msgstr "%1%"
 
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "&নতুন"
+msgid "%1:"
+msgstr "%1:"
 
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "স্বীকার করো"
+msgid "%1°"
+msgstr ""
 
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "রঙ:"
+msgid "%1 %"
+msgstr ""
 
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "কমাণ্ড"
+msgid "%1 - %2"
+msgstr ""
 
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "ফন্ট"
+msgid "%1 / %2"
+msgstr ""
 
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "লাইন"
+msgid "%1 × %2"
+msgstr ""
 
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "বিবিধ"
+msgid "%1 %2"
+msgstr ""
 
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "স্থগিত রাখো"
+msgid "%1, %2"
+msgstr ""
 
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " মাইক্রোসেকেন্ড"
+msgid "%1: %2"
+msgstr "%1: %2"
 
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "স্বয়ংক্রীয়"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "নীচে"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "ডাউনলোড করো"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "সম্পাদক"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "ভাষা"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "তৈরী"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "রিসেট"
-
-#. Occurs in 14 KDE PO files
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "বাতি&ল করো"
+msgid "%1 (%2%)"
+msgstr ""
 
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "Black"
+msgid "%1 %2 (%3)"
+msgstr ""
 
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "Bold"
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
 
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "এগিয়ে চলো"
+msgid "%1 and %2"
+msgstr ""
 
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "ফোল্ডার"
+msgid "%1 bytes"
+msgstr ""
 
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "গ্রুপ"
+msgid "1 day"
+msgstr "১ দিন"
 
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "আইকন:"
+msgid "%1 does not exist"
+msgstr ""
 
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "Italic"
+msgid "%1 free"
+msgstr "%1 ফাঁকা"
 
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "Medium"
+msgid "1 hour"
+msgstr ""
 
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "বার্তা"
+msgid "%1 Hz"
+msgstr ""
 
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "পূর্ববর্তী"
+msgid "%1 MB"
+msgstr ""
 
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "নতুন নামে সংরক্ষণ করো..."
+msgid "%1 ms"
+msgstr ""
 
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "প্রস্থ"
+msgid "%1 of %2"
+msgstr ""
 
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "যো&গ করো..."
+msgid "%1 on %2"
+msgstr "%2-এর উপরে %1"
 
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "সংরক্ষণ &করো"
+msgid "%1 s"
+msgstr ""
 
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "অ্যাপলিকেশন"
+msgid "%1 seconds"
+msgstr ""
 
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "বর্তমান রক্ষণাবেক্ষণকারী"
+msgid "%1 to %2"
+msgstr ""
 
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "দৈর্ঘ্য"
+msgid "10"
+msgstr "১০"
 
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "মোড"
+msgid "10 minutes"
+msgstr "১০ মিনিট"
 
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "আউটপুট"
+msgid "100"
+msgstr "১০০"
 
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "পাথ:"
+msgid "100%"
+msgstr "১০০%"
 
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "স্টাইল"
+msgid "11"
+msgstr "11"
 
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "বিবর্ধন"
+msgid "12"
+msgstr "12"
 
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "ছোট করে প্রদর্শন"
+msgid "%1/%2"
+msgstr ""
 
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "খেলা (&খ)"
+msgid "%1:%2"
+msgstr ""
 
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&সন্ধান"
+msgid "128 bit"
+msgstr ""
 
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "ডকুমেন্টেশন"
+msgid "14"
+msgstr "14"
 
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "ফাইলের নাম"
+msgid "15 minutes"
+msgstr ""
 
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "ফোল্ডার"
+msgid "150%"
+msgstr "১৫০%"
 
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "ছবি"
+msgid "16"
+msgstr "16"
 
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "প্রস্থান করো"
+msgid "%1m"
+msgstr ""
 
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "বছর"
+msgid "%1/s"
+msgstr "%1/সেকণ্ড"
 
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " px"
+msgid "1st"
+msgstr "১ম"
 
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "বু&কমার্ক"
+msgid "%1x%2"
+msgstr "%1x%2"
 
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "সাধা&রণ"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "&নতুন..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "খোলো (&খ)"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "&থামো"
-
-#. Occurs in 11 KDE PO files
 msgid "2"
 msgstr "২"
 
-#. Occurs in 11 KDE PO files
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "২০০%"
+
+msgid "25%"
+msgstr ""
+
+msgid "2nd"
+msgstr "২য়"
+
+msgid "3"
+msgstr "৩"
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "300%"
+msgstr "৩০০%"
+
+msgid "3rd"
+msgstr "৩য়"
+
+msgid "4"
+msgstr "৪"
+
+msgid "400%"
+msgstr "৪০০%"
+
+msgid "4th"
+msgstr "৪র্থ"
+
+msgid "5"
+msgstr "৫"
+
+msgid "5 minutes"
+msgstr ""
+
+msgid "50%"
+msgstr "৫০%"
+
+msgid "5th"
+msgstr "৫ম"
+
+msgid "6"
+msgstr "৬"
+
+msgid "7"
+msgstr "৭"
+
+msgid "75%"
+msgstr "৭৫%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "অ"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "\"%1\" নামক একটি ফাইল আগে থেকেই আছে। আপনি কি সেটি মুছে লিখতে চান?"
+
+msgid "A4"
+msgstr ""
+
+msgid "Abort"
+msgstr ""
+
+msgid "&Abort"
+msgstr "&শেষ"
+
+msgid "Aborted"
+msgstr ""
+
+msgid "About"
+msgstr "পরিচিতি"
+
+msgid "&About"
+msgstr ""
+
+msgid "_About"
+msgstr "পরিচিতি (_A)"
+
+msgid "About %1"
+msgstr ""
+
+msgid "About KDE"
+msgstr "কে.ডি.ই. পরিচিতি"
+
+msgid "Abstract"
+msgstr ""
+
+msgid "Accept"
+msgstr "গ্রহণ করুন"
+
+msgid "Accepted"
+msgstr ""
+
+msgid "Accessed"
+msgstr ""
+
+msgid "Accessibility"
+msgstr "সহায়ক প্রযুক্তি"
+
+msgid "Account"
+msgstr ""
+
+msgid "Account Details"
+msgstr ""
+
+msgid "Account Information"
+msgstr ""
+
+msgid "Account Name"
+msgstr ""
+
+msgid "Accounts"
+msgstr ""
+
+msgid "Accuracy"
+msgstr "নির্ভুলতা"
+
 msgid "Action"
 msgstr "কাজ"
 
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "শ্রেণী"
+msgid "Actions"
+msgstr "কাজ"
 
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "গোত্র:"
+msgid "Activate"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "ফিল্টার:"
+msgid "Active"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "উচ্চতা"
+msgid "Activities"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "আইকনসমূহ"
+msgid "Activity"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "রেখা"
+msgid "Adaptive"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "সরাও"
+msgid "Add"
+msgstr "যোগ করো"
 
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "ফাইল মুছে লিখব?"
+msgid "&Add"
+msgstr "যো&গ করো"
 
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "পুনরায় আরম্ভ"
+msgid "_Add"
+msgstr "যোগ (_A)"
 
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "চালাও"
+msgid "Add..."
+msgstr "যোগ করো..."
 
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "সন্ধান করো:"
+msgid "&Add..."
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "ইউ-আর-এল"
+msgid "A&dd..."
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "ইউ-আর-এল:"
+msgid "Add Account"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "ব্যবহারকারী:"
+msgid "Add Bookmark"
+msgstr ""
 
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
+msgid "_Add Bookmark"
+msgstr "বুকমার্ক যোগ (_A)"
 
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "মিনিট"
+msgid "Add Filter"
+msgstr "ফিল্টার যোগ করো"
 
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "কপি করো (&ক)"
+msgid "Add Folder"
+msgstr "ফোল্ডার যোগ"
 
-#. Occurs in 10 KDE PO files
+msgid "Add Folder..."
+msgstr "ফোল্ডার যোগ করো..."
+
+msgid "Add Group"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add Rule..."
+msgstr ""
+
+msgid "Add Tag"
+msgstr ""
+
+msgid "Add tag"
+msgstr ""
+
+msgid "Add to Dictionary"
+msgstr ""
+
+msgid "Add to Favorites"
+msgstr ""
+
+msgid "Added"
+msgstr ""
+
+msgid "Addition"
+msgstr "যোগ"
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "Address"
+msgstr "ঠিকানা"
+
+msgid "Address Book"
+msgstr "ঠিকানা তালিকা"
+
+msgid "Addresses"
+msgstr ""
+
+msgid "Adjust"
+msgstr ""
+
+msgid "Advanced"
+msgstr "অগ্রসর"
+
+msgid "Advanced..."
+msgstr "উচ্চপর্যায়..."
+
+msgid "Ad_vanced..."
+msgstr ""
+
+msgid "Advanced options"
+msgstr "উচ্চ পর্যায়ের অপশন"
+
+msgid "Advanced Properties"
+msgstr ""
+
+msgid "Advanced Settings"
+msgstr "উচ্চপর্যায়ের সেটিংস"
+
+msgid "Adwaita"
+msgstr ""
+
+msgid "Afghanistan"
+msgstr "আফগানিস্থান"
+
+msgid "Africa"
+msgstr "আফ্রিকা"
+
+msgid "Afrikaans"
+msgstr "আফ্রিকান্‌স"
+
+msgid "After"
+msgstr ""
+
+msgid "Agenda"
+msgstr ""
+
+msgid "Alarm"
+msgstr ""
+
+msgid "Alarms"
+msgstr ""
+
+msgid "Albania"
+msgstr "আলবানিয়া"
+
+msgid "Albanian"
+msgstr ""
+
+msgid "Albert Vaca Cintora"
+msgstr ""
+
 msgid "Album"
 msgstr "অ্যালবাম"
 
-#. Occurs in 10 KDE PO files
+msgid "Album Artist"
+msgstr "সংকলন-শিল্পী"
+
+msgid "Albums"
+msgstr "অ্যালবামসমূহ"
+
+msgid "Alert"
+msgstr "সাবধান"
+
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+msgid "Algeria"
+msgstr "আলজেরিয়া"
+
+msgid "Algorithm"
+msgstr "অ্যালগরিদম"
+
+msgid "Alias"
+msgstr ""
+
+msgid "Aliases"
+msgstr ""
+
+msgid "Align"
+msgstr "প্রান্তিকীকরণ"
+
+msgid "Align Bottom"
+msgstr ""
+
+msgid "Align Center"
+msgstr ""
+
+msgid "Align Left"
+msgstr ""
+
+msgid "Align left"
+msgstr "বাম প্রান্তিককরণ"
+
+msgid "Align Right"
+msgstr ""
+
+msgid "Align right"
+msgstr "ডান প্রান্তিককরণ"
+
+msgid "Align Top"
+msgstr ""
+
+msgid "Alignment"
+msgstr "প্রান্তিকীকরণ"
+
+msgid "All"
+msgstr "সব"
+
+msgid "all"
+msgstr ""
+
+msgid "_All"
+msgstr "সব (_A)"
+
+msgid "All Files"
+msgstr "সকল ফাইল"
+
+msgid "All files"
+msgstr "সব ফাইল"
+
+msgid "All Files (*)"
+msgstr ""
+
+msgid "All files (*)"
+msgstr ""
+
+msgid "All Supported Files"
+msgstr "সব সমর্থিত ফাইল"
+
+msgid "Allen Winter"
+msgstr ""
+
+msgid "Allow"
+msgstr "অনুমতি দিন"
+
+msgid "Allow Deflate compression"
+msgstr ""
+
+msgid "Alpha"
+msgstr "আলফা"
+
+msgid "Alphabetically"
+msgstr "বর্ণানুক্রমে"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr ""
+
+msgid "Always"
+msgstr "সবসময়"
+
+msgid "Always ask"
+msgstr ""
+
+msgid "Always visible"
+msgstr ""
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Ambient"
+msgstr "মনোরম"
+
+msgid "Amount"
+msgstr "পরিমাণ"
+
+msgid "An error occurred"
+msgstr "একটি ত্রুটি দেখা দিয়েছে"
+
+msgid "An unknown error occurred."
+msgstr "অজানা ত্রুটি হয়েছে।"
+
+msgid "Analysis"
+msgstr ""
+
+msgid "Anchor"
+msgstr "নোঙ্গর"
+
+msgid "AND"
+msgstr ""
+
+msgid "and"
+msgstr "এবং"
+
+msgid "Andorra"
+msgstr "অ্যান্ডোরা"
+
+msgid "Andrius Štikonas"
+msgstr ""
+
+msgid "Angle"
+msgstr "কোণ"
+
+msgid "angle"
+msgstr "কোণ"
+
+msgid "Angola"
+msgstr "অ্যাঙ্গোলা"
+
+msgid "Animation"
+msgstr "অ্যানিমেশন"
+
+msgid "Animations"
+msgstr "অ্যানিমেশন"
+
+msgid "Anniversary"
+msgstr "বার্ষিকী"
+
+msgid "Annotate"
+msgstr ""
+
+msgid "Annotation"
+msgstr ""
+
+msgid "Annotations"
+msgstr ""
+
+msgid "Anonymous"
+msgstr "অজ্ঞাত"
+
+msgid "Antarctica"
+msgstr "অ্যান্টার্কটিকা"
+
+msgid "Any"
+msgstr ""
+
+msgid "Aperture"
+msgstr ""
+
+msgid "Appearance"
+msgstr "অবয়ব"
+
+msgid "Append"
+msgstr ""
+
+msgid "AppImage"
+msgstr ""
+
+msgid "Application"
+msgstr "অ্যাপ্লিকেশন"
+
+msgid "Application does not accept documents on command line"
+msgstr "অ্যাপ্লিকেশন কমান্ড লাইনে নথি গ্রহণ করেনা"
+
+msgid "Application Menu"
+msgstr ""
+
+msgid "Applications"
+msgstr "অ্যাপলিকেশন"
+
+msgid "Apply"
+msgstr "প্রয়োগ করুন"
+
+msgid "&Apply"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "Apply Settings"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "Arabic"
+msgstr "আরবী"
+
+msgid "Archive"
+msgstr ""
+
+msgid "Archives"
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "Argentina"
+msgstr "আর্জেনটিনা"
+
+msgid "Arguments"
+msgstr ""
+
+msgid "Armenia"
+msgstr "আর্মেনিয়া"
+
+msgid "Armenian"
+msgstr "আর্মেনিয়ান"
+
+msgid "Arrow"
+msgstr "তীর"
+
+msgid "Arrows"
+msgstr "Arrows"
+
+msgid "Articles"
+msgstr "পদাশ্রিত নির্দেশক"
+
+msgid "Artist"
+msgstr "শিল্পী"
+
+msgid "Artists"
+msgstr "শিল্পী"
+
+msgid "Artwork"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Asia"
+msgstr "এশিয়া"
+
+msgid "Ask"
+msgstr "জিজ্ঞাসা করো"
+
+msgid "Aspect Ratio"
+msgstr "দৃষ্টিকোণের অনুপাত"
+
+msgid "Aspect ratio"
+msgstr "দৃষ্টিকোণের অনুপাত"
+
+msgid "Assamese"
+msgstr ""
+
+msgid "Assign Tags"
+msgstr ""
+
+msgid "Assistant"
+msgstr "সহায়ক"
+
+msgid "ATM"
+msgstr ""
+
+msgid "Attach"
+msgstr ""
+
+msgid "Attach File"
+msgstr ""
+
+msgid "Attachment"
+msgstr "সংযোজন"
+
+msgid "Attachments"
+msgstr "সংযুক্তি"
+
+msgid "Attendees"
+msgstr ""
+
+msgid "Attribute"
+msgstr "বৈশিষ্ট্য"
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Audio"
+msgstr "অডিও"
+
+msgid "Audio CD"
+msgstr "অডিও CD"
+
+msgid "Audio Codec"
+msgstr ""
+
+msgid "Audio files"
+msgstr "অডিও ফাইল"
+
+msgid "August"
+msgstr ""
+
+msgid "Australia"
+msgstr "অস্ট্রেলিয়া"
+
+msgid "Austria"
+msgstr "অস্ট্রিয়া"
+
+msgid "Authenticate"
+msgstr "প্রমাণীকরণ"
+
+msgid "Authenticate VPN"
+msgstr ""
+
+msgid "Authentication"
+msgstr ""
+
+msgid "Authentication Required"
+msgstr ""
+
+msgid "Author"
+msgstr "লেখক"
+
+msgid "Authors"
+msgstr ""
+
+msgid "Auto"
+msgstr "স্বয়ংক্রিয়"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "Auto Detect"
+msgstr ""
+
+msgid "Auto Save"
+msgstr ""
+
+msgid "Autodetect"
+msgstr "স্বয়ংক্রিয়"
+
+msgid "Automatic"
+msgstr "স্বয়ংক্রিয়"
+
+msgid "Autosave interval"
+msgstr "স্বয়ংক্রিয় সংরক্ষণ বিরতি"
+
+msgid "Available"
+msgstr "উপস্থিত"
+
+msgid "A&vailable actions"
+msgstr "&সম্ভাব্য কাজ"
+
+msgid "Average"
+msgstr ""
+
+msgid "Axes"
+msgstr "অক্ষ"
+
+msgid "Azerbaijan"
+msgstr "আজারবাইজান"
+
+msgid "Azerbaijani"
+msgstr ""
+
+msgid "B"
+msgstr ""
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "পিছনে"
+
+msgid "&Back"
+msgstr "পিছিয়ে যা&ও"
+
+msgid "_Back"
+msgstr "পূর্ববর্তী (_B)"
+
+msgid "Background"
+msgstr "পটভূমি"
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Background color"
+msgstr "পটভূমির রং"
+
+msgid "&Background color"
+msgstr ""
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr ""
+
+msgid "Bahamas"
+msgstr "বাহামাস"
+
+msgid "Bahrain"
+msgstr "বাহরাইন"
+
+msgid "Balance"
+msgstr ""
+
+msgid "Balanced"
+msgstr ""
+
+msgid "Baltic"
+msgstr "বল্টিক"
+
+msgid "Bangladesh"
+msgstr "বাংলাদেশ"
+
+msgid "Bank"
+msgstr ""
+
+msgid "Bar"
+msgstr "বার"
+
+msgid "Barbados"
+msgstr "বারবাডোস"
+
+msgid "Base"
+msgstr ""
+
+msgid "Basic"
+msgstr "মৌলিক"
+
+msgid "Basque"
+msgstr "বাস্ক"
+
+msgid "Bass"
+msgstr ""
+
+msgid "Battery"
+msgstr "ব্যাটারি"
+
+msgid "Bcc"
+msgstr ""
+
+msgid "Before"
+msgstr ""
+
+msgid "Behavior"
+msgstr "আচরণ"
+
+msgid "Belarus"
+msgstr "বেলারুস"
+
+msgid "Belarusian"
+msgstr "বেলারুশিয়"
+
+msgid "Belgium"
+msgstr "বেলজিয়াম"
+
+msgid "Belize"
+msgstr "বেলিজে"
+
+msgid "Bengali"
+msgstr "বাংলা"
+
+msgid "Benin"
+msgstr "বেনিন"
+
+msgid "Best"
+msgstr ""
+
+msgid "Bhutan"
+msgstr "ভুটান"
+
+msgid "Bibliography"
+msgstr "গ্রন্থপঞ্জি"
+
+msgid "Binary"
+msgstr "বাইনারি"
+
+msgid "Birthday"
+msgstr "জন্মদিন"
+
+msgid "Bitrate"
+msgstr "বিটরেট"
+
+msgid "Black"
+msgstr "Black"
+
+msgid "black"
+msgstr "কালো"
+
+msgid "Blend"
+msgstr "মিশ্রণ"
+
+msgid "Block"
+msgstr "ব্লক"
+
+msgid "Block Elements"
+msgstr "ব্লক এলিমেন্ট"
+
+msgid "Blocked"
+msgstr "ব্লক করা"
+
+msgid "Blue"
+msgstr "নীল"
+
+msgid "Blues"
+msgstr "ব্লুজ"
+
+msgid "Bluetooth"
+msgstr ""
+
+msgid "Blur"
+msgstr "অস্পষ্টতা"
+
+msgid "<b>Name:</b>"
+msgstr "<b>নাম:</b>"
+
+msgid "Body"
+msgstr ""
+
+msgid "Bold"
+msgstr "গাঢ়"
+
+msgid "&Bold"
+msgstr "&Bold"
+
+msgid "_Bold"
+msgstr ""
+
+msgid "Bold text"
+msgstr ""
+
+msgid "Bolivia"
+msgstr "বোলিভিয়া"
+
+msgid "Book"
+msgstr ""
+
+msgid "Bookmark"
+msgstr "বুকমার্ক"
+
+msgid "Bookmarks"
+msgstr "বুকমার্ক"
+
+msgid "&Bookmarks"
+msgstr "বু&কমার্ক"
+
+msgid "_Bookmarks"
+msgstr "বুকমার্ক (_B)"
+
+msgid "Boolean"
+msgstr "বুলিয়ান"
+
+msgid "Border"
+msgstr "সীমানা"
+
+msgid "Bosnian"
+msgstr ""
+
+msgid "Both"
+msgstr "উভয়"
+
+msgid "Botswana"
+msgstr "বোতসোওয়ানা"
+
+msgid "Bottom"
+msgstr "নীচে"
+
+msgid "_Bottom"
+msgstr ""
+
+msgid "Bottom Left"
+msgstr ""
+
+msgid "Bottom Right"
+msgstr "ডান দিকের নিচে"
+
+msgid "Bottom-left"
+msgstr ""
+
+msgid "Bottom-right"
+msgstr ""
+
+msgid "Box"
+msgstr ""
+
+msgid "BPM"
+msgstr ""
+
+msgid "Branch"
+msgstr ""
+
+msgid "Brazil"
+msgstr "ব্রাজিল"
+
+msgid "Breeze"
+msgstr ""
+
+msgid "Breeze by the KDE VDG"
+msgstr ""
+
+msgid "Breeze Dark"
+msgstr ""
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr ""
+
+msgid "Breton"
+msgstr "ব্রেটন"
+
+msgid "Brian Croom"
+msgstr ""
+
+msgid "Bridge"
+msgstr ""
+
+msgid "Brightness"
+msgstr "উজ্জ্বলতা"
+
+msgid "Broken"
+msgstr "অচল"
+
+msgid "Browse"
+msgstr "ব্রাউজ"
+
+msgid "Browse..."
+msgstr "ব্রাউজ…"
+
+msgid "_Browse..."
+msgstr "ব্রাউজ করুন... (_B)"
+
+msgid "Browser"
+msgstr "ব্রাউজার"
+
+msgid "Buffer"
+msgstr "বাফার"
+
+msgid "Bug fixes"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
+msgid "Built-in Screen"
+msgstr ""
+
+msgid "Bulgaria"
+msgstr "বুলগারিয়া"
+
+msgid "Bulgarian"
+msgstr "বুলগেরিয়"
+
+msgid "Burkina Faso"
+msgstr "বার্কিনা ফাসো"
+
+msgid "Burn"
+msgstr "বার্ণ"
+
+msgid "Burundi"
+msgstr "বুরুন্ডি"
+
+msgid "Bus"
+msgstr "বাস"
+
+msgid "Busy"
+msgstr "ব্যস্ত"
+
+msgid "Butt"
+msgstr "বাট"
+
+msgid "Button"
+msgstr "বোতাম"
+
+msgid "Buttons"
+msgstr ""
+
+msgid "by"
+msgstr "দ্বারা"
+
+msgid "By %1"
+msgstr ""
+
+msgid "By extension"
+msgstr "এক্সটেনশন এর মাধ্যমে"
+
+msgid "Bytes"
+msgstr ""
+
+msgid "bytes"
+msgstr ""
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr ""
+
+msgid "Cache"
+msgstr ""
+
+msgid "Calculate"
+msgstr "গণনা করো"
+
+msgid "Calculating..."
+msgstr ""
+
+msgid "Calculator"
+msgstr "ক্যালকুলেটর"
+
+msgid "Calendar"
+msgstr "ক্যালেন্ডার"
+
+msgid "Calendars"
+msgstr ""
+
+msgid "Call"
+msgstr ""
+
+msgid "Calls"
+msgstr ""
+
+msgid "Cambodia"
+msgstr "কম্বোডিয়া"
+
+msgid "Camera"
+msgstr "ক্যামেরা"
+
+msgid "Cameroon"
+msgstr "ক্যামেরুন"
+
+msgid "Canada"
+msgstr "কানাডা"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "&Cancel"
+msgstr "বাতি&ল করো"
+
+msgid "_Cancel"
+msgstr "বাতিল"
+
 msgid "C&ancel"
 msgstr "বাতি&ল"
 
-#. Occurs in 10 KDE PO files
+msgid "Canceled"
+msgstr "বাতিল করা হয়েছে"
+
+msgid "Cancelled"
+msgstr "বাতিল"
+
+msgid "cannot load editor plugin: %s"
+msgstr ""
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "একটি 'Type=Link' ডেস্কটপ এন্ট্রিতে নথি URI পাঠানো যায়নি"
+
+msgid "Canvas"
+msgstr "ক্যানভাস"
+
+msgid "Capabilities"
+msgstr ""
+
+msgid "Capacity"
+msgstr "ধারণক্ষমতা"
+
+msgid "Cape Verde"
+msgstr "কেপ ভার্দে"
+
+msgid "Capitalize"
+msgstr ""
+
+msgid "Caps Lock is on"
+msgstr ""
+
+msgid "Capture"
+msgstr ""
+
+msgid "Car"
+msgstr ""
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "ক্যাসকেড লকস্"
+
+msgid "Case Sensitive"
+msgstr ""
+
+msgid "Case sensitive"
+msgstr ""
+
+msgid "Castle"
+msgstr ""
+
+msgid "Catalan"
+msgstr "ক্যাটালান"
+
+msgid "Categories"
+msgstr "শ্রেণীবিভাগ"
+
+msgid "Category"
+msgstr "শ্রেণী"
+
+msgid "CC"
+msgstr ""
+
+msgid "Cc"
+msgstr ""
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr ""
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "ঘর"
+
+msgid "Celsius"
+msgstr "সেলসিয়াস"
+
+msgid "Celtic"
+msgstr "সেলটিক"
+
+msgid "Center"
+msgstr "কেন্দ্র"
+
+msgid "Centered"
+msgstr "কেন্দ্রস্থিত"
+
+msgid "Centimeters"
+msgstr "সেন্টিমিটার"
+
+msgid "Centimeters (cm)"
+msgstr ""
+
+msgid "Central"
+msgstr ""
+
+msgid "Central African Republic"
+msgstr "মধ্য আফ্রিকান রিপাবলিক"
+
+msgid "Central European"
+msgstr "মধ্য ইউরোপিয়ান"
+
+msgid "Certificate"
+msgstr "সার্টিফিকেট"
+
+msgid "Certificates (TLS)"
+msgstr ""
+
+msgid "Chad"
+msgstr "চাদ"
+
+msgid "Change"
+msgstr ""
+
+msgid "Change..."
+msgstr ""
+
+msgid "Changed"
+msgstr ""
+
+msgid "Channel"
+msgstr "চ্যানেল"
+
+msgid "Channels"
+msgstr "চ্যানেল"
+
+msgid "CHAP"
+msgstr ""
+
+msgid "Chapter"
+msgstr ""
+
+msgid "Chapters"
+msgstr "অধ্যায়"
+
+msgid "Character"
+msgstr "অক্ষর"
+
+msgid "Characters"
+msgstr ""
+
+msgid "Charging"
+msgstr "চার্জ করা হচ্ছে"
+
+msgid "Chart"
+msgstr "লেখচিত্র"
+
+msgid "Chat"
+msgstr "আড্ডা"
+
+msgid "Check"
+msgstr ""
+
+msgid "Check for updates"
+msgstr ""
+
+msgid "Check Spelling"
+msgstr "বানান পরীক্ষা করুন"
+
+msgid "Checkbox"
+msgstr "চেক-বক্স"
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Cherokee"
+msgstr "চেরোকী"
+
+msgid "Children"
+msgstr "চাইল্ড সংখ্যা"
+
+msgid "Chile"
+msgstr "চিলি"
+
+msgid "China"
+msgstr "চীন"
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Chinese Simplified"
+msgstr "চাইনিজ সরলীকৃত"
+
+msgid "Chinese Traditional"
+msgstr "চাইনিজ সনাতন"
+
+msgid "Choose"
+msgstr ""
+
+msgid "Choose..."
+msgstr ""
+
+msgid "Cinema"
+msgstr ""
+
+msgid "Circle"
+msgstr "বৃত্ত"
+
+msgid "City"
+msgstr "শহর"
+
+msgid "Class"
+msgstr "ক্লাস"
+
+msgid "Classes"
+msgstr ""
+
+msgid "Classic"
+msgstr "ক্লাসিক"
+
+msgid "Classical"
+msgstr "মার্গ সংগীত"
+
+msgid "Clean"
+msgstr ""
+
+msgid "Cleanup"
+msgstr ""
+
+msgid "Clear"
+msgstr "পরিষ্কার"
+
+msgid "&Clear"
+msgstr ""
+
+msgid "_Clear"
+msgstr "মুছে ফেলুন (_C)"
+
+msgid "C&lear"
+msgstr "ফাঁকা &করো"
+
+msgid "Clear All"
+msgstr ""
+
+msgid "Clear History"
+msgstr "ব্রাউজ-ইতিহাস মুছে ফেলা হবে"
+
+msgid "Clear history"
+msgstr ""
+
+msgid "Clear List"
+msgstr "তালিকা ফাঁকা করো"
+
+msgid "Client"
+msgstr ""
+
+msgid "Clip"
+msgstr ""
+
+msgid "Clipboard"
+msgstr "ক্লিপবোর্ড"
+
+msgid "Clock"
+msgstr "ঘড়ি (Clock)"
+
+msgid "Clockwise"
+msgstr ""
+
+msgid "Clone"
+msgstr "ক্লোন"
+
+msgid "Close"
+msgstr "বন্ধ করো"
+
+msgid "&Close"
+msgstr "&বন্ধ করো"
+
+msgid "_Close"
+msgstr "বন্ধ (_C)"
+
+msgid "Close All"
+msgstr ""
+
+msgid "Close Document"
+msgstr "নথী বন্ধ করো"
+
+msgid "Close message"
+msgstr ""
+
+msgid "Close Tab"
+msgstr "ট্যাব বন্ধ করো"
+
+msgid "Close tab"
+msgstr "ট্যাব বন্ধ"
+
+msgid "Close the current tab"
+msgstr "সক্রিয় ট্যাবটি বন্ধ করো"
+
+msgid "Close this window"
+msgstr "উইন্ডো বন্ধ করুন"
+
+msgid "Close Window"
+msgstr "উইণ্ডো বন্ধ করো"
+
+msgid "Close window"
+msgstr "উইন্ডো বন্ধ কর"
+
+msgid "Close _without Saving"
+msgstr "সংরক্ষণ না করেই বন্ধ (_w)"
+
+msgid "Closed"
+msgstr ""
+
+msgid "Cloud"
+msgstr "মেঘ"
+
+msgid "cm"
+msgstr ""
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr ""
+
+msgid "code"
+msgstr "কোড"
+
+msgid "Codec"
+msgstr ""
+
+msgid "Collapse"
+msgstr ""
+
+msgid "Collapse All"
+msgstr ""
+
+msgid "Collection"
+msgstr "সংগ্রহ"
+
+msgid "Collections"
+msgstr ""
+
+msgid "Colombia"
+msgstr "কলম্বিয়া"
+
+msgid "Color"
+msgstr "রং"
+
+msgid "color"
+msgstr ""
+
+msgid "&Color"
+msgstr ""
+
+msgid "Color Balance"
+msgstr "রংয়ের ভারসাম্য"
+
+msgid "Color Management"
+msgstr "রংয়ের ব্যবস্থাপনা"
+
+msgid "Color Mode"
+msgstr ""
+
+msgid "Color Picker"
+msgstr "রং বাছাইকারক"
+
+msgid "Color Scheme"
+msgstr ""
+
+msgid "Color scheme"
+msgstr ""
+
+msgid "Color Space"
+msgstr ""
+
+msgid "Color theme"
+msgstr ""
+
+msgid "Colorize"
+msgstr "রঞ্জিত"
+
+msgid "Colors"
+msgstr "রং"
+
+msgid "Column"
+msgstr "কলাম"
+
+msgid "Column %1"
+msgstr ""
+
+msgid "Columns"
+msgstr "কলাম"
+
+msgid "Comma"
+msgstr ""
+
+msgid "COMMAND"
+msgstr "আদেশ/কমান্ড"
+
+msgid "Command"
+msgstr "কমান্ড"
+
+msgid "command"
+msgstr "আদেশ"
+
+msgid "Command Line"
+msgstr "কমান্ড লাইন"
+
+msgid "Command to execute"
+msgstr "যে কমান্ড চালানো হবে"
+
+msgid "Commands"
+msgstr ""
+
+msgid "Comment"
+msgstr "মন্তব্য"
+
+msgid "Comments"
+msgstr ""
+
+msgid "Commit"
+msgstr ""
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Comoros"
+msgstr "কোমোরোস"
+
+msgid "Compact"
+msgstr ""
+
+msgid "Compare"
+msgstr ""
+
+msgid "Complete"
+msgstr "সম্পন্ন"
+
+msgid "Completed"
+msgstr ""
+
+msgid "Completion"
+msgstr "সম্পূর্ণকরণ"
+
+msgid "Component"
+msgstr "অংশবিশেষ"
+
+msgid "Components"
+msgstr ""
+
+msgid "Composer"
+msgstr "রচনাক্ষেত্র"
+
+msgid "Composition"
+msgstr "গঠন"
+
+msgid "Compress"
+msgstr "সংকোচন"
+
+msgid "Compression"
+msgstr ""
+
+msgid "Computer"
+msgstr "কম্পিউটার"
+
+msgid "Condition"
+msgstr ""
+
+msgid "Confidential"
+msgstr ""
+
+msgid "Configuration"
+msgstr "কনফিগারেশন"
+
+msgid "Configure"
+msgstr "কনফিগার করো"
+
+msgid "Configure..."
+msgstr ""
+
+msgid "Configure %1"
+msgstr "%1 কনফিগার করো"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "কীবোর্ডের শর্টকাট কনফিগার করুন"
+
+msgid "Configure Plugins"
+msgstr "প্লাগ-ইন কনফিগার করুন"
+
+msgid "Configure Toolbars"
+msgstr ""
+
+msgid "Configure Web Shortcuts..."
+msgstr ""
+
+msgid "Confirm"
+msgstr "নিশ্চিত করুন"
+
+msgid "Confirmation"
+msgstr "অনুমোদন"
+
+msgid "Confirmation Required"
+msgstr ""
+
+msgid "Confirmed"
+msgstr ""
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "স্ট্যাণ্ডার্ড অ্যাপলিকেশন শর্টকাটের সঙ্গে বিরোধ"
+
+msgid "Connect"
+msgstr ""
+
+msgid "C_onnect"
+msgstr "সংযোগ"
+
+msgid "Connected"
+msgstr "সংযুক্ত"
+
+msgid "Connecting"
+msgstr ""
+
+msgid "Connecting..."
+msgstr "সংযোগ স্থাপন করা হচ্ছে..."
+
+msgid "Connection"
+msgstr ""
+
+msgid "Connection Failed"
+msgstr ""
+
+msgid "Connection Settings"
+msgstr ""
+
+msgid "Connections"
+msgstr ""
+
+msgid "Console"
+msgstr "কনসোল"
+
+msgid "Constant"
+msgstr "কনস্ট্যান্ট"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Contacts"
+msgstr "পরিচিতি"
+
+msgid "Container"
+msgstr ""
+
+msgid "Contains"
+msgstr ""
+
+msgid "contains"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Content Type"
+msgstr ""
+
+msgid "Contents"
+msgstr "বিষয়বস্তু"
+
+msgid "_Contents"
+msgstr "বিষয়বস্তু (_C)"
+
+msgid "Context"
+msgstr "প্রসঙ্গ"
+
+msgid "Continue"
+msgstr "চালিয়ে যান"
+
+msgid "_Continue"
+msgstr "এগিয়ে চলুন (_C)"
+
+msgid "Contrast"
+msgstr "বৈসাদৃশ্য (কনট্রাস্ট)"
+
+msgid "Contributor"
+msgstr ""
+
+msgid "Control"
+msgstr "কন্ট্রোল"
+
+msgid "Convert"
+msgstr ""
+
+msgid "Convert to Path"
+msgstr ""
+
+msgid "Cookies"
+msgstr "কুকি"
+
+msgid "Coordinates"
+msgstr ""
+
+msgid "Copied to clipboard"
+msgstr ""
+
+msgid "Coptic"
+msgstr "Coptic"
+
+msgid "Copy"
+msgstr "অনুলিপি"
+
+msgid "copy"
+msgstr "অনুলিপি করুন"
+
+msgid "&Copy"
+msgstr "কপি করো (&ক)"
+
+msgid "_Copy"
+msgstr "অনুলিপি (_C)"
+
+msgid "Copy Email Address"
+msgstr "ই-মেইল ঠিকানা কপি করো"
+
+msgid "&Copy Here"
+msgstr "&এখানে কপি করো"
+
+msgid "Copy Image"
+msgstr ""
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Link Address"
+msgstr "লিঙ্ক ঠিকানা কপি করো"
+
+msgid "_Copy Link Address"
+msgstr "লিঙ্ক-এর ঠিকানা কপি করুন (_C)"
+
+msgid "Copy Location"
+msgstr ""
+
+msgid "Copy of %1"
+msgstr ""
+
+msgid "Copy selection to clipboard"
+msgstr "নির্বাচন ক্লীপবোর্ডে কপি করো"
+
+msgid "Copy Text"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr ""
+
+msgid "Copy to clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copying files"
+msgstr "ফাইল কপি করা হচ্ছে"
+
+msgid "Copyright"
+msgstr "কপিরাইট"
+
+msgid "Cost"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "কোস্টা রিকা"
+
+msgid "Could not open %1"
+msgstr ""
+
+msgid "Could not open file."
+msgstr ""
+
+msgid "Count"
+msgstr "গণনা"
+
+msgid "Counter"
+msgstr ""
+
+msgid "Country"
+msgstr "দেশ"
+
+msgid "CPU"
+msgstr "সিপিইউ"
+
+msgid "Create"
+msgstr "তৈরি করুন"
+
+msgid "C_reate"
+msgstr "নির্মাণ করুন (_r)"
+
+msgid "Create Folder"
+msgstr ""
+
+msgid "Create New"
+msgstr "নতুন তৈরি করো"
+
+msgid "Created"
+msgstr "নির্মাণের তারিখ"
+
+msgid "Creation Date"
+msgstr ""
+
+msgid "Creation date"
+msgstr ""
+
+msgid "Creator"
+msgstr ""
+
+msgid "Credentials"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Criteria"
+msgstr ""
+
+msgid "Critical"
+msgstr "গুরুতর"
+
+msgid "Croatia"
+msgstr "ক্রোয়েশিয়া"
+
+msgid "Croatian"
+msgstr "ক্রোয়েশিয়ান"
+
+msgid "Crop"
+msgstr "অংশ কাটো"
+
+msgid "Crop image"
+msgstr "ছাঁটা ছবি"
+
+msgid "Cross"
+msgstr ""
+
+msgid "CSV"
+msgstr ""
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr ""
+
+msgid "Ctrl+O"
+msgstr ""
+
+msgid "Cuba"
+msgstr "কিউবা"
+
+msgid "Currency"
+msgstr ""
+
+msgid "Current"
+msgstr "বর্তমান"
+
+msgid "Current Maintainer"
+msgstr "বর্তমান রক্ষণাবেক্ষণকারী"
+
+msgid "Current maintainer"
+msgstr "বর্তমান রক্ষণাবেক্ষণকারী"
+
+msgid "Cursor"
+msgstr "কার্সর"
+
+msgid "Curve"
+msgstr ""
+
+msgid "Curves"
+msgstr "বক্ররেখা"
+
+msgid "Custom"
+msgstr "স্বনির্ধারিত"
+
+msgid "Custom..."
+msgstr ""
+
+msgid "Custom Font"
+msgstr "স্বনির্বাচিত ফন্ট"
+
+msgid "Cut"
+msgstr "কাটা"
+
+msgid "Cu&t"
+msgstr "কাটো (&ট)"
+
+msgid "Cu_t"
+msgstr "কাটা (_t)"
+
+msgid "Cyan"
+msgstr "সায়ান"
+
+msgid "Cyprus"
+msgstr "সাইপ্রাস"
+
+msgid "Cyrillic"
+msgstr "সিরিলিক"
+
+msgid "Czech"
+msgstr "চেক"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%1$d:%2$02d"
+
+msgid "Daily"
+msgstr "দৈনিক"
+
+msgid "Dance"
+msgstr "নাচের তাল"
+
+msgid "Daniel Molkentin"
+msgstr ""
+
+msgid "Daniel Vrátil"
+msgstr ""
+
+msgid "Danish"
+msgstr "ড্যানিশ"
+
+msgid "Danny Allen"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr ""
+
+msgid "Darken"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Dashed"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Database"
+msgstr ""
+
+msgid "Date"
+msgstr "তারিখ"
+
+msgid "date"
+msgstr ""
+
+msgid "Date & Time"
+msgstr "তারিখ এবং সময়"
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "Date Format"
+msgstr ""
+
+msgid "Date Modified"
+msgstr "পরিবর্তনের তারিখ"
+
+msgid "David Edmundson"
+msgstr ""
+
+msgid "Day"
+msgstr "দিন"
+
+msgid "Days"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "day(s)"
+msgstr ""
+
+msgid "D-Bus name to use for this instance"
+msgstr ""
+
+msgid "Debug"
+msgstr "ডিবাগ"
+
+msgid "Debugger"
+msgstr ""
+
+msgid "Debugging"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Decimal"
+msgstr "দশমিক"
+
+msgid "Decline"
+msgstr "প্রত্যাখ্যান করুন"
+
+msgid "Decrease Font Size"
+msgstr ""
+
+msgid "Decrease Indent"
+msgstr "ইনডেন্ট কমাও"
+
+msgid "Decrease Volume"
+msgstr ""
+
+msgid "Decrypt"
+msgstr ""
+
+msgid "Default"
+msgstr "ডিফল্ট"
+
+msgid "default"
+msgstr "ডিফল্ট"
+
+msgid "Defaults"
+msgstr "ডিফল্ট"
+
+msgid "Definition"
+msgstr "ব্যাখ্যা"
+
+msgid "degrees"
+msgstr "ডিগ্রী"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay"
+msgstr ""
+
+msgid "Delete"
+msgstr "মুছে ফেলো"
+
+msgid "&Delete"
+msgstr "মুছে ফে&ল"
+
+msgid "_Delete"
+msgstr "মুছে ফেলা (_D)"
+
+msgid "D&elete"
+msgstr ""
+
+msgid "Delete..."
+msgstr ""
+
+msgid "Delete %1"
+msgstr ""
+
+msgid "Delete All"
+msgstr ""
+
+msgid "Delete File"
+msgstr ""
+
+msgid "Delete Folder"
+msgstr ""
+
+msgid "Delete Image"
+msgstr "ছবি মুছে ফেলো"
+
+msgid "Delete Selected"
+msgstr ""
+
+msgid "Delete selection"
+msgstr ""
+
+msgid "_Delete Toolbar"
+msgstr "টুলবার মুছে ফেলুন (_D)"
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Deletion"
+msgstr ""
+
+msgid "Delimiter"
+msgstr "ডেলিমিটার"
+
+msgid "Delta"
+msgstr "ডেল্টা"
+
+msgid "Denmark"
+msgstr "ডেনমার্ক"
+
+msgid "Density"
+msgstr ""
+
+msgid "Deny"
+msgstr "নাকচ করো"
+
+msgid "Dependencies"
+msgstr ""
+
+msgid "Depth"
+msgstr ""
+
+msgid "Desaturate"
+msgstr "ডিস্যাচুরেট"
+
+msgid "Descending"
+msgstr ""
+
+msgid "Description"
+msgstr "বিবরণ"
+
+msgid "&Description"
+msgstr ""
+
+msgid "Deselect"
+msgstr "অ-নির্বাচন করো"
+
+msgid "Deselect All"
+msgstr "কিছুই নির্বাচিত রেখো না"
+
+msgid "Desert"
+msgstr ""
+
+msgid "Desktop"
+msgstr "ডেস্কটপ"
+
+msgid "Destination"
+msgstr ""
+
+msgid "Detach"
+msgstr ""
+
+msgid "_Detach Tab"
+msgstr "ট্যাব আলাদা করা হবে (_D)"
+
+msgid "Details"
+msgstr "বিস্তারিত"
+
+msgid "&Details"
+msgstr "বিস্তারি&ত"
+
+msgid "_Details"
+msgstr "বিবরণ (_D)"
+
+msgid "Details..."
+msgstr ""
+
+msgid "Devanagari"
+msgstr "দেবনগরী"
+
+msgid "Developer"
+msgstr "ডেভেলপার"
+
+msgid "Development"
+msgstr "ডেভেলপমেন্ট"
+
+msgid "Device"
+msgstr "ডিভাইস"
+
+msgid "device"
+msgstr "ডিভাইস"
+
+msgid "Device Information"
+msgstr "ডিভাইস সংক্রান্ত তথ্য"
+
+msgid "Device Status"
+msgstr "ডিভাইসের অবস্থা"
+
+msgid "Device type"
+msgstr ""
+
+msgid "Devices"
+msgstr "ডিভাইস"
+
+msgid "Diagnostics"
+msgstr ""
+
+msgid "Diagonal"
+msgstr ""
+
+msgid "Dialog"
+msgstr "ডায়ালগ"
+
+msgid "Dialogs"
+msgstr "সংলাপ"
+
+msgid "Diamond"
+msgstr "হীরা"
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "পার্থক্য"
+
+msgid "Difficulty"
+msgstr ""
+
+msgid "Digit"
+msgstr "সংখ্যা"
+
+msgid "Dimensions"
+msgstr ""
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "Direction"
+msgstr "অভিমুখ"
+
+msgid "Directories"
+msgstr ""
+
+msgid "Directory"
+msgstr ""
+
+msgid "directory"
+msgstr "ডিরেক্টরি"
+
+msgid "Directory Name"
+msgstr ""
+
+msgid "Disable"
+msgstr "নিষ্ক্রিয় করা"
+
+msgid "Disable connection to session manager"
+msgstr "সেশন ব্যবস্থাপকের সাথে সংযোগ বিছিন্ন করুন"
+
+msgid "Disabled"
+msgstr "নিষ্ক্রিয়"
+
+msgid "disabled"
+msgstr ""
+
+msgid "Disc"
+msgstr "ডিস্ক"
+
+msgid "Disc Number"
+msgstr ""
+
+msgid "Discard"
+msgstr ""
+
+msgid "_Discard"
+msgstr "বাতিল করুন (_D)"
+
+msgid "Discard All"
+msgstr ""
+
+msgid "Discard Changes"
+msgstr "পরিবর্তন পরিত্যাগ করো"
+
+msgid "Discard changes"
+msgstr ""
+
+msgid "_Discard Changes"
+msgstr "পরিবর্তন বাতিল (_D)"
+
+msgid "Discharging"
+msgstr "চার্জ কম হচ্ছে"
+
 msgid "Disconnect"
 msgstr "সংযোগ বিচ্ছিন্ন"
 
-#. Occurs in 10 KDE PO files
+msgid "Disconnected"
+msgstr "বিচ্ছিন্ন"
+
+msgid "Discover"
+msgstr ""
+
+msgid "Discrete"
+msgstr ""
+
+msgid "Disk"
+msgstr "ডিস্ক"
+
+msgid "Dismiss"
+msgstr "বাতিল করুন"
+
+msgid "Display"
+msgstr "প্রদর্শন"
+
+msgid "Display Configuration"
+msgstr ""
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Display Settings"
+msgstr "ডিসপ্লে সেটিংস"
+
+msgid "Dissolve"
+msgstr "দ্রবীভূত"
+
+msgid "Distance"
+msgstr "দূরত্ব"
+
+msgid "Divide"
+msgstr "ভাগ"
+
+msgid "Djibouti"
+msgstr "জিবুতি"
+
+msgid "Dmitry Suzdalev"
+msgstr ""
+
+msgid "DNS"
+msgstr ""
+
+msgid "Do not ask again"
+msgstr "আর জিজ্ঞাসা করার প্রয়োজন নেই"
+
+msgid "Do Not Cancel"
+msgstr ""
+
+msgid "Do not change the actual backend data."
+msgstr ""
+
+msgid "Do not show again"
+msgstr ""
+
+msgid "Do not show this message again"
+msgstr "এই বার্তাটি আর দেখিও না"
+
+msgid "Do Nothing"
+msgstr ""
+
+msgid "Do nothing"
+msgstr ""
+
+msgid "Document"
+msgstr "নথি"
+
+msgid "Document Properties"
+msgstr ""
+
+msgid "Document to open"
+msgstr "যে ডকুমেন্টটি খোলা হবে।"
+
+msgid "Document Viewer"
+msgstr "নথি প্রদর্শক"
+
+msgid "Documentation"
+msgstr "ডকুমেন্টেশন"
+
+msgid "Documents"
+msgstr "নথি"
+
+msgid "does not contain"
+msgstr ""
+
+msgid "Dolphin"
+msgstr ""
+
+msgid "Domain"
+msgstr "ডোমেইন"
+
+msgid "Dominica"
+msgstr "ডোমিনিকা"
+
+msgid "Dominican Republic"
+msgstr "ডোমিনিকান প্রজাতন্ত্র"
+
+msgid "Donate"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Dot"
+msgstr ""
+
+msgid "Dots"
+msgstr ""
+
+msgid "Dotted"
+msgstr ""
+
+msgid "Double"
+msgstr ""
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Download"
+msgstr ""
+
+msgid "Download Manager"
+msgstr "ডাউনলোড ম্যানেজার"
+
+msgid "Downloaded"
+msgstr "ডাউনলোডকৃত"
+
+msgid "Downloading"
+msgstr "ডাউনলোড করা হচ্ছে"
+
+msgid "Downloading..."
+msgstr ""
+
+msgid "Downloads"
+msgstr "ডাউনলোডকৃত জিনিষপত্র"
+
+msgid "Dr."
+msgstr ""
+
+msgid "Draft"
+msgstr "খসড়া"
+
+msgid "Drafts"
+msgstr ""
+
+msgid "Draw"
+msgstr "অমীমাংসিত"
+
+msgid "Drive"
+msgstr "ড্রাইভ"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr ""
+
+msgid "Due Date"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "_Duplicate"
+msgstr "অনুরূপ (_D)"
+
+msgid "Duplicates"
+msgstr ""
+
+msgid "Duration"
+msgstr "অবকাল"
+
+msgid "Dutch"
+msgstr "ওলন্দাজ"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr ""
+
+msgid "EAP"
+msgstr ""
+
+msgid "East"
+msgstr "পূর্ব"
+
+msgid "Easy"
+msgstr "সহজ"
+
+msgid "Echo"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "ইকুয়েডর"
+
+msgid "Edge"
+msgstr ""
+
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+msgid "&Edit"
+msgstr "সম্পা&দনা"
+
+msgid "_Edit"
+msgstr "সম্পাদনা (_E)"
+
+msgid "Edit..."
+msgstr "সম্পাদনা..."
+
+msgid "&Edit..."
+msgstr "&সম্পাদন..."
+
+msgid "Edit %1"
+msgstr ""
+
+msgid "Edit Bookmark"
+msgstr ""
+
+msgid "Edit Filter"
+msgstr ""
+
+msgid "Edit Image"
+msgstr ""
+
+msgid "Editing"
+msgstr "সম্পাদনা"
+
+msgid "Editor"
+msgstr ""
+
+msgid "Education"
+msgstr "শিক্ষা"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Egypt"
+msgstr "মিশর"
+
+msgid "Egyptian"
+msgstr ""
+
+msgid "Eike Hein"
+msgstr ""
+
+msgid "Eject"
+msgstr ""
+
+msgid "_Eject"
+msgstr "বের করা (_E)"
+
+msgid "El Salvador"
+msgstr "এল সালভাডোর"
+
+msgid "Electronic"
+msgstr ""
+
+msgid "Element"
+msgstr "উপাদান"
+
+msgid "Ellipse"
+msgstr "উপবৃত্ত"
+
+msgid "Email"
+msgstr "ইমেইল"
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Email Address"
+msgstr "ইমেইল ঠিকানা"
+
+msgid "Email address"
+msgstr "ই-মেইল ঠিকানা"
+
+msgid "Emails"
+msgstr ""
+
+msgid "Embedded"
+msgstr "সন্নিবেশিত"
+
+msgid "Emboss"
+msgstr ""
+
+msgid "Emphasis"
+msgstr "গুরুত্ব"
+
+msgid "Empty"
+msgstr "খালি"
+
+msgid "empty"
+msgstr "ফাঁকা"
+
+msgid "(empty)"
+msgstr "(ফাঁকা)"
+
+msgid "<empty>"
+msgstr ""
+
+msgid "Empty Trash"
+msgstr "আবর্জনা ফাঁকা করো"
+
+msgid "Enable"
+msgstr "সক্রিয় করো"
+
+msgid "Enable system tray icon"
+msgstr "সিস্টেম ট্রে আইকন সক্রিয় করো"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+
+msgid "Enabled"
+msgstr "সক্রিয়"
+
+msgid "Encoder"
+msgstr ""
+
+msgid "Encoding"
+msgstr "এনকোডিং"
+
+msgid "_Encoding"
+msgstr "এনকোডিং (_E)"
+
+msgid "Encrypt"
+msgstr "এনক্রিপ্ট"
+
+msgid "&Encrypt"
+msgstr ""
+
+msgid "Encrypted"
+msgstr "এন্ক্রিপ্ট করা"
+
+msgid "Encryption"
+msgstr "এনক্রিপশন"
+
+msgid "End"
+msgstr "End"
+
+msgid "end"
+msgstr "শেষ"
+
+msgid "End Date"
+msgstr ""
+
+msgid "End Time"
+msgstr ""
+
+msgid "ends with"
+msgstr ""
+
+msgid "Energy"
+msgstr "ক্ষমতা"
+
+msgid "Engine"
+msgstr ""
+
+msgid "Engineering"
+msgstr ""
+
+msgid "English"
+msgstr "ইংরেজি"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Enter password"
+msgstr "পাসওয়ার্ড প্রবেশ করান"
+
+msgid "Entry"
+msgstr ""
+
+msgid "Environment"
+msgstr "পরিবেশ"
+
+msgid "equals"
+msgstr "সমান"
+
+msgid "Equation"
+msgstr "সমীকরণ"
+
+msgid "Equatorial Guinea"
+msgstr "ইকুয়েটোরিয়াল গিনি"
+
+msgid "Erase"
+msgstr "মুছে দেয়া"
+
+msgid "Eraser"
+msgstr "ইরেজার"
+
+msgid "Eritrea"
+msgstr "ইরিট্রিয়া"
+
+msgid "ERROR"
+msgstr "ERROR"
+
+msgid "Error"
+msgstr "ত্রুটি"
+
+msgid "error"
+msgstr "ত্রুটি"
+
 msgid "Error: %1"
 msgstr "সমস্যা: %1"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "ফাইল:"
+msgid "Error message"
+msgstr ""
 
-#. Occurs in 10 KDE PO files
+msgid "Errors"
+msgstr "ত্রুটি"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Esperanto"
+msgstr "এস্পারান্তো"
+
+msgid "Estonia"
+msgstr "এস্টোনিয়া"
+
+msgid "Estonian"
+msgstr "এস্টোনীয়"
+
+msgid "Ethiopia"
+msgstr "ইথিওপিয়া"
+
+msgid "Ethiopic"
+msgstr "Ethiopic"
+
+msgid "Europe"
+msgstr "ইউরোপ"
+
+msgid "Evaluate"
+msgstr ""
+
+msgid "Event"
+msgstr "ঘটনা"
+
+msgid "Events"
+msgstr ""
+
+msgid "Everyone"
+msgstr "সকলে"
+
+msgid "Everything"
+msgstr "সমগ্র"
+
+msgid "Exact"
+msgstr ""
+
+msgid "Example"
+msgstr "উদাহরণ"
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exception"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Exclusion"
+msgstr ""
+
+msgid "Executable"
+msgstr ""
+
+msgid "Execute"
+msgstr "সম্পাদন"
+
+msgid "Exit"
+msgstr ""
+
+msgid "Exit Full Screen"
+msgstr ""
+
+msgid "Exit Fullscreen"
+msgstr ""
+
+msgid "Exiting..."
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid "Expand All"
+msgstr ""
+
+msgid "Experimental"
+msgstr ""
+
+msgid "Expired"
+msgstr "মেয়াদ উত্তীর্ণ"
+
+msgid "Expires"
+msgstr "মেয়াদউত্তীর্ণ"
+
+msgid "Export"
+msgstr "এক্সপোর্ট করুন"
+
+msgid "&Export"
+msgstr "&রপ্তানি"
+
+msgid "_Export"
+msgstr "এক্সপোর্ট (_E)"
+
+msgid "Export..."
+msgstr "এক্সপোর্ট..."
+
+msgid "&Export..."
+msgstr "&রপ্তানি..."
+
+msgid "_Export..."
+msgstr ""
+
+msgid "E&xport..."
+msgstr "&রপ্তানি..."
+
+msgid "Export As..."
+msgstr ""
+
+msgid "Export failed"
+msgstr ""
+
+msgid "Export Options"
+msgstr ""
+
+msgid "Exposure"
+msgstr "প্রকাশ"
+
+msgid "Expression"
+msgstr ""
+
+msgid "Extended"
+msgstr "বর্ধিত"
+
+msgid "Extension"
+msgstr "প্রসারণ"
+
+msgid "Extensions"
+msgstr "এক্সটেনশন-সমূহ"
+
+msgid "Extra Toolbar"
+msgstr "অতিরিক্ত টুলবার"
+
+msgid "Extract"
+msgstr "এক্সট্র্যাক্ট করুন"
+
+msgid "F"
+msgstr ""
+
+msgid "Facebook"
+msgstr "ফেসবুক"
+
+msgid "Fade"
+msgstr "বিবর্ণ"
+
+msgid "Fahrenheit"
+msgstr "ফারেনহাইট"
+
+msgid "Failed"
+msgstr ""
+
+msgid "False"
+msgstr "মিথ্যা"
+
+msgid "false"
+msgstr "মিথ্যা"
+
+msgid "Family"
+msgstr "পরিবার"
+
+msgid "Family Name"
+msgstr "পারিবারিক নাম"
+
+msgid "Fast"
+msgstr "দ্রুত"
+
+msgid "Faster"
+msgstr ""
+
+msgid "Fatal Error"
+msgstr ""
+
+msgid "Favorite"
+msgstr ""
+
+msgid "Favorites"
+msgstr "পছন্দনীয়"
+
+msgid "Fax"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "Feeds"
+msgstr ""
+
+msgid "Felipe Kinoshita"
+msgstr ""
+
+msgid "Fetch"
+msgstr ""
+
+msgid "Fiji"
+msgstr "ফিজি"
+
+msgid "FILE"
+msgstr "FILE"
+
+msgid "File"
+msgstr "ফাইল"
+
+msgid "file"
+msgstr "ফাইল"
+
+msgid "&File"
+msgstr "ফা&ইল"
+
+msgid "_File"
+msgstr "ফাইল (_F)"
+
+msgid "[FILE...]"
+msgstr "[FILE...]"
+
+msgid "File Already Exists"
+msgstr "ফাইল আগে থেকেই আছে"
+
+msgid "File already exists"
+msgstr ""
+
+msgid "File Exists"
+msgstr "ফাইল বিদ্যমান"
+
+msgid "File Format"
+msgstr "ফাইল ফর্ম্যাট"
+
+msgid "File is not a valid .desktop file"
+msgstr "ফাইলটি একটি বৈধ .desktop file নয়"
+
+msgid "File Manager"
+msgstr "ফাইল ম্যানেজার"
+
+msgid "File Name"
+msgstr "ফাইলের নাম"
+
+msgid "File name"
+msgstr ""
+
+msgid "File Not Found"
+msgstr "ফাইল পাওয়া যায় নি"
+
+msgid "File not found"
+msgstr ""
+
+msgid "File Path"
+msgstr "ফাইল পাথ"
+
+msgid "File Properties"
+msgstr ""
+
+msgid "File Size"
+msgstr "ফাইল-এর মাপ"
+
+msgid "File size"
+msgstr ""
+
+msgid "File System"
+msgstr "ফাইল সিস্টেম"
+
+msgid "File to open"
+msgstr "যে ফাইলটি খোলা হবে"
+
+msgid "File Transfer"
+msgstr ""
+
+msgid "File Type"
+msgstr "ফাইলের ধরণ"
+
+msgid "Filename"
+msgstr "Filename"
+
 msgid "Files"
 msgstr "ফাইল"
 
-#. Occurs in 10 KDE PO files
+msgid "Filesystem"
+msgstr "%s ফাইল-সিস্টেম"
+
+msgid "Fill"
+msgstr ""
+
+msgid "Fill Color"
+msgstr "পূরক রং"
+
+msgid "Filter"
+msgstr "ফিল্টার"
+
+msgid "Filter..."
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Final"
+msgstr "চূড়ান্ত"
+
+msgid "Find"
+msgstr "খুঁজুন"
+
+msgid "&Find"
+msgstr "খোঁ&জ"
+
+msgid "_Find"
+msgstr ""
+
+msgid "F&ind"
+msgstr ""
+
+msgid "Find..."
+msgstr ""
+
+msgid "_Find..."
+msgstr "অনুসন্ধান (_F)..."
+
+msgid "Find and Replace"
+msgstr ""
+
+msgid "Find Next"
+msgstr "পরবর্তীটি খুঁজুন"
+
+msgid "Find _Next"
+msgstr "পরবর্তী উপস্থিতি অনুসন্ধান করুন :(_N)"
+
+msgid "Find Ne_xt"
+msgstr "পরবর্তীটি খুঁজুন (_x)"
+
+msgid "Find Previous"
+msgstr "পূর্ববর্তীটি খুঁজুন"
+
+msgid "Find Pre_vious"
+msgstr "পূর্ববর্তীটি খুঁজুন"
+
+msgid "Fingerprint"
+msgstr "আঙ্গুলের ছাপ"
+
+msgid "Finish"
+msgstr ""
+
+msgid "Finished"
+msgstr "সমাপ্ত"
+
+msgid "Finland"
+msgstr "ফিনল্যান্ড"
+
+msgid "Finnish"
+msgstr "ফিনিশ"
+
+msgid "First"
+msgstr "প্রথম"
+
+msgid "First Page"
+msgstr ""
+
+msgid "Fit"
+msgstr "আঁটাও"
+
+msgid "Fit Width"
+msgstr "প্রস্থ বরাবর মাপসই করুন"
+
+msgid "Fixed"
+msgstr "নির্দিষ্ট"
+
+msgid "FLAC"
+msgstr ""
+
+msgid "Flagged"
+msgstr "ফ্ল্যাগকৃত"
+
+msgid "Flags"
+msgstr " ফ্ল্যাগ"
+
+msgid "Flash"
+msgstr "ফ্ল্যাশ"
+
+msgid "Flat"
+msgstr ""
+
+msgid "Flickr"
+msgstr "ফ্লিকর"
+
+msgid "Flip"
+msgstr "উল্টানো"
+
+msgid "Flip Horizontally"
+msgstr "অনুভূমিকভাবে উল্টাও"
+
+msgid "Flip horizontally"
+msgstr "আনুভূমিকভাবে উল্টানো"
+
+msgid "Flip Vertically"
+msgstr "উলম্বভাবে উল্টাও"
+
+msgid "Flip vertically"
+msgstr "উল্লম্বভাবে উল্টানো"
+
+msgid "Float"
+msgstr "দশমিক"
+
+msgid "Floating"
+msgstr ""
+
+msgid "Flow"
+msgstr "প্রবাহ"
+
+msgid "flower"
+msgstr ""
+
+msgid "Focal Length"
+msgstr ""
+
+msgid "Focus"
+msgstr "আলোকপাত"
+
+msgid "Folder"
+msgstr "ফোল্ডার"
+
+msgid "Folder name"
+msgstr ""
+
+msgid "Folders"
+msgstr "ফোল্ডার"
+
+msgid "Folk"
+msgstr "লোক গীতি"
+
+msgid "Font"
+msgstr "ফন্ট"
+
+msgid "&Font"
+msgstr "&ফন্ট"
+
+msgid "Font Color"
+msgstr ""
+
+msgid "Font Family"
+msgstr "ফন্ট প্রজাতি"
+
+msgid "Font Size"
+msgstr "ফন্ট-এর মাপ"
+
+msgid "Font size"
+msgstr "ফন্টের আকার"
+
+msgid "Fonts"
+msgstr "ফন্ট"
+
+msgid "_Fonts"
+msgstr "ফন্ট (_F)"
+
+msgid "Food"
+msgstr ""
+
+msgid "Footer"
+msgstr "পাদলেখ"
+
+msgid "Force"
+msgstr "ক্ষমতা"
+
+msgid "Forecast"
+msgstr "পূর্বাভাস"
+
+msgid "Foreground"
+msgstr "পুরোভাগ"
+
+msgid "Foreground Color"
+msgstr ""
+
+msgid "Foreground color"
+msgstr "পুরোভাগের রং"
+
+msgid "forever"
+msgstr ""
+
+msgid "Form"
+msgstr "ফর্ম"
+
+msgid "Format"
+msgstr "বিন্যাস"
+
+msgid "Formatting"
+msgstr ""
+
+msgid "Former Maintainer"
+msgstr ""
+
+msgid "Former maintainer"
+msgstr "প্রাক্তন রক্ষণাবেক্ষণকারী"
+
+msgid "Formula"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "&Forward"
+msgstr "&এগিয়ে যাও"
+
+msgid "_Forward"
+msgstr "পরবর্তী (_F)"
+
+msgid "Fraction"
+msgstr ""
+
+msgid "Frame"
+msgstr "কাঠামো"
+
+msgid "Framerate"
+msgstr ""
+
+msgid "Frames"
+msgstr "ফ্রেম"
+
+msgid "France"
+msgstr "ফ্রান্স"
+
+msgid "Free"
+msgstr "ফাঁকা"
+
+msgid "French"
+msgstr "ফরাসী"
+
+msgid "French Guiana"
+msgstr "ফেঞ্চ গায়ানা"
+
+msgid "Frequency"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Friends"
+msgstr ""
+
+msgid "From"
+msgstr "থেকে"
+
+msgid "from"
+msgstr "থেকে"
+
+msgid "From %1"
+msgstr ""
+
+msgid "Frozen"
+msgstr ""
+
+msgid "Full"
+msgstr "পূর্ণ"
+
+msgid "Full Name"
+msgstr "পুরো নাম"
+
+msgid "Full Screen"
+msgstr "পর্দাজুড়ে প্রদর্শন"
+
+msgid "Full Screen Mode"
+msgstr ""
+
+msgid "F&ull Screen Mode"
+msgstr "ফু&ল স্ক্রীণ মোড"
+
+msgid "Fullscreen"
+msgstr "সম্পূর্ণ পর্দা জুড়ে"
+
+msgid "_Fullscreen"
+msgstr "পর্দা জুড়ে প্রদর্শন (_F)"
+
 msgid "Function"
 msgstr "ফাংশন"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "গ্রুপ:"
+msgid "function"
+msgstr "ফাংশন"
 
-#. Occurs in 10 KDE PO files
+msgid "Functions"
+msgstr "অপেক্ষকসমূহ "
+
+msgid "Future"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+msgid "Gabon"
+msgstr "গ্যাবন"
+
+msgid "Galician"
+msgstr "গ্যালিকান"
+
+msgid "Gallery"
+msgstr ""
+
+msgid "Gambia"
+msgstr "গাম্বিয়া"
+
+msgid "Game"
+msgstr ""
+
+msgid "&Game"
+msgstr "খেলা (&খ)"
+
+msgid "Game Over"
+msgstr "খেল খতম"
+
+msgid "Games"
+msgstr "খেলা"
+
+msgid "Gamma"
+msgstr "গামা"
+
+msgid "Gas"
+msgstr ""
+
+msgid "Gate"
+msgstr "Gate"
+
+msgid "Gateway"
+msgstr ""
+
+msgid "Gaussian Blur"
+msgstr ""
+
+msgid "GB"
+msgstr "গিগাবাইট"
+
+msgid "Gender"
+msgstr "লিঙ্গ"
+
+msgid "General"
+msgstr "সাধারণ"
+
+msgid "&General"
+msgstr "সাধা&রণ"
+
+msgid "General Options"
+msgstr ""
+
+msgid "General options"
+msgstr "সাধারণ অপশন"
+
+msgid "General Settings"
+msgstr "সাধারণ বৈশিষ্ট্য"
+
+msgid "Generate"
+msgstr ""
+
+msgid "Generic"
+msgstr ""
+
+msgid "Genre"
+msgstr "গোত্র"
+
+msgid "Genres"
+msgstr "গোত্র"
+
+msgid "Geometry"
+msgstr "জ্যামিতি"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "জর্জিয়া"
+
+msgid "Georgian"
+msgstr "জর্জিয়ান"
+
+msgid "German"
+msgstr "জার্মান"
+
+msgid "Germany"
+msgstr "জার্মানি"
+
+msgid "Get New..."
+msgstr ""
+
+msgid "Get New Plugins..."
+msgstr ""
+
+msgid "Ghana"
+msgstr "ঘানা"
+
+msgid "GiB"
+msgstr "গিবিবাইট"
+
+msgid "GIF"
+msgstr ""
+
+msgid "Git"
+msgstr ""
+
+msgid "Given Name"
+msgstr "প্রদত্ত নাম"
+
+msgid "Global"
+msgstr "সার্বিক"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "যাও"
+
+msgid "&Go"
+msgstr "যা&ও"
+
+msgid "_Go"
+msgstr "যান (_G)"
+
+msgid "Go Back"
+msgstr ""
+
+msgid "Go back"
+msgstr "ফিরে যাও"
+
+msgid "Go forward"
+msgstr "এগিয়ে যাও"
+
+msgid "Go To"
+msgstr ""
+
+msgid "Go to first page"
+msgstr "প্রথম পৃষ্ঠায় যান"
+
+msgid "Go to last page"
+msgstr "শেষ পৃষ্ঠায় যান"
+
+msgid "Go to Line"
+msgstr ""
+
+msgid "Go to next page"
+msgstr "পরবর্তী পৃষ্ঠায় যান"
+
+msgid "Go to previous page"
+msgstr "পূর্ববর্তী পৃষ্ঠায় যান"
+
+msgid "Goa"
+msgstr ""
+
+msgid "Gold"
+msgstr ""
+
+msgid "Good"
+msgstr "ভালো"
+
+msgid "Google"
+msgstr "গুগল্"
+
+msgid "Gothic"
+msgstr "Gothic"
+
+msgid "Gradient"
+msgstr "গ্রেডিয়েন্ট"
+
+msgid "Gradients"
+msgstr "গ্রেডিয়েন্ট"
+
+msgid "Graph"
+msgstr "গ্রাফ"
+
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+msgid "Gray"
+msgstr ""
+
+msgid "gray"
+msgstr ""
+
+msgid "Grayscale"
+msgstr ""
+
+msgid "Greece"
+msgstr "গ্রীস"
+
+msgid "Greek"
+msgstr "গ্রিক"
+
+msgid "Green"
+msgstr "সবুজ"
+
+msgid "green"
+msgstr ""
+
+msgid "Grenada"
+msgstr "গ্রানাডা"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Grid"
+msgstr "গ্রিড"
+
+msgid "Group"
+msgstr "গ্রুপ"
+
+msgid "Group name"
+msgstr ""
+
+msgid "Grouping"
+msgstr ""
+
+msgid "Groups"
+msgstr ""
+
+msgid "GSM"
+msgstr ""
+
+msgid "Guatemala"
+msgstr "গুয়াটেমালা"
+
+msgid "Guides"
+msgstr "গাইড"
+
+msgid "Guinea"
+msgstr "গিনি"
+
+msgid "Gujarati"
+msgstr "গুজরাতি"
+
+msgid "Gurmukhi"
+msgstr "গুরুমুখী"
+
+msgid "Guyana"
+msgstr "গায়ানা"
+
+msgid "H"
+msgstr "H"
+
+msgid "Haiti"
+msgstr "হাইতি"
+
+msgid "Hard"
+msgstr "কঠিন"
+
+msgid "Hardware"
+msgstr "হার্ডওয়্যার"
+
+msgid "Hawaiian"
+msgstr ""
+
+msgid "Header"
+msgstr "শিরলেখ"
+
+msgid "Headers"
+msgstr "শীর্ষচরণ"
+
+msgid "Heading"
+msgstr "শিরোনাম"
+
+msgid "Heading 1"
+msgstr ""
+
+msgid "Heading 2"
+msgstr ""
+
+msgid "Heading 3"
+msgstr ""
+
+msgid "Heading 4"
+msgstr ""
+
+msgid "Headphones"
+msgstr "হেডফোন"
+
+msgid "Headset"
+msgstr "হেডসেট"
+
+msgid "Health"
+msgstr ""
+
+msgid "Hebrew"
+msgstr "হিব্রু"
+
+msgid "Height"
+msgstr "উচ্চতা"
+
+msgid "&Height"
+msgstr "&উচ্চতা"
+
+msgid "Help"
+msgstr "সহায়তা"
+
+msgid "&Help"
+msgstr "&সহায়তা"
+
+msgid "_Help"
+msgstr "সহায়তা (_H)"
+
+msgid "Helsinki"
+msgstr "হেলসিংকি"
+
+msgid "Hex"
+msgstr "হেক্স"
+
+msgid "Hexadecimal"
+msgstr ""
+
+msgid "Hexagon"
+msgstr ""
+
+msgid "Hibernate"
+msgstr ""
+
+msgid "Hidden"
+msgstr "আড়াল করা"
+
+msgid "hidden"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "&Hide"
+msgstr "আড়াল করো (&ড়)"
+
+msgid "Hide menu bar"
+msgstr ""
+
+msgid "High"
+msgstr "উচ্চ"
+
+msgid "Highlight"
+msgstr "হাইলাইট করুন"
+
+msgid "Highlighter"
+msgstr ""
+
+msgid "Highlights"
+msgstr ""
+
+msgid "Hindi"
+msgstr "হিন্দি"
+
+msgid "Hint"
+msgstr "ইঙ্গিত"
+
+msgid "Histogram"
+msgstr "হিস্টোগ্রাম"
+
 msgid "History"
 msgstr "ইতিহাস"
 
-#. Occurs in 10 KDE PO files
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Holidays"
+msgstr ""
+
+msgid "Home"
+msgstr "Home"
+
+msgid "&Home"
+msgstr "হো&ম"
+
+msgid "Home Folder"
+msgstr "ব্যক্তিগত ফোল্ডার"
+
+msgid "Home Page"
+msgstr "হোম পেজ"
+
+msgid "Homepage"
+msgstr "হোমপেজ"
+
+msgid "Honduras"
+msgstr "হোনডুরাস"
+
+msgid "Hong Kong"
+msgstr "হং কং"
+
+msgid "Horizontal"
+msgstr "আনুভূমিক"
+
+msgid "Host"
+msgstr "হোস্ট"
+
+msgid "Hostname"
+msgstr "হোস্টের নাম"
+
+msgid "Hotspot"
+msgstr ""
+
+msgid "Hour"
+msgstr "ঘন্টা"
+
+msgid "Hours"
+msgstr "ঘন্টা"
+
+msgid "hours"
+msgstr ""
+
+msgid "House"
+msgstr ""
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr ""
+
+msgid "Hue"
+msgstr "হিউ"
+
+msgid "Huge"
+msgstr "সুবিপুল"
+
+msgid "Hungarian"
+msgstr "হাঙ্গারীয়"
+
+msgid "Hungary"
+msgstr "হাঙ্গেরি"
+
+msgid "Hz"
+msgstr ""
+
+msgid "I"
+msgstr ""
+
+msgid "Ian Wadham"
+msgstr ""
+
+msgid "Iceland"
+msgstr "আইসল্যান্ড"
+
+msgid "Icelandic"
+msgstr "আইসল্যান্ডিক"
+
+msgid "Icon"
+msgstr "আইকন"
+
+msgid "Icon Size"
+msgstr "আইকনের মাপ"
+
+msgid "Icon size"
+msgstr "আইকন মাপ"
+
+msgid "Icon View"
+msgstr ""
+
+msgid "Icons"
+msgstr "আইকন"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Id"
+msgstr ""
+
+msgid "id"
+msgstr ""
+
+msgid "Identifier"
+msgstr "আইডেন্টিফায়ার"
+
+msgid "Identity"
+msgstr "পরিচয়"
+
+msgid "Idle"
+msgstr "নিষ্ক্রিয়"
+
+msgid "Ignore"
+msgstr "অগ্রাহ্য করো"
+
+msgid "_Ignore"
+msgstr ""
+
+msgid "Ignore Case"
+msgstr ""
+
+msgid "Ignored"
+msgstr "উপেক্ষিত"
+
+msgid "Image"
+msgstr "ছবি"
+
+msgid "image"
+msgstr "চিত্র"
+
+msgid "&Image"
+msgstr ""
+
+msgid "_Image"
+msgstr "ছবি (_I)"
+
+msgid "Image Editor"
+msgstr "ছবি সম্পাদক"
+
+msgid "Image Files"
+msgstr ""
+
+msgid "Image files"
+msgstr "ছবির ফাইল"
+
+msgid "Image Gallery"
+msgstr ""
+
+msgid "Image Properties"
+msgstr "ছবির বৈশিষ্ট্য"
+
+msgid "Image Settings"
+msgstr "ছবি সেটিংস"
+
+msgid "Image Size"
+msgstr "ছবির মাপ"
+
+msgid "Image Viewer"
+msgstr "ছবি প্রদর্শক"
+
+msgid "Images"
+msgstr "ছবি"
+
+msgid "Images (%1)"
+msgstr ""
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "ইম্পোর্ট করুন"
+
+msgid "&Import"
+msgstr ""
+
+msgid "_Import"
+msgstr "ইম্পোর্ট (_I)"
+
+msgid "Import..."
+msgstr "আমদানি করো..."
+
+msgid "&Import..."
+msgstr "&আমদানি..."
+
+msgid "Import failed"
+msgstr "ইম্পোর্ট ব্যর্থ"
+
+msgid "Important"
+msgstr "গুরুত্বপূর্ণ"
+
+msgid "In"
+msgstr "ভিতরে"
+
+msgid "in"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Inbox"
+msgstr "ইনবক্স"
+
+msgid "inch"
+msgstr "ইঞ্চি"
+
+msgid "Inches"
+msgstr "ইঞ্চি"
+
+msgid "inches"
+msgstr "ইঞ্চি"
+
+msgid "Inches (in)"
+msgstr ""
+
+msgid "Include"
+msgstr "অন্তর্ভূক্ত"
+
+msgid "Includes"
+msgstr ""
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Increase Font Size"
+msgstr ""
+
+msgid "Increase Indent"
+msgstr "ইনডেন্ট বাড়াও"
+
+msgid "Increase Volume"
+msgstr ""
+
+msgid "Incremental"
+msgstr "বৃদ্ধিপ্রাপ্ত"
+
+msgid "Indentation"
+msgstr ""
+
+msgid "Index"
+msgstr "সূচিপত্র"
+
+msgid "Indexed"
+msgstr "সূচক"
+
+msgid "India"
+msgstr "ভারত"
+
+msgid "Indonesia"
+msgstr "ইন্দোনেশিয়া"
+
+msgid "Indonesian"
+msgstr ""
+
+msgid "Industrial"
+msgstr ""
+
+msgid "Info"
+msgstr "তথ্য"
+
+msgid "Information"
+msgstr "তথ্য"
+
+msgid "Initials"
+msgstr "অদ্যাক্ষর"
+
+msgid "Input"
+msgstr "ইনপুট"
+
+msgid "Input Devices"
+msgstr "ইনপুট ডিভাইস"
+
+msgid "Insert"
+msgstr "ঢোকাও"
+
+msgid "&Insert"
+msgstr ""
+
+msgid "Insert Image"
+msgstr ""
+
+msgid "Insert Link"
+msgstr ""
+
+msgid "Insert Table"
+msgstr ""
+
+msgid "Insert Text"
+msgstr ""
+
+msgid "Install"
+msgstr "ইনস্টল"
+
+msgid "Install..."
+msgstr ""
+
+msgid "Install from File..."
+msgstr ""
+
+msgid "Installed"
+msgstr "ইনস্টলকৃত"
+
+msgid "Installing"
+msgstr "ইনস্টল করা হচ্ছে"
+
+msgid "Instant"
+msgstr ""
+
+msgid "Integer"
+msgstr ""
+
+msgid "Integrate"
+msgstr ""
+
+msgid "Intensity"
+msgstr ""
+
+msgid "Interface"
+msgstr "ইন্টারফেস"
+
+msgid "Internal"
+msgstr ""
+
+msgid "Internal Error"
+msgstr "অভ্যন্তরীণ সমস্যা"
+
+msgid "Internal error"
+msgstr ""
+
+msgid "International"
+msgstr "আন্তর্জাতিক"
+
+msgid "Internet"
+msgstr "ইন্টারনেট"
+
+msgid "Interpolation"
+msgstr ""
+
+msgid "Interrupt"
+msgstr "ইন্টারাপ্ট"
+
+msgid "Interval"
+msgstr "বিরতি"
+
+msgid "Introduction"
+msgstr ""
+
+msgid "Invalid"
+msgstr "অকার্যকর"
+
+msgid "invalid"
+msgstr "অকার্যকর"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr ""
+
+msgid "Invalid date"
+msgstr ""
+
+msgid "Invalid password"
+msgstr "অবৈধ পাসওয়ার্ড"
+
+msgid "Invalid URL"
+msgstr ""
+
+msgid "Invert"
+msgstr "উল্টানো"
+
+msgid "Invert Selection"
+msgstr "নির্বাচন উল্টানো"
+
+msgid "IP"
+msgstr ""
+
+msgid "IP Address"
+msgstr ""
+
+msgid "IPTC"
+msgstr ""
+
+msgid "Iran"
+msgstr "ইরান"
+
+msgid "Iraq"
+msgstr "ইরাক"
+
+msgid "Ireland"
+msgstr "আয়ারল্যান্ড"
+
+msgid "Irish"
+msgstr "আইরিশ"
+
+msgid "is"
+msgstr ""
+
+msgid "Israel"
+msgstr "ইজরায়েল"
+
+msgid "Issued By"
+msgstr "যার দ্বারা প্রদত্ত"
+
+msgid "Issuer"
+msgstr ""
+
+msgid "Italian"
+msgstr "ইতালীয়"
+
+msgid "Italic"
+msgstr "তির্যক"
+
+msgid "&Italic"
+msgstr "&Italic"
+
+msgid "_Italic"
+msgstr ""
+
+msgid "Italy"
+msgstr "ইটালি"
+
+msgid "Item"
+msgstr "আইটেম"
+
+msgid "Items"
+msgstr ""
+
+msgid "Iterations"
+msgstr ""
+
+msgid "J"
+msgstr "গোলাম"
+
+msgid "Jamaica"
+msgstr "জামাইকা"
+
+msgid "January"
+msgstr ""
+
+msgid "Japan"
+msgstr "জাপান"
+
+msgid "Japanese"
+msgstr "জাপানী"
+
+msgid "Javanese"
+msgstr "জাভানীজ"
+
+msgid "JavaScript"
+msgstr ""
+
+msgid "Jazz"
+msgstr "জ্যাজ"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr ""
+
+msgid "Join"
+msgstr ""
+
+msgid "Jonah Brüchert"
+msgstr ""
+
+msgid "Jordan"
+msgstr "জর্ডান"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr ""
+
+msgid "Journal"
+msgstr ""
+
+msgid "JPEG"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "Jump to next match"
+msgstr ""
+
+msgid "Jump to previous match"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "Justify"
+msgstr "সাজাও"
+
+msgid "K"
+msgstr "সাহেব"
+
+msgid "Kannada"
+msgstr "কন্নড়"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "কাজাক"
+
+msgid "Kazakhstan"
+msgstr "কাজাখস্তান"
+
+msgid "kB"
+msgstr "কিলোবাইট"
+
+msgid "KDE"
+msgstr ""
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr ""
+
+msgid "KDE Connect"
+msgstr ""
+
+msgid "KDevelop"
+msgstr ""
+
+msgid "Keep"
+msgstr "রেখে দাও"
+
+msgid "_Keep"
+msgstr "ধরে রাখুন (_K)"
+
+msgid "Keep aspect ratio"
+msgstr ""
+
+msgid "Keep Open"
+msgstr ""
+
+msgid "Kenya"
+msgstr "কেনিয়া"
+
+msgid "Kernel"
+msgstr "কার্ণেল"
+
+msgid "Key"
+msgstr "কী"
+
+msgid "Key ID"
+msgstr "কী-এর ID"
+
+msgid "Keyboard"
+msgstr "কীবোর্ড"
+
+msgid "Keyboard Layout"
+msgstr "কীবোর্ড বিন্যাস"
+
+msgid "Keyboard Shortcuts"
+msgstr "কীবোর্ড শর্টকাট"
+
+msgid "Keyboard shortcuts"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr "কীবোর্ড শর্টকাট (_K)"
+
+msgid "Keys"
+msgstr "কী"
+
+msgid "Keyword"
+msgstr "কীওয়ার্ড"
+
+msgid "Keywords"
+msgstr "মূলশব্দ"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "KiB"
+msgstr "কিবিবাইট"
+
+msgid "Kind"
+msgstr ""
+
+msgid "Kiribati"
+msgstr "কিরিবাতি"
+
+msgid "km"
+msgstr "কিলোমিটার"
+
+msgid "KMail"
+msgstr "কে-মেইল"
+
+msgid "Konqueror"
+msgstr "কনকরার"
+
+msgid "Konsole"
+msgstr "কনসোল"
+
+msgid "Korean"
+msgstr "কোরিয়"
+
+msgid "KOrganizer"
+msgstr ""
+
+msgid "Kuwait"
+msgstr "কুয়েত"
+
+msgid "KWin"
+msgstr "কে-উইন"
+
+msgid "L"
+msgstr ""
+
+msgid "Label"
+msgstr "লেবেল"
+
+msgid "label"
+msgstr "লেবেল"
+
+msgid "Labels"
+msgstr ""
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Language"
+msgstr "ভাষা"
+
+msgid "_Language"
+msgstr ""
+
+msgid "Languages"
+msgstr "ভাষা"
+
+msgid "Lao"
+msgstr "লাও"
+
+msgid "Laos"
+msgstr "লাওস"
+
+msgid "Large"
+msgstr "বড়"
+
+msgid "Last"
+msgstr "সর্বশেষ"
+
+msgid "Last Modified"
+msgstr ""
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "লাতিন"
+
+msgid "Latitude"
+msgstr ""
+
+msgid "Latvia"
+msgstr "লাটভিয়া"
+
+msgid "Latvian"
+msgstr "লাটভিয়ান"
+
+msgid "Launch %1"
+msgstr ""
+
+msgid "Layer"
+msgstr "স্তর"
+
+msgid "Layers"
+msgstr "স্তর"
+
+msgid "Layout"
+msgstr ""
+
+msgid "Leave Fullscreen"
+msgstr "পূর্ণপর্দা ত্যাগ করুন"
+
+msgid "Lebanon"
+msgstr "লেবানন"
+
+msgid "Left"
+msgstr "Left"
+
+msgid "left"
+msgstr "বাম"
+
+msgid "&Left"
+msgstr ""
+
+msgid "_Left"
+msgstr ""
+
+msgid "Left to Right"
+msgstr "বাম থেকে ডানে"
+
+msgid "Legacy"
+msgstr "লিগেসি"
+
+msgid "Legend"
+msgstr ""
+
+msgid "Length"
+msgstr "দৈর্ঘ্য"
+
+msgid "Lesotho"
+msgstr "লেসোথো"
+
+msgid "Letter"
+msgstr ""
+
+msgid "Level"
+msgstr "স্তর"
+
+msgid "Level %1"
+msgstr ""
+
+msgid "Levels"
+msgstr "স্তর"
+
+msgid "Liberia"
+msgstr "লাইবেরিয়া"
+
+msgid "Library"
+msgstr ""
+
+msgid "License"
+msgstr "লাইসেন্স"
+
+msgid "Liechtenstein"
+msgstr "লিইখটেনস্টেইন"
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Lighten"
+msgstr ""
+
+msgid "Lightness"
+msgstr ""
+
+msgid "Limit"
+msgstr ""
+
+msgid "Limits"
+msgstr ""
+
+msgid "Line"
+msgstr "রেখা"
+
+msgid "line"
+msgstr "রেখা"
+
+msgid "Line Break"
+msgstr ""
+
+msgid "Line Color"
+msgstr ""
+
+msgid "Line Numbers"
+msgstr ""
+
+msgid "Line Width"
+msgstr ""
+
+msgid "Line width"
+msgstr "রেখার দৈর্ঘ্য"
+
+msgid "Linear"
+msgstr "রৈখিক"
+
+msgid "Lines"
+msgstr "রেখা"
+
+msgid "Link"
+msgstr "লিঙ্ক"
+
+msgid "link"
+msgstr "লিংক"
+
+msgid "Link URL"
+msgstr "লিঙ্ক ইউ-আর-এল"
+
+msgid "Links"
+msgstr ""
+
+msgid "Linux"
+msgstr ""
+
+msgid "List"
+msgstr "তালিকা"
+
+msgid "List View"
+msgstr ""
+
+msgid "Lists"
+msgstr ""
+
+msgid "Lists the available options for user feedback"
+msgstr ""
+
+msgid "Lithuania"
+msgstr "লিথুয়েনিয়া"
+
+msgid "Lithuanian"
+msgstr "লিথুয়েনীয়"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "লোড"
+
+msgid "Load..."
+msgstr ""
+
+msgid "Load Game"
+msgstr "খেলা লোড করো"
+
+msgid "Loading"
+msgstr "লোড করা হচ্ছে"
+
+msgid "Loading..."
+msgstr "লোড করা হচ্ছে..."
+
+msgid "Loading %1..."
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Locale"
+msgstr "লোক্যাল"
+
+msgid "Locality"
+msgstr "অঞ্চল"
+
+msgid "Location"
+msgstr "অবস্থান"
+
+msgid "Locations"
+msgstr "অবস্থান"
+
+msgid "Lock"
+msgstr ""
+
+msgid "Lock Screen"
+msgstr "পর্দা লক করুন"
+
+msgid "Locked"
+msgstr ""
+
+msgid "Log"
+msgstr ""
+
+msgid "Log in"
+msgstr ""
+
+msgid "Log Out"
+msgstr "লগ-আউট"
+
+msgid "Logarithmic"
+msgstr ""
+
+msgid "Logging"
+msgstr ""
+
+msgid "Logging in..."
+msgstr ""
+
+msgid "Logic"
+msgstr ""
+
+msgid "Login"
+msgstr "লগইন"
+
+msgid "_Login"
+msgstr "লগ-ইন(_L)"
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logs"
+msgstr ""
+
+msgid "Longitude"
+msgstr ""
+
+msgid "Loop"
+msgstr ""
+
+msgid "Low"
+msgstr "নিম্ন"
+
+msgid "Lower"
+msgstr "নিচে নামাও"
+
+msgid "Lowercase"
+msgstr "লোয়ারকেস"
+
+msgid "Lukáš Tinkl"
+msgstr ""
+
+msgid "Luminance"
+msgstr ""
+
+msgid "Luxembourg"
+msgstr "লাক্সেমবুর্গ"
+
+msgid "Lyricist"
+msgstr ""
+
+msgid "Lyrics"
+msgstr ""
+
+msgid "M"
+msgstr ""
+
+msgid "m"
+msgstr ""
+
+msgid "Macedonian"
+msgstr "মাসিডোনীয়"
+
+msgid "Macro"
+msgstr ""
+
+msgid "Macros"
+msgstr "ম্যাক্রো"
+
+msgid "Madagascar"
+msgstr "মাদাগাস্কার"
+
+msgid "Magenta"
+msgstr "ম্যাজেন্টা"
+
+msgid "Mail"
+msgstr ""
+
+msgid "Main"
+msgstr "মূল"
+
+msgid "Main Menu"
+msgstr "প্রধান মেনু"
+
+msgid "Main Toolbar"
+msgstr "প্রধান টুলবার"
+
+msgid "Main Window"
+msgstr ""
+
+msgid "Main window"
+msgstr ""
+
+msgid "Maintainer"
+msgstr "রক্ষণাবেক্ষণকারী"
+
+msgid "Malawi"
+msgstr "মালায়ি"
+
+msgid "Malay"
+msgstr "মালয়"
+
+msgid "Malayalam"
+msgstr "মলয়লম"
+
+msgid "Malaysia"
+msgstr "মালেশিয়া"
+
+msgid "Maldives"
+msgstr "মালদিভস"
+
+msgid "Male"
+msgstr "মালে"
+
+msgid "Mali"
+msgstr "মালি"
+
+msgid "Malta"
+msgstr "মাল্টা"
+
+msgid "Maltese"
+msgstr ""
+
+msgid "Manager"
+msgstr "ম্যানেজার"
+
+msgid "Manual"
+msgstr ""
+
+msgid "Manufacturer"
+msgstr "প্রস্তুতকারক"
+
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr "মানচিত্র"
+
+msgid "Marathi"
+msgstr "মারাঠি"
+
+msgid "Marble"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "Margins"
+msgstr ""
+
+msgid "Mark"
+msgstr ""
+
+msgid "Mark as Read"
+msgstr ""
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Marker"
+msgstr ""
+
+msgid "Markers"
+msgstr ""
+
+msgid "Marshall Islands"
+msgstr "মার্শ দ্বীপ"
+
+msgid "Mask"
+msgstr ""
+
+msgid "Mass"
+msgstr "ভর"
+
+msgid "Match"
+msgstr ""
+
+msgid "Match case"
+msgstr ""
+
+msgid "_Match case"
+msgstr "সমন্বয় কেস (_M)"
+
+msgid "Math"
+msgstr ""
+
+msgid "Matrix"
+msgstr ""
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "মাউরিসিও পিয়াসেন্তিনি "
+
+msgid "Mauritania"
+msgstr "মরিটানিয়া"
+
+msgid "Mauritius"
+msgstr "মরিশাস"
+
+msgid "Max"
+msgstr "সর্বোচ্চ"
+
+msgid "max"
+msgstr ""
+
+msgid "Maximize"
+msgstr ""
+
+msgid "Maximum"
+msgstr "সর্বোচ্চ"
+
+msgid "May"
+msgstr ""
+
+msgid "Maze"
+msgstr "গোলক ধাঁধা (Maze)"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr ""
+
+msgid "Measure"
+msgstr "পরিমাপ"
+
+msgid "Media"
+msgstr ""
+
+msgid "Media Player"
+msgstr ""
+
+msgid "Median"
+msgstr "মধ্যমা"
+
+msgid "Medium"
+msgstr "মাঝারি"
+
+msgid "medium"
+msgstr ""
+
+msgid "Member"
+msgstr ""
+
+msgid "Memory"
+msgstr "মেমরি"
+
+msgid "Menu"
+msgstr "মেনু"
+
+msgid "Mercury"
+msgstr "পারদ"
+
+msgid "Merge"
+msgstr ""
+
+msgid "Message"
+msgstr "বার্তা"
+
+msgid "message"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "মেটাডাটা"
+
+msgid "Metal"
+msgstr ""
+
+msgid "meters"
+msgstr "মিটার"
+
+msgid "Method"
+msgstr "পদ্ধতি"
+
+msgid "Metric"
+msgstr ""
+
+msgid "Mexico"
+msgstr "মেক্সিকো"
+
+msgid "MiB"
+msgstr "এম-বি"
+
+msgid "Microphone"
+msgstr ""
+
+msgid "Middle"
+msgstr ""
+
+msgid "Miha Čančula"
+msgstr ""
+
+msgid "Milian Wolff"
+msgstr ""
+
+msgid "Millimeters"
+msgstr "মিলিমিটার"
+
+msgid "Millimeters (mm)"
+msgstr ""
+
+msgid "Milliseconds"
+msgstr ""
+
+msgid "milliseconds"
+msgstr "মিলি-সেকেন্ড"
+
+msgid "Min"
+msgstr "সর্বনিম্ন"
+
+msgid "min"
+msgstr ""
+
+msgid "Minimize"
+msgstr "ছোট কর"
+
+msgid "Minimum"
+msgstr ""
+
+msgid "Minute"
+msgstr "মিনিট"
+
+msgid "Minutes"
+msgstr "মিনিট"
+
+msgid "minutes"
+msgstr "মিনিট"
+
+msgid "Mirror"
+msgstr "প্রতিফলন"
+
+msgid "Misc"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr "বিবিধ"
+
+msgid "missing plugin file \"%s\""
+msgstr ""
+
+msgid "Miter limit"
+msgstr ""
+
+msgid "Mix"
+msgstr "মিশ্রণ"
+
+msgid "mm"
+msgstr ""
+
+msgid "Mobile"
+msgstr "মোবাইল"
+
+msgid "Mode"
+msgstr "মোড"
+
+msgid "Model"
+msgstr "মডেল"
+
+msgid "Modem"
+msgstr "মডেম"
+
+msgid "Modified"
+msgstr "পরিবর্তিত"
+
+msgid "modified"
+msgstr ""
+
+msgid "Modifiers"
+msgstr ""
+
+msgid "Modify"
+msgstr ""
+
+msgid "Modify..."
+msgstr "বদলাও..."
+
+msgid "&Modify..."
+msgstr "&পরিবর্তন..."
+
+msgid "Modify search behavior"
+msgstr ""
+
+msgid "Module"
+msgstr "মডিউল"
+
+msgid "Modules"
+msgstr "মডিউল"
+
+msgid "Moldova"
+msgstr "মোলডোভা"
+
+msgid "Monaco"
+msgstr "মোনাকো"
+
+msgid "Monday"
+msgstr ""
+
+msgid "Mongolia"
+msgstr "মঙ্গোলিয়া"
+
+msgid "Mongolian"
+msgstr "মঙ্গোলিয়"
+
+msgid "Monitor"
+msgstr ""
+
+msgid "Mono"
+msgstr "মোনো"
+
+msgid "Monochrome"
+msgstr ""
+
+msgid "Monospace"
+msgstr "Monospace"
+
+msgid "Montenegro"
+msgstr "মন্টেনেগ্রো"
+
+msgid "Month"
+msgstr "মাস"
+
+msgid "Month View"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "More"
+msgstr "বেশী"
+
+msgid "More..."
+msgstr ""
+
+msgid "More actions"
+msgstr ""
+
+msgid "More Information"
+msgstr "আরও তথ্য"
+
+msgid "More options"
+msgstr ""
+
+msgid "Morocco"
+msgstr "মরোক্কো"
+
+msgid "Mount"
+msgstr ""
+
+msgid "Mount point"
+msgstr ""
+
+msgid "Mouse"
+msgstr "মাউস"
+
+msgid "Mouse Wheel"
+msgstr "মাউস চক্রাকার"
+
+msgid "Move"
+msgstr "সরাও"
+
+msgid "&Move"
+msgstr "&সরাও"
+
+msgid "_Move"
+msgstr "সরাও (_স)"
+
+msgid "Move %1"
+msgstr ""
+
+msgid "Move Down"
+msgstr "নিচে নামান"
+
+msgid "Move down"
+msgstr ""
+
+msgid "Move &Down"
+msgstr "নীচে নামা&ও"
+
+msgid "&Move Here"
+msgstr "এখানে &সরাও"
+
+msgid "Move Left"
+msgstr ""
+
+msgid "_Move on Toolbar"
+msgstr "টুল-বারের মধ্যে স্থান পরিবর্তন করুন (_M)"
+
+msgid "Move Right"
+msgstr ""
+
+msgid "Move Tab Left"
+msgstr "ট্যাব বাঁদিকে সরাও"
+
+msgid "Move Tab Right"
+msgstr "ট্যাব ডানদিকে সরাও "
+
+msgid "Move the selected item on the toolbar"
+msgstr "টুল-বারের মধ্যে নির্বাচিত বস্তুর স্থান পরিবর্তন করুন"
+
+msgid "Move To"
+msgstr ""
+
+msgid "Move to Bottom"
+msgstr ""
+
+msgid "Move to Top"
+msgstr ""
+
+msgid "Move to Trash"
+msgstr "আবর্জনা ফোল্ডারে সরাও"
+
+msgid "&Move to Trash"
+msgstr "&আবর্জনা ফোল্ডারে পাঠাও"
+
+msgid "Move Up"
+msgstr "উপরে উঠান"
+
+msgid "Move up"
+msgstr ""
+
 msgid "Move &Up"
-msgstr "&উপরে তোলো"
+msgstr "ও&পরে তোলো"
 
-#. Occurs in 10 KDE PO files
+msgid "Mozambique"
+msgstr "মোজাম্বিক"
+
+msgid "ms"
+msgstr ""
+
+msgid "m/s"
+msgstr "মিটার/সেকেন্ড"
+
+msgid "MSCHAP"
+msgstr ""
+
+msgid "MSCHAPv2"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "মাল্টিমিডিয়া"
+
+msgid "Multiply"
+msgstr "গুণ"
+
+msgid "Music"
+msgstr ""
+
+msgid "Music Player"
+msgstr ""
+
+msgid "Mute"
+msgstr "নিঃশব্দ  "
+
+msgid "Myanmar"
+msgstr "মায়ানমার"
+
+msgid "N"
+msgstr "N"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "Name"
+msgstr "নাম"
+
+msgid "name"
+msgstr "নাম"
+
+msgid "&Name"
+msgstr "নাম (&ন)"
+
+msgid "_Name"
+msgstr "নাম: (_N)"
+
+msgid "Name: %1"
+msgstr ""
+
+msgid "Namespace"
+msgstr "নেম-স্পেস"
+
+msgid "Namibia"
+msgstr "নামিবিয়া"
+
+msgid "Nature"
+msgstr ""
+
+msgid "Nauru"
+msgstr "নাউরু"
+
+msgid "Navigation"
+msgstr "ন্যাভিগেশন"
+
+msgid "Negative"
+msgstr ""
+
+msgid "Neon"
+msgstr ""
+
+msgid "Nepal"
+msgstr "নেপাল"
+
+msgid "Nepali"
+msgstr "নেপালী"
+
+msgid "Netherlands"
+msgstr "নেদারল্যান্ডস"
+
+msgid "Network"
+msgstr "নেটওয়ার্ক"
+
+msgid "Networks"
+msgstr ""
+
+msgid "Never"
+msgstr "কখনো নয়"
+
+msgid "never"
+msgstr ""
+
+msgid "New"
+msgstr "নতুন"
+
+msgid "&New"
+msgstr "&নতুন"
+
+msgid "_New"
+msgstr "নতুন (_N)"
+
+msgid "New..."
+msgstr "নতুন..."
+
+msgid "&New..."
+msgstr "&নতুন..."
+
+msgid "_New..."
+msgstr "নতুন (_N)..."
+
+msgid "New Bookmark"
+msgstr ""
+
+msgid "New Connection"
+msgstr ""
+
+msgid "New File"
+msgstr ""
+
+msgid "New Folder"
+msgstr ""
+
+msgid "New folder"
+msgstr "নতুন ফোল্ডার"
+
+msgid "New Folder..."
+msgstr ""
+
+msgid "New Game"
+msgstr "নতুন খেলা"
+
+msgid "New Group"
+msgstr "নতুন গ্রুপ"
+
+msgid "New Item"
+msgstr "নতুন বস্তু"
+
+msgid "New Layer"
+msgstr "নতুন স্তর"
+
+msgid "New Message"
+msgstr ""
+
+msgid "New Name"
+msgstr "নতুন নাম"
+
+msgid "New name"
+msgstr ""
+
+msgid "New Profile"
+msgstr "নতুন প্রোফাইল"
+
+msgid "New Project"
+msgstr ""
+
+msgid "New Session"
+msgstr ""
+
+msgid "New South Wales"
+msgstr "নিউ সাউথ ওয়েলস"
+
+msgid "New Tab"
+msgstr "নতুন ট্যাব"
+
+msgid "New tag"
+msgstr ""
+
+msgid "New Window"
+msgstr "নতুন উইন্ডো"
+
+msgid "_New Window"
+msgstr "নতুন উইন্ডো (_N)"
+
+msgid "New &Window"
+msgstr "নতুন &উইণ্ডো"
+
+msgid "New _Window"
+msgstr ""
+
+msgid "New Zealand"
+msgstr "নিউজিল্যান্ড"
+
+msgid "News"
+msgstr "সংবাদ"
+
+msgid "Newton"
+msgstr "নিউটন"
+
+msgid "Next"
+msgstr "পরবর্তী"
+
+msgid "&Next"
+msgstr ""
+
+msgid "_Next"
+msgstr "পরবর্তী (_N)"
+
+msgid "Next Image"
+msgstr "পরবর্তী ছবি"
+
+msgid "Next month"
+msgstr ""
+
+msgid "Next Page"
+msgstr ""
+
+msgid "Next Tab"
+msgstr ""
+
+msgid "Next Track"
+msgstr ""
+
+msgid "Nicaragua"
+msgstr "নিকারাগুয়া"
+
+msgid "Nickname"
+msgstr "ডাকনাম"
+
+msgid "Niger"
+msgstr "নাইজার"
+
+msgid "Nigeria"
+msgstr "নাইজেরিয়া"
+
+msgid "Night"
+msgstr "রাত"
+
+msgid "No"
+msgstr "না"
+
+msgid "no"
+msgstr ""
+
+msgid "_No"
+msgstr ""
+
+msgid "No."
+msgstr ""
+
+msgid "No description available"
+msgstr "কোনো বর্ণনা বিদ্যমান নেই"
+
+msgid "No devices found"
+msgstr ""
+
+msgid "No error"
+msgstr "কোনো ত্রুটি নেই"
+
+msgid "No file selected"
+msgstr "কোনো ফাইল নির্বাচন করা হয়নি"
+
+msgid "No filter"
+msgstr ""
+
+msgid "No Limit"
+msgstr ""
+
+msgid "No matches"
+msgstr "কোনো মিল নেই"
+
+msgid "No Name"
+msgstr ""
+
+msgid "No name"
+msgstr "নামহীন"
+
+msgid "No network connection"
+msgstr ""
+
+msgid "No results"
+msgstr "কোনো ফলাফল নেই"
+
+msgid "No Results Found"
+msgstr ""
+
+msgid "No results found"
+msgstr ""
+
+msgid "No search results"
+msgstr ""
+
+msgid "No selection"
+msgstr "কোনো নির্বাচন নেই"
+
+msgid "No Subject"
+msgstr "বিষয় অনির্দিষ্ট"
+
+msgid "No VPN configuration options."
+msgstr ""
+
+msgid "Noise"
+msgstr ""
+
+msgid "None"
+msgstr "কোনটি না"
+
+msgid "none"
+msgstr "একটিও না"
+
+msgid "&None"
+msgstr ""
+
+msgid "_None"
+msgstr "একটিও না (_N)"
+
+msgid "(None)"
+msgstr "(কোনটি না)"
+
+msgid "(none)"
+msgstr "(কিছু না)"
+
+msgid "Nordic"
+msgstr "নর্ডিক"
+
+msgid "Normal"
+msgstr "সাধারণ"
+
+msgid "_Normal Size"
+msgstr "স্বাভাবিক আকার (_N)"
+
+msgid "Normalize"
+msgstr "নরমালাইজ"
+
+msgid "North"
+msgstr "উত্তর"
+
+msgid "North America"
+msgstr "উত্তর আমেরিকা"
+
+msgid "Norway"
+msgstr "নরওয়ে"
+
+msgid "Norwegian"
+msgstr "নরওয়েজিয়ান"
+
+msgid "Not a launchable item"
+msgstr "চালু করা যায় এমন আইটেম নয়"
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr ""
+
+msgid "Not Available"
+msgstr ""
+
+msgid "Not available"
+msgstr "পাওয়া যাচ্ছে না"
+
+msgid "not available"
+msgstr ""
+
+msgid "Not Connected"
+msgstr ""
+
+msgid "Not connected"
+msgstr "সংযোগ স্থাপিত হয়নি"
+
+msgid "Not defined"
+msgstr ""
+
+msgid "Not found"
+msgstr "পাওয়া যায়নি"
+
+msgid "Not implemented"
+msgstr ""
+
+msgid "Not running"
+msgstr "চলমান নয়"
+
+msgid "Not supported"
+msgstr "সমর্থিত নয়"
+
+msgid "Note"
+msgstr "নোট"
+
+msgid "Notes"
+msgstr "নোট"
+
+msgid "Nothing"
+msgstr "কোনটাই নয়"
+
+msgid "Notice"
+msgstr ""
+
+msgid "Notification"
+msgstr ""
+
+msgid "Notifications"
+msgstr "ঘোষনা"
+
+msgid "Noun"
+msgstr "নামপদ"
+
+msgid "November"
+msgstr ""
+
+msgid "Now"
+msgstr "এখন"
+
+msgid "now"
+msgstr ""
+
+msgid "NT Domain"
+msgstr ""
+
+msgid "NUMBER"
+msgstr "NUMBER"
+
+msgid "Number"
+msgstr "সংখ্যা"
+
+msgid "number"
+msgstr "mnubr"
+
+msgid "Number of columns"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
+
+msgid "Numeric"
+msgstr ""
+
+msgid "Nuno Pinheiro"
+msgstr ""
+
+msgid "Object"
+msgstr "অবজেক্ট"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr ""
+
+msgid "Objects"
+msgstr ""
+
+msgid "Oblique"
+msgstr "Oblique"
+
+msgid "Octal"
+msgstr "অক্টাল"
+
+msgid "October"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "off"
+msgstr "বন্ধ"
+
+msgid "Office"
+msgstr "অফিস"
+
+msgid "Offline"
+msgstr ""
+
+msgid "Offset"
+msgstr "অফ-সেট"
+
+msgid "Ogg Vorbis"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "&OK"
+msgstr ""
+
+msgid "_OK"
+msgstr "ঠিক আছে (_O)"
+
+msgid "Okular"
+msgstr ""
+
+msgid "Oman"
+msgstr "ওমান"
+
+msgid "On"
+msgstr ""
+
+msgid "on"
+msgstr "চালু"
+
+msgid "One"
+msgstr ""
+
+msgid "Online"
+msgstr "অন-লাইন"
+
+msgid "Online Accounts"
+msgstr ""
+
+msgid "Opacity"
+msgstr "অস্বচ্ছতা"
+
+msgid "Opaque"
+msgstr "অস্বচ্ছ"
+
+msgid "Open"
+msgstr "খুলুন"
+
+msgid "&Open"
+msgstr "খোলো (&খ)"
+
+msgid "_Open"
+msgstr "খুলুন (_O)"
+
+msgid "Open..."
+msgstr ""
+
+msgid "&Open..."
+msgstr ""
+
+msgid "_Open..."
+msgstr "খুলুন... (_O)"
+
+msgid "Open %1"
+msgstr ""
+
+msgid "Open a file"
+msgstr "ফাইল খুলুন"
+
+msgid "Open a new tab"
+msgstr "নতুন ট্যাব খুলুন"
+
+msgid "Open a new window"
+msgstr "নতুন উইন্ডো খুলুন"
+
+msgid "Open an existing document"
+msgstr "বিদ্যমান কোন নথি খুলুন"
+
+msgid "Open Audio"
+msgstr ""
+
+msgid "Open Containing Folder"
+msgstr "ধারণকারী ফোল্ডার খুলুন"
+
+msgid "&Open Containing Folder"
+msgstr ""
+
+msgid "Open Document"
+msgstr "নথি খুলুন"
+
+msgid "Open File"
+msgstr "ফাইল খুলুন"
+
+msgid "Open file"
+msgstr "ফাইল খুলুন"
+
+msgid "Open Folder"
+msgstr "ফোল্ডার খুলুন"
+
+msgid "Open folder"
+msgstr ""
+
+msgid "Open Image"
+msgstr "ছবি খুলুন"
+
+msgid "Open in Browser"
+msgstr ""
+
+msgid "Open in File Manager"
+msgstr ""
+
+msgid "Open in New Tab"
+msgstr "নতুন ট্যাবে খোলা"
+
+msgid "Open in New Window"
+msgstr "নতুন উইণ্ডোয় খোলো"
+
+msgid "Open Link"
+msgstr "লিঙ্ক খোলো"
+
+msgid "_Open Link"
+msgstr "লিংক খুলুন (_O)"
+
+msgid "Open Location"
+msgstr "অবস্থান খুলুন"
+
+msgid "Open Menu"
+msgstr ""
+
+msgid "Open Project"
+msgstr "প্রকল্পটি খুলুন"
+
+msgid "Open &Recent"
+msgstr "&সম্প্রতি ব্যবহৃত"
+
+msgid "Open Terminal Here"
+msgstr ""
+
+msgid "Open URL"
+msgstr "ইউ-আর-এল খোলো"
+
+msgid "Open Video"
+msgstr ""
+
+msgid "Open With"
+msgstr "খুলতে ব্যবহার করো"
+
+msgid "Open with"
+msgstr ""
+
+msgid "&Open With"
+msgstr "খুলতে ব্যবহার করো"
+
+msgid "Open With..."
+msgstr ""
+
+msgid "Open &with %1"
+msgstr ""
+
+msgid "OpenGL"
+msgstr "ওপেন-জি-এল"
+
+msgid "Opening file..."
+msgstr ""
+
+msgid "OpenStreetMap"
+msgstr ""
+
+msgid "Opera"
+msgstr ""
+
+msgid "Operation"
+msgstr ""
+
+msgid "Operation was cancelled"
+msgstr "কাজ বাতিল করা হয়েছে"
+
+msgid "Operations"
+msgstr ""
+
+msgid "Operator"
+msgstr "অপারেটর"
+
+msgid "Optical Character Recognition"
+msgstr "Optical Character Recognition"
+
+msgid "Optimize"
+msgstr ""
+
+msgid "Option"
+msgstr "অপশন"
+
+msgid "Optional"
+msgstr "অপশনাল"
+
+msgid "Options"
+msgstr "অপশন"
+
+msgid "&Options"
+msgstr ""
+
+msgid "OR"
+msgstr ""
+
+msgid "Or"
+msgstr ""
+
+msgid "or"
+msgstr "অথবা"
+
+msgid "Orange"
+msgstr "ওরেঞ্জ"
+
+msgid "Order"
+msgstr ""
+
 msgid "Organization"
-msgstr "সংস্থা"
+msgstr "প্রতিষ্ঠান"
 
-#. Occurs in 10 KDE PO files
+msgid "Orientation"
+msgstr "দিশা"
+
+msgid "Origin"
+msgstr ""
+
+msgid "Original"
+msgstr "মূল"
+
+msgid "Original Author"
+msgstr "মূল লেখক"
+
+msgid "Original author"
+msgstr "প্রারম্ভিক লেখক"
+
+msgid "Original Size"
+msgstr ""
+
+msgid "Oriya"
+msgstr "ওড়িয়া"
+
+msgid "Other"
+msgstr "অন্যান্য"
+
+msgid "other"
+msgstr ""
+
+msgid "Other..."
+msgstr ""
+
+msgid "Other Application..."
+msgstr "অন্য অ্যাপলিকেশন..."
+
+msgid "Other Options"
+msgstr ""
+
+msgid "Others"
+msgstr "অন্যান্য"
+
+msgid "Out"
+msgstr "বাহিরে"
+
+msgid "Out of memory"
+msgstr "মেমরি অবশিষ্ট নেই"
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Output"
+msgstr "আউটপুট"
+
+msgid "Overlay"
+msgstr "আস্তরণ"
+
+msgid "Overview"
+msgstr "সামগ্রিক চিত্র"
+
+msgid "Overwrite"
+msgstr ""
+
+msgid "Overwrite File?"
+msgstr "ফাইলের ওপর দিয়েই কি লেখা হবে?"
+
+msgid "Owner"
+msgstr "মালিক"
+
+msgid "Ownership"
+msgstr "মালিকানা"
+
+msgid "Oxygen"
+msgstr "অক্সিজেন"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr ""
+
+msgid "Package"
+msgstr "প্যাকেজ"
+
+msgid "Padding"
+msgstr ""
+
+msgid "Page"
+msgstr "পৃষ্ঠা"
+
+msgid "page"
+msgstr "পৃষ্ঠা"
+
+msgid "Page %1"
+msgstr ""
+
+msgid "Page %1 of %2"
+msgstr ""
+
+msgid "Page Break"
+msgstr ""
+
+msgid "Page Count"
+msgstr ""
+
+msgid "Page Number"
+msgstr ""
+
+msgid "Page Setup"
+msgstr "পৃষ্ঠার সেটআপ"
+
+msgid "Pager"
+msgstr "পেজার"
+
+msgid "Pages"
+msgstr ""
+
+msgid "Paint"
+msgstr "রং"
+
+msgid "Pair"
+msgstr ""
+
+msgid "Pakistan"
+msgstr "পাকিস্তান"
+
+msgid "Palau"
+msgstr "পালাউ"
+
+msgid "Palette"
+msgstr "প্যালেট"
+
+msgid "Panama"
+msgstr "পানামা"
+
+msgid "Panel"
+msgstr "প্যানেল"
+
+msgid "Panels"
+msgstr ""
+
+msgid "&Panels"
+msgstr ""
+
+msgid "PAP"
+msgstr ""
+
+msgid "Paper"
+msgstr ""
+
+msgid "Paper Size"
+msgstr ""
+
+msgid "Papua New Guinea"
+msgstr "পাপুয়া নিউ গিনি"
+
+msgid "Paragraph"
+msgstr "অনুচ্ছেদ"
+
+msgid "Paraguay"
+msgstr "প্যারাগুয়ে"
+
+msgid "Parallel"
+msgstr "সমান্তরাল"
+
+msgid "Parameter"
+msgstr "পরামিতি"
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Parent"
+msgstr "প্যারেন্ট"
+
+msgid "Partition"
+msgstr ""
+
+msgid "Password"
+msgstr "পাসওয়ার্ড"
+
+msgid "password"
+msgstr "পাসওয়ার্ড"
+
+msgid "&Password"
+msgstr ""
+
+msgid "_Password"
+msgstr "পাসওয়ার্ড: (_P)"
+
+msgid "Password..."
+msgstr ""
+
+msgid "Passwords"
+msgstr "পাসওয়ার্ড"
+
+msgid "Paste"
+msgstr "প্রতিলেপন করুন"
+
+msgid "&Paste"
+msgstr "সাঁটো (&স)"
+
+msgid "_Paste"
+msgstr "প্রতিলেপন করুন (_P)"
+
+msgid "Path"
+msgstr "পাথ"
+
+msgid "path"
+msgstr ""
+
+msgid "Paths"
+msgstr "পাথ"
+
+msgid "Pattern"
+msgstr "প্যাটার্ণ"
+
+msgid "Patterns"
+msgstr "নমুনা"
+
+msgid "Pause"
+msgstr "বিরতি"
+
+msgid "&Pause"
+msgstr "&দাড়াও"
+
+msgid "Pause playback"
+msgstr ""
+
+msgid "PAUSED"
+msgstr ""
+
+msgid "Paused"
+msgstr "বিরত"
+
+msgid "PDF"
+msgstr ""
+
+msgid "Peak"
+msgstr ""
+
+msgid "Peek at Desktop"
+msgstr ""
+
+msgid "Pencil"
+msgstr "পেন্সিল"
+
+msgid "Pending"
+msgstr ""
+
+msgid "Pentagon"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Percent"
+msgstr "শতাংশ"
+
+msgid "Percentage"
+msgstr "শতাংশ"
+
+msgid "Perceptual"
+msgstr ""
+
+msgid "Performance"
+msgstr "কার্যকারীতা"
+
+msgid "Period"
+msgstr ""
+
+msgid "Permission denied"
+msgstr "অনুমতি দেওয়া হয়নী"
+
+msgid "Permissions"
+msgstr "অনুমতি"
+
+msgid "Persian"
+msgstr "ফার্সি"
+
+msgid "Person"
+msgstr ""
+
+msgid "Personal"
+msgstr "ব্যক্তিগত"
+
+msgid "Personal Information"
+msgstr ""
+
+msgid "Peru"
+msgstr "পেরু"
+
+msgid "Phase"
+msgstr ""
+
+msgid "Philippines"
+msgstr "ফিলিপাইন্স"
+
+msgid "Phone"
+msgstr "ফোন"
+
+msgid "Photo"
+msgstr "ছবি"
+
+msgid "PHP Documentation"
+msgstr ""
+
+msgid "PiB"
+msgstr ""
+
+msgid "Pick a color"
+msgstr "একটি রং বাছাই করুন"
+
+msgid "Picture"
+msgstr ""
+
+msgid "Pictures"
+msgstr "ছবি"
+
+msgid "PID"
+msgstr ""
+
+msgid "Pie"
+msgstr ""
+
+msgid "Pin"
+msgstr ""
+
+msgid "Pino Toscano"
+msgstr ""
+
+msgid "Pixels"
+msgstr "পিক্সেল"
+
+msgid "pixels"
+msgstr "পিক্সেল"
+
+msgid "Placement"
+msgstr ""
+
+msgid "Places"
+msgstr "স্থান"
+
+msgid "Plain"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Plan"
+msgstr ""
+
+msgid "Plasma"
+msgstr ""
+
+msgid "Platform"
+msgstr ""
+
+msgid "Play"
+msgstr "চালানো হবে"
+
+msgid "Play Next"
+msgstr ""
+
+msgid "Play Sounds"
+msgstr ""
+
+msgid "Playback"
+msgstr "প্লেব্যাক"
+
+msgid "Player"
+msgstr ""
+
+msgid "Player %1"
+msgstr "খেলোয়াড় %1"
+
+msgid "Players"
+msgstr ""
+
+msgid "Playground"
+msgstr ""
+
+msgid "Playing"
+msgstr "চালানো হচ্ছে"
+
+msgid "Playlist"
+msgstr "প্লে-লিস্ট"
+
+msgid "Playlists"
+msgstr "প্লেলিস্ট"
+
+msgid "Play/Pause"
+msgstr "চালানো/থামানো হবে"
+
+msgid "Please choose a file"
+msgstr ""
+
+msgid "Please wait"
+msgstr "অনুগ্রহ করে অপেক্ষা করুন"
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Plot"
+msgstr ""
+
+msgid "Plots"
+msgstr ""
+
+msgid "Plugin"
+msgstr "প্লাগইন"
+
+msgid "Plugins"
+msgstr "প্লাগইন"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr ""
+
+msgid "Point"
+msgstr "বিন্দু"
+
+msgid "Pointers"
+msgstr ""
+
+msgid "Points"
+msgstr "বিন্দু"
+
+msgid "points"
+msgstr "বিন্দু"
+
+msgid "Poland"
+msgstr "পোল্যান্ড"
+
+msgid "Policy"
+msgstr "পলিসি"
+
+msgid "Polish"
+msgstr "পোলিশ"
+
+msgid "Polygon"
+msgstr "বহুভুজ"
+
+msgid "Pop"
+msgstr "পপ"
+
+msgid "Port"
+msgstr "পোর্ট"
+
+msgid "&Port"
+msgstr "পোর্ট (&প)"
+
+msgid "Portrait"
+msgstr ""
+
+msgid "Portugal"
+msgstr "পর্তুগাল"
+
+msgid "Portuguese"
+msgstr "পর্তুগীজ"
+
+msgid "Position"
+msgstr "অবস্থান"
+
+msgid "Posterize"
+msgstr "পোস্টারাইজ"
+
+msgid "PostScript"
+msgstr ""
+
+msgid "Power"
+msgstr "বিদ্যুৎ সরবরাহ"
+
+msgid "Power Management"
+msgstr "পাওয়ার ব্যবস্থাপনা"
+
+msgid "Precision"
+msgstr "নিখুঁত হওয়ার মাত্রা"
+
+msgid "Preferences"
+msgstr "পছন্দসমূহ"
+
+msgid "_Preferences"
+msgstr "পছন্দসমূহ (_P)"
+
+msgid "Prefix"
+msgstr ""
+
+msgid "Presentation"
+msgstr ""
+
+msgid "Preset"
+msgstr ""
+
+msgid "Presets"
+msgstr ""
+
+msgid "Pressure"
+msgstr "চাপ"
+
+msgid "Preview"
+msgstr "প্রাকদর্শন"
+
+msgid "&Preview"
+msgstr ""
+
+msgid "Previews"
+msgstr "প্রাকদর্শন"
+
+msgid "Previous"
+msgstr "পূর্ববর্তী"
+
+msgid "&Previous"
+msgstr ""
+
+msgid "_Previous"
+msgstr "পূর্ববর্তী (_P)"
+
+msgid "Previous Image"
+msgstr "পূর্ববর্তী ছবি"
+
+msgid "Previous month"
+msgstr ""
+
+msgid "Previous Page"
+msgstr ""
+
+msgid "Previous Tab"
+msgstr ""
+
+msgid "Previous Track"
+msgstr ""
+
+msgid "Price"
+msgstr "প্রাইস"
+
+msgid "Primary"
+msgstr "প্রধান"
+
+msgid "Print"
+msgstr "মুদ্রণ"
+
+msgid "_Print"
+msgstr ""
+
+msgid "Print..."
+msgstr "মুদ্রণ…"
+
+msgid "&Print..."
+msgstr ""
+
+msgid "_Print..."
+msgstr "মুদ্রণ (_P)..."
+
+msgid "Print Image"
+msgstr "ছবি ছাপাও"
+
+msgid "Print Preview"
+msgstr ""
+
+msgid "Print version"
+msgstr "প্রিন্ট সংস্করণ"
+
+msgid "Print version information and exit"
+msgstr ""
+
+msgid "Printer"
+msgstr "মুদ্রণযন্ত্র"
+
+msgid "Printers"
+msgstr ""
+
+msgid "Printing"
+msgstr "মুদ্রণ চলছে"
+
+msgid "Printing..."
+msgstr ""
+
+msgid "Priority"
+msgstr "অগ্রাধিকার"
+
+msgid "Privacy"
+msgstr "গোপনীয়তা"
+
+msgid "Private"
+msgstr ""
+
+msgid "Process"
+msgstr "প্রক্রিয়া"
+
+msgid "Processor"
+msgstr "প্রসেসর"
+
+msgid "Producer"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Profession"
+msgstr "পেশা"
+
+msgid "Profile"
+msgstr ""
+
+msgid "Profile name"
+msgstr ""
+
+msgid "Profiles"
+msgstr "প্রোফাইল"
+
+msgid "Program"
+msgstr "প্রোগ্রাম"
+
+msgid "Progress"
+msgstr "অগ্রগতি"
+
+msgid "Project"
+msgstr "প্রকল্প"
+
+msgid "&Project"
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "Properties"
+msgstr "বৈশিষ্ট্য"
+
+msgid "&Properties"
+msgstr "বৈশিষ্ট্যা&বলী"
+
+msgid "_Properties"
+msgstr "বৈশিষ্ট্য (_P)"
+
+msgid "Properties..."
+msgstr ""
+
+msgid "&Properties..."
+msgstr ""
+
+msgid "Property"
+msgstr "বৈশিষ্ট্য"
+
+msgid "property “%s” invalid or not supported"
+msgstr ""
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr ""
+
+msgid "Proportional"
+msgstr "Proportional"
+
+msgid "Protected"
+msgstr ""
+
+msgid "Protocol"
+msgstr ""
+
+msgid "Provider"
+msgstr ""
+
+msgid "Proxy"
+msgstr ""
+
+msgid "Proxy Settings"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Public Key"
+msgstr "পাবলিক কী"
+
+msgid "Publisher"
+msgstr ""
+
+msgid "Publishing"
+msgstr "প্রকাশ করা হচ্ছে"
+
+msgid "Puerto Rico"
+msgstr "পুয়ের্তো রিকো"
+
+msgid "Punjabi"
+msgstr "পাঞ্জাবী"
+
+msgid "Push"
+msgstr "ধাক্কা"
+
+msgid "px"
+msgstr ""
+
+msgid "Python"
+msgstr "পাইথন"
+
+msgid "Qatar"
+msgstr "কাতার"
+
+msgid "QR Code"
+msgstr ""
+
+msgid "Qt"
+msgstr "কিউ-টি (Qt)"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+
+msgid "Quality"
+msgstr "গুণগত মান"
+
+msgid "Quebec"
+msgstr "কিউবেক"
+
+msgid "Query"
+msgstr ""
+
+msgid "Question"
+msgstr "প্রশ্ন"
+
+msgid "Queue"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Quit"
+msgstr "প্রস্থান"
+
+msgid "&Quit"
+msgstr "প্রস্থা&ন করো"
+
+msgid "_Quit"
+msgstr "প্রস্থান (_Q)"
+
+msgid "Quit application"
+msgstr "অ্যাপলিকেশন বন্ধ করো"
+
+msgid "Quit the application"
+msgstr ""
+
+msgid "Quits the application"
+msgstr ""
+
+msgid "Quote"
+msgstr ""
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr ""
+
+msgid "Radio"
+msgstr "রেডিও"
+
+msgid "Radius"
+msgstr "ব্যাসার্ধ"
+
+msgid "Raise"
+msgstr "তুলে ধর"
+
+msgid "Random"
+msgstr "এলোমেলোভাবে"
+
+msgid "Range"
+msgstr "সীমা"
+
+msgid "Rank"
+msgstr ""
+
+msgid "Rate"
+msgstr "হার"
+
+msgid "Rating"
+msgstr "রেটিং"
+
+msgid "Raw"
+msgstr ""
+
+msgid "Read"
+msgstr "পড়া"
+
+msgid "Read error"
+msgstr ""
+
+msgid "Read Only"
+msgstr ""
+
+msgid "Read only"
+msgstr ""
+
+msgid "Reading"
+msgstr "রিডিং"
+
+msgid "read-only"
+msgstr ""
+
+msgid "Ready"
+msgstr "প্রস্তুত"
+
+msgid "Ready."
+msgstr ""
+
+msgid "Reason"
+msgstr "কারণ"
+
+msgid "Reassign"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "Recent Documents"
+msgstr "সম্প্রতি ব্যবহৃত নথী"
+
+msgid "Recent Files"
+msgstr ""
+
+msgid "Recent files"
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "Recording"
+msgstr ""
+
+msgid "Rectangle"
+msgstr ""
+
+msgid "Recursive"
+msgstr ""
+
+msgid "Red"
+msgstr "লাল"
+
+msgid "red"
+msgstr ""
+
+msgid "Redo"
+msgstr "আবার করো"
+
+msgid "&Redo"
+msgstr ""
+
+msgid "_Redo"
+msgstr "পুনরায় করুন (_R)"
+
+msgid "Re&do"
+msgstr "&আবার করো"
+
+msgid "Redo %1"
+msgstr ""
+
+msgid "Reference"
+msgstr ""
+
+msgid "References"
+msgstr ""
+
+msgid "Refresh"
+msgstr "রিফ্রেশ"
+
+msgid "_Refresh"
+msgstr "নতুন করেত প্রদর্শন (_R)"
+
+msgid "Reggae"
+msgstr "রেগে"
+
+msgid "Region"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "Regular Expression"
+msgstr "রেগুলার এক্সপ্রেশন"
+
+msgid "Regular expression"
+msgstr ""
+
+msgid "Reject"
+msgstr "প্রত্যাখ্যান করো"
+
+msgid "Relative"
+msgstr ""
+
+msgid "Reload"
+msgstr "নতুন করে পড়ো"
+
+msgid "&Reload"
+msgstr "&নতুন করে পড়ো"
+
+msgid "_Reload"
+msgstr "পুনরায় লোড করুন (_R)"
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Remote"
+msgstr ""
+
+msgid "Removable"
+msgstr "অপসারণযোগ্য"
+
+msgid "Remove"
+msgstr "সরাও"
+
+msgid "&Remove"
+msgstr ""
+
+msgid "_Remove"
+msgstr "অপসারণ (_R)"
+
+msgid "R&emove"
+msgstr ""
+
+msgid "Re&move"
+msgstr "&সরিয়ে ফেলো"
+
+msgid "Remove..."
+msgstr ""
+
+msgid "Remove %1"
+msgstr ""
+
+msgid "Remove Account"
+msgstr ""
+
+msgid "Remove All"
+msgstr ""
+
+msgid "Remove Bookmark"
+msgstr ""
+
+msgid "Remove Folder"
+msgstr "ফোল্ডার সরিয়ে ফেলো"
+
+msgid "Remove from Favorites"
+msgstr ""
+
+msgid "_Remove from Toolbar"
+msgstr "টুলবার থেকে মুছে ফেলুন (_R)"
+
 msgid "Remove Group"
 msgstr "গ্রুপ সরিয়ে ফেলো"
 
-#. Occurs in 10 KDE PO files
+msgid "Remove Rule"
+msgstr ""
+
+msgid "Remove the selected item from the toolbar"
+msgstr "টুল-বার থেকে নির্বাচিত বস্তু মুছে ফেলুন"
+
+msgid "Remove the selected toolbar"
+msgstr "নির্বাচিত টুলবার মুছে ফেলুন"
+
+msgid "Rename"
+msgstr "নাম পাল্টাও"
+
+msgid "&Rename"
+msgstr "না&ম পরিবর্তন করো"
+
+msgid "_Rename"
+msgstr "পুনঃনামকরণ (_R)"
+
+msgid "Rename..."
+msgstr "নাম পাল্টাও..."
+
+msgid "&Rename..."
+msgstr ""
+
+msgid "Rename Bookmark"
+msgstr ""
+
+msgid "Rename File"
+msgstr ""
+
+msgid "Repeat"
+msgstr "পুনরাবৃত্ত"
+
+msgid "Replace"
+msgstr "প্রতিস্থাপন"
+
+msgid "&Replace"
+msgstr "&বদলাও"
+
+msgid "_Replace"
+msgstr "প্রতিস্থাপন (_R)"
+
+msgid "Replace All"
+msgstr ""
+
+msgid "Replace _All"
+msgstr ""
+
+msgid "Replace an existing instance"
+msgstr ""
+
+msgid "Replacement"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Report"
+msgstr ""
+
+msgid "Report a bug"
+msgstr ""
+
+msgid "Report Bug"
+msgstr ""
+
+msgid "Report Bug..."
+msgstr ""
+
+msgid "&Report Bug..."
+msgstr ""
+
+msgid "Reports"
+msgstr ""
+
+msgid "Required"
+msgstr "আবশ্যকীয়"
+
+msgid "Rescan"
+msgstr ""
+
+msgid "Resend"
+msgstr "আবার পাঠাও"
+
+msgid "Reset"
+msgstr "রিসেট"
+
+msgid "&Reset"
+msgstr "রিসে&ট"
+
+msgid "_Reset"
+msgstr "রিসেট (_R)"
+
+msgid "Reset to Default"
+msgstr ""
+
+msgid "Reset to default"
+msgstr ""
+
+msgid "Reset Zoom"
+msgstr ""
+
+msgid "Resize"
+msgstr "মাপ বদলাও"
+
+msgid "_Resize"
+msgstr "আকার পরিবর্তন করো (_আ)"
+
+msgid "Resize Image"
+msgstr "ছবির আকার পরিবর্তন"
+
+msgid "Resolution"
+msgstr "রেজলুশন"
+
+msgid "Resource"
+msgstr ""
+
+msgid "Resources"
+msgstr "সম্পদ"
+
+msgid "Restart"
+msgstr "নতুন করে শুরু করো"
+
+msgid "Restore"
+msgstr "পুনঃস্থাপন করো"
+
+msgid "Restore Session"
+msgstr ""
+
+msgid "Result"
+msgstr ""
+
+msgid "Results"
+msgstr ""
+
+msgid "Resume"
+msgstr ""
+
+msgid "&Resume"
+msgstr "আবা&র চালু করো"
+
+msgid "Retry"
+msgstr "আবার"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Reverse"
+msgstr "উল্টানো"
+
+msgid "Revert"
+msgstr "প্রত্যাবর্তন করুন"
+
+msgid "_Revert"
+msgstr ""
+
+msgid "Review"
+msgstr ""
+
+msgid "Revision"
+msgstr ""
+
+msgid "Revoked"
+msgstr "প্রত্যাখ্যাত"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "Right"
+
+msgid "right"
+msgstr "ডান"
+
+msgid "&Right"
+msgstr ""
+
+msgid "_Right"
+msgstr ""
+
+msgid "Right to Left"
+msgstr "ডান থেকে বামে"
+
+msgid "Right-click"
+msgstr ""
+
+msgid "River"
+msgstr ""
+
+msgid "RKWard Team"
+msgstr ""
+
+msgid "Rock"
+msgstr "রক"
+
+msgid "Role"
+msgstr "ভূমিকা"
+
+msgid "Roman"
+msgstr "Roman"
+
+msgid "Romania"
+msgstr "রোমানিয়া"
+
+msgid "Romanian"
+msgstr "রোমানীয়"
+
+msgid "Room"
+msgstr ""
+
+msgid "Root"
+msgstr ""
+
+msgid "Rotate"
+msgstr "আবর্তন"
+
+msgid "Rotate Left"
+msgstr "বাঁদিকে ঘোরাও"
+
+msgid "Rotate Right"
+msgstr "ডানদিকে ঘোরাও"
+
+msgid "Rotation"
+msgstr ""
+
+msgid "Round"
+msgstr "বৃত্তাকার"
+
+msgid "Row"
+msgstr "সারি"
+
+msgid "Rows"
+msgstr "সারি"
+
+msgid "rows"
+msgstr "সারি"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "&Run"
+msgstr "&চালান"
+
+msgid "Run in terminal"
+msgstr ""
+
+msgid "Running"
+msgstr "চলছে"
+
+msgid "Russia"
+msgstr "রাশিয়া"
+
+msgid "Russian"
+msgstr "রুশ"
+
+msgid "Rwanda"
+msgstr "রুয়ান্ডা"
+
+msgid "S"
+msgstr ""
+
+msgid "s"
+msgstr ""
+
+msgid "%s"
+msgstr ""
+
+msgid "%s Properties"
+msgstr "%s-এর বৈশিষ্ট্যাবলী"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%1$s: %2$s"
+
+msgid "%s (%s)"
+msgstr "%1$s (%2$s)"
+
+msgid "Samba"
+msgstr ""
+
+msgid "Samoa"
+msgstr "সামোয়া"
+
+msgid "Sample"
+msgstr ""
+
+msgid "Sample Rate"
+msgstr ""
+
+msgid "Sample rate"
+msgstr "নমুনার হার"
+
+msgid "Samples"
+msgstr ""
+
+msgid "San Marino"
+msgstr "সান মারিনো"
+
+msgid "Sans Serif"
+msgstr ""
+
+msgid "Satellite"
+msgstr ""
+
+msgid "Saturation"
+msgstr "সম্পৃক্তি"
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Saudi Arabia"
+msgstr "সৌদি আরব"
+
+msgid "Save"
+msgstr "সংরক্ষণ"
+
+msgid "&Save"
+msgstr "সংরক্ষণ &করো"
+
+msgid "_Save"
+msgstr "সংরক্ষণ (_S)"
+
+msgid "Save..."
+msgstr ""
+
+msgid "Save All"
+msgstr "সব সংরক্ষণ করো"
+
+msgid "Save As"
+msgstr "নতুন নামে সংরক্ষণ"
+
+msgid "Save as"
+msgstr ""
+
+msgid "Save _As"
+msgstr ""
+
+msgid "Save As..."
+msgstr "নতুন নামে সংরক্ষণ করো..."
+
+msgid "Save as..."
+msgstr "নতুনভাবে সংরক্ষণ..."
+
+msgid "_Save As..."
+msgstr ""
+
+msgid "Save &As..."
+msgstr "&নতুন নামে সংরক্ষণ করো..."
+
+msgid "Save _As..."
+msgstr "হিসেবে সংরক্ষণ করুন (_A)..."
+
+msgid "Save Attachment"
+msgstr "সংযুক্তি সংরক্ষণ করুন"
+
+msgid "Save Changes"
+msgstr "সংরক্ষণ পরিবর্তন"
+
+msgid "Save Changes?"
+msgstr ""
+
+msgid "Save File"
+msgstr "ফাইল সংরক্ষণ করো "
+
+msgid "Save file"
+msgstr "ফাইল সংরক্ষণ করুন"
+
+msgid "Save Game"
+msgstr ""
+
+msgid "Save Image"
+msgstr "চিত্রটি সংরক্ষণ করুন"
+
+msgid "_Save Image As..."
+msgstr "নতুনভাবে ছবি সংরক্ষণ করুন… (_S)"
+
+msgid "Save Project"
+msgstr ""
+
+msgid "Save Session"
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving"
+msgstr "সংরক্ষণ করা হচ্ছে"
+
+msgid "Saving..."
+msgstr "সংরক্ষণ করা হচ্ছে..."
+
+msgid "Saving file..."
+msgstr ""
+
+msgid "Scale"
+msgstr "স্কেল"
+
+msgid "_Scale"
+msgstr "মাত্রা (_S)"
+
+msgid "Scaled"
+msgstr "আকার পরিবর্তিত"
+
+msgid "Scaling"
+msgstr "আকার পরিবর্তন"
+
+msgid "Scan"
+msgstr "স্ক্যান করুন"
+
+msgid "Scanner"
+msgstr "স্ক্যানার"
+
+msgid "Scanning..."
+msgstr "স্ক্যান করা হচ্ছে..."
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Scheduling"
+msgstr ""
+
+msgid "Scheme"
+msgstr "স্কিম"
+
+msgid "School"
+msgstr ""
+
+msgid "Scientific"
+msgstr "বৈজ্ঞানিক"
+
+msgid "Scope"
+msgstr "পরিধি"
+
+msgid "Score"
+msgstr "স্কোর"
+
+msgid "Score: %1"
+msgstr ""
+
+msgid "Screen"
+msgstr "পর্দা"
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Screenshots"
+msgstr ""
+
+msgid "Script"
+msgstr "স্ক্রিপ্ট"
+
+msgid "Scripting"
+msgstr ""
+
+msgid "Scripts"
+msgstr "পাণ্ডুলিপি"
+
+msgid "Scroll"
+msgstr "উপর-নীচ করো"
+
+msgid "Scroll Down"
+msgstr "নিচে স্ক্রল করুন"
+
+msgid "Scroll Left"
+msgstr "বাঁদিকে যাও"
+
+msgid "Scroll Right"
+msgstr "ডানদিকে যাও"
+
+msgid "Scroll Up"
+msgstr "উপরে স্ক্রল করুন"
+
+msgid "Scrolling"
+msgstr "স্ক্রল করা হচ্ছে"
+
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+msgid "&Search"
+msgstr "&সন্ধান"
+
+msgid "_Search"
+msgstr "অনুসন্ধান (_S)"
+
+msgid "S&earch"
+msgstr ""
+
+msgid "Search..."
+msgstr "অনুসন্ধান..."
+
+msgid "Search Bar"
+msgstr ""
+
+msgid "_Search for"
+msgstr "অনুসন্ধান করা হবে (_S): "
+
+msgid "Search for '%1' with"
+msgstr ""
+
+msgid "Search Options"
+msgstr "সন্ধানের অপশনসমূহ"
+
+msgid "Search Results"
+msgstr "অনুসন্ধানের ফলাফল"
+
+msgid "Search results"
+msgstr ""
+
+msgid "Searching..."
+msgstr "অনুসন্ধান করা হচ্ছে..."
+
+msgid "Sebastian Kügler"
+msgstr ""
+
+msgid "Second"
+msgstr "সেকন্ড"
+
+msgid "Seconds"
+msgstr "সেকেন্ড"
+
+msgid "seconds"
+msgstr "সেকেন্ড"
+
+msgid "Section"
+msgstr "শাখা"
+
+msgid "Security"
+msgstr "নিরাপত্তা"
+
+msgid "Seek"
+msgstr "খোঁজা"
+
+msgid "Select"
+msgstr "নির্বাচন করুন"
+
+msgid "_Select"
+msgstr "নির্বাচন (_S)"
+
+msgid "Select..."
+msgstr ""
+
+msgid "Select All"
+msgstr "সব নির্বাচন করুন"
+
+msgid "Select all"
+msgstr "সব নির্বাচন"
+
+msgid "&Select All"
+msgstr ""
+
+msgid "_Select All"
+msgstr "সমগ্র নির্বাচন করুন (_S)"
+
+msgid "Select &All"
+msgstr "&সব নির্বাচন করো"
+
+msgid "Select _All"
+msgstr "সবকিছু নির্বাচন করুন (_A)"
+
+msgid "Select an authentication mode."
+msgstr ""
+
+msgid "Select an image"
+msgstr ""
+
+msgid "Select Color"
+msgstr "রং নির্বাচন করুন"
+
+msgid "Select Directory"
+msgstr ""
+
+msgid "Select File"
+msgstr "ফাইল নির্বাচন করুন"
+
+msgid "Select file"
+msgstr ""
+
+msgid "Select Folder"
+msgstr "ফোল্ডার নির্বাচন করুন"
+
+msgid "Select folder"
+msgstr ""
+
+msgid "Select Font"
+msgstr "ফন্ট নির্বাচন করুন"
+
+msgid "Select None"
+msgstr "কোনটি না নির্বাচন করুন"
+
+msgid "Select Source"
+msgstr "উৎস নির্বাচন করুন"
+
+msgid "Selected"
+msgstr ""
+
+msgid "Selection"
+msgstr "নির্বাচন"
+
+msgid "Selections"
+msgstr ""
+
+msgid "Semicolon"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send an email to %1"
+msgstr ""
+
+msgid "Send File"
+msgstr ""
+
+msgid "Send to %1"
+msgstr "%1-কে পাঠাও"
+
+msgid "Sender"
+msgstr "প্রেরক"
+
+msgid "Senegal"
+msgstr "সেনেগাল"
+
+msgid "Sensitivity"
+msgstr "সংবেদনশীলতা"
+
+msgid "Sent"
+msgstr ""
+
+msgid "Separator"
+msgstr "বিভাজক"
+
+msgid "September"
+msgstr ""
+
+msgid "Serbia"
+msgstr "সার্বিয়া"
+
+msgid "Serbian"
+msgstr "সার্বীয়"
+
+msgid "Serial Number"
+msgstr "ক্রমিক সংখ্যা"
+
+msgid "Serial number"
+msgstr ""
+
+msgid "Series"
+msgstr ""
+
+msgid "Serif"
+msgstr ""
+
+msgid "Server"
+msgstr "সার্ভার"
+
+msgid "Server URL"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Services"
+msgstr "সার্ভিসসমূহ"
+
+msgid "Session"
+msgstr ""
+
+msgid "Session management options"
+msgstr "সেশন ব্যবস্থাপনা অপশন"
+
+msgid "Sessions"
+msgstr "সেশনসমূহ"
+
+msgid "Set"
+msgstr "নির্ধারণ করো"
+
+msgid "Set as Default"
+msgstr ""
+
+msgid "Set as default"
+msgstr ""
+
+msgid "Settings"
+msgstr "সেটিংস"
+
+msgid "&Settings"
+msgstr "&পছন্দ"
+
+msgid "_Settings"
+msgstr ""
+
+msgid "Settings..."
+msgstr "সেটিংস..."
+
+msgid "Severity"
+msgstr ""
+
+msgid "Seychelles"
+msgstr "সেশিলস"
+
+msgid "SHA-256"
+msgstr ""
+
+msgid "Shading"
+msgstr ""
+
+msgid "Shadow"
+msgstr ""
+
+msgid "Shadows"
+msgstr ""
+
+msgid "Shape"
+msgstr "আকৃতি"
+
+msgid "Share"
+msgstr "শেয়ার"
+
+msgid "Share..."
+msgstr ""
+
+msgid "Shared"
+msgstr ""
+
+msgid "Sharing"
+msgstr ""
+
+msgid "Sharing failed"
+msgstr ""
+
+msgid "Sharpen"
+msgstr "সুস্পষ্ট করুন"
+
+msgid "Sharpness"
+msgstr ""
+
+msgid "Shear"
+msgstr "বিভক্ত"
+
+msgid "Shell"
+msgstr ""
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr ""
+
+msgid "Shortcut"
+msgstr "শর্টকাট"
+
+msgid "Shortcuts"
+msgstr "শর্টকাট"
+
+msgid "Show"
+msgstr "প্রদর্শন"
+
+msgid "Show All"
+msgstr ""
+
+msgid "Show Details"
+msgstr ""
+
+msgid "Show details"
+msgstr "বিস্তারিত প্রদর্শন"
+
+msgid "Show Grid"
+msgstr ""
+
+msgid "Show grid"
+msgstr "গ্রীড প্রদর্শন করো"
+
+msgid "Show Help"
+msgstr ""
+
+msgid "Show help"
+msgstr ""
+
+msgid "Show Hidden Files"
+msgstr "গুপ্ত ফাইল দেখাও"
+
+msgid "Show in folder"
+msgstr "ফোল্ডারে প্রদর্শন"
+
+msgid "Show legend"
+msgstr ""
+
+msgid "Show Password"
+msgstr ""
+
+msgid "Show Preview"
+msgstr "প্রাকদর্শন দেখাও"
+
+msgid "Show “_%s”"
+msgstr "“_%s” প্রদর্শন করুন"
+
+msgid "Show session management options"
+msgstr "সেশন ব্যবস্থাপনা অপশন দেখান"
+
+msgid "Show Shortcuts"
+msgstr "শর্টকাট দেখান"
+
+msgid "Show Status Bar"
+msgstr ""
+
+msgid "Show St&atusbar"
+msgstr "স্ট্যাটা&স বার দেখাও"
+
+msgid "Show the application's version"
+msgstr ""
+
+msgid "Show Toolbar"
+msgstr ""
+
+msgid "Show toolbar"
+msgstr "টুলবার প্রদর্শন"
+
+msgid "Show &Toolbar"
+msgstr "টু&লবার দেখাও"
+
+msgid "Shuffle"
+msgstr ""
+
+msgid "Shut Down"
+msgstr ""
+
+msgid "Shutdown"
+msgstr ""
+
+msgid "Side _Pane"
+msgstr "সাইড পেন (_P)"
+
+msgid "Sidebar"
+msgstr "সাইড বার"
+
+msgid "Sierra Leone"
+msgstr "সিয়েরা লিওন"
+
+msgid "Sign"
+msgstr "স্বাক্ষর"
+
+msgid "Signal"
+msgstr ""
+
+msgid "Signature"
+msgstr "স্বাক্ষর"
+
+msgid "Simple"
+msgstr ""
+
+msgid "Singapore"
+msgstr "সিঙ্গাপুর"
+
+msgid "Single"
+msgstr ""
+
+msgid "Sinhala"
+msgstr "সিংহলী"
+
+msgid "Size"
+msgstr "আকার"
+
+msgid "size"
+msgstr "আকার"
+
+msgid "&Size"
+msgstr ""
+
+msgid "Size: %1"
+msgstr ""
+
+msgid "Skip"
+msgstr "এড়িয়ে যাও"
+
+msgid "&Skip"
+msgstr "ছেড়ে যা&ও"
+
+msgid "_Skip"
+msgstr "এগিয়ে চলুন(_S)"
+
+msgid "Skip forward"
+msgstr "এগিয়ে চলুন"
+
+msgid "Sleep"
+msgstr ""
+
+msgid "Slide"
+msgstr ""
+
+msgid "Slider"
+msgstr "স্লাইডার"
+
+msgid "Slideshow"
+msgstr "স্লাইড-শো"
+
+msgid "Slovak"
+msgstr "স্লোভাক"
+
+msgid "Slovenia"
+msgstr "স্লোভেনিয়া"
+
+msgid "Slovenian"
+msgstr "স্লোভেনিয়ান"
+
+msgid "Slow"
+msgstr "ধীর"
+
+msgid "Slower"
+msgstr ""
+
+msgid "Small"
+msgstr "ছোট"
+
+msgid "Smooth"
+msgstr "মসৃণ করা"
+
+msgid "Smoothing"
+msgstr ""
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr ""
+
+msgid "Snap to Grid"
+msgstr ""
+
+msgid "Snow"
+msgstr "তুষার"
+
+msgid "SOCKS"
+msgstr ""
+
+msgid "Socks5"
+msgstr ""
+
+msgid "Software"
+msgstr "সফটওয়্যার"
+
+msgid "Solid"
+msgstr ""
+
+msgid "Solid color"
+msgstr "গাঢ় রং"
+
+msgid "Solomon Islands"
+msgstr "সলোমন দ্বীপ"
+
+msgid "Somalia"
+msgstr "সোমালিয়া"
+
+msgid "Sort"
+msgstr "সাজাও"
+
+msgid "Sort By"
+msgstr "সাজাতে ব্যবহার করো"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Sorting"
+msgstr "ক্রমবিন্যাস"
+
+msgid "Sound"
+msgstr "শব্দ"
+
+msgid "Soundtrack"
+msgstr ""
+
+msgid "Source"
+msgstr "উৎস"
+
+msgid "Sources"
+msgstr "সোর্স"
+
+msgid "South"
+msgstr "দক্ষিণ"
+
+msgid "South Africa"
+msgstr "দক্ষিণ আফ্রিকা"
+
+msgid "South European"
+msgstr "দক্ষিণ ইউরোপিয়ান"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "Spacing"
+msgstr "মধ্যবর্তী দুরত্ব"
+
+msgid "Spain"
+msgstr "স্পেন"
+
+msgid "Spam"
+msgstr ""
+
+msgid "Spanish"
+msgstr "স্প্যানিশ"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "কথা বলুন"
+
+msgid "Speak Text"
+msgstr "লেখা পড়ে শোনাও"
+
+msgid "Speaker"
+msgstr ""
+
+msgid "Special"
+msgstr "বিশেষ"
+
+msgid "Special Characters"
+msgstr ""
+
+msgid "Specials"
+msgstr "Specials"
+
+msgid "Specify file containing saved configuration"
+msgstr "সংরক্ষিত কনফিগারেশন ধারণকারী ফাইল উল্লেখ করুন"
+
+msgid "Specify session management ID"
+msgstr "সেশন ব্যবস্থাপনা ID সুনির্দিষ্টভাবে উল্লেখ করুন"
+
+msgid "Speed"
+msgstr "গতি"
+
+msgid "Spell Check"
+msgstr ""
+
+msgid "Spell Checking"
+msgstr ""
+
+msgid "Spelling"
+msgstr ""
+
+msgid "Spiral"
+msgstr ""
+
+msgid "Split"
+msgstr "বিভক্ত"
+
+msgid "Split View"
+msgstr "বিভক্ত ভিউ"
+
+msgid "Sports"
+msgstr "খেলাধুলা"
+
+msgid "Spreadsheet"
+msgstr ""
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "চৌকো"
+
+msgid "Sri Lanka"
+msgstr "শ্রীলঙ্কা"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+
+msgid "SSL/TLS"
+msgstr ""
+
+msgid "Stack"
+msgstr ""
+
+msgid "Stacked"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Standard deviation"
+msgstr "পরিমিত ব্যবধান"
+
+msgid "Star"
+msgstr ""
+
+msgid "Start"
+msgstr "আরম্ভ"
+
+msgid "&Start"
+msgstr ""
+
+msgid "Start a new game"
+msgstr "নতুন খেলা আরম্ভ করুন"
+
+msgid "Start Date"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+msgid "Start Presentation"
+msgstr "উপস্থাপনা শুরু করুন"
+
+msgid "Start Time"
+msgstr ""
+
+msgid "Started"
+msgstr ""
+
+msgid "Starting"
+msgstr "শুরু করা হচ্ছে"
+
+msgid "Starting..."
+msgstr "শুরু করা হচ্ছে..."
+
+msgid "Starting %s"
+msgstr "%s আরম্ভ হচ্ছে"
+
+msgid "starts with"
+msgstr ""
+
+msgid "Startup"
+msgstr ""
+
+msgid "Stash"
+msgstr ""
+
+msgid "State"
+msgstr "অবস্থা"
+
+msgid "States"
+msgstr ""
+
+msgid "Statistics"
+msgstr "পরিসংখ্যান"
+
+msgid "Status"
+msgstr "অবস্থা"
+
+msgid "Status: %1"
+msgstr ""
+
+msgid "Statusbar"
+msgstr ""
+
+msgid "_Statusbar"
+msgstr "অবস্থাসূচক বার (_S)"
+
+msgid "Step"
+msgstr ""
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr ""
+
+msgid "Stereo"
+msgstr "স্টেরিও"
+
+msgid "Stop"
+msgstr "থামাও"
+
+msgid "&Stop"
+msgstr "&থামো"
+
+msgid "_Stop"
+msgstr "স্থগিত (_S)"
+
+msgid "S&top"
+msgstr ""
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "স্থগিত"
+
+msgid "Storage"
+msgstr ""
+
+msgid "Store"
+msgstr ""
+
+msgid "Stream"
+msgstr ""
+
+msgid "Street"
+msgstr "রাস্তা"
+
+msgid "Strength"
+msgstr "ক্ষমতা"
+
+msgid "Stretch"
+msgstr ""
+
+msgid "Strike Out"
+msgstr ""
+
+msgid "Strikethrough"
+msgstr "অবচ্ছেদন"
+
+msgid "String"
+msgstr "স্ট্রিং"
+
+msgid "string"
+msgstr "পংক্তি"
+
+msgid "Strings"
+msgstr ""
+
+msgid "Stroke"
+msgstr ""
+
+msgid "Strong"
+msgstr "বেশী"
+
+msgid "Structure"
+msgstr ""
+
+msgid "Style"
+msgstr "শৈলী"
+
+msgid "Subject"
+msgstr "বিষয়"
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Subscript"
+msgstr "Subscript"
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Subtitle"
+msgstr ""
+
+msgid "Subtitles"
+msgstr "উপশিরোনাম"
+
+msgid "Subtract"
+msgstr "বিয়োগ করা"
+
+msgid "Subversion"
+msgstr ""
+
+msgid "Success"
+msgstr "সাফল্য"
+
+msgid "Sudan"
+msgstr "সুদান"
+
+msgid "Suffix"
+msgstr ""
+
+msgid "Sum"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Sundanese"
+msgstr "সানডেনীজ"
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Super"
+msgstr "সুপার"
+
+msgid "Superscript"
+msgstr "Superscript"
+
+msgid "Support"
+msgstr ""
+
+msgid "Suriname"
+msgstr "সুরিনাম"
+
+msgid "Surname"
+msgstr "পদবি"
+
+msgid "Suspend"
+msgstr ""
+
+msgid "Suspended"
+msgstr ""
+
+msgid "SVG"
+msgstr ""
+
+msgid "Swap"
+msgstr "সোয়াপ"
+
+msgid "Sweden"
+msgstr "সুইডেন"
+
+msgid "Swedish"
+msgstr "সুইডিশ"
+
+msgid "Switch"
+msgstr "পরিবর্তন"
+
+msgid "Switches"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "সুইতজারল্যান্ড"
+
+msgid "Symbol"
+msgstr "প্রতীক"
+
+msgid "Symbols"
+msgstr ""
+
+msgid "Sync"
+msgstr ""
+
+msgid "Synchronization"
+msgstr ""
+
+msgid "Synchronize"
+msgstr ""
+
+msgid "Syriac"
+msgstr "Syriac"
+
+msgid "System"
+msgstr "সিস্টেম"
+
+msgid "System Default"
+msgstr ""
+
+msgid "System Settings"
+msgstr "সিস্টেম সেটিংস"
+
+msgid "T"
+msgstr ""
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Table"
+msgstr "সারণী"
+
+msgid "Table of Contents"
+msgstr ""
+
+msgid "Tablet"
+msgstr "ট্যাবলেট"
+
+msgid "Tabs"
+msgstr "ট্যাব"
+
+msgid "Tag"
+msgstr "ট্যাগ"
+
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Tagged"
+msgstr "ট্যাগ করা"
+
+msgid "Tags"
+msgstr "ট্যাগ"
+
+msgid "Taiwan"
+msgstr "তাইওয়ান"
+
+msgid "Tajikistan"
+msgstr "তাজিকিস্তান"
+
+msgid "Take Screenshot"
+msgstr ""
+
+msgid "Tamil"
+msgstr "তামিল"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "তানজানিয়া"
+
+msgid "Target"
+msgstr ""
+
+msgid "Task"
+msgstr "কর্ম"
+
+msgid "Tasks"
+msgstr "কাজ"
+
+msgid "Tatar"
+msgstr ""
+
+msgid "TB"
+msgstr "টেরাবাইট"
+
+msgid "Team"
+msgstr ""
+
+msgid "Technology"
+msgstr "প্রযুক্তি"
+
+msgid "Telephone"
+msgstr "টেলিফোন"
+
+msgid "Telugu"
+msgstr "তেলেগু"
+
+msgid "Temperature"
+msgstr "তাপমাত্রা"
+
+msgid "Template"
+msgstr "ছাঁচ (Template)"
+
+msgid "Templates"
+msgstr "টেমপ্লেট"
+
+msgid "Tentative"
+msgstr ""
+
+msgid "Terminal"
+msgstr "টার্মিনাল"
+
+msgid "Terminal Emulator"
+msgstr "টার্মিনাল এমুলেটর"
+
+msgid "Test"
+msgstr ""
+
+msgid "Testing"
+msgstr "পরীক্ষা করা হচ্ছে"
+
+msgid "Text"
+msgstr "টেক্সট"
+
+msgid "text"
+msgstr "টেক্সট"
+
+msgid "_Text"
+msgstr "টেক্সট (_T)"
+
+msgid "Text Color"
+msgstr "টেক্সটের রং"
+
+msgid "Text color"
+msgstr "টেক্সটের রং"
+
+msgid "Text Editor"
+msgstr "টেক্সট সম্পাদক"
+
+msgid "Text File"
+msgstr ""
+
+msgid "Text Files"
+msgstr ""
+
+msgid "Text Only"
+msgstr ""
+
+msgid "Text only"
+msgstr "শুধুমাত্র টেক্সট"
+
+msgid "Text to search for"
+msgstr ""
+
+msgid "Text Tool"
+msgstr "টেক্সট টুল"
+
+msgid "TextLabel"
+msgstr ""
+
+msgid "Thai"
+msgstr "থাই"
+
+msgid "Thailand"
+msgstr "থাইল্যান্ড"
+
+msgid "The file %1 does not exist."
+msgstr ""
+
+msgid "The GNOME Project"
+msgstr "গ্নোম প্রকল্প"
+
+msgid "The graphical theme to be used."
+msgstr ""
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+msgid "The NetworkManager Developers"
+msgstr ""
+
+msgid "Theme"
+msgstr "থীম"
+
+msgid "Themes"
+msgstr "থিম"
+
+msgid "There was a problem sharing the document: %1"
+msgstr ""
+
+msgid "Thin"
+msgstr "Thin"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+
+msgid "Thomas Zander"
+msgstr ""
+
+msgid "Threshold"
+msgstr "থ্রেশহোল্ড"
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Thumbnails"
+msgstr "থাম্বনেইল"
+
+msgid "Thursday"
+msgstr ""
+
+msgid "TiB"
+msgstr "টেবিবাইট"
+
+msgid "Tibetan"
+msgstr "তিব্বতী"
+
+msgid "TIFF"
+msgstr ""
+
+msgid "Tile"
+msgstr ""
+
+msgid "Tiled"
+msgstr "টালিকৃত"
+
+msgid "Tilt"
+msgstr "অবস্থা"
+
+msgid "Time"
+msgstr "সময়"
+
+msgid "time"
+msgstr ""
+
+msgid "Time: %1"
+msgstr ""
+
+msgid "Time and Date"
+msgstr ""
+
+msgid "Time Zone"
+msgstr "টাইম জোন"
+
+msgid "Timeline"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+msgid "Timer"
+msgstr "সময়-সংরক্ষক"
+
+msgid "Timestamp"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "Tiny"
+msgstr "অতি ক্ষুদ্র"
+
+msgid "Title"
+msgstr "শিরোনাম"
+
+msgid "title"
+msgstr ""
+
+msgid "&Title"
+msgstr "শিরোনা&ম"
+
+msgid "_Title"
+msgstr "শিরোনাম: (_T)"
+
+msgid "TLS"
+msgstr ""
+
+msgid "To"
+msgstr "অভিমুখে"
+
+msgid "to"
+msgstr ""
+
+msgid "Tobias Fella"
+msgstr ""
+
 msgid "Today"
 msgstr "আজ"
 
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "মান"
+msgid "today"
+msgstr ""
 
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "সংস্করণ:"
+msgid "TODO"
+msgstr ""
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
-msgid "Cancel"
+msgid "Todo"
+msgstr ""
+
+msgid "Toggle Fullscreen"
+msgstr "সম্পূর্ণ পর্দা জুড়ে টগল করা হবে"
+
+msgid "Toggle Sidebar"
+msgstr ""
+
+msgid "Toggle sidebar"
+msgstr ""
+
+msgid "Togo"
+msgstr "টোগো"
+
+msgid "Token"
+msgstr ""
+
+msgid "Tolerance"
+msgstr ""
+
+msgid "Tomorrow"
+msgstr ""
+
+msgid "Tonga"
+msgstr "টোংগা"
+
+msgid "Tool"
+msgstr ""
+
+msgid "Tool Options"
+msgstr "টুল অপশন"
+
+msgid "_Toolbar"
+msgstr "টুলবার (_T)"
+
+msgid "T_oolbar"
+msgstr "টুলবার (_o)"
+
+msgid "Toolbar Editor"
+msgstr "টুলবার সম্পাদক"
+
+msgid "Toolbox"
+msgstr "টুলবাক্স"
+
+msgid "Tools"
+msgstr "টুল"
+
+msgid "&Tools"
+msgstr "টু&লস"
+
+msgid "_Tools"
+msgstr "টুল (_T)"
+
+msgid "Top"
+msgstr "উপরে"
+
+msgid "_Top"
+msgstr ""
+
+msgid "Top Left"
+msgstr "শীর্ষ বাম"
+
+msgid "Top left"
+msgstr ""
+
+msgid "Top Right"
+msgstr ""
+
+msgid "Top right"
+msgstr ""
+
+msgid "Topic"
+msgstr "বিষয়"
+
+msgid "Top-left"
+msgstr ""
+
+msgid "Top-right"
+msgstr ""
+
+msgid "Total"
+msgstr "সর্বমোট"
+
+msgid "Track"
+msgstr "ট্র্যাক"
+
+msgid "Track Number"
+msgstr ""
+
+msgid "Tracker"
+msgstr ""
+
+msgid "Tracks"
+msgstr "ট্র্যাক"
+
+msgid "Traditional"
+msgstr ""
+
+msgid "Transfer"
+msgstr ""
+
+msgid "Transform"
+msgstr "রূপান্তর"
+
+msgid "Transformation"
+msgstr "রূপান্তর"
+
+msgid "Translate"
+msgstr "স্থানান্তর"
+
+msgid "Translation"
+msgstr "অনুবাদ"
+
+msgid "Translator"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+"অঙ্কুর প্রকল্পের পক্ষে, প্রজ্ঞা <progga@BengaLinux.Org>\n"
+"রুণা ভট্টাচার্য <runab@fedoraproject.org>\n"
+"ইসরাত জাহান <israt@ankur.org.bd>\n"
+"সাদিয়া আফরোজ <sadia@ankur.org.bd>"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr ""
+
+msgid "Transparency"
+msgstr "স্বচ্ছতা"
+
+msgid "Transparent"
+msgstr "স্বচ্ছ"
+
+msgid "Transport"
+msgstr ""
+
+msgid "Transpose"
+msgstr ""
+
+msgid "Trash"
+msgstr "আবর্জনা"
+
+msgid "Travel"
+msgstr "ভ্রমণ"
+
+msgid "Tree"
+msgstr "গাছ"
+
+msgid "Tree View"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "True"
+msgstr "সত্য"
+
+msgid "true"
+msgstr "সত্য"
+
+msgid "Trusted"
+msgstr ""
+
+msgid "Try a different search"
+msgstr ""
+
+msgid "Try Again"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Tunisia"
+msgstr "টিউনিশিয়া"
+
+msgid "Turkey"
+msgstr "তুর্কি"
+
+msgid "Turkish"
+msgstr "তুর্কি"
+
+msgid "Turkmenistan"
+msgstr "তুর্কমেনিস্তান"
+
+msgid "Tuvalu"
+msgstr "টুভালু"
+
+msgid "TV"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "TYPE"
+msgstr ""
+
+msgid "Type"
+msgstr "ধরন"
+
+msgid "type"
+msgstr "রকম"
+
+msgid "&Type"
+msgstr ""
+
+msgid "Type: %1"
+msgstr ""
+
+msgid "Uganda"
+msgstr "উগান্ডা"
+
+msgid "Ukraine"
+msgstr "ইউক্রেন"
+
+msgid "Ukrainian"
+msgstr "ইউক্রেনীয়"
+
+msgid "Unable to create a temporary file."
+msgstr ""
+
+msgid "unable to get editor plugin name: %s"
+msgstr ""
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+
+msgid "Unavailable"
+msgstr "বিদ্যমান নয়"
+
+msgid "Undefined"
+msgstr "অনির্ধারিত"
+
+msgid "Underline"
+msgstr "নিম্নরেখাঙ্কিত করা"
+
+msgid "&Underline"
+msgstr "&Underline"
+
+msgid "_Underline"
+msgstr ""
+
+msgid "Undo"
 msgstr "বাতিল করো"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
-msgid "Delete"
-msgstr "মুছে ফেলো"
+msgid "&Undo"
+msgstr "বাতিল &করো"
+
+msgid "_Undo"
+msgstr "পূর্বাবস্থায় ফিরিয়ে আনুন (_U)"
+
+msgid "Undo %1"
+msgstr ""
+
+msgid "Undo History"
+msgstr "পূর্বাবস্থা ইতিহাস"
+
+msgid "UnFav it"
+msgstr ""
+
+msgid "unhandled property “%s” type %s"
+msgstr ""
+
+msgid "Unicode"
+msgstr "ইউনিকোড"
+
+msgid "Uniform"
+msgstr ""
+
+msgid "Union"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "United Arab Emirates"
+msgstr "সংযুক্ত আরব আমিরশাহী"
+
+msgid "United Kingdom"
+msgstr "যুক্তরাজ্য"
+
+msgid "United States"
+msgstr "যুক্তরাষ্ট্র"
+
+msgid "United States Minor Outlying Islands"
+msgstr "যুক্তরাষ্ট্র মাইনর আউটলায়িং দ্বীপ"
+
+msgid "Units"
+msgstr "একক"
+
+msgid "University"
+msgstr ""
+
+msgid "Unknown"
+msgstr "অজানা"
+
+msgid "unknown"
+msgstr "অজানা"
+
+msgid "(unknown)"
+msgstr "(অজানা)"
+
+msgid "Unknown Error"
+msgstr "অজানা ত্রুটি"
+
+msgid "Unknown error"
+msgstr "অজানা ত্রুটি"
+
+msgid "Unknown error."
+msgstr "অজানা ত্রুটি।"
+
+msgid "unknown error creating editor instance"
+msgstr ""
+
+msgid "Unknown file type"
+msgstr "অজানা ফাইলের ধরণ"
+
+msgid "Unlimited"
+msgstr "অসীম"
+
+msgid "unlimited"
+msgstr ""
+
+msgid "Unlock"
+msgstr "আনলক"
+
+msgid "_Unlock"
+msgstr "অনবরুদ্ধ করুন (_U)"
+
+msgid "Unmount"
+msgstr "আন-মাউন্ট"
+
+msgid "Unmute"
+msgstr ""
+
+msgid "Unnamed"
+msgstr "নামবিহীন"
+
+msgid "unnamed"
+msgstr "নামহীন"
+
+msgid "Unread"
+msgstr ""
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "শনাক্ত করা হয়নি এমন ডেস্কটপ ফাইল সংস্করণ '%s'"
+
+msgid "Unrecognized launch option: %d"
+msgstr "অপরিচিত চালুকরণ অপশন: %d"
+
+msgid "Unsaved Changes"
+msgstr ""
+
+msgid "Unselect All"
+msgstr "সব নির্বাচন বাতিল করো"
+
+msgid "Unselect all"
+msgstr "সমস্ত নির্বাচন উঠিয়ে দিন"
+
+msgid "Unspecified"
+msgstr ""
+
+msgid "Untitled"
+msgstr "শিরোনামহীন"
+
+msgid "untitled"
+msgstr "নামনেই"
+
+msgid "Unused"
+msgstr ""
+
+msgid "Up"
+msgstr "Up"
+
+msgid "&Up"
+msgstr "&উপর"
+
+msgid "Update"
+msgstr "আপডেট"
+
+msgid "&Update"
+msgstr ""
+
+msgid "_Update"
+msgstr "আপডেট (_U)"
+
+msgid "Updates"
+msgstr ""
+
+msgid "Updating"
+msgstr "আপডেট করা হচ্ছে"
+
+msgid "Updating..."
+msgstr "আপডেট করা হচ্ছে..."
+
+msgid "Upload"
+msgstr "হ্যাঁ"
+
+msgid "_Upload"
+msgstr ""
+
+msgid "Uploaded"
+msgstr ""
+
+msgid "Upper"
+msgstr ""
+
+msgid "Uppercase"
+msgstr "আপারকেস"
+
+msgid "Urdu"
+msgstr ""
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr ""
+
+msgid "Uruguay"
+msgstr "উরুগুয়ে"
+
+msgid "US Letter"
+msgstr ""
+
+msgid "Usage"
+msgstr "ব্যবহার"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr ""
+
+msgid "Used"
+msgstr ""
+
+msgid "User"
+msgstr "ব্যবহারকারী"
+
+msgid "User Certificate"
+msgstr ""
+
+msgid "User Defined"
+msgstr "ব্যবহারকারীর দ্বারা নির্দিষ্ট"
+
+msgid "User Feedback"
+msgstr ""
+
+msgid "User ID"
+msgstr "ব্যবহারকারীর ID"
+
+msgid "User Interface"
+msgstr "ব্যবহারকারী ইন্টারফেস"
+
+msgid "User name"
+msgstr ""
+
+msgid "User Password"
+msgstr ""
+
+msgid "Username"
+msgstr "ব্যবহারকারীর নাম"
+
+msgid "_Username"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Utilities"
+msgstr ""
+
+msgid "UUID"
+msgstr ""
+
+msgid "Uzbekistan"
+msgstr "উজবেকিস্তান"
+
+msgid "V"
+msgstr ""
+
+msgid "%v%"
+msgstr ""
+
+msgid "Valid"
+msgstr ""
+
+msgid "Valid from"
+msgstr ""
+
+msgid "Validity"
+msgstr "বৈধতা"
+
+msgid "Value"
+msgstr "মান"
+
+msgid "value"
+msgstr "মান"
+
+msgid "&Value"
+msgstr ""
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+
+msgid "Values"
+msgstr ""
+
+msgid "Vanuatu"
+msgstr "ভানুয়াটু"
+
+msgid "Variable"
+msgstr "চলক"
+
+msgid "Variables"
+msgstr "চলরাশিসমুহ"
+
+msgid "Variance"
+msgstr ""
+
+msgid "Vector"
+msgstr "ভেক্টর"
+
+msgid "Velocity"
+msgstr "বেগ"
+
+msgid "Vendor"
+msgstr "বিক্রেতা"
+
+msgid "Venezuela"
+msgstr "ভেনেজুয়েলা"
+
+msgid "Verb"
+msgstr ""
+
+msgid "Verify"
+msgstr ""
+
+msgid "Version"
+msgstr "সংস্করণ"
+
+msgid "Version %1"
+msgstr ""
+
+msgid "Vertical"
+msgstr "উল্লম্ব"
+
+msgid "Very Large"
+msgstr "অত্যাধিক বড়"
+
+msgid "Video"
+msgstr "ভিডিও"
+
+msgid "Video CD"
+msgstr "ভিডিও CD"
+
+msgid "Video Codec"
+msgstr ""
+
+msgid "Video Files"
+msgstr ""
+
+msgid "Videos"
+msgstr "ভিডিও"
+
+msgid "Vietnam"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr "ভিয়েতনামী"
+
+msgid "View"
+msgstr "প্রদর্শন"
+
+msgid "&View"
+msgstr "ভি&উ"
+
+msgid "_View"
+msgstr "প্রদর্শন (_V)"
+
+msgid "View Options"
+msgstr ""
+
+msgid "View Settings"
+msgstr "প্রদর্শন সংক্রান্ত বৈশিষ্ট্য"
+
+msgid "Viewer"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Virtual"
+msgstr "ভার্চুয়াল"
+
+msgid "Virtual Keyboard"
+msgstr ""
+
+msgid "Visibility"
+msgstr "দৃষ্টিসীমা"
+
+msgid "Visible"
+msgstr "দৃশ্যমান"
+
+msgid "Voltage"
+msgstr "ভোল্টেজ"
+
+msgid "Volume"
+msgstr "ভলিউম"
+
+msgid "Volume Down"
+msgstr "শব্দের মাত্রা হ্রাস করুন"
+
+msgid "Volume Up"
+msgstr "শব্দের মাত্রা বৃদ্ধি করুন"
+
+msgid "W"
+msgstr "W"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "অপেক্ষারত"
+
+msgid "Wallpaper"
+msgstr ""
+
+msgid "Wallpaper type"
+msgstr ""
+
+msgid "WARNING"
+msgstr ""
+
+msgid "Warning"
+msgstr "সতর্কতা"
+
+msgid "warning"
+msgstr ""
+
+msgid "Warnings"
+msgstr ""
+
+msgid "Water"
+msgstr ""
+
+msgid "Wave"
+msgstr ""
+
+msgid "Weak"
+msgstr ""
+
+msgid "Weather"
+msgstr "আবহাওয়া"
+
+msgid "Web Browser"
+msgstr "ওয়েব ব্রাউজার"
+
+msgid "Web browser"
+msgstr "ওয়েব ব্রাউজার"
+
+msgid "Website"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Week View"
+msgstr ""
+
+msgid "Weekly"
+msgstr "সাপ্তাহিক"
+
+msgid "Weeks"
+msgstr ""
+
+msgid "weeks"
+msgstr ""
+
+msgid "Weight"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "Welsh"
+msgstr "ওয়েল্‌শ"
+
+msgid "West"
+msgstr "পশ্চিম"
+
+msgid "Western"
+msgstr "পশ্চিমা"
+
+msgid "Western Sahara"
+msgstr "পশ্চিম সাহারা"
+
+msgid "What's new"
+msgstr ""
+
+msgid "Wheel"
+msgstr "চক্রাকার"
+
+msgid "Whether sound effects should be played."
+msgstr ""
+
+msgid "White"
+msgstr "সাদা"
+
+msgid "white"
+msgstr ""
+
+msgid "White Balance"
+msgstr ""
+
+msgid "Wide"
+msgstr ""
+
+msgid "Widgets"
+msgstr ""
+
+msgid "Width"
+msgstr "প্রস্থ"
+
+msgid "&Width"
+msgstr "প্রস্থ (&প): "
+
+msgid "_Width"
+msgstr "প্রস্থ: (_W)"
+
+msgid "Wi-Fi"
+msgstr ""
+
+msgid "Wikipedia"
+msgstr ""
+
+msgid "Window"
+msgstr "উইন্ডো"
+
+msgid "&Window"
+msgstr "&উইণ্ডো"
+
+msgid "&Window Color Scheme"
+msgstr ""
+
+msgid "Window height"
+msgstr ""
+
+msgid "Window Management"
+msgstr "উইন্ডো ব্যবস্থাপক:"
+
+msgid "Window maximized"
+msgstr "উইন্ডো সর্বাধিক করা হয়েছে"
+
+msgid "Window size"
+msgstr ""
+
+msgid "Window Title"
+msgstr ""
+
+msgid "Window width"
+msgstr ""
+
+msgid "Windows"
+msgstr "উইণ্ডো"
+
+msgid "_Windows"
+msgstr "উইন্ডো (_W)"
+
+msgid "with"
+msgstr "সহ"
+
+msgid "Word"
+msgstr ""
+
+msgid "Word Count"
+msgstr ""
+
+msgid "Words"
+msgstr ""
+
+msgid "Work"
+msgstr "কাজ"
+
+msgid "World"
+msgstr ""
+
+msgid "Wrap"
+msgstr ""
+
+msgid "_Wrap around"
+msgstr "চারদিকে মোড়ান (_W)"
+
+msgid "Wrap Text"
+msgstr ""
+
+msgid "Write"
+msgstr ""
+
+msgid "Writing"
+msgstr "লেখা হচ্ছে"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "X (_X)"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "Y (_Y)"
+
+msgid "Year"
+msgstr "বছর"
+
+msgid "Yearly"
+msgstr ""
+
+msgid "Years"
+msgstr ""
+
+msgid "years"
+msgstr ""
+
+msgid "Yellow"
+msgstr "হলুদ"
+
+msgid "yellow"
+msgstr ""
+
+msgid "Yemen"
+msgstr "ইয়েমেন"
+
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+msgid "yes"
+msgstr ""
+
+msgid "_Yes"
+msgstr ""
+
+msgid "Yesterday"
+msgstr "গতকাল"
+
+msgid "Yiddish"
+msgstr ""
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+
+msgid "Yukon"
+msgstr "ইউকুন (Yukon)"
+
+msgid "Z"
+msgstr ""
+
+msgid "Zambia"
+msgstr "জামবিয়া"
+
+msgid "Zero"
+msgstr "শুন্য"
+
+msgid "Zimbabwe"
+msgstr "জিম্বাবুয়ে"
+
+msgid "Zoom"
+msgstr "বড় আকারে প্রদর্শন"
+
+msgid "&Zoom"
+msgstr ""
+
+msgid "_Zoom"
+msgstr "বড় আকারে প্রদর্শন (_Z)"
+
+msgid "Zoom In"
+msgstr "বড় আকারে প্রদর্শন"
+
+msgid "Zoom in"
+msgstr "বড় আকারে প্রদর্শন"
+
+msgid "Zoom &In"
+msgstr "&বড় করো "
+
+msgid "Zoom _In"
+msgstr "অভ্যন্তরে বড় আকারে প্রদর্শন (_I)"
+
+msgid "Zoom Out"
+msgstr "ছোট আকারে প্রদর্শন"
+
+msgid "Zoom out"
+msgstr "ছোট আকারে প্রদর্শন"
+
+msgid "Zoom &Out"
+msgstr "ক্ষুদ্রাকারে প্র&দর্শন"
+
+msgid "Zoom _Out"
+msgstr "ছোট আকারে প্রদর্শন (_O)"
+
+msgid "Zoom to Fit"
+msgstr ""

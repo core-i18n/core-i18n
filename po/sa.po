@@ -1,0 +1,9456 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: core-i18n\n"
+"Language: sa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "\""
+msgstr "\" \" ."
+
+msgid "#"
+msgstr "# # ."
+
+msgid "%"
+msgstr "% ."
+
+msgid "'"
+msgstr "' ."
+
+msgid "*"
+msgstr "*"
+
+msgid "+"
+msgstr "+"
+
+msgid ","
+msgstr ","
+
+msgid "-"
+msgstr "-"
+
+msgid "/"
+msgstr "/ ."
+
+msgid "<"
+msgstr "<"
+
+msgid "="
+msgstr "="
+
+msgid ">"
+msgstr ">"
+
+msgid "?"
+msgstr "?"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " % ."
+
+msgid ", "
+msgstr ", ९. "
+
+msgid " - "
+msgstr " - ९. "
+
+msgid " – "
+msgstr " – ९. "
+
+msgid "    "
+msgstr ""
+
+msgid " and "
+msgstr " तथा "
+
+msgid " (default)"
+msgstr " (मूलभूतम्‌)"
+
+msgid "© KDE Community"
+msgstr "© KDE समुदाय"
+
+msgid " MB"
+msgstr " MB"
+
+msgid " MiB"
+msgstr " मिब"
+
+msgid " min"
+msgstr " मि"
+
+msgid " minutes"
+msgstr " पन्चनिमेषः"
+
+msgid " ms"
+msgstr " ms"
+
+msgid " px"
+msgstr " px"
+
+msgid " s"
+msgstr " स"
+
+msgid " sec"
+msgstr " सेक"
+
+msgid " seconds"
+msgstr " सेकण्ड्"
+
+msgid "0"
+msgstr "०"
+
+msgid "0%"
+msgstr "०%"
+
+msgid "1"
+msgstr "१"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 % ."
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 तथा %2"
+
+msgid "%1 bytes"
+msgstr "%1 बाइट्"
+
+msgid "1 day"
+msgstr "१ दिवसे"
+
+msgid "%1 does not exist"
+msgstr "%1 नास्ति"
+
+msgid "%1 free"
+msgstr "%1 मुक्तम्"
+
+msgid "1 hour"
+msgstr "१ घण्टा"
+
+msgid "%1 Hz"
+msgstr "%1 हर्ट्ज"
+
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgid "%1 ms"
+msgstr "%1 ms"
+
+msgid "%1 of %2"
+msgstr "%2 इत्यस्य %1"
+
+msgid "%1 on %2"
+msgstr "%2 इत्यत्र %1"
+
+msgid "%1 s"
+msgstr "%1 स"
+
+msgid "%1 seconds"
+msgstr "%1 सेकण्ड्"
+
+msgid "%1 to %2"
+msgstr "%1 तः %2 पर्यन्तम्"
+
+msgid "10"
+msgstr "१०"
+
+msgid "10 minutes"
+msgstr "१० मिनिट्"
+
+msgid "100"
+msgstr "१००"
+
+msgid "100%"
+msgstr "१००%"
+
+msgid "11"
+msgstr "११"
+
+msgid "12"
+msgstr "१२"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "१२८ बिट्"
+
+msgid "14"
+msgstr "१४"
+
+msgid "15 minutes"
+msgstr "१५ मिनिट्"
+
+msgid "150%"
+msgstr "१५०%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1म्"
+
+msgid "%1/s"
+msgstr "%1/s"
+
+msgid "1st"
+msgstr "प्रथमः"
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
+msgid "2"
+msgstr "२"
+
+msgid "20"
+msgstr "२०"
+
+msgid "200%"
+msgstr "२००%"
+
+msgid "25%"
+msgstr "२५%"
+
+msgid "2nd"
+msgstr "२"
+
+msgid "3"
+msgstr "३"
+
+msgid "30 minutes"
+msgstr "३० मिनिट्"
+
+msgid "300%"
+msgstr "३००%"
+
+msgid "3rd"
+msgstr "३"
+
+msgid "4"
+msgstr "४"
+
+msgid "400%"
+msgstr ""
+
+msgid "4th"
+msgstr "४ तमः"
+
+msgid "5"
+msgstr "५"
+
+msgid "5 minutes"
+msgstr "५ मिनिट्"
+
+msgid "50%"
+msgstr "५०%"
+
+msgid "5th"
+msgstr "५ तमः"
+
+msgid "6"
+msgstr "६"
+
+msgid "7"
+msgstr "७"
+
+msgid "75%"
+msgstr "७५%"
+
+msgid "8"
+msgstr "८"
+
+msgid "9"
+msgstr "९"
+
+msgid "A"
+msgstr "एकः"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"\"%1\" इति सञ्चिका पूर्वमेव अस्ति । किं भवन्तः निश्चयेन तस्य अधिलेखनं "
+"कर्तुम् इच्छन्ति?"
+
+msgid "A4"
+msgstr "अ४"
+
+msgid "Abort"
+msgstr "गर्भपातं कुरुत"
+
+msgid "&Abort"
+msgstr "&गर्भपात"
+
+msgid "Aborted"
+msgstr "गर्भपातः कृतः"
+
+msgid "About"
+msgstr "विषये"
+
+msgid "&About"
+msgstr "&विषये"
+
+msgid "_About"
+msgstr ""
+
+msgid "About %1"
+msgstr "%1 इत्यस्य विषये"
+
+msgid "About KDE"
+msgstr "KDE विषये"
+
+msgid "Abstract"
+msgstr "मूर्त"
+
+msgid "Accept"
+msgstr "स्वीकरोतु"
+
+msgid "Accepted"
+msgstr "स्वीकृतम्"
+
+msgid "Accessed"
+msgstr "अभिगमनम्"
+
+msgid "Accessibility"
+msgstr "सुलभता"
+
+msgid "Account"
+msgstr "वृतांत्तः"
+
+msgid "Account Details"
+msgstr "खाता विवरण"
+
+msgid "Account Information"
+msgstr "खाता सूचना"
+
+msgid "Account Name"
+msgstr "खाता नाम"
+
+msgid "Accounts"
+msgstr "लेखा"
+
+msgid "Accuracy"
+msgstr "विशुद्धता"
+
+msgid "Action"
+msgstr "नामपत्र"
+
+msgid "Actions"
+msgstr "कर्माणि"
+
+msgid "Activate"
+msgstr "सक्रियं कुर्वन्तु"
+
+msgid "Active"
+msgstr "सक्रियं"
+
+msgid "Activities"
+msgstr "गतिविधयः"
+
+msgid "Activity"
+msgstr "गतिविधि"
+
+msgid "Adaptive"
+msgstr "अनुकूली"
+
+msgid "Add"
+msgstr "संयोजयति"
+
+msgid "&Add"
+msgstr "&संयोजयति"
+
+msgid "_Add"
+msgstr ""
+
+msgid "Add..."
+msgstr "संयोजयति..."
+
+msgid "&Add..."
+msgstr "&संयोजयति..."
+
+msgid "A&dd..."
+msgstr "संयोजयति…"
+
+msgid "Add Account"
+msgstr "खाता योजयतु"
+
+msgid "Add Bookmark"
+msgstr "बुकमार्कं योजयतु"
+
+msgid "_Add Bookmark"
+msgstr ""
+
+msgid "Add Filter"
+msgstr "Filter योजयन्तु"
+
+msgid "Add Folder"
+msgstr "पुटं योजयतु"
+
+msgid "Add Folder..."
+msgstr "पुटं योजयतु…"
+
+msgid "Add Group"
+msgstr "समूहं योजयतु"
+
+msgid "Add New"
+msgstr "New योजयतु"
+
+msgid "Add Rule..."
+msgstr "नियमं योजयतु…"
+
+msgid "Add Tag"
+msgstr "Add Tag"
+
+msgid "Add tag"
+msgstr "टैगं योजयन्तु"
+
+msgid "Add to Dictionary"
+msgstr "शब्दकोशे योजयतु"
+
+msgid "Add to Favorites"
+msgstr "प्रियं योजयतु"
+
+msgid "Added"
+msgstr "योजितम्"
+
+msgid "Addition"
+msgstr "योजन"
+
+msgid "Additional Information"
+msgstr "अतिरिक्त सूचना"
+
+msgid "Address"
+msgstr "पत्रसङ्केतः"
+
+msgid "Address Book"
+msgstr "पता पुस्तिका"
+
+msgid "Addresses"
+msgstr "सम्बोधनानि"
+
+msgid "Adjust"
+msgstr ""
+
+msgid "Advanced"
+msgstr "उन्नतं"
+
+msgid "Advanced..."
+msgstr "उन्नतं…"
+
+msgid "Ad_vanced..."
+msgstr ""
+
+msgid "Advanced options"
+msgstr "उन्नतविकल्पाः"
+
+msgid "Advanced Properties"
+msgstr "उन्नत गुण"
+
+msgid "Advanced Settings"
+msgstr "उन्नत सेटिंग्स्"
+
+msgid "Adwaita"
+msgstr ""
+
+msgid "Afghanistan"
+msgstr "अफगानिस्तान"
+
+msgid "Africa"
+msgstr "आफ्रिका"
+
+msgid "Afrikaans"
+msgstr "आफ्रिकादेशीयः"
+
+msgid "After"
+msgstr "अनन्तरम्‌"
+
+msgid "Agenda"
+msgstr "कार्यसूची"
+
+msgid "Alarm"
+msgstr "आपत्सङ्केत"
+
+msgid "Alarms"
+msgstr "अलार्म"
+
+msgid "Albania"
+msgstr "अल्बानिया"
+
+msgid "Albanian"
+msgstr "अल्बेनियाई"
+
+msgid "Albert Vaca Cintora"
+msgstr "अल्बर्ट वाका सिन्टोरा"
+
+msgid "Album"
+msgstr "एल्बम"
+
+msgid "Album Artist"
+msgstr "एल्बम कलाकार"
+
+msgid "Albums"
+msgstr "एल्बम"
+
+msgid "Alert"
+msgstr "सचेत"
+
+msgid "Alexander Neundorf"
+msgstr "अलेक्जेण्डर न्यूण्डोर्फ"
+
+msgid "Algeria"
+msgstr "अल्जीरिया"
+
+msgid "Algorithm"
+msgstr "एल्गोरिदम"
+
+msgid "Alias"
+msgstr "उपनाम"
+
+msgid "Aliases"
+msgstr "उपनाम"
+
+msgid "Align"
+msgstr "संरेखणं कुर्वन्तु"
+
+msgid "Align Bottom"
+msgstr "Align Bottom इति"
+
+msgid "Align Center"
+msgstr "संरेखित केन्द्र"
+
+msgid "Align Left"
+msgstr "Align Left इति"
+
+msgid "Align left"
+msgstr "वामभागे संरेखणं कुर्वन्तु"
+
+msgid "Align Right"
+msgstr "Align Right इति"
+
+msgid "Align right"
+msgstr "दक्षिणतः संरेखणं कुर्वन्तु"
+
+msgid "Align Top"
+msgstr "Align Top"
+
+msgid "Alignment"
+msgstr "संरेखणम्"
+
+msgid "All"
+msgstr "सर्वे"
+
+msgid "all"
+msgstr "सर्वे"
+
+msgid "_All"
+msgstr ""
+
+msgid "All Files"
+msgstr "सर्वाणि सञ्चिकाः"
+
+msgid "All files"
+msgstr "सर्वाणि सञ्चिकानि"
+
+msgid "All Files (*)"
+msgstr "सर्वाणि सञ्चिकाः (*) ."
+
+msgid "All files (*)"
+msgstr "सर्वाणि सञ्चिकाः (*) ."
+
+msgid "All Supported Files"
+msgstr "सर्वाणि समर्थितसञ्चिकाः"
+
+msgid "Allen Winter"
+msgstr "सर्वं शिशिरं"
+
+msgid "Allow"
+msgstr "अनुमन्यताम्‌"
+
+msgid "Allow Deflate compression"
+msgstr "Deflate compression इत्यस्य अनुमतिं ददातु"
+
+msgid "Alpha"
+msgstr "अल्फा"
+
+msgid "Alphabetically"
+msgstr "वर्णमालानुसारम्"
+
+msgid "Alt"
+msgstr "सर्वे"
+
+msgid "Alternative"
+msgstr "वैकल्पिक"
+
+msgid "Always"
+msgstr "सर्वदा"
+
+msgid "Always ask"
+msgstr "सदा पृच्छतु"
+
+msgid "Always visible"
+msgstr "सदा दृश्यमानम्"
+
+msgid "AM"
+msgstr "अस्मि"
+
+msgid "Ambient"
+msgstr "परिवेशः"
+
+msgid "Amount"
+msgstr "राशिः"
+
+msgid "An error occurred"
+msgstr "एकः दोषः अभवत्"
+
+msgid "An unknown error occurred."
+msgstr "अज्ञातदोषः अभवत् ।"
+
+msgid "Analysis"
+msgstr "आँकलन"
+
+msgid "Anchor"
+msgstr "लाङ्गल"
+
+msgid "AND"
+msgstr "तथा"
+
+msgid "and"
+msgstr "तथा"
+
+msgid "Andorra"
+msgstr "अण्डोरा"
+
+msgid "Andrius Štikonas"
+msgstr "आन्द्रियः ष्टिकोनसः"
+
+msgid "Angle"
+msgstr "कोण"
+
+msgid "angle"
+msgstr "कोण:"
+
+msgid "Angola"
+msgstr "अङ्गोला"
+
+msgid "Animation"
+msgstr "एनिमेशन"
+
+msgid "Animations"
+msgstr "एनिमेशन"
+
+msgid "Anniversary"
+msgstr "वार्षिकी"
+
+msgid "Annotate"
+msgstr "टिप्पणीं कुरुत"
+
+msgid "Annotation"
+msgstr "टिप्पणी"
+
+msgid "Annotations"
+msgstr "टिप्पणी"
+
+msgid "Anonymous"
+msgstr "अनामक"
+
+msgid "Antarctica"
+msgstr "अण्टार्कटिका"
+
+msgid "Any"
+msgstr "कश्चित्‌"
+
+msgid "Aperture"
+msgstr "रन्ध्रम्"
+
+msgid "Appearance"
+msgstr "स्वरूपम्‌"
+
+msgid "Append"
+msgstr "परिशिष्टम्"
+
+msgid "AppImage"
+msgstr "AppImage इति"
+
+msgid "Application"
+msgstr "अनुप्रयोगः"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "अनुप्रयोग मेनू"
+
+msgid "Applications"
+msgstr "अनुप्रयोगाः"
+
+msgid "Apply"
+msgstr "आचरतु"
+
+msgid "&Apply"
+msgstr "&आचरतु"
+
+msgid "_Apply"
+msgstr ""
+
+msgid "Apply Settings"
+msgstr "सेटिंग्स् प्रयोजयन्तु"
+
+msgid "April"
+msgstr "अप्रैल-माह"
+
+msgid "Arabic"
+msgstr "अरबी"
+
+msgid "Archive"
+msgstr "लेखागार"
+
+msgid "Archives"
+msgstr "अभिलेखागारः"
+
+msgid "Area"
+msgstr "क्षेत्र"
+
+msgid "Argentina"
+msgstr "अर्जेन्टिना"
+
+msgid "Arguments"
+msgstr "तर्काः "
+
+msgid "Armenia"
+msgstr "आर्मेनिया"
+
+msgid "Armenian"
+msgstr "आर्मेनियाई"
+
+msgid "Arrow"
+msgstr "बाण"
+
+msgid "Arrows"
+msgstr "बाणाः"
+
+msgid "Articles"
+msgstr "लेख"
+
+msgid "Artist"
+msgstr "कलाकार"
+
+msgid "Artists"
+msgstr "कलाकाराः"
+
+msgid "Artwork"
+msgstr "कलाकृति"
+
+msgid "Ascending"
+msgstr "आरोहणम्"
+
+msgid "Asia"
+msgstr "एशिया"
+
+msgid "Ask"
+msgstr "पृच्छतु"
+
+msgid "Aspect Ratio"
+msgstr "आस्पेक्ट रेशियो"
+
+msgid "Aspect ratio"
+msgstr "आस्पेक्ट रेश्यो"
+
+msgid "Assamese"
+msgstr "असमिया"
+
+msgid "Assign Tags"
+msgstr "टैग्स नियुक्त करें"
+
+msgid "Assistant"
+msgstr "सहायकं"
+
+msgid "ATM"
+msgstr "एटीएम"
+
+msgid "Attach"
+msgstr "आवप्"
+
+msgid "Attach File"
+msgstr "सञ्चिका संलग्नं कुर्वन्तु"
+
+msgid "Attachment"
+msgstr "संलग्न"
+
+msgid "Attachments"
+msgstr "आसक्तिः"
+
+msgid "Attendees"
+msgstr "उपस्थिताः"
+
+msgid "Attribute"
+msgstr "गुण"
+
+msgid "Attributes"
+msgstr "गुणाः"
+
+msgid "Audio"
+msgstr "श्रव्यः"
+
+msgid "Audio CD"
+msgstr "श्रव्य सीडी"
+
+msgid "Audio Codec"
+msgstr "श्रव्य कोडेक"
+
+msgid "Audio files"
+msgstr "श्रव्यसञ्चिकाः"
+
+msgid "August"
+msgstr "अगस्त माह"
+
+msgid "Australia"
+msgstr "ऑस्ट्रेलिया"
+
+msgid "Austria"
+msgstr "आस्ट्रिया"
+
+msgid "Authenticate"
+msgstr "प्रमाणीकरणं कुर्वन्तु"
+
+msgid "Authenticate VPN"
+msgstr ""
+
+msgid "Authentication"
+msgstr "प्रमाणीकरणम्"
+
+msgid "Authentication Required"
+msgstr "प्रमाणीकरणम् आवश्यकम्"
+
+msgid "Author"
+msgstr "लेखकः"
+
+msgid "Authors"
+msgstr "लेखकाः"
+
+msgid "Auto"
+msgstr "ऑटो"
+
+msgid "auto"
+msgstr "ऑटो"
+
+msgid "Auto Detect"
+msgstr "ऑटो डिटेक्ट्"
+
+msgid "Auto Save"
+msgstr "स्वतः रक्षतु"
+
+msgid "Autodetect"
+msgstr "ऑटोडिटेक्ट्"
+
+msgid "Automatic"
+msgstr "स्वतः"
+
+msgid "Autosave interval"
+msgstr "स्वतः रक्षणान्तरम् "
+
+msgid "Available"
+msgstr "उपलब्धः"
+
+msgid "A&vailable actions"
+msgstr "अ&उपलब्धा क्रियाः "
+
+msgid "Average"
+msgstr "माध्यम्‌"
+
+msgid "Axes"
+msgstr "अक्षाः"
+
+msgid "Azerbaijan"
+msgstr "अजरबैजान"
+
+msgid "Azerbaijani"
+msgstr "अजरबैजानी"
+
+msgid "B"
+msgstr "ख"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "पृष्ठभागः"
+
+msgid "&Back"
+msgstr "&पृष्ठभागः"
+
+msgid "_Back"
+msgstr ""
+
+msgid "Background"
+msgstr "पृष्ठभूमि"
+
+msgid "Background Color"
+msgstr "पृष्ठभूमि रंग"
+
+msgid "Background color"
+msgstr "पृष्ठभूमि रंग"
+
+msgid "&Background color"
+msgstr "&पृष्ठभूमि रंगः "
+
+msgid "Backspace"
+msgstr "पृष्ठभाग"
+
+msgid "Backup"
+msgstr "बैकअप"
+
+msgid "Bahamas"
+msgstr "बहामा"
+
+msgid "Bahrain"
+msgstr "बहरीन"
+
+msgid "Balance"
+msgstr "संतुलन"
+
+msgid "Balanced"
+msgstr "सन्तुलितम्"
+
+msgid "Baltic"
+msgstr "बाल्टिक"
+
+msgid "Bangladesh"
+msgstr "बाङ्गलादेशः"
+
+msgid "Bank"
+msgstr "कोश"
+
+msgid "Bar"
+msgstr "प्रच्छेद"
+
+msgid "Barbados"
+msgstr "बार्बाडोस्"
+
+msgid "Base"
+msgstr "आधार"
+
+msgid "Basic"
+msgstr "आधारभूत"
+
+msgid "Basque"
+msgstr "बास्क्"
+
+msgid "Bass"
+msgstr "बासः"
+
+msgid "Battery"
+msgstr "विद्युत्कोष"
+
+msgid "Bcc"
+msgstr "Bcc"
+
+msgid "Before"
+msgstr ""
+
+msgid "Behavior"
+msgstr "व्यवहार"
+
+msgid "Belarus"
+msgstr "बेलारूस"
+
+msgid "Belarusian"
+msgstr "बेलारूसी"
+
+msgid "Belgium"
+msgstr "बेल्जियम"
+
+msgid "Belize"
+msgstr "बेलीज"
+
+msgid "Bengali"
+msgstr "बङ्गला"
+
+msgid "Benin"
+msgstr "बेनिन्"
+
+msgid "Best"
+msgstr "श्रेष्ठः"
+
+msgid "Bhutan"
+msgstr "भूटान"
+
+msgid "Bibliography"
+msgstr "ग्रन्थसूची"
+
+msgid "Binary"
+msgstr "द्विचक्रिका"
+
+msgid "Birthday"
+msgstr "जन्मदिवस"
+
+msgid "Bitrate"
+msgstr "बिटरेट्"
+
+msgid "Black"
+msgstr "कृष्णः"
+
+msgid "black"
+msgstr "कृष्णः"
+
+msgid "Blend"
+msgstr "मिश्रण"
+
+msgid "Block"
+msgstr "मृदुवस्तु"
+
+msgid "Block Elements"
+msgstr "अवरोधतत्त्वानि"
+
+msgid "Blocked"
+msgstr "अवरुद्धम्"
+
+msgid "Blue"
+msgstr "नील"
+
+msgid "Blues"
+msgstr "ब्लूस्"
+
+msgid "Bluetooth"
+msgstr "ब्लूटूथ"
+
+msgid "Blur"
+msgstr "धुन्धला"
+
+msgid "<b>Name:</b>"
+msgstr "<b>नामः:</b>"
+
+msgid "Body"
+msgstr "शरीरं"
+
+msgid "Bold"
+msgstr "विक्रान्तः"
+
+msgid "&Bold"
+msgstr "&विक्रान्तः"
+
+msgid "_Bold"
+msgstr ""
+
+msgid "Bold text"
+msgstr "बोल्ड पाठ"
+
+msgid "Bolivia"
+msgstr "बोलिविया"
+
+msgid "Book"
+msgstr "पुस्तकम्‌"
+
+msgid "Bookmark"
+msgstr "बुकमार्क"
+
+msgid "Bookmarks"
+msgstr "बुकमार्क्स"
+
+msgid "&Bookmarks"
+msgstr "&पुस्तकचिह्न"
+
+msgid "_Bookmarks"
+msgstr ""
+
+msgid "Boolean"
+msgstr "बूलियन इति"
+
+msgid "Border"
+msgstr "सीमा"
+
+msgid "Bosnian"
+msgstr "बोस्नियाई"
+
+msgid "Both"
+msgstr "उभौ"
+
+msgid "Botswana"
+msgstr "बोत्सवाना"
+
+msgid "Bottom"
+msgstr "अधः"
+
+msgid "_Bottom"
+msgstr ""
+
+msgid "Bottom Left"
+msgstr "अधः वामभागे"
+
+msgid "Bottom Right"
+msgstr "अधः दक्षिणतः"
+
+msgid "Bottom-left"
+msgstr "अधो-वामम्"
+
+msgid "Bottom-right"
+msgstr "अधः-दक्षिणम्"
+
+msgid "Box"
+msgstr "कोश"
+
+msgid "BPM"
+msgstr ""
+
+msgid "Branch"
+msgstr "शाखा"
+
+msgid "Brazil"
+msgstr "ब्राजील्"
+
+msgid "Breeze"
+msgstr "वायुः"
+
+msgid "Breeze by the KDE VDG"
+msgstr "KDE VDG द्वारा Breeze"
+
+msgid "Breeze Dark"
+msgstr "वायुः अन्धकारः"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "KDE VDG द्वारा Breeze Dark"
+
+msgid "Breton"
+msgstr "ब्रेटन"
+
+msgid "Brian Croom"
+msgstr "ब्रायन क्रूम"
+
+msgid "Bridge"
+msgstr "सेतु"
+
+msgid "Brightness"
+msgstr "कान्तिः"
+
+msgid "Broken"
+msgstr "भंजित"
+
+msgid "Browse"
+msgstr "ब्राउज़ करें"
+
+msgid "Browse..."
+msgstr "ब्राउज़ करें..."
+
+msgid "_Browse..."
+msgstr ""
+
+msgid "Browser"
+msgstr "ब्राउज़र"
+
+msgid "Buffer"
+msgstr "बफर"
+
+msgid "Bug fixes"
+msgstr "दोषनिवारणं भवति"
+
+msgid "Build"
+msgstr "निर्मिमीते"
+
+msgid "Built-in Screen"
+msgstr "अन्तः निर्मितः स्क्रीनः"
+
+msgid "Bulgaria"
+msgstr "बुल्गारिया"
+
+msgid "Bulgarian"
+msgstr "बल्गेरियाई"
+
+msgid "Burkina Faso"
+msgstr "बुर्किना फासो"
+
+msgid "Burn"
+msgstr "जलन"
+
+msgid "Burundi"
+msgstr "बुरुण्डी"
+
+msgid "Bus"
+msgstr "बस"
+
+msgid "Busy"
+msgstr "व्यस्तः"
+
+msgid "Butt"
+msgstr "बट्"
+
+msgid "Button"
+msgstr "कड्मल"
+
+msgid "Buttons"
+msgstr "बटनम्"
+
+msgid "by"
+msgstr "इत्यनेन"
+
+msgid "By %1"
+msgstr "%1 द्वारा"
+
+msgid "By extension"
+msgstr ""
+
+msgid "Bytes"
+msgstr "बाइट्स्"
+
+msgid "bytes"
+msgstr "बाइट्"
+
+msgid "C"
+msgstr "ग"
+
+msgid "CA Certificate"
+msgstr "CA प्रमाणपत्राणि "
+
+msgid "Cache"
+msgstr "संग्रहणम्"
+
+msgid "Calculate"
+msgstr "गणयतु"
+
+msgid "Calculating..."
+msgstr "गणना कर..."
+
+msgid "Calculator"
+msgstr "गणकम्"
+
+msgid "Calendar"
+msgstr "पञ्चाङ्गम्"
+
+msgid "Calendars"
+msgstr "पञ्चाङ्गाः"
+
+msgid "Call"
+msgstr "आह्वानम्‌"
+
+msgid "Calls"
+msgstr "आह्वानं करोति"
+
+msgid "Cambodia"
+msgstr "कम्बोडिया"
+
+msgid "Camera"
+msgstr "कॅमेरा"
+
+msgid "Cameroon"
+msgstr "कैमरून"
+
+msgid "Canada"
+msgstr "कनाडा"
+
+msgid "Cancel"
+msgstr "निरसयतु"
+
+msgid "&Cancel"
+msgstr "&निरसयतु"
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "C&ancel"
+msgstr "निरसयतु"
+
+msgid "Canceled"
+msgstr "रद्दं कृतम्"
+
+msgid "Cancelled"
+msgstr "रद्दं कृतम्"
+
+msgid "cannot load editor plugin: %s"
+msgstr ""
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr ""
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "कैनवासः"
+
+msgid "Capabilities"
+msgstr "क्षमता"
+
+msgid "Capacity"
+msgstr "क्षमता"
+
+msgid "Cape Verde"
+msgstr "केप वर्डे"
+
+msgid "Capitalize"
+msgstr "कैपिटल कर"
+
+msgid "Caps Lock is on"
+msgstr "Caps Lock चालू अस्ति"
+
+msgid "Capture"
+msgstr "पटल"
+
+msgid "Car"
+msgstr "कारयानम्‌"
+
+msgid "Carsten Pfeiffer"
+msgstr "कार्स्टेन फीफर"
+
+msgid "Cascade"
+msgstr "झरना"
+
+msgid "Case Sensitive"
+msgstr "प्रकरणसंवेदनशीलम्"
+
+msgid "Case sensitive"
+msgstr "प्रकरणसंवेदनशीलः"
+
+msgid "Castle"
+msgstr "प्रासाद"
+
+msgid "Catalan"
+msgstr "कातालान भाषा"
+
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+msgid "Category"
+msgstr "कोटी"
+
+msgid "CC"
+msgstr "सीसी"
+
+msgid "Cc"
+msgstr "Cc"
+
+msgid "CD"
+msgstr "सीडी"
+
+msgid "CDDB"
+msgstr "सीडीडीबी"
+
+msgid "CD-R"
+msgstr "सीडी-आर"
+
+msgid "CD-RW"
+msgstr "सीडी-आरडब्ल्यू"
+
+msgid "Cell"
+msgstr "कोशिका"
+
+msgid "Celsius"
+msgstr "सेल्सियस"
+
+msgid "Celtic"
+msgstr "सेल्टिक"
+
+msgid "Center"
+msgstr "केंद्र"
+
+msgid "Centered"
+msgstr "केन्द्रित"
+
+msgid "Centimeters"
+msgstr "सेन्टिमीटर्"
+
+msgid "Centimeters (cm)"
+msgstr "सेन्टिमीटर् (से.मी.)"
+
+msgid "Central"
+msgstr "केन्द्रीय"
+
+msgid "Central African Republic"
+msgstr "मध्य आफ्रिका गणराज्य"
+
+msgid "Central European"
+msgstr "मध्य यूरोपीय"
+
+msgid "Certificate"
+msgstr "प्रमाणपत्रं"
+
+msgid "Certificates (TLS)"
+msgstr "प्रमाणपत्राणि (TLS)"
+
+msgid "Chad"
+msgstr "चाड्"
+
+msgid "Change"
+msgstr "परिवर्तय"
+
+msgid "Change..."
+msgstr "परिवर्तय..."
+
+msgid "Changed"
+msgstr "परिवर्तितः"
+
+msgid "Channel"
+msgstr "चैनल"
+
+msgid "Channels"
+msgstr "चैनल्स्"
+
+msgid "CHAP"
+msgstr "अध्याय"
+
+msgid "Chapter"
+msgstr "अध्यायः"
+
+msgid "Chapters"
+msgstr "अध्यायाः"
+
+msgid "Character"
+msgstr "स्वभावः"
+
+msgid "Characters"
+msgstr "वर्णाः"
+
+msgid "Charging"
+msgstr "चार्जिंग"
+
+msgid "Chart"
+msgstr "तालिका"
+
+msgid "Chat"
+msgstr "संवाद"
+
+msgid "Check"
+msgstr "अनुशीलय"
+
+msgid "Check for updates"
+msgstr "अद्यतनं ज्ञातुं पश्यन्तु"
+
+msgid "Check Spelling"
+msgstr "वर्तनीम् अवलोकयन्तु"
+
+msgid "Checkbox"
+msgstr "चेकबॉक्स"
+
+msgid "Checkout"
+msgstr "चेकआउट"
+
+msgid "Cherokee"
+msgstr "चेरोकी"
+
+msgid "Children"
+msgstr "बालकाः"
+
+msgid "Chile"
+msgstr "चिली"
+
+msgid "China"
+msgstr "चीनदेशः"
+
+msgid "Chinese"
+msgstr "चीनी"
+
+msgid "Chinese Simplified"
+msgstr "चीनी सरलीकृत"
+
+msgid "Chinese Traditional"
+msgstr "चीनी पारम्परिक"
+
+msgid "Choose"
+msgstr "चिनोतु"
+
+msgid "Choose..."
+msgstr "चिनोतु..."
+
+msgid "Cinema"
+msgstr "सिनेमा"
+
+msgid "Circle"
+msgstr "वृत्त"
+
+msgid "City"
+msgstr "नगरी"
+
+msgid "Class"
+msgstr "श्रेणी"
+
+msgid "Classes"
+msgstr "कक्षाः"
+
+msgid "Classic"
+msgstr "क्लासिक"
+
+msgid "Classical"
+msgstr "शास्त्रीय"
+
+msgid "Clean"
+msgstr "स्वच्छम्‌"
+
+msgid "Cleanup"
+msgstr "सफाई"
+
+msgid "Clear"
+msgstr "स्पष्टः"
+
+msgid "&Clear"
+msgstr "&स्पष्टः"
+
+msgid "_Clear"
+msgstr ""
+
+msgid "C&lear"
+msgstr "स्पष्टः"
+
+msgid "Clear All"
+msgstr "सर्वं स्वच्छं कुर्वन्तु"
+
+msgid "Clear History"
+msgstr "इतिहासं स्पष्टं कुरुत"
+
+msgid "Clear history"
+msgstr "इतिहासं स्पष्टं कुरुत"
+
+msgid "Clear List"
+msgstr "स्पष्ट सूची"
+
+msgid "Client"
+msgstr "ग्राहिका"
+
+msgid "Clip"
+msgstr "क्लिप्"
+
+msgid "Clipboard"
+msgstr "क्लिपबोर्ड"
+
+msgid "Clock"
+msgstr "घटिका"
+
+msgid "Clockwise"
+msgstr "घड़ीयाः दिशि"
+
+msgid "Clone"
+msgstr "क्लोन"
+
+msgid "Close"
+msgstr "पिधानं करोतु"
+
+msgid "&Close"
+msgstr "&पिधानं करोतु"
+
+msgid "_Close"
+msgstr ""
+
+msgid "Close All"
+msgstr "सर्वं बन्दं कुर्वन्तु"
+
+msgid "Close Document"
+msgstr "दस्तावेजं बन्दं कुर्वन्तु"
+
+msgid "Close message"
+msgstr "सन्देशं बन्दं कुर्वन्तु"
+
+msgid "Close Tab"
+msgstr "ट्याब् बन्दं कुर्वन्तु"
+
+msgid "Close tab"
+msgstr "ट्याब् बन्दं कुर्वन्तु"
+
+msgid "Close the current tab"
+msgstr "वर्तमान ट्याब् पिधाय"
+
+msgid "Close this window"
+msgstr "एतत् गवाक्ष पिधाय"
+
+msgid "Close Window"
+msgstr "विण्डो बन्दं कुर्वन्तु"
+
+msgid "Close window"
+msgstr "विण्डो बन्दं कुर्वन्तु"
+
+msgid "Close _without Saving"
+msgstr ""
+
+msgid "Closed"
+msgstr "निमीलितम्"
+
+msgid "Cloud"
+msgstr "मेघ"
+
+msgid "cm"
+msgstr "से.मी"
+
+msgid "CMake"
+msgstr "CMake इति"
+
+msgid "CMYK"
+msgstr "सीएमवाईके"
+
+msgid "Code"
+msgstr "संहिता"
+
+msgid "code"
+msgstr "कोड"
+
+msgid "Codec"
+msgstr ""
+
+msgid "Collapse"
+msgstr "संश्यान"
+
+msgid "Collapse All"
+msgstr "ध्वस्तं कुर्वन्तु सर्वे"
+
+msgid "Collection"
+msgstr "सङ्ग्रह"
+
+msgid "Collections"
+msgstr "संग्रह"
+
+msgid "Colombia"
+msgstr "कोलम्बिया"
+
+msgid "Color"
+msgstr "वर्ण"
+
+msgid "color"
+msgstr "वर्ण"
+
+msgid "&Color"
+msgstr "&वर्ण"
+
+msgid "Color Balance"
+msgstr ""
+
+msgid "Color Management"
+msgstr "रङ्ग प्रबन्धन"
+
+msgid "Color Mode"
+msgstr "वर्णविधिः"
+
+msgid "Color Picker"
+msgstr "रङ्ग पिकर"
+
+msgid "Color Scheme"
+msgstr "रङ्ग योजना"
+
+msgid "Color scheme"
+msgstr "वर्ण योजना"
+
+msgid "Color Space"
+msgstr "वर्णस्थानम्"
+
+msgid "Color theme"
+msgstr "रङ्ग विषय"
+
+msgid "Colorize"
+msgstr ""
+
+msgid "Colors"
+msgstr "वर्णाः"
+
+msgid "Column"
+msgstr "स्तम्भ"
+
+msgid "Column %1"
+msgstr "स्तम्भ %1"
+
+msgid "Columns"
+msgstr "स्तम्भाः"
+
+msgid "Comma"
+msgstr "अल्पविरामः"
+
+msgid "COMMAND"
+msgstr ""
+
+msgid "Command"
+msgstr "आदेश"
+
+msgid "command"
+msgstr "आदेश"
+
+msgid "Command Line"
+msgstr "आदेशपङ्क्तिः"
+
+msgid "Command to execute"
+msgstr "निष्पादयितुं आदेशः"
+
+msgid "Commands"
+msgstr "आदेशाः"
+
+msgid "Comment"
+msgstr "टिप्पणी"
+
+msgid "Comments"
+msgstr "टिप्पणियाँ"
+
+msgid "Commit"
+msgstr "प्रविश्"
+
+msgid "Common"
+msgstr "सुलभः"
+
+msgid "Comoros"
+msgstr "कोमोरोस"
+
+msgid "Compact"
+msgstr "संकुचित"
+
+msgid "Compare"
+msgstr "तूल"
+
+msgid "Complete"
+msgstr "पूर्णं करोतु"
+
+msgid "Completed"
+msgstr "सम्पन्न"
+
+msgid "Completion"
+msgstr "समाप्ति"
+
+msgid "Component"
+msgstr "घटकः"
+
+msgid "Components"
+msgstr "घटकाः"
+
+msgid "Composer"
+msgstr "रचयिता"
+
+msgid "Composition"
+msgstr "रचना"
+
+msgid "Compress"
+msgstr "संपीडयन्तु"
+
+msgid "Compression"
+msgstr "संपीडनम्"
+
+msgid "Computer"
+msgstr "संगणक"
+
+msgid "Condition"
+msgstr "दशा"
+
+msgid "Confidential"
+msgstr "गोपनीय"
+
+msgid "Configuration"
+msgstr "विन्यासः"
+
+msgid "Configure"
+msgstr "विन्यस्तं कुर्वन्तु"
+
+msgid "Configure..."
+msgstr "विन्यस्तं कुर्वन्तु..."
+
+msgid "Configure %1"
+msgstr "%1 विन्यस्यताम्"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "कीबोर्ड शॉर्टकट् विन्यस्तं कुर्वन्तु"
+
+msgid "Configure Plugins"
+msgstr "प्लगिन्स् विन्यस्तं कुर्वन्तु"
+
+msgid "Configure Toolbars"
+msgstr "Toolbars विन्यस्तं कुर्वन्तु"
+
+msgid "Configure Web Shortcuts..."
+msgstr "जालशॉर्टकट् विन्यस्तं कुर्वन्तु..."
+
+msgid "Confirm"
+msgstr "दृढी करोतु"
+
+msgid "Confirmation"
+msgstr "पुष्टिः"
+
+msgid "Confirmation Required"
+msgstr "पुष्टिकरणम् आवश्यकम्"
+
+msgid "Confirmed"
+msgstr "पुष्टिः कृता"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "मानक-अनुप्रयोग-शॉर्टकट्-सहितं द्वन्द्वः"
+
+msgid "Connect"
+msgstr "संयुज्"
+
+msgid "C_onnect"
+msgstr ""
+
+msgid "Connected"
+msgstr "संबद्धः"
+
+msgid "Connecting"
+msgstr "संयोजयन्"
+
+msgid "Connecting..."
+msgstr "संयोजयन्..."
+
+msgid "Connection"
+msgstr "संबन्धः"
+
+msgid "Connection Failed"
+msgstr "संयोजनं विफलम्"
+
+msgid "Connection Settings"
+msgstr "संयोजनसेटिंग्स्"
+
+msgid "Connections"
+msgstr "संबन्धाः"
+
+msgid "Console"
+msgstr "कन्सोल"
+
+msgid "Constant"
+msgstr "नियत"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+
+msgid "Contact"
+msgstr "संपर्कः"
+
+msgid "Contacts"
+msgstr "सम्पर्क"
+
+msgid "Container"
+msgstr "पात्रम्"
+
+msgid "Contains"
+msgstr "भरति"
+
+msgid "contains"
+msgstr "भरति"
+
+msgid "Content"
+msgstr "विषयः"
+
+msgid "Content Type"
+msgstr ""
+
+msgid "Contents"
+msgstr "विषयवस्तु"
+
+msgid "_Contents"
+msgstr ""
+
+msgid "Context"
+msgstr "सन्दर्भ"
+
+msgid "Continue"
+msgstr "अनुवर्तते"
+
+msgid "_Continue"
+msgstr ""
+
+msgid "Contrast"
+msgstr "विप्रकर्ष"
+
+msgid "Contributor"
+msgstr "योगदानकर्ता"
+
+msgid "Control"
+msgstr "नियंत्रणं"
+
+msgid "Convert"
+msgstr "रैकृ"
+
+msgid "Convert to Path"
+msgstr "मार्गे परिवर्तनं कुर्वन्तु"
+
+msgid "Cookies"
+msgstr "कुकीज"
+
+msgid "Coordinates"
+msgstr "निर्देशांकः"
+
+msgid "Copied to clipboard"
+msgstr ""
+
+msgid "Coptic"
+msgstr "काप्टिक"
+
+msgid "Copy"
+msgstr "प्रतिलिपि"
+
+msgid "copy"
+msgstr "प्रतिलिपि"
+
+msgid "&Copy"
+msgstr "&प्रतिलिपि"
+
+msgid "_Copy"
+msgstr ""
+
+msgid "Copy Email Address"
+msgstr "ईमेल पता प्रतिलिपि कुर्वन्तु"
+
+msgid "&Copy Here"
+msgstr "&अत्र प्रतिलिपि कुरुत"
+
+msgid "Copy Image"
+msgstr "प्रतिलिपि चित्रम्"
+
+msgid "Copy Link"
+msgstr "प्रतिलिपि लिङ्क"
+
+msgid "Copy Link Address"
+msgstr "लिङ्क पता प्रतिलिपि कुर्वन्तु"
+
+msgid "_Copy Link Address"
+msgstr ""
+
+msgid "Copy Location"
+msgstr "प्रतिलिपि स्थानम्"
+
+msgid "Copy of %1"
+msgstr "%1 इत्यस्य प्रतिलिपिः"
+
+msgid "Copy selection to clipboard"
+msgstr "चयनं क्लिप्बोर्ड् प्रति प्रतिलिख्यताम्"
+
+msgid "Copy Text"
+msgstr "पाठं प्रतिलिपितु"
+
+msgid "Copy to Clipboard"
+msgstr "क्लिप्बोर्ड् प्रति प्रतिलिख्यताम्"
+
+msgid "Copy to clipboard"
+msgstr "क्लिप्बोर्ड् प्रति प्रतिलिख्यताम्"
+
+msgid "Copy URL"
+msgstr "URL प्रतिलिपिं कुर्वन्तु"
+
+msgid "Copying files"
+msgstr "सञ्चिकानां प्रतिलिपिः"
+
+msgid "Copyright"
+msgstr "प्रतिलिपि अधिकार"
+
+msgid "Cost"
+msgstr "मूल्यम्‌"
+
+msgid "Costa Rica"
+msgstr "कोस्टा रिका"
+
+msgid "Could not open %1"
+msgstr "%1 उद्घाटयितुं न शक्तवान्"
+
+msgid "Could not open file."
+msgstr "सञ्चिकां उद्घाटयितुं न शक्तवान्।"
+
+msgid "Count"
+msgstr "गणनां कारोतु"
+
+msgid "Counter"
+msgstr "गणित्र"
+
+msgid "Country"
+msgstr "देशः"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "निर्मियताम्"
+
+msgid "C_reate"
+msgstr ""
+
+msgid "Create Folder"
+msgstr "Folder रचयन्तु"
+
+msgid "Create New"
+msgstr "New रचयतु"
+
+msgid "Created"
+msgstr "निर्मितम्"
+
+msgid "Creation Date"
+msgstr "सृष्टि तिथि"
+
+msgid "Creation date"
+msgstr "सृष्टि तिथि"
+
+msgid "Creator"
+msgstr "प्रजापति"
+
+msgid "Credentials"
+msgstr "प्रमाणपत्राणि"
+
+msgid "Credits"
+msgstr "श्रेयः"
+
+msgid "Criteria"
+msgstr "कोटी"
+
+msgid "Critical"
+msgstr "गंभीरः"
+
+msgid "Croatia"
+msgstr "क्रोएशिया"
+
+msgid "Croatian"
+msgstr "क्रोएशियाई"
+
+msgid "Crop"
+msgstr "अन्नग्रह"
+
+msgid "Crop image"
+msgstr "प्रतिबिम्बं क्रॉप कुर्वन्तु"
+
+msgid "Cross"
+msgstr "अनुप्रस्थ"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr "Ctrl+O"
+
+msgid "Cuba"
+msgstr "क्यूबा"
+
+msgid "Currency"
+msgstr "मुद्रा"
+
+msgid "Current"
+msgstr "वर्त्तमानः"
+
+msgid "Current Maintainer"
+msgstr "वर्तमान परिपालक"
+
+msgid "Current maintainer"
+msgstr "वर्तमान परिपालक"
+
+msgid "Cursor"
+msgstr "कर्सर"
+
+msgid "Curve"
+msgstr "वक्रम्"
+
+msgid "Curves"
+msgstr "वक्रता"
+
+msgid "Custom"
+msgstr "आचारः"
+
+msgid "Custom..."
+msgstr "आचारः..."
+
+msgid "Custom Font"
+msgstr "कस्टम फॉन्ट"
+
+msgid "Cut"
+msgstr "छिन्न"
+
+msgid "Cu&t"
+msgstr "सह&t"
+
+msgid "Cu_t"
+msgstr ""
+
+msgid "Cyan"
+msgstr "सियान्"
+
+msgid "Cyprus"
+msgstr "साइप्रसः"
+
+msgid "Cyrillic"
+msgstr "सिरिलिक"
+
+msgid "Czech"
+msgstr "चेक"
+
+msgid "D"
+msgstr "घ"
+
+msgid "%d%%"
+msgstr ""
+
+msgid "%d:%02d"
+msgstr ""
+
+msgid "Daily"
+msgstr "प्रतिदिन"
+
+msgid "Dance"
+msgstr "नृत्यं"
+
+msgid "Daniel Molkentin"
+msgstr "डैनियल मोल्केन्टिन्"
+
+msgid "Daniel Vrátil"
+msgstr "दानियलः पुनः आगतः"
+
+msgid "Danish"
+msgstr "दानिशः"
+
+msgid "Danny Allen"
+msgstr "डैनी एलेन्"
+
+msgid "Dark"
+msgstr "तिमिर"
+
+msgid "Dark Mode"
+msgstr "डार्क मोड"
+
+msgid "Darken"
+msgstr "अन्धकारं कुरुत"
+
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+msgid "Dashed"
+msgstr "डैश"
+
+msgid "Data"
+msgstr "दत्तांश"
+
+msgid "Database"
+msgstr "दत्तांशकोश"
+
+msgid "Date"
+msgstr "दिनाङ्कः"
+
+msgid "date"
+msgstr "दिनाङ्कः"
+
+msgid "Date & Time"
+msgstr "तिथि एवं समय"
+
+msgid "Date and Time"
+msgstr "दिनाङ्कः समयः च"
+
+msgid "Date Format"
+msgstr "तिथि प्रारूप"
+
+msgid "Date Modified"
+msgstr "तिथि परिवर्तित"
+
+msgid "David Edmundson"
+msgstr "डेविड् एडमण्ड्सनः"
+
+msgid "Day"
+msgstr "दिनं"
+
+msgid "Days"
+msgstr "दिवसाः"
+
+msgid "days"
+msgstr "दिवसाः"
+
+msgid "day(s)"
+msgstr "दिवस(दिनम्)"
+
+msgid "D-Bus name to use for this instance"
+msgstr ""
+
+msgid "Debug"
+msgstr "त्रुटिनिवारणम्"
+
+msgid "Debugger"
+msgstr "त्रुटिनिवारणकम्"
+
+msgid "Debugging"
+msgstr "त्रुटिनिवारणम्"
+
+msgid "December"
+msgstr "दिसंबरं माह"
+
+msgid "Decimal"
+msgstr "दशमलवः"
+
+msgid "Decline"
+msgstr "अस्वीकरोतु"
+
+msgid "Decrease Font Size"
+msgstr "Font Size न्यूनीकरोतु"
+
+msgid "Decrease Indent"
+msgstr "इण्डेन्ट् न्यूनीकरोतु"
+
+msgid "Decrease Volume"
+msgstr "मात्रां न्यूनीकरोतु"
+
+msgid "Decrypt"
+msgstr "विच्छेदनं कुर्वन्तु"
+
+msgid "Default"
+msgstr "मूलभूतम्‌"
+
+msgid "default"
+msgstr "मूलभूतम्‌"
+
+msgid "Defaults"
+msgstr "पूर्वनिर्धारितम्"
+
+msgid "Definition"
+msgstr "परिभाषा"
+
+msgid "degrees"
+msgstr "उपाधिः"
+
+msgid "Del"
+msgstr "इति"
+
+msgid "Delay"
+msgstr "विलम्बः"
+
+msgid "Delete"
+msgstr "लुप्"
+
+msgid "&Delete"
+msgstr "&लुप्"
+
+msgid "_Delete"
+msgstr ""
+
+msgid "D&elete"
+msgstr "लुप्"
+
+msgid "Delete..."
+msgstr "लुप्…"
+
+msgid "Delete %1"
+msgstr "%1 विलोपयन्तु"
+
+msgid "Delete All"
+msgstr "सर्वं विलोपयतु"
+
+msgid "Delete File"
+msgstr "सञ्चिकां विलोपयतु"
+
+msgid "Delete Folder"
+msgstr "पुटं विलोपयन्तु"
+
+msgid "Delete Image"
+msgstr "चित्रं विलोपयन्तु"
+
+msgid "Delete Selected"
+msgstr "चयनितं विलोपयतु"
+
+msgid "Delete selection"
+msgstr "चयनं विलोपयन्तु"
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "विलोपितम्"
+
+msgid "Deletion"
+msgstr "लोपः"
+
+msgid "Delimiter"
+msgstr "परिसीमक"
+
+msgid "Delta"
+msgstr "डेल्टा"
+
+msgid "Denmark"
+msgstr "डेन्मार्क"
+
+msgid "Density"
+msgstr "घनत्व"
+
+msgid "Deny"
+msgstr "अपह्नुते"
+
+msgid "Dependencies"
+msgstr "आश्रयाः"
+
+msgid "Depth"
+msgstr "गहनता"
+
+msgid "Desaturate"
+msgstr "असंतृप्तं कुर्वन्तु"
+
+msgid "Descending"
+msgstr "अवतरन्"
+
+msgid "Description"
+msgstr "वर्णनम्‌"
+
+msgid "&Description"
+msgstr "&वर्णनम्‌"
+
+msgid "Deselect"
+msgstr "विचयनं कुर्वन्तु"
+
+msgid "Deselect All"
+msgstr "सर्वाणि अचयनं कुर्वन्तु"
+
+msgid "Desert"
+msgstr "मरुभूमिः"
+
+msgid "Desktop"
+msgstr "डेस्कटॉप"
+
+msgid "Destination"
+msgstr "गन्तव्य"
+
+msgid "Detach"
+msgstr "विरक्त"
+
+msgid "_Detach Tab"
+msgstr ""
+
+msgid "Details"
+msgstr "वर्णन"
+
+msgid "&Details"
+msgstr "&वर्णन"
+
+msgid "_Details"
+msgstr ""
+
+msgid "Details..."
+msgstr "वर्णन..."
+
+msgid "Devanagari"
+msgstr "देवनागरी"
+
+msgid "Developer"
+msgstr "विकासकः"
+
+msgid "Development"
+msgstr "विकासः"
+
+msgid "Device"
+msgstr "उपकरणम्‌"
+
+msgid "device"
+msgstr "उपकरणम्‌"
+
+msgid "Device Information"
+msgstr "उपकरण सूचना"
+
+msgid "Device Status"
+msgstr "यन्त्रस्य स्थितिः"
+
+msgid "Device type"
+msgstr "यन्त्रप्रकारः "
+
+msgid "Devices"
+msgstr "यन्त्राणि"
+
+msgid "Diagnostics"
+msgstr "निदानम्"
+
+msgid "Diagonal"
+msgstr "तिर्यक्"
+
+msgid "Dialog"
+msgstr "संवादः"
+
+msgid "Dialogs"
+msgstr "संवादाः"
+
+msgid "Diamond"
+msgstr "हीरकम्"
+
+msgid "Dictionary"
+msgstr "शब्दकोश"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "अंतरण"
+
+msgid "Difficulty"
+msgstr "कष्टम्"
+
+msgid "Digit"
+msgstr "अङ्कः"
+
+msgid "Dimensions"
+msgstr "आयामाः"
+
+msgid "DIR"
+msgstr "त्वम्‌"
+
+msgid "Direction"
+msgstr "निर्देश"
+
+msgid "Directories"
+msgstr "निर्देशिकाः"
+
+msgid "Directory"
+msgstr "निर्देशिका"
+
+msgid "directory"
+msgstr "निर्देशिका"
+
+msgid "Directory Name"
+msgstr "निर्देशिका नाम"
+
+msgid "Disable"
+msgstr "अक्षम"
+
+msgid "Disable connection to session manager"
+msgstr ""
+
+msgid "Disabled"
+msgstr "अक्षमित"
+
+msgid "disabled"
+msgstr "अक्षमित"
+
+msgid "Disc"
+msgstr "डिस्क"
+
+msgid "Disc Number"
+msgstr "डिस्क संख्या"
+
+msgid "Discard"
+msgstr "तनूकृ"
+
+msgid "_Discard"
+msgstr ""
+
+msgid "Discard All"
+msgstr "सर्वं परित्यजन्तु"
+
+msgid "Discard Changes"
+msgstr "परिवर्तनं परित्यजन्तु"
+
+msgid "Discard changes"
+msgstr "परिवर्तनं परित्यजन्तु"
+
+msgid "_Discard Changes"
+msgstr ""
+
+msgid "Discharging"
+msgstr "निर्वहनम्"
+
+msgid "Disconnect"
+msgstr "विच्छेदं कुर्वन्तु"
+
+msgid "Disconnected"
+msgstr "विच्छिन्नः"
+
+msgid "Discover"
+msgstr "डिस्कवर्"
+
+msgid "Discrete"
+msgstr "विच्छिन्नम्"
+
+msgid "Disk"
+msgstr "डिस्क"
+
+msgid "Dismiss"
+msgstr "उत्सृज्"
+
+msgid "Display"
+msgstr "प्रदर्शन"
+
+msgid "Display Configuration"
+msgstr "प्रदर्शन विन्यास"
+
+msgid "Display Name"
+msgstr "प्रदर्शन नाम"
+
+msgid "Display Settings"
+msgstr "सेटिंग्स् प्रदर्शयन्तु"
+
+msgid "Dissolve"
+msgstr "विलीनम्"
+
+msgid "Distance"
+msgstr "दूरी"
+
+msgid "Divide"
+msgstr "विभाजनं"
+
+msgid "Djibouti"
+msgstr "जिबूती"
+
+msgid "Dmitry Suzdalev"
+msgstr "दिमित्री सुजदालेव"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "पुनः मा पृच्छतु"
+
+msgid "Do Not Cancel"
+msgstr "रद्दं न कुर्वन्तु"
+
+msgid "Do not change the actual backend data."
+msgstr "वास्तविकं पृष्ठभागदत्तांशं न परिवर्तयन्तु ।"
+
+msgid "Do not show again"
+msgstr "पुनः न दर्शयतु"
+
+msgid "Do not show this message again"
+msgstr "पुनः एतत् सन्देशं न दर्शयतु"
+
+msgid "Do Nothing"
+msgstr "किमपि न कुरु"
+
+msgid "Do nothing"
+msgstr "किमपि न कुरु"
+
+msgid "Document"
+msgstr "प्रलेख"
+
+msgid "Document Properties"
+msgstr "दस्तावेज गुणाः"
+
+msgid "Document to open"
+msgstr "दस्तावेजं उद्घाटयितुं"
+
+msgid "Document Viewer"
+msgstr "दस्तावेज दर्शक"
+
+msgid "Documentation"
+msgstr "दस्तावेजीकरणम्"
+
+msgid "Documents"
+msgstr "दस्तावेजाः"
+
+msgid "does not contain"
+msgstr "न समाहितम्"
+
+msgid "Dolphin"
+msgstr "डॉल्फिन"
+
+msgid "Domain"
+msgstr "क्षेत्र"
+
+msgid "Dominica"
+msgstr "डोमिनिका"
+
+msgid "Dominican Republic"
+msgstr "डोमिनिकन गणराज्य"
+
+msgid "Donate"
+msgstr "वितरणं"
+
+msgid "Done"
+msgstr "कृतम्‌"
+
+msgid "Dot"
+msgstr "बिन्दु"
+
+msgid "Dots"
+msgstr "बिन्दवः"
+
+msgid "Dotted"
+msgstr "बिन्दुयुक्तः"
+
+msgid "Double"
+msgstr "द्विद्वार"
+
+msgid "Down"
+msgstr "अधः"
+
+msgid "Download"
+msgstr "अवाहरन"
+
+msgid "Download Manager"
+msgstr "डाउनलोड प्रबन्धक"
+
+msgid "Downloaded"
+msgstr "डाउनलोड् कृतम्"
+
+msgid "Downloading"
+msgstr "डाउनलोड् करणम्"
+
+msgid "Downloading..."
+msgstr "अवारोपण…"
+
+msgid "Downloads"
+msgstr "डाउनलोड्स्"
+
+msgid "Dr."
+msgstr "डॉ."
+
+msgid "Draft"
+msgstr "प्रारूप"
+
+msgid "Drafts"
+msgstr "प्रारूपाणि"
+
+msgid "Draw"
+msgstr "आकर्षयतु"
+
+msgid "Drive"
+msgstr "वह्"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "देय"
+
+msgid "Due Date"
+msgstr "द्वे तिथौ"
+
+msgid "Duplicate"
+msgstr "डुप्लिकेट्"
+
+msgid "_Duplicate"
+msgstr ""
+
+msgid "Duplicates"
+msgstr "डुप्लिकेट"
+
+msgid "Duration"
+msgstr "अवधि"
+
+msgid "Dutch"
+msgstr "डच्"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM इति"
+
+msgid "DVD+RW"
+msgstr "DVD+RW इति"
+
+msgid "DVD-RW"
+msgstr "डीवीडी-आरडब्ल्यू"
+
+msgid "E"
+msgstr "तथा"
+
+msgid "EAP"
+msgstr "ईएपी"
+
+msgid "East"
+msgstr "पूर्वं"
+
+msgid "Easy"
+msgstr "सरलम्‌"
+
+msgid "Echo"
+msgstr "प्रतिध्वनि"
+
+msgid "Ecuador"
+msgstr "इक्वाडोर"
+
+msgid "Edge"
+msgstr ""
+
+msgid "Edit"
+msgstr "सम्पादन"
+
+msgid "&Edit"
+msgstr "&सम्पादन"
+
+msgid "_Edit"
+msgstr ""
+
+msgid "Edit..."
+msgstr "सम्पादन..."
+
+msgid "&Edit..."
+msgstr "&सम्पादन..."
+
+msgid "Edit %1"
+msgstr "%1 सम्पादयतु"
+
+msgid "Edit Bookmark"
+msgstr "बुकमार्क सम्पादयतु"
+
+msgid "Edit Filter"
+msgstr "फ़िल्टर सम्पादयतु"
+
+msgid "Edit Image"
+msgstr "चित्रं सम्पादयतु"
+
+msgid "Editing"
+msgstr "सम्पादनम्"
+
+msgid "Editor"
+msgstr "सम्पादक"
+
+msgid "Education"
+msgstr "शिक्षा"
+
+msgid "Effects"
+msgstr "प्रभावाः"
+
+msgid "Egypt"
+msgstr "मिस्रदेशः"
+
+msgid "Egyptian"
+msgstr "मिस्रदेशस्य"
+
+msgid "Eike Hein"
+msgstr "ऐके हेन"
+
+msgid "Eject"
+msgstr "निष्कासनम्"
+
+msgid "_Eject"
+msgstr ""
+
+msgid "El Salvador"
+msgstr "एल साल्वाडोर"
+
+msgid "Electronic"
+msgstr "इलेक्ट्रॉनिक"
+
+msgid "Element"
+msgstr "तत्व"
+
+msgid "Ellipse"
+msgstr "दीर्घवृत्तम्"
+
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "E-mail"
+msgstr "ई-मेल"
+
+msgid "Email Address"
+msgstr "ईमेल पता"
+
+msgid "Email address"
+msgstr "ईमेल-सङ्केतः "
+
+msgid "Emails"
+msgstr "ईमेल"
+
+msgid "Embedded"
+msgstr ""
+
+msgid "Emboss"
+msgstr "उभरा"
+
+msgid "Emphasis"
+msgstr "बलं"
+
+msgid "Empty"
+msgstr "रिक्तम्‌"
+
+msgid "empty"
+msgstr "रिक्तम्‌"
+
+msgid "(empty)"
+msgstr "(रिक्तम्‌)"
+
+msgid "<empty>"
+msgstr "<रिक्त>"
+
+msgid "Empty Trash"
+msgstr "रिक्त कचरा"
+
+msgid "Enable"
+msgstr "सक्रियं करोतु"
+
+msgid "Enable system tray icon"
+msgstr "सिस्टम् ट्रे चिह्नं सक्षमं कुर्वन्तु"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+
+msgid "Enabled"
+msgstr "सक्षमम्"
+
+msgid "Encoder"
+msgstr "एन्कोडर"
+
+msgid "Encoding"
+msgstr "एन्कोडिंग्"
+
+msgid "_Encoding"
+msgstr ""
+
+msgid "Encrypt"
+msgstr "एन्क्रिप्ट् कुर्वन्तु"
+
+msgid "&Encrypt"
+msgstr "&गुप्तीकरण"
+
+msgid "Encrypted"
+msgstr "एन्क्रिप्टेड्"
+
+msgid "Encryption"
+msgstr "एन्क्रिप्शन"
+
+msgid "End"
+msgstr "अंत"
+
+msgid "end"
+msgstr "अंत"
+
+msgid "End Date"
+msgstr "समाप्तितिथि"
+
+msgid "End Time"
+msgstr "समाप्तिकालः"
+
+msgid "ends with"
+msgstr "इति समाप्तम्"
+
+msgid "Energy"
+msgstr "ऊर्जा"
+
+msgid "Engine"
+msgstr "यन्त्र"
+
+msgid "Engineering"
+msgstr "अभियांत्रिकी"
+
+msgid "English"
+msgstr "आंग्ल"
+
+msgid "Enter"
+msgstr "प्रवेश"
+
+msgid "Enter password"
+msgstr "गुप्तशब्दं प्रविशतु"
+
+msgid "Entry"
+msgstr "प्रविष्टि"
+
+msgid "Environment"
+msgstr "पर्यावरणम्‌"
+
+msgid "equals"
+msgstr "समः"
+
+msgid "Equation"
+msgstr "समीकरणम्"
+
+msgid "Equatorial Guinea"
+msgstr "भूमध्यरेखीय गिनी"
+
+msgid "Erase"
+msgstr "मेटयतु"
+
+msgid "Eraser"
+msgstr "आघर्षनी"
+
+msgid "Eritrea"
+msgstr "इरिट्रिया"
+
+msgid "ERROR"
+msgstr "त्रुटि"
+
+msgid "Error"
+msgstr "त्रुटि"
+
+msgid "error"
+msgstr "त्रुटि"
+
+msgid "Error: %1"
+msgstr "त्रुटिः %1"
+
+msgid "Error message"
+msgstr "त्रुटिसन्देशः"
+
+msgid "Errors"
+msgstr "दोषाः"
+
+msgid "Escape"
+msgstr "परिभ्रंशति"
+
+msgid "Esperanto"
+msgstr "एस्पेरान्तो"
+
+msgid "Estonia"
+msgstr "एस्टोनिया"
+
+msgid "Estonian"
+msgstr "एस्टोनियाई"
+
+msgid "Ethiopia"
+msgstr "इथियोपिया"
+
+msgid "Ethiopic"
+msgstr "इथियोपिक"
+
+msgid "Europe"
+msgstr "यूरोप"
+
+msgid "Evaluate"
+msgstr "गणयति"
+
+msgid "Event"
+msgstr "घटना"
+
+msgid "Events"
+msgstr "घटनाः"
+
+msgid "Everyone"
+msgstr "प्रत्येकं"
+
+msgid "Everything"
+msgstr "सर्वम्‌"
+
+msgid "Exact"
+msgstr "यथार्थ"
+
+msgid "Example"
+msgstr "उदाहरण"
+
+msgid "Examples"
+msgstr "उदाहरणानि"
+
+msgid "Exception"
+msgstr "व्यपकर्ष"
+
+msgid "Exclude"
+msgstr "बहिष्कारं कुरुत"
+
+msgid "Exclusion"
+msgstr "बहिष्कारः"
+
+msgid "Executable"
+msgstr "निष्पादनीयः "
+
+msgid "Execute"
+msgstr "प्रभज्"
+
+msgid "Exit"
+msgstr "निर्गम"
+
+msgid "Exit Full Screen"
+msgstr "पूर्णपर्दे निर्गच्छन्तु"
+
+msgid "Exit Fullscreen"
+msgstr "Fullscreen इत्यस्मात् निर्गच्छन्तु"
+
+msgid "Exiting..."
+msgstr "निर्गच्छन्..."
+
+msgid "Expand"
+msgstr "आतन्"
+
+msgid "Expand All"
+msgstr "सर्वं विस्तारयतु"
+
+msgid "Experimental"
+msgstr "प्रयोगात्मकः"
+
+msgid "Expired"
+msgstr "परीत"
+
+msgid "Expires"
+msgstr "अवधिः समाप्तः भवति"
+
+msgid "Export"
+msgstr "निर्यात"
+
+msgid "&Export"
+msgstr "&निर्यात"
+
+msgid "_Export"
+msgstr ""
+
+msgid "Export..."
+msgstr "निर्यात..."
+
+msgid "&Export..."
+msgstr "&निर्यात..."
+
+msgid "_Export..."
+msgstr ""
+
+msgid "E&xport..."
+msgstr "निर्यात..."
+
+msgid "Export As..."
+msgstr "निर्यात यथा..."
+
+msgid "Export failed"
+msgstr "निर्यातः विफलः अभवत्"
+
+msgid "Export Options"
+msgstr "निर्यातविकल्पाः"
+
+msgid "Exposure"
+msgstr "विवृति"
+
+msgid "Expression"
+msgstr "अभिव्यक्ति"
+
+msgid "Extended"
+msgstr "विस्तृत"
+
+msgid "Extension"
+msgstr "विस्तार"
+
+msgid "Extensions"
+msgstr "विस्तारः"
+
+msgid "Extra Toolbar"
+msgstr "अतिरिक्त टूलबार"
+
+msgid "Extract"
+msgstr "निष्कर्शन"
+
+msgid "F"
+msgstr "च"
+
+msgid "Facebook"
+msgstr "फेसबुक"
+
+msgid "Fade"
+msgstr "म्लै"
+
+msgid "Fahrenheit"
+msgstr "फारेनहाइट्"
+
+msgid "Failed"
+msgstr "असफल"
+
+msgid "False"
+msgstr "असत्य"
+
+msgid "false"
+msgstr "असत्य"
+
+msgid "Family"
+msgstr "परिवारं"
+
+msgid "Family Name"
+msgstr "कुलनाम"
+
+msgid "Fast"
+msgstr "उपवासः"
+
+msgid "Faster"
+msgstr "द्रुततरम्"
+
+msgid "Fatal Error"
+msgstr "घातक त्रुटिः"
+
+msgid "Favorite"
+msgstr "प्रिय"
+
+msgid "Favorites"
+msgstr "प्रियाः"
+
+msgid "Fax"
+msgstr "फैक्स"
+
+msgid "Features"
+msgstr "गुणाः"
+
+msgid "February"
+msgstr "फरवरी माह"
+
+msgid "Feeds"
+msgstr "पोषयति"
+
+msgid "Felipe Kinoshita"
+msgstr "फेलिप किनोशिता"
+
+msgid "Fetch"
+msgstr "उपानी"
+
+msgid "Fiji"
+msgstr "फिजी"
+
+msgid "FILE"
+msgstr ""
+
+msgid "File"
+msgstr "सञ्चिका"
+
+msgid "file"
+msgstr "सञ्चिका"
+
+msgid "&File"
+msgstr "&संचिका"
+
+msgid "_File"
+msgstr ""
+
+msgid "[FILE...]"
+msgstr "[संचिका...]"
+
+msgid "File Already Exists"
+msgstr "सञ्चिका पूर्वमेव विद्यते"
+
+msgid "File already exists"
+msgstr "सञ्चिका पूर्वमेव अस्ति"
+
+msgid "File Exists"
+msgstr "सञ्चिका विद्यते"
+
+msgid "File Format"
+msgstr "सञ्चिकास्वरूपम्"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "सञ्चिकाप्रबन्धकः"
+
+msgid "File Name"
+msgstr "सञ्चिकानाम"
+
+msgid "File name"
+msgstr "सञ्चिकानाम"
+
+msgid "File Not Found"
+msgstr "सञ्चिका न प्राप्ता"
+
+msgid "File not found"
+msgstr "सञ्चिका न प्राप्ता"
+
+msgid "File Path"
+msgstr "सञ्चिकामार्गः"
+
+msgid "File Properties"
+msgstr "सञ्चिकागुणाः"
+
+msgid "File Size"
+msgstr "सञ्चिकायाः आकारः"
+
+msgid "File size"
+msgstr "सञ्चिकायाः आकारः "
+
+msgid "File System"
+msgstr "सञ्चिकातन्त्रम्"
+
+msgid "File to open"
+msgstr "सञ्चिकां उद्घाटयितुं"
+
+msgid "File Transfer"
+msgstr "सञ्चिका स्थानान्तरणम्"
+
+msgid "File Type"
+msgstr "सञ्चिकाप्रकारः"
+
+msgid "Filename"
+msgstr "सञ्चिकानाम"
+
+msgid "Files"
+msgstr "सञ्चिकाः"
+
+msgid "Filesystem"
+msgstr "सञ्चिकातन्त्रम्"
+
+msgid "Fill"
+msgstr "पूरण"
+
+msgid "Fill Color"
+msgstr "Fill Color इति"
+
+msgid "Filter"
+msgstr "फ़िल्टर"
+
+msgid "Filter..."
+msgstr "फ़िल्टर..."
+
+msgid "Filters"
+msgstr "फ़िल्टर"
+
+msgid "Final"
+msgstr "अन्तिमः"
+
+msgid "Find"
+msgstr "अन्वेषय"
+
+msgid "&Find"
+msgstr "&अन्वेषय"
+
+msgid "_Find"
+msgstr ""
+
+msgid "F&ind"
+msgstr "अन्वेषय"
+
+msgid "Find..."
+msgstr "अन्वेषय..."
+
+msgid "_Find..."
+msgstr ""
+
+msgid "Find and Replace"
+msgstr "अन्वेषणं प्रतिस्थापनं च"
+
+msgid "Find Next"
+msgstr "अग्रिमम् अन्वेष्टुम्"
+
+msgid "Find _Next"
+msgstr ""
+
+msgid "Find Ne_xt"
+msgstr ""
+
+msgid "Find Previous"
+msgstr ""
+
+msgid "Find Pre_vious"
+msgstr ""
+
+msgid "Fingerprint"
+msgstr "अङ्गुलिचिह्न"
+
+msgid "Finish"
+msgstr "समापन"
+
+msgid "Finished"
+msgstr "सम्पूर्ण"
+
+msgid "Finland"
+msgstr "फिन्लैण्ड्"
+
+msgid "Finnish"
+msgstr "फिनिश"
+
+msgid "First"
+msgstr "प्रथमः"
+
+msgid "First Page"
+msgstr "प्रथम पृष्ठ"
+
+msgid "Fit"
+msgstr "योग्यः"
+
+msgid "Fit Width"
+msgstr "फिट चौड़ाई"
+
+msgid "Fixed"
+msgstr "युक्त"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "ध्वजितम्"
+
+msgid "Flags"
+msgstr "ध्वजाः"
+
+msgid "Flash"
+msgstr "प्रस्फुरण"
+
+msgid "Flat"
+msgstr "समतलम्‌"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "पर्यस्"
+
+msgid "Flip Horizontally"
+msgstr "क्षैतिजरूपेण पलटतु"
+
+msgid "Flip horizontally"
+msgstr "क्षैतिजरूपेण पलटन्तु"
+
+msgid "Flip Vertically"
+msgstr "लम्बवत् पलटतु"
+
+msgid "Flip vertically"
+msgstr "लम्बवत् पलटन्तु"
+
+msgid "Float"
+msgstr "तारण"
+
+msgid "Floating"
+msgstr "प्लवमानः"
+
+msgid "Flow"
+msgstr "प्रवाहः"
+
+msgid "flower"
+msgstr "पुष्पं"
+
+msgid "Focal Length"
+msgstr "फोकल लंबाई"
+
+msgid "Focus"
+msgstr "केंद्रबिन्दुः"
+
+msgid "Folder"
+msgstr "समुच्चय"
+
+msgid "Folder name"
+msgstr "पुटस्य नाम"
+
+msgid "Folders"
+msgstr "पुटम्"
+
+msgid "Folk"
+msgstr "लोक"
+
+msgid "Font"
+msgstr "फॉन्ट्"
+
+msgid "&Font"
+msgstr "&फॉन्ट्"
+
+msgid "Font Color"
+msgstr "फॉन्ट रङ्ग"
+
+msgid "Font Family"
+msgstr "फॉन्ट परिवार"
+
+msgid "Font Size"
+msgstr "फ़ॉन्ट आकार"
+
+msgid "Font size"
+msgstr "फन्ट् आकारः"
+
+msgid "Fonts"
+msgstr "फॉन्ट्"
+
+msgid "_Fonts"
+msgstr ""
+
+msgid "Food"
+msgstr "आहारः"
+
+msgid "Footer"
+msgstr "पादलेखः"
+
+msgid "Force"
+msgstr "बल"
+
+msgid "Forecast"
+msgstr "पूर्वानुमान"
+
+msgid "Foreground"
+msgstr "अग्रभूमिः"
+
+msgid "Foreground Color"
+msgstr "अग्रभूमि वर्ण"
+
+msgid "Foreground color"
+msgstr "अग्रभूमिवर्णः"
+
+msgid "forever"
+msgstr "सदा"
+
+msgid "Form"
+msgstr "आवेदनपत्रं"
+
+msgid "Format"
+msgstr "प्रारूप"
+
+msgid "Formatting"
+msgstr "स्वरूपणम्"
+
+msgid "Former Maintainer"
+msgstr "पूर्व रखरखावकर्ता"
+
+msgid "Former maintainer"
+msgstr "पूर्व परिपालक"
+
+msgid "Formula"
+msgstr "सूत्रम्"
+
+msgid "Forward"
+msgstr "अग्रतः"
+
+msgid "&Forward"
+msgstr "&अग्रतः"
+
+msgid "_Forward"
+msgstr ""
+
+msgid "Fraction"
+msgstr "अंशः"
+
+msgid "Frame"
+msgstr "आबन्ध"
+
+msgid "Framerate"
+msgstr "फ्रेमरेट्"
+
+msgid "Frames"
+msgstr "फ्रेम्स"
+
+msgid "France"
+msgstr "फ्रांस्देशः"
+
+msgid "Free"
+msgstr "निःशुल्कः"
+
+msgid "French"
+msgstr "फ्रेंचभाषा"
+
+msgid "French Guiana"
+msgstr "फ्रेंच गुयाना"
+
+msgid "Frequency"
+msgstr "आवृत्ती"
+
+msgid "Friday"
+msgstr "शुक्रवारं"
+
+msgid "Friends"
+msgstr "मित्राः"
+
+msgid "From"
+msgstr "इत्यस्मात्‌"
+
+msgid "from"
+msgstr "इत्यस्मात्‌"
+
+msgid "From %1"
+msgstr "%1 तः"
+
+msgid "Frozen"
+msgstr "संशीत"
+
+msgid "Full"
+msgstr "पूर्ण"
+
+msgid "Full Name"
+msgstr "सम्पूर्ण नाम"
+
+msgid "Full Screen"
+msgstr "पूर्णपर्दे"
+
+msgid "Full Screen Mode"
+msgstr "पूर्ण स्क्रीन मोड"
+
+msgid "F&ull Screen Mode"
+msgstr "F&ull स्क्रीन मोड"
+
+msgid "Fullscreen"
+msgstr "पूर्णपर्दे"
+
+msgid "_Fullscreen"
+msgstr ""
+
+msgid "Function"
+msgstr "नियोग"
+
+msgid "function"
+msgstr "नियोग"
+
+msgid "Functions"
+msgstr "कार्याणि"
+
+msgid "Future"
+msgstr "भविष्य"
+
+msgid "G"
+msgstr "जी"
+
+msgid "Gabon"
+msgstr "गाबोन"
+
+msgid "Galician"
+msgstr "गैलिशियन्"
+
+msgid "Gallery"
+msgstr "गैलरी"
+
+msgid "Gambia"
+msgstr "गाम्बिया"
+
+msgid "Game"
+msgstr "क्रीडा"
+
+msgid "&Game"
+msgstr "&क्रीडा"
+
+msgid "Game Over"
+msgstr "गेम ओवर"
+
+msgid "Games"
+msgstr "क्रीडाः"
+
+msgid "Gamma"
+msgstr "गाम्मा"
+
+msgid "Gas"
+msgstr "गैसः"
+
+msgid "Gate"
+msgstr "द्वार"
+
+msgid "Gateway"
+msgstr "द्वारम्"
+
+msgid "Gaussian Blur"
+msgstr ""
+
+msgid "GB"
+msgstr "जीबी"
+
+msgid "Gender"
+msgstr "लिंग"
+
+msgid "General"
+msgstr "सामान्य"
+
+msgid "&General"
+msgstr "&सामान्य"
+
+msgid "General Options"
+msgstr "सामान्यविकल्पाः"
+
+msgid "General options"
+msgstr "सामान्य विकल्पाः"
+
+msgid "General Settings"
+msgstr "सामान्य सेटिंग्स्"
+
+msgid "Generate"
+msgstr "उद्- पद्"
+
+msgid "Generic"
+msgstr "सामान्यम्"
+
+msgid "Genre"
+msgstr "मातुर्"
+
+msgid "Genres"
+msgstr "विधाः"
+
+msgid "Geometry"
+msgstr "ज्यामिति"
+
+msgid "George Staikos"
+msgstr "जार्ज स्टैइकोस"
+
+msgid "Georgia"
+msgstr "जॉर्जिया"
+
+msgid "Georgian"
+msgstr "जॉर्जियाई"
+
+msgid "German"
+msgstr "जर्मन"
+
+msgid "Germany"
+msgstr "जर्मनीदेशः"
+
+msgid "Get New..."
+msgstr "नवीनं प्राप्तुम्..."
+
+msgid "Get New Plugins..."
+msgstr "नवीन प्लगिन् प्राप्त करें..."
+
+msgid "Ghana"
+msgstr "घाना"
+
+msgid "GiB"
+msgstr "गिब"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "गिट्"
+
+msgid "Given Name"
+msgstr "दत्तं नाम"
+
+msgid "Global"
+msgstr "वैश्विक"
+
+msgid "GNOME"
+msgstr ""
+
+msgid "Go"
+msgstr "गच्छ"
+
+msgid "&Go"
+msgstr "&गच्छ"
+
+msgid "_Go"
+msgstr ""
+
+msgid "Go Back"
+msgstr "Go Back इति"
+
+msgid "Go back"
+msgstr "पुनः गच्छतु"
+
+msgid "Go forward"
+msgstr "अग्रे गच्छतु"
+
+msgid "Go To"
+msgstr "Go To इति"
+
+msgid "Go to first page"
+msgstr "प्रथमपृष्ठं गच्छन्तु"
+
+msgid "Go to last page"
+msgstr "अन्तिमपृष्ठं गच्छन्तु"
+
+msgid "Go to Line"
+msgstr "Line इति गच्छन्तु"
+
+msgid "Go to next page"
+msgstr "अग्रिमपृष्ठं गच्छन्तु"
+
+msgid "Go to previous page"
+msgstr "पूर्वपृष्ठं गच्छन्तु"
+
+msgid "Goa"
+msgstr "गोवा"
+
+msgid "Gold"
+msgstr "स्वर्णं"
+
+msgid "Good"
+msgstr "शोभन"
+
+msgid "Google"
+msgstr "गूगल"
+
+msgid "Gothic"
+msgstr "गोथिक"
+
+msgid "Gradient"
+msgstr "ढाल"
+
+msgid "Gradients"
+msgstr "ढालाः"
+
+msgid "Graph"
+msgstr "आलेखः"
+
+msgid "Graphics"
+msgstr "ग्राफिक्स"
+
+msgid "Gray"
+msgstr "धूसर"
+
+msgid "gray"
+msgstr "धूसर"
+
+msgid "Grayscale"
+msgstr "ग्रेस्केल"
+
+msgid "Greece"
+msgstr "ग्रीसदेशः"
+
+msgid "Greek"
+msgstr "ग्रीकभाषा"
+
+msgid "Green"
+msgstr "हरित"
+
+msgid "green"
+msgstr "हरित"
+
+msgid "Grenada"
+msgstr "ग्रेनेडा"
+
+msgid "Grey"
+msgstr "धूसर"
+
+msgid "Grid"
+msgstr "गृध्र"
+
+msgid "Group"
+msgstr "समूह"
+
+msgid "Group name"
+msgstr "समूहनाम "
+
+msgid "Grouping"
+msgstr "समूहीकरणम्"
+
+msgid "Groups"
+msgstr "समूहाः"
+
+msgid "GSM"
+msgstr "जीएसएम"
+
+msgid "Guatemala"
+msgstr "ग्वाटेमाला"
+
+msgid "Guides"
+msgstr ""
+
+msgid "Guinea"
+msgstr "गिनी"
+
+msgid "Gujarati"
+msgstr "गुजराती"
+
+msgid "Gurmukhi"
+msgstr "गुरमुखी"
+
+msgid "Guyana"
+msgstr "गुयाना"
+
+msgid "H"
+msgstr "ह"
+
+msgid "Haiti"
+msgstr "हैती"
+
+msgid "Hard"
+msgstr "रूक्षः"
+
+msgid "Hardware"
+msgstr "हार्डवेयर"
+
+msgid "Hawaiian"
+msgstr "हवाई"
+
+msgid "Header"
+msgstr "शीर्षकम्"
+
+msgid "Headers"
+msgstr "शीर्षकम्"
+
+msgid "Heading"
+msgstr "शीर्षकम्"
+
+msgid "Heading 1"
+msgstr "शीर्षकम् १"
+
+msgid "Heading 2"
+msgstr "शीर्षकम् २"
+
+msgid "Heading 3"
+msgstr "शीर्षकम् ३"
+
+msgid "Heading 4"
+msgstr "शीर्षकम् ४"
+
+msgid "Headphones"
+msgstr "हेडफोन"
+
+msgid "Headset"
+msgstr "हेडसेट्"
+
+msgid "Health"
+msgstr "आरोग्यम्‌"
+
+msgid "Hebrew"
+msgstr "हिब्रू"
+
+msgid "Height"
+msgstr "औनत्यम्‌"
+
+msgid "&Height"
+msgstr "&औनत्यम्‌"
+
+msgid "Help"
+msgstr "साहाय्यम्‌"
+
+msgid "&Help"
+msgstr "&साहाय्यम्‌"
+
+msgid "_Help"
+msgstr ""
+
+msgid "Helsinki"
+msgstr "हेल्सिन्की"
+
+msgid "Hex"
+msgstr "हेक्सः"
+
+msgid "Hexadecimal"
+msgstr "षट्दशमलवः"
+
+msgid "Hexagon"
+msgstr "षट्कोणः"
+
+msgid "Hibernate"
+msgstr "शीतनिद्रा"
+
+msgid "Hidden"
+msgstr "अदृष्ट"
+
+msgid "hidden"
+msgstr "अदृष्ट"
+
+msgid "Hide"
+msgstr "गोपयतु"
+
+msgid "&Hide"
+msgstr "&गोपयतु"
+
+msgid "Hide menu bar"
+msgstr "मेनू-पट्टिकां गोपयन्तु"
+
+msgid "High"
+msgstr "उच्चैः"
+
+msgid "Highlight"
+msgstr "प्रमुखाकृष्टि"
+
+msgid "Highlighter"
+msgstr "हाइलाइटर"
+
+msgid "Highlights"
+msgstr "मुख्यविषयाणि"
+
+msgid "Hindi"
+msgstr "न"
+
+msgid "Hint"
+msgstr "संकेत"
+
+msgid "Histogram"
+msgstr "हिस्टोग्राम"
+
+msgid "History"
+msgstr "इतिहास"
+
+msgid "%H:%M"
+msgstr ""
+
+msgid "Hold"
+msgstr "गृह्णातु"
+
+msgid "Holidays"
+msgstr "अवकाशदिनानि"
+
+msgid "Home"
+msgstr "गृहम्‌"
+
+msgid "&Home"
+msgstr "&गृहम्‌"
+
+msgid "Home Folder"
+msgstr "Home Folder"
+
+msgid "Home Page"
+msgstr "मुखपृष्ठ"
+
+msgid "Homepage"
+msgstr "मुखपृष्ठ"
+
+msgid "Honduras"
+msgstr "होण्डुरस"
+
+msgid "Hong Kong"
+msgstr "हाङ्गकाङ्ग"
+
+msgid "Horizontal"
+msgstr "क्षैतिज"
+
+msgid "Host"
+msgstr "निमन्त्रकः"
+
+msgid "Hostname"
+msgstr "होस्टनाम"
+
+msgid "Hotspot"
+msgstr "हॉटस्पॉट्"
+
+msgid "Hour"
+msgstr "घटकः"
+
+msgid "Hours"
+msgstr "घण्टानः"
+
+msgid "hours"
+msgstr "घण्टानः"
+
+msgid "House"
+msgstr "गृहम्‌"
+
+msgid "HSV"
+msgstr "एच.एस.वी"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "एचटीटीपी"
+
+msgid "Hue"
+msgstr "हुए"
+
+msgid "Huge"
+msgstr "विशालः"
+
+msgid "Hungarian"
+msgstr "हङ्गेरी"
+
+msgid "Hungary"
+msgstr "हङ्गरी"
+
+msgid "Hz"
+msgstr "हर्ट्ज"
+
+msgid "I"
+msgstr "अहम्‌"
+
+msgid "Ian Wadham"
+msgstr "इयान् वाधम्"
+
+msgid "Iceland"
+msgstr "आइसलैण्ड्"
+
+msgid "Icelandic"
+msgstr "आइसलैण्डिक"
+
+msgid "Icon"
+msgstr "चिह्नम्"
+
+msgid "Icon Size"
+msgstr "चिह्न आकार"
+
+msgid "Icon size"
+msgstr "चिह्न आकार"
+
+msgid "Icon View"
+msgstr "चिह्नदृश्यम्"
+
+msgid "Icons"
+msgstr "चिह्नानि"
+
+msgid "ID"
+msgstr "आईडी"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "id"
+msgstr "id"
+
+msgid "Identifier"
+msgstr "परिचयकः"
+
+msgid "Identity"
+msgstr "चिह्नं"
+
+msgid "Idle"
+msgstr "आलम"
+
+msgid "Ignore"
+msgstr "उपेक्षा"
+
+msgid "_Ignore"
+msgstr ""
+
+msgid "Ignore Case"
+msgstr "प्रकरणस्य अवहेलना कुर्वन्तु"
+
+msgid "Ignored"
+msgstr "उपेक्षितम्"
+
+msgid "Image"
+msgstr "छवि"
+
+msgid "image"
+msgstr "छवि"
+
+msgid "&Image"
+msgstr "&छवि"
+
+msgid "_Image"
+msgstr ""
+
+msgid "Image Editor"
+msgstr ""
+
+msgid "Image Files"
+msgstr "चित्रसञ्चिकाः"
+
+msgid "Image files"
+msgstr "चित्रसञ्चिकाः"
+
+msgid "Image Gallery"
+msgstr "चित्रसङ्ग्रहालयः"
+
+msgid "Image Properties"
+msgstr ""
+
+msgid "Image Settings"
+msgstr "चित्रसेटिंग्स्"
+
+msgid "Image Size"
+msgstr "चित्रस्य आकारः"
+
+msgid "Image Viewer"
+msgstr "चित्रदर्शकः"
+
+msgid "Images"
+msgstr "बिम्बाः"
+
+msgid "Images (%1)"
+msgstr "चित्राणि (%1) ."
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "आयात"
+
+msgid "&Import"
+msgstr "&आयात"
+
+msgid "_Import"
+msgstr ""
+
+msgid "Import..."
+msgstr "आयात..."
+
+msgid "&Import..."
+msgstr "&आयात..."
+
+msgid "Import failed"
+msgstr ""
+
+msgid "Important"
+msgstr "महत्वपूर्णः"
+
+msgid "In"
+msgstr "इत्यस्मिन्‌"
+
+msgid "in"
+msgstr "इत्यस्मिन्‌"
+
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+msgid "Inbox"
+msgstr "इनबॉक्स"
+
+msgid "inch"
+msgstr "इञ्च्"
+
+msgid "Inches"
+msgstr "इञ्च्"
+
+msgid "inches"
+msgstr "इञ्च्"
+
+msgid "Inches (in)"
+msgstr "इञ्च् (इञ्च)"
+
+msgid "Include"
+msgstr "निहितः"
+
+msgid "Includes"
+msgstr "अन्तर्भवति"
+
+msgid "Incoming"
+msgstr "आगमनम्"
+
+msgid "Increase Font Size"
+msgstr "Font Size वर्धयन्तु"
+
+msgid "Increase Indent"
+msgstr "इन्डेण्ट् वर्धयतु"
+
+msgid "Increase Volume"
+msgstr "Volume वर्धयतु"
+
+msgid "Incremental"
+msgstr "वृद्धिशील"
+
+msgid "Indentation"
+msgstr "निक्षेपः"
+
+msgid "Index"
+msgstr "अनुक्रमणिका"
+
+msgid "Indexed"
+msgstr ""
+
+msgid "India"
+msgstr "भारत"
+
+msgid "Indonesia"
+msgstr "इन्डोनेशिया"
+
+msgid "Indonesian"
+msgstr "इन्डोनेशियाई"
+
+msgid "Industrial"
+msgstr "औद्योगिक"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Information"
+msgstr "सूचना"
+
+msgid "Initials"
+msgstr "आद्याक्षराणि"
+
+msgid "Input"
+msgstr "निवेशः"
+
+msgid "Input Devices"
+msgstr "इनपुट उपकरण"
+
+msgid "Insert"
+msgstr "युज्"
+
+msgid "&Insert"
+msgstr "&युज्"
+
+msgid "Insert Image"
+msgstr "चित्रं सम्मिलितं कुर्वन्तु"
+
+msgid "Insert Link"
+msgstr "लिङ्कं सम्मिलितं कुर्वन्तु"
+
+msgid "Insert Table"
+msgstr "सारणी सम्मिलित करें"
+
+msgid "Insert Text"
+msgstr "पाठं सम्मिलितं कुर्वन्तु"
+
+msgid "Install"
+msgstr "प्रतिस्था"
+
+msgid "Install..."
+msgstr "प्रतिस्था..."
+
+msgid "Install from File..."
+msgstr "सञ्चिकातः संस्थापनं कुर्वन्तु..."
+
+msgid "Installed"
+msgstr "संस्थापितम्"
+
+msgid "Installing"
+msgstr "संस्थापनम्"
+
+msgid "Instant"
+msgstr "क्षणिक"
+
+msgid "Integer"
+msgstr "पूर्णाङ्कः"
+
+msgid "Integrate"
+msgstr "एकीकृत करें"
+
+msgid "Intensity"
+msgstr "तीव्रता "
+
+msgid "Interface"
+msgstr "अन्तरफलकम्"
+
+msgid "Internal"
+msgstr "आंतरिक"
+
+msgid "Internal Error"
+msgstr "आन्तरिकदोषः"
+
+msgid "Internal error"
+msgstr "आन्तरिकदोषः"
+
+msgid "International"
+msgstr "अन्तराष्ट्रिय"
+
+msgid "Internet"
+msgstr "अन्तर्जालम्"
+
+msgid "Interpolation"
+msgstr "प्रक्षेपः"
+
+msgid "Interrupt"
+msgstr "व्यवधान"
+
+msgid "Interval"
+msgstr "अन्तराल"
+
+msgid "Introduction"
+msgstr "आमुख"
+
+msgid "Invalid"
+msgstr "अप्रतिषेध"
+
+msgid "invalid"
+msgstr "अप्रतिषेध"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr ""
+
+msgid "Invalid date"
+msgstr "अमान्य तिथि"
+
+msgid "Invalid password"
+msgstr "अमान्यगुप्तशब्दः"
+
+msgid "Invalid URL"
+msgstr "अमान्य URL"
+
+msgid "Invert"
+msgstr "विपर्ययम्"
+
+msgid "Invert Selection"
+msgstr "चयनं विपर्यययतु"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP Address इति"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "इरान्"
+
+msgid "Iraq"
+msgstr "इराक"
+
+msgid "Ireland"
+msgstr "आयर्लैण्ड्"
+
+msgid "Irish"
+msgstr "आयरिश"
+
+msgid "is"
+msgstr "अस्ति"
+
+msgid "Israel"
+msgstr "इजरायल्"
+
+msgid "Issued By"
+msgstr "Issued By"
+
+msgid "Issuer"
+msgstr "जारीकर्ता"
+
+msgid "Italian"
+msgstr "इटालियन"
+
+msgid "Italic"
+msgstr "इटालिक"
+
+msgid "&Italic"
+msgstr "&इटालिक"
+
+msgid "_Italic"
+msgstr ""
+
+msgid "Italy"
+msgstr "इटली"
+
+msgid "Item"
+msgstr "वस्तु"
+
+msgid "Items"
+msgstr "मदा"
+
+msgid "Iterations"
+msgstr "पुनरावृत्तयः"
+
+msgid "J"
+msgstr "जे"
+
+msgid "Jamaica"
+msgstr "जमैका"
+
+msgid "January"
+msgstr "जनवरी"
+
+msgid "Japan"
+msgstr "जापान"
+
+msgid "Japanese"
+msgstr "जापानी"
+
+msgid "Javanese"
+msgstr "जावानी"
+
+msgid "JavaScript"
+msgstr "जावास्क्रिप्ट्"
+
+msgid "Jazz"
+msgstr "जाज्"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "जोहान ओलिवियर लापेयर"
+
+msgid "Join"
+msgstr "आबन्धम्"
+
+msgid "Jonah Brüchert"
+msgstr "जोनाह ब्रुचेर्ट"
+
+msgid "Jordan"
+msgstr "जॉर्डन"
+
+msgid "Joseph Wenninger"
+msgstr "जोसेफ् वेनिङ्गर्"
+
+msgid "Joshua Goins"
+msgstr "जोशुआ गोइन्स"
+
+msgid "Journal"
+msgstr "जर्नल"
+
+msgid "JPEG"
+msgstr "जेपीईजी"
+
+msgid "July"
+msgstr "जुलाईमाह"
+
+msgid "Jump to next match"
+msgstr "अग्रिम-क्रीडायाः कृते कूदन्तु"
+
+msgid "Jump to previous match"
+msgstr "पूर्वमेलनं प्रति कूदन्तु"
+
+msgid "June"
+msgstr "जूनं माह"
+
+msgid "Justify"
+msgstr "प्रमाणय्"
+
+msgid "K"
+msgstr "के"
+
+msgid "Kannada"
+msgstr "कन्नड"
+
+msgid "Kate"
+msgstr "केट्"
+
+msgid "Kazakh"
+msgstr "कजाख"
+
+msgid "Kazakhstan"
+msgstr "कजाकिस्तान"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "कुत्र"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "केडीई समुदाय, फेलिप किनोशिता"
+
+msgid "KDE Connect"
+msgstr "KDE Connect इति"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "स्थापय"
+
+msgid "_Keep"
+msgstr ""
+
+msgid "Keep aspect ratio"
+msgstr "आस्पेक्ट रेश्यो रखें"
+
+msgid "Keep Open"
+msgstr "खुले रखें"
+
+msgid "Kenya"
+msgstr "केन्या"
+
+msgid "Kernel"
+msgstr "कर्नेल"
+
+msgid "Key"
+msgstr "कुंजी"
+
+msgid "Key ID"
+msgstr "कील आईडी"
+
+msgid "Keyboard"
+msgstr "कीबोर्ड"
+
+msgid "Keyboard Layout"
+msgstr "कीबोर्ड लेआउट"
+
+msgid "Keyboard Shortcuts"
+msgstr "कीबोर्ड शॉर्टकट"
+
+msgid "Keyboard shortcuts"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "Keys"
+msgstr "कीलम्"
+
+msgid "Keyword"
+msgstr "कीवर्ड"
+
+msgid "Keywords"
+msgstr "कीवर्ड"
+
+msgid "Khmer"
+msgstr "ख्मेर"
+
+msgid "KiB"
+msgstr "किब"
+
+msgid "Kind"
+msgstr "प्रकारः"
+
+msgid "Kiribati"
+msgstr "किरिबाती"
+
+msgid "km"
+msgstr "कि.मी"
+
+msgid "KMail"
+msgstr "केमेल"
+
+msgid "Konqueror"
+msgstr "विजेता"
+
+msgid "Konsole"
+msgstr "सान्त्वनम्"
+
+msgid "Korean"
+msgstr "कोरियाई"
+
+msgid "KOrganizer"
+msgstr "KOorganizer"
+
+msgid "Kuwait"
+msgstr "कुवैत"
+
+msgid "KWin"
+msgstr "केविन्"
+
+msgid "L"
+msgstr "ल"
+
+msgid "Label"
+msgstr "नामपत्र"
+
+msgid "label"
+msgstr "नामपत्र"
+
+msgid "Labels"
+msgstr "लेबल्स्"
+
+msgid "Landscape"
+msgstr "भूप्रदेश"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "_Language"
+msgstr ""
+
+msgid "Languages"
+msgstr "भाषाः"
+
+msgid "Lao"
+msgstr "टीबी"
+
+msgid "Laos"
+msgstr "लाओस"
+
+msgid "Large"
+msgstr "बृहत्‌"
+
+msgid "Last"
+msgstr "अन्तिमः"
+
+msgid "Last Modified"
+msgstr "अन्तिम परिवर्तन"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "लैटिन"
+
+msgid "Latitude"
+msgstr "अक्षांशः"
+
+msgid "Latvia"
+msgstr "लातविया"
+
+msgid "Latvian"
+msgstr "लाट्वियाई"
+
+msgid "Launch %1"
+msgstr "%1 प्रारम्भं कुर्वन्तु"
+
+msgid "Layer"
+msgstr "स्तर"
+
+msgid "Layers"
+msgstr "स्तराः"
+
+msgid "Layout"
+msgstr "प्रारूपं"
+
+msgid "Leave Fullscreen"
+msgstr ""
+
+msgid "Lebanon"
+msgstr "लेबनानदेशः"
+
+msgid "Left"
+msgstr "वामः"
+
+msgid "left"
+msgstr "वामः"
+
+msgid "&Left"
+msgstr "&वामः"
+
+msgid "_Left"
+msgstr ""
+
+msgid "Left to Right"
+msgstr "वामतः दक्षिणतः"
+
+msgid "Legacy"
+msgstr "संप्रत्ति"
+
+msgid "Legend"
+msgstr "आख्यान"
+
+msgid "Length"
+msgstr "दैर्घ्यम्‌"
+
+msgid "Lesotho"
+msgstr "लेसोथो"
+
+msgid "Letter"
+msgstr "पत्रम्"
+
+msgid "Level"
+msgstr "स्तर"
+
+msgid "Level %1"
+msgstr "स्तरः %1"
+
+msgid "Levels"
+msgstr "स्तराः"
+
+msgid "Liberia"
+msgstr "लाइबेरिया"
+
+msgid "Library"
+msgstr "पुस्तकालय"
+
+msgid "License"
+msgstr "अनुज्ञापत्रम्"
+
+msgid "Liechtenstein"
+msgstr "लीक्टेनस्टीन"
+
+msgid "Light"
+msgstr "प्रकाशः"
+
+msgid "Lighten"
+msgstr "लघु करोतु"
+
+msgid "Lightness"
+msgstr "लाघवम्"
+
+msgid "Limit"
+msgstr "सीमा"
+
+msgid "Limits"
+msgstr "सीमाः"
+
+msgid "Line"
+msgstr "पंक्ति"
+
+msgid "line"
+msgstr "पंक्ति"
+
+msgid "Line Break"
+msgstr "रेखाविच्छेदः"
+
+msgid "Line Color"
+msgstr "रेखावर्णः"
+
+msgid "Line Numbers"
+msgstr "रेखासङ्ख्याः"
+
+msgid "Line Width"
+msgstr ""
+
+msgid "Line width"
+msgstr "रेखाविस्तारः"
+
+msgid "Linear"
+msgstr "रेखीय"
+
+msgid "Lines"
+msgstr "रेखाः"
+
+msgid "Link"
+msgstr "सम्बन्ध"
+
+msgid "link"
+msgstr "सम्बन्ध"
+
+msgid "Link URL"
+msgstr "लिङ्क URL"
+
+msgid "Links"
+msgstr "लिङ्कानि"
+
+msgid "Linux"
+msgstr "लिनक्स"
+
+msgid "List"
+msgstr "सूची"
+
+msgid "List View"
+msgstr "सूचीदृश्यम्"
+
+msgid "Lists"
+msgstr "सूचीः"
+
+msgid "Lists the available options for user feedback"
+msgstr "उपयोक्तृप्रतिक्रियायाः कृते उपलब्धविकल्पान् सूचीबद्धं करोति"
+
+msgid "Lithuania"
+msgstr "लिथुआनिया"
+
+msgid "Lithuanian"
+msgstr "लिथुआनियाई"
+
+msgid "%l:%M %p"
+msgstr ""
+
+msgid "Load"
+msgstr "भार"
+
+msgid "Load..."
+msgstr "भार..."
+
+msgid "Load Game"
+msgstr "लोड गेम"
+
+msgid "Loading"
+msgstr "लोडिंग"
+
+msgid "Loading..."
+msgstr "लोडिंग..."
+
+msgid "Loading %1..."
+msgstr "%1 लोड् भवति..."
+
+msgid "Local"
+msgstr "स्थानिक"
+
+msgid "Locale"
+msgstr "स्थानिक"
+
+msgid "Locality"
+msgstr "स्थानीयता"
+
+msgid "Location"
+msgstr "स्थानीय"
+
+msgid "Locations"
+msgstr "स्थानानि"
+
+msgid "Lock"
+msgstr "ताल"
+
+msgid "Lock Screen"
+msgstr "लॉक स्क्रीन"
+
+msgid "Locked"
+msgstr "तालाबद्धः"
+
+msgid "Log"
+msgstr "वृत्त"
+
+msgid "Log in"
+msgstr "प्रवेशं कुर्वन्तु"
+
+msgid "Log Out"
+msgstr "निर्गच्छन्तु"
+
+msgid "Logarithmic"
+msgstr "लघुगणकीय"
+
+msgid "Logging"
+msgstr "लॉगिंग"
+
+msgid "Logging in..."
+msgstr "प्रवेशं कृत्वा…"
+
+msgid "Logic"
+msgstr "तर्कः"
+
+msgid "Login"
+msgstr "प्रवेशः"
+
+msgid "_Login"
+msgstr ""
+
+msgid "Logout"
+msgstr "लॉगआउट्"
+
+msgid "Logs"
+msgstr "लॉग्स्"
+
+msgid "Longitude"
+msgstr "देशान्तर"
+
+msgid "Loop"
+msgstr "परिक्रम"
+
+msgid "Low"
+msgstr "न्यूनम्‌"
+
+msgid "Lower"
+msgstr "अवच"
+
+msgid "Lowercase"
+msgstr "लघु"
+
+msgid "Lukáš Tinkl"
+msgstr "लुकाश टिंकल्"
+
+msgid "Luminance"
+msgstr ""
+
+msgid "Luxembourg"
+msgstr "लक्जम्बर्ग्"
+
+msgid "Lyricist"
+msgstr "गीतकारः"
+
+msgid "Lyrics"
+msgstr "गीत"
+
+msgid "M"
+msgstr "म"
+
+msgid "m"
+msgstr "पु"
+
+msgid "Macedonian"
+msgstr "मैसिडोनियाई"
+
+msgid "Macro"
+msgstr "मैक्रो"
+
+msgid "Macros"
+msgstr "मैक्रोस्"
+
+msgid "Madagascar"
+msgstr "मेडागास्कर"
+
+msgid "Magenta"
+msgstr "मैजेन्टा"
+
+msgid "Mail"
+msgstr "मेल"
+
+msgid "Main"
+msgstr "मुख्यः"
+
+msgid "Main Menu"
+msgstr "मुख्य मेनू"
+
+msgid "Main Toolbar"
+msgstr "मुख्य साधनपट्टी"
+
+msgid "Main Window"
+msgstr "मुख्य खिडकी"
+
+msgid "Main window"
+msgstr ""
+
+msgid "Maintainer"
+msgstr "परिपालकः"
+
+msgid "Malawi"
+msgstr "मलावी"
+
+msgid "Malay"
+msgstr "मलय"
+
+msgid "Malayalam"
+msgstr "मलयालम्"
+
+msgid "Malaysia"
+msgstr "मलेशिया"
+
+msgid "Maldives"
+msgstr "मालदीव"
+
+msgid "Male"
+msgstr "पुरुषः"
+
+msgid "Mali"
+msgstr "तेषां आसीत्"
+
+msgid "Malta"
+msgstr "माल्टा"
+
+msgid "Maltese"
+msgstr "माल्टीज"
+
+msgid "Manager"
+msgstr "प्रबंधकः"
+
+msgid "Manual"
+msgstr "शास्त्र"
+
+msgid "Manufacturer"
+msgstr "निर्माता"
+
+msgid "Map"
+msgstr "मानचित्र"
+
+msgid "Maps"
+msgstr "मानचित्र"
+
+msgid "Marathi"
+msgstr "मराठी"
+
+msgid "Marble"
+msgstr "संगमरवरः"
+
+msgid "March"
+msgstr "प्रयाण"
+
+msgid "Margins"
+msgstr "मार्जिन"
+
+msgid "Mark"
+msgstr ""
+
+msgid "Mark as Read"
+msgstr "Read इति चिह्नं कुर्वन्तु"
+
+msgid "Markdown"
+msgstr "मार्कडाउन"
+
+msgid "Marker"
+msgstr "मार्करः"
+
+msgid "Markers"
+msgstr "मार्करः"
+
+msgid "Marshall Islands"
+msgstr "मार्शलद्वीपाः"
+
+msgid "Mask"
+msgstr "मुखावरण"
+
+msgid "Mass"
+msgstr "घन"
+
+msgid "Match"
+msgstr "मेलनम्‌"
+
+msgid "Match case"
+msgstr "मेलप्रकरणम्"
+
+msgid "_Match case"
+msgstr ""
+
+msgid "Math"
+msgstr "गणित"
+
+msgid "Matrix"
+msgstr "मैट्रिक्स"
+
+msgid "Matthias Ettrich"
+msgstr "मथियस एट्रिच्"
+
+msgid "Mauricio Piacentini"
+msgstr "मौरिसिओ पियासेन्टिनी"
+
+msgid "Mauritania"
+msgstr "मॉरिटानिया"
+
+msgid "Mauritius"
+msgstr "मॉरीशस"
+
+msgid "Max"
+msgstr "मैक्स"
+
+msgid "max"
+msgstr "अधिकतमम्"
+
+msgid "Maximize"
+msgstr "अधिकतमं कुरुत"
+
+msgid "Maximum"
+msgstr "अधिकतम"
+
+msgid "May"
+msgstr "स्यात्‌"
+
+msgid "Maze"
+msgstr "चक्रव्यूह"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "अर्थः"
+
+msgid "Measure"
+msgstr "मापनं करोतु"
+
+msgid "Media"
+msgstr "मीडिया"
+
+msgid "Media Player"
+msgstr "मीडिया प्लेयर"
+
+msgid "Median"
+msgstr "माध्यिका"
+
+msgid "Medium"
+msgstr "मध्यम"
+
+msgid "medium"
+msgstr "मध्यम"
+
+msgid "Member"
+msgstr "सदस्य"
+
+msgid "Memory"
+msgstr "स्मृति"
+
+msgid "Menu"
+msgstr "मेनू"
+
+msgid "Mercury"
+msgstr "बुधः"
+
+msgid "Merge"
+msgstr "विलयः"
+
+msgid "Message"
+msgstr "सन्देशः"
+
+msgid "message"
+msgstr "सन्देशः"
+
+msgid "Messages"
+msgstr "सन्देशाः"
+
+msgid "Meta"
+msgstr "मेटा"
+
+msgid "Metadata"
+msgstr "मेटाडाटा"
+
+msgid "Metal"
+msgstr "धातु"
+
+msgid "meters"
+msgstr "मीटर्"
+
+msgid "Method"
+msgstr "प्रक्रिया"
+
+msgid "Metric"
+msgstr "मेट्रिक"
+
+msgid "Mexico"
+msgstr "मेक्सिको"
+
+msgid "MiB"
+msgstr "मिब"
+
+msgid "Microphone"
+msgstr "माइक्रोफोन"
+
+msgid "Middle"
+msgstr "मध्यं"
+
+msgid "Miha Čančula"
+msgstr "मिहा कन्चुला"
+
+msgid "Milian Wolff"
+msgstr "मिलियन वोल्फ"
+
+msgid "Millimeters"
+msgstr "मिलीमीटर्"
+
+msgid "Millimeters (mm)"
+msgstr "मिलीमीटर् (मि.मी.)"
+
+msgid "Milliseconds"
+msgstr "मिलीसेकेण्ड्"
+
+msgid "milliseconds"
+msgstr "मिलीसेकेण्ड्"
+
+msgid "Min"
+msgstr "मि"
+
+msgid "min"
+msgstr "मि"
+
+msgid "Minimize"
+msgstr "न्यूनतमं कुरुत"
+
+msgid "Minimum"
+msgstr "न्यूनतम"
+
+msgid "Minute"
+msgstr "क्षणं"
+
+msgid "Minutes"
+msgstr "पन्चनिमेषः"
+
+msgid "minutes"
+msgstr "पन्चनिमेषः"
+
+msgid "Mirror"
+msgstr "दर्पण"
+
+msgid "Misc"
+msgstr "विविधाः"
+
+msgid "Miscellaneous"
+msgstr "विविध"
+
+msgid "missing plugin file \"%s\""
+msgstr ""
+
+msgid "Miter limit"
+msgstr "मिटर सीमा"
+
+msgid "Mix"
+msgstr "मिश्रणम्"
+
+msgid "mm"
+msgstr "मि.मी"
+
+msgid "Mobile"
+msgstr "निष्तन्त्री"
+
+msgid "Mode"
+msgstr "मोड्"
+
+msgid "Model"
+msgstr "प्रतिकृति"
+
+msgid "Modem"
+msgstr "मोडेम"
+
+msgid "Modified"
+msgstr "परिवर्तित"
+
+msgid "modified"
+msgstr "परिवर्तितः"
+
+msgid "Modifiers"
+msgstr "संशोधकाः"
+
+msgid "Modify"
+msgstr "परिवर्तनं कुर्वन्तु"
+
+msgid "Modify..."
+msgstr "परिवर्तनं कुर्वन्तु…"
+
+msgid "&Modify..."
+msgstr "&संशोधन..."
+
+msgid "Modify search behavior"
+msgstr "अन्वेषणव्यवहारं परिवर्तयन्तु"
+
+msgid "Module"
+msgstr "मॉड्यूल"
+
+msgid "Modules"
+msgstr "मॉड्यूलाः"
+
+msgid "Moldova"
+msgstr "मोल्डाविया"
+
+msgid "Monaco"
+msgstr "मोनाको"
+
+msgid "Monday"
+msgstr "सोमवारं"
+
+msgid "Mongolia"
+msgstr "मंगोलिया"
+
+msgid "Mongolian"
+msgstr "मंगोलियाई"
+
+msgid "Monitor"
+msgstr "नियंत्रण"
+
+msgid "Mono"
+msgstr "मोनो"
+
+msgid "Monochrome"
+msgstr "एकवर्णीयः"
+
+msgid "Monospace"
+msgstr "मिनीवैन"
+
+msgid "Montenegro"
+msgstr "मोंटेनेग्रो"
+
+msgid "Month"
+msgstr "माह"
+
+msgid "Month View"
+msgstr "मासदृश्यम्"
+
+msgid "Monthly"
+msgstr "मासिकम्"
+
+msgid "Months"
+msgstr "मासाः"
+
+msgid "More"
+msgstr "अधिकः"
+
+msgid "More..."
+msgstr "अधिकः..."
+
+msgid "More actions"
+msgstr "अधिकानि कर्माणि"
+
+msgid "More Information"
+msgstr "अधिक जानकारी"
+
+msgid "More options"
+msgstr "अधिकविकल्पाः"
+
+msgid "Morocco"
+msgstr "मोरक्को"
+
+msgid "Mount"
+msgstr "माउण्ट्"
+
+msgid "Mount point"
+msgstr "माउण्ट् बिन्दुः "
+
+msgid "Mouse"
+msgstr "मूषकः"
+
+msgid "Mouse Wheel"
+msgstr "मूषकचक्रम्"
+
+msgid "Move"
+msgstr "चलनम्"
+
+msgid "&Move"
+msgstr "&चलनम्"
+
+msgid "_Move"
+msgstr ""
+
+msgid "Move %1"
+msgstr "%1 चालयन्तु"
+
+msgid "Move Down"
+msgstr "अधः गच्छतु"
+
+msgid "Move down"
+msgstr "अधः गच्छतु"
+
+msgid "Move &Down"
+msgstr "Move &Down"
+
+msgid "&Move Here"
+msgstr "&अत्र गच्छतु"
+
+msgid "Move Left"
+msgstr "वामभागे गच्छतु"
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr "दक्षिणतः गच्छतु"
+
+msgid "Move Tab Left"
+msgstr "ट्याब् वामभागे चालयन्तु"
+
+msgid "Move Tab Right"
+msgstr "ट्याब् राइट् चालयन्तु"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "Move To इति"
+
+msgid "Move to Bottom"
+msgstr "अधः गच्छन्तु"
+
+msgid "Move to Top"
+msgstr "उपरि गच्छन्तु"
+
+msgid "Move to Trash"
+msgstr "Trash इत्यत्र गच्छन्तु"
+
+msgid "&Move to Trash"
+msgstr "&कचरा प्रति गच्छतु"
+
+msgid "Move Up"
+msgstr "उपरि गच्छतु"
+
+msgid "Move up"
+msgstr "उपरि गच्छतु"
+
+msgid "Move &Up"
+msgstr "चाल & ऊपर"
+
+msgid "Mozambique"
+msgstr "मोजाम्बिक"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "बहुमाध्यमम्"
+
+msgid "Multiply"
+msgstr "गुणा"
+
+msgid "Music"
+msgstr "संगीतं"
+
+msgid "Music Player"
+msgstr "संगीतवादकः"
+
+msgid "Mute"
+msgstr "मूक"
+
+msgid "Myanmar"
+msgstr "म्यांमार"
+
+msgid "N"
+msgstr "न॰"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "न/अ"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "NAME"
+msgstr ""
+
+msgid "Name"
+msgstr "नामः"
+
+msgid "name"
+msgstr "नामः"
+
+msgid "&Name"
+msgstr "&नामः"
+
+msgid "_Name"
+msgstr ""
+
+msgid "Name: %1"
+msgstr "नाम: %1"
+
+msgid "Namespace"
+msgstr "नामस्थानम्"
+
+msgid "Namibia"
+msgstr "नामिबिया"
+
+msgid "Nature"
+msgstr "प्रकृति"
+
+msgid "Nauru"
+msgstr "नौरु"
+
+msgid "Navigation"
+msgstr "नौकायानम्"
+
+msgid "Negative"
+msgstr "नकारात्मक"
+
+msgid "Neon"
+msgstr "नियोन"
+
+msgid "Nepal"
+msgstr "नेपाल"
+
+msgid "Nepali"
+msgstr "नेपाली"
+
+msgid "Netherlands"
+msgstr "नेदरलैण्ड्स्"
+
+msgid "Network"
+msgstr "जालकृति"
+
+msgid "Networks"
+msgstr "संजालम्"
+
+msgid "Never"
+msgstr "कदापि न"
+
+msgid "never"
+msgstr "कदापि न"
+
+msgid "New"
+msgstr "नूतनम्‌"
+
+msgid "&New"
+msgstr "&नूतनम्‌"
+
+msgid "_New"
+msgstr ""
+
+msgid "New..."
+msgstr "नूतनम्‌..."
+
+msgid "&New..."
+msgstr "&नूतनम्‌..."
+
+msgid "_New..."
+msgstr ""
+
+msgid "New Bookmark"
+msgstr "नवीनं पुस्तकचिह्नम्"
+
+msgid "New Connection"
+msgstr "नवीनं संयोजनम्"
+
+msgid "New File"
+msgstr "नवीन सञ्चिका"
+
+msgid "New Folder"
+msgstr "नवीनं पुटम्"
+
+msgid "New folder"
+msgstr ""
+
+msgid "New Folder..."
+msgstr "नवीनं पुटम्..."
+
+msgid "New Game"
+msgstr "नवीन खेल"
+
+msgid "New Group"
+msgstr "नवीन समूह"
+
+msgid "New Item"
+msgstr "नवीन मद"
+
+msgid "New Layer"
+msgstr "नवीन स्तर"
+
+msgid "New Message"
+msgstr "नवीन सन्देश"
+
+msgid "New Name"
+msgstr "नव नाम"
+
+msgid "New name"
+msgstr "नव नाम"
+
+msgid "New Profile"
+msgstr "New Profile"
+
+msgid "New Project"
+msgstr "नवीन परियोजना"
+
+msgid "New Session"
+msgstr "नव सत्र"
+
+msgid "New South Wales"
+msgstr "न्यू साउथ वेल्स"
+
+msgid "New Tab"
+msgstr "नवीन ट्याब्"
+
+msgid "New tag"
+msgstr "नवीन टैग"
+
+msgid "New Window"
+msgstr "नवीन विण्डो"
+
+msgid "_New Window"
+msgstr ""
+
+msgid "New &Window"
+msgstr "नवीन &विण्डो"
+
+msgid "New _Window"
+msgstr ""
+
+msgid "New Zealand"
+msgstr "न्यूजीलैण्ड्"
+
+msgid "News"
+msgstr "समाचारं"
+
+msgid "Newton"
+msgstr "न्यूटन"
+
+msgid "Next"
+msgstr "अग्रिम"
+
+msgid "&Next"
+msgstr "&अग्रिम"
+
+msgid "_Next"
+msgstr ""
+
+msgid "Next Image"
+msgstr ""
+
+msgid "Next month"
+msgstr "आगामिमासे"
+
+msgid "Next Page"
+msgstr "अग्रिमः पृष्ठः"
+
+msgid "Next Tab"
+msgstr "अग्रिमः ट्याब्"
+
+msgid "Next Track"
+msgstr "अग्रिमः Track"
+
+msgid "Nicaragua"
+msgstr "निकारागुआ"
+
+msgid "Nickname"
+msgstr "उपनाम"
+
+msgid "Niger"
+msgstr "नाइजर"
+
+msgid "Nigeria"
+msgstr "नाइजीरिया"
+
+msgid "Night"
+msgstr "निशा"
+
+msgid "No"
+msgstr "नहि"
+
+msgid "no"
+msgstr "नहि"
+
+msgid "_No"
+msgstr ""
+
+msgid "No."
+msgstr "नहि।"
+
+msgid "No description available"
+msgstr "न वर्णनं लभ्यते"
+
+msgid "No devices found"
+msgstr "न यन्त्राणि प्राप्तानि"
+
+msgid "No error"
+msgstr ""
+
+msgid "No file selected"
+msgstr "न सञ्चिका चयनिता"
+
+msgid "No filter"
+msgstr "न फ़िल्टर"
+
+msgid "No Limit"
+msgstr "No Limit इति"
+
+msgid "No matches"
+msgstr "न मेलनं"
+
+msgid "No Name"
+msgstr "न नाम"
+
+msgid "No name"
+msgstr "न नाम"
+
+msgid "No network connection"
+msgstr "जालसंयोजनं नास्ति"
+
+msgid "No results"
+msgstr "न परिणामः"
+
+msgid "No Results Found"
+msgstr ""
+
+msgid "No results found"
+msgstr "न परिणामः प्राप्तः"
+
+msgid "No search results"
+msgstr "अन्वेषणफलं नास्ति"
+
+msgid "No selection"
+msgstr "चयनं नास्ति"
+
+msgid "No Subject"
+msgstr "न विषयः"
+
+msgid "No VPN configuration options."
+msgstr ""
+
+msgid "Noise"
+msgstr "कोलाहलं"
+
+msgid "None"
+msgstr "न कश्चित्"
+
+msgid "none"
+msgstr "न कश्चित्"
+
+msgid "&None"
+msgstr "&न कश्चित्"
+
+msgid "_None"
+msgstr ""
+
+msgid "(None)"
+msgstr "(न कश्चित्)"
+
+msgid "(none)"
+msgstr "(न कश्चित्)"
+
+msgid "Nordic"
+msgstr ""
+
+msgid "Normal"
+msgstr "सामान्य"
+
+msgid "_Normal Size"
+msgstr ""
+
+msgid "Normalize"
+msgstr "सामान्यं कुरुत"
+
+msgid "North"
+msgstr "उत्तर"
+
+msgid "North America"
+msgstr "उत्तर अमेरिका"
+
+msgid "Norway"
+msgstr "नॉर्वेदेशः"
+
+msgid "Norwegian"
+msgstr "नार्वेदेशीयः"
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "'%1' लिखितुं न समर्थः । विभाजनं पूर्णम्?"
+
+msgid "Not Available"
+msgstr "न उपलब्धम्"
+
+msgid "Not available"
+msgstr "न लभ्यते"
+
+msgid "not available"
+msgstr "न लभ्यते"
+
+msgid "Not Connected"
+msgstr "न संबद्धम्"
+
+msgid "Not connected"
+msgstr "न संबद्धः"
+
+msgid "Not defined"
+msgstr "न विवक्षितम्"
+
+msgid "Not found"
+msgstr "न लभ्यते"
+
+msgid "Not implemented"
+msgstr "न कार्यान्वितम्"
+
+msgid "Not running"
+msgstr "न धावति"
+
+msgid "Not supported"
+msgstr "न समर्थितम्"
+
+msgid "Note"
+msgstr "टीका"
+
+msgid "Notes"
+msgstr "टिप्पणियाँ"
+
+msgid "Nothing"
+msgstr "किमपि न"
+
+msgid "Notice"
+msgstr "सूचना"
+
+msgid "Notification"
+msgstr "अधिसूचना"
+
+msgid "Notifications"
+msgstr "अधिसूचना"
+
+msgid "Noun"
+msgstr "संज्ञा"
+
+msgid "November"
+msgstr "नवंबर: माह"
+
+msgid "Now"
+msgstr "अधुना"
+
+msgid "now"
+msgstr "अधुना"
+
+msgid "NT Domain"
+msgstr "एन टी डोमेन "
+
+msgid "NUMBER"
+msgstr ""
+
+msgid "Number"
+msgstr "संख्या"
+
+msgid "number"
+msgstr "संख्या"
+
+msgid "Number of columns"
+msgstr "स्तम्भानां संख्या"
+
+msgid "Numbers"
+msgstr "संख्याः"
+
+msgid "Numeric"
+msgstr "संख्यात्मकः"
+
+msgid "Nuno Pinheiro"
+msgstr "नुनो पिन्हेरो"
+
+msgid "Object"
+msgstr "वस्तु"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr ""
+
+msgid "Objects"
+msgstr "विषयाः"
+
+msgid "Oblique"
+msgstr "तिर्यक्"
+
+msgid "Octal"
+msgstr "अष्टकम्"
+
+msgid "October"
+msgstr "अक्टूबर माह"
+
+msgid "Off"
+msgstr "दूरे"
+
+msgid "off"
+msgstr "दूरे"
+
+msgid "Office"
+msgstr "कार्यालयं"
+
+msgid "Offline"
+msgstr "अफलाइन"
+
+msgid "Offset"
+msgstr "ऑफसेट्"
+
+msgid "Ogg Vorbis"
+msgstr "ओग्ग् वोर्बिस्"
+
+msgid "OK"
+msgstr "अस्तु"
+
+msgid "Ok"
+msgstr "अस्तु"
+
+msgid "&OK"
+msgstr "&अस्तु"
+
+msgid "_OK"
+msgstr ""
+
+msgid "Okular"
+msgstr "नेत्रस्य"
+
+msgid "Oman"
+msgstr "मम स्वकीया"
+
+msgid "On"
+msgstr "इत्युपरि"
+
+msgid "on"
+msgstr "इत्युपरि"
+
+msgid "One"
+msgstr "एकम्‌"
+
+msgid "Online"
+msgstr "लब्धसम्पर्क"
+
+msgid "Online Accounts"
+msgstr "ऑनलाइन खाता"
+
+msgid "Opacity"
+msgstr "अपारदर्शिता"
+
+msgid "Opaque"
+msgstr "अपारदर्शी"
+
+msgid "Open"
+msgstr "उद्घाटित"
+
+msgid "&Open"
+msgstr "&उद्घाटित"
+
+msgid "_Open"
+msgstr ""
+
+msgid "Open..."
+msgstr "उद्घाटित..."
+
+msgid "&Open..."
+msgstr "&उद्घाटित..."
+
+msgid "_Open..."
+msgstr ""
+
+msgid "Open %1"
+msgstr "%1 उद्घाटयन्तु"
+
+msgid "Open a file"
+msgstr ""
+
+msgid "Open a new tab"
+msgstr "नूतनं ट्याब् उद्घाटयन्तु"
+
+msgid "Open a new window"
+msgstr ""
+
+msgid "Open an existing document"
+msgstr "विद्यमानं दस्तावेजं उद्घाटयन्तु"
+
+msgid "Open Audio"
+msgstr "Audio उद्घाटयन्तु"
+
+msgid "Open Containing Folder"
+msgstr "Containing Folder उद्घाटयन्तु"
+
+msgid "&Open Containing Folder"
+msgstr "&Open Containing Folder"
+
+msgid "Open Document"
+msgstr "Document उद्घाटयन्तु"
+
+msgid "Open File"
+msgstr "सञ्चिकां उद्घाटयन्तु"
+
+msgid "Open file"
+msgstr "सञ्चिकां उद्घाटयन्तु"
+
+msgid "Open Folder"
+msgstr "Folder उद्घाटयन्तु"
+
+msgid "Open folder"
+msgstr "पुटं उद्घाटयन्तु"
+
+msgid "Open Image"
+msgstr "चित्रं उद्घाटयतु"
+
+msgid "Open in Browser"
+msgstr "ब्राउजर् मध्ये उद्घाटयन्तु"
+
+msgid "Open in File Manager"
+msgstr "सञ्चिकाप्रबन्धके उद्घाटयन्तु"
+
+msgid "Open in New Tab"
+msgstr "New Tab इत्यत्र उद्घाटयन्तु"
+
+msgid "Open in New Window"
+msgstr "New Window इत्यत्र उद्घाटयन्तु"
+
+msgid "Open Link"
+msgstr "लिङ्कं उद्घाटयतु"
+
+msgid "_Open Link"
+msgstr ""
+
+msgid "Open Location"
+msgstr "स्थानं उद्घाटयतु"
+
+msgid "Open Menu"
+msgstr "मेनू उद्घाटयन्तु"
+
+msgid "Open Project"
+msgstr "Open Project इति परियोजना"
+
+msgid "Open &Recent"
+msgstr "Open &Recent"
+
+msgid "Open Terminal Here"
+msgstr "अत्र टर्मिनल् उद्घाटयन्तु"
+
+msgid "Open URL"
+msgstr "URL उद्घाटयन्तु"
+
+msgid "Open Video"
+msgstr "विडियो उद्घाटयतु"
+
+msgid "Open With"
+msgstr "Open With इति"
+
+msgid "Open with"
+msgstr "सह उद्घाटयतु"
+
+msgid "&Open With"
+msgstr "&Open With"
+
+msgid "Open With..."
+msgstr "Open With..."
+
+msgid "Open &with %1"
+msgstr "&%1 इत्यनेन सह उद्घाटयन्तु"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "सञ्चिकां उद्घाटयति..."
+
+msgid "OpenStreetMap"
+msgstr "ओपनस्ट्रीटमैप"
+
+msgid "Opera"
+msgstr "ओपेरा"
+
+msgid "Operation"
+msgstr "संचालन"
+
+msgid "Operation was cancelled"
+msgstr ""
+
+msgid "Operations"
+msgstr "संचालनम्"
+
+msgid "Operator"
+msgstr "संचालकः"
+
+msgid "Optical Character Recognition"
+msgstr "प्रकाशिक चरित्र पहचान"
+
+msgid "Optimize"
+msgstr "अनुकूलनं कुर्वन्तु"
+
+msgid "Option"
+msgstr "विकल्प"
+
+msgid "Optional"
+msgstr "वैकल्पिक"
+
+msgid "Options"
+msgstr "विकल्पाः"
+
+msgid "&Options"
+msgstr "&विकल्पाः"
+
+msgid "OR"
+msgstr "वा"
+
+msgid "Or"
+msgstr "वा"
+
+msgid "or"
+msgstr "वा"
+
+msgid "Orange"
+msgstr "नारङ्ग"
+
+msgid "Order"
+msgstr "आदेशः"
+
+msgid "Organization"
+msgstr "संघठनं"
+
+msgid "Orientation"
+msgstr "आभिमुख्य"
+
+msgid "Origin"
+msgstr "श्रोतं"
+
+msgid "Original"
+msgstr "मूल"
+
+msgid "Original Author"
+msgstr "मूल लेखक"
+
+msgid "Original author"
+msgstr "मूल लेखक"
+
+msgid "Original Size"
+msgstr "मूल आकार"
+
+msgid "Oriya"
+msgstr "ओरिया"
+
+msgid "Other"
+msgstr "इतर"
+
+msgid "other"
+msgstr "इतर"
+
+msgid "Other..."
+msgstr "इतर..."
+
+msgid "Other Application..."
+msgstr "अन्य अनुप्रयोग..."
+
+msgid "Other Options"
+msgstr "अन्ये विकल्पाः"
+
+msgid "Others"
+msgstr "अन्ये"
+
+msgid "Out"
+msgstr "बहिः"
+
+msgid "Out of memory"
+msgstr "स्मृतेः बहिः"
+
+msgid "Outgoing"
+msgstr "बहिर्गामी"
+
+msgid "Outline"
+msgstr "रूपरेखा"
+
+msgid "Output"
+msgstr "उत्पादनम्"
+
+msgid "Overlay"
+msgstr "आच्छादनम्"
+
+msgid "Overview"
+msgstr "अवलोकनम्"
+
+msgid "Overwrite"
+msgstr "अधिलेखनम्"
+
+msgid "Overwrite File?"
+msgstr "सञ्चिकां अधिलेखयतु?"
+
+msgid "Owner"
+msgstr "स्वामी"
+
+msgid "Ownership"
+msgstr "स्वामित्वम्"
+
+msgid "Oxygen"
+msgstr "आक्सीजन"
+
+msgid "P"
+msgstr "पु"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "सम्पुट"
+
+msgid "Padding"
+msgstr "गद्दी : गद्दी "
+
+msgid "Page"
+msgstr "पृष्ठ"
+
+msgid "page"
+msgstr "पृष्ठ"
+
+msgid "Page %1"
+msgstr "पृष्ठं %1"
+
+msgid "Page %1 of %2"
+msgstr "पृष्ठ %1 के %2"
+
+msgid "Page Break"
+msgstr "पृष्ठ विराम"
+
+msgid "Page Count"
+msgstr "पृष्ठगणना"
+
+msgid "Page Number"
+msgstr "पृष्ठ संख्या"
+
+msgid "Page Setup"
+msgstr "पृष्ठ सेटअप"
+
+msgid "Pager"
+msgstr "पेजर"
+
+msgid "Pages"
+msgstr "पृष्ठहरू"
+
+msgid "Paint"
+msgstr "चित्र"
+
+msgid "Pair"
+msgstr "युग्म"
+
+msgid "Pakistan"
+msgstr "पाकिस्तान"
+
+msgid "Palau"
+msgstr "प्रासादः"
+
+msgid "Palette"
+msgstr "पॅलेट्"
+
+msgid "Panama"
+msgstr "पनामा"
+
+msgid "Panel"
+msgstr "पटल"
+
+msgid "Panels"
+msgstr "फलकम्"
+
+msgid "&Panels"
+msgstr "&पैनल"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "पत्रं"
+
+msgid "Paper Size"
+msgstr "कागदस्य आकारः"
+
+msgid "Papua New Guinea"
+msgstr "पापुआ न्यू गिनी"
+
+msgid "Paragraph"
+msgstr "अनुच्छेदः"
+
+msgid "Paraguay"
+msgstr "पराग्वे"
+
+msgid "Parallel"
+msgstr "समानांतर"
+
+msgid "Parameter"
+msgstr "पैरामीटर्"
+
+msgid "Parameters"
+msgstr "पैरामीटर्"
+
+msgid "Parent"
+msgstr "मातापिता"
+
+msgid "Partition"
+msgstr "विभाजनम्"
+
+msgid "Password"
+msgstr "समाभाष्"
+
+msgid "password"
+msgstr "समाभाष्"
+
+msgid "&Password"
+msgstr "&समाभाष्"
+
+msgid "_Password"
+msgstr ""
+
+msgid "Password..."
+msgstr "समाभाष्…"
+
+msgid "Passwords"
+msgstr "गुप्तशब्दाः"
+
+msgid "Paste"
+msgstr "चिनोतु"
+
+msgid "&Paste"
+msgstr "&पेस्ट"
+
+msgid "_Paste"
+msgstr ""
+
+msgid "Path"
+msgstr "पथं"
+
+msgid "path"
+msgstr "पथं"
+
+msgid "Paths"
+msgstr "पथाः"
+
+msgid "Pattern"
+msgstr "प्रतिमानम्‌"
+
+msgid "Patterns"
+msgstr "प्रतिमानाः"
+
+msgid "Pause"
+msgstr "विराम"
+
+msgid "&Pause"
+msgstr "&विराम"
+
+msgid "Pause playback"
+msgstr "प्लेबैकं विरामयतु"
+
+msgid "PAUSED"
+msgstr "PAUSED इति"
+
+msgid "Paused"
+msgstr "विरामः कृतः"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr "चोटी"
+
+msgid "Peek at Desktop"
+msgstr "डेस्कटॉप् इत्यत्र दृष्टिपातं कुर्वन्तु"
+
+msgid "Pencil"
+msgstr "अङ्कनी"
+
+msgid "Pending"
+msgstr "विचाराधीनः"
+
+msgid "Pentagon"
+msgstr "पञ्चकोण"
+
+msgid "People"
+msgstr "जनाः"
+
+msgid "Percent"
+msgstr "प्रतिशतं"
+
+msgid "Percentage"
+msgstr "प्रतिशतम्"
+
+msgid "Perceptual"
+msgstr "बोधात्मकः"
+
+msgid "Performance"
+msgstr "प्रदर्शनम्‌"
+
+msgid "Period"
+msgstr "कालांशः"
+
+msgid "Permission denied"
+msgstr "अनुमतिः अङ्गीकृता"
+
+msgid "Permissions"
+msgstr "अनुमतिः"
+
+msgid "Persian"
+msgstr "फारसी"
+
+msgid "Person"
+msgstr "व्यक्ति"
+
+msgid "Personal"
+msgstr "व्यक्तिगत"
+
+msgid "Personal Information"
+msgstr "व्यक्तिगत सूचना"
+
+msgid "Peru"
+msgstr "पेरु"
+
+msgid "Phase"
+msgstr "क्षण"
+
+msgid "Philippines"
+msgstr "फिलिपिन्स"
+
+msgid "Phone"
+msgstr "फोनं"
+
+msgid "Photo"
+msgstr "चित्रं"
+
+msgid "PHP Documentation"
+msgstr "PHP दस्तावेजीकरणम्"
+
+msgid "PiB"
+msgstr "पिब"
+
+msgid "Pick a color"
+msgstr "एकं वर्णं चिनुत"
+
+msgid "Picture"
+msgstr "चित्र"
+
+msgid "Pictures"
+msgstr "चित्रम्"
+
+msgid "PID"
+msgstr "पीआईडी"
+
+msgid "Pie"
+msgstr "इत्युपरि"
+
+msgid "Pin"
+msgstr "आतप"
+
+msgid "Pino Toscano"
+msgstr "पिनो टोस्कानो"
+
+msgid "Pixels"
+msgstr ""
+
+msgid "pixels"
+msgstr "पिक्सेल्"
+
+msgid "Placement"
+msgstr "स्थापनम्"
+
+msgid "Places"
+msgstr "स्थानाः"
+
+msgid "Plain"
+msgstr "सम"
+
+msgid "Plain Text"
+msgstr "सादा पाठः"
+
+msgid "Plan"
+msgstr ""
+
+msgid "Plasma"
+msgstr "प्लाज्मा"
+
+msgid "Platform"
+msgstr "तमङ्गः"
+
+msgid "Play"
+msgstr "क्रीडतु"
+
+msgid "Play Next"
+msgstr "अग्रिमम् क्रीडतु"
+
+msgid "Play Sounds"
+msgstr "ध्वनयः वादयन्तु"
+
+msgid "Playback"
+msgstr "प्लेबैक"
+
+msgid "Player"
+msgstr "खिलाडी"
+
+msgid "Player %1"
+msgstr "खिलाडी %1"
+
+msgid "Players"
+msgstr "क्रीडकाः"
+
+msgid "Playground"
+msgstr "क्रीडाङ्गणम्"
+
+msgid "Playing"
+msgstr "क्रीडति"
+
+msgid "Playlist"
+msgstr "प्लेलिस्ट्"
+
+msgid "Playlists"
+msgstr "प्लेलिस्ट्"
+
+msgid "Play/Pause"
+msgstr "क्रीडतु/विरामं कुरुत"
+
+msgid "Please choose a file"
+msgstr "कृपया सञ्चिकां चिनोतु"
+
+msgid "Please wait"
+msgstr "कृपया प्रतीक्ष्यताम्"
+
+msgid "Please wait..."
+msgstr "कृपया प्रतीक्षां कुर्वन्तु..."
+
+msgid "Plot"
+msgstr "भूखण्ड"
+
+msgid "Plots"
+msgstr "कथानकम्"
+
+msgid "Plugin"
+msgstr "प्लगइन"
+
+msgid "Plugins"
+msgstr "प्लगिन्स्"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "बिन्दु"
+
+msgid "Pointers"
+msgstr ""
+
+msgid "Points"
+msgstr "बिन्दु"
+
+msgid "points"
+msgstr "बिन्दवः"
+
+msgid "Poland"
+msgstr "पोलैण्ड्"
+
+msgid "Policy"
+msgstr "नीति"
+
+msgid "Polish"
+msgstr "पोलिश"
+
+msgid "Polygon"
+msgstr "बहुभुज"
+
+msgid "Pop"
+msgstr "लोक"
+
+msgid "Port"
+msgstr "पोताश्रय"
+
+msgid "&Port"
+msgstr "&पोताश्रय"
+
+msgid "Portrait"
+msgstr "चित्रम्"
+
+msgid "Portugal"
+msgstr "पुर्तगाल"
+
+msgid "Portuguese"
+msgstr "पुर्तगाली"
+
+msgid "Position"
+msgstr "स्थितिः"
+
+msgid "Posterize"
+msgstr ""
+
+msgid "PostScript"
+msgstr "पोस्टस्क्रिप्ट्"
+
+msgid "Power"
+msgstr "शक्ति"
+
+msgid "Power Management"
+msgstr "शक्ति प्रबन्धन"
+
+msgid "Precision"
+msgstr "सटीकता"
+
+msgid "Preferences"
+msgstr "प्राधान्यानि"
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "Prefix"
+msgstr "उपसर्गः"
+
+msgid "Presentation"
+msgstr "प्रस्तुति"
+
+msgid "Preset"
+msgstr "पूर्वनिर्धारित"
+
+msgid "Presets"
+msgstr "पूर्वनिर्धारित"
+
+msgid "Pressure"
+msgstr "प्रबलता"
+
+msgid "Preview"
+msgstr "पूर्वावलोकनम्"
+
+msgid "&Preview"
+msgstr "&पूर्वावलोकन"
+
+msgid "Previews"
+msgstr "पूर्वावलोकनम्"
+
+msgid "Previous"
+msgstr "पूर्वतनम्‌"
+
+msgid "&Previous"
+msgstr "&पूर्वतनम्‌"
+
+msgid "_Previous"
+msgstr ""
+
+msgid "Previous Image"
+msgstr ""
+
+msgid "Previous month"
+msgstr "पूर्वमासः"
+
+msgid "Previous Page"
+msgstr "पूर्व पृष्ठ"
+
+msgid "Previous Tab"
+msgstr "पूर्व ट्याब्"
+
+msgid "Previous Track"
+msgstr "पूर्व Track"
+
+msgid "Price"
+msgstr "मूल्य"
+
+msgid "Primary"
+msgstr "प्राथमिक"
+
+msgid "Print"
+msgstr "मुद्रणम्"
+
+msgid "_Print"
+msgstr ""
+
+msgid "Print..."
+msgstr "मुद्रणं..."
+
+msgid "&Print..."
+msgstr "&मुद्रण…"
+
+msgid "_Print..."
+msgstr ""
+
+msgid "Print Image"
+msgstr "चित्रं मुद्रयन्तु"
+
+msgid "Print Preview"
+msgstr "मुद्रण पूर्वावलोकनम्"
+
+msgid "Print version"
+msgstr ""
+
+msgid "Print version information and exit"
+msgstr ""
+
+msgid "Printer"
+msgstr "मुद्रक"
+
+msgid "Printers"
+msgstr "मुद्रकाः"
+
+msgid "Printing"
+msgstr "मुद्रणम्"
+
+msgid "Printing..."
+msgstr "मुद्रण..."
+
+msgid "Priority"
+msgstr "पूर्ववर्तिता"
+
+msgid "Privacy"
+msgstr "निजता"
+
+msgid "Private"
+msgstr "वैयक्तिक"
+
+msgid "Process"
+msgstr "प्रक्रिया"
+
+msgid "Processor"
+msgstr "संसाधकः"
+
+msgid "Producer"
+msgstr "निर्माता"
+
+msgid "Product"
+msgstr "उत्पाद"
+
+msgid "Profession"
+msgstr "व्यवसाय"
+
+msgid "Profile"
+msgstr "रूपरेखा"
+
+msgid "Profile name"
+msgstr "प्रोफाइल नाम"
+
+msgid "Profiles"
+msgstr "प्रोफाइल"
+
+msgid "Program"
+msgstr "कार्यक्रम"
+
+msgid "Progress"
+msgstr "विकासः"
+
+msgid "Project"
+msgstr "प्रकल्प"
+
+msgid "&Project"
+msgstr "&प्रकल्प"
+
+msgid "Projects"
+msgstr "परियोजनाएँ"
+
+msgid "Properties"
+msgstr "गुणाः"
+
+msgid "&Properties"
+msgstr "&गुणाः"
+
+msgid "_Properties"
+msgstr ""
+
+msgid "Properties..."
+msgstr "गुणाः..."
+
+msgid "&Properties..."
+msgstr "&गुणाः..."
+
+msgid "Property"
+msgstr "सम्पत्तिः"
+
+msgid "property “%s” invalid or not supported"
+msgstr ""
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr ""
+
+msgid "Proportional"
+msgstr "आनुपातिक"
+
+msgid "Protected"
+msgstr "रक्षितः"
+
+msgid "Protocol"
+msgstr "प्रोटोकॉल"
+
+msgid "Provider"
+msgstr "प्रदाता "
+
+msgid "Proxy"
+msgstr "प्रॉक्सी"
+
+msgid "Proxy Settings"
+msgstr "प्रॉक्सी सेटिंग्स्"
+
+msgid "Public"
+msgstr "सार्वजनिक"
+
+msgid "Public Key"
+msgstr "सार्वजनिक कुंजी"
+
+msgid "Publisher"
+msgstr "प्रकाशक"
+
+msgid "Publishing"
+msgstr "प्रकाशन"
+
+msgid "Puerto Rico"
+msgstr "प्वेर्टो रिको"
+
+msgid "Punjabi"
+msgstr "पंजाबी"
+
+msgid "Push"
+msgstr "नोद"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr "अजगर"
+
+msgid "Qatar"
+msgstr "कतार"
+
+msgid "QR Code"
+msgstr "QR कोड"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>एतेन मेनू-पट्टिका पूर्णतया गोप्यते । %1.</qt> इति टङ्कयित्वा पुनः "
+"दर्शयितुं शक्नुवन्ति"
+
+msgid "Quality"
+msgstr "गुणवत्ता"
+
+msgid "Quebec"
+msgstr "क्युबेक"
+
+msgid "Query"
+msgstr "उत्प्रेक्षा"
+
+msgid "Question"
+msgstr "प्रश्न"
+
+msgid "Queue"
+msgstr "पङ्क्ति"
+
+msgid "Queued"
+msgstr "पङ्क्तिबद्धः"
+
+msgid "Quit"
+msgstr "परिजहातु"
+
+msgid "&Quit"
+msgstr "&परिजहातु"
+
+msgid "_Quit"
+msgstr ""
+
+msgid "Quit application"
+msgstr "अनुप्रयोगं त्यजतु"
+
+msgid "Quit the application"
+msgstr "अनुप्रयोगं त्यजन्तु"
+
+msgid "Quits the application"
+msgstr "अनुप्रयोगं त्यजति"
+
+msgid "Quote"
+msgstr "उद्धरण"
+
+msgid "R"
+msgstr "आर"
+
+msgid "Radial"
+msgstr "रेडियल"
+
+msgid "Radio"
+msgstr "रेडियो"
+
+msgid "Radius"
+msgstr "त्रिज्या"
+
+msgid "Raise"
+msgstr "उत्थापय"
+
+msgid "Random"
+msgstr "यदृच्छासङ्ख्या"
+
+msgid "Range"
+msgstr "पङ्क्तिः"
+
+msgid "Rank"
+msgstr "रङ्कः"
+
+msgid "Rate"
+msgstr "मानम्‌"
+
+msgid "Rating"
+msgstr "रेटिंग्"
+
+msgid "Raw"
+msgstr "अपक्व"
+
+msgid "Read"
+msgstr "पठतु"
+
+msgid "Read error"
+msgstr "पठनदोषः"
+
+msgid "Read Only"
+msgstr "केवलं पठनीयम्"
+
+msgid "Read only"
+msgstr "केवलं पठन्तु"
+
+msgid "Reading"
+msgstr "पठन"
+
+msgid "read-only"
+msgstr "पठनीय एव"
+
+msgid "Ready"
+msgstr "आत्त"
+
+msgid "Ready."
+msgstr "आत्त।"
+
+msgid "Reason"
+msgstr "कारणम्‌"
+
+msgid "Reassign"
+msgstr "पुनः नियुक्ति"
+
+msgid "Recent"
+msgstr "सद्यस्क"
+
+msgid "Recent Documents"
+msgstr "अद्यतन दस्तावेज"
+
+msgid "Recent Files"
+msgstr "अद्यतनसञ्चिकाः"
+
+msgid "Recent files"
+msgstr "अद्यतनसञ्चिकाः"
+
+msgid "Record"
+msgstr "अभिलेख"
+
+msgid "Recording"
+msgstr "रिकार्डिङ्ग"
+
+msgid "Rectangle"
+msgstr "आयत"
+
+msgid "Recursive"
+msgstr "पुनरावर्तनीयम्"
+
+msgid "Red"
+msgstr "रक्त"
+
+msgid "red"
+msgstr "रक्त"
+
+msgid "Redo"
+msgstr "पुनः करो"
+
+msgid "&Redo"
+msgstr "&पुनः करो"
+
+msgid "_Redo"
+msgstr ""
+
+msgid "Re&do"
+msgstr "पुनः&कर"
+
+msgid "Redo %1"
+msgstr "पुनः %1"
+
+msgid "Reference"
+msgstr "सन्दर्भः"
+
+msgid "References"
+msgstr "सन्दर्भाः"
+
+msgid "Refresh"
+msgstr "ताजगी"
+
+msgid "_Refresh"
+msgstr ""
+
+msgid "Reggae"
+msgstr "रेग्गे"
+
+msgid "Region"
+msgstr "क्षेत्र"
+
+msgid "Register"
+msgstr "पंजीकर्"
+
+msgid "Regular"
+msgstr "नियमित"
+
+msgid "Regular Expression"
+msgstr "नियमित अभिव्यक्ति"
+
+msgid "Regular expression"
+msgstr "नियमित अभिव्यक्ति"
+
+msgid "Reject"
+msgstr "अस्वीकार"
+
+msgid "Relative"
+msgstr "संबंधी"
+
+msgid "Reload"
+msgstr "पुनः लोड करें"
+
+msgid "&Reload"
+msgstr "&पुनः भार"
+
+msgid "_Reload"
+msgstr ""
+
+msgid "Reminders"
+msgstr "स्मरणम्"
+
+msgid "Remote"
+msgstr "दूरस्थ"
+
+msgid "Removable"
+msgstr "हटनीयम्"
+
+msgid "Remove"
+msgstr "अपाकरोति"
+
+msgid "&Remove"
+msgstr "&अपाकरोति"
+
+msgid "_Remove"
+msgstr ""
+
+msgid "R&emove"
+msgstr "अपाकरोति"
+
+msgid "Re&move"
+msgstr "अपाकरोति"
+
+msgid "Remove..."
+msgstr "अपाकरोति…"
+
+msgid "Remove %1"
+msgstr "%1 निष्कासयन्तु"
+
+msgid "Remove Account"
+msgstr "खातं निष्कासयतु"
+
+msgid "Remove All"
+msgstr "सर्वं निष्कासयतु"
+
+msgid "Remove Bookmark"
+msgstr "बुकमार्कं निष्कासयन्तु"
+
+msgid "Remove Folder"
+msgstr "फोल्डरं निष्कासयन्तु"
+
+msgid "Remove from Favorites"
+msgstr "प्रियतः निष्कासयन्तु"
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "समूहं निष्कासयन्तु"
+
+msgid "Remove Rule"
+msgstr "नियमं निष्कासयतु"
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "पुनर्नाम"
+
+msgid "&Rename"
+msgstr "&नाम पुनर्नाम"
+
+msgid "_Rename"
+msgstr ""
+
+msgid "Rename..."
+msgstr "पुनर्नामकरणं..."
+
+msgid "&Rename..."
+msgstr "&नाम पुनर्नाम..."
+
+msgid "Rename Bookmark"
+msgstr "Bookmark इति नाम परिवर्तयतु"
+
+msgid "Rename File"
+msgstr "सञ्चिकायाः नाम परिवर्तनं कुर्वन्तु"
+
+msgid "Repeat"
+msgstr "परिहरन"
+
+msgid "Replace"
+msgstr "प्रत्याहृ"
+
+msgid "&Replace"
+msgstr "&प्रत्याहृ"
+
+msgid "_Replace"
+msgstr ""
+
+msgid "Replace All"
+msgstr "सर्वेषां प्रतिस्थापनम्"
+
+msgid "Replace _All"
+msgstr ""
+
+msgid "Replace an existing instance"
+msgstr "विद्यमानं दृष्टान्तं प्रतिस्थापयन्तु"
+
+msgid "Replacement"
+msgstr "प्रतिस्थापनम्"
+
+msgid "Reply"
+msgstr "उत्तरं"
+
+msgid "Report"
+msgstr "वृत्तान्तः"
+
+msgid "Report a bug"
+msgstr "एकं दोषं निवेदयन्तु"
+
+msgid "Report Bug"
+msgstr "बगस्य सूचनां ददातु"
+
+msgid "Report Bug..."
+msgstr "बगस्य सूचनां ददातु..."
+
+msgid "&Report Bug..."
+msgstr "&रिपोर्ट बग…"
+
+msgid "Reports"
+msgstr "प्रतिवेदनानि"
+
+msgid "Required"
+msgstr "आवश्यकः"
+
+msgid "Rescan"
+msgstr "पुनः स्कैन करें"
+
+msgid "Resend"
+msgstr "पुनः प्रेषयतु"
+
+msgid "Reset"
+msgstr "पुनः सेट् करें"
+
+msgid "&Reset"
+msgstr "&पुनः सेट् कुर्वन्तु"
+
+msgid "_Reset"
+msgstr ""
+
+msgid "Reset to Default"
+msgstr "पूर्वनिर्धारितं पुनः सेट् कुर्वन्तु"
+
+msgid "Reset to default"
+msgstr "पूर्वनिर्धारितरूपेण पुनः सेट् कुर्वन्तु"
+
+msgid "Reset Zoom"
+msgstr "Zoom पुनः सेट् कुर्वन्तु"
+
+msgid "Resize"
+msgstr "आकारं परिवर्तयतु"
+
+msgid "_Resize"
+msgstr ""
+
+msgid "Resize Image"
+msgstr "चित्रस्य आकारं परिवर्तयतु"
+
+msgid "Resolution"
+msgstr "प्रस्ताव"
+
+msgid "Resource"
+msgstr "संसाधनम्"
+
+msgid "Resources"
+msgstr "संसाधनाः"
+
+msgid "Restart"
+msgstr "पुनः आरभत"
+
+msgid "Restore"
+msgstr "निर्यत्"
+
+msgid "Restore Session"
+msgstr "सत्रं पुनर्स्थापयन्तु"
+
+msgid "Result"
+msgstr "परिणाम"
+
+msgid "Results"
+msgstr "परिणामाः"
+
+msgid "Resume"
+msgstr "पुनर्प्रारम्भय"
+
+msgid "&Resume"
+msgstr "&पुनर्प्रारम्भय"
+
+msgid "Retry"
+msgstr "पुनः प्रयासं कुर्वन्तु"
+
+msgid "Return"
+msgstr "निर्वतनम्"
+
+msgid "Reverse"
+msgstr "विपरीत"
+
+msgid "Revert"
+msgstr "प्रत्यावर्तयतु"
+
+msgid "_Revert"
+msgstr ""
+
+msgid "Review"
+msgstr "परिशीलयतु"
+
+msgid "Revision"
+msgstr "कार्यदर्शन"
+
+msgid "Revoked"
+msgstr "निरस्त"
+
+msgid "RGB"
+msgstr "आरजीबी"
+
+msgid "Right"
+msgstr "दक्षिणः"
+
+msgid "right"
+msgstr "दक्षिणः"
+
+msgid "&Right"
+msgstr "&दक्षिणः"
+
+msgid "_Right"
+msgstr ""
+
+msgid "Right to Left"
+msgstr "दक्षिणतः वामतः"
+
+msgid "Right-click"
+msgstr "राइट्-क्लिक् कुर्वन्तु"
+
+msgid "River"
+msgstr "नदी"
+
+msgid "RKWard Team"
+msgstr "आरकेवार्ड टीम"
+
+msgid "Rock"
+msgstr "चट्टानं"
+
+msgid "Role"
+msgstr "भूमिका"
+
+msgid "Roman"
+msgstr "रोमन"
+
+msgid "Romania"
+msgstr "रोमानिया"
+
+msgid "Romanian"
+msgstr "रोमानियाई"
+
+msgid "Room"
+msgstr "कक्ष"
+
+msgid "Root"
+msgstr "मूलं"
+
+msgid "Rotate"
+msgstr "परिभ्रमतु"
+
+msgid "Rotate Left"
+msgstr "वामभागे परिभ्रमन्तु"
+
+msgid "Rotate Right"
+msgstr "दक्षिणतः परिभ्रमतु"
+
+msgid "Rotation"
+msgstr "परिभ्रमणम्"
+
+msgid "Round"
+msgstr "वृत्त"
+
+msgid "Row"
+msgstr "पंक्ति"
+
+msgid "Rows"
+msgstr "पङ्क्तयः"
+
+msgid "rows"
+msgstr ""
+
+msgid "RSA"
+msgstr "आर एस ए"
+
+msgid "Rules"
+msgstr "नियमाः"
+
+msgid "Run"
+msgstr "धावनं करोतु"
+
+msgid "&Run"
+msgstr "&धावनं करोतु"
+
+msgid "Run in terminal"
+msgstr "टर्मिनल् मध्ये चालयन्तु"
+
+msgid "Running"
+msgstr "चलति"
+
+msgid "Russia"
+msgstr "रूसः"
+
+msgid "Russian"
+msgstr "रूसी"
+
+msgid "Rwanda"
+msgstr "रवाण्डा"
+
+msgid "S"
+msgstr "स"
+
+msgid "s"
+msgstr "स"
+
+msgid "%s"
+msgstr ""
+
+msgid "%s Properties"
+msgstr ""
+
+msgid "%s, %s"
+msgstr ""
+
+msgid "%s: %s"
+msgstr ""
+
+msgid "%s (%s)"
+msgstr ""
+
+msgid "Samba"
+msgstr "साम्बः"
+
+msgid "Samoa"
+msgstr "समोआ"
+
+msgid "Sample"
+msgstr "प्रतिदर्श"
+
+msgid "Sample Rate"
+msgstr "नमूना दर"
+
+msgid "Sample rate"
+msgstr "नमूना दरः "
+
+msgid "Samples"
+msgstr "नमूनानि"
+
+msgid "San Marino"
+msgstr "सैन मैरिनो"
+
+msgid "Sans Serif"
+msgstr "संस सेरिफ"
+
+msgid "Satellite"
+msgstr "उपग्रहः"
+
+msgid "Saturation"
+msgstr "संतृप्ति"
+
+msgid "Saturday"
+msgstr "शनिवारं"
+
+msgid "Saudi Arabia"
+msgstr "सऊदी अरब"
+
+msgid "Save"
+msgstr "रक्ष्"
+
+msgid "&Save"
+msgstr "&रक्ष्"
+
+msgid "_Save"
+msgstr ""
+
+msgid "Save..."
+msgstr "रक्ष्..."
+
+msgid "Save All"
+msgstr "सर्वं रक्षतु"
+
+msgid "Save As"
+msgstr "As Save As इति"
+
+msgid "Save as"
+msgstr "यथा रक्षतु"
+
+msgid "Save _As"
+msgstr ""
+
+msgid "Save As..."
+msgstr "Save As..."
+
+msgid "Save as..."
+msgstr "यथा रक्षन्तु..."
+
+msgid "_Save As..."
+msgstr ""
+
+msgid "Save &As..."
+msgstr "Save &As…"
+
+msgid "Save _As..."
+msgstr ""
+
+msgid "Save Attachment"
+msgstr "आसक्तिं रक्षतु"
+
+msgid "Save Changes"
+msgstr "परिवर्तनं रक्षतु"
+
+msgid "Save Changes?"
+msgstr "परिवर्तनं रक्षतु?"
+
+msgid "Save File"
+msgstr "सञ्चिकां रक्षतु"
+
+msgid "Save file"
+msgstr "सञ्चिकां रक्षतु"
+
+msgid "Save Game"
+msgstr "गेम रक्षतु"
+
+msgid "Save Image"
+msgstr "चित्रं रक्षतु"
+
+msgid "_Save Image As..."
+msgstr ""
+
+msgid "Save Project"
+msgstr "परियोजना रक्षतु"
+
+msgid "Save Session"
+msgstr "सत्रं रक्षतु"
+
+msgid "Save Settings"
+msgstr "सेटिंग्स् रक्षतु"
+
+msgid "Saved"
+msgstr "रक्षितम्"
+
+msgid "Saving"
+msgstr "बचतम्"
+
+msgid "Saving..."
+msgstr "बचतम्..."
+
+msgid "Saving file..."
+msgstr "सञ्चिकां रक्षति..."
+
+msgid "Scale"
+msgstr "मापन"
+
+msgid "_Scale"
+msgstr ""
+
+msgid "Scaled"
+msgstr "स्केल कृतम्"
+
+msgid "Scaling"
+msgstr "स्केलिंग्"
+
+msgid "Scan"
+msgstr "स्कैन् कुर्वन्तु"
+
+msgid "Scanner"
+msgstr "स्कैनर"
+
+msgid "Scanning..."
+msgstr "स्कैनिङ्ग..."
+
+msgid "Schedule"
+msgstr "कार्यक्रमः"
+
+msgid "Scheduling"
+msgstr "समयनिर्धारणम्"
+
+msgid "Scheme"
+msgstr "योजना"
+
+msgid "School"
+msgstr "विद्यालयः"
+
+msgid "Scientific"
+msgstr "वैज्ञानिक"
+
+msgid "Scope"
+msgstr "लब्द्धावसर"
+
+msgid "Score"
+msgstr "अंक"
+
+msgid "Score: %1"
+msgstr "स्कोरः %1"
+
+msgid "Screen"
+msgstr "पट"
+
+msgid "Screenshot"
+msgstr "स्क्रीनशॉट"
+
+msgid "Screenshots"
+msgstr "स्क्रीनशॉट्"
+
+msgid "Script"
+msgstr "प्रलेखन"
+
+msgid "Scripting"
+msgstr "स्क्रिप्टिङ्ग्"
+
+msgid "Scripts"
+msgstr "स्क्रिप्ट्"
+
+msgid "Scroll"
+msgstr "स्क्रॉल करें"
+
+msgid "Scroll Down"
+msgstr "Scroll Down इति"
+
+msgid "Scroll Left"
+msgstr "Scroll Left इति"
+
+msgid "Scroll Right"
+msgstr "Scroll Right इति"
+
+msgid "Scroll Up"
+msgstr "उपरि स्क्रॉल कुर्वन्तु"
+
+msgid "Scrolling"
+msgstr "स्क्रॉल करणम्"
+
+msgid "Search"
+msgstr "अन्वेषण"
+
+msgid "&Search"
+msgstr "&अन्वेषण"
+
+msgid "_Search"
+msgstr ""
+
+msgid "S&earch"
+msgstr "अन्वेषण"
+
+msgid "Search..."
+msgstr "अन्वेषण..."
+
+msgid "Search Bar"
+msgstr "अन्वेषणपट्टिका"
+
+msgid "_Search for"
+msgstr ""
+
+msgid "Search for '%1' with"
+msgstr "'%1' इत्यनेन सह अन्वेष्टुम्"
+
+msgid "Search Options"
+msgstr "अन्वेषणविकल्पाः"
+
+msgid "Search Results"
+msgstr "अन्वेषण परिणाम"
+
+msgid "Search results"
+msgstr "अन्वेषणफलम्"
+
+msgid "Searching..."
+msgstr "अन्वेषणं कुर्वन्..."
+
+msgid "Sebastian Kügler"
+msgstr "सेबास्टियन कुग्लर"
+
+msgid "Second"
+msgstr "क्षण"
+
+msgid "Seconds"
+msgstr "सेकण्ड्"
+
+msgid "seconds"
+msgstr "सेकण्ड्"
+
+msgid "Section"
+msgstr "खंड"
+
+msgid "Security"
+msgstr "सुरक्षा"
+
+msgid "Seek"
+msgstr "अन्विष्यति"
+
+msgid "Select"
+msgstr "विचि"
+
+msgid "_Select"
+msgstr ""
+
+msgid "Select..."
+msgstr "विचि..."
+
+msgid "Select All"
+msgstr "सर्वं चिनोतु"
+
+msgid "Select all"
+msgstr "सर्वाणि चिनोतु"
+
+msgid "&Select All"
+msgstr "&सर्वं चिनोतु"
+
+msgid "_Select All"
+msgstr ""
+
+msgid "Select &All"
+msgstr "&All इति चयनं कुर्वन्तु"
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select an authentication mode."
+msgstr "प्रमाणीकरणविधिं चिनोतु ।"
+
+msgid "Select an image"
+msgstr "एकं चित्रं चिनोतु"
+
+msgid "Select Color"
+msgstr "Color इति चिनोतु"
+
+msgid "Select Directory"
+msgstr "निर्देशिकां चिनोतु"
+
+msgid "Select File"
+msgstr "सञ्चिकां चिनोतु"
+
+msgid "Select file"
+msgstr "सञ्चिकां चिनोतु"
+
+msgid "Select Folder"
+msgstr "Folder इति चिनोतु"
+
+msgid "Select folder"
+msgstr "फोल्डरं चिनोतु"
+
+msgid "Select Font"
+msgstr "Font इति चिनोतु"
+
+msgid "Select None"
+msgstr "None इति चिनोतु"
+
+msgid "Select Source"
+msgstr "स्रोतः चिनोतु"
+
+msgid "Selected"
+msgstr "चयनितम्"
+
+msgid "Selection"
+msgstr "चयनम्"
+
+msgid "Selections"
+msgstr "चयनम्"
+
+msgid "Semicolon"
+msgstr "अर्धविराम"
+
+msgid "Send"
+msgstr "प्रेषयतु"
+
+msgid "Send an email to %1"
+msgstr "%1 इत्यस्मै ईमेल प्रेषयन्तु"
+
+msgid "Send File"
+msgstr "सञ्चिका प्रेषयतु"
+
+msgid "Send to %1"
+msgstr "%1 - मध्ये प्रेषयन्तु"
+
+msgid "Sender"
+msgstr "प्रेषकः"
+
+msgid "Senegal"
+msgstr "सेनेगल"
+
+msgid "Sensitivity"
+msgstr "संवेदनशीलता"
+
+msgid "Sent"
+msgstr "प्रेषित"
+
+msgid "Separator"
+msgstr "विभाजक"
+
+msgid "September"
+msgstr "सितंबरं माह"
+
+msgid "Serbia"
+msgstr "सर्बिया"
+
+msgid "Serbian"
+msgstr "सर्बियाई"
+
+msgid "Serial Number"
+msgstr "क्रमाङ्कः"
+
+msgid "Serial number"
+msgstr "क्रमाङ्कः "
+
+msgid "Series"
+msgstr "श्रेणी"
+
+msgid "Serif"
+msgstr "सेरिफ"
+
+msgid "Server"
+msgstr "सर्वर"
+
+msgid "Server URL"
+msgstr "सर्वर URL"
+
+msgid "Service"
+msgstr "सेवा"
+
+msgid "Services"
+msgstr "सेवाएँ"
+
+msgid "Session"
+msgstr "सत्र"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "सत्रम्"
+
+msgid "Set"
+msgstr "दृढः"
+
+msgid "Set as Default"
+msgstr "Default इति सेट् कुर्वन्तु"
+
+msgid "Set as default"
+msgstr "पूर्वनिर्धारितरूपेण सेट् कुर्वन्तु"
+
+msgid "Settings"
+msgstr "सेटिंग्स्"
+
+msgid "&Settings"
+msgstr "&सेटिंग्स"
+
+msgid "_Settings"
+msgstr ""
+
+msgid "Settings..."
+msgstr "सेटिंग्स्..."
+
+msgid "Severity"
+msgstr "तीव्रता"
+
+msgid "Seychelles"
+msgstr "सेशेल्स्"
+
+msgid "SHA-256"
+msgstr "शा-256"
+
+msgid "Shading"
+msgstr "छायाकरणम्"
+
+msgid "Shadow"
+msgstr "छाया"
+
+msgid "Shadows"
+msgstr "छायाः"
+
+msgid "Shape"
+msgstr "आकारः"
+
+msgid "Share"
+msgstr "संविभागः"
+
+msgid "Share..."
+msgstr "संविभागः…"
+
+msgid "Shared"
+msgstr "साझा"
+
+msgid "Sharing"
+msgstr "साझेदारी"
+
+msgid "Sharing failed"
+msgstr "साझेदारी असफलम् अभवत्"
+
+msgid "Sharpen"
+msgstr "तीक्ष्णं कुरुत"
+
+msgid "Sharpness"
+msgstr "तीक्ष्णता"
+
+msgid "Shear"
+msgstr "कतरनी"
+
+msgid "Shell"
+msgstr "कोष्ठ"
+
+msgid "Shift"
+msgstr "विहरति"
+
+msgid "Short"
+msgstr "वामनः"
+
+msgid "Shortcut"
+msgstr "शॉर्टकट"
+
+msgid "Shortcuts"
+msgstr "शॉर्टकट"
+
+msgid "Show"
+msgstr "दर्शयतु"
+
+msgid "Show All"
+msgstr "सर्वाणि दर्शयतु"
+
+msgid "Show Details"
+msgstr "विवरणं दर्शयतु"
+
+msgid "Show details"
+msgstr "विवरणं दर्शयतु"
+
+msgid "Show Grid"
+msgstr "ग्रिड् दर्शयतु"
+
+msgid "Show grid"
+msgstr "जालं दर्शयतु"
+
+msgid "Show Help"
+msgstr "सहायतां दर्शयतु"
+
+msgid "Show help"
+msgstr "सहायतां दर्शयतु"
+
+msgid "Show Hidden Files"
+msgstr "गुप्तसञ्चिकाः दर्शयतु"
+
+msgid "Show in folder"
+msgstr "पुटे दर्शयतु"
+
+msgid "Show legend"
+msgstr "आख्यायिकां दर्शयतु"
+
+msgid "Show Password"
+msgstr "गुप्तशब्दं दर्शयतु"
+
+msgid "Show Preview"
+msgstr "पूर्वावलोकनं दर्शयतु"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr ""
+
+msgid "Show Status Bar"
+msgstr "स्थितिपट्टिकां दर्शयतु"
+
+msgid "Show St&atusbar"
+msgstr "St&atusbar दर्शयतु"
+
+msgid "Show the application's version"
+msgstr ""
+
+msgid "Show Toolbar"
+msgstr "Toolbar दर्शयतु"
+
+msgid "Show toolbar"
+msgstr "साधनपट्टिकां दर्शयतु"
+
+msgid "Show &Toolbar"
+msgstr "&Toolbar दर्शयतु"
+
+msgid "Shuffle"
+msgstr "शफल"
+
+msgid "Shut Down"
+msgstr "शट डाउन"
+
+msgid "Shutdown"
+msgstr "शटडाउन"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "पार्श्वपट्टिका"
+
+msgid "Sierra Leone"
+msgstr "सियरा लियोन्"
+
+msgid "Sign"
+msgstr "चिह्नम्‌"
+
+msgid "Signal"
+msgstr "संकेतः"
+
+msgid "Signature"
+msgstr "हस्ताक्षर"
+
+msgid "Simple"
+msgstr "सरलं"
+
+msgid "Singapore"
+msgstr "सिङ्गापुर"
+
+msgid "Single"
+msgstr "एकैकः"
+
+msgid "Sinhala"
+msgstr "सिंहलम्"
+
+msgid "Size"
+msgstr "आकृति"
+
+msgid "size"
+msgstr "आकृति"
+
+msgid "&Size"
+msgstr "&आकृति"
+
+msgid "Size: %1"
+msgstr "आकारः %1"
+
+msgid "Skip"
+msgstr "क्षिपते"
+
+msgid "&Skip"
+msgstr "&क्षिपते"
+
+msgid "_Skip"
+msgstr ""
+
+msgid "Skip forward"
+msgstr "अग्रतः लङ्घयन्तु"
+
+msgid "Sleep"
+msgstr "शयनं करोतु"
+
+msgid "Slide"
+msgstr "च्यु"
+
+msgid "Slider"
+msgstr "स्लाइडर"
+
+msgid "Slideshow"
+msgstr "स्लाइड शो"
+
+msgid "Slovak"
+msgstr "स्लोवाक"
+
+msgid "Slovenia"
+msgstr "स्लोवेनिया"
+
+msgid "Slovenian"
+msgstr "स्लोवेनियाई"
+
+msgid "Slow"
+msgstr "मन्द"
+
+msgid "Slower"
+msgstr "मन्दतरम्"
+
+msgid "Small"
+msgstr "लघु"
+
+msgid "Smooth"
+msgstr "मसृणः"
+
+msgid "Smoothing"
+msgstr "स्मूथिंग"
+
+msgid "SMTP"
+msgstr "एस एम टी पी"
+
+msgid "Snap"
+msgstr "स्नापक"
+
+msgid "Snap to Grid"
+msgstr "ग्रिड् मध्ये स्नैप कुर्वन्तु"
+
+msgid "Snow"
+msgstr "तुषार"
+
+msgid "SOCKS"
+msgstr "पादकोश"
+
+msgid "Socks5"
+msgstr "मोजा5"
+
+msgid "Software"
+msgstr "तन्त्रांश"
+
+msgid "Solid"
+msgstr "ठोस"
+
+msgid "Solid color"
+msgstr "ठोसवर्णः"
+
+msgid "Solomon Islands"
+msgstr "सोलोमनद्वीपाः"
+
+msgid "Somalia"
+msgstr "सोमालिया"
+
+msgid "Sort"
+msgstr "प्रकारं"
+
+msgid "Sort By"
+msgstr "Sort By"
+
+msgid "Sort by"
+msgstr "क्रमेण क्रमयन्तु"
+
+msgid "Sorting"
+msgstr "क्रमाङ्कनम्"
+
+msgid "Sound"
+msgstr "ध्वनि"
+
+msgid "Soundtrack"
+msgstr "ध्वनिपटलम्"
+
+msgid "Source"
+msgstr "स्रोतः"
+
+msgid "Sources"
+msgstr "स्रोतः"
+
+msgid "South"
+msgstr "दक्षिण"
+
+msgid "South Africa"
+msgstr "दक्षिण आफ्रिका"
+
+msgid "South European"
+msgstr ""
+
+msgid "Space"
+msgstr "स्थानं"
+
+msgid "Spacing"
+msgstr "अन्तरालम्"
+
+msgid "Spain"
+msgstr "स्पेनदेशः"
+
+msgid "Spam"
+msgstr "अनिष्ट"
+
+msgid "Spanish"
+msgstr "स्पेनी भाषा"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "वदतिब्रू"
+
+msgid "Speak Text"
+msgstr "पाठं वदतु"
+
+msgid "Speaker"
+msgstr "वक्ता"
+
+msgid "Special"
+msgstr "विशेषः"
+
+msgid "Special Characters"
+msgstr "विशेषवर्णाः"
+
+msgid "Specials"
+msgstr "विशेषाः"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr ""
+
+msgid "Speed"
+msgstr "गति"
+
+msgid "Spell Check"
+msgstr "वर्तनीपरीक्षा"
+
+msgid "Spell Checking"
+msgstr "वर्तनीपरीक्षा"
+
+msgid "Spelling"
+msgstr "वर्तनी"
+
+msgid "Spiral"
+msgstr "सर्पिल"
+
+msgid "Split"
+msgstr "भंज"
+
+msgid "Split View"
+msgstr "विभक्त दृश्य"
+
+msgid "Sports"
+msgstr "क्रीडा"
+
+msgid "Spreadsheet"
+msgstr "स्प्रेडशीट"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "चतुरश्रः"
+
+msgid "Sri Lanka"
+msgstr "श्रीलङ्का"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS इति"
+
+msgid "Stack"
+msgstr "स्त्राव"
+
+msgid "Stacked"
+msgstr "स्तम्भितम्"
+
+msgid "Standard"
+msgstr "स्तरीय"
+
+msgid "Standard deviation"
+msgstr "मानक विचलन"
+
+msgid "Star"
+msgstr "नक्षत्र"
+
+msgid "Start"
+msgstr "प्रारंभः"
+
+msgid "&Start"
+msgstr "&प्रारंभः"
+
+msgid "Start a new game"
+msgstr "नूतनं क्रीडां आरभत"
+
+msgid "Start Date"
+msgstr "प्रारम्भ तिथि"
+
+msgid "Start date"
+msgstr "प्रारम्भ तिथि"
+
+msgid "Start Presentation"
+msgstr "प्रस्तुतिम् आरभत"
+
+msgid "Start Time"
+msgstr "प्रारम्भ समय"
+
+msgid "Started"
+msgstr "आरंभित"
+
+msgid "Starting"
+msgstr "आरभ्यते"
+
+msgid "Starting..."
+msgstr "आरभ्य…"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "आरभ्यते"
+
+msgid "Startup"
+msgstr "स्टार्टअप"
+
+msgid "Stash"
+msgstr "स्तश"
+
+msgid "State"
+msgstr "राज्यम्‌"
+
+msgid "States"
+msgstr "राज्यानि"
+
+msgid "Statistics"
+msgstr "सांख्यिकी"
+
+msgid "Status"
+msgstr "स्थितिः"
+
+msgid "Status: %1"
+msgstr "स्थितिः %1"
+
+msgid "Statusbar"
+msgstr "स्थितिपट्टिका"
+
+msgid "_Statusbar"
+msgstr ""
+
+msgid "Step"
+msgstr "चरण"
+
+msgid "Stephan Kulow"
+msgstr "स्टीफन कुलोव"
+
+msgid "Steps"
+msgstr "सोपानम्"
+
+msgid "Stereo"
+msgstr "स्टीरियो"
+
+msgid "Stop"
+msgstr "विरमतु"
+
+msgid "&Stop"
+msgstr "&विरमतु"
+
+msgid "_Stop"
+msgstr ""
+
+msgid "S&top"
+msgstr "विरमतु"
+
+msgid "Stop Recording"
+msgstr "रिकार्डिङ्ग् स्थगयन्तु"
+
+msgid "Stopped"
+msgstr "स्थगितम्"
+
+msgid "Storage"
+msgstr "संग्रहण"
+
+msgid "Store"
+msgstr "संग्रहः"
+
+msgid "Stream"
+msgstr "धारा"
+
+msgid "Street"
+msgstr "मार्गं"
+
+msgid "Strength"
+msgstr "बलः"
+
+msgid "Stretch"
+msgstr "विस्तार"
+
+msgid "Strike Out"
+msgstr "Strike Out इति"
+
+msgid "Strikethrough"
+msgstr "स्ट्राइकथ्रू"
+
+msgid "String"
+msgstr "सूत्र"
+
+msgid "string"
+msgstr "सूत्र"
+
+msgid "Strings"
+msgstr "ताराः"
+
+msgid "Stroke"
+msgstr "प्रहार"
+
+msgid "Strong"
+msgstr "समर्थः"
+
+msgid "Structure"
+msgstr "संरचना"
+
+msgid "Style"
+msgstr "शैली"
+
+msgid "Subject"
+msgstr "विषयः"
+
+msgid "Submit"
+msgstr "उपस्थापयतु"
+
+msgid "Subscribe"
+msgstr "सब्सक्राइब करें"
+
+msgid "Subscript"
+msgstr "उपलिपिः"
+
+msgid "Subscriptions"
+msgstr "सदस्यता"
+
+msgid "Subtitle"
+msgstr "उपशीर्षकम्"
+
+msgid "Subtitles"
+msgstr "उपशीर्षक"
+
+msgid "Subtract"
+msgstr "घटाये"
+
+msgid "Subversion"
+msgstr "विध्वंसनम्"
+
+msgid "Success"
+msgstr "सफलता"
+
+msgid "Sudan"
+msgstr "सूडान"
+
+msgid "Suffix"
+msgstr "प्रत्ययः "
+
+msgid "Sum"
+msgstr "योग"
+
+msgid "Summary"
+msgstr "संक्षेपः"
+
+msgid "Sun"
+msgstr "सूर्य"
+
+msgid "Sundanese"
+msgstr "सुन्दनी"
+
+msgid "Sunday"
+msgstr "रविवारं"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "अधिलिपि"
+
+msgid "Support"
+msgstr "समर्थनम्‌"
+
+msgid "Suriname"
+msgstr "सूरीनाम"
+
+msgid "Surname"
+msgstr "उपनाम"
+
+msgid "Suspend"
+msgstr "निलम्बनम्"
+
+msgid "Suspended"
+msgstr "निलंबित"
+
+msgid "SVG"
+msgstr "एसवीजी"
+
+msgid "Swap"
+msgstr "व्यतिहरते"
+
+msgid "Sweden"
+msgstr "स्वीडेन्"
+
+msgid "Swedish"
+msgstr "स्वीडिश"
+
+msgid "Switch"
+msgstr "नुदति"
+
+msgid "Switches"
+msgstr "स्विच करोति"
+
+msgid "Switzerland"
+msgstr "स्विट्ज़र्ल्याण्ड्"
+
+msgid "Symbol"
+msgstr "चिह्न"
+
+msgid "Symbols"
+msgstr "प्रतीकाः"
+
+msgid "Sync"
+msgstr "समन्वयनम्"
+
+msgid "Synchronization"
+msgstr "समन्वयनम्"
+
+msgid "Synchronize"
+msgstr "समन्वयनम्"
+
+msgid "Syriac"
+msgstr "सिरियाक"
+
+msgid "System"
+msgstr "व्यवस्था"
+
+msgid "System Default"
+msgstr "प्रणाली पूर्वनिर्धारित"
+
+msgid "System Settings"
+msgstr "सङ्गणकतन्त्रस्य समायोजनानि"
+
+msgid "T"
+msgstr "टी"
+
+msgid "Tab"
+msgstr "टब"
+
+msgid "Table"
+msgstr "पीठिका"
+
+msgid "Table of Contents"
+msgstr "विषयसूची"
+
+msgid "Tablet"
+msgstr "फलकम्"
+
+msgid "Tabs"
+msgstr "टब्स्"
+
+msgid "Tag"
+msgstr "सूचकपत्त्र"
+
+msgid "Tagalog"
+msgstr "तागालोग"
+
+msgid "Tagged"
+msgstr "टैग किया गया"
+
+msgid "Tags"
+msgstr "टैग्स"
+
+msgid "Taiwan"
+msgstr "ताइवान"
+
+msgid "Tajikistan"
+msgstr "ताजिकिस्तान"
+
+msgid "Take Screenshot"
+msgstr ""
+
+msgid "Tamil"
+msgstr "तमिल"
+
+msgid "Tango"
+msgstr "अपाकरोति"
+
+msgid "Tanzania"
+msgstr "तंजानिया"
+
+msgid "Target"
+msgstr "लक्ष्य"
+
+msgid "Task"
+msgstr "कार्य"
+
+msgid "Tasks"
+msgstr "कार्याणि"
+
+msgid "Tatar"
+msgstr "तातार"
+
+msgid "TB"
+msgstr "टीबी"
+
+msgid "Team"
+msgstr "दल"
+
+msgid "Technology"
+msgstr "तन्त्रज्ञान"
+
+msgid "Telephone"
+msgstr "दूरभाषः"
+
+msgid "Telugu"
+msgstr "तेलुगु"
+
+msgid "Temperature"
+msgstr "तापमान"
+
+msgid "Template"
+msgstr "टेम्पलेट"
+
+msgid "Templates"
+msgstr "टेम्पलेट्स"
+
+msgid "Tentative"
+msgstr "अनुमानित"
+
+msgid "Terminal"
+msgstr "टर्मिनल्"
+
+msgid "Terminal Emulator"
+msgstr "टर्मिनल एमुलेटर"
+
+msgid "Test"
+msgstr "परीक्षा"
+
+msgid "Testing"
+msgstr "परीक्षणम्"
+
+msgid "Text"
+msgstr "पाठ"
+
+msgid "text"
+msgstr "पाठ"
+
+msgid "_Text"
+msgstr ""
+
+msgid "Text Color"
+msgstr "पाठवर्णः"
+
+msgid "Text color"
+msgstr "पाठवर्णः"
+
+msgid "Text Editor"
+msgstr "पाठ सम्पादक"
+
+msgid "Text File"
+msgstr "पाठसञ्चिका"
+
+msgid "Text Files"
+msgstr "पाठसञ्चिकाः"
+
+msgid "Text Only"
+msgstr "पाठमात्रम्"
+
+msgid "Text only"
+msgstr "पाठमात्रम्"
+
+msgid "Text to search for"
+msgstr "अन्वेषणार्थं पाठः"
+
+msgid "Text Tool"
+msgstr "पाठसाधनम्"
+
+msgid "TextLabel"
+msgstr "TextLabel इति"
+
+msgid "Thai"
+msgstr "थाई"
+
+msgid "Thailand"
+msgstr "थाईलैण्ड"
+
+msgid "The file %1 does not exist."
+msgstr "%1 इति सञ्चिका नास्ति ।"
+
+msgid "The GNOME Project"
+msgstr ""
+
+msgid "The graphical theme to be used."
+msgstr "प्रयोक्तव्यः चित्रात्मकः विषयः ।"
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+msgid "The NetworkManager Developers"
+msgstr ""
+
+msgid "Theme"
+msgstr "विषयवस्तु"
+
+msgid "Themes"
+msgstr "विषयाः"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "दस्तावेजस्य साझेदारीयां समस्या आसीत्: %1"
+
+msgid "Thin"
+msgstr "कृशः"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"एतेन मेनू-पट्टिका पूर्णतया गोपिता भविष्यति । %1 इति टङ्कयित्वा पुनः "
+"दर्शयितुं शक्नुवन्ति ।"
+
+msgid "Thomas Zander"
+msgstr "थोमस ज़ैण्डर्"
+
+msgid "Threshold"
+msgstr "देहली"
+
+msgid "Thumbnail"
+msgstr "लघुचित्रम्"
+
+msgid "Thumbnails"
+msgstr "लघुचित्रम्"
+
+msgid "Thursday"
+msgstr "बृहस्पतिवारः"
+
+msgid "TiB"
+msgstr "तिB"
+
+msgid "Tibetan"
+msgstr "तिब्बती"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "टाइल्"
+
+msgid "Tiled"
+msgstr "टाइल्युक्तम्"
+
+msgid "Tilt"
+msgstr "तिर्यक्"
+
+msgid "Time"
+msgstr "कालः"
+
+msgid "time"
+msgstr "कालः"
+
+msgid "Time: %1"
+msgstr "समयः %1"
+
+msgid "Time and Date"
+msgstr "समयः तिथिः च"
+
+msgid "Time Zone"
+msgstr "समयक्षेत्रम्"
+
+msgid "Timeline"
+msgstr "कालरेखा"
+
+msgid "Timeout"
+msgstr "समय समाप्त"
+
+msgid "Timer"
+msgstr "टाइमर"
+
+msgid "Timestamp"
+msgstr "समयमुद्रिका"
+
+msgid "Timezone"
+msgstr "समयक्षेत्रम्"
+
+msgid "Tiny"
+msgstr "तुच्छ"
+
+msgid "Title"
+msgstr "शीर्षक"
+
+msgid "title"
+msgstr "शीर्षक"
+
+msgid "&Title"
+msgstr "&शीर्षक"
+
+msgid "_Title"
+msgstr ""
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "इत्यस्मै"
+
+msgid "to"
+msgstr "इत्यस्मै"
+
+msgid "Tobias Fella"
+msgstr "टोबियास फेला"
+
+msgid "Today"
+msgstr "अद्य"
+
+msgid "today"
+msgstr "अद्य"
+
+msgid "TODO"
+msgstr "सर्वे"
+
+msgid "Todo"
+msgstr "सर्वे"
+
+msgid "Toggle Fullscreen"
+msgstr "पूर्णपर्दे टॉगलं कुर्वन्तु"
+
+msgid "Toggle Sidebar"
+msgstr "Toggle Sidebar इति"
+
+msgid "Toggle sidebar"
+msgstr "पार्श्वपट्टिकां टॉगलं कुर्वन्तु"
+
+msgid "Togo"
+msgstr "टोगो"
+
+msgid "Token"
+msgstr "टोकन"
+
+msgid "Tolerance"
+msgstr "सहनशीलता"
+
+msgid "Tomorrow"
+msgstr "श्वः"
+
+msgid "Tonga"
+msgstr "आगच्छत्"
+
+msgid "Tool"
+msgstr "उपकरण"
+
+msgid "Tool Options"
+msgstr "साधनविकल्पाः"
+
+msgid "_Toolbar"
+msgstr ""
+
+msgid "T_oolbar"
+msgstr ""
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "साधनपेटी"
+
+msgid "Tools"
+msgstr "उपकरणाः"
+
+msgid "&Tools"
+msgstr "&उपकरणाः"
+
+msgid "_Tools"
+msgstr ""
+
+msgid "Top"
+msgstr "उपरितन"
+
+msgid "_Top"
+msgstr ""
+
+msgid "Top Left"
+msgstr "उपरि वामभागे"
+
+msgid "Top left"
+msgstr "उपरि वामभागे"
+
+msgid "Top Right"
+msgstr "उपरि दक्षिणतः"
+
+msgid "Top right"
+msgstr "उपरि दक्षिणतः"
+
+msgid "Topic"
+msgstr "विषय"
+
+msgid "Top-left"
+msgstr "उपरि-वामम्"
+
+msgid "Top-right"
+msgstr "उपरि-दक्षिणम्"
+
+msgid "Total"
+msgstr "कुल"
+
+msgid "Track"
+msgstr "मार्ग"
+
+msgid "Track Number"
+msgstr "ट्रैक नम्बर"
+
+msgid "Tracker"
+msgstr "ट्रैकर"
+
+msgid "Tracks"
+msgstr "पटलाः"
+
+msgid "Traditional"
+msgstr "पारंपरिक"
+
+msgid "Transfer"
+msgstr "स्थानांतरण"
+
+msgid "Transform"
+msgstr "परिवर्तनं कुरुत"
+
+msgid "Transformation"
+msgstr ""
+
+msgid "Translate"
+msgstr "अनुवदति"
+
+msgid "Translation"
+msgstr "अनुवाद"
+
+msgid "Translator"
+msgstr "अनुवादक"
+
+msgid "translator-credits"
+msgstr "अनुवादक-क्रेडिट्स्"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "अनुवादकाः"
+
+msgid "Transparency"
+msgstr "पारदर्शिता"
+
+msgid "Transparent"
+msgstr "पारदर्शी"
+
+msgid "Transport"
+msgstr "परिवहन"
+
+msgid "Transpose"
+msgstr "स्थानान्तरणं कुर्वन्तु"
+
+msgid "Trash"
+msgstr "तुच्छद्रव्य"
+
+msgid "Travel"
+msgstr "यात्रा"
+
+msgid "Tree"
+msgstr "वृक्षः"
+
+msgid "Tree View"
+msgstr "वृक्षदृश्यम्"
+
+msgid "Triangle"
+msgstr "त्रिकोण"
+
+msgid "True"
+msgstr "सत्यम्‌"
+
+msgid "true"
+msgstr "सत्यम्‌"
+
+msgid "Trusted"
+msgstr "विश्वस्तः"
+
+msgid "Try a different search"
+msgstr ""
+
+msgid "Try Again"
+msgstr "पुनः प्रयासं कुरुत"
+
+msgid "Tuesday"
+msgstr "मङ्गलवारः"
+
+msgid "Tunisia"
+msgstr "ट्यूनीशिया"
+
+msgid "Turkey"
+msgstr "तुर्की"
+
+msgid "Turkish"
+msgstr "तुर्की"
+
+msgid "Turkmenistan"
+msgstr "तुर्कमेनिस्तान"
+
+msgid "Tuvalu"
+msgstr "तुवालु"
+
+msgid "TV"
+msgstr "टीवी"
+
+msgid "Twitter"
+msgstr "ट्विटर"
+
+msgid "TYPE"
+msgstr ""
+
+msgid "Type"
+msgstr "प्रकारः"
+
+msgid "type"
+msgstr "प्रकारः"
+
+msgid "&Type"
+msgstr "&प्रकारः"
+
+msgid "Type: %1"
+msgstr "प्रकारः %1"
+
+msgid "Uganda"
+msgstr "युगाण्डा"
+
+msgid "Ukraine"
+msgstr "युक्रेन"
+
+msgid "Ukrainian"
+msgstr "युक्रेनियन"
+
+msgid "Unable to create a temporary file."
+msgstr "अस्थायीसञ्चिकां निर्मातुं असमर्थः ।"
+
+msgid "unable to get editor plugin name: %s"
+msgstr ""
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+
+msgid "Unavailable"
+msgstr "अनुपलब्धम्"
+
+msgid "Undefined"
+msgstr "अनिर्दिष्टम्"
+
+msgid "Underline"
+msgstr "रेखांकनम्"
+
+msgid "&Underline"
+msgstr "&अधोरेखा"
+
+msgid "_Underline"
+msgstr ""
+
+msgid "Undo"
+msgstr "पूर्ववत"
+
+msgid "&Undo"
+msgstr "&Undo"
+
+msgid "_Undo"
+msgstr ""
+
+msgid "Undo %1"
+msgstr "%1 पूर्ववतं कुर्वन्तु"
+
+msgid "Undo History"
+msgstr "इतिहास पूर्ववत करें"
+
+msgid "UnFav it"
+msgstr "UnFav it"
+
+msgid "unhandled property “%s” type %s"
+msgstr ""
+
+msgid "Unicode"
+msgstr "यूनिकोड"
+
+msgid "Uniform"
+msgstr "समवस्त्र"
+
+msgid "Union"
+msgstr "संघ"
+
+msgid "Unit"
+msgstr "इंकाईं"
+
+msgid "United Arab Emirates"
+msgstr "संयुक्त अरब अमीरात"
+
+msgid "United Kingdom"
+msgstr "संयुक्त अधिराज्य"
+
+msgid "United States"
+msgstr "संयुक्त राज्य अमेरिका"
+
+msgid "United States Minor Outlying Islands"
+msgstr "संयुक्त राज्य अमेरिका लघु बाहरी द्वीप"
+
+msgid "Units"
+msgstr "इकाइयाँ"
+
+msgid "University"
+msgstr "विश्वविद्यालयं"
+
+msgid "Unknown"
+msgstr "अज्ञात"
+
+msgid "unknown"
+msgstr "अज्ञात"
+
+msgid "(unknown)"
+msgstr "(अज्ञात)"
+
+msgid "Unknown Error"
+msgstr "अज्ञातदोषः"
+
+msgid "Unknown error"
+msgstr "अज्ञातदोषः"
+
+msgid "Unknown error."
+msgstr "अज्ञातदोषः ।"
+
+msgid "unknown error creating editor instance"
+msgstr ""
+
+msgid "Unknown file type"
+msgstr "अज्ञातः सञ्चिकाप्रकारः"
+
+msgid "Unlimited"
+msgstr "असीमित"
+
+msgid "unlimited"
+msgstr "असीमित"
+
+msgid "Unlock"
+msgstr "अनलॉक"
+
+msgid "_Unlock"
+msgstr ""
+
+msgid "Unmount"
+msgstr "अनमाउंट"
+
+msgid "Unmute"
+msgstr "अप्रसन्नता"
+
+msgid "Unnamed"
+msgstr "अनामिका"
+
+msgid "unnamed"
+msgstr "अनामिका"
+
+msgid "Unread"
+msgstr "अपठित"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "असरक्षितपरिवर्तनानि"
+
+msgid "Unselect All"
+msgstr "All अचयनं कुर्वन्तु"
+
+msgid "Unselect all"
+msgstr "सर्वाणि अचयनं कुर्वन्तु"
+
+msgid "Unspecified"
+msgstr "अनिर्दिष्टम्"
+
+msgid "Untitled"
+msgstr "अनामिका"
+
+msgid "untitled"
+msgstr "अनामिका"
+
+msgid "Unused"
+msgstr "अप्रयुक्तः"
+
+msgid "Up"
+msgstr "उपरि"
+
+msgid "&Up"
+msgstr "&उपरि"
+
+msgid "Update"
+msgstr "अद्यतन"
+
+msgid "&Update"
+msgstr "&अद्यतन"
+
+msgid "_Update"
+msgstr ""
+
+msgid "Updates"
+msgstr "अद्यतनाः"
+
+msgid "Updating"
+msgstr "अद्यतनं कुर्वन्"
+
+msgid "Updating..."
+msgstr "अद्यतनं कुर्वन्..."
+
+msgid "Upload"
+msgstr "अपलोड करें"
+
+msgid "_Upload"
+msgstr ""
+
+msgid "Uploaded"
+msgstr "अपलोड् कृतम्"
+
+msgid "Upper"
+msgstr "ऊर्ध्वम्"
+
+msgid "Uppercase"
+msgstr "बृहत्"
+
+msgid "Urdu"
+msgstr "उर्दू"
+
+msgid "URI"
+msgstr "प्रकारः"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "उर्ल्"
+
+msgid "Uruguay"
+msgstr "उरुग्वे"
+
+msgid "US Letter"
+msgstr "अमेरिकी पत्र"
+
+msgid "Usage"
+msgstr "प्रयोगः"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "उपयुञ्जताम्‌"
+
+msgid "Used"
+msgstr "प्रयुक्त"
+
+msgid "User"
+msgstr "उपयोक्ता"
+
+msgid "User Certificate"
+msgstr "उपयोक्तृप्रमाणपत्रम् "
+
+msgid "User Defined"
+msgstr "उपयोक्ता परिभाषितम्"
+
+msgid "User Feedback"
+msgstr "उपयोक्तृप्रतिक्रिया"
+
+msgid "User ID"
+msgstr "उपयोक्तृपरिचयः"
+
+msgid "User Interface"
+msgstr "उपयोक्तृ-अन्तरफलकम्"
+
+msgid "User name"
+msgstr "उपयोक्तृनाम"
+
+msgid "User Password"
+msgstr "उपयोक्तृगुप्तशब्दः "
+
+msgid "Username"
+msgstr "उपयोक्तृनाम"
+
+msgid "_Username"
+msgstr ""
+
+msgid "Users"
+msgstr "उपयोक्तारः"
+
+msgid "Utilities"
+msgstr "उपयोगिताएँ"
+
+msgid "UUID"
+msgstr "यूयूआईडी"
+
+msgid "Uzbekistan"
+msgstr "उज्बेकिस्तान"
+
+msgid "V"
+msgstr "वि"
+
+msgid "%v%"
+msgstr "%v%"
+
+msgid "Valid"
+msgstr "मान्य"
+
+msgid "Valid from"
+msgstr "तः वैधम् "
+
+msgid "Validity"
+msgstr "वैधता"
+
+msgid "Value"
+msgstr "मूल्यम्‌"
+
+msgid "value"
+msgstr "मूल्यम्‌"
+
+msgid "&Value"
+msgstr "&मूल्यम्‌"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+
+msgid "Values"
+msgstr "मूल्यानि"
+
+msgid "Vanuatu"
+msgstr "वनुअतु"
+
+msgid "Variable"
+msgstr "चर"
+
+msgid "Variables"
+msgstr "चराः"
+
+msgid "Variance"
+msgstr "विचरणम्"
+
+msgid "Vector"
+msgstr "सदिश"
+
+msgid "Velocity"
+msgstr "वेगः"
+
+msgid "Vendor"
+msgstr "व"
+
+msgid "Venezuela"
+msgstr "वेनेजुएला"
+
+msgid "Verb"
+msgstr "क्रियापदम्"
+
+msgid "Verify"
+msgstr "सत्यापन"
+
+msgid "Version"
+msgstr "संस्करण"
+
+msgid "Version %1"
+msgstr "संस्करणम् %1"
+
+msgid "Vertical"
+msgstr "ऊर्ध्वाधर"
+
+msgid "Very Large"
+msgstr "अतीव विशालः"
+
+msgid "Video"
+msgstr "विडिओ"
+
+msgid "Video CD"
+msgstr "विडियो सीडी"
+
+msgid "Video Codec"
+msgstr ""
+
+msgid "Video Files"
+msgstr "विडियो सञ्चिकाः"
+
+msgid "Videos"
+msgstr "विडियो"
+
+msgid "Vietnam"
+msgstr "वियतनाम"
+
+msgid "Vietnamese"
+msgstr "वियतनामी"
+
+msgid "View"
+msgstr "दृश्यं"
+
+msgid "&View"
+msgstr "&दृश्यं"
+
+msgid "_View"
+msgstr ""
+
+msgid "View Options"
+msgstr "विकल्पान् पश्यन्तु"
+
+msgid "View Settings"
+msgstr "सेटिंग्स् पश्यन्तु"
+
+msgid "Viewer"
+msgstr "दर्शक"
+
+msgid "Views"
+msgstr "दृश्यम्"
+
+msgid "Virtual"
+msgstr "आभास"
+
+msgid "Virtual Keyboard"
+msgstr "आभासी कीबोर्ड"
+
+msgid "Visibility"
+msgstr "दृश्यता"
+
+msgid "Visible"
+msgstr "दृश्यमानम्"
+
+msgid "Voltage"
+msgstr "वोल्टेज"
+
+msgid "Volume"
+msgstr "मात्रा"
+
+msgid "Volume Down"
+msgstr "Volume Down इति"
+
+msgid "Volume Up"
+msgstr "Volume Up"
+
+msgid "W"
+msgstr "इत्यस्मिन्‌"
+
+msgid "w"
+msgstr "इत्यस्मिन्‌"
+
+msgid "Waiting"
+msgstr "उपास्ते"
+
+msgid "Wallpaper"
+msgstr "वॉलपेपर"
+
+msgid "Wallpaper type"
+msgstr "वॉलपेपर प्रकारः "
+
+msgid "WARNING"
+msgstr "चेतवानी"
+
+msgid "Warning"
+msgstr "चेतवानी"
+
+msgid "warning"
+msgstr "चेतवानी"
+
+msgid "Warnings"
+msgstr "चेतावनी"
+
+msgid "Water"
+msgstr "जलम्‌"
+
+msgid "Wave"
+msgstr "तरंगं"
+
+msgid "Weak"
+msgstr "सप्ताहः"
+
+msgid "Weather"
+msgstr "वातावरणम्‌"
+
+msgid "Web Browser"
+msgstr "जाल ब्राउज़र"
+
+msgid "Web browser"
+msgstr "जालपुटम्"
+
+msgid "Website"
+msgstr "वेबसाइट्"
+
+msgid "Wednesday"
+msgstr "बुधवारः"
+
+msgid "Week"
+msgstr "सप्ताहः"
+
+msgid "Week View"
+msgstr "सप्ताहदृश्यम्"
+
+msgid "Weekly"
+msgstr "साप्ताहिकम्"
+
+msgid "Weeks"
+msgstr "सप्ताहाः"
+
+msgid "weeks"
+msgstr "सप्ताहाः"
+
+msgid "Weight"
+msgstr "भारः"
+
+msgid "Welcome"
+msgstr "स्वागतम्‌"
+
+msgid "Welsh"
+msgstr "वेल्शभाषा"
+
+msgid "West"
+msgstr "पश्चिमाम्"
+
+msgid "Western"
+msgstr "पाश्चात्य"
+
+msgid "Western Sahara"
+msgstr "पश्चिम सहारा"
+
+msgid "What's new"
+msgstr "किं नवीनम्"
+
+msgid "Wheel"
+msgstr ""
+
+msgid "Whether sound effects should be played."
+msgstr "ध्वनिप्रभावाः वादनीयाः वा।"
+
+msgid "White"
+msgstr "श्वेतः"
+
+msgid "white"
+msgstr "श्वेतः"
+
+msgid "White Balance"
+msgstr "श्वेत संतुलन"
+
+msgid "Wide"
+msgstr "विस्तृतः"
+
+msgid "Widgets"
+msgstr "विजेटस्"
+
+msgid "Width"
+msgstr "विस्तार"
+
+msgid "&Width"
+msgstr "&विस्तार"
+
+msgid "_Width"
+msgstr ""
+
+msgid "Wi-Fi"
+msgstr "वाई-फाई"
+
+msgid "Wikipedia"
+msgstr "विकिपीडिया"
+
+msgid "Window"
+msgstr "कोष्ठ"
+
+msgid "&Window"
+msgstr "&कोष्ठ"
+
+msgid "&Window Color Scheme"
+msgstr "&विण्डो रङ्ग योजना"
+
+msgid "Window height"
+msgstr "खिडकी ऊर्ध्वता"
+
+msgid "Window Management"
+msgstr "गवाक्षस्य प्रबंधनम्"
+
+msgid "Window maximized"
+msgstr ""
+
+msgid "Window size"
+msgstr "खिडकी आकार"
+
+msgid "Window Title"
+msgstr "विण्डो शीर्षक"
+
+msgid "Window width"
+msgstr "खिडकी विस्तार"
+
+msgid "Windows"
+msgstr "विण्डोज"
+
+msgid "_Windows"
+msgstr ""
+
+msgid "with"
+msgstr "सह"
+
+msgid "Word"
+msgstr "शब्दः"
+
+msgid "Word Count"
+msgstr "शब्दगणना"
+
+msgid "Words"
+msgstr "शब्दाः"
+
+msgid "Work"
+msgstr "कार्यम्‌"
+
+msgid "World"
+msgstr "विश्वम्‌"
+
+msgid "Wrap"
+msgstr "उपवे"
+
+msgid "_Wrap around"
+msgstr ""
+
+msgid "Wrap Text"
+msgstr "पाठं लपेटयतु"
+
+msgid "Write"
+msgstr "लिखतु"
+
+msgid "Writing"
+msgstr "लेखन"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr ""
+
+msgid "Y"
+msgstr "तथा"
+
+msgid "y"
+msgstr "तथा"
+
+msgid "_Y"
+msgstr ""
+
+msgid "Year"
+msgstr "वर्ष"
+
+msgid "Yearly"
+msgstr "वार्षिकम्"
+
+msgid "Years"
+msgstr "वर्षाः"
+
+msgid "years"
+msgstr "वर्षाः"
+
+msgid "Yellow"
+msgstr "पीतं"
+
+msgid "yellow"
+msgstr "पीतं"
+
+msgid "Yemen"
+msgstr "यमन"
+
+msgid "Yes"
+msgstr "आम्‌"
+
+msgid "yes"
+msgstr "आम्‌"
+
+msgid "_Yes"
+msgstr ""
+
+msgid "Yesterday"
+msgstr "ह्यः"
+
+msgid "Yiddish"
+msgstr "यिद्दिश"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+
+msgid "Yukon"
+msgstr "युकोन्"
+
+msgid "Z"
+msgstr "सह"
+
+msgid "Zambia"
+msgstr "जाम्बिया"
+
+msgid "Zero"
+msgstr "शून्य"
+
+msgid "Zimbabwe"
+msgstr "जिम्बाब्वे"
+
+msgid "Zoom"
+msgstr "जूम"
+
+msgid "&Zoom"
+msgstr "&ज़ूम"
+
+msgid "_Zoom"
+msgstr ""
+
+msgid "Zoom In"
+msgstr "Zoom In इति"
+
+msgid "Zoom in"
+msgstr "जूम इन करें"
+
+msgid "Zoom &In"
+msgstr "जूम &In"
+
+msgid "Zoom _In"
+msgstr ""
+
+msgid "Zoom Out"
+msgstr "Zoom Out इति"
+
+msgid "Zoom out"
+msgstr "जूम आउट् कुर्वन्तु"
+
+msgid "Zoom &Out"
+msgstr "जूम &आउट"
+
+msgid "Zoom _Out"
+msgstr ""
+
+msgid "Zoom to Fit"
+msgstr "Zoom to Fit इति"

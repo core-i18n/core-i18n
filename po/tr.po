@@ -7,1437 +7,9459 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "Ana Araç Çubuğu"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "Genel"
+msgid "#"
+msgstr "#"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "Kaldır"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "İptal"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "&Dosya"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "Sil"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "Hiçbiri"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "Ad"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "Projeyi Yürüten"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "Ad:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "Dü&zen"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "Ayar&lar"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "Hata"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "&Görünüm"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "Ekle"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "Parola:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "Geliştirici"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "Yazar"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "Kapat"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "Seçenekler"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "Ayarlar"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "Bilinmeyen"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "&Araçlar"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "Tür"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "&Sil"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "Düzenle"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "Kaydet"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "Açıklama"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "Açıklama:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "Tarih"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "Dosya"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "Önizleme"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "Yapılandır"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "Görünüş"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "Özellikler"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "Tür:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "Boyut"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "&Kaldır"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "Ara"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "Öntanımlı"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "Kullanıcı adı:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&Yardım"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "Kopyala"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "Durdur"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "Görünüm"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "Uyarı"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "Normal"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "Yeniden Adlandır"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "Evet"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "Gelişmiş"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "Hayır"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "Durum"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "Metin"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "Değer"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "Renkler"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "Pencere"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "Başlık"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "Asıl yazar"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "Ara..."
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "Ekle..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "Bilgi"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "Zaman"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "Açıklama"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "Yükseklik:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "Sol"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "Yeni"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "Aç"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "Boyut:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "Genişlik:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "Kapı:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "Sağ"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "Farklı Kaydet"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "Başlık:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&Dışa Aktar"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "Otomatik"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "Temizle"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "Oluştur"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "Dışa Aktar"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "Yardım"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "Tamam"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "&Ad:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "Kimlik Doğrulama"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "Ayrıntılar"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "Süzgeç"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "Yok Say"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "Görsel"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "Konum:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "Yenile"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "Tümü"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "Orta"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "Özel"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "Yazıtipi"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "Ekle"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "Asla"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "Araçlar"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "Geri Al"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "Başlıksız"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "G&it"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "Düzenle..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "Etkin"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "İçe Aktar"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "Konum"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "Aşağı Taşı"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "Yukarı Taşı"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "Tümünü Seç"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "Güncelle"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "&Ekle"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "Hakkında"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "Açıklama:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "Yapılandır..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "Dosya adı:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "Genel Ayarlar"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "Sonraki"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "Diğer"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "Seç"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "Üst"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "Dikey"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "&Kapat"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "Yazar:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "Etkinleştir"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "Yatay"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "İçe Aktar..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "Yinele"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "Reddet"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "Değiştir"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "Dü&zenle..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "Eylemler"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "Her zaman"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "Yer İmleri"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "Tarih:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "Dışa Aktar..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "Bilgi"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "Numara"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "Özgün Yazar"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "Oynat"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "Yeniden Yükle"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "Başlat"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "Etiketler"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "Tema"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "Kime:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%​%1"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "&Yeni"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "Kabul Et"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "Arka Plan"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "Renk:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "Komut"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "Devre dışı"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "Tamamlandı"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "Yazıtipleri"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "Kimden:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "Çizgi"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "Diğer"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "Ağ"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "Yapıştır"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "Duraklat"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "Konum"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "bilinmeyen"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "Yapılandır"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " ms"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "Uygula"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "Otomatik"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "Alt"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "Sütunlar"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "İndir"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "Düzenleyici"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "Yazıtipi:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "Biçim"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "Kimden"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "Dil"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "Çeşitli"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "Dosya Aç"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "Parola"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "Hazır"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "Sıfırla"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "Konu"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "Kime"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "Yakınlaştırma"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "İ&ptal"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "Hesap:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "Tüm Dosyalar"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "Siyah"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "Kalın"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "Sürdür"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "Veri"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "Hedef"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "E-posta:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "Klasör"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "Grup"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "Simge:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "Yatık"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "Yerleşim"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "Orta"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "İleti"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "Eklentiler"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "Önceki"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "Kırmızı"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "Farklı Kaydet..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "Kaynak"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "Durum"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "Bilinmeyen hata"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "Yukarı"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "Genişlik"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "Ad"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "&Ekle..."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "&Kaydet"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "Uygulamalar"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "Geri"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "Davranış"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "BÜYÜK/küçük harf duyarlı"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "Panoya Kopyala"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "Şu anki bakımcı"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "Hata Ayıkla"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "Biçim:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "Uzunluk"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "Elle"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "Kip"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "Çıktı"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "Yol:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "Konum:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "Seçim"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "Paylaş"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "Biçem"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "Yakınlaştır"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "Uzaklaştır"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "&Oyun"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "&İçe Aktar"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&Ara"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "Tüm Dosyalar (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "Mavi"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "Renk"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "Bağlan"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "Ülke"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "Belgelendirme"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "Aşağı"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "E-posta"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "Dosya Adı"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "Klasörler"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "Yeşil"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "Görseller"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "Etiket"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "Düşük"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "Ay"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "Sesi Kapat"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "Çık"
-
-#. Occurs in 12 KDE PO files
-msgid "Search…"
-msgstr "Ara…"
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "Durum:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "Tablo"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "Etiket"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "MetinEtiketi"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "Yıl"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "hayır"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "evet"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " pks"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "Y&er İmleri"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "&Genel"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "&Yeni..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "&Aç"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "&Dur"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "Hesap"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "Hesap Tercihleri"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "Eylem"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "Arka Plan Rengi"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "Kategoriler"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "Kategori"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "Kategori:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "Tümünü Daralt"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "Kes"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "Gerçek arka uç verisini değiştirmeyin."
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "Tümünü Genişlet"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "Dosya adı"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter..."
-msgstr "Süz..."
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "Süz:"
-
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "Ağ Geçidi:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "Geometri"
-
-#. Occurs in 11 KDE PO files
-msgid "Harald Sitter"
-msgstr "Harald Sitter"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "Yükseklik"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "Ana Klasör"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "Simgeler"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "Anahtar"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "Çizgiler"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "Liste"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "Yükleniyor..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "Ay"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "Taşı"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "Takma ad:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "Not"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "İçeren Klasörü Aç"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "Dosya Üzerine Yazılsın mı?"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "Yeniden Başlat"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "Çalıştır"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "Ara:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "Gönder"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "Sunucu:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "Hız"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "URL"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "URL:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "Kullanıcı:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "dakika"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "Hata"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "Ko&pyala"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr "?"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "…"
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " ve "
+
+msgid " (default)"
+msgstr " (öntanımlı)"
+
+msgid "© KDE Community"
+msgstr "© KDE Topluluğu"
+
+msgid " MB"
+msgstr " MB"
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " dk"
+
+msgid " minutes"
+msgstr " dakika"
+
+msgid " ms"
+msgstr " ms"
+
+msgid " px"
+msgstr " pks"
+
+msgid " s"
+msgstr " sn"
+
+msgid " sec"
+msgstr " sn"
+
+msgid " seconds"
+msgstr " saniye"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "%​0"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%​%1"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%​%1"
+
+msgid "%1 - %2"
+msgstr "%1 — %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%​%2)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 ve %2"
+
+msgid "%1 bytes"
+msgstr "%1 bayt"
+
+msgid "1 day"
+msgstr "1 gün"
+
+msgid "%1 does not exist"
+msgstr "%1 yok"
+
+msgid "%1 free"
+msgstr "%1 boş"
+
+msgid "1 hour"
+msgstr "1 saat"
+
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgid "%1 ms"
+msgstr "%1 ms"
+
+msgid "%1 of %2"
+msgstr "%1/%2"
+
+msgid "%1 on %2"
+msgstr "%2 üzerinde %1"
+
+msgid "%1 s"
+msgstr "%1 sn"
+
+msgid "%1 seconds"
+msgstr "%1 saniye"
+
+msgid "%1 to %2"
+msgstr "%1 → %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 dakika"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "%​100"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "128 bit"
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 dakika"
+
+msgid "150%"
+msgstr "%​150"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1 dk"
+
+msgid "%1/s"
+msgstr "%1/sn"
+
+msgid "1st"
+msgstr "1."
+
+msgid "%1x%2"
+msgstr "%1 × %2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "%​200"
+
+msgid "25%"
+msgstr "%​25"
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 dakika"
+
+msgid "300%"
+msgstr "%​300"
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "%400"
+
+msgid "4th"
+msgstr "4."
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 dakika"
+
+msgid "50%"
+msgstr "%​50"
+
+msgid "5th"
+msgstr "5."
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "%​75"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"“%1” adlı bir dosya hâlihazırda var. Üzerine yazmak istediğinizden emin "
+"misiniz?"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
-msgstr "İptal"
+msgstr "İptal Et"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "Gelişmiş Seçenekler"
+msgid "&Abort"
+msgstr "&Durdur"
 
-#. Occurs in 10 KDE PO files
-msgid "Album"
-msgstr "Albüm"
+msgid "Aborted"
+msgstr "İptal edildi"
 
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
+msgid "About"
+msgstr "Hakkında"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "&About"
+msgstr "&Hakkında"
 
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
-msgstr "İ&ptal"
+msgid "_About"
+msgstr "_Hakkında"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "Geçmişi Temizle"
+msgid "About %1"
+msgstr "%1 Hakkında"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "Sıkıştırma"
+msgid "About KDE"
+msgstr "KDE Hakkında"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "Kişiler"
+msgid "Abstract"
+msgstr "Özet"
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "Telif hakkı"
+msgid "Accept"
+msgstr "Kabul Et"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "Aygıt:"
+msgid "Accepted"
+msgstr "Kabul Edildi"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "Bağlantıyı Kes"
+msgid "Accessed"
+msgstr "Erişim"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "Süre"
+msgid "Accessibility"
+msgstr "Erişilebilirlik"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "Hata: %1"
+msgid "Account"
+msgstr "Hesap"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Account Details"
+msgstr "Hesap Ayrıntıları"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "Dosya:"
+msgid "Account Information"
+msgstr "Hesap Bilgisi"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "Dosyalar"
+msgid "Account Name"
+msgstr "Hesap Adı"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "Bul"
+msgid "Accounts"
+msgstr "Hesaplar"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "İşlev"
+msgid "Accuracy"
+msgstr "Doğruluk"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "Grup:"
+msgid "Action"
+msgstr "Eylem"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "Menü çubuğunu gizle"
+msgid "Actions"
+msgstr "Eylemler"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "Yüksek"
+msgid "Activate"
+msgstr "Etkinleştir"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "Geçmiş"
+msgid "Active"
+msgstr "Etkin"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "Activities"
+msgstr "Etkinlikler"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "Y&ukarı Taşı"
+msgid "Activity"
+msgstr "Etkinlik"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "Bildirimler"
+msgid "Adaptive"
+msgstr "Uyarlanır"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "Organizasyon"
-
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "Yol"
-
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "Kapı"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "Öncelik"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "Öncelik:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "Proje"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "Grubu Kaldır"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "Boşluk"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "Bugün"
-
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "Değer:"
-
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "Sürüm"
-
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "Sürüm:"
-
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "Video"
-
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "Yıl"
-
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
 msgid "Add"
 msgstr "Ekle"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
+msgid "&Add"
+msgstr "&Ekle"
+
+msgid "_Add"
+msgstr "_Ekle"
+
+msgid "Add..."
+msgstr "Ekle…"
+
+msgid "&Add..."
+msgstr "&Ekle…"
+
+msgid "A&dd..."
+msgstr "E&kle…"
+
+msgid "Add Account"
+msgstr "Hesap Ekle"
+
+msgid "Add Bookmark"
+msgstr "Yer İmi Koy"
+
+msgid "_Add Bookmark"
+msgstr ""
+
+msgid "Add Filter"
+msgstr "Süzgeç Ekle"
+
+msgid "Add Folder"
+msgstr "Klasör Ekle"
+
+msgid "Add Folder..."
+msgstr "Klasör Ekle…"
+
+msgid "Add Group"
+msgstr "Grup Ekle"
+
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+msgid "Add Rule..."
+msgstr "Kural Ekle…"
+
+msgid "Add Tag"
+msgstr "Künye Ekle"
+
+msgid "Add tag"
+msgstr "Künye Ekle"
+
+msgid "Add to Dictionary"
+msgstr "Sözlüğe Ekle"
+
+msgid "Add to Favorites"
+msgstr "Sık Kullanılanlara Ekle"
+
+msgid "Added"
+msgstr "Eklendi"
+
+msgid "Addition"
+msgstr "Toplama"
+
+msgid "Additional Information"
+msgstr "Ek Bilgi"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Address Book"
+msgstr "Adres Defteri"
+
+msgid "Addresses"
+msgstr "Adresler"
+
+msgid "Adjust"
+msgstr "Ayarla"
+
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+msgid "Advanced..."
+msgstr "Gelişmiş…"
+
+msgid "Ad_vanced..."
+msgstr "Ge_lişmiş…"
+
+msgid "Advanced options"
+msgstr "Gelişmiş Seçenekler"
+
+msgid "Advanced Properties"
+msgstr "Gelişmiş Özellikler"
+
+msgid "Advanced Settings"
+msgstr "Gelişmiş Ayarlar"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "Afrikaans"
+msgstr "Afrikaanca"
+
+msgid "After"
+msgstr "Sonra"
+
+msgid "Agenda"
+msgstr "Ajanda"
+
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Alarms"
+msgstr "Alarmlar"
+
+msgid "Albania"
+msgstr "Arnavutluk"
+
+msgid "Albanian"
+msgstr "Arnavutça"
+
+msgid "Albert Vaca Cintora"
+msgstr "Albert Vaca Cintora"
+
+msgid "Album"
+msgstr "Albüm"
+
+msgid "Album Artist"
+msgstr "Albüm Sanatçısı"
+
+msgid "Albums"
+msgstr "Albümler"
+
+msgid "Alert"
+msgstr "İkaz"
+
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+msgid "Algeria"
+msgstr "Cezayir"
+
+msgid "Algorithm"
+msgstr "Algoritma"
+
+msgid "Alias"
+msgstr "Arma"
+
+msgid "Aliases"
+msgstr "Armalar"
+
+msgid "Align"
+msgstr "Hizala"
+
+msgid "Align Bottom"
+msgstr "Aşağı Hizala"
+
+msgid "Align Center"
+msgstr "Merkeze Hizala"
+
+msgid "Align Left"
+msgstr "Sola Hizala"
+
+msgid "Align left"
+msgstr "Sola hizala"
+
+msgid "Align Right"
+msgstr "Sağa Hizala"
+
+msgid "Align right"
+msgstr "Sağa hizala"
+
+msgid "Align Top"
+msgstr "Yukarı Hizala"
+
+msgid "Alignment"
+msgstr "Hizalama"
+
+msgid "All"
+msgstr "Tümü"
+
+msgid "all"
+msgstr "tümü"
+
+msgid "_All"
+msgstr "_Tümü"
+
+msgid "All Files"
+msgstr "Tüm Dosyalar"
+
+msgid "All files"
+msgstr "Tüm dosyalar"
+
+msgid "All Files (*)"
+msgstr "Tüm Dosyalar (*)"
+
+msgid "All files (*)"
+msgstr "Tüm dosyalar (*)"
+
+msgid "All Supported Files"
+msgstr "Desteklenen Tüm Dosyalar"
+
+msgid "Allen Winter"
+msgstr "Allen Winter"
+
+msgid "Allow"
+msgstr "İzin Ver"
+
+msgid "Allow Deflate compression"
+msgstr "Deflate Sıkıştırmasına İzin Ver"
+
+msgid "Alpha"
+msgstr "Alfa"
+
+msgid "Alphabetically"
+msgstr "Abecesel"
+
+msgid "Alt"
+msgstr "Seçenek"
+
+msgid "Alternative"
+msgstr "Alternatif"
+
+msgid "Always"
+msgstr "Her zaman"
+
+msgid "Always ask"
+msgstr "Her zaman sor"
+
+msgid "Always visible"
+msgstr "Her zaman görünür"
+
+msgid "AM"
+msgstr "ÖÖ"
+
+msgid "Ambient"
+msgstr "Ortam"
+
+msgid "Amount"
+msgstr "Tutar"
+
+msgid "An error occurred"
+msgstr "Bir hata oluştu"
+
+msgid "An unknown error occurred."
+msgstr "Bilinmeyen bir hata oluştu."
+
+msgid "Analysis"
+msgstr "Çözümleme"
+
+msgid "Anchor"
+msgstr "Çapa"
+
+msgid "AND"
+msgstr "AND"
+
+msgid "and"
+msgstr "ve"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "Açı"
+
+msgid "angle"
+msgstr "açı"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animation"
+msgstr "Canlandırma"
+
+msgid "Animations"
+msgstr "Canlandırmalar"
+
+msgid "Anniversary"
+msgstr "Yıl Dönümü"
+
+msgid "Annotate"
+msgstr "Ek Açıklama Ekle"
+
+msgid "Annotation"
+msgstr "Ek Açıklama"
+
+msgid "Annotations"
+msgstr "Ek Açıklamalar"
+
+msgid "Anonymous"
+msgstr "Anonim"
+
+msgid "Antarctica"
+msgstr "Antarktika"
+
+msgid "Any"
+msgstr "Herhangi biri"
+
+msgid "Aperture"
+msgstr "Açıklık"
+
+msgid "Appearance"
+msgstr "Görünüş"
+
+msgid "Append"
+msgstr "İliştir"
+
+msgid "AppImage"
+msgstr "AppImage"
+
+msgid "Application"
+msgstr "Uygulama"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "Uygulama Menüsü"
+
+msgid "Applications"
+msgstr "Uygulamalar"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "&Apply"
+msgstr "&Uygula"
+
+msgid "_Apply"
+msgstr "_Uygula"
+
+msgid "Apply Settings"
+msgstr "Ayarları Uygula"
+
+msgid "April"
+msgstr "Nisan"
+
+msgid "Arabic"
+msgstr "Arapça"
+
+msgid "Archive"
+msgstr "Arşiv"
+
+msgid "Archives"
+msgstr "Arşivler"
+
+msgid "Area"
+msgstr "Alan"
+
+msgid "Argentina"
+msgstr "Arjantin"
+
+msgid "Arguments"
+msgstr "Argümanlar"
+
+msgid "Armenia"
+msgstr "Ermenistan"
+
+msgid "Armenian"
+msgstr "Ermenice"
+
+msgid "Arrow"
+msgstr "Ok"
+
+msgid "Arrows"
+msgstr "Oklar"
+
+msgid "Articles"
+msgstr "Yazılar"
+
+msgid "Artist"
+msgstr "Sanatçı"
+
+msgid "Artists"
+msgstr "Sanatçılar"
+
+msgid "Artwork"
+msgstr "Sanatsal işler"
+
+msgid "Ascending"
+msgstr "Artan"
+
+msgid "Asia"
+msgstr "Asya"
+
+msgid "Ask"
+msgstr "Sor"
+
+msgid "Aspect Ratio"
+msgstr "En Boy Oranı"
+
+msgid "Aspect ratio"
+msgstr "En boy oranı"
+
+msgid "Assamese"
+msgstr "Assamca"
+
+msgid "Assign Tags"
+msgstr "Künyeler Ata"
+
+msgid "Assistant"
+msgstr "Yardımcı"
+
+msgid "ATM"
+msgstr "Bankamatik"
+
+msgid "Attach"
+msgstr "İliştir"
+
+msgid "Attach File"
+msgstr "Dosya İliştir"
+
+msgid "Attachment"
+msgstr "Ek"
+
+msgid "Attachments"
+msgstr "Ekler"
+
+msgid "Attendees"
+msgstr "Katılımcılar"
+
+msgid "Attribute"
+msgstr "Öznitelik"
+
+msgid "Attributes"
+msgstr "Öznitelikler"
+
+msgid "Audio"
+msgstr "Ses"
+
+msgid "Audio CD"
+msgstr "Ses CD’si"
+
+msgid "Audio Codec"
+msgstr "Ses Kodlayıcısı"
+
+msgid "Audio files"
+msgstr "Ses dosyaları"
+
+msgid "August"
+msgstr "Ağustos"
+
+msgid "Australia"
+msgstr "Avustralya"
+
+msgid "Austria"
+msgstr "Avusturya"
+
+msgid "Authenticate"
+msgstr "Kimlik Doğrula"
+
+msgid "Authenticate VPN"
+msgstr "VPN Kimlik Doğrulaması"
+
+msgid "Authentication"
+msgstr "Kimlik Doğrulama"
+
+msgid "Authentication Required"
+msgstr "Kimlik Doğrulama Gerekiyor"
+
+msgid "Author"
+msgstr "Yazar"
+
+msgid "Authors"
+msgstr "Yazarlar"
+
+msgid "Auto"
+msgstr "Kendiliğinden"
+
+msgid "auto"
+msgstr "kendiliğinden"
+
+msgid "Auto Detect"
+msgstr "Kendiliğinden Algıla"
+
+msgid "Auto Save"
+msgstr "Otomatik Kaydet"
+
+msgid "Autodetect"
+msgstr "Kendiliğinden Algıla"
+
+msgid "Automatic"
+msgstr "Kendiliğinden"
+
+msgid "Autosave interval"
+msgstr "Otomatik kaydetme aralığı"
+
+msgid "Available"
+msgstr "Kullanılabilir"
+
+msgid "A&vailable actions"
+msgstr "&Kullanılabilir eylemler"
+
+msgid "Average"
+msgstr "Ortalama"
+
+msgid "Axes"
+msgstr "Eksenler"
+
+msgid "Azerbaijan"
+msgstr "Azerbaycan"
+
+msgid "Azerbaijani"
+msgstr "Azerbaycanca"
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "&Back"
+msgstr "&Geri"
+
+msgid "_Back"
+msgstr "_Geri"
+
+msgid "Background"
+msgstr "Arka Plan"
+
+msgid "Background Color"
+msgstr "Arka Plan Rengi"
+
+msgid "Background color"
+msgstr "Arka plan rengi"
+
+msgid "&Background color"
+msgstr "&Arka plan rengi"
+
+msgid "Backspace"
+msgstr "Geri Sil"
+
+msgid "Backup"
+msgstr "Yedekle"
+
+msgid "Bahamas"
+msgstr "Bahamalar"
+
+msgid "Bahrain"
+msgstr "Bahreyn"
+
+msgid "Balance"
+msgstr "Bakiye"
+
+msgid "Balanced"
+msgstr "Dengeli"
+
+msgid "Baltic"
+msgstr "Baltık"
+
+msgid "Bangladesh"
+msgstr "Bangladeş"
+
+msgid "Bank"
+msgstr "Banka"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Base"
+msgstr "Taban"
+
+msgid "Basic"
+msgstr "Temel"
+
+msgid "Basque"
+msgstr "Baskça"
+
+msgid "Bass"
+msgstr "Bas"
+
+msgid "Battery"
+msgstr "Pil"
+
+msgid "Bcc"
+msgstr "Gizli Kopya"
+
+msgid "Before"
+msgstr "Önce"
+
+msgid "Behavior"
+msgstr "Davranış"
+
+msgid "Belarus"
+msgstr "Beyaz Rusya"
+
+msgid "Belarusian"
+msgstr "Beyaz Rusça"
+
+msgid "Belgium"
+msgstr "Belçika"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Bengali"
+msgstr "Bengalce"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Best"
+msgstr "En İyi"
+
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgid "Bibliography"
+msgstr "Bibliyografya"
+
+msgid "Binary"
+msgstr "İkili"
+
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+msgid "Bitrate"
+msgstr "Bit Hızı"
+
+msgid "Black"
+msgstr "Siyah"
+
+msgid "black"
+msgstr "siyah"
+
+msgid "Blend"
+msgstr "Harmanla"
+
+msgid "Block"
+msgstr "Blok"
+
+msgid "Block Elements"
+msgstr "Blok Ögeler"
+
+msgid "Blocked"
+msgstr "Engelli"
+
+msgid "Blue"
+msgstr "Mavi"
+
+msgid "Blues"
+msgstr "Blues"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Blur"
+msgstr "Bulanıklaştır"
+
+msgid "<b>Name:</b>"
+msgstr "<b>Ad:</b>"
+
+msgid "Body"
+msgstr "Gövde"
+
+msgid "Bold"
+msgstr "Kalın"
+
+msgid "&Bold"
+msgstr "&Kalın"
+
+msgid "_Bold"
+msgstr "_Kalın"
+
+msgid "Bold text"
+msgstr "Kalın metin"
+
+msgid "Bolivia"
+msgstr "Bolivya"
+
+msgid "Book"
+msgstr "Kitap"
+
+msgid "Bookmark"
+msgstr "Yer İmi"
+
+msgid "Bookmarks"
+msgstr "Yer İmleri"
+
+msgid "&Bookmarks"
+msgstr "Y&er İmleri"
+
+msgid "_Bookmarks"
+msgstr "_Yer İmleri"
+
+msgid "Boolean"
+msgstr "Boole"
+
+msgid "Border"
+msgstr "Kenarlık"
+
+msgid "Bosnian"
+msgstr "Boşnakça"
+
+msgid "Both"
+msgstr "Her ikisi de"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Bottom"
+msgstr "Alt"
+
+msgid "_Bottom"
+msgstr "_Alt"
+
+msgid "Bottom Left"
+msgstr "Sol Alt"
+
+msgid "Bottom Right"
+msgstr "Sağ Alt"
+
+msgid "Bottom-left"
+msgstr "Sol alt"
+
+msgid "Bottom-right"
+msgstr "Sağ alt"
+
+msgid "Box"
+msgstr "Kutu"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Branch"
+msgstr "Dal"
+
+msgid "Brazil"
+msgstr "Brezilya"
+
+msgid "Breeze"
+msgstr "Esinti"
+
+msgid "Breeze by the KDE VDG"
+msgstr "KDE Görsel Tasarım grubundan Esinti"
+
+msgid "Breeze Dark"
+msgstr "Esinti Koyu"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "KDE Görsel Tasarım grubundan Esinti Koyu"
+
+msgid "Breton"
+msgstr "Bretonca"
+
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+msgid "Bridge"
+msgstr "Köprü"
+
+msgid "Brightness"
+msgstr "Parlaklık"
+
+msgid "Broken"
+msgstr "Bozuk"
+
+msgid "Browse"
+msgstr "Göz At"
+
+msgid "Browse..."
+msgstr "Göz At…"
+
+msgid "_Browse..."
+msgstr "_Göz At..."
+
+msgid "Browser"
+msgstr "Tarayıcı"
+
+msgid "Buffer"
+msgstr "Arabellek"
+
+msgid "Bug fixes"
+msgstr "Hata düzeltmeleri"
+
+msgid "Build"
+msgstr "Yap"
+
+msgid "Built-in Screen"
+msgstr "Yerleşik Ekran"
+
+msgid "Bulgaria"
+msgstr "Bulgaristan"
+
+msgid "Bulgarian"
+msgstr "Bulgarca"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burn"
+msgstr "Yak"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Bus"
+msgstr "Otobüs"
+
+msgid "Busy"
+msgstr "Meşgûl"
+
+msgid "Butt"
+msgstr "Kıç"
+
+msgid "Button"
+msgstr "Düğme"
+
+msgid "Buttons"
+msgstr "Düğmeler"
+
+msgid "by"
+msgstr "tarafından"
+
+msgid "By %1"
+msgstr "%1 tarafından"
+
+msgid "By extension"
+msgstr "Uzantısına göre"
+
+msgid "Bytes"
+msgstr "Bayt"
+
+msgid "bytes"
+msgstr "bayt"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "CA sertifikası"
+
+msgid "Cache"
+msgstr "Önbellek"
+
+msgid "Calculate"
+msgstr "Hesapla"
+
+msgid "Calculating..."
+msgstr "Hesaplanıyor…"
+
+msgid "Calculator"
+msgstr "Hesap Makinesi"
+
+msgid "Calendar"
+msgstr "Takvim"
+
+msgid "Calendars"
+msgstr "Takvimler"
+
+msgid "Call"
+msgstr "Ara"
+
+msgid "Calls"
+msgstr "Çağrılar"
+
+msgid "Cambodia"
+msgstr "Kamboçya"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "Cameroon"
+msgstr "Kamerun"
+
+msgid "Canada"
+msgstr "Kanada"
+
 msgid "Cancel"
 msgstr "İptal"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "&Cancel"
+msgstr "İ&ptal"
+
+msgid "_Cancel"
+msgstr "İ_ptal"
+
+msgid "C&ancel"
+msgstr "İ&ptal"
+
+msgid "Canceled"
+msgstr "İptal edildi"
+
+msgid "Cancelled"
+msgstr "İptal Edildi"
+
+msgid "cannot load editor plugin: %s"
+msgstr "düzenleyici eklentisi yüklenemedi: %s"
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr "üretici %s eklentiden yüklenemedi: %s"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "Tuval"
+
+msgid "Capabilities"
+msgstr "Yetenekler"
+
+msgid "Capacity"
+msgstr "Sığa"
+
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+msgid "Capitalize"
+msgstr "Karakterleri Büyüt"
+
+msgid "Caps Lock is on"
+msgstr "Büyük Harf açık"
+
+msgid "Capture"
+msgstr "Yakala"
+
+msgid "Car"
+msgstr "Araba"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "Basamakla"
+
+msgid "Case Sensitive"
+msgstr "BÜYÜK/küçük Harf Duyarlı"
+
+msgid "Case sensitive"
+msgstr "BÜYÜK/küçük harf duyarlı"
+
+msgid "Castle"
+msgstr "Kale"
+
+msgid "Catalan"
+msgstr "Katalanca"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "CC"
+msgstr "Kopya"
+
+msgid "Cc"
+msgstr "Kopya"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "Hücre"
+
+msgid "Celsius"
+msgstr "Santigrat"
+
+msgid "Celtic"
+msgstr "Kelt"
+
+msgid "Center"
+msgstr "Orta"
+
+msgid "Centered"
+msgstr "Ortalanmış"
+
+msgid "Centimeters"
+msgstr "Santimetre"
+
+msgid "Centimeters (cm)"
+msgstr "Santimetre (cm)"
+
+msgid "Central"
+msgstr "Merkez"
+
+msgid "Central African Republic"
+msgstr "Orta Afrika Cumhuriyeti"
+
+msgid "Central European"
+msgstr "Orta Avrupa"
+
+msgid "Certificate"
+msgstr "Sertifika"
+
+msgid "Certificates (TLS)"
+msgstr "Sertifikalar (TLS)"
+
+msgid "Chad"
+msgstr "Çad"
+
+msgid "Change"
+msgstr "Değiştir"
+
+msgid "Change..."
+msgstr "Değiştir…"
+
+msgid "Changed"
+msgstr "Değiştirildi"
+
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Channels"
+msgstr "Kanallar"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "Fasıl"
+
+msgid "Chapters"
+msgstr "Fasıllar"
+
+msgid "Character"
+msgstr "Karakter"
+
+msgid "Characters"
+msgstr "Karakterler"
+
+msgid "Charging"
+msgstr "Şarj oluyor"
+
+msgid "Chart"
+msgstr "Çizelge"
+
+msgid "Chat"
+msgstr "Sohbet"
+
+msgid "Check"
+msgstr "Denetle"
+
+msgid "Check for updates"
+msgstr "Güncellemeleri denetle"
+
+msgid "Check Spelling"
+msgstr "Yazım Denetimi Yap"
+
+msgid "Checkbox"
+msgstr "Onay kutusu"
+
+msgid "Checkout"
+msgstr "Çıkış Yap"
+
+msgid "Cherokee"
+msgstr "Cherokee"
+
+msgid "Children"
+msgstr "Alt Öge"
+
+msgid "Chile"
+msgstr "Şili"
+
+msgid "China"
+msgstr "Çin"
+
+msgid "Chinese"
+msgstr "Çince"
+
+msgid "Chinese Simplified"
+msgstr "Basitleştirilmiş Çince"
+
+msgid "Chinese Traditional"
+msgstr "Geleneksel Çince"
+
+msgid "Choose"
+msgstr "Seç"
+
+msgid "Choose..."
+msgstr "Seç…"
+
+msgid "Cinema"
+msgstr "Sinema"
+
+msgid "Circle"
+msgstr "Çember"
+
+msgid "City"
+msgstr "Şehir"
+
+msgid "Class"
+msgstr "Sınıf"
+
+msgid "Classes"
+msgstr "Sınıflar"
+
+msgid "Classic"
+msgstr "Klasik"
+
+msgid "Classical"
+msgstr "Klasik"
+
+msgid "Clean"
+msgstr "Temizle"
+
+msgid "Cleanup"
+msgstr "Temizle"
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid "&Clear"
+msgstr "&Temizle"
+
+msgid "_Clear"
+msgstr "_Temizle"
+
+msgid "C&lear"
+msgstr "&Temizle"
+
+msgid "Clear All"
+msgstr "Tümünü Temizle"
+
+msgid "Clear History"
+msgstr "Geçmişi Temizle"
+
+msgid "Clear history"
+msgstr "Geçmişi Temizle"
+
+msgid "Clear List"
+msgstr "Listeyi Temizle"
+
+msgid "Client"
+msgstr "İstemci"
+
+msgid "Clip"
+msgstr "Klip"
+
+msgid "Clipboard"
+msgstr "Pano"
+
+msgid "Clock"
+msgstr "Saat"
+
+msgid "Clockwise"
+msgstr "Saat yönünde"
+
+msgid "Clone"
+msgstr "Klonla"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "&Close"
+msgstr "&Kapat"
+
+msgid "_Close"
+msgstr "_Kapat"
+
+msgid "Close All"
+msgstr "Tümünü Kapat"
+
+msgid "Close Document"
+msgstr "Belgeyi Kapat"
+
+msgid "Close message"
+msgstr "İletiyi kapat"
+
+msgid "Close Tab"
+msgstr "Sekmeyi Kapat"
+
+msgid "Close tab"
+msgstr "Sekmeyi kapat"
+
+msgid "Close the current tab"
+msgstr "Geçerli sekmeyi kapat"
+
+msgid "Close this window"
+msgstr "Bu pencereyi kapat"
+
+msgid "Close Window"
+msgstr "Pencereyi Kapat"
+
+msgid "Close window"
+msgstr "Pencereyi kapat"
+
+msgid "Close _without Saving"
+msgstr "Kaydet_meden Kapat"
+
+msgid "Closed"
+msgstr "Kapalı"
+
+msgid "Cloud"
+msgstr "Bulut"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "code"
+msgstr "kod"
+
+msgid "Codec"
+msgstr "Kodlayıcı"
+
+msgid "Collapse"
+msgstr "Daralt"
+
+msgid "Collapse All"
+msgstr "Tümünü Daralt"
+
+msgid "Collection"
+msgstr "Koleksiyon"
+
+msgid "Collections"
+msgstr "Koleksiyonlar"
+
+msgid "Colombia"
+msgstr "Kolombiya"
+
+msgid "Color"
+msgstr "Renk"
+
+msgid "color"
+msgstr "renk"
+
+msgid "&Color"
+msgstr "&Renk"
+
+msgid "Color Balance"
+msgstr "Renk Dengesi"
+
+msgid "Color Management"
+msgstr "Renk Yönetimi"
+
+msgid "Color Mode"
+msgstr "Renk Kipi"
+
+msgid "Color Picker"
+msgstr "Renk Seçicisi"
+
+msgid "Color Scheme"
+msgstr "Renk Şeması"
+
+msgid "Color scheme"
+msgstr "Renk şeması"
+
+msgid "Color Space"
+msgstr "Renk Uzayı"
+
+msgid "Color theme"
+msgstr "Renk teması"
+
+msgid "Colorize"
+msgstr "Renklendir"
+
+msgid "Colors"
+msgstr "Renkler"
+
+msgid "Column"
+msgstr "Sütun"
+
+msgid "Column %1"
+msgstr "Sütun %1"
+
+msgid "Columns"
+msgstr "Sütunlar"
+
+msgid "Comma"
+msgstr "Virgül"
+
+msgid "COMMAND"
+msgstr "KOMUT"
+
+msgid "Command"
+msgstr "Komut"
+
+msgid "command"
+msgstr "komut"
+
+msgid "Command Line"
+msgstr "Komut Satırı"
+
+msgid "Command to execute"
+msgstr "Yürütülecek komut"
+
+msgid "Commands"
+msgstr "Komutlar"
+
+msgid "Comment"
+msgstr "Yorum"
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "Commit"
+msgstr "İşle"
+
+msgid "Common"
+msgstr "Genel"
+
+msgid "Comoros"
+msgstr "Comoros"
+
+msgid "Compact"
+msgstr "Sıkışık"
+
+msgid "Compare"
+msgstr "Karşılaştır"
+
+msgid "Complete"
+msgstr "Tam"
+
+msgid "Completed"
+msgstr "Tamamlanmış"
+
+msgid "Completion"
+msgstr "Tamamlama"
+
+msgid "Component"
+msgstr "Bileşen"
+
+msgid "Components"
+msgstr "Bileşenler"
+
+msgid "Composer"
+msgstr "Besteci"
+
+msgid "Composition"
+msgstr "Kompozisyon"
+
+msgid "Compress"
+msgstr "Sıkıştır"
+
+msgid "Compression"
+msgstr "Sıkıştırma"
+
+msgid "Computer"
+msgstr "Bilgisayar"
+
+msgid "Condition"
+msgstr "Koşul"
+
+msgid "Confidential"
+msgstr "Gizli"
+
+msgid "Configuration"
+msgstr "Yapılandırma"
+
+msgid "Configure"
+msgstr "Yapılandır"
+
+msgid "Configure..."
+msgstr "Yapılandır…"
+
+msgid "Configure %1"
+msgstr "Yapılandır: %1"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "Klavye Kısayollarını Yapılandır"
+
+msgid "Configure Plugins"
+msgstr "Eklentileri Yapılandır"
+
+msgid "Configure Toolbars"
+msgstr "Araç Çubuklarını Yapılandır"
+
+msgid "Configure Web Shortcuts..."
+msgstr "Web Kısayollarını Yapılandır…"
+
+msgid "Confirm"
+msgstr "Onayla"
+
+msgid "Confirmation"
+msgstr "Onay"
+
+msgid "Confirmation Required"
+msgstr "Onay Gerekiyor"
+
+msgid "Confirmed"
+msgstr "Onaylandı"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "Standart Uygulama Kısayoluyla Çakışma"
+
+msgid "Connect"
+msgstr "Bağlan"
+
+msgid "C_onnect"
+msgstr "B_ağlan"
+
+msgid "Connected"
+msgstr "Bağlı"
+
+msgid "Connecting"
+msgstr "Bağlanılıyor"
+
+msgid "Connecting..."
+msgstr "Bağlanıyor…"
+
+msgid "Connection"
+msgstr "Bağlantı"
+
+msgid "Connection Failed"
+msgstr "Bağlantı Başarısız"
+
+msgid "Connection Settings"
+msgstr "Bağlantı Ayarları"
+
+msgid "Connections"
+msgstr "Bağlantılar"
+
+msgid "Console"
+msgstr "Konsol"
+
+msgid "Constant"
+msgstr "Sabit"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr "'%2$s' nesnesi için \"%1$s\" kurgu özelliği inşadan sonra ayarlanamaz"
+
+msgid "Contact"
+msgstr "İletişim"
+
+msgid "Contacts"
+msgstr "Kişiler"
+
+msgid "Container"
+msgstr "Taşıyıcı"
+
+msgid "Contains"
+msgstr "İçerir"
+
+msgid "contains"
+msgstr "içerir"
+
+msgid "Content"
+msgstr "İçerik"
+
+msgid "Content Type"
+msgstr "İçerik Türü"
+
+msgid "Contents"
+msgstr "İçerik"
+
+msgid "_Contents"
+msgstr "_İçerik"
+
+msgid "Context"
+msgstr "Bağlam"
+
+msgid "Continue"
+msgstr "Sürdür"
+
+msgid "_Continue"
+msgstr "_Sürdür"
+
+msgid "Contrast"
+msgstr "Karşıtlık"
+
+msgid "Contributor"
+msgstr "Katkıcı"
+
+msgid "Control"
+msgstr "Kontrol"
+
+msgid "Convert"
+msgstr "Dönüştür"
+
+msgid "Convert to Path"
+msgstr "Yola Dönüştür"
+
+msgid "Cookies"
+msgstr "Çerezler"
+
+msgid "Coordinates"
+msgstr "Koordinatlar"
+
+msgid "Copied to clipboard"
+msgstr "Panoya kopyalandı"
+
+msgid "Coptic"
+msgstr "Kıptîce"
+
+msgid "Copy"
+msgstr "Kopyala"
+
+msgid "copy"
+msgstr "kopyala"
+
+msgid "&Copy"
+msgstr "Ko&pyala"
+
+msgid "_Copy"
+msgstr "_Kopyala"
+
+msgid "Copy Email Address"
+msgstr "E-posta Adresini Kopyala"
+
+msgid "&Copy Here"
+msgstr "Buraya Ko&pyala"
+
+msgid "Copy Image"
+msgstr "Görseli Kopyala"
+
+msgid "Copy Link"
+msgstr "Bağlantıyı Kopyala"
+
+msgid "Copy Link Address"
+msgstr "Bağlantı Adresini Kopyala"
+
+msgid "_Copy Link Address"
+msgstr "_Bağlantı Adresini Kopyala"
+
+msgid "Copy Location"
+msgstr "Konumu Kopyala"
+
+msgid "Copy of %1"
+msgstr "%1 kopyası"
+
+msgid "Copy selection to clipboard"
+msgstr "Seçimi panoya kopyala"
+
+msgid "Copy Text"
+msgstr "Metni Kopyala"
+
+msgid "Copy to Clipboard"
+msgstr "Panoya Kopyala"
+
+msgid "Copy to clipboard"
+msgstr "Panoya kopyala"
+
+msgid "Copy URL"
+msgstr "URL’yi Kopyala"
+
+msgid "Copying files"
+msgstr "Dosyalar kopyalanıyor"
+
+msgid "Copyright"
+msgstr "Telif Hakkı"
+
+msgid "Cost"
+msgstr "Maliyet"
+
+msgid "Costa Rica"
+msgstr "Kosta Rika"
+
+msgid "Could not open %1"
+msgstr "%1 açılamadı"
+
+msgid "Could not open file."
+msgstr "Dosya açılamadı."
+
+msgid "Count"
+msgstr "Sayım"
+
+msgid "Counter"
+msgstr "Sayaç"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "C_reate"
+msgstr "_Oluştur"
+
+msgid "Create Folder"
+msgstr "Klasör Oluştur"
+
+msgid "Create New"
+msgstr "Yeni Oluştur"
+
+msgid "Created"
+msgstr "Oluşturulma"
+
+msgid "Creation Date"
+msgstr "Oluşturulma Tarihi"
+
+msgid "Creation date"
+msgstr "Oluşturulma tarihi"
+
+msgid "Creator"
+msgstr "Oluşturan"
+
+msgid "Credentials"
+msgstr "Kimlik Bilgileri"
+
+msgid "Credits"
+msgstr "Emeği Geçenler"
+
+msgid "Criteria"
+msgstr "Kriter"
+
+msgid "Critical"
+msgstr "Kritik"
+
+msgid "Croatia"
+msgstr "Hırvatistan"
+
+msgid "Croatian"
+msgstr "Hırvatça"
+
+msgid "Crop"
+msgstr "Kırp"
+
+msgid "Crop image"
+msgstr "Görüntüyü kırp"
+
+msgid "Cross"
+msgstr "Çapraz Çizgi"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Kontrol"
+
+msgid "Ctrl+C"
+msgstr "Kontrol+C"
+
+msgid "Ctrl+O"
+msgstr "Kontrol+O"
+
+msgid "Cuba"
+msgstr "Küba"
+
+msgid "Currency"
+msgstr "Para Birimi"
+
+msgid "Current"
+msgstr "Geçerli"
+
+msgid "Current Maintainer"
+msgstr "Şu anki bakımcı"
+
+msgid "Current maintainer"
+msgstr "Şu anki bakımcı"
+
+msgid "Cursor"
+msgstr "İmleç"
+
+msgid "Curve"
+msgstr "Eğri"
+
+msgid "Curves"
+msgstr "Eğriler"
+
+msgid "Custom"
+msgstr "Özel"
+
+msgid "Custom..."
+msgstr "Özel…"
+
+msgid "Custom Font"
+msgstr "Özel Yazı Tipi"
+
+msgid "Cut"
+msgstr "Kes"
+
+msgid "Cu&t"
+msgstr "&Kes"
+
+msgid "Cu_t"
+msgstr "Ke_s"
+
+msgid "Cyan"
+msgstr "Camgöbeği"
+
+msgid "Cyprus"
+msgstr "Kıbrıs"
+
+msgid "Cyrillic"
+msgstr "Kiril"
+
+msgid "Czech"
+msgstr "Çekçe"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%%%d"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "Günlük"
+
+msgid "Dance"
+msgstr "Dans"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+msgid "Danish"
+msgstr "Danca"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr "Koyu"
+
+msgid "Dark Mode"
+msgstr "Koyu Kip"
+
+msgid "Darken"
+msgstr "Koyulaştır"
+
+msgid "Dashboard"
+msgstr "Gösterge Tablosu"
+
+msgid "Dashed"
+msgstr "Tireli"
+
+msgid "Data"
+msgstr "Veri"
+
+msgid "Database"
+msgstr "Veri Tabanı"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "date"
+msgstr "tarih"
+
+msgid "Date & Time"
+msgstr "Tarih ve Zaman"
+
+msgid "Date and Time"
+msgstr "Tarih ve Zaman"
+
+msgid "Date Format"
+msgstr "Tarih Biçimi"
+
+msgid "Date Modified"
+msgstr "Değiştirilme Tarihi"
+
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+msgid "Day"
+msgstr "Gün"
+
+msgid "Days"
+msgstr "Gün"
+
+msgid "days"
+msgstr "gün"
+
+msgid "day(s)"
+msgstr "gün"
+
+msgid "D-Bus name to use for this instance"
+msgstr "Bu örnek için kullanılacak D-Bus adı"
+
+msgid "Debug"
+msgstr "Hata Ayıkla"
+
+msgid "Debugger"
+msgstr "Hata Ayıklayıcısı"
+
+msgid "Debugging"
+msgstr "Hata Ayıklama"
+
+msgid "December"
+msgstr "Aralık"
+
+msgid "Decimal"
+msgstr "Ondalık"
+
+msgid "Decline"
+msgstr "Reddet"
+
+msgid "Decrease Font Size"
+msgstr "Yazıtipi Puntosunu Azalt"
+
+msgid "Decrease Indent"
+msgstr "Girintiyi Azalt"
+
+msgid "Decrease Volume"
+msgstr "Sesi Azalt"
+
+msgid "Decrypt"
+msgstr "Şifre Çöz"
+
+msgid "Default"
+msgstr "Öntanımlı"
+
+msgid "default"
+msgstr "öntanımlı"
+
+msgid "Defaults"
+msgstr "Öntanımlılar"
+
+msgid "Definition"
+msgstr "Tanım"
+
+msgid "degrees"
+msgstr "derece"
+
+msgid "Del"
+msgstr "Sil"
+
+msgid "Delay"
+msgstr "Gecikme"
+
 msgid "Delete"
 msgstr "Sil"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@title"
-msgid "Appearance"
-msgstr "Görünüş"
+msgid "&Delete"
+msgstr "&Sil"
+
+msgid "_Delete"
+msgstr "_Sil"
+
+msgid "D&elete"
+msgstr "&Sil"
+
+msgid "Delete..."
+msgstr "Sil…"
+
+msgid "Delete %1"
+msgstr "Sil: %1"
+
+msgid "Delete All"
+msgstr "Tümünü Sil"
+
+msgid "Delete File"
+msgstr "Dosyayı Sil"
+
+msgid "Delete Folder"
+msgstr "Klasörü Sil"
+
+msgid "Delete Image"
+msgstr "Görseli Sil"
+
+msgid "Delete Selected"
+msgstr "Seçiliyi Sil"
+
+msgid "Delete selection"
+msgstr "Seçimi sil"
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "Silindi"
+
+msgid "Deletion"
+msgstr "Silinme"
+
+msgid "Delimiter"
+msgstr "Sınırlayıcı"
+
+msgid "Delta"
+msgstr "Fark"
+
+msgid "Denmark"
+msgstr "Danimarka"
+
+msgid "Density"
+msgstr "Yoğunluk"
+
+msgid "Deny"
+msgstr "Reddet"
+
+msgid "Dependencies"
+msgstr "Bağımlılıklar"
+
+msgid "Depth"
+msgstr "Derinlik"
+
+msgid "Desaturate"
+msgstr "Doygunluğu Gider"
+
+msgid "Descending"
+msgstr "Azalan"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "&Description"
+msgstr "&Açıklama"
+
+msgid "Deselect"
+msgstr "Seçimi Kaldır"
+
+msgid "Deselect All"
+msgstr "Tümünün Seçimini Kaldır"
+
+msgid "Desert"
+msgstr "Çöl"
+
+msgid "Desktop"
+msgstr "Masaüstü"
+
+msgid "Destination"
+msgstr "Hedef"
+
+msgid "Detach"
+msgstr "Ayır"
+
+msgid "_Detach Tab"
+msgstr "_Sekmeyi Ayır"
+
+msgid "Details"
+msgstr "Ayrıntılar"
+
+msgid "&Details"
+msgstr "&Ayrıntılar"
+
+msgid "_Details"
+msgstr "_Ayrıntılar"
+
+msgid "Details..."
+msgstr "Ayrıntılar…"
+
+msgid "Devanagari"
+msgstr "Devanagari"
+
+msgid "Developer"
+msgstr "Geliştirici"
+
+msgid "Development"
+msgstr "Geliştirme"
+
+msgid "Device"
+msgstr "Aygıt"
+
+msgid "device"
+msgstr "aygıt"
+
+msgid "Device Information"
+msgstr "Aygıt Bilgisi"
+
+msgid "Device Status"
+msgstr "Aygıt Durumu"
+
+msgid "Device type"
+msgstr "Aygıt türü"
+
+msgid "Devices"
+msgstr "Aygıtlar"
+
+msgid "Diagnostics"
+msgstr "Tanılar"
+
+msgid "Diagonal"
+msgstr "Köşegen"
+
+msgid "Dialog"
+msgstr "İletişim Kutusu"
+
+msgid "Dialogs"
+msgstr "İletişim Kutuları"
+
+msgid "Diamond"
+msgstr "Elmas"
+
+msgid "Dictionary"
+msgstr "Sözlük"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "Fark"
+
+msgid "Difficulty"
+msgstr "Zorluk"
+
+msgid "Digit"
+msgstr "Basamak"
+
+msgid "Dimensions"
+msgstr "Boyutlar"
+
+msgid "DIR"
+msgstr "DİZİN"
+
+msgid "Direction"
+msgstr "Yön"
+
+msgid "Directories"
+msgstr "Dizinler"
+
+msgid "Directory"
+msgstr "Dizin"
+
+msgid "directory"
+msgstr "dizin"
+
+msgid "Directory Name"
+msgstr "Dizin Adı"
+
+msgid "Disable"
+msgstr "Devre Dışı Bırak"
+
+msgid "Disable connection to session manager"
+msgstr ""
+
+msgid "Disabled"
+msgstr "Devre dışı"
+
+msgid "disabled"
+msgstr "devre dışı"
+
+msgid "Disc"
+msgstr "Disk"
+
+msgid "Disc Number"
+msgstr "Disk Numarası"
+
+msgid "Discard"
+msgstr "At"
+
+msgid "_Discard"
+msgstr "_Gözden Çıkar"
+
+msgid "Discard All"
+msgstr "Tümünü At"
+
+msgid "Discard Changes"
+msgstr "Değişiklikleri At"
+
+msgid "Discard changes"
+msgstr "Değişiklikleri at"
+
+msgid "_Discard Changes"
+msgstr "Değişiklikleri _Gözden Çıkar"
+
+msgid "Discharging"
+msgstr "Şarj boşalıyor"
+
+msgid "Disconnect"
+msgstr "Bağlantıyı Kes"
+
+msgid "Disconnected"
+msgstr "Bağlantı kesildi"
+
+msgid "Discover"
+msgstr "Keşfet"
+
+msgid "Discrete"
+msgstr "Soyut"
+
+msgid "Disk"
+msgstr "Disk"
+
+msgid "Dismiss"
+msgstr "Kapat"
+
+msgid "Display"
+msgstr "Görüntü"
+
+msgid "Display Configuration"
+msgstr "Görüntü Yapılandırması"
+
+msgid "Display Name"
+msgstr "Görünen Ad"
+
+msgid "Display Settings"
+msgstr "Görüntü Ayarları"
+
+msgid "Dissolve"
+msgstr "Çözünme"
+
+msgid "Distance"
+msgstr "Uzaklık"
+
+msgid "Divide"
+msgstr "Böl"
+
+msgid "Djibouti"
+msgstr "Cibuti"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitriy Suzdalev"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "Bir daha sorma"
+
+msgid "Do Not Cancel"
+msgstr "İptal Etme"
+
+msgid "Do not change the actual backend data."
+msgstr "Gerçek arka uç verisini değiştirmeyin."
+
+msgid "Do not show again"
+msgstr "Bir daha gösterme"
+
+msgid "Do not show this message again"
+msgstr "Bu iletiyi bir daha gösterme"
+
+msgid "Do Nothing"
+msgstr "Bir Şey Yapma"
+
+msgid "Do nothing"
+msgstr "Bir şey yapma"
+
+msgid "Document"
+msgstr "Belge"
+
+msgid "Document Properties"
+msgstr "Belge Özellikleri"
+
+msgid "Document to open"
+msgstr "Açılacak belge"
+
+msgid "Document Viewer"
+msgstr "Belge Görüntüleyicisi"
+
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+msgid "Documents"
+msgstr "Belgeler"
+
+msgid "does not contain"
+msgstr "içermez"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "Etki Alanı"
+
+msgid "Dominica"
+msgstr "Dominika"
+
+msgid "Dominican Republic"
+msgstr "Dominik Cumhuriyeti"
+
+msgid "Donate"
+msgstr "Bağış Yap"
+
+msgid "Done"
+msgstr "Bitti"
+
+msgid "Dot"
+msgstr "Nokta"
+
+msgid "Dots"
+msgstr "Noktalar"
+
+msgid "Dotted"
+msgstr "Noktalı"
+
+msgid "Double"
+msgstr "Çift"
+
+msgid "Down"
+msgstr "Aşağı"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "Download Manager"
+msgstr "İndirme Yöneticisi"
+
+msgid "Downloaded"
+msgstr "İndirildi"
+
+msgid "Downloading"
+msgstr "İndiriliyor"
+
+msgid "Downloading..."
+msgstr "İndiriliyor…"
+
+msgid "Downloads"
+msgstr "İndirmeler"
+
+msgid "Dr."
+msgstr "Dr."
+
+msgid "Draft"
+msgstr "Taslak"
+
+msgid "Drafts"
+msgstr "Taslaklar"
+
+msgid "Draw"
+msgstr "Çiz"
+
+msgid "Drive"
+msgstr "Sürücü"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "Bitiş tarihi"
+
+msgid "Due Date"
+msgstr "Bitiş Tarihi"
+
+msgid "Duplicate"
+msgstr "Çoğalt"
+
+msgid "_Duplicate"
+msgstr "_Çoğalt"
+
+msgid "Duplicates"
+msgstr "Yinelenenler"
+
+msgid "Duration"
+msgstr "Süre"
+
+msgid "Dutch"
+msgstr "Hollandaca"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "D"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "Doğu"
+
+msgid "Easy"
+msgstr "Kolay"
+
+msgid "Echo"
+msgstr "Yankı"
+
+msgid "Ecuador"
+msgstr "Ekvador"
+
+msgid "Edge"
+msgstr "Kenar"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "&Edit"
+msgstr "Dü&zen"
+
+msgid "_Edit"
+msgstr "_Düzenle"
+
+msgid "Edit..."
+msgstr "Düzenle…"
+
+msgid "&Edit..."
+msgstr "Dü&zenle…"
+
+msgid "Edit %1"
+msgstr "Düzenle: %1"
+
+msgid "Edit Bookmark"
+msgstr "Yer İmini Düzenle"
+
+msgid "Edit Filter"
+msgstr "Süzgeci Düzenle"
+
+msgid "Edit Image"
+msgstr "Görseli Düzenle"
+
+msgid "Editing"
+msgstr "Düzenleme"
+
+msgid "Editor"
+msgstr "Düzenleyici"
+
+msgid "Education"
+msgstr "Eğitim"
+
+msgid "Effects"
+msgstr "Efektler"
+
+msgid "Egypt"
+msgstr "Mısır"
+
+msgid "Egyptian"
+msgstr "Mısırlı"
+
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+msgid "Eject"
+msgstr "Çıkar"
+
+msgid "_Eject"
+msgstr "_Çıkar"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Electronic"
+msgstr "Elektronik"
+
+msgid "Element"
+msgstr "Öge"
+
+msgid "Ellipse"
+msgstr "Elips"
+
+msgid "Email"
+msgstr "E-posta"
+
+msgid "E-mail"
+msgstr "E-posta"
+
+msgid "Email Address"
+msgstr "E-posta Adresi"
+
+msgid "Email address"
+msgstr "E-posta adresi"
+
+msgid "Emails"
+msgstr "E-postalar"
+
+msgid "Embedded"
+msgstr "Gömülü"
+
+msgid "Emboss"
+msgstr "Kabart"
+
+msgid "Emphasis"
+msgstr "Vurgu"
+
+msgid "Empty"
+msgstr "Boş"
+
+msgid "empty"
+msgstr "boş"
+
+msgid "(empty)"
+msgstr "(boş)"
+
+msgid "<empty>"
+msgstr "<boş>"
+
+msgid "Empty Trash"
+msgstr "Çöp Kutusunu Boşalt"
+
+msgid "Enable"
+msgstr "Etkinleştir"
+
+msgid "Enable system tray icon"
+msgstr "Sistem tepsisi simgesini etkinleştir"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+"Ayrıntılı hata ayıklama günlüklemesini etkinleştir (parolaları görünür "
+"yapabilir)"
+
+msgid "Enabled"
+msgstr "Etkin"
+
+msgid "Encoder"
+msgstr "Kodlayıcı"
+
+msgid "Encoding"
+msgstr "Kodlama"
+
+msgid "_Encoding"
+msgstr "_Kodlama"
+
+msgid "Encrypt"
+msgstr "Şifrele"
+
+msgid "&Encrypt"
+msgstr "Ş&ifrele"
+
+msgid "Encrypted"
+msgstr "Şifreli"
+
+msgid "Encryption"
+msgstr "Şifreleme"
+
+msgid "End"
+msgstr "Bitiş"
+
+msgid "end"
+msgstr "bitiş"
+
+msgid "End Date"
+msgstr "Bitiş Tarihi"
+
+msgid "End Time"
+msgstr "Bitiş Zamanı"
+
+msgid "ends with"
+msgstr "ile biten"
+
+msgid "Energy"
+msgstr "Enerji"
+
+msgid "Engine"
+msgstr "İşletke"
+
+msgid "Engineering"
+msgstr "Mühendislik"
+
+msgid "English"
+msgstr "İngilizce"
+
+msgid "Enter"
+msgstr "Gir"
+
+msgid "Enter password"
+msgstr "Parola gir"
+
+msgid "Entry"
+msgstr "Girdi"
+
+msgid "Environment"
+msgstr "Ortam"
+
+msgid "equals"
+msgstr "eşittir"
+
+msgid "Equation"
+msgstr "Denklem"
+
+msgid "Equatorial Guinea"
+msgstr "Ekvator Ginesi"
+
+msgid "Erase"
+msgstr "Sil"
+
+msgid "Eraser"
+msgstr "Silgi"
+
+msgid "Eritrea"
+msgstr "Eritre"
+
+msgid "ERROR"
+msgstr "HATA"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "error"
+msgstr "hata"
+
+msgid "Error: %1"
+msgstr "Hata: %1"
+
+msgid "Error message"
+msgstr "Hata iletisi"
+
+msgid "Errors"
+msgstr "Hatalar"
+
+msgid "Escape"
+msgstr "Kaçış"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonia"
+msgstr "Estonya"
+
+msgid "Estonian"
+msgstr "Estonca"
+
+msgid "Ethiopia"
+msgstr "Etiyopya"
+
+msgid "Ethiopic"
+msgstr "Etiopik"
+
+msgid "Europe"
+msgstr "Avrupa"
+
+msgid "Evaluate"
+msgstr "Değerlendir"
+
+msgid "Event"
+msgstr "Etkinlik"
+
+msgid "Events"
+msgstr "Olaylar"
+
+msgid "Everyone"
+msgstr "Herkes"
+
+msgid "Everything"
+msgstr "Her şey"
+
+msgid "Exact"
+msgstr "Tam"
+
+msgid "Example"
+msgstr "Örnek"
+
+msgid "Examples"
+msgstr "Örnekler"
+
+msgid "Exception"
+msgstr "İstisna"
+
+msgid "Exclude"
+msgstr "Dışla"
+
+msgid "Exclusion"
+msgstr "Çıkarma"
+
+msgid "Executable"
+msgstr "Yürütülebilir"
+
+msgid "Execute"
+msgstr "Yürüt"
+
+msgid "Exit"
+msgstr "Çık"
+
+msgid "Exit Full Screen"
+msgstr "Tam Ekrandan Çık"
+
+msgid "Exit Fullscreen"
+msgstr "Tam Ekrandan Çık"
+
+msgid "Exiting..."
+msgstr "Çıkılıyor…"
+
+msgid "Expand"
+msgstr "Genişlet"
+
+msgid "Expand All"
+msgstr "Tümünü Genişlet"
+
+msgid "Experimental"
+msgstr "Deneysel"
+
+msgid "Expired"
+msgstr "Süresi dolmuş"
+
+msgid "Expires"
+msgstr "Son Kullanım"
+
+msgid "Export"
+msgstr "Dışa Aktar"
+
+msgid "&Export"
+msgstr "&Dışa Aktar"
+
+msgid "_Export"
+msgstr "_Dışa Aktar"
+
+msgid "Export..."
+msgstr "Dışa Aktar…"
+
+msgid "&Export..."
+msgstr "&Dışa Aktar…"
+
+msgid "_Export..."
+msgstr "_Dışa Aktar…"
+
+msgid "E&xport..."
+msgstr "Dışa A&ktar…"
+
+msgid "Export As..."
+msgstr "Farklı Dışa Aktar…"
+
+msgid "Export failed"
+msgstr "Dışa aktarma başarısız"
+
+msgid "Export Options"
+msgstr "Dışa Aktarma Seçenekleri"
+
+msgid "Exposure"
+msgstr "Pozlama"
+
+msgid "Expression"
+msgstr "İfade"
+
+msgid "Extended"
+msgstr "Genişletilmiş"
+
+msgid "Extension"
+msgstr "Uzantı"
+
+msgid "Extensions"
+msgstr "Uzantılar"
+
+msgid "Extra Toolbar"
+msgstr "Ek Araç Çubuğu"
+
+msgid "Extract"
+msgstr "Çıkar"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "Soldur"
+
+msgid "Fahrenheit"
+msgstr "Fahrenhayt"
+
+msgid "Failed"
+msgstr "Başarısız"
+
+msgid "False"
+msgstr "Yanlış"
+
+msgid "false"
+msgstr "yanlış"
+
+msgid "Family"
+msgstr "Aile"
+
+msgid "Family Name"
+msgstr "Aile Adı"
+
+msgid "Fast"
+msgstr "Hızlı"
+
+msgid "Faster"
+msgstr "Daha hızlı"
+
+msgid "Fatal Error"
+msgstr "Onulmaz Hata"
+
+msgid "Favorite"
+msgstr "Sık Kullanılan"
+
+msgid "Favorites"
+msgstr "Sık Kullanılanlar"
+
+msgid "Fax"
+msgstr "Faks"
+
+msgid "Features"
+msgstr "Özellikler"
+
+msgid "February"
+msgstr "Şubat"
+
+msgid "Feeds"
+msgstr "Beslemeler"
+
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+msgid "Fetch"
+msgstr "Getir"
+
+msgid "Fiji"
+msgstr "Fiji"
+
+msgid "FILE"
+msgstr "DOSYA"
+
+msgid "File"
+msgstr "Dosya"
+
+msgid "file"
+msgstr "dosya"
+
+msgid "&File"
+msgstr "&Dosya"
+
+msgid "_File"
+msgstr "_Dosya"
+
+msgid "[FILE...]"
+msgstr "[DOSYA…]"
+
+msgid "File Already Exists"
+msgstr "Dosya Hâlihazırda Var"
+
+msgid "File already exists"
+msgstr "Dosya hâlihazırda var"
+
+msgid "File Exists"
+msgstr "Dosya Var"
+
+msgid "File Format"
+msgstr "Dosya Biçimi"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "Dosya Yöneticisi"
+
+msgid "File Name"
+msgstr "Dosya Adı"
+
+msgid "File name"
+msgstr "Dosya adı"
+
+msgid "File Not Found"
+msgstr "Dosya Bulunamadı"
+
+msgid "File not found"
+msgstr "Dosya bulunamadı"
+
+msgid "File Path"
+msgstr "Dosya Yolu"
+
+msgid "File Properties"
+msgstr "Dosya Özellikleri"
+
+msgid "File Size"
+msgstr "Dosya Boyutu"
+
+msgid "File size"
+msgstr "Dosya boyutu"
+
+msgid "File System"
+msgstr "Dosya Sistemi"
+
+msgid "File to open"
+msgstr "Açılacak dosya"
+
+msgid "File Transfer"
+msgstr "Dosya Aktarımı"
+
+msgid "File Type"
+msgstr "Dosya Türü"
+
+msgid "Filename"
+msgstr "Dosya Adı"
+
+msgid "Files"
+msgstr "Dosyalar"
+
+msgid "Filesystem"
+msgstr "Dosya Sistemi"
+
+msgid "Fill"
+msgstr "Doldur"
+
+msgid "Fill Color"
+msgstr "Dolgu Rengi"
+
+msgid "Filter"
+msgstr "Süzgeç"
+
+msgid "Filter..."
+msgstr "Süz…"
+
+msgid "Filters"
+msgstr "Süzgeçler"
+
+msgid "Final"
+msgstr "Son"
+
+msgid "Find"
+msgstr "Bul"
+
+msgid "&Find"
+msgstr "&Bul"
+
+msgid "_Find"
+msgstr "_Bul"
+
+msgid "F&ind"
+msgstr "&Bul"
+
+msgid "Find..."
+msgstr "Bul…"
+
+msgid "_Find..."
+msgstr "_Bul…"
+
+msgid "Find and Replace"
+msgstr "Bul ve Değiştir"
+
+msgid "Find Next"
+msgstr "Sonrakini Bul"
+
+msgid "Find _Next"
+msgstr "_Sonrakini Bul"
+
+msgid "Find Ne_xt"
+msgstr "Sonrakini B_ul"
+
+msgid "Find Previous"
+msgstr "Öncekini Bul"
+
+msgid "Find Pre_vious"
+msgstr "Öncekini B_ul"
+
+msgid "Fingerprint"
+msgstr "Parmak İzi"
+
+msgid "Finish"
+msgstr "Bitir"
+
+msgid "Finished"
+msgstr "Bitti"
+
+msgid "Finland"
+msgstr "Finlandiya"
+
+msgid "Finnish"
+msgstr "Fince"
+
+msgid "First"
+msgstr "İlk"
+
+msgid "First Page"
+msgstr "İlk Sayfa"
+
+msgid "Fit"
+msgstr "Sığdır"
+
+msgid "Fit Width"
+msgstr "Genişliğe Sığdır"
+
+msgid "Fixed"
+msgstr "Sabit"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "Bayraklandı"
+
+msgid "Flags"
+msgstr "Bayraklar"
+
+msgid "Flash"
+msgstr "Flaş"
+
+msgid "Flat"
+msgstr "Düz"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "Ters Çevir"
+
+msgid "Flip Horizontally"
+msgstr "Yatay Olarak Ters Çevir"
+
+msgid "Flip horizontally"
+msgstr "Yatay çevir"
+
+msgid "Flip Vertically"
+msgstr "Dikey Olarak Ters Çevir"
+
+msgid "Flip vertically"
+msgstr "Dikey çevir"
+
+msgid "Float"
+msgstr "Kayan noktalı değer"
+
+msgid "Floating"
+msgstr "Kayan"
+
+msgid "Flow"
+msgstr "Akış"
+
+msgid "flower"
+msgstr "çiçek"
+
+msgid "Focal Length"
+msgstr "Odak Uzaklığı"
+
+msgid "Focus"
+msgstr "Odak"
+
+msgid "Folder"
+msgstr "Klasör"
+
+msgid "Folder name"
+msgstr "Klasör adı"
+
+msgid "Folders"
+msgstr "Klasörler"
+
+msgid "Folk"
+msgstr "Halk Müziği"
+
+msgid "Font"
+msgstr "Yazıtipi"
+
+msgid "&Font"
+msgstr "&Yazıtipi"
+
+msgid "Font Color"
+msgstr "Yazıtipi rengi"
+
+msgid "Font Family"
+msgstr "Yazıtipi Ailesi"
+
+msgid "Font Size"
+msgstr "Yazıtipi Puntosu"
+
+msgid "Font size"
+msgstr "Yazıtipi puntosu"
+
+msgid "Fonts"
+msgstr "Yazıtipleri"
+
+msgid "_Fonts"
+msgstr "_Yazı Tipleri"
+
+msgid "Food"
+msgstr "Yiyecek"
+
+msgid "Footer"
+msgstr "Altbilgi"
+
+msgid "Force"
+msgstr "Kuvvet"
+
+msgid "Forecast"
+msgstr "Tahmin"
+
+msgid "Foreground"
+msgstr "Ön Plan"
+
+msgid "Foreground Color"
+msgstr "Ön Plan Rengi"
+
+msgid "Foreground color"
+msgstr "Ön plan rengi"
+
+msgid "forever"
+msgstr "sonsuza dek"
+
+msgid "Form"
+msgstr "Form"
+
+msgid "Format"
+msgstr "Biçim"
+
+msgid "Formatting"
+msgstr "Biçimlendirme"
+
+msgid "Former Maintainer"
+msgstr "Önceki bakımcı"
+
+msgid "Former maintainer"
+msgstr "Önceki bakımcı"
+
+msgid "Formula"
+msgstr "Formül"
+
+msgid "Forward"
+msgstr "İleri"
+
+msgid "&Forward"
+msgstr "&İleri"
+
+msgid "_Forward"
+msgstr "_İleri"
+
+msgid "Fraction"
+msgstr "Kesir"
+
+msgid "Frame"
+msgstr "Çerçeve"
+
+msgid "Framerate"
+msgstr "Kare Hızı"
+
+msgid "Frames"
+msgstr "Çerçeveler"
+
+msgid "France"
+msgstr "Fransa"
+
+msgid "Free"
+msgstr "Boş"
+
+msgid "French"
+msgstr "Fransızca"
+
+msgid "French Guiana"
+msgstr "Fransız Guyanası"
+
+msgid "Frequency"
+msgstr "Frekans"
+
+msgid "Friday"
+msgstr "Cuma"
+
+msgid "Friends"
+msgstr "Arkadaşlar"
+
+msgid "From"
+msgstr "Kimden"
+
+msgid "from"
+msgstr "kimden"
+
+msgid "From %1"
+msgstr "Şuradan: %1"
+
+msgid "Frozen"
+msgstr "Donmuş"
+
+msgid "Full"
+msgstr "Tam"
+
+msgid "Full Name"
+msgstr "Tam Ad"
+
+msgid "Full Screen"
+msgstr "Tam Ekran"
+
+msgid "Full Screen Mode"
+msgstr "Tam Ekran Kipi"
+
+msgid "F&ull Screen Mode"
+msgstr "Ta&m Ekran Kipi"
+
+msgid "Fullscreen"
+msgstr "Tam Ekran"
+
+msgid "_Fullscreen"
+msgstr "_Tam Ekran"
+
+msgid "Function"
+msgstr "İşlev"
+
+msgid "function"
+msgstr "işlev"
+
+msgid "Functions"
+msgstr "İşlevler"
+
+msgid "Future"
+msgstr "Gelecek"
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Galician"
+msgstr "Galiçyaca"
+
+msgid "Gallery"
+msgstr "Galeri"
+
+msgid "Gambia"
+msgstr "Gambiya"
+
+msgid "Game"
+msgstr "Oyun"
+
+msgid "&Game"
+msgstr "&Oyun"
+
+msgid "Game Over"
+msgstr "Oyun Bitti"
+
+msgid "Games"
+msgstr "Oyunlar"
+
+msgid "Gamma"
+msgstr "Gama"
+
+msgid "Gas"
+msgstr "Gaz"
+
+msgid "Gate"
+msgstr "Kapı"
+
+msgid "Gateway"
+msgstr "Ağ Geçidi"
+
+msgid "Gaussian Blur"
+msgstr "Gauss Bulanıklaştırması"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "Cinsiyet"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "&General"
+msgstr "&Genel"
+
+msgid "General Options"
+msgstr "Genel Seçenekler"
+
+msgid "General options"
+msgstr "Genel seçenekler"
+
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+msgid "Generate"
+msgstr "Üret"
+
+msgid "Generic"
+msgstr "Genel"
+
+msgid "Genre"
+msgstr "Tür"
+
+msgid "Genres"
+msgstr "Türler"
+
+msgid "Geometry"
+msgstr "Geometri"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "Gürcistan"
+
+msgid "Georgian"
+msgstr "Gürcüce"
+
+msgid "German"
+msgstr "Almanca"
+
+msgid "Germany"
+msgstr "Almanya"
+
+msgid "Get New..."
+msgstr "Yeni Al…"
+
+msgid "Get New Plugins..."
+msgstr "Yeni Eklentiler Al…"
+
+msgid "Ghana"
+msgstr "Gana"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "Verilen Ad"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "Git"
+
+msgid "&Go"
+msgstr "G&it"
+
+msgid "_Go"
+msgstr "_Git"
+
+msgid "Go Back"
+msgstr "Geri Git"
+
+msgid "Go back"
+msgstr "Geri git"
+
+msgid "Go forward"
+msgstr "İleri git"
+
+msgid "Go To"
+msgstr "Git"
+
+msgid "Go to first page"
+msgstr "İlk sayfaya git"
+
+msgid "Go to last page"
+msgstr "Son sayfaya git"
+
+msgid "Go to Line"
+msgstr "Satıra Git"
+
+msgid "Go to next page"
+msgstr "Sonraki sayfaya git"
+
+msgid "Go to previous page"
+msgstr "Önceki sayfaya git"
+
+msgid "Goa"
+msgstr "Goa"
+
+msgid "Gold"
+msgstr "Altın"
+
+msgid "Good"
+msgstr "İyi"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "Gotik"
+
+msgid "Gradient"
+msgstr "Gradyan"
+
+msgid "Gradients"
+msgstr "Gradyanlar"
+
+msgid "Graph"
+msgstr "Grafik"
+
+msgid "Graphics"
+msgstr "Grafikler"
+
+msgid "Gray"
+msgstr "Gri"
+
+msgid "gray"
+msgstr "gri"
+
+msgid "Grayscale"
+msgstr "Gri tonlu"
+
+msgid "Greece"
+msgstr "Yunanistan"
+
+msgid "Greek"
+msgstr "Yunanca"
+
+msgid "Green"
+msgstr "Yeşil"
+
+msgid "green"
+msgstr "yeşil"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Grey"
+msgstr "Gri"
+
+msgid "Grid"
+msgstr "Izgara"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "Group name"
+msgstr "Grup adı"
+
+msgid "Grouping"
+msgstr "Gruplama"
+
+msgid "Groups"
+msgstr "Gruplar"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guides"
+msgstr "Kılavuzlar"
+
+msgid "Guinea"
+msgstr "Gine"
+
+msgid "Gujarati"
+msgstr "Güceratça"
+
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "H"
+msgstr "H"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Hard"
+msgstr "Sert"
+
+msgid "Hardware"
+msgstr "Donanım"
+
+msgid "Hawaiian"
+msgstr "Havaice"
+
+msgid "Header"
+msgstr "Üstbilgi"
+
+msgid "Headers"
+msgstr "Başlıklar"
+
+msgid "Heading"
+msgstr "Başlık"
+
+msgid "Heading 1"
+msgstr "Başlık 1"
+
+msgid "Heading 2"
+msgstr "Başlık 2"
+
+msgid "Heading 3"
+msgstr "Başlık 3"
+
+msgid "Heading 4"
+msgstr "Başlık 4"
+
+msgid "Headphones"
+msgstr "Kulaklık"
+
+msgid "Headset"
+msgstr "Mikrofonlu Kulaklık"
+
+msgid "Health"
+msgstr "Sağlık"
+
+msgid "Hebrew"
+msgstr "İbrânîce"
+
+msgid "Height"
+msgstr "Yükseklik"
+
+msgid "&Height"
+msgstr "&Yükseklik"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "&Help"
+msgstr "&Yardım"
+
+msgid "_Help"
+msgstr "_Yardım"
+
+msgid "Helsinki"
+msgstr "Helsinki"
+
+msgid "Hex"
+msgstr "Onaltılık"
+
+msgid "Hexadecimal"
+msgstr "Onaltılık"
+
+msgid "Hexagon"
+msgstr "Altıgen"
+
+msgid "Hibernate"
+msgstr "Derin Uykuya Geçir"
+
+msgid "Hidden"
+msgstr "Gizli"
+
+msgid "hidden"
+msgstr "gizli"
+
+msgid "Hide"
+msgstr "Gizle"
+
+msgid "&Hide"
+msgstr "&Gizle"
+
+msgid "Hide menu bar"
+msgstr "Menü Çubuğunu Gizle"
+
+msgid "High"
+msgstr "Yüksek"
+
+msgid "Highlight"
+msgstr "Vurgu"
+
+msgid "Highlighter"
+msgstr "Vurgulayıcı"
+
+msgid "Highlights"
+msgstr "Vurgular"
+
+msgid "Hindi"
+msgstr "Hintçe"
+
+msgid "Hint"
+msgstr "İpucu"
+
+msgid "Histogram"
+msgstr "Histogram"
+
+msgid "History"
+msgstr "Geçmiş"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "Tut"
+
+msgid "Holidays"
+msgstr "Tatiller"
+
+msgid "Home"
+msgstr "Ev"
+
+msgid "&Home"
+msgstr "&Başlangıç"
+
+msgid "Home Folder"
+msgstr "Ana Klasör"
+
+msgid "Home Page"
+msgstr "Ana Sayfa"
+
+msgid "Homepage"
+msgstr "Ana Sayfa"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Horizontal"
+msgstr "Yatay"
+
+msgid "Host"
+msgstr "Makine"
+
+msgid "Hostname"
+msgstr "Makine Adı"
+
+msgid "Hotspot"
+msgstr "Erişim Noktası"
+
+msgid "Hour"
+msgstr "Saat"
+
+msgid "Hours"
+msgstr "Saat"
+
+msgid "hours"
+msgstr "saat"
+
+msgid "House"
+msgstr "Ev"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "Ton"
+
+msgid "Huge"
+msgstr "Kocaman"
+
+msgid "Hungarian"
+msgstr "Macarca"
+
+msgid "Hungary"
+msgstr "Macaristan"
+
+msgid "Hz"
+msgstr "Hz"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+msgid "Iceland"
+msgstr "İzlanda"
+
+msgid "Icelandic"
+msgstr "İzlandaca"
+
+msgid "Icon"
+msgstr "Simge"
+
+msgid "Icon Size"
+msgstr "Simge Boyutu"
+
+msgid "Icon size"
+msgstr "Simge boyutu"
+
+msgid "Icon View"
+msgstr "Simge Görünümü"
+
+msgid "Icons"
+msgstr "Simgeler"
+
+msgid "ID"
+msgstr "Kimlik"
+
+msgid "Id"
+msgstr "Kimlik"
+
+msgid "id"
+msgstr "kimlik"
+
+msgid "Identifier"
+msgstr "Tanımlayıcı"
+
+msgid "Identity"
+msgstr "Kimlik"
+
+msgid "Idle"
+msgstr "Boşta"
+
+msgid "Ignore"
+msgstr "Yok Say"
+
+msgid "_Ignore"
+msgstr "_Yok Say"
+
+msgid "Ignore Case"
+msgstr "BÜYÜK/küçük Harf Duyarsız"
+
+msgid "Ignored"
+msgstr "Yok Sayıldı"
+
+msgid "Image"
+msgstr "Görsel"
+
+msgid "image"
+msgstr "görsel"
+
+msgid "&Image"
+msgstr "Gö&rsel"
+
+msgid "_Image"
+msgstr "_Resim"
+
+msgid "Image Editor"
+msgstr "Görsel Düzenleyicisi"
+
+msgid "Image Files"
+msgstr "Görsel dosyaları"
+
+msgid "Image files"
+msgstr "Görsel dosyaları"
+
+msgid "Image Gallery"
+msgstr "Görsel Galerisi"
+
+msgid "Image Properties"
+msgstr "Görsel Özellikleri"
+
+msgid "Image Settings"
+msgstr "Görsel Ayarları"
+
+msgid "Image Size"
+msgstr "Görsel Boyutu"
+
+msgid "Image Viewer"
+msgstr "Görsel Görüntüleyicisi"
+
+msgid "Images"
+msgstr "Görseller"
+
+msgid "Images (%1)"
+msgstr "Görseller (%1)"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "İçe Aktar"
+
+msgid "&Import"
+msgstr "&İçe Aktar"
+
+msgid "_Import"
+msgstr "_İçe Aktar"
+
+msgid "Import..."
+msgstr "İçe Aktar…"
+
+msgid "&Import..."
+msgstr "&İçe Aktar…"
+
+msgid "Import failed"
+msgstr "İçe aktarma başarısız oldu"
+
+msgid "Important"
+msgstr "Önemli"
+
+msgid "In"
+msgstr "İç"
+
+msgid "in"
+msgstr "inç"
+
+msgid "Inactive"
+msgstr "Etkin Değil"
+
+msgid "Inbox"
+msgstr "Gelen Kutusu"
+
+msgid "inch"
+msgstr "inç"
+
+msgid "Inches"
+msgstr "İnç"
+
+msgid "inches"
+msgstr "inç"
+
+msgid "Inches (in)"
+msgstr "İnç (in)"
+
+msgid "Include"
+msgstr "İçer"
+
+msgid "Includes"
+msgstr "İçerir"
+
+msgid "Incoming"
+msgstr "Gelen"
+
+msgid "Increase Font Size"
+msgstr "Yazıtipi Puntosunu Artır"
+
+msgid "Increase Indent"
+msgstr "Girintiyi Artır"
+
+msgid "Increase Volume"
+msgstr "Ses Düzeyini Artır"
+
+msgid "Incremental"
+msgstr "Artan"
+
+msgid "Indentation"
+msgstr "Girintileme"
+
+msgid "Index"
+msgstr "İndeks"
+
+msgid "Indexed"
+msgstr "İndeksli"
+
+msgid "India"
+msgstr "Hindistan"
+
+msgid "Indonesia"
+msgstr "Endonezya"
+
+msgid "Indonesian"
+msgstr "Endonezce"
+
+msgid "Industrial"
+msgstr "Endüstriyel"
+
+msgid "Info"
+msgstr "Bilgi"
+
+msgid "Information"
+msgstr "Bilgi"
+
+msgid "Initials"
+msgstr "Baş Harfler"
+
+msgid "Input"
+msgstr "Giriş"
+
+msgid "Input Devices"
+msgstr "Giriş Aygıtları"
+
+msgid "Insert"
+msgstr "Ekle"
+
+msgid "&Insert"
+msgstr "&Ekle"
+
+msgid "Insert Image"
+msgstr "Görsel Ekle"
+
+msgid "Insert Link"
+msgstr "Bağlantı Ekle"
+
+msgid "Insert Table"
+msgstr "Tablo Ekle"
+
+msgid "Insert Text"
+msgstr "Metin Ekle"
+
+msgid "Install"
+msgstr "Kur"
+
+msgid "Install..."
+msgstr "Kur…"
+
+msgid "Install from File..."
+msgstr "Dosyadan Kur…"
+
+msgid "Installed"
+msgstr "Kurulu"
+
+msgid "Installing"
+msgstr "Kuruluyor"
+
+msgid "Instant"
+msgstr "Anında"
+
+msgid "Integer"
+msgstr "Tamsayı"
+
+msgid "Integrate"
+msgstr "Bütünleştir"
+
+msgid "Intensity"
+msgstr "Yoğunluk"
+
+msgid "Interface"
+msgstr "Arayüz"
+
+msgid "Internal"
+msgstr "İç"
+
+msgid "Internal Error"
+msgstr "İç Hata"
+
+msgid "Internal error"
+msgstr "İç hata"
+
+msgid "International"
+msgstr "Uluslararası"
+
+msgid "Internet"
+msgstr "İnternet"
+
+msgid "Interpolation"
+msgstr "Aradeğerleme"
+
+msgid "Interrupt"
+msgstr "Yarıda Kes"
+
+msgid "Interval"
+msgstr "Aralık"
+
+msgid "Introduction"
+msgstr "Giriş"
+
+msgid "Invalid"
+msgstr "Geçersiz"
+
+msgid "invalid"
+msgstr "geçersiz"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr "“%s” geçersiz bir mantıksal sabit (evet veya hayır değil)"
+
+msgid "Invalid date"
+msgstr "Geçersiz tarih"
+
+msgid "Invalid password"
+msgstr "Geçersiz parola"
+
+msgid "Invalid URL"
+msgstr "Geçersiz URL"
+
+msgid "Invert"
+msgstr "Tersine Çevir"
+
+msgid "Invert Selection"
+msgstr "Seçimi Tersine Çevir"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP Adresi"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "İran"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "İrlanda"
+
+msgid "Irish"
+msgstr "İrlandaca"
+
+msgid "is"
+msgstr "dir"
+
+msgid "Israel"
+msgstr "İsrail"
+
+msgid "Issued By"
+msgstr "Veren"
+
+msgid "Issuer"
+msgstr "Veren"
+
+msgid "Italian"
+msgstr "İtalyanca"
+
+msgid "Italic"
+msgstr "Yatık"
+
+msgid "&Italic"
+msgstr "&Yatık"
+
+msgid "_Italic"
+msgstr "_Eğik"
+
+msgid "Italy"
+msgstr "İtalya"
+
+msgid "Item"
+msgstr "Öge"
+
+msgid "Items"
+msgstr "Ögeler"
+
+msgid "Iterations"
+msgstr "Yinelemeler"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "Jamaika"
+
+msgid "January"
+msgstr "Ocak"
+
+msgid "Japan"
+msgstr "Japonya"
+
+msgid "Japanese"
+msgstr "Japonca"
+
+msgid "Javanese"
+msgstr "Javaca"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "Caz"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr "Katıl"
+
+msgid "Jonah Brüchert"
+msgstr "Jonah Brüchert"
+
+msgid "Jordan"
+msgstr "Ürdün"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr "Joshua Goins"
+
+msgid "Journal"
+msgstr "Günce"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "Temmuz"
+
+msgid "Jump to next match"
+msgstr "Sonraki eşleşmeye git"
+
+msgid "Jump to previous match"
+msgstr "Önceki eşleşmeye git"
+
+msgid "June"
+msgstr "Haziran"
+
+msgid "Justify"
+msgstr "İki Yana Hizala"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "Kannadaca"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "Kazakça"
+
+msgid "Kazakhstan"
+msgstr "Kazakistan"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "KDE Topluluğu, Felipe Kinoshita"
+
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "Tut"
+
+msgid "_Keep"
+msgstr "_Koru"
+
+msgid "Keep aspect ratio"
+msgstr "En–boy oranını koru"
+
+msgid "Keep Open"
+msgstr "Açık tut"
+
+msgid "Kenya"
+msgstr "Kenya"
+
+msgid "Kernel"
+msgstr "Çekirdek"
+
+msgid "Key"
+msgstr "Anahtar"
+
+msgid "Key ID"
+msgstr "Anahtar Kimliği"
+
+msgid "Keyboard"
+msgstr "Klavye"
+
+msgid "Keyboard Layout"
+msgstr "Klavye Düzeni"
+
+msgid "Keyboard Shortcuts"
+msgstr "Klavye Kısayolları"
+
+msgid "Keyboard shortcuts"
+msgstr "Klavye kısayolları"
+
+msgid "_Keyboard Shortcuts"
+msgstr "_Klavye Kısayolları"
+
+msgid "Keys"
+msgstr "Anahtarlar"
+
+msgid "Keyword"
+msgstr "Anahtar Sözcük"
+
+msgid "Keywords"
+msgstr "Anahtar Sözcükler"
+
+msgid "Khmer"
+msgstr "Kmerce"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "Tür"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "km"
+msgstr "km"
+
+msgid "KMail"
+msgstr "K Posta"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "Korece"
+
+msgid "KOrganizer"
+msgstr "K Organizatör"
+
+msgid "Kuwait"
+msgstr "Kuveyt"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "Etiket"
+
+msgid "label"
+msgstr "etiket"
+
+msgid "Labels"
+msgstr "Etiketler"
+
+msgid "Landscape"
+msgstr "Yatay"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "_Language"
+msgstr "_Dil"
+
+msgid "Languages"
+msgstr "Diller"
+
+msgid "Lao"
+msgstr "Lao"
+
+msgid "Laos"
+msgstr "Laos"
+
+msgid "Large"
+msgstr "Büyük"
+
+msgid "Last"
+msgstr "Son"
+
+msgid "Last Modified"
+msgstr "Son Değiştirilme"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "Latin"
+
+msgid "Latitude"
+msgstr "Enlem"
+
+msgid "Latvia"
+msgstr "Letonya"
+
+msgid "Latvian"
+msgstr "Letonca"
+
+msgid "Launch %1"
+msgstr "%1 Başlat"
+
+msgid "Layer"
+msgstr "Katman"
+
+msgid "Layers"
+msgstr "Katmanlar"
+
+msgid "Layout"
+msgstr "Yerleşim"
+
+msgid "Leave Fullscreen"
+msgstr "Tam Ekranı Kapat"
+
+msgid "Lebanon"
+msgstr "Lübnan"
+
+msgid "Left"
+msgstr "Sol"
+
+msgid "left"
+msgstr "sol"
+
+msgid "&Left"
+msgstr "&Sol"
+
+msgid "_Left"
+msgstr "_Sol"
+
+msgid "Left to Right"
+msgstr "Soldan Sağa"
+
+msgid "Legacy"
+msgstr "Eski"
+
+msgid "Legend"
+msgstr "Lejant"
+
+msgid "Length"
+msgstr "Uzunluk"
+
+msgid "Lesotho"
+msgstr "Lesoto"
+
+msgid "Letter"
+msgstr "Mektup"
+
+msgid "Level"
+msgstr "Düzey"
+
+msgid "Level %1"
+msgstr "Düzey %1"
+
+msgid "Levels"
+msgstr "Düzeyler"
+
+msgid "Liberia"
+msgstr "Liberya"
+
+msgid "Library"
+msgstr "Kitaplık"
+
+msgid "License"
+msgstr "Lisans"
+
+msgid "Liechtenstein"
+msgstr "Lihtenştayn"
+
+msgid "Light"
+msgstr "Açık"
+
+msgid "Lighten"
+msgstr "Aydınlat"
+
+msgid "Lightness"
+msgstr "Açıklık"
+
+msgid "Limit"
+msgstr "Sınır"
+
+msgid "Limits"
+msgstr "Sınırlar"
+
+msgid "Line"
+msgstr "Çizgi"
+
+msgid "line"
+msgstr "doğru"
+
+msgid "Line Break"
+msgstr "Satır Sonu"
+
+msgid "Line Color"
+msgstr "Çizgi Rengi"
+
+msgid "Line Numbers"
+msgstr "Satır Numaraları"
+
+msgid "Line Width"
+msgstr "Çizgi Genişliği"
+
+msgid "Line width"
+msgstr "Çizgi genişliği"
+
+msgid "Linear"
+msgstr "Doğrusal"
+
+msgid "Lines"
+msgstr "Çizgiler"
+
+msgid "Link"
+msgstr "Bağlantı"
+
+msgid "link"
+msgstr "bağlantı"
+
+msgid "Link URL"
+msgstr "Bağlantı URL’si"
+
+msgid "Links"
+msgstr "Bağlantılar"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "List View"
+msgstr "Liste Görünümü"
+
+msgid "Lists"
+msgstr "Listeler"
+
+msgid "Lists the available options for user feedback"
+msgstr "Kullanıcı geri bildirimi için kullanılabilir seçenekleri listeler"
+
+msgid "Lithuania"
+msgstr "Litvanya"
+
+msgid "Lithuanian"
+msgstr "Litvanca"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "Yükle"
+
+msgid "Load..."
+msgstr "Yükle…"
+
+msgid "Load Game"
+msgstr "Oyun Yükle"
+
+msgid "Loading"
+msgstr "Yükleniyor"
+
+msgid "Loading..."
+msgstr "Yükleniyor…"
+
+msgid "Loading %1..."
+msgstr "%1 yükleniyor…"
+
+msgid "Local"
+msgstr "Yerel"
+
+msgid "Locale"
+msgstr "Yerel"
+
+msgid "Locality"
+msgstr "Yöre"
+
+msgid "Location"
+msgstr "Konum"
+
+msgid "Locations"
+msgstr "Konumlar"
+
+msgid "Lock"
+msgstr "Kilitle"
+
+msgid "Lock Screen"
+msgstr "Ekranı Kilitle"
+
+msgid "Locked"
+msgstr "Kilitli"
+
+msgid "Log"
+msgstr "Günlük"
+
+msgid "Log in"
+msgstr "Oturum Aç"
+
+msgid "Log Out"
+msgstr "Oturumu Kapat"
+
+msgid "Logarithmic"
+msgstr "Logaritmik"
+
+msgid "Logging"
+msgstr "Günlükleme"
+
+msgid "Logging in..."
+msgstr "Oturum açılıyor…"
+
+msgid "Logic"
+msgstr "Mantık"
+
+msgid "Login"
+msgstr "Oturum Aç"
+
+msgid "_Login"
+msgstr "_Giriş"
+
+msgid "Logout"
+msgstr "Oturumu Kapat"
+
+msgid "Logs"
+msgstr "Günlükler"
+
+msgid "Longitude"
+msgstr "Boylam"
+
+msgid "Loop"
+msgstr "Döngü"
+
+msgid "Low"
+msgstr "Düşük"
+
+msgid "Lower"
+msgstr "Alçalt"
+
+msgid "Lowercase"
+msgstr "küçük Harf"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "Aydınlık"
+
+msgid "Luxembourg"
+msgstr "Lüksemburg"
+
+msgid "Lyricist"
+msgstr "Söz Yazarı"
+
+msgid "Lyrics"
+msgstr "Şarkı Sözleri"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr "m"
+
+msgid "Macedonian"
+msgstr "Makedonca"
+
+msgid "Macro"
+msgstr "Makro"
+
+msgid "Macros"
+msgstr "Makrolar"
+
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+msgid "Magenta"
+msgstr "Mor"
+
+msgid "Mail"
+msgstr "Posta"
+
+msgid "Main"
+msgstr "Ana"
+
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+msgid "Main Toolbar"
+msgstr "Ana Araç Çubuğu"
+
+msgid "Main Window"
+msgstr "Ana Pencere"
+
+msgid "Main window"
+msgstr "Ana pencere"
+
+msgid "Maintainer"
+msgstr "Bakımcı"
+
+msgid "Malawi"
+msgstr "Malavi"
+
+msgid "Malay"
+msgstr "Malayca"
+
+msgid "Malayalam"
+msgstr "Malayalam Dili"
+
+msgid "Malaysia"
+msgstr "Malezya"
+
+msgid "Maldives"
+msgstr "Maldivler"
+
+msgid "Male"
+msgstr "Erkek"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Maltese"
+msgstr "Maltaca"
+
+msgid "Manager"
+msgstr "Yönetici"
+
+msgid "Manual"
+msgstr "Elle"
+
+msgid "Manufacturer"
+msgstr "Üretici"
+
+msgid "Map"
+msgstr "Harita"
+
+msgid "Maps"
+msgstr "Haritalar"
+
+msgid "Marathi"
+msgstr "Marati Dili"
+
+msgid "Marble"
+msgstr "Bilye"
+
+msgid "March"
+msgstr "Mart"
+
+msgid "Margins"
+msgstr "Kenar Boşlukları"
+
+msgid "Mark"
+msgstr "İmle"
+
+msgid "Mark as Read"
+msgstr "Okundu Olarak İmle"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Marker"
+msgstr "İmleyici"
+
+msgid "Markers"
+msgstr "İmleyiciler"
+
+msgid "Marshall Islands"
+msgstr "Marshall Adaları"
+
+msgid "Mask"
+msgstr "Maske"
+
+msgid "Mass"
+msgstr "Kütle"
+
+msgid "Match"
+msgstr "Eşleştir"
+
+msgid "Match case"
+msgstr "BÜYÜK/küçük harf eşleştir"
+
+msgid "_Match case"
+msgstr "Büyük/küçük _harf eşleştir"
+
+msgid "Math"
+msgstr "Matematik"
+
+msgid "Matrix"
+msgstr "Matris"
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "Moritanya"
+
+msgid "Mauritius"
+msgstr "Mauritius"
+
+msgid "Max"
+msgstr "En çok"
+
+msgid "max"
+msgstr "en büyük"
+
+msgid "Maximize"
+msgstr "Ekranı Kapla"
+
+msgid "Maximum"
+msgstr "En Yüksek"
+
+msgid "May"
+msgstr "Mayıs"
+
+msgid "Maze"
+msgstr "Labirent"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "Ortalama"
+
+msgid "Measure"
+msgstr "Ölçü"
+
+msgid "Media"
+msgstr "Ortam"
+
+msgid "Media Player"
+msgstr "Ortam Oynatıcısı"
+
+msgid "Median"
+msgstr "Ortanca"
+
+msgid "Medium"
+msgstr "Orta"
+
+msgid "medium"
+msgstr "orta"
+
+msgid "Member"
+msgstr "Üye"
+
+msgid "Memory"
+msgstr "Bellek"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Mercury"
+msgstr "Merkür"
+
+msgid "Merge"
+msgstr "Birleştir"
+
+msgid "Message"
+msgstr "İleti"
+
+msgid "message"
+msgstr "ileti"
+
+msgid "Messages"
+msgstr "İletiler"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "Üst Veri"
+
+msgid "Metal"
+msgstr "Metal"
+
+msgid "meters"
+msgstr "metre"
+
+msgid "Method"
+msgstr "Yöntem"
+
+msgid "Metric"
+msgstr "Metrik"
+
+msgid "Mexico"
+msgstr "Meksika"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "Mikrofon"
+
+msgid "Middle"
+msgstr "Orta"
+
+msgid "Miha Čančula"
+msgstr "Miha Čančula"
+
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+msgid "Millimeters"
+msgstr "Milimetre"
+
+msgid "Millimeters (mm)"
+msgstr "Milimetre (mm)"
+
+msgid "Milliseconds"
+msgstr "Milisaniye"
+
+msgid "milliseconds"
+msgstr "milisaniye"
+
+msgid "Min"
+msgstr "En Az"
+
+msgid "min"
+msgstr "dk"
+
+msgid "Minimize"
+msgstr "Küçült"
+
+msgid "Minimum"
+msgstr "En Az"
+
+msgid "Minute"
+msgstr "Dakika"
+
+msgid "Minutes"
+msgstr "Dakika"
+
+msgid "minutes"
+msgstr "dakika"
+
+msgid "Mirror"
+msgstr "Yansıt"
+
+msgid "Misc"
+msgstr "Çeşitli"
+
+msgid "Miscellaneous"
+msgstr "Çeşitli"
+
+msgid "missing plugin file \"%s\""
+msgstr "kayıp eklenti dosyası \"%s\""
+
+msgid "Miter limit"
+msgstr "Köşe sınırı"
+
+msgid "Mix"
+msgstr "Karışım"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Mobile"
+msgstr "Taşınabilir"
+
+msgid "Mode"
+msgstr "Kip"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Modem"
+msgstr "Modem"
+
+msgid "Modified"
+msgstr "Değiştirilme"
+
+msgid "modified"
+msgstr "değiştirildi"
+
+msgid "Modifiers"
+msgstr "Niteleyiciler"
+
+msgid "Modify"
+msgstr "Değiştir"
+
+msgid "Modify..."
+msgstr "Değiştir…"
+
+msgid "&Modify..."
+msgstr "&Değiştir…"
+
+msgid "Modify search behavior"
+msgstr "Arama davranışını değiştir"
+
+msgid "Module"
+msgstr "Modül"
+
+msgid "Modules"
+msgstr "Modüller"
+
+msgid "Moldova"
+msgstr "Moldova"
+
+msgid "Monaco"
+msgstr "Monako"
+
+msgid "Monday"
+msgstr "Pazartesi"
+
+msgid "Mongolia"
+msgstr "Moğolistan"
+
+msgid "Mongolian"
+msgstr "Moğolca"
+
+msgid "Monitor"
+msgstr "Monitör"
+
+msgid "Mono"
+msgstr "Tek Kanallı"
+
+msgid "Monochrome"
+msgstr "Tek renkli"
+
+msgid "Monospace"
+msgstr "Eş Aralıklı"
+
+msgid "Montenegro"
+msgstr "Karadağ"
+
+msgid "Month"
+msgstr "Ay"
+
+msgid "Month View"
+msgstr "Ay Görünümü"
+
+msgid "Monthly"
+msgstr "Aylık"
+
+msgid "Months"
+msgstr "Ay"
+
+msgid "More"
+msgstr "Daha Fazla"
+
+msgid "More..."
+msgstr "Daha Fazla…"
+
+msgid "More actions"
+msgstr "Daha fazla eylem"
+
+msgid "More Information"
+msgstr "Daha Çok Bilgi"
+
+msgid "More options"
+msgstr "Daha fazla seçenek"
+
+msgid "Morocco"
+msgstr "Fas"
+
+msgid "Mount"
+msgstr "Bağla"
+
+msgid "Mount point"
+msgstr "Bağlama noktası"
+
+msgid "Mouse"
+msgstr "Fare"
+
+msgid "Mouse Wheel"
+msgstr "Fare Tekerleği"
+
+msgid "Move"
+msgstr "Taşı"
+
+msgid "&Move"
+msgstr "&Taşı"
+
+msgid "_Move"
+msgstr "_Taşı"
+
+msgid "Move %1"
+msgstr "Taşı: %1"
+
+msgid "Move Down"
+msgstr "Aşağı Taşı"
+
+msgid "Move down"
+msgstr "Aşağı taşı"
+
+msgid "Move &Down"
+msgstr "&Aşağı Taşı"
+
+msgid "&Move Here"
+msgstr "Buraya &Taşı"
+
+msgid "Move Left"
+msgstr "Sola Taşı"
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr "Sağa Taşı"
+
+msgid "Move Tab Left"
+msgstr "Sekmeyi Sola Taşı"
+
+msgid "Move Tab Right"
+msgstr "Sekmeyi Sağa Taşı"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "Taşı"
+
+msgid "Move to Bottom"
+msgstr "Alta Taşı"
+
+msgid "Move to Top"
+msgstr "Üste Taşı"
+
+msgid "Move to Trash"
+msgstr "Çöp Kutusuna Taşı"
+
+msgid "&Move to Trash"
+msgstr "&Çöp Kutusuna Taşı"
+
+msgid "Move Up"
+msgstr "Yukarı Taşı"
+
+msgid "Move up"
+msgstr "Yukarı taşı"
+
+msgid "Move &Up"
+msgstr "&Yukarı Taşı"
+
+msgid "Mozambique"
+msgstr "Mozambik"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "Çoklu Ortam"
+
+msgid "Multiply"
+msgstr "Çarp"
+
+msgid "Music"
+msgstr "Müzik"
+
+msgid "Music Player"
+msgstr "Müzikçalar"
+
+msgid "Mute"
+msgstr "Sessize Al"
+
+msgid "Myanmar"
+msgstr "Myanmar"
+
+msgid "N"
+msgstr "K"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "Yok"
+
+msgid "n/a"
+msgstr "yok"
+
+msgid "NAME"
+msgstr "AD"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "name"
+msgstr "ad"
+
+msgid "&Name"
+msgstr "&Ad"
+
+msgid "_Name"
+msgstr "_Ad"
+
+msgid "Name: %1"
+msgstr "Ad: %1"
+
+msgid "Namespace"
+msgstr "Ad Alanı"
+
+msgid "Namibia"
+msgstr "Namibya"
+
+msgid "Nature"
+msgstr "Doğa"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Navigation"
+msgstr "Dolaşım"
+
+msgid "Negative"
+msgstr "Negatif"
+
+msgid "Neon"
+msgstr "Neon"
+
+msgid "Nepal"
+msgstr "Nepal"
+
+msgid "Nepali"
+msgstr "Nepalce"
+
+msgid "Netherlands"
+msgstr "Hollanda"
+
+msgid "Network"
+msgstr "Ağ"
+
+msgid "Networks"
+msgstr "Ağlar"
+
+msgid "Never"
+msgstr "Asla"
+
+msgid "never"
+msgstr "asla"
+
+msgid "New"
+msgstr "Yeni"
+
+msgid "&New"
+msgstr "&Yeni"
+
+msgid "_New"
+msgstr "_Yeni"
+
+msgid "New..."
+msgstr "Yeni…"
+
+msgid "&New..."
+msgstr "&Yeni…"
+
+msgid "_New..."
+msgstr "_Yeni..."
+
+msgid "New Bookmark"
+msgstr "Yeni Yer İmi"
+
+msgid "New Connection"
+msgstr "Yeni Bağlantı"
+
+msgid "New File"
+msgstr "Yeni Dosya"
+
+msgid "New Folder"
+msgstr "Yeni Klasör"
+
+msgid "New folder"
+msgstr "Yeni Klasör"
+
+msgid "New Folder..."
+msgstr "Yeni Klasör…"
+
+msgid "New Game"
+msgstr "Yeni Oyun"
+
+msgid "New Group"
+msgstr "Yeni Grup"
+
+msgid "New Item"
+msgstr "Yeni Öge"
+
+msgid "New Layer"
+msgstr "Yeni Katman"
+
+msgid "New Message"
+msgstr "Yeni İleti"
+
+msgid "New Name"
+msgstr "Yeni Ad"
+
+msgid "New name"
+msgstr "Yeni ad"
+
+msgid "New Profile"
+msgstr "Yeni Profil"
+
+msgid "New Project"
+msgstr "Yeni Proje"
+
+msgid "New Session"
+msgstr "Yeni Oturum"
+
+msgid "New South Wales"
+msgstr "Yeni Güney Galler"
+
+msgid "New Tab"
+msgstr "Yeni Sekme"
+
+msgid "New tag"
+msgstr "Yeni künye"
+
+msgid "New Window"
+msgstr "Yeni Pencere"
+
+msgid "_New Window"
+msgstr "_Yeni Pencere"
+
+msgid "New &Window"
+msgstr "Yeni &Pencere"
+
+msgid "New _Window"
+msgstr "Yeni _Pencere"
+
+msgid "New Zealand"
+msgstr "Yeni Zelanda"
+
+msgid "News"
+msgstr "Haberler"
+
+msgid "Newton"
+msgstr "Newton"
+
+msgid "Next"
+msgstr "Sonraki"
+
+msgid "&Next"
+msgstr "&Sonraki"
+
+msgid "_Next"
+msgstr "_Sonraki"
+
+msgid "Next Image"
+msgstr "Sonraki Görüntü"
+
+msgid "Next month"
+msgstr "Gelecek ay"
+
+msgid "Next Page"
+msgstr "Sonraki Sayfa"
+
+msgid "Next Tab"
+msgstr "Sonraki Sekme"
+
+msgid "Next Track"
+msgstr "Sonraki Parça"
+
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+msgid "Nickname"
+msgstr "Takma ad"
+
+msgid "Niger"
+msgstr "Nijer"
+
+msgid "Nigeria"
+msgstr "Nijerya"
+
+msgid "Night"
+msgstr "Gece"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "no"
+msgstr "hayır"
+
+msgid "_No"
+msgstr "_Hayır"
+
+msgid "No."
+msgstr "No."
+
+msgid "No description available"
+msgstr "Kullanılabilir açıklama yok"
+
+msgid "No devices found"
+msgstr "Hiçbir aygıt bulunamadı"
+
+msgid "No error"
+msgstr "Hata yok"
+
+msgid "No file selected"
+msgstr "Seçili dosya yok"
+
+msgid "No filter"
+msgstr "Süzgeç Yok"
+
+msgid "No Limit"
+msgstr "Sınırsız"
+
+msgid "No matches"
+msgstr "Eşleşme yok"
+
+msgid "No Name"
+msgstr "Adsız"
+
+msgid "No name"
+msgstr "Adsız"
+
+msgid "No network connection"
+msgstr "Ağ bağlantısı yok"
+
+msgid "No results"
+msgstr "Sonuç yok"
+
+msgid "No Results Found"
+msgstr "Sonuç Bulunamadı"
+
+msgid "No results found"
+msgstr "Bulunan sonuç yok"
+
+msgid "No search results"
+msgstr "Arama sonucu yok"
+
+msgid "No selection"
+msgstr "Seçim yok"
+
+msgid "No Subject"
+msgstr "Konu Yok"
+
+msgid "No VPN configuration options."
+msgstr "VPN yapılandırma seçeneği bulunamadı."
+
+msgid "Noise"
+msgstr "Gürültü"
+
+msgid "None"
+msgstr "Yok"
+
+msgid "none"
+msgstr "yok"
+
+msgid "&None"
+msgstr "&Yok"
+
+msgid "_None"
+msgstr "_Hiçbiri"
+
+msgid "(None)"
+msgstr "(Hiçbiri)"
+
+msgid "(none)"
+msgstr "(hiçbiri)"
+
+msgid "Nordic"
+msgstr "İskandinav"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "_Normal Size"
+msgstr "_Normal Boyut"
+
+msgid "Normalize"
+msgstr "Normalleştir"
+
+msgid "North"
+msgstr "Kuzey"
+
+msgid "North America"
+msgstr "Kuzey Amerika"
+
+msgid "Norway"
+msgstr "Norveç"
+
+msgid "Norwegian"
+msgstr "Norveççe"
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "'%1' yazılamadı. Bölüntü dolu olabilir mi?"
+
+msgid "Not Available"
+msgstr "Kullanılabilir Değil"
+
+msgid "Not available"
+msgstr "Kullanılabilir değil"
+
+msgid "not available"
+msgstr "kullanılabilir değil"
+
+msgid "Not Connected"
+msgstr "Bağlı Değil"
+
+msgid "Not connected"
+msgstr "Bağlı değil"
+
+msgid "Not defined"
+msgstr "Tanımlanmamış"
+
+msgid "Not found"
+msgstr "Bulunamadı"
+
+msgid "Not implemented"
+msgstr "Gerçeklenmedi"
+
+msgid "Not running"
+msgstr "Çalışmıyor"
+
+msgid "Not supported"
+msgstr "Desteklenmiyor"
+
+msgid "Note"
+msgstr "Not"
+
+msgid "Notes"
+msgstr "Notlar"
+
+msgid "Nothing"
+msgstr "Hiçbir şey"
+
+msgid "Notice"
+msgstr "Bildirim"
+
+msgid "Notification"
+msgstr "Bildirim"
+
+msgid "Notifications"
+msgstr "Bildirimler"
+
+msgid "Noun"
+msgstr "Ad"
+
+msgid "November"
+msgstr "Kasım"
+
+msgid "Now"
+msgstr "Şimdi"
+
+msgid "now"
+msgstr "şimdi"
+
+msgid "NT Domain"
+msgstr "NT alan adı"
+
+msgid "NUMBER"
+msgstr "NUMARA"
+
+msgid "Number"
+msgstr "Numara"
+
+msgid "number"
+msgstr "sayı"
+
+msgid "Number of columns"
+msgstr "Sütun sayısı"
+
+msgid "Numbers"
+msgstr "Sayılar"
+
+msgid "Numeric"
+msgstr "Sayısal"
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "Nesne"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr "'%s' nesne sınıfının '%s' adlı özelliği yok"
+
+msgid "Objects"
+msgstr "Nesneler"
+
+msgid "Oblique"
+msgstr "Eğik"
+
+msgid "Octal"
+msgstr "Sekizlik"
+
+msgid "October"
+msgstr "Ekim"
+
+msgid "Off"
+msgstr "Kapalı"
+
+msgid "off"
+msgstr "kapalı"
+
+msgid "Office"
+msgstr "Ofis"
+
+msgid "Offline"
+msgstr "Çevrim dışı"
+
+msgid "Offset"
+msgstr "Ofset"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Ok"
+msgstr "Tamam"
+
+msgid "&OK"
+msgstr "&Tamam"
+
+msgid "_OK"
+msgstr "_Tamam"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Oman"
+msgstr "Umman"
+
+msgid "On"
+msgstr "Açık"
+
+msgid "on"
+msgstr "açık"
+
+msgid "One"
+msgstr "Bir"
+
+msgid "Online"
+msgstr "Çevrim içi"
+
+msgid "Online Accounts"
+msgstr "Çevrim İçi Hesaplar"
+
+msgid "Opacity"
+msgstr "Matlık"
+
+msgid "Opaque"
+msgstr "Mat"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "&Open"
+msgstr "&Aç"
+
+msgid "_Open"
+msgstr "_Aç"
+
+msgid "Open..."
+msgstr "Aç…"
+
+msgid "&Open..."
+msgstr "&Aç…"
+
+msgid "_Open..."
+msgstr "_Aç..."
+
+msgid "Open %1"
+msgstr "Aç: %1"
+
+msgid "Open a file"
+msgstr ""
+
+msgid "Open a new tab"
+msgstr "Yeni bir sekme aç"
+
+msgid "Open a new window"
+msgstr "Yeni pencere aç"
+
+msgid "Open an existing document"
+msgstr "Var olan bir belgeyi aç"
+
+msgid "Open Audio"
+msgstr "Ses Aç"
+
+msgid "Open Containing Folder"
+msgstr "İçeren Klasörü Aç"
+
+msgid "&Open Containing Folder"
+msgstr "İçeren Klasörü &Aç"
+
+msgid "Open Document"
+msgstr "Belge Aç"
+
+msgid "Open File"
+msgstr "Dosya Aç"
+
+msgid "Open file"
+msgstr "Dosya aç"
+
+msgid "Open Folder"
+msgstr "Klasör Aç"
+
+msgid "Open folder"
+msgstr "Klasör Aç"
+
+msgid "Open Image"
+msgstr "Görsel Aç"
+
+msgid "Open in Browser"
+msgstr "Tarayıcıda Aç"
+
+msgid "Open in File Manager"
+msgstr "Dosya Yöneticisinde Aç"
+
+msgid "Open in New Tab"
+msgstr "Yeni Sekmede Aç"
+
+msgid "Open in New Window"
+msgstr "Yeni Pencerede Aç"
+
+msgid "Open Link"
+msgstr "Bağlantıyı Aç"
+
+msgid "_Open Link"
+msgstr "Bağlantıyı _Aç"
+
+msgid "Open Location"
+msgstr "Konum Aç"
+
+msgid "Open Menu"
+msgstr "Menüyü Aç"
+
+msgid "Open Project"
+msgstr "Proje Aç"
+
+msgid "Open &Recent"
+msgstr "&Son Kullanılanı Aç"
+
+msgid "Open Terminal Here"
+msgstr "Burada Uçbirim Aç"
+
+msgid "Open URL"
+msgstr "URL Aç"
+
+msgid "Open Video"
+msgstr "Video Aç"
+
+msgid "Open With"
+msgstr "Birlikte Aç"
+
+msgid "Open with"
+msgstr "Birlikte Aç"
+
+msgid "&Open With"
+msgstr "&Birlikte Aç"
+
+msgid "Open With..."
+msgstr "Birlikte Aç…"
+
+msgid "Open &with %1"
+msgstr "%1 &ile Aç"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "Dosya açılıyor…"
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr "Opera"
+
+msgid "Operation"
+msgstr "İşlem"
+
+msgid "Operation was cancelled"
+msgstr "İşlem iptal edildi"
+
+msgid "Operations"
+msgstr "İşlemler"
+
+msgid "Operator"
+msgstr "Operatör"
+
+msgid "Optical Character Recognition"
+msgstr "Optik Karakter Tanıma"
+
+msgid "Optimize"
+msgstr "Eniyile"
+
+msgid "Option"
+msgstr "Seçenek"
+
+msgid "Optional"
+msgstr "İsteğe bağlı"
+
+msgid "Options"
+msgstr "Seçenekler"
+
+msgid "&Options"
+msgstr "&Seçenekler"
+
+msgid "OR"
+msgstr "VEYA"
+
+msgid "Or"
+msgstr "Veya"
+
+msgid "or"
+msgstr "veya"
+
+msgid "Orange"
+msgstr "Turuncu"
+
+msgid "Order"
+msgstr "Sıra"
+
+msgid "Organization"
+msgstr "Organizasyon"
+
+msgid "Orientation"
+msgstr "Yönelim"
+
+msgid "Origin"
+msgstr "Köken"
+
+msgid "Original"
+msgstr "Özgün"
+
+msgid "Original Author"
+msgstr "Özgün yazar"
+
+msgid "Original author"
+msgstr "Özgün yazar"
+
+msgid "Original Size"
+msgstr "Özgün Boyut"
+
+msgid "Oriya"
+msgstr "Oriya Dili"
+
+msgid "Other"
+msgstr "Diğer"
+
+msgid "other"
+msgstr "diğer"
+
+msgid "Other..."
+msgstr "Diğer…"
+
+msgid "Other Application..."
+msgstr "Başka Uygulama…"
+
+msgid "Other Options"
+msgstr "Diğer Seçenekler"
+
+msgid "Others"
+msgstr "Diğerleri"
+
+msgid "Out"
+msgstr "Dış"
+
+msgid "Out of memory"
+msgstr "Yetersiz bellek"
+
+msgid "Outgoing"
+msgstr "Giden"
+
+msgid "Outline"
+msgstr "Ana Hat"
+
+msgid "Output"
+msgstr "Çıktı"
+
+msgid "Overlay"
+msgstr "Kaplama"
+
+msgid "Overview"
+msgstr "Genel Görünüm"
+
+msgid "Overwrite"
+msgstr "Üzerine Yaz"
+
+msgid "Overwrite File?"
+msgstr "Dosyanın Üzerine Yaz?"
+
+msgid "Owner"
+msgstr "Sahibi"
+
+msgid "Ownership"
+msgstr "Sahiplik"
+
+msgid "Oxygen"
+msgstr "Oksijen"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%%p"
+
+msgid "Package"
+msgstr "Paket"
+
+msgid "Padding"
+msgstr "Dolgu"
+
+msgid "Page"
+msgstr "Sayfa"
+
+msgid "page"
+msgstr "sayfa"
+
+msgid "Page %1"
+msgstr "Sayfa %1"
+
+msgid "Page %1 of %2"
+msgstr "Sayfa %1/%2"
+
+msgid "Page Break"
+msgstr "Sayfa Sonu"
+
+msgid "Page Count"
+msgstr "Sayfa Sayısı"
+
+msgid "Page Number"
+msgstr "Sayfa Numarası"
+
+msgid "Page Setup"
+msgstr "Sayfa Düzeni"
+
+msgid "Pager"
+msgstr "Çağrı Aygıtı"
+
+msgid "Pages"
+msgstr "Sayfalar"
+
+msgid "Paint"
+msgstr "Boya"
+
+msgid "Pair"
+msgstr "Eşleştir"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Palette"
+msgstr "Palet"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Panel"
+msgstr "Panel"
+
+msgid "Panels"
+msgstr "Paneller"
+
+msgid "&Panels"
+msgstr "&Paneller"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "Kâğıt"
+
+msgid "Paper Size"
+msgstr "Kağıt Boyutu"
+
+msgid "Papua New Guinea"
+msgstr "Papua Yeni Gine"
+
+msgid "Paragraph"
+msgstr "Paragraf"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parallel"
+msgstr "Paralel"
+
+msgid "Parameter"
+msgstr "Parametre"
+
+msgid "Parameters"
+msgstr "Parametreler"
+
+msgid "Parent"
+msgstr "Üst"
+
+msgid "Partition"
+msgstr "Bölüntü"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "password"
+msgstr "parola"
+
+msgid "&Password"
+msgstr "&Parola"
+
+msgid "_Password"
+msgstr "_Parola"
+
+msgid "Password..."
+msgstr "Parola…"
+
+msgid "Passwords"
+msgstr "Parolalar"
+
+msgid "Paste"
+msgstr "Yapıştır"
+
+msgid "&Paste"
+msgstr "&Yapıştır"
+
+msgid "_Paste"
+msgstr "_Yapıştır"
+
+msgid "Path"
+msgstr "Yol"
+
+msgid "path"
+msgstr "yol"
+
+msgid "Paths"
+msgstr "Yollar"
+
+msgid "Pattern"
+msgstr "Desen"
+
+msgid "Patterns"
+msgstr "Desenler"
+
+msgid "Pause"
+msgstr "Duraklat"
+
+msgid "&Pause"
+msgstr "&Duraklat"
+
+msgid "Pause playback"
+msgstr "Çalmayı duraklat"
+
+msgid "PAUSED"
+msgstr "DURAKLATILDI"
+
+msgid "Paused"
+msgstr "Duraklatıldı"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr "Tavan"
+
+msgid "Peek at Desktop"
+msgstr "Masaüstüne Bak"
+
+msgid "Pencil"
+msgstr "Kalem"
+
+msgid "Pending"
+msgstr "Beklemede"
+
+msgid "Pentagon"
+msgstr "Beşgen"
+
+msgid "People"
+msgstr "Kişiler"
+
+msgid "Percent"
+msgstr "Yüzde"
+
+msgid "Percentage"
+msgstr "Yüzde"
+
+msgid "Perceptual"
+msgstr "Algısal"
+
+msgid "Performance"
+msgstr "Başarım"
+
+msgid "Period"
+msgstr "Periyot"
+
+msgid "Permission denied"
+msgstr "İzin reddedildi"
+
+msgid "Permissions"
+msgstr "İzinler"
+
+msgid "Persian"
+msgstr "Farsça"
+
+msgid "Person"
+msgstr "Kişi"
+
+msgid "Personal"
+msgstr "Kişisel"
+
+msgid "Personal Information"
+msgstr "Kişisel Bilgi"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Phase"
+msgstr "Evre"
+
+msgid "Philippines"
+msgstr "Filipinler"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Photo"
+msgstr "Fotoğraf"
+
+msgid "PHP Documentation"
+msgstr "PHP Belgelendirmesi"
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "Bir renk seç"
+
+msgid "Picture"
+msgstr "Resim"
+
+msgid "Pictures"
+msgstr "Resimler"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr "Pasta"
+
+msgid "Pin"
+msgstr "Pim"
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "Piksel"
+
+msgid "pixels"
+msgstr "piksel"
+
+msgid "Placement"
+msgstr "Yerleştirme"
+
+msgid "Places"
+msgstr "Yerler"
+
+msgid "Plain"
+msgstr "Düz"
+
+msgid "Plain Text"
+msgstr "Düz Metin"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Platform"
+msgstr "Platform"
+
+msgid "Play"
+msgstr "Oynat"
+
+msgid "Play Next"
+msgstr "Sonrakini Oynat"
+
+msgid "Play Sounds"
+msgstr "Sesleri çal"
+
+msgid "Playback"
+msgstr "Oynatma"
+
+msgid "Player"
+msgstr "Oyuncu"
+
+msgid "Player %1"
+msgstr "Oyuncu %1"
+
+msgid "Players"
+msgstr "Oyuncular"
+
+msgid "Playground"
+msgstr "Oyun Alanı"
+
+msgid "Playing"
+msgstr "Çalıyor"
+
+msgid "Playlist"
+msgstr "Çalma Listesi"
+
+msgid "Playlists"
+msgstr "Çalma Listeleri"
+
+msgid "Play/Pause"
+msgstr "Oynat/Duraklat"
+
+msgid "Please choose a file"
+msgstr "Dosya Seç"
+
+msgid "Please wait"
+msgstr "Lütfen Bekleyin"
+
+msgid "Please wait..."
+msgstr "Lütfen bekleyin…"
+
+msgid "Plot"
+msgstr "Çizim"
+
+msgid "Plots"
+msgstr "Grafikler"
+
+msgid "Plugin"
+msgstr "Eklenti"
+
+msgid "Plugins"
+msgstr "Eklentiler"
+
+msgid "PM"
+msgstr "ÖS"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "Nokta"
+
+msgid "Pointers"
+msgstr "İşaretçiler"
+
+msgid "Points"
+msgstr "Noktalar"
+
+msgid "points"
+msgstr "noktalar"
+
+msgid "Poland"
+msgstr "Polonya"
+
+msgid "Policy"
+msgstr "İlke"
+
+msgid "Polish"
+msgstr "Lehçe"
+
+msgid "Polygon"
+msgstr "Çokgen"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Port"
+msgstr "Kapı"
+
+msgid "&Port"
+msgstr "&Kapı"
+
+msgid "Portrait"
+msgstr "Dikey"
+
+msgid "Portugal"
+msgstr "Portekiz"
+
+msgid "Portuguese"
+msgstr "Portekizce"
+
+msgid "Position"
+msgstr "Konum"
+
+msgid "Posterize"
+msgstr "Posterleştir"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "Güç"
+
+msgid "Power Management"
+msgstr "Güç Yönetimi"
+
+msgid "Precision"
+msgstr "Hassasiyet"
+
+msgid "Preferences"
+msgstr "Tercihler"
+
+msgid "_Preferences"
+msgstr "_Tercihler"
+
+msgid "Prefix"
+msgstr "Önek"
+
+msgid "Presentation"
+msgstr "Sunum"
+
+msgid "Preset"
+msgstr "Önayar"
+
+msgid "Presets"
+msgstr "Önayarlar"
+
+msgid "Pressure"
+msgstr "Basınç"
+
+msgid "Preview"
+msgstr "Önizleme"
+
+msgid "&Preview"
+msgstr "&Önizleme"
+
+msgid "Previews"
+msgstr "Önizlemeler"
+
+msgid "Previous"
+msgstr "Önceki"
+
+msgid "&Previous"
+msgstr "&Önceki"
+
+msgid "_Previous"
+msgstr "_Önceki"
+
+msgid "Previous Image"
+msgstr "Önceki Görsel"
+
+msgid "Previous month"
+msgstr "Geçen ay"
+
+msgid "Previous Page"
+msgstr "Önceki Sayfa"
+
+msgid "Previous Tab"
+msgstr "Önceki Sekme"
+
+msgid "Previous Track"
+msgstr "Önceki Parça"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Primary"
+msgstr "Birincil"
+
+msgid "Print"
+msgstr "Yazdır"
+
+msgid "_Print"
+msgstr "_Yazdır"
+
+msgid "Print..."
+msgstr "Yazdır…"
+
+msgid "&Print..."
+msgstr "&Yazdır…"
+
+msgid "_Print..."
+msgstr "_Yazdır…"
+
+msgid "Print Image"
+msgstr "Görseli Yazdır"
+
+msgid "Print Preview"
+msgstr "Yazdırma Önizlemesi"
+
+msgid "Print version"
+msgstr "Sürüm yazdır"
+
+msgid "Print version information and exit"
+msgstr "Sürüm bilgisini yazdır ve çık"
+
+msgid "Printer"
+msgstr "Yazıcı"
+
+msgid "Printers"
+msgstr "Yazıcılar"
+
+msgid "Printing"
+msgstr "Yazdırma"
+
+msgid "Printing..."
+msgstr "Yazdırılıyor…"
+
+msgid "Priority"
+msgstr "Öncelik"
+
+msgid "Privacy"
+msgstr "Gizlilik"
+
+msgid "Private"
+msgstr "Özel"
+
+msgid "Process"
+msgstr "Süreç"
+
+msgid "Processor"
+msgstr "İşlemci"
+
+msgid "Producer"
+msgstr "Üretici"
+
+msgid "Product"
+msgstr "Ürün"
+
+msgid "Profession"
+msgstr "Meslek"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile name"
+msgstr "Profil adı"
+
+msgid "Profiles"
+msgstr "Profiller"
+
+msgid "Program"
+msgstr "Program"
+
+msgid "Progress"
+msgstr "İlerleme"
+
+msgid "Project"
+msgstr "Proje"
+
+msgid "&Project"
+msgstr "Pro&je"
+
+msgid "Projects"
+msgstr "Projeler"
+
+msgid "Properties"
+msgstr "Özellikler"
+
+msgid "&Properties"
+msgstr "Ö&zellikler"
+
+msgid "_Properties"
+msgstr "_Özellikler"
+
+msgid "Properties..."
+msgstr "Özellikler…"
+
+msgid "&Properties..."
+msgstr "&Özellikler…"
+
+msgid "Property"
+msgstr "Özellik"
+
+msgid "property “%s” invalid or not supported"
+msgstr "“%s” özelliği geçersiz veya desteklenmiyor"
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr "'%2$s' nesne sınıfının '%1$s' özelliği yazılabilir değil"
+
+msgid "Proportional"
+msgstr "Orantılı"
+
+msgid "Protected"
+msgstr "Korumalı"
+
+msgid "Protocol"
+msgstr "Protokol"
+
+msgid "Provider"
+msgstr "Sağlayıcı"
+
+msgid "Proxy"
+msgstr "Vekil"
+
+msgid "Proxy Settings"
+msgstr "Vekil Ayarları"
+
+msgid "Public"
+msgstr "Genel"
+
+msgid "Public Key"
+msgstr "Genel Anahtar"
+
+msgid "Publisher"
+msgstr "Yayımcı"
+
+msgid "Publishing"
+msgstr "Yayıncılık"
+
+msgid "Puerto Rico"
+msgstr "Porto Riko"
+
+msgid "Punjabi"
+msgstr "Pencapça"
+
+msgid "Push"
+msgstr "İt"
+
+msgid "px"
+msgstr "pks"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "Katar"
+
+msgid "QR Code"
+msgstr "Kare Kod"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>Bu, menü çubuğunu tümüyle gizleyecektir. %1 ile yeniden "
+"gösterebilirsiniz.</qt>"
+
+msgid "Quality"
+msgstr "Kalite"
+
+msgid "Quebec"
+msgstr "Quebec"
+
+msgid "Query"
+msgstr "Sorgu"
+
+msgid "Question"
+msgstr "Soru"
+
+msgid "Queue"
+msgstr "Kuyruk"
+
+msgid "Queued"
+msgstr "Kuyrukta"
+
+msgid "Quit"
+msgstr "Çık"
+
+msgid "&Quit"
+msgstr "&Çık"
+
+msgid "_Quit"
+msgstr "_Çık"
+
+msgid "Quit application"
+msgstr "Uygulamadan çık"
+
+msgid "Quit the application"
+msgstr "Uygulamadan çık"
+
+msgid "Quits the application"
+msgstr "Uygulamadan çıkar"
+
+msgid "Quote"
+msgstr "Alıntı"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "Radyal"
+
+msgid "Radio"
+msgstr "Radyo"
+
+msgid "Radius"
+msgstr "Yarıçap"
+
+msgid "Raise"
+msgstr "Yükselt"
+
+msgid "Random"
+msgstr "Rastgele"
+
+msgid "Range"
+msgstr "Erim"
+
+msgid "Rank"
+msgstr "Sıralama"
+
+msgid "Rate"
+msgstr "Oran"
+
+msgid "Rating"
+msgstr "Derecelendirme"
+
+msgid "Raw"
+msgstr "Ham"
+
+msgid "Read"
+msgstr "Okuma"
+
+msgid "Read error"
+msgstr "Okuma hatası"
+
+msgid "Read Only"
+msgstr "Saltokunur"
+
+msgid "Read only"
+msgstr "Saltokunur"
+
+msgid "Reading"
+msgstr "Reading"
+
+msgid "read-only"
+msgstr "saltokunur"
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Ready."
+msgstr "Hazır."
+
+msgid "Reason"
+msgstr "Neden"
+
+msgid "Reassign"
+msgstr "Yeniden Ata"
+
+msgid "Recent"
+msgstr "Son Kullanılan"
+
+msgid "Recent Documents"
+msgstr "Son Kullanılan Belgeler"
+
+msgid "Recent Files"
+msgstr "Son Kullanılan Dosyalar"
+
+msgid "Recent files"
+msgstr "Son kullanılan dosyalar"
+
+msgid "Record"
+msgstr "Kaydet"
+
+msgid "Recording"
+msgstr "Kayıt"
+
+msgid "Rectangle"
+msgstr "Dikdörtgen"
+
+msgid "Recursive"
+msgstr "Özyineli"
+
+msgid "Red"
+msgstr "Kırmızı"
+
+msgid "red"
+msgstr "kırmızı"
+
+msgid "Redo"
+msgstr "Yinele"
+
+msgid "&Redo"
+msgstr "&Yinele"
+
+msgid "_Redo"
+msgstr "_Yinele"
+
+msgid "Re&do"
+msgstr "&Yinele"
+
+msgid "Redo %1"
+msgstr "Yinele: %1"
+
+msgid "Reference"
+msgstr "Başvuru"
+
+msgid "References"
+msgstr "Başvurular"
+
+msgid "Refresh"
+msgstr "Yenile"
+
+msgid "_Refresh"
+msgstr "_Yenile"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Region"
+msgstr "Bölge"
+
+msgid "Register"
+msgstr "Kaydol"
+
+msgid "Regular"
+msgstr "Düzenli"
+
+msgid "Regular Expression"
+msgstr "Düzenli İfade"
+
+msgid "Regular expression"
+msgstr "Düzenli ifade"
+
+msgid "Reject"
+msgstr "Reddet"
+
+msgid "Relative"
+msgstr "Göreceli"
+
+msgid "Reload"
+msgstr "Yeniden Yükle"
+
+msgid "&Reload"
+msgstr "&Yeniden Yükle"
+
+msgid "_Reload"
+msgstr "_Yeniden Yükle"
+
+msgid "Reminders"
+msgstr "Anımsatıcılar"
+
+msgid "Remote"
+msgstr "Uzak Konum"
+
+msgid "Removable"
+msgstr "Kaldırılabilir"
+
+msgid "Remove"
+msgstr "Kaldır"
+
+msgid "&Remove"
+msgstr "&Kaldır"
+
+msgid "_Remove"
+msgstr "_Kaldır"
+
+msgid "R&emove"
+msgstr "&Kaldır"
+
+msgid "Re&move"
+msgstr "&Kaldır"
+
+msgid "Remove..."
+msgstr "Kaldır…"
+
+msgid "Remove %1"
+msgstr "Kaldır: %1"
+
+msgid "Remove Account"
+msgstr "Hesabı Kaldır"
+
+msgid "Remove All"
+msgstr "Tümünü Kaldır"
+
+msgid "Remove Bookmark"
+msgstr "Yer İmini Kaldır"
+
+msgid "Remove Folder"
+msgstr "Klasörü Kaldır"
+
+msgid "Remove from Favorites"
+msgstr "Sık Kullanılanlardan Kaldır"
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "Grubu Kaldır"
+
+msgid "Remove Rule"
+msgstr "Kuralı Kaldır"
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "Yeniden Adlandır"
+
+msgid "&Rename"
+msgstr "&Yeniden Adlandır"
+
+msgid "_Rename"
+msgstr "_Yeniden Adlandır"
+
+msgid "Rename..."
+msgstr "Yeniden Adlandır…"
+
+msgid "&Rename..."
+msgstr "&Yeniden Adlandır…"
+
+msgid "Rename Bookmark"
+msgstr "Yer İmini Yeniden Adlandır"
+
+msgid "Rename File"
+msgstr "Dosyayı Yeniden Adlandır"
+
+msgid "Repeat"
+msgstr "Yinele"
+
+msgid "Replace"
+msgstr "Değiştir"
+
+msgid "&Replace"
+msgstr "&Değiştir"
+
+msgid "_Replace"
+msgstr "_Değiştir"
+
+msgid "Replace All"
+msgstr "Tümünü Değiştir"
+
+msgid "Replace _All"
+msgstr "_Tümünü Değiştir"
+
+msgid "Replace an existing instance"
+msgstr "Var olan bir örneği değiştir"
+
+msgid "Replacement"
+msgstr "Değiştirme"
+
+msgid "Reply"
+msgstr "Yanıtla"
+
+msgid "Report"
+msgstr "Rapor"
+
+msgid "Report a bug"
+msgstr "Hata Bildir"
+
+msgid "Report Bug"
+msgstr "Hata Bildir"
+
+msgid "Report Bug..."
+msgstr "Hata Bildir…"
+
+msgid "&Report Bug..."
+msgstr "&Hata Bildir…"
+
+msgid "Reports"
+msgstr "Raporlar"
+
+msgid "Required"
+msgstr "Gerekli"
+
+msgid "Rescan"
+msgstr "Yeniden Tara"
+
+msgid "Resend"
+msgstr "Yeniden Gönder"
+
+msgid "Reset"
+msgstr "Sıfırla"
+
+msgid "&Reset"
+msgstr "&Sıfırla"
+
+msgid "_Reset"
+msgstr "_Sıfırla"
+
+msgid "Reset to Default"
+msgstr "Öntanımlılara Sıfırla"
+
+msgid "Reset to default"
+msgstr "Öntanımlılara Sıfırla"
+
+msgid "Reset Zoom"
+msgstr "Yakınlaştırmayı Sıfırla"
+
+msgid "Resize"
+msgstr "Yeniden Boyutlandır"
+
+msgid "_Resize"
+msgstr "_Yeniden Boyutlandır"
+
+msgid "Resize Image"
+msgstr "Görseli Yeniden Boyutlandır"
+
+msgid "Resolution"
+msgstr "Çözünürlük"
+
+msgid "Resource"
+msgstr "Özkaynak"
+
+msgid "Resources"
+msgstr "Özkaynaklar"
+
+msgid "Restart"
+msgstr "Yeniden Başlat"
+
+msgid "Restore"
+msgstr "Geri Yükle"
+
+msgid "Restore Session"
+msgstr "Oturumu Geri Yükle"
+
+msgid "Result"
+msgstr "Sonuç"
+
+msgid "Results"
+msgstr "Sonuçlar"
+
+msgid "Resume"
+msgstr "Sürdür"
+
+msgid "&Resume"
+msgstr "&Sürdür"
+
+msgid "Retry"
+msgstr "Yeniden Dene"
+
+msgid "Return"
+msgstr "Dönüş"
+
+msgid "Reverse"
+msgstr "Ters"
+
+msgid "Revert"
+msgstr "Geri Al"
+
+msgid "_Revert"
+msgstr "_Geri Al"
+
+msgid "Review"
+msgstr "Gözden Geçir"
+
+msgid "Revision"
+msgstr "Revizyon"
+
+msgid "Revoked"
+msgstr "Yürürlükten kaldırılmış"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "right"
+msgstr "sağ"
+
+msgid "&Right"
+msgstr "&Sağ"
+
+msgid "_Right"
+msgstr "_Sağ"
+
+msgid "Right to Left"
+msgstr "Sağdan Sola"
+
+msgid "Right-click"
+msgstr "Sağ tık"
+
+msgid "River"
+msgstr "Nehir"
+
+msgid "RKWard Team"
+msgstr "RKWard Takımı"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Roman"
+msgstr "Roman"
+
+msgid "Romania"
+msgstr "Romanya"
+
+msgid "Romanian"
+msgstr "Rumence"
+
+msgid "Room"
+msgstr "Oda"
+
+msgid "Root"
+msgstr "Kök"
+
+msgid "Rotate"
+msgstr "Döndür"
+
+msgid "Rotate Left"
+msgstr "Sola Döndür"
+
+msgid "Rotate Right"
+msgstr "Sağa Döndür"
+
+msgid "Rotation"
+msgstr "Döndürme"
+
+msgid "Round"
+msgstr "Daire"
+
+msgid "Row"
+msgstr "Satır"
+
+msgid "Rows"
+msgstr "Satırlar"
+
+msgid "rows"
+msgstr "satır"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "Kurallar"
+
+msgid "Run"
+msgstr "Çalıştır"
+
+msgid "&Run"
+msgstr "&Çalıştır"
+
+msgid "Run in terminal"
+msgstr "Uçbirimde çalıştır"
+
+msgid "Running"
+msgstr "Çalışıyor"
+
+msgid "Russia"
+msgstr "Rusya"
+
+msgid "Russian"
+msgstr "Rusça"
+
+msgid "Rwanda"
+msgstr "Ruanda"
+
+msgid "S"
+msgstr "G"
+
+msgid "s"
+msgstr "sn"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "%s Özellikleri"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "Sample"
+msgstr "Örnek"
+
+msgid "Sample Rate"
+msgstr "Örnekleme Hızı"
+
+msgid "Sample rate"
+msgstr "Örneklem hızı"
+
+msgid "Samples"
+msgstr "Örnekler"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Satellite"
+msgstr "Uydu"
+
+msgid "Saturation"
+msgstr "Doygunluk"
+
+msgid "Saturday"
+msgstr "Cumartesi"
+
+msgid "Saudi Arabia"
+msgstr "Suudi Arabistan"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "&Save"
+msgstr "&Kaydet"
+
+msgid "_Save"
+msgstr "_Kaydet"
+
+msgid "Save..."
+msgstr "Kaydet…"
+
+msgid "Save All"
+msgstr "Tümünü Kaydet"
+
+msgid "Save As"
+msgstr "Farklı Kaydet"
+
+msgid "Save as"
+msgstr "Farklı Kaydet"
+
+msgid "Save _As"
+msgstr "_Farklı Kaydet"
+
+msgid "Save As..."
+msgstr "Farklı Kaydet…"
+
+msgid "Save as..."
+msgstr "Farklı Kaydet…"
+
+msgid "_Save As..."
+msgstr "Farklı _Kaydet…"
+
+msgid "Save &As..."
+msgstr "&Farklı Kaydet…"
+
+msgid "Save _As..."
+msgstr "_Farklı Kaydet..."
+
+msgid "Save Attachment"
+msgstr "Eki Kaydet"
+
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+msgid "Save Changes?"
+msgstr "Değişiklikler Kaydedilsin Mi?"
+
+msgid "Save File"
+msgstr "Dosyayı Kaydet"
+
+msgid "Save file"
+msgstr "Dosyayı kaydet"
+
+msgid "Save Game"
+msgstr "Oyunu Kaydet"
+
+msgid "Save Image"
+msgstr "Görseli Kaydet"
+
+msgid "_Save Image As..."
+msgstr "_Resmi Farklı Kaydet…"
+
+msgid "Save Project"
+msgstr "Projeyi Kaydet"
+
+msgid "Save Session"
+msgstr "Oturumu Kaydet"
+
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+msgid "Saved"
+msgstr "Kaydedildi"
+
+msgid "Saving"
+msgstr "Kaydediliyor"
+
+msgid "Saving..."
+msgstr "Kaydediliyor..."
+
+msgid "Saving file..."
+msgstr "Dosya kaydediliyor…"
+
+msgid "Scale"
+msgstr "Ölçek"
+
+msgid "_Scale"
+msgstr "Ö_lçekle"
+
+msgid "Scaled"
+msgstr "Ölçeklendirilmiş"
+
+msgid "Scaling"
+msgstr "Ölçekleme"
+
+msgid "Scan"
+msgstr "Tara"
+
+msgid "Scanner"
+msgstr "Tarayıcı"
+
+msgid "Scanning..."
+msgstr "Taranıyor…"
+
+msgid "Schedule"
+msgstr "Program"
+
+msgid "Scheduling"
+msgstr "Zamanlama"
+
+msgid "Scheme"
+msgstr "Şema"
+
+msgid "School"
+msgstr "Okul"
+
+msgid "Scientific"
+msgstr "Bilimsel"
+
+msgid "Scope"
+msgstr "Kapsam"
+
+msgid "Score"
+msgstr "Puan"
+
+msgid "Score: %1"
+msgstr "Puan: %1"
+
+msgid "Screen"
+msgstr "Ekran"
+
+msgid "Screenshot"
+msgstr "Ekran Görüntüsü"
+
+msgid "Screenshots"
+msgstr "Ekran Görüntüleri"
+
+msgid "Script"
+msgstr "Betik"
+
+msgid "Scripting"
+msgstr "Betik Yazımı"
+
+msgid "Scripts"
+msgstr "Betikler"
+
+msgid "Scroll"
+msgstr "Sar"
+
+msgid "Scroll Down"
+msgstr "Aşağı Kaydır"
+
+msgid "Scroll Left"
+msgstr "Sola Kaydır"
+
+msgid "Scroll Right"
+msgstr "Sağa Kaydır"
+
+msgid "Scroll Up"
+msgstr "Yukarı Kaydır"
+
+msgid "Scrolling"
+msgstr "Kaydırma"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "&Search"
+msgstr "&Ara"
+
+msgid "_Search"
+msgstr "_Ara"
+
+msgid "S&earch"
+msgstr "&Ara"
+
+msgid "Search..."
+msgstr "Ara…"
+
+msgid "Search Bar"
+msgstr "Arama Çubuğu"
+
+msgid "_Search for"
+msgstr "_Ara"
+
+msgid "Search for '%1' with"
+msgstr "“%1” İfadesini Şununla Ara"
+
+msgid "Search Options"
+msgstr "Arama Seçenekleri"
+
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+msgid "Search results"
+msgstr "Arama sonuçları"
+
+msgid "Searching..."
+msgstr "Aranıyor…"
+
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+msgid "Second"
+msgstr "Saniye"
+
+msgid "Seconds"
+msgstr "Saniye"
+
+msgid "seconds"
+msgstr "saniye"
+
+msgid "Section"
+msgstr "Bölüm"
+
+msgid "Security"
+msgstr "Güvenlik"
+
+msgid "Seek"
+msgstr "Ara"
+
+msgid "Select"
+msgstr "Seç"
+
+msgid "_Select"
+msgstr "_Seç"
+
+msgid "Select..."
+msgstr "Seç…"
+
+msgid "Select All"
+msgstr "Tümünü Seç"
+
+msgid "Select all"
+msgstr "Tümünü seç"
+
+msgid "&Select All"
+msgstr "&Tümünü Seç"
+
+msgid "_Select All"
+msgstr "Tümünü _Seç"
+
+msgid "Select &All"
+msgstr "&Tümünü Seç"
+
+msgid "Select _All"
+msgstr "_Tümünü Seç"
+
+msgid "Select an authentication mode."
+msgstr "Bir kimlik doğrulama kipi seçin."
+
+msgid "Select an image"
+msgstr "Bir görsel seç"
+
+msgid "Select Color"
+msgstr "Renk Seç"
+
+msgid "Select Directory"
+msgstr "Dizin Seç"
+
+msgid "Select File"
+msgstr "Dosya Seç"
+
+msgid "Select file"
+msgstr "Dosya Seç"
+
+msgid "Select Folder"
+msgstr "Klasör Seç"
+
+msgid "Select folder"
+msgstr "Klasör Seç"
+
+msgid "Select Font"
+msgstr "Yazıtipi Seç"
+
+msgid "Select None"
+msgstr "Hiçbirini Seçme"
+
+msgid "Select Source"
+msgstr "Kaynak Seç"
+
+msgid "Selected"
+msgstr "Seçili"
+
+msgid "Selection"
+msgstr "Seçim"
+
+msgid "Selections"
+msgstr "Seçimler"
+
+msgid "Semicolon"
+msgstr "Noktalı virgül"
+
+msgid "Send"
+msgstr "Gönder"
+
+msgid "Send an email to %1"
+msgstr "%1 kişisine e-posta gönder"
+
+msgid "Send File"
+msgstr "Dosya Gönder"
+
+msgid "Send to %1"
+msgstr "Gönder: %1"
+
+msgid "Sender"
+msgstr "Gönderen"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Sensitivity"
+msgstr "Duyarlılık"
+
+msgid "Sent"
+msgstr "Gönderildi"
+
+msgid "Separator"
+msgstr "Ayırıcı"
+
+msgid "September"
+msgstr "Eylül"
+
+msgid "Serbia"
+msgstr "Sırbistan"
+
+msgid "Serbian"
+msgstr "Sırpça"
+
+msgid "Serial Number"
+msgstr "Seri Numarası"
+
+msgid "Serial number"
+msgstr "Seri numarası"
+
+msgid "Series"
+msgstr "Diziler"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Server"
+msgstr "Sunucu"
+
+msgid "Server URL"
+msgstr "Sunucu URL’si"
+
+msgid "Service"
+msgstr "Hizmet"
+
+msgid "Services"
+msgstr "Hizmetler"
+
+msgid "Session"
+msgstr "Oturum"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "Oturumlar"
+
+msgid "Set"
+msgstr "Ayarla"
+
+msgid "Set as Default"
+msgstr "Öntanımlı Olarak Ayarla"
+
+msgid "Set as default"
+msgstr "Öntanımlı olarak ayarla"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "&Settings"
+msgstr "Ayar&lar"
+
+msgid "_Settings"
+msgstr "_Ayarlar"
+
+msgid "Settings..."
+msgstr "Ayarlar…"
+
+msgid "Severity"
+msgstr "Önem"
+
+msgid "Seychelles"
+msgstr "Seyşeller"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "Gölgeleme"
+
+msgid "Shadow"
+msgstr "Gölge"
+
+msgid "Shadows"
+msgstr "Gölgeler"
+
+msgid "Shape"
+msgstr "Şekil"
+
+msgid "Share"
+msgstr "Paylaş"
+
+msgid "Share..."
+msgstr "Paylaş…"
+
+msgid "Shared"
+msgstr "Paylaşılan"
+
+msgid "Sharing"
+msgstr "Paylaşım"
+
+msgid "Sharing failed"
+msgstr "Paylaşma başarısız"
+
+msgid "Sharpen"
+msgstr "Keskinleştir"
+
+msgid "Sharpness"
+msgstr "Keskinlik"
+
+msgid "Shear"
+msgstr "Eğ"
+
+msgid "Shell"
+msgstr "Kabuk"
+
+msgid "Shift"
+msgstr "Üst Karakter"
+
+msgid "Short"
+msgstr "Kısa"
+
+msgid "Shortcut"
+msgstr "Kısayol"
+
+msgid "Shortcuts"
+msgstr "Kısayollar"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "Show All"
+msgstr "Tümünü Göster"
+
+msgid "Show Details"
+msgstr "Ayrıntıları Göster"
+
+msgid "Show details"
+msgstr "Ayrıntıları göster"
+
+msgid "Show Grid"
+msgstr "Izgarayı Göster"
+
+msgid "Show grid"
+msgstr "Izgarayı göster"
+
+msgid "Show Help"
+msgstr "Yardımı Göster"
+
+msgid "Show help"
+msgstr "Yardımı göster"
+
+msgid "Show Hidden Files"
+msgstr "Gizli Dosyaları Göster"
+
+msgid "Show in folder"
+msgstr "Klasörde Göster"
+
+msgid "Show legend"
+msgstr "Lejantı göster"
+
+msgid "Show Password"
+msgstr "Parolayı Göster"
+
+msgid "Show Preview"
+msgstr "Önizlemeyi Göster"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr "Kısayolları Göster"
+
+msgid "Show Status Bar"
+msgstr "Durum Çubuğunu Göster"
+
+msgid "Show St&atusbar"
+msgstr "&Durum Çubuğunu Göster"
+
+msgid "Show the application's version"
+msgstr "Uygulamanın sürümünü göster"
+
+msgid "Show Toolbar"
+msgstr "Araç Çubuğunu Göster"
+
+msgid "Show toolbar"
+msgstr "Araç çubuğunu göster"
+
+msgid "Show &Toolbar"
+msgstr "&Araç Çubuğunu Göster"
+
+msgid "Shuffle"
+msgstr "Karıştır"
+
+msgid "Shut Down"
+msgstr "Kapat"
+
+msgid "Shutdown"
+msgstr "Kapat"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "Kenar Çubuğu"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Sign"
+msgstr "İmzala"
+
+msgid "Signal"
+msgstr "Sinyal"
+
+msgid "Signature"
+msgstr "İmza"
+
+msgid "Simple"
+msgstr "Basit"
+
+msgid "Singapore"
+msgstr "Singapur"
+
+msgid "Single"
+msgstr "Tek"
+
+msgid "Sinhala"
+msgstr "Sinhala Dili"
+
+msgid "Size"
+msgstr "Boyut"
+
+msgid "size"
+msgstr "boyut"
+
+msgid "&Size"
+msgstr "&Boyut"
+
+msgid "Size: %1"
+msgstr "Boyut: %1"
+
+msgid "Skip"
+msgstr "Atla"
+
+msgid "&Skip"
+msgstr "&Atla"
+
+msgid "_Skip"
+msgstr "_Atla"
+
+msgid "Skip forward"
+msgstr "İleri atla"
+
+msgid "Sleep"
+msgstr "Uyut"
+
+msgid "Slide"
+msgstr "Kaydır"
+
+msgid "Slider"
+msgstr "Sürgü"
+
+msgid "Slideshow"
+msgstr "Slayt Gösterisi"
+
+msgid "Slovak"
+msgstr "Slovakça"
+
+msgid "Slovenia"
+msgstr "Slovenya"
+
+msgid "Slovenian"
+msgstr "Slovence"
+
+msgid "Slow"
+msgstr "Yavaş"
+
+msgid "Slower"
+msgstr "Daha yavaş"
+
+msgid "Small"
+msgstr "Küçük"
+
+msgid "Smooth"
+msgstr "Pürüzsüz"
+
+msgid "Smoothing"
+msgstr "Pürüzsüzleştirme"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Snap"
+
+msgid "Snap to Grid"
+msgstr "Izgaraya Tuttur"
+
+msgid "Snow"
+msgstr "Kar"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr "Socks5"
+
+msgid "Software"
+msgstr "Yazılım"
+
+msgid "Solid"
+msgstr "Katı"
+
+msgid "Solid color"
+msgstr "Düz renk"
+
+msgid "Solomon Islands"
+msgstr "Solomon Adaları"
+
+msgid "Somalia"
+msgstr "Somali"
+
+msgid "Sort"
+msgstr "Sırala"
+
+msgid "Sort By"
+msgstr "Şuna Göre Sırala"
+
+msgid "Sort by"
+msgstr "Şuna Göre Sırala"
+
+msgid "Sorting"
+msgstr "Sıralama"
+
+msgid "Sound"
+msgstr "Ses"
+
+msgid "Soundtrack"
+msgstr "Film Müziği"
+
+msgid "Source"
+msgstr "Kaynak"
+
+msgid "Sources"
+msgstr "Kaynaklar"
+
+msgid "South"
+msgstr "Güney"
+
+msgid "South Africa"
+msgstr "Güney Afrika"
+
+msgid "South European"
+msgstr "Güney Avrupa"
+
+msgid "Space"
+msgstr "Boşluk"
+
+msgid "Spacing"
+msgstr "Boşluk"
+
+msgid "Spain"
+msgstr "İspanya"
+
+msgid "Spam"
+msgstr "İstenmeyen"
+
+msgid "Spanish"
+msgstr "İspanyolca"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "Konuş"
+
+msgid "Speak Text"
+msgstr "Metni Konuş"
+
+msgid "Speaker"
+msgstr "Hoparlör"
+
+msgid "Special"
+msgstr "Özel"
+
+msgid "Special Characters"
+msgstr "Özel Karakterler"
+
+msgid "Specials"
+msgstr "Özeller"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr ""
+
+msgid "Speed"
+msgstr "Hız"
+
+msgid "Spell Check"
+msgstr "Yazım Denetimi"
+
+msgid "Spell Checking"
+msgstr "Yazım Denetimi"
+
+msgid "Spelling"
+msgstr "Yazım Denetimi"
+
+msgid "Spiral"
+msgstr "Spiral"
+
+msgid "Split"
+msgstr "Böl"
+
+msgid "Split View"
+msgstr "Görünümü Böl"
+
+msgid "Sports"
+msgstr "Spor"
+
+msgid "Spreadsheet"
+msgstr "Hesap Tablosu"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "Kare"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+"'%s::%s' geçerli bir özellik adı değil; '%s' bir GObject alt türü değil"
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr "Yığın"
+
+msgid "Stacked"
+msgstr "Yığılmış"
+
+msgid "Standard"
+msgstr "Standart"
+
+msgid "Standard deviation"
+msgstr "Standart sapma"
+
+msgid "Star"
+msgstr "Yıldız"
+
+msgid "Start"
+msgstr "Başlat"
+
+msgid "&Start"
+msgstr "&Başlat"
+
+msgid "Start a new game"
+msgstr "Yeni bir oyun başlat"
+
+msgid "Start Date"
+msgstr "Başlangıç Tarihi"
+
+msgid "Start date"
+msgstr "Başlangıç tarihi"
+
+msgid "Start Presentation"
+msgstr "Sunumu Başlat"
+
+msgid "Start Time"
+msgstr "Başlangıç Zamanı"
+
+msgid "Started"
+msgstr "Başlamış"
+
+msgid "Starting"
+msgstr "Başlatılıyor"
+
+msgid "Starting..."
+msgstr "Başlatılıyor…"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "ile başlar"
+
+msgid "Startup"
+msgstr "Başlangıç"
+
+msgid "Stash"
+msgstr "Zulala"
+
+msgid "State"
+msgstr "Durum"
+
+msgid "States"
+msgstr "Eyaletler"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Status: %1"
+msgstr "Durum: %1"
+
+msgid "Statusbar"
+msgstr "Durum çubuğu"
+
+msgid "_Statusbar"
+msgstr "_Durum Çubuğu"
+
+msgid "Step"
+msgstr "Adım"
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr "Adımlar"
+
+msgid "Stereo"
+msgstr "Stereo"
+
+msgid "Stop"
+msgstr "Durdur"
+
+msgid "&Stop"
+msgstr "&Durdur"
+
+msgid "_Stop"
+msgstr "_Durdur"
+
+msgid "S&top"
+msgstr "&Dur"
+
+msgid "Stop Recording"
+msgstr "Kaydı Durdur"
+
+msgid "Stopped"
+msgstr "Durduruldu"
+
+msgid "Storage"
+msgstr "Depolama"
+
+msgid "Store"
+msgstr "Depo"
+
+msgid "Stream"
+msgstr "Akış"
+
+msgid "Street"
+msgstr "Cadde"
+
+msgid "Strength"
+msgstr "Güç"
+
+msgid "Stretch"
+msgstr "Ger"
+
+msgid "Strike Out"
+msgstr "Üzeri Çizili"
+
+msgid "Strikethrough"
+msgstr "Üzeri çizili"
+
+msgid "String"
+msgstr "Dizi"
+
+msgid "string"
+msgstr "dizi"
+
+msgid "Strings"
+msgstr "Diziler"
+
+msgid "Stroke"
+msgstr "Vuruş"
+
+msgid "Strong"
+msgstr "Güçlü"
+
+msgid "Structure"
+msgstr "Yapı"
+
+msgid "Style"
+msgstr "Biçem"
+
+msgid "Subject"
+msgstr "Konu"
+
+msgid "Submit"
+msgstr "Gönder"
+
+msgid "Subscribe"
+msgstr "Abone Ol"
+
+msgid "Subscript"
+msgstr "Alt Simge"
+
+msgid "Subscriptions"
+msgstr "Abonelikler"
+
+msgid "Subtitle"
+msgstr "Alt Başlık"
+
+msgid "Subtitles"
+msgstr "Altyazılar"
+
+msgid "Subtract"
+msgstr "Çıkar"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "Başarılı"
+
+msgid "Sudan"
+msgstr "Sudan"
+
+msgid "Suffix"
+msgstr "Sonek"
+
+msgid "Sum"
+msgstr "Toplam"
+
+msgid "Summary"
+msgstr "Özet"
+
+msgid "Sun"
+msgstr "Güneş"
+
+msgid "Sundanese"
+msgstr "Sundaca"
+
+msgid "Sunday"
+msgstr "Pazar"
+
+msgid "Super"
+msgstr "Süper"
+
+msgid "Superscript"
+msgstr "Üst Simge"
+
+msgid "Support"
+msgstr "Destek"
+
+msgid "Suriname"
+msgstr "Surinam"
+
+msgid "Surname"
+msgstr "Soyadı"
+
+msgid "Suspend"
+msgstr "Askıya Al"
+
+msgid "Suspended"
+msgstr "Askıya Alındı"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "Takas"
+
+msgid "Sweden"
+msgstr "İsveç"
+
+msgid "Swedish"
+msgstr "İsveççe"
+
+msgid "Switch"
+msgstr "Değiştir"
+
+msgid "Switches"
+msgstr "Anahtarlar"
+
+msgid "Switzerland"
+msgstr "İsviçre"
+
+msgid "Symbol"
+msgstr "Sembol"
+
+msgid "Symbols"
+msgstr "Semboller"
+
+msgid "Sync"
+msgstr "Eşzamanla"
+
+msgid "Synchronization"
+msgstr "Eşzamanlama"
+
+msgid "Synchronize"
+msgstr "Eşzamanla"
+
+msgid "Syriac"
+msgstr "Süryanice"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "System Default"
+msgstr "Sistem Öntanımlısı"
+
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "Sekme"
+
+msgid "Table"
+msgstr "Tablo"
+
+msgid "Table of Contents"
+msgstr "İçindekiler"
+
+msgid "Tablet"
+msgstr "Tablet"
+
+msgid "Tabs"
+msgstr "Sekmeler"
+
+msgid "Tag"
+msgstr "Etiket"
+
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Tagged"
+msgstr "Künyelendi"
+
+msgid "Tags"
+msgstr "Künyeler"
+
+msgid "Taiwan"
+msgstr "Tayvan"
+
+msgid "Tajikistan"
+msgstr "Tacikistan"
+
+msgid "Take Screenshot"
+msgstr "Ekran Görüntüsü Al"
+
+msgid "Tamil"
+msgstr "Tamilce"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "Tanzanya"
+
+msgid "Target"
+msgstr "Hedef"
+
+msgid "Task"
+msgstr "Görev"
+
+msgid "Tasks"
+msgstr "Görevler"
+
+msgid "Tatar"
+msgstr "Tatarca"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr "Takım"
+
+msgid "Technology"
+msgstr "Teknoloji"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Telugu"
+msgstr "Teluguca"
+
+msgid "Temperature"
+msgstr "Sıcaklık"
+
+msgid "Template"
+msgstr "Şablon"
+
+msgid "Templates"
+msgstr "Şablonlar"
+
+msgid "Tentative"
+msgstr "Belirsiz"
+
+msgid "Terminal"
+msgstr "Uçbirim"
+
+msgid "Terminal Emulator"
+msgstr "Uçbirim Öykünücüsü"
+
+msgid "Test"
+msgstr "Sına"
+
+msgid "Testing"
+msgstr "Sınama"
+
+msgid "Text"
+msgstr "Metin"
+
+msgid "text"
+msgstr "metin"
+
+msgid "_Text"
+msgstr "_Metin"
+
+msgid "Text Color"
+msgstr "Metin Rengi"
+
+msgid "Text color"
+msgstr "Metin rengi"
+
+msgid "Text Editor"
+msgstr "Metin Düzenleyici"
+
+msgid "Text File"
+msgstr "Metin Dosyası"
+
+msgid "Text Files"
+msgstr "Metin Dosyaları"
+
+msgid "Text Only"
+msgstr "Yalnızca Metin"
+
+msgid "Text only"
+msgstr "Yalnızca Metin"
+
+msgid "Text to search for"
+msgstr "Aranacak metin"
+
+msgid "Text Tool"
+msgstr "Metin Aracı"
+
+msgid "TextLabel"
+msgstr "MetinEtiketi"
+
+msgid "Thai"
+msgstr "Tayca"
+
+msgid "Thailand"
+msgstr "Tayland"
+
+msgid "The file %1 does not exist."
+msgstr "%1 dosyası yok."
+
+msgid "The GNOME Project"
+msgstr "GNOME Projesi"
+
+msgid "The graphical theme to be used."
+msgstr "Kullanılacak görsel tema."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+"En önemli değişikliklerden biri, Calligra’nın artık Qt6’ya ve KF6’ya tümüyle"
+" geçmiş olması ve kullanıcı arayüzünün tümüyle elden geçirilmesidir."
+
+msgid "The NetworkManager Developers"
+msgstr "NetworkManager Geliştiricileri"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Themes"
+msgstr "Temalar"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "Belgeyi paylaşırken bir sorun oluştu: %1"
+
+msgid "Thin"
+msgstr "İnce"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr "Bu yayım, Calligra ofis paketine Flatpak desteği ekler."
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"Bu, menü çubuğunu tümüyle gizleyecektir. %1 ile yeniden gösterebilirsiniz."
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "Eşik"
+
+msgid "Thumbnail"
+msgstr "Küçük Görsel"
+
+msgid "Thumbnails"
+msgstr "Küçük Görseller"
+
+msgid "Thursday"
+msgstr "Perşembe"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "Tibetçe"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "Döşe"
+
+msgid "Tiled"
+msgstr "Döşeli"
+
+msgid "Tilt"
+msgstr "Eğim"
+
+msgid "Time"
+msgstr "Zaman"
+
+msgid "time"
+msgstr "zaman"
+
+msgid "Time: %1"
+msgstr "Süre: %1"
+
+msgid "Time and Date"
+msgstr "Tarih ve Zaman"
+
+msgid "Time Zone"
+msgstr "Zaman Dilimi"
+
+msgid "Timeline"
+msgstr "Zaman Akışı"
+
+msgid "Timeout"
+msgstr "Zaman aşımı"
+
+msgid "Timer"
+msgstr "Sayaç"
+
+msgid "Timestamp"
+msgstr "Zaman Damgası"
+
+msgid "Timezone"
+msgstr "Zaman Dilimi"
+
+msgid "Tiny"
+msgstr "Ufak"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "title"
+msgstr "başlık"
+
+msgid "&Title"
+msgstr "&Başlık"
+
+msgid "_Title"
+msgstr "_Başlık"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "Kime"
+
+msgid "to"
+msgstr "-"
+
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+msgid "Today"
+msgstr "Bugün"
+
+msgid "today"
+msgstr "bugün"
+
+msgid "TODO"
+msgstr "YAPILACAK"
+
+msgid "Todo"
+msgstr "Yapılacak"
+
+msgid "Toggle Fullscreen"
+msgstr "Tam Ekranı Aç/Kapat"
+
+msgid "Toggle Sidebar"
+msgstr "Kenar Çubuğu Aç/Kapat"
+
+msgid "Toggle sidebar"
+msgstr "Kenar çubuğunu aç/kapat"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Token"
+msgstr "Jeton"
+
+msgid "Tolerance"
+msgstr "Tolerans"
+
+msgid "Tomorrow"
+msgstr "Yarın"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Tool"
+msgstr "Araç"
+
+msgid "Tool Options"
+msgstr "Araç Seçenekleri"
+
+msgid "_Toolbar"
+msgstr "_Araç çubuğu"
+
+msgid "T_oolbar"
+msgstr "Araç Ç_ubuğunu"
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "Araç Kutusu"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "&Tools"
+msgstr "&Araçlar"
+
+msgid "_Tools"
+msgstr "_Araçlar"
+
+msgid "Top"
+msgstr "Üst"
+
+msgid "_Top"
+msgstr "_Üst"
+
+msgid "Top Left"
+msgstr "Sol Üst"
+
+msgid "Top left"
+msgstr "Sol üst"
+
+msgid "Top Right"
+msgstr "Sağ Üst"
+
+msgid "Top right"
+msgstr "Sağ üst"
+
+msgid "Topic"
+msgstr "Konu"
+
+msgid "Top-left"
+msgstr "Sol üst"
+
+msgid "Top-right"
+msgstr "Sağ üst"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Track"
+msgstr "Parça"
+
+msgid "Track Number"
+msgstr "Parça Numarası"
+
+msgid "Tracker"
+msgstr "İzleyici"
+
+msgid "Tracks"
+msgstr "Parçalar"
+
+msgid "Traditional"
+msgstr "Geleneksel"
+
+msgid "Transfer"
+msgstr "Havale"
+
+msgid "Transform"
+msgstr "Dönüştür"
+
+msgid "Transformation"
+msgstr "Dönüşüm"
+
+msgid "Translate"
+msgstr "Çevir"
+
+msgid "Translation"
+msgstr "Çeviri"
+
+msgid "Translator"
+msgstr "Çevirmen"
+
+msgid "translator-credits"
+msgstr ""
+"Sabri Ünal <yakushabb@gmail.com>\n"
+"Emin Tufan Çetin <etcetin@gmail.com>"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "Çevirmenler"
+
+msgid "Transparency"
+msgstr "Saydamlık"
+
+msgid "Transparent"
+msgstr "Saydam"
+
+msgid "Transport"
+msgstr "Taşıma"
+
+msgid "Transpose"
+msgstr "Devrik"
+
+msgid "Trash"
+msgstr "Çöp Kutusu"
+
+msgid "Travel"
+msgstr "Yolculuk"
+
+msgid "Tree"
+msgstr "Ağaç"
+
+msgid "Tree View"
+msgstr "Ağaç Görünümü"
+
+msgid "Triangle"
+msgstr "Üçgen"
+
+msgid "True"
+msgstr "Doğru"
+
+msgid "true"
+msgstr "doğru"
+
+msgid "Trusted"
+msgstr "Güvenilir"
+
+msgid "Try a different search"
+msgstr "Başka arama dene"
+
+msgid "Try Again"
+msgstr "Yeniden Dene"
+
+msgid "Tuesday"
+msgstr "Salı"
+
+msgid "Tunisia"
+msgstr "Tunus"
+
+msgid "Turkey"
+msgstr "Türkiye"
+
+msgid "Turkish"
+msgstr "Türkçe"
+
+msgid "Turkmenistan"
+msgstr "Türkmenistan"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "TYPE"
+msgstr "TÜR"
+
+msgid "Type"
+msgstr "Tür"
+
+msgid "type"
+msgstr "tür"
+
+msgid "&Type"
+msgstr "&Tür"
+
+msgid "Type: %1"
+msgstr "Tür: %1"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ukraine"
+msgstr "Ukrayna"
+
+msgid "Ukrainian"
+msgstr "Ukraynaca"
+
+msgid "Unable to create a temporary file."
+msgstr "Geçici dosya oluşturulamadı."
+
+msgid "unable to get editor plugin name: %s"
+msgstr "düzenleyici eklenti adı alınamadı: %s"
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+"'%2$s' türündeki '%1$s' özelliğinin '%3$s' türünden değeri ayarlanamadı"
+
+msgid "Unavailable"
+msgstr "Kullanılamıyor"
+
+msgid "Undefined"
+msgstr "Tanımlanmamış"
+
+msgid "Underline"
+msgstr "Altı Çizili"
+
+msgid "&Underline"
+msgstr "&Altı Çizili"
+
+msgid "_Underline"
+msgstr "_Altı Çizgi"
+
+msgid "Undo"
+msgstr "Geri Al"
+
+msgid "&Undo"
+msgstr "&Geri Al"
+
+msgid "_Undo"
+msgstr "_Geri Al"
+
+msgid "Undo %1"
+msgstr "Geri Al: %1"
+
+msgid "Undo History"
+msgstr "Geri Al Geçmişi"
+
+msgid "UnFav it"
+msgstr "Sık Kullanılanlardan Kaldır"
+
+msgid "unhandled property “%s” type %s"
+msgstr "tanınmayan özellik “%s” tür %s"
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Uniform"
+msgstr "Tekdüze"
+
+msgid "Union"
+msgstr "Birleşim"
+
+msgid "Unit"
+msgstr "Birim"
+
+msgid "United Arab Emirates"
+msgstr "Birleşik Arap Emirlikleri"
+
+msgid "United Kingdom"
+msgstr "Birleşik Krallık"
+
+msgid "United States"
+msgstr "Amerika Birleşik Devletleri"
+
+msgid "United States Minor Outlying Islands"
+msgstr "Birleşik Devletler Küçük Dış Adalar"
+
+msgid "Units"
+msgstr "Birimler"
+
+msgid "University"
+msgstr "Üniversite"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "unknown"
+msgstr "bilinmeyen"
+
+msgid "(unknown)"
+msgstr "(bilinmeyen)"
+
+msgid "Unknown Error"
+msgstr "Bilinmeyen Hata"
+
+msgid "Unknown error"
+msgstr "Bilinmeyen hata"
+
+msgid "Unknown error."
+msgstr "Bilinmeyen hata."
+
+msgid "unknown error creating editor instance"
+msgstr "düzenleyici örneği oluşturulurken bilinmeyen hata"
+
+msgid "Unknown file type"
+msgstr "Bilinmeyen dosya türü"
+
+msgid "Unlimited"
+msgstr "Sınırsız"
+
+msgid "unlimited"
+msgstr "sınırsız"
+
+msgid "Unlock"
+msgstr "Kilidi Aç"
+
+msgid "_Unlock"
+msgstr "_Kilidi Aç"
+
+msgid "Unmount"
+msgstr "Bağlantıyı Kes"
+
+msgid "Unmute"
+msgstr "Sesi Aç"
+
+msgid "Unnamed"
+msgstr "Adsız"
+
+msgid "unnamed"
+msgstr "adsız"
+
+msgid "Unread"
+msgstr "Okunmamış"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "Kaydedilmemiş Değişiklikler"
+
+msgid "Unselect All"
+msgstr "Tümünün Seçimini Kaldır"
+
+msgid "Unselect all"
+msgstr "Hiçbirini seçme"
+
+msgid "Unspecified"
+msgstr "Belirtilmemiş"
+
+msgid "Untitled"
+msgstr "Başlıksız"
+
+msgid "untitled"
+msgstr "başlıksız"
+
+msgid "Unused"
+msgstr "Kullanılmayan"
+
+msgid "Up"
+msgstr "Yukarı"
+
+msgid "&Up"
+msgstr "&Yukarı"
+
+msgid "Update"
+msgstr "Güncelle"
+
+msgid "&Update"
+msgstr "&Güncelle"
+
+msgid "_Update"
+msgstr "_Güncelle"
+
+msgid "Updates"
+msgstr "Güncellemeler"
+
+msgid "Updating"
+msgstr "Güncelleniyor"
+
+msgid "Updating..."
+msgstr "Güncelleniyor…"
+
+msgid "Upload"
+msgstr "Karşıya Yükle"
+
+msgid "_Upload"
+msgstr "_Karşıya Yükle"
+
+msgid "Uploaded"
+msgstr "Karşıya Yüklendi"
+
+msgid "Upper"
+msgstr "Üst"
+
+msgid "Uppercase"
+msgstr "BÜYÜK Harf"
+
+msgid "Urdu"
+msgstr "Urduca"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "US Letter"
+msgstr "ABD Mektup"
+
+msgid "Usage"
+msgstr "Kullanım"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "Kullan"
+
+msgid "Used"
+msgstr "Kullanılan"
+
+msgid "User"
+msgstr "Kullanıcı"
+
+msgid "User Certificate"
+msgstr "Kullanıcı sertifikası"
+
+msgid "User Defined"
+msgstr "Kullanıcı Tanımlı"
+
+msgid "User Feedback"
+msgstr "Kullanıcı Geri Bildirimi"
+
+msgid "User ID"
+msgstr "Kullanıcı Kimliği"
+
+msgid "User Interface"
+msgstr "Kullanıcı Arayüzü"
+
+msgid "User name"
+msgstr "Kullanıcı adı"
+
+msgid "User Password"
+msgstr "Kullanıcı parolası"
+
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+msgid "_Username"
+msgstr "_Kullanıcı Adı"
+
+msgid "Users"
+msgstr "Kullanıcılar"
+
+msgid "Utilities"
+msgstr "İzlenceler"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "Özbekistan"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr "%%v"
+
+msgid "Valid"
+msgstr "Geçerli"
+
+msgid "Valid from"
+msgstr "Geçerlilik başlangıcı"
+
+msgid "Validity"
+msgstr "Geçerlilik"
+
+msgid "Value"
+msgstr "Değer"
+
+msgid "value"
+msgstr "değer"
+
+msgid "&Value"
+msgstr "&Değer"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+"'%2$s' türünde \"%1$s\" değeri geçersiz veya '%4$s' türünde '%3$s' özelliği "
+"için aralık dışında"
+
+msgid "Values"
+msgstr "Değerler"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Variable"
+msgstr "Değişken"
+
+msgid "Variables"
+msgstr "Değişkenler"
+
+msgid "Variance"
+msgstr "Değişim"
+
+msgid "Vector"
+msgstr "Vektör"
+
+msgid "Velocity"
+msgstr "Hız"
+
+msgid "Vendor"
+msgstr "Üretici"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Verb"
+msgstr "Eylem"
+
+msgid "Verify"
+msgstr "Doğrula"
+
+msgid "Version"
+msgstr "Sürüm"
+
+msgid "Version %1"
+msgstr "Sürüm %1"
+
+msgid "Vertical"
+msgstr "Dikey"
+
+msgid "Very Large"
+msgstr "Çok büyük"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video CD"
+msgstr "Video CD"
+
+msgid "Video Codec"
+msgstr "Video Kodlayıcısı"
+
+msgid "Video Files"
+msgstr "Video Dosyaları"
+
+msgid "Videos"
+msgstr "Videolar"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Vietnamese"
+msgstr "Vietnamca"
+
+msgid "View"
+msgstr "Görünüm"
+
+msgid "&View"
+msgstr "&Görünüm"
+
+msgid "_View"
+msgstr "_Görünüm"
+
+msgid "View Options"
+msgstr "Görünüm Seçenekleri"
+
+msgid "View Settings"
+msgstr "Görünüm Ayarları"
+
+msgid "Viewer"
+msgstr "Görüntüleyici"
+
+msgid "Views"
+msgstr "Görünümler"
+
+msgid "Virtual"
+msgstr "Sanal"
+
+msgid "Virtual Keyboard"
+msgstr "Sanal Klavye"
+
+msgid "Visibility"
+msgstr "Görünürlük"
+
+msgid "Visible"
+msgstr "Görünür"
+
+msgid "Voltage"
+msgstr "Gerilim"
+
+msgid "Volume"
+msgstr "Ses Düzeyi"
+
+msgid "Volume Down"
+msgstr "Sesi Azalt"
+
+msgid "Volume Up"
+msgstr "Sesi Artır"
+
+msgid "W"
+msgstr "B"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "Bekleniyor"
+
+msgid "Wallpaper"
+msgstr "Duvar Kâğıdı"
+
+msgid "Wallpaper type"
+msgstr "Duvar kâğıdı türü"
+
+msgid "WARNING"
+msgstr "UYARI"
+
+msgid "Warning"
+msgstr "Uyarı"
+
+msgid "warning"
+msgstr "uyarı"
+
+msgid "Warnings"
+msgstr "Uyarılar"
+
+msgid "Water"
+msgstr "Deniz"
+
+msgid "Wave"
+msgstr "Dalga"
+
+msgid "Weak"
+msgstr "Zayıf"
+
+msgid "Weather"
+msgstr "Hava Durumu"
+
+msgid "Web Browser"
+msgstr "Web Tarayıcısı"
+
+msgid "Web browser"
+msgstr "Ağ tarayıcı"
+
+msgid "Website"
+msgstr "Web sitesi"
+
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+msgid "Week"
+msgstr "Hafta"
+
+msgid "Week View"
+msgstr "Hafta Görünümü"
+
+msgid "Weekly"
+msgstr "Haftalık"
+
+msgid "Weeks"
+msgstr "Hafta"
+
+msgid "weeks"
+msgstr "hafta"
+
+msgid "Weight"
+msgstr "Ağırlık"
+
+msgid "Welcome"
+msgstr "Hoş Geldiniz"
+
+msgid "Welsh"
+msgstr "Galce"
+
+msgid "West"
+msgstr "Batı"
+
+msgid "Western"
+msgstr "Batı"
+
+msgid "Western Sahara"
+msgstr "Batı Sahra"
+
+msgid "What's new"
+msgstr "Neler Yeni"
+
+msgid "Wheel"
+msgstr "Tekerlek"
+
+msgid "Whether sound effects should be played."
+msgstr "Ses efektlerinin çalınıp çalınmayacağı."
+
+msgid "White"
+msgstr "Beyaz"
+
+msgid "white"
+msgstr "beyaz"
+
+msgid "White Balance"
+msgstr "Beyaz Dengesi"
+
+msgid "Wide"
+msgstr "Geniş"
+
+msgid "Widgets"
+msgstr "Araç Takımları"
+
+msgid "Width"
+msgstr "Genişlik"
+
+msgid "&Width"
+msgstr "&Genişlik"
+
+msgid "_Width"
+msgstr "_Genişlik"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Wikipedia"
+msgstr "Vikipedi"
+
+msgid "Window"
+msgstr "Pencere"
+
+msgid "&Window"
+msgstr "&Pencere"
+
+msgid "&Window Color Scheme"
+msgstr "&Pencere Renk Şeması"
+
+msgid "Window height"
+msgstr "Pencere yüksekliği"
+
+msgid "Window Management"
+msgstr "Pencere Yönetimi"
+
+msgid "Window maximized"
+msgstr "Pencere ekranı kapladı"
+
+msgid "Window size"
+msgstr "Pencere boyutu"
+
+msgid "Window Title"
+msgstr "Pencere Başlığı"
+
+msgid "Window width"
+msgstr "Pencere genişliği"
+
+msgid "Windows"
+msgstr "Pencereler"
+
+msgid "_Windows"
+msgstr "_Pencereler"
+
+msgid "with"
+msgstr "ile"
+
+msgid "Word"
+msgstr "Sözcük"
+
+msgid "Word Count"
+msgstr "Sözcük Sayısı"
+
+msgid "Words"
+msgstr "Sözcükler"
+
+msgid "Work"
+msgstr "İş"
+
+msgid "World"
+msgstr "Dünya"
+
+msgid "Wrap"
+msgstr "Kaydır"
+
+msgid "_Wrap around"
+msgstr "Başa _sar"
+
+msgid "Wrap Text"
+msgstr "Metni Kaydır"
+
+msgid "Write"
+msgstr "Yazma"
+
+msgid "Writing"
+msgstr "Yazdırma"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "Yıl"
+
+msgid "Yearly"
+msgstr "Yıllık"
+
+msgid "Years"
+msgstr "Yıl"
+
+msgid "years"
+msgstr "yıl"
+
+msgid "Yellow"
+msgstr "Sarı"
+
+msgid "yellow"
+msgstr "sarı"
+
+msgid "Yemen"
+msgstr "Yemen"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "yes"
+msgstr "evet"
+
+msgid "_Yes"
+msgstr "_Evet"
+
+msgid "Yesterday"
+msgstr "Dün"
+
+msgid "Yiddish"
+msgstr "Yidçe"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr "“%s” Sanal Özel Ağına erişmek için kimlik doğrulamanız gerekiyor."
+
+msgid "Yukon"
+msgstr "Yukon"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "Zambiya"
+
+msgid "Zero"
+msgstr "Sıfır"
+
+msgid "Zimbabwe"
+msgstr "Zimbabve"
+
+msgid "Zoom"
+msgstr "Yakınlaştır"
+
+msgid "&Zoom"
+msgstr "&Yakınlaştır"
+
+msgid "_Zoom"
+msgstr "_Yakınlaştır"
+
+msgid "Zoom In"
+msgstr "Yakınlaştır"
+
+msgid "Zoom in"
+msgstr "Yakınlaştır"
+
+msgid "Zoom &In"
+msgstr "&Yakınlaştır"
+
+msgid "Zoom _In"
+msgstr "_Yakınlaştır"
+
+msgid "Zoom Out"
+msgstr "Uzaklaştır"
+
+msgid "Zoom out"
+msgstr "Uzaklaştır"
+
+msgid "Zoom &Out"
+msgstr "&Uzaklaştır"
+
+msgid "Zoom _Out"
+msgstr "_Uzaklaştır"
+
+msgid "Zoom to Fit"
+msgstr "Ekrana Sığdır"

@@ -7,1437 +7,9450 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "メインツールバー"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "全般"
+msgid "#"
+msgstr "#"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "削除"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "キャンセル"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "ファイル(&F)"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "削除"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "なし"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "名前"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "メンテナ"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "名前:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "編集(&E)"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "設定(&S)"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "エラー"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "表示(&V)"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "追加"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "パスワード:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "開発者"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "作者"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "閉じる"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "オプション"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "設定"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "不明"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "ツール(&T)"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "タイプ"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "削除(&D)"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "編集"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "保存"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "説明"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "説明:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "日付"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "ファイル"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "プレビュー"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "設定"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "外観"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "プロパティ"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "タイプ:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "サイズ"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "削除(&R)"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "検索"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "デフォルト"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "ユーザ名:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "ヘルプ(&H)"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "コピー"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "停止"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "表示"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "警告"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "標準"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "名前変更"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "はい"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "詳細"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "いいえ"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "状態"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "テキスト"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "値"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "色"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "ダイアログ"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "タイトル"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "オリジナルの作者"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "検索..."
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr "%"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "追加..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "情報"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "時間"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "コメント"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "高さ:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "左"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "新規"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "開く"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "サイズ:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "幅:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "ポート:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "右"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "名前を付けて保存"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "タイトル:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "エクスポート(&E)"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "自動"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "クリア"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "作成"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "エクスポート"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "ヘルプ"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "OK"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "名前(&N):"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "認証"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "詳細"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "フィルタ"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "無視"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "画像"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "場所:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "更新"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "すべて"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "中央"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "カスタム"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "フォント"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "挿入"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "しない"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "ツール"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "元に戻す"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "タイトルなし"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "移動(&G)"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "編集..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "有効"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "インポート"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "場所"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "下へ移動"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "上へ移動"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "すべて選択"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "更新"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "追加(&A)"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "情報"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "コメント:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "設定..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "ファイル名:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "全般設定"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "次へ"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "その他"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "選択"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "上"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "垂直"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "閉じる(&C)"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "作者:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "有効"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "水平"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "インポート..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "やり直す"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "拒否"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "置換"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "編集(&E)..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "アクション"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "常に"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "ブックマーク"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "日付:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "エクスポート..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "情報"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "数値"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "オリジナルの作者"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "再生"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "再読み込み"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "開始"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "タグ"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "テーマ"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "宛先:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1%"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "新規(&N)"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "承諾"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "背景"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "色:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "コマンド"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "無効"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "完了"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "フォント"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "始め:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "線"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "その他"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "ネットワーク"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "貼り付け"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "一時停止"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "位置"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "不明"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "設定"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " ミリ秒"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "適用"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "自動"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "下"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "カラム"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "ダウンロード"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "エディタ"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "フォント:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "フォーマット"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "差出人"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "言語"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "その他"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "ファイルを開く"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "パスワード"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "準備完了"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "リセット"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "主題"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "コピー先"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "ズーム"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "キャンセル(&C)"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "アカウント:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "すべてのファイル"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "黒"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "ボールド"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "続行"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "データ"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "保存先"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "メールアドレス:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "フォルダ"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "グループ"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "アイコン:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "イタリック"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "レイアウト"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "ミディアム"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "メッセージ"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "プラグイン"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "前へ"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "赤"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "名前を付けて保存..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "ソース"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "状態"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "未知のエラー"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "上へ"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "幅"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "名前"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "追加(&A)..."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "保存(&S)"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "アプリケーション"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "戻る"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "挙動"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "大文字と小文字を区別"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "クリップボードにコピー"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "現在のメンテナ"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "デバッグ"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "フォーマット:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "長さ"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "手動"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "モード"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "出力"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "パス:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "位置:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "選択"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "共有"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "スタイル"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "拡大"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "縮小"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "ゲーム(&G)"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "インポート(&I)"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "検索(&S)"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "すべてのファイル (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "青"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "色"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "接続"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "国"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "ドキュメンテーション"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "下へ"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "メール"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "ファイル名"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "フォルダ"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "緑"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "画像"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "ラベル"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "低"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "月"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "ミュート"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "終了"
-
-#. Occurs in 12 KDE PO files
-msgid "Search…"
-msgstr "検索..."
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "状態:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "テーブル"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "タグ"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "テキストラベル"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "年"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "いいえ"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "はい"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " ピクセル"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "ブックマーク(&B)"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "全般(&G)"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "新規(&N)..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "開く(&O)"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "停止(&S)"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "アカウント"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "アカウント設定"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "アクション"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "背景色"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "カテゴリ"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "カテゴリ"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "カテゴリ:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "すべてたたむ"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "切り取り"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "実際のバックエンドのデータは変更しない。"
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "すべて展開"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "ファイル名"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter..."
-msgstr "フィルタ..."
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "フィルタ:"
-
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "ゲートウェイ:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "ジオメトリ"
-
-#. Occurs in 11 KDE PO files
-msgid "Harald Sitter"
-msgstr "Harald Sitter"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "高さ"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "ホーム"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "アイコン"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "キー"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "線"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "リスト"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "読み込み中..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "月"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "移動"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "ニックネーム:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "メモ"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "保存フォルダを開く"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "ファイルを上書きしますか？"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "再起動"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "実行"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "検索:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "送信"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "サーバ:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "速度"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "URL"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "URL:"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "ユーザ:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "分"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "エラー"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "コピー(&C)"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr "?"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " と "
+
+msgid " (default)"
+msgstr " (デフォルト)"
+
+msgid "© KDE Community"
+msgstr ""
+
+msgid " MB"
+msgstr " MB"
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " 分"
+
+msgid " minutes"
+msgstr " 分"
+
+msgid " ms"
+msgstr " ミリ秒"
+
+msgid " px"
+msgstr " px"
+
+msgid " s"
+msgstr " 秒"
+
+msgid " sec"
+msgstr " 秒"
+
+msgid " seconds"
+msgstr " 秒"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1%"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1%"
+
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 %2"
+
+msgid "%1 bytes"
+msgstr "%1 バイト"
+
+msgid "1 day"
+msgstr "1 日"
+
+msgid "%1 does not exist"
+msgstr "%1 は存在しません"
+
+msgid "%1 free"
+msgstr "%1 空き"
+
+msgid "1 hour"
+msgstr "1時間"
+
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgid "%1 ms"
+msgstr "%1 ミリ秒"
+
+msgid "%1 of %2"
+msgstr "%1 / %2"
+
+msgid "%1 on %2"
+msgstr "%1 (%2)"
+
+msgid "%1 s"
+msgstr "%1 秒"
+
+msgid "%1 seconds"
+msgstr "%1 秒"
+
+msgid "%1 to %2"
+msgstr "%1 から %2 まで"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 分"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr ""
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 分"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1m"
+
+msgid "%1/s"
+msgstr "%1/秒"
+
+msgid "1st"
+msgstr "1日"
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "2nd"
+msgstr "2日"
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 分"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "3日"
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "4日"
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 分"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "5th"
+msgstr "5日"
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "‘%1’ という名前のファイルは既に存在します。本当に上書きしますか？"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
 msgstr "中止"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "詳細オプション"
+msgid "&Abort"
+msgstr "中止(&A)"
 
-#. Occurs in 10 KDE PO files
-msgid "Album"
-msgstr "アルバム"
+msgid "Aborted"
+msgstr "中止"
 
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
+msgid "About"
+msgstr "情報"
 
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
+msgid "&About"
+msgstr "KDE について(&A)"
 
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
-msgstr "キャンセル(&A)"
+msgid "_About"
+msgstr "このアプリケーションについて(_A)"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "履歴をクリア"
+msgid "About %1"
+msgstr "%1 について"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "圧縮"
+msgid "About KDE"
+msgstr "KDE について"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "コンタクト"
+msgid "Abstract"
+msgstr "概要"
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "著作権"
+msgid "Accept"
+msgstr "承認"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "デバイス:"
+msgid "Accepted"
+msgstr "承諾"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "切断"
+msgid "Accessed"
+msgstr "アクセス日"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "期間"
+msgid "Accessibility"
+msgstr "アクセシビリティ"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "エラー: %1"
+msgid "Account"
+msgstr "アカウント"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Account Details"
+msgstr "アカウントの詳細"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "ファイル:"
+msgid "Account Information"
+msgstr "アカウント情報"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "ファイル"
+msgid "Account Name"
+msgstr "アカウント名"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "検索"
+msgid "Accounts"
+msgstr "アカウント"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "関数"
+msgid "Accuracy"
+msgstr "精度"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "グループ:"
+msgid "Action"
+msgstr "アクション"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "メニューバーを隠す"
+msgid "Actions"
+msgstr "アクション"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "高"
+msgid "Activate"
+msgstr "アクティブ化"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "履歴"
+msgid "Active"
+msgstr "アクティブ"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "Activities"
+msgstr "アクティビティ"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "上へ移動(&U)"
+msgid "Activity"
+msgstr "アクティビティ"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "通知"
+msgid "Adaptive"
+msgstr "自動調整"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "組織"
-
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "パス"
-
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "ポート"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "優先度"
-
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "優先度:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "プロジェクト"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "グループを削除"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "スペース"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "今日"
-
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "値:"
-
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "バージョン"
-
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "バージョン:"
-
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "ビデオ"
-
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "年"
-
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
 msgid "Add"
 msgstr "追加"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
+msgid "&Add"
+msgstr "追加(&A)"
+
+msgid "_Add"
+msgstr "追加(_A)"
+
+msgid "Add..."
+msgstr "追加..."
+
+msgid "&Add..."
+msgstr "追加(&A)..."
+
+msgid "A&dd..."
+msgstr ""
+
+msgid "Add Account"
+msgstr ""
+
+msgid "Add Bookmark"
+msgstr "ブックマークを追加"
+
+msgid "_Add Bookmark"
+msgstr "ブックマークに追加(_A)"
+
+msgid "Add Filter"
+msgstr "フィルタを追加"
+
+msgid "Add Folder"
+msgstr "フォルダを追加"
+
+msgid "Add Folder..."
+msgstr "フォルダを追加..."
+
+msgid "Add Group"
+msgstr "グループを追加"
+
+msgid "Add New"
+msgstr "新しく追加"
+
+msgid "Add Rule..."
+msgstr "ルールを追加…"
+
+msgid "Add Tag"
+msgstr "タグを追加"
+
+msgid "Add tag"
+msgstr "タグを追加"
+
+msgid "Add to Dictionary"
+msgstr "辞書に追加"
+
+msgid "Add to Favorites"
+msgstr "お気に入りに追加"
+
+msgid "Added"
+msgstr "追加"
+
+msgid "Addition"
+msgstr "加算"
+
+msgid "Additional Information"
+msgstr "追加情報"
+
+msgid "Address"
+msgstr "アドレス"
+
+msgid "Address Book"
+msgstr "アドレス帳"
+
+msgid "Addresses"
+msgstr "アドレス"
+
+msgid "Adjust"
+msgstr "調整"
+
+msgid "Advanced"
+msgstr "詳細"
+
+msgid "Advanced..."
+msgstr "高度な設定…"
+
+msgid "Ad_vanced..."
+msgstr "詳細(_V)…"
+
+msgid "Advanced options"
+msgstr "高度なオプション"
+
+msgid "Advanced Properties"
+msgstr "詳細プロパティ"
+
+msgid "Advanced Settings"
+msgstr "高度な設定"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "アフガニスタン"
+
+msgid "Africa"
+msgstr "アフリカ"
+
+msgid "Afrikaans"
+msgstr "アフリカーンス語"
+
+msgid "After"
+msgstr "処理後"
+
+msgid "Agenda"
+msgstr ""
+
+msgid "Alarm"
+msgstr "アラーム"
+
+msgid "Alarms"
+msgstr "アラーム"
+
+msgid "Albania"
+msgstr "アルバニア"
+
+msgid "Albanian"
+msgstr "アルバニア語"
+
+msgid "Albert Vaca Cintora"
+msgstr "Albert Vaca Cintora"
+
+msgid "Album"
+msgstr "アルバム"
+
+msgid "Album Artist"
+msgstr "アルバムのアーティスト"
+
+msgid "Albums"
+msgstr "アルバム"
+
+msgid "Alert"
+msgstr "アラート (TODO 等)"
+
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+msgid "Algeria"
+msgstr "アルジェリア"
+
+msgid "Algorithm"
+msgstr "アルゴリズム"
+
+msgid "Alias"
+msgstr "エイリアス"
+
+msgid "Aliases"
+msgstr "別名"
+
+msgid "Align"
+msgstr "整列"
+
+msgid "Align Bottom"
+msgstr "下揃え"
+
+msgid "Align Center"
+msgstr "中央揃え"
+
+msgid "Align Left"
+msgstr "左揃え"
+
+msgid "Align left"
+msgstr "左寄せ"
+
+msgid "Align Right"
+msgstr "右揃え"
+
+msgid "Align right"
+msgstr "右寄せ"
+
+msgid "Align Top"
+msgstr "上揃え"
+
+msgid "Alignment"
+msgstr "配置"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "all"
+msgstr "すべて"
+
+msgid "_All"
+msgstr "すべて(_A)"
+
+msgid "All Files"
+msgstr "すべてのファイル"
+
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgid "All Files (*)"
+msgstr "すべてのファイル (*)"
+
+msgid "All files (*)"
+msgstr "すべてのファイル (*)"
+
+msgid "All Supported Files"
+msgstr "すべての対応ファイル"
+
+msgid "Allen Winter"
+msgstr ""
+
+msgid "Allow"
+msgstr "許可"
+
+msgid "Allow Deflate compression"
+msgstr ""
+
+msgid "Alpha"
+msgstr "アルファ"
+
+msgid "Alphabetically"
+msgstr "アルファベットで"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "代替"
+
+msgid "Always"
+msgstr "常に"
+
+msgid "Always ask"
+msgstr "常に尋ねる"
+
+msgid "Always visible"
+msgstr "常に表示"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Ambient"
+msgstr "アンビエント"
+
+msgid "Amount"
+msgstr "量"
+
+msgid "An error occurred"
+msgstr "エラーが発生しました"
+
+msgid "An unknown error occurred."
+msgstr "原因不明のエラーが発生しました。"
+
+msgid "Analysis"
+msgstr "解析"
+
+msgid "Anchor"
+msgstr "アンカー"
+
+msgid "AND"
+msgstr "かつ"
+
+msgid "and"
+msgstr "かつ"
+
+msgid "Andorra"
+msgstr "アンドラ"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "角度"
+
+msgid "angle"
+msgstr "角"
+
+msgid "Angola"
+msgstr "アンゴラ"
+
+msgid "Animation"
+msgstr "アニメーション"
+
+msgid "Animations"
+msgstr "アニメーション"
+
+msgid "Anniversary"
+msgstr "記念日"
+
+msgid "Annotate"
+msgstr "注釈"
+
+msgid "Annotation"
+msgstr "注釈"
+
+msgid "Annotations"
+msgstr "注釈"
+
+msgid "Anonymous"
+msgstr "匿名"
+
+msgid "Antarctica"
+msgstr "南極"
+
+msgid "Any"
+msgstr "任意"
+
+msgid "Aperture"
+msgstr "絞り"
+
+msgid "Appearance"
+msgstr "外観"
+
+msgid "Append"
+msgstr "後ろに追加"
+
+msgid "AppImage"
+msgstr "AppImage"
+
+msgid "Application"
+msgstr "アプリケーション"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "アプリケーションメニュー"
+
+msgid "Applications"
+msgstr "アプリケーション"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "&Apply"
+msgstr "適用(&A)"
+
+msgid "_Apply"
+msgstr "適用(_A)"
+
+msgid "Apply Settings"
+msgstr "設定を適用"
+
+msgid "April"
+msgstr "4月"
+
+msgid "Arabic"
+msgstr "アラビア語"
+
+msgid "Archive"
+msgstr "アーカイブ"
+
+msgid "Archives"
+msgstr "アーカイブ"
+
+msgid "Area"
+msgstr "エリア"
+
+msgid "Argentina"
+msgstr "アルゼンチン"
+
+msgid "Arguments"
+msgstr "引数"
+
+msgid "Armenia"
+msgstr "アルメニア"
+
+msgid "Armenian"
+msgstr "アルメニア語"
+
+msgid "Arrow"
+msgstr "矢印"
+
+msgid "Arrows"
+msgstr "矢印"
+
+msgid "Articles"
+msgstr "冠詞"
+
+msgid "Artist"
+msgstr "アーティスト"
+
+msgid "Artists"
+msgstr "アーティスト"
+
+msgid "Artwork"
+msgstr "アートワーク"
+
+msgid "Ascending"
+msgstr "昇順"
+
+msgid "Asia"
+msgstr "アジア"
+
+msgid "Ask"
+msgstr "確認"
+
+msgid "Aspect Ratio"
+msgstr "アスペクト比"
+
+msgid "Aspect ratio"
+msgstr "縦横比"
+
+msgid "Assamese"
+msgstr "アッサム語"
+
+msgid "Assign Tags"
+msgstr "タグを付ける"
+
+msgid "Assistant"
+msgstr "アシスタント"
+
+msgid "ATM"
+msgstr ""
+
+msgid "Attach"
+msgstr "添付"
+
+msgid "Attach File"
+msgstr ""
+
+msgid "Attachment"
+msgstr "Attachment"
+
+msgid "Attachments"
+msgstr "添付ファイル"
+
+msgid "Attendees"
+msgstr "参加者"
+
+msgid "Attribute"
+msgstr "属性"
+
+msgid "Attributes"
+msgstr "属性"
+
+msgid "Audio"
+msgstr "オーディオ"
+
+msgid "Audio CD"
+msgstr "オーディオ CD"
+
+msgid "Audio Codec"
+msgstr "音声コーデック"
+
+msgid "Audio files"
+msgstr "音声ファイル"
+
+msgid "August"
+msgstr "8月"
+
+msgid "Australia"
+msgstr "オーストラリア"
+
+msgid "Austria"
+msgstr "オーストリア"
+
+msgid "Authenticate"
+msgstr "認証"
+
+msgid "Authenticate VPN"
+msgstr "VPN 認証"
+
+msgid "Authentication"
+msgstr "認証"
+
+msgid "Authentication Required"
+msgstr "認証が必要です"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Authors"
+msgstr "作者"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "auto"
+msgstr "自動"
+
+msgid "Auto Detect"
+msgstr "自動検出"
+
+msgid "Auto Save"
+msgstr "自動保存"
+
+msgid "Autodetect"
+msgstr "自動検出"
+
+msgid "Automatic"
+msgstr "自動"
+
+msgid "Autosave interval"
+msgstr "自動保存の間隔 (分)"
+
+msgid "Available"
+msgstr "利用可能"
+
+msgid "A&vailable actions"
+msgstr "利用可能なアクション(&V)"
+
+msgid "Average"
+msgstr "平均"
+
+msgid "Axes"
+msgstr "グラフ軸"
+
+msgid "Azerbaijan"
+msgstr "アゼルバイジャン"
+
+msgid "Azerbaijani"
+msgstr ""
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "&Back"
+msgstr "戻る(&B)"
+
+msgid "_Back"
+msgstr "戻る(_B)"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Background Color"
+msgstr "背景色"
+
+msgid "Background color"
+msgstr "背景色"
+
+msgid "&Background color"
+msgstr "背景色(&B)"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Backup"
+msgstr "バックアップ"
+
+msgid "Bahamas"
+msgstr "バハマ"
+
+msgid "Bahrain"
+msgstr "バーレーン"
+
+msgid "Balance"
+msgstr "バランス"
+
+msgid "Balanced"
+msgstr "バランス"
+
+msgid "Baltic"
+msgstr "バルト語"
+
+msgid "Bangladesh"
+msgstr "バングラデシュ"
+
+msgid "Bank"
+msgstr ""
+
+msgid "Bar"
+msgstr "バー"
+
+msgid "Barbados"
+msgstr "バルバドス"
+
+msgid "Base"
+msgstr "基底"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "Basque"
+msgstr "バスク語"
+
+msgid "Bass"
+msgstr "ベース"
+
+msgid "Battery"
+msgstr "バッテリ"
+
+msgid "Bcc"
+msgstr ""
+
+msgid "Before"
+msgstr "処理前"
+
+msgid "Behavior"
+msgstr "挙動"
+
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+msgid "Belarusian"
+msgstr "ベラルーシ語"
+
+msgid "Belgium"
+msgstr "ベルギー"
+
+msgid "Belize"
+msgstr "ベリーズ"
+
+msgid "Bengali"
+msgstr "ベンガル文字"
+
+msgid "Benin"
+msgstr "ベナン"
+
+msgid "Best"
+msgstr "一番"
+
+msgid "Bhutan"
+msgstr "ブータン"
+
+msgid "Bibliography"
+msgstr "参考文献"
+
+msgid "Binary"
+msgstr "バイナリ"
+
+msgid "Birthday"
+msgstr "誕生日"
+
+msgid "Bitrate"
+msgstr "ビットレート"
+
+msgid "Black"
+msgstr "黒"
+
+msgid "black"
+msgstr "black"
+
+msgid "Blend"
+msgstr "ブレンド"
+
+msgid "Block"
+msgstr "ブロック"
+
+msgid "Block Elements"
+msgstr "ブロック要素"
+
+msgid "Blocked"
+msgstr "ブロック"
+
+msgid "Blue"
+msgstr "青"
+
+msgid "Blues"
+msgstr "ブルース"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Blur"
+msgstr "ぼかし"
+
+msgid "<b>Name:</b>"
+msgstr "<b>テーマ名:</b>"
+
+msgid "Body"
+msgstr "ボディ"
+
+msgid "Bold"
+msgstr "ボールド"
+
+msgid "&Bold"
+msgstr "ボールド(&B)"
+
+msgid "_Bold"
+msgstr "太字(_B)"
+
+msgid "Bold text"
+msgstr "テキストを太字にする"
+
+msgid "Bolivia"
+msgstr "ボリビア"
+
+msgid "Book"
+msgstr "ブック"
+
+msgid "Bookmark"
+msgstr "ブックマーク"
+
+msgid "Bookmarks"
+msgstr "ブックマーク"
+
+msgid "&Bookmarks"
+msgstr "ブックマーク(&B)"
+
+msgid "_Bookmarks"
+msgstr "ブックマーク(_B)"
+
+msgid "Boolean"
+msgstr "論理値"
+
+msgid "Border"
+msgstr "境界"
+
+msgid "Bosnian"
+msgstr "ボズニア語"
+
+msgid "Both"
+msgstr "両方"
+
+msgid "Botswana"
+msgstr "ボツワナ"
+
+msgid "Bottom"
+msgstr "下"
+
+msgid "_Bottom"
+msgstr "下(_B)"
+
+msgid "Bottom Left"
+msgstr "下 左"
+
+msgid "Bottom Right"
+msgstr "Bottom Right"
+
+msgid "Bottom-left"
+msgstr "左下"
+
+msgid "Bottom-right"
+msgstr "右下"
+
+msgid "Box"
+msgstr "テキストボックス"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Branch"
+msgstr "ブランチ"
+
+msgid "Brazil"
+msgstr "ブラジル"
+
+msgid "Breeze"
+msgstr "Breeze"
+
+msgid "Breeze by the KDE VDG"
+msgstr "Breeze (KDE VDG 制作)"
+
+msgid "Breeze Dark"
+msgstr "Breeze Dark"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "Breeze Dark (KDE VDG 制作)"
+
+msgid "Breton"
+msgstr "ブルトン語"
+
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+msgid "Bridge"
+msgstr "ブリッジ"
+
+msgid "Brightness"
+msgstr "明るさ"
+
+msgid "Broken"
+msgstr "壊れています"
+
+msgid "Browse"
+msgstr "参照"
+
+msgid "Browse..."
+msgstr "ブラウズ..."
+
+msgid "_Browse..."
+msgstr "参照(_B)..."
+
+msgid "Browser"
+msgstr "ブラウザ"
+
+msgid "Buffer"
+msgstr "バッファー"
+
+msgid "Bug fixes"
+msgstr "バグ修正"
+
+msgid "Build"
+msgstr "ビルド"
+
+msgid "Built-in Screen"
+msgstr "内蔵スクリーン"
+
+msgid "Bulgaria"
+msgstr "ブルガリア"
+
+msgid "Bulgarian"
+msgstr "ブルガリア語"
+
+msgid "Burkina Faso"
+msgstr "ブルキナファソ"
+
+msgid "Burn"
+msgstr "焼き込み"
+
+msgid "Burundi"
+msgstr "ブルンジ"
+
+msgid "Bus"
+msgstr "バス"
+
+msgid "Busy"
+msgstr "ビジー"
+
+msgid "Butt"
+msgstr ""
+
+msgid "Button"
+msgstr "ボタン"
+
+msgid "Buttons"
+msgstr "ボタン"
+
+msgid "by"
+msgstr "(アーティスト)"
+
+msgid "By %1"
+msgstr "%1 作"
+
+msgid "By extension"
+msgstr "拡張子で判断する"
+
+msgid "Bytes"
+msgstr "バイト"
+
+msgid "bytes"
+msgstr "バイト"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "CA 証明書"
+
+msgid "Cache"
+msgstr "キャッシュ"
+
+msgid "Calculate"
+msgstr "計算"
+
+msgid "Calculating..."
+msgstr "計算中..."
+
+msgid "Calculator"
+msgstr "計算機"
+
+msgid "Calendar"
+msgstr "カレンダー"
+
+msgid "Calendars"
+msgstr "カレンダー"
+
+msgid "Call"
+msgstr "呼び出し"
+
+msgid "Calls"
+msgstr "電話"
+
+msgid "Cambodia"
+msgstr "カンボジア"
+
+msgid "Camera"
+msgstr "カメラ"
+
+msgid "Cameroon"
+msgstr "カメルーン"
+
+msgid "Canada"
+msgstr "カナダ"
+
 msgid "Cancel"
 msgstr "キャンセル"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "&Cancel"
+msgstr "キャンセル(&C)"
+
+msgid "_Cancel"
+msgstr "キャンセル(_C)"
+
+msgid "C&ancel"
+msgstr "キャンセル(&A)"
+
+msgid "Canceled"
+msgstr "キャンセル"
+
+msgid "Cancelled"
+msgstr "キャンセル"
+
+msgid "cannot load editor plugin: %s"
+msgstr "エディタープラグインを読み込めません: %s"
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr "プラグインからファクトリ %s を読み込めません: %s"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "キャンバス"
+
+msgid "Capabilities"
+msgstr ""
+
+msgid "Capacity"
+msgstr "容量"
+
+msgid "Cape Verde"
+msgstr "カーボベルデ"
+
+msgid "Capitalize"
+msgstr "先頭を大文字に"
+
+msgid "Caps Lock is on"
+msgstr "Caps Lock が有効です"
+
+msgid "Capture"
+msgstr "キャプチャ"
+
+msgid "Car"
+msgstr "車"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "CASCADE"
+
+msgid "Case Sensitive"
+msgstr "大文字と小文字を区別する"
+
+msgid "Case sensitive"
+msgstr "大文字と小文字を区別"
+
+msgid "Castle"
+msgstr "キャッスル"
+
+msgid "Catalan"
+msgstr "カタロニア語"
+
+msgid "Categories"
+msgstr "カテゴリ"
+
+msgid "Category"
+msgstr "カテゴリ"
+
+msgid "CC"
+msgstr "CC"
+
+msgid "Cc"
+msgstr ""
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "セル"
+
+msgid "Celsius"
+msgstr "摂氏"
+
+msgid "Celtic"
+msgstr "ケルト語"
+
+msgid "Center"
+msgstr "中央"
+
+msgid "Centered"
+msgstr "中央"
+
+msgid "Centimeters"
+msgstr "センチメートル"
+
+msgid "Centimeters (cm)"
+msgstr "センチメートル (cm)"
+
+msgid "Central"
+msgstr "Central"
+
+msgid "Central African Republic"
+msgstr "中央アフリカ共和国"
+
+msgid "Central European"
+msgstr "中央ヨーロッパ"
+
+msgid "Certificate"
+msgstr "証明書"
+
+msgid "Certificates (TLS)"
+msgstr "証明書 (TLS)"
+
+msgid "Chad"
+msgstr "チャド"
+
+msgid "Change"
+msgstr "変更"
+
+msgid "Change..."
+msgstr "変更..."
+
+msgid "Changed"
+msgstr ""
+
+msgid "Channel"
+msgstr "チャンネル"
+
+msgid "Channels"
+msgstr "チャンネル"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "章"
+
+msgid "Chapters"
+msgstr "チャプター"
+
+msgid "Character"
+msgstr "文字"
+
+msgid "Characters"
+msgstr "文字"
+
+msgid "Charging"
+msgstr "充電中"
+
+msgid "Chart"
+msgstr "チャート"
+
+msgid "Chat"
+msgstr "チャット"
+
+msgid "Check"
+msgstr "チェック"
+
+msgid "Check for updates"
+msgstr "更新を確認する"
+
+msgid "Check Spelling"
+msgstr "スペルチェック"
+
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+msgid "Checkout"
+msgstr "チェックアウト"
+
+msgid "Cherokee"
+msgstr "チェロキー文字"
+
+msgid "Children"
+msgstr "子"
+
+msgid "Chile"
+msgstr "チリ"
+
+msgid "China"
+msgstr "中国"
+
+msgid "Chinese"
+msgstr "中国語"
+
+msgid "Chinese Simplified"
+msgstr "中国語簡体字"
+
+msgid "Chinese Traditional"
+msgstr "中国語繁体字"
+
+msgid "Choose"
+msgstr ""
+
+msgid "Choose..."
+msgstr "選択..."
+
+msgid "Cinema"
+msgstr "映画"
+
+msgid "Circle"
+msgstr "円"
+
+msgid "City"
+msgstr "市区町村"
+
+msgid "Class"
+msgstr "クラス"
+
+msgid "Classes"
+msgstr "クラス"
+
+msgid "Classic"
+msgstr "クラシック"
+
+msgid "Classical"
+msgstr "クラシック"
+
+msgid "Clean"
+msgstr "クリーン"
+
+msgid "Cleanup"
+msgstr "クリーンアップ"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "&Clear"
+msgstr "クリア(&C)"
+
+msgid "_Clear"
+msgstr "消去(_C)"
+
+msgid "C&lear"
+msgstr "クリア(&L)"
+
+msgid "Clear All"
+msgstr "すべてクリア"
+
+msgid "Clear History"
+msgstr "履歴をクリア"
+
+msgid "Clear history"
+msgstr "履歴をクリア"
+
+msgid "Clear List"
+msgstr "リストをクリア"
+
+msgid "Client"
+msgstr "クライアント"
+
+msgid "Clip"
+msgstr "クリップ"
+
+msgid "Clipboard"
+msgstr "クリップボード"
+
+msgid "Clock"
+msgstr "時計"
+
+msgid "Clockwise"
+msgstr "時計回り"
+
+msgid "Clone"
+msgstr "複製"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "&Close"
+msgstr "閉じる(&C)"
+
+msgid "_Close"
+msgstr "閉じる(_C)"
+
+msgid "Close All"
+msgstr "すべて閉じる"
+
+msgid "Close Document"
+msgstr "文書を閉じる"
+
+msgid "Close message"
+msgstr "メッセージを閉じる"
+
+msgid "Close Tab"
+msgstr "タブを閉じる"
+
+msgid "Close tab"
+msgstr "タブを閉じる"
+
+msgid "Close the current tab"
+msgstr "現在のタブを閉じます"
+
+msgid "Close this window"
+msgstr "このウィンドウを閉じます"
+
+msgid "Close Window"
+msgstr "ウィンドウを閉じる"
+
+msgid "Close window"
+msgstr "ウィンドウを閉じる"
+
+msgid "Close _without Saving"
+msgstr "保存せずに閉じる(_W)"
+
+msgid "Closed"
+msgstr "クローズ"
+
+msgid "Cloud"
+msgstr "クラウド"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "コード"
+
+msgid "code"
+msgstr "コード"
+
+msgid "Codec"
+msgstr "コーデック"
+
+msgid "Collapse"
+msgstr "折りたたむ"
+
+msgid "Collapse All"
+msgstr "すべてたたむ"
+
+msgid "Collection"
+msgstr "コレクション"
+
+msgid "Collections"
+msgstr "コレクション"
+
+msgid "Colombia"
+msgstr "コロンビア"
+
+msgid "Color"
+msgstr "色"
+
+msgid "color"
+msgstr ""
+
+msgid "&Color"
+msgstr "色(&C)"
+
+msgid "Color Balance"
+msgstr "カラーバランス"
+
+msgid "Color Management"
+msgstr "カラーマネジメント"
+
+msgid "Color Mode"
+msgstr "カラーモード"
+
+msgid "Color Picker"
+msgstr "カラーピッカー"
+
+msgid "Color Scheme"
+msgstr "カラースキーム"
+
+msgid "Color scheme"
+msgstr "カラースキーム"
+
+msgid "Color Space"
+msgstr "色空間"
+
+msgid "Color theme"
+msgstr "Color theme"
+
+msgid "Colorize"
+msgstr "着色"
+
+msgid "Colors"
+msgstr "色"
+
+msgid "Column"
+msgstr "列"
+
+msgid "Column %1"
+msgstr "列 %1"
+
+msgid "Columns"
+msgstr "カラム"
+
+msgid "Comma"
+msgstr "コンマ"
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "Command"
+msgstr "コマンド"
+
+msgid "command"
+msgstr "コマンド"
+
+msgid "Command Line"
+msgstr "コマンドライン"
+
+msgid "Command to execute"
+msgstr "実行するコマンド"
+
+msgid "Commands"
+msgstr "コマンド"
+
+msgid "Comment"
+msgstr "コメント"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Commit"
+msgstr "コミット"
+
+msgid "Common"
+msgstr "一般"
+
+msgid "Comoros"
+msgstr "コモロ"
+
+msgid "Compact"
+msgstr "コンパクト"
+
+msgid "Compare"
+msgstr "比較"
+
+msgid "Complete"
+msgstr "完了しました"
+
+msgid "Completed"
+msgstr "完了"
+
+msgid "Completion"
+msgstr "補完"
+
+msgid "Component"
+msgstr "コンポーネント"
+
+msgid "Components"
+msgstr "コンポーネント"
+
+msgid "Composer"
+msgstr "作曲者"
+
+msgid "Composition"
+msgstr "コンポジション"
+
+msgid "Compress"
+msgstr "圧縮"
+
+msgid "Compression"
+msgstr "圧縮"
+
+msgid "Computer"
+msgstr "コンピュータ"
+
+msgid "Condition"
+msgstr "条件"
+
+msgid "Confidential"
+msgstr "内密"
+
+msgid "Configuration"
+msgstr "設定"
+
+msgid "Configure"
+msgstr "設定"
+
+msgid "Configure..."
+msgstr "設定..."
+
+msgid "Configure %1"
+msgstr "%1 を設定"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "キーボードショートカットを設定"
+
+msgid "Configure Plugins"
+msgstr "プラグインの設定"
+
+msgid "Configure Toolbars"
+msgstr "ツールバーを設定"
+
+msgid "Configure Web Shortcuts..."
+msgstr "ウェブショートカットを設定..."
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Confirmation"
+msgstr "確認"
+
+msgid "Confirmation Required"
+msgstr "確認が必要です"
+
+msgid "Confirmed"
+msgstr "確定"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "標準アプリケーションショートカットと競合"
+
+msgid "Connect"
+msgstr "接続"
+
+msgid "C_onnect"
+msgstr "接続(_O)"
+
+msgid "Connected"
+msgstr "接続済み"
+
+msgid "Connecting"
+msgstr "接続中"
+
+msgid "Connecting..."
+msgstr "接続中..."
+
+msgid "Connection"
+msgstr "接続"
+
+msgid "Connection Failed"
+msgstr "接続に失敗"
+
+msgid "Connection Settings"
+msgstr "接続設定"
+
+msgid "Connections"
+msgstr "接続"
+
+msgid "Console"
+msgstr "コンソール"
+
+msgid "Constant"
+msgstr "定数"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr "オブジェクト '%s' のコンストラクトプロパティ \"%s\" は構築後に設定できません"
+
+msgid "Contact"
+msgstr "連絡先"
+
+msgid "Contacts"
+msgstr "連絡先"
+
+msgid "Container"
+msgstr "コンテナー"
+
+msgid "Contains"
+msgstr "含む"
+
+msgid "contains"
+msgstr "が次を含む"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Content Type"
+msgstr "コンテンツタイプ"
+
+msgid "Contents"
+msgstr "内容"
+
+msgid "_Contents"
+msgstr "目次(_C)"
+
+msgid "Context"
+msgstr "コンテキスト"
+
+msgid "Continue"
+msgstr "続行"
+
+msgid "_Continue"
+msgstr "続行(_C)"
+
+msgid "Contrast"
+msgstr "コントラスト"
+
+msgid "Contributor"
+msgstr "協力者"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Convert"
+msgstr "変換"
+
+msgid "Convert to Path"
+msgstr "パスに変換"
+
+msgid "Cookies"
+msgstr "Cookie"
+
+msgid "Coordinates"
+msgstr "座標"
+
+msgid "Copied to clipboard"
+msgstr "クリップボードにコピーしました"
+
+msgid "Coptic"
+msgstr "コプト文字"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "copy"
+msgstr "コピー"
+
+msgid "&Copy"
+msgstr "コピー(&C)"
+
+msgid "_Copy"
+msgstr "コピー(_C)"
+
+msgid "Copy Email Address"
+msgstr "メールアドレスをコピー"
+
+msgid "&Copy Here"
+msgstr "ここにコピー(&C)"
+
+msgid "Copy Image"
+msgstr "画像をコピー"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Link Address"
+msgstr "リンクアドレスをコピー"
+
+msgid "_Copy Link Address"
+msgstr "リンクのアドレスをコピー(_C)"
+
+msgid "Copy Location"
+msgstr "場所をコピー"
+
+msgid "Copy of %1"
+msgstr "%1 のコピー"
+
+msgid "Copy selection to clipboard"
+msgstr "選択範囲をクリップボードにコピー"
+
+msgid "Copy Text"
+msgstr "テキストをコピー"
+
+msgid "Copy to Clipboard"
+msgstr "クリップボードにコピー"
+
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+msgid "Copy URL"
+msgstr "URL をコピー"
+
+msgid "Copying files"
+msgstr "ファイルをコピー中"
+
+msgid "Copyright"
+msgstr "著作権"
+
+msgid "Cost"
+msgstr "コスト"
+
+msgid "Costa Rica"
+msgstr "コスタリカ"
+
+msgid "Could not open %1"
+msgstr "%1 を開けませんでした"
+
+msgid "Could not open file."
+msgstr "ファイルを開けませんでした。"
+
+msgid "Count"
+msgstr "個数"
+
+msgid "Counter"
+msgstr "カウンター"
+
+msgid "Country"
+msgstr "国"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "C_reate"
+msgstr "作成(_R)"
+
+msgid "Create Folder"
+msgstr "フォルダを作成"
+
+msgid "Create New"
+msgstr "新規作成"
+
+msgid "Created"
+msgstr "作成日"
+
+msgid "Creation Date"
+msgstr "作成日"
+
+msgid "Creation date"
+msgstr "作成日"
+
+msgid "Creator"
+msgstr "作成者"
+
+msgid "Credentials"
+msgstr ""
+
+msgid "Credits"
+msgstr "クレジット"
+
+msgid "Criteria"
+msgstr "条件"
+
+msgid "Critical"
+msgstr "クリティカル"
+
+msgid "Croatia"
+msgstr "クロアチア"
+
+msgid "Croatian"
+msgstr "クロアチア語"
+
+msgid "Crop"
+msgstr "切り抜き"
+
+msgid "Crop image"
+msgstr "画像の切り抜き"
+
+msgid "Cross"
+msgstr "クロス"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "Ctrl+O"
+msgstr "Ctrl+O"
+
+msgid "Cuba"
+msgstr "キューバ"
+
+msgid "Currency"
+msgstr "通貨"
+
+msgid "Current"
+msgstr "カレント"
+
+msgid "Current Maintainer"
+msgstr "現在のメンテナ"
+
+msgid "Current maintainer"
+msgstr "現在のメンテナ"
+
+msgid "Cursor"
+msgstr "カーソル"
+
+msgid "Curve"
+msgstr "曲線"
+
+msgid "Curves"
+msgstr "トーンカーブ"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Custom..."
+msgstr "カスタム..."
+
+msgid "Custom Font"
+msgstr "カスタムフォント"
+
+msgid "Cut"
+msgstr "切り取り"
+
+msgid "Cu&t"
+msgstr "切り取り(&T)"
+
+msgid "Cu_t"
+msgstr "切り取り(_T)"
+
+msgid "Cyan"
+msgstr "シアン"
+
+msgid "Cyprus"
+msgstr "キプロス"
+
+msgid "Cyrillic"
+msgstr "キリル文字"
+
+msgid "Czech"
+msgstr "チェコ語"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "毎日"
+
+msgid "Dance"
+msgstr "ダンス"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+msgid "Danish"
+msgstr "デンマーク語"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr "ダーク"
+
+msgid "Dark Mode"
+msgstr "ダークモード"
+
+msgid "Darken"
+msgstr "比較 (暗)"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Dashed"
+msgstr "破線"
+
+msgid "Data"
+msgstr "データ"
+
+msgid "Database"
+msgstr "データベース"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "date"
+msgstr "date"
+
+msgid "Date & Time"
+msgstr "日付と時刻"
+
+msgid "Date and Time"
+msgstr "日付と時間"
+
+msgid "Date Format"
+msgstr "日付の表示"
+
+msgid "Date Modified"
+msgstr "更新日時"
+
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Days"
+msgstr "日"
+
+msgid "days"
+msgstr "日"
+
+msgid "day(s)"
+msgstr "日"
+
+msgid "D-Bus name to use for this instance"
+msgstr "このインスタンスで使用する D-Bus 名"
+
+msgid "Debug"
+msgstr "デバッグ"
+
+msgid "Debugger"
+msgstr "デバッガ"
+
+msgid "Debugging"
+msgstr "デバッグ"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Decimal"
+msgstr "10 進"
+
+msgid "Decline"
+msgstr "拒否"
+
+msgid "Decrease Font Size"
+msgstr "フォントサイズを小さく"
+
+msgid "Decrease Indent"
+msgstr "字下げを減らす"
+
+msgid "Decrease Volume"
+msgstr "音量を下げる"
+
+msgid "Decrypt"
+msgstr "復号"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "default"
+msgstr "デフォルト"
+
+msgid "Defaults"
+msgstr "デフォルト"
+
+msgid "Definition"
+msgstr "定義"
+
+msgid "degrees"
+msgstr "度"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Delay"
+msgstr "遅延"
+
 msgid "Delete"
 msgstr "削除"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@title"
-msgid "Appearance"
-msgstr "外観"
+msgid "&Delete"
+msgstr "削除(&D)"
+
+msgid "_Delete"
+msgstr "削除(_D)"
+
+msgid "D&elete"
+msgstr "削除(&E)"
+
+msgid "Delete..."
+msgstr "削除..."
+
+msgid "Delete %1"
+msgstr "%1 を削除"
+
+msgid "Delete All"
+msgstr "すべて削除"
+
+msgid "Delete File"
+msgstr "ファイルの削除"
+
+msgid "Delete Folder"
+msgstr "フォルダの削除"
+
+msgid "Delete Image"
+msgstr "画像を削除"
+
+msgid "Delete Selected"
+msgstr "選択したものを削除"
+
+msgid "Delete selection"
+msgstr ""
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "削除済み"
+
+msgid "Deletion"
+msgstr "削除"
+
+msgid "Delimiter"
+msgstr "区切り文字"
+
+msgid "Delta"
+msgstr "デルタ"
+
+msgid "Denmark"
+msgstr "デンマーク"
+
+msgid "Density"
+msgstr "密度"
+
+msgid "Deny"
+msgstr "拒否"
+
+msgid "Dependencies"
+msgstr ""
+
+msgid "Depth"
+msgstr "深さ"
+
+msgid "Desaturate"
+msgstr "脱色"
+
+msgid "Descending"
+msgstr "降順"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "&Description"
+msgstr "説明(&D)"
+
+msgid "Deselect"
+msgstr "選択解除"
+
+msgid "Deselect All"
+msgstr "すべて選択解除"
+
+msgid "Desert"
+msgstr "砂漠"
+
+msgid "Desktop"
+msgstr "デスクトップ"
+
+msgid "Destination"
+msgstr "保存先"
+
+msgid "Detach"
+msgstr "引き離す"
+
+msgid "_Detach Tab"
+msgstr "タブの切り放し(_D)"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "&Details"
+msgstr "詳細(&D)"
+
+msgid "_Details"
+msgstr "詳細(_D)"
+
+msgid "Details..."
+msgstr "詳細..."
+
+msgid "Devanagari"
+msgstr "デーヴァナーガリー文字"
+
+msgid "Developer"
+msgstr "開発者"
+
+msgid "Development"
+msgstr "開発"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "device"
+msgstr "デバイス"
+
+msgid "Device Information"
+msgstr "デバイスの情報"
+
+msgid "Device Status"
+msgstr "デバイスの状態"
+
+msgid "Device type"
+msgstr "デバイスの種類"
+
+msgid "Devices"
+msgstr "デバイス"
+
+msgid "Diagnostics"
+msgstr "診断"
+
+msgid "Diagonal"
+msgstr "対角"
+
+msgid "Dialog"
+msgstr "ダイアログ"
+
+msgid "Dialogs"
+msgstr "ダイアログ"
+
+msgid "Diamond"
+msgstr "ダイアモンド"
+
+msgid "Dictionary"
+msgstr "辞書"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "差分"
+
+msgid "Difficulty"
+msgstr "難易度"
+
+msgid "Digit"
+msgstr "数字"
+
+msgid "Dimensions"
+msgstr "寸法"
+
+msgid "DIR"
+msgstr "DIR"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Directories"
+msgstr "ディレクトリ"
+
+msgid "Directory"
+msgstr "ディレクトリ"
+
+msgid "directory"
+msgstr ""
+
+msgid "Directory Name"
+msgstr "フォルダ名"
+
+msgid "Disable"
+msgstr "無効"
+
+msgid "Disable connection to session manager"
+msgstr "セッション・マネージャーに接続しない"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "disabled"
+msgstr "無効"
+
+msgid "Disc"
+msgstr "ディスク"
+
+msgid "Disc Number"
+msgstr "ディスク番号"
+
+msgid "Discard"
+msgstr "破棄"
+
+msgid "_Discard"
+msgstr "破棄(_D)"
+
+msgid "Discard All"
+msgstr "すべて破棄"
+
+msgid "Discard Changes"
+msgstr "変更を破棄"
+
+msgid "Discard changes"
+msgstr "変更を破棄"
+
+msgid "_Discard Changes"
+msgstr "保存しない(_D)"
+
+msgid "Discharging"
+msgstr "放電中"
+
+msgid "Disconnect"
+msgstr "切断"
+
+msgid "Disconnected"
+msgstr "切断済み"
+
+msgid "Discover"
+msgstr "Discover"
+
+msgid "Discrete"
+msgstr "離散"
+
+msgid "Disk"
+msgstr "ディスク"
+
+msgid "Dismiss"
+msgstr "無視"
+
+msgid "Display"
+msgstr "表示"
+
+msgid "Display Configuration"
+msgstr "ディスプレイの設定"
+
+msgid "Display Name"
+msgstr "表示名"
+
+msgid "Display Settings"
+msgstr "ディスプレイの設定"
+
+msgid "Dissolve"
+msgstr "ディザー合成"
+
+msgid "Distance"
+msgstr "距離"
+
+msgid "Divide"
+msgstr "除算"
+
+msgid "Djibouti"
+msgstr "ジブチ"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "次回から確認しない"
+
+msgid "Do Not Cancel"
+msgstr ""
+
+msgid "Do not change the actual backend data."
+msgstr "実際のバックエンドのデータは変更しない。"
+
+msgid "Do not show again"
+msgstr "再度表示しない"
+
+msgid "Do not show this message again"
+msgstr "次回からこのメッセージを表示しない"
+
+msgid "Do Nothing"
+msgstr "何もしない"
+
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgid "Document"
+msgstr "文書"
+
+msgid "Document Properties"
+msgstr "ドキュメントのプロパティ"
+
+msgid "Document to open"
+msgstr "開く文書"
+
+msgid "Document Viewer"
+msgstr "文書ビューア"
+
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+msgid "Documents"
+msgstr "文書"
+
+msgid "does not contain"
+msgstr "が次を含まない"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "ドメイン"
+
+msgid "Dominica"
+msgstr "ドミニカ"
+
+msgid "Dominican Republic"
+msgstr "ドミニカ共和国"
+
+msgid "Donate"
+msgstr "寄付"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Dot"
+msgstr "点線"
+
+msgid "Dots"
+msgstr "点線"
+
+msgid "Dotted"
+msgstr ""
+
+msgid "Double"
+msgstr "ダブル"
+
+msgid "Down"
+msgstr "下へ"
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Download Manager"
+msgstr "ダウンロードマネージャ"
+
+msgid "Downloaded"
+msgstr "ダウンロード済み"
+
+msgid "Downloading"
+msgstr "ダウンロード中"
+
+msgid "Downloading..."
+msgstr "ダウンロード中..."
+
+msgid "Downloads"
+msgstr "ダウンロード"
+
+msgid "Dr."
+msgstr "Dr."
+
+msgid "Draft"
+msgstr "ドラフト"
+
+msgid "Drafts"
+msgstr "下書き"
+
+msgid "Draw"
+msgstr "引き分け"
+
+msgid "Drive"
+msgstr "ドライブ"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "締切り日時"
+
+msgid "Due Date"
+msgstr "締切日"
+
+msgid "Duplicate"
+msgstr "複製"
+
+msgid "_Duplicate"
+msgstr "複製(_D)"
+
+msgid "Duplicates"
+msgstr "重複"
+
+msgid "Duration"
+msgstr "再生時間"
+
+msgid "Dutch"
+msgstr "オランダ語"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "E"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "東"
+
+msgid "Easy"
+msgstr "簡単"
+
+msgid "Echo"
+msgstr "Echo"
+
+msgid "Ecuador"
+msgstr "エクアドル"
+
+msgid "Edge"
+msgstr "輪郭"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "&Edit"
+msgstr "編集(&E)"
+
+msgid "_Edit"
+msgstr "編集(_E)"
+
+msgid "Edit..."
+msgstr "編集..."
+
+msgid "&Edit..."
+msgstr "編集(&E)..."
+
+msgid "Edit %1"
+msgstr "%1 を編集"
+
+msgid "Edit Bookmark"
+msgstr "ブックマークの編集"
+
+msgid "Edit Filter"
+msgstr "フィルタを編集"
+
+msgid "Edit Image"
+msgstr "画像を編集"
+
+msgid "Editing"
+msgstr "編集"
+
+msgid "Editor"
+msgstr "エディタ"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Effects"
+msgstr "効果"
+
+msgid "Egypt"
+msgstr "エジプト"
+
+msgid "Egyptian"
+msgstr ""
+
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+msgid "Eject"
+msgstr "イジェクト"
+
+msgid "_Eject"
+msgstr "取り出す(_E)"
+
+msgid "El Salvador"
+msgstr "エルサルバドル"
+
+msgid "Electronic"
+msgstr "エレクトロニック"
+
+msgid "Element"
+msgstr "Element"
+
+msgid "Ellipse"
+msgstr "楕円"
+
+msgid "Email"
+msgstr "メール"
+
+msgid "E-mail"
+msgstr "メールアドレス"
+
+msgid "Email Address"
+msgstr "メールアドレス"
+
+msgid "Email address"
+msgstr "メールアドレス"
+
+msgid "Emails"
+msgstr "E-メール"
+
+msgid "Embedded"
+msgstr "埋め込み"
+
+msgid "Emboss"
+msgstr "エンボス"
+
+msgid "Emphasis"
+msgstr "Emphasis"
+
+msgid "Empty"
+msgstr "空"
+
+msgid "empty"
+msgstr "empty"
+
+msgid "(empty)"
+msgstr "(空)"
+
+msgid "<empty>"
+msgstr "<空>"
+
+msgid "Empty Trash"
+msgstr "ごみ箱を空にする"
+
+msgid "Enable"
+msgstr "有効"
+
+msgid "Enable system tray icon"
+msgstr "システムトレイアイコンを有効にする"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr "詳細なデバッグログを有効にする (パスワードが露出する可能性があります)"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Encoder"
+msgstr "エンコーダー"
+
+msgid "Encoding"
+msgstr "エンコーディング"
+
+msgid "_Encoding"
+msgstr "エンコーディング(_E)"
+
+msgid "Encrypt"
+msgstr "暗号化"
+
+msgid "&Encrypt"
+msgstr "暗号化(&E)"
+
+msgid "Encrypted"
+msgstr "暗号化"
+
+msgid "Encryption"
+msgstr "暗号化"
+
+msgid "End"
+msgstr "終了"
+
+msgid "end"
+msgstr "終了"
+
+msgid "End Date"
+msgstr "終了日時"
+
+msgid "End Time"
+msgstr "終了時間"
+
+msgid "ends with"
+msgstr "が次で終わる"
+
+msgid "Energy"
+msgstr "エネルギー"
+
+msgid "Engine"
+msgstr "エンジン"
+
+msgid "Engineering"
+msgstr "エンジニアリング"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Enter password"
+msgstr "パスワードを入力"
+
+msgid "Entry"
+msgstr "エントリ"
+
+msgid "Environment"
+msgstr "環境"
+
+msgid "equals"
+msgstr "と等しいもの"
+
+msgid "Equation"
+msgstr "1 行の数式"
+
+msgid "Equatorial Guinea"
+msgstr "赤道ギニア"
+
+msgid "Erase"
+msgstr "消しゴム"
+
+msgid "Eraser"
+msgstr "消しゴム"
+
+msgid "Eritrea"
+msgstr "エリトリア"
+
+msgid "ERROR"
+msgstr "エラー"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "error"
+msgstr "エラー"
+
+msgid "Error: %1"
+msgstr "エラー: %1"
+
+msgid "Error message"
+msgstr "エラーメッセージ"
+
+msgid "Errors"
+msgstr "エラー"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Esperanto"
+msgstr "エスペラント語"
+
+msgid "Estonia"
+msgstr "エストニア"
+
+msgid "Estonian"
+msgstr "エストニア語"
+
+msgid "Ethiopia"
+msgstr "エチオピア"
+
+msgid "Ethiopic"
+msgstr "エチオピア文字"
+
+msgid "Europe"
+msgstr "ヨーロッパ"
+
+msgid "Evaluate"
+msgstr "評価"
+
+msgid "Event"
+msgstr "イベント"
+
+msgid "Events"
+msgstr "イベント"
+
+msgid "Everyone"
+msgstr "すべてのユーザ"
+
+msgid "Everything"
+msgstr "すべて"
+
+msgid "Exact"
+msgstr "完全一致"
+
+msgid "Example"
+msgstr "例"
+
+msgid "Examples"
+msgstr "使用例"
+
+msgid "Exception"
+msgstr "例外"
+
+msgid "Exclude"
+msgstr "除外"
+
+msgid "Exclusion"
+msgstr "除外"
+
+msgid "Executable"
+msgstr "実行ファイル"
+
+msgid "Execute"
+msgstr "実行"
+
+msgid "Exit"
+msgstr "終了"
+
+msgid "Exit Full Screen"
+msgstr "フルスクリーンを終了する"
+
+msgid "Exit Fullscreen"
+msgstr "全画面表示を終了"
+
+msgid "Exiting..."
+msgstr "終了中..."
+
+msgid "Expand"
+msgstr "展開する"
+
+msgid "Expand All"
+msgstr "すべて展開"
+
+msgid "Experimental"
+msgstr "実験的機能"
+
+msgid "Expired"
+msgstr "失効"
+
+msgid "Expires"
+msgstr "有効期限"
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "&Export"
+msgstr "エクスポート(&E)"
+
+msgid "_Export"
+msgstr "エクスポート(_E)"
+
+msgid "Export..."
+msgstr "エクスポート..."
+
+msgid "&Export..."
+msgstr "エクスポート(&E)..."
+
+msgid "_Export..."
+msgstr "エクスポート(_E)…"
+
+msgid "E&xport..."
+msgstr "エクスポート(&X)..."
+
+msgid "Export As..."
+msgstr ""
+
+msgid "Export failed"
+msgstr "エクスポートに失敗"
+
+msgid "Export Options"
+msgstr "エクスポートのオプション"
+
+msgid "Exposure"
+msgstr "露出"
+
+msgid "Expression"
+msgstr "数式"
+
+msgid "Extended"
+msgstr "拡張"
+
+msgid "Extension"
+msgstr "拡張子"
+
+msgid "Extensions"
+msgstr "拡張機能"
+
+msgid "Extra Toolbar"
+msgstr "拡張ツールバー"
+
+msgid "Extract"
+msgstr "展開"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "フェード"
+
+msgid "Fahrenheit"
+msgstr "華氏"
+
+msgid "Failed"
+msgstr "失敗"
+
+msgid "False"
+msgstr "False"
+
+msgid "false"
+msgstr "false"
+
+msgid "Family"
+msgstr "家族"
+
+msgid "Family Name"
+msgstr "姓"
+
+msgid "Fast"
+msgstr "高速"
+
+msgid "Faster"
+msgstr "速く"
+
+msgid "Fatal Error"
+msgstr "致命的なエラー"
+
+msgid "Favorite"
+msgstr "お気に入り"
+
+msgid "Favorites"
+msgstr "お気に入り"
+
+msgid "Fax"
+msgstr "FAX"
+
+msgid "Features"
+msgstr "機能"
+
+msgid "February"
+msgstr "2月"
+
+msgid "Feeds"
+msgstr "フィード"
+
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+msgid "Fetch"
+msgstr "フェッチ"
+
+msgid "Fiji"
+msgstr "フィジー"
+
+msgid "FILE"
+msgstr "FILE"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "file"
+msgstr "ファイル"
+
+msgid "&File"
+msgstr "ファイル(&F)"
+
+msgid "_File"
+msgstr "ファイル(_F)"
+
+msgid "[FILE...]"
+msgstr "[ファイル...]"
+
+msgid "File Already Exists"
+msgstr "ファイルは既に存在します"
+
+msgid "File already exists"
+msgstr "ファイルは既に存在します"
+
+msgid "File Exists"
+msgstr "ファイルは存在します"
+
+msgid "File Format"
+msgstr "ファイルのフォーマット"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "ファイルマネージャ"
+
+msgid "File Name"
+msgstr "ファイル名"
+
+msgid "File name"
+msgstr "ファイル名"
+
+msgid "File Not Found"
+msgstr "ファイルが見つかりません"
+
+msgid "File not found"
+msgstr "ファイルが見つかりません"
+
+msgid "File Path"
+msgstr "ファイルパス"
+
+msgid "File Properties"
+msgstr "ファイルのプロパティ"
+
+msgid "File Size"
+msgstr "ファイルサイズ"
+
+msgid "File size"
+msgstr "ファイルサイズ"
+
+msgid "File System"
+msgstr "ファイルシステム"
+
+msgid "File to open"
+msgstr "開くファイル"
+
+msgid "File Transfer"
+msgstr "ファイル転送"
+
+msgid "File Type"
+msgstr "ファイルタイプ"
+
+msgid "Filename"
+msgstr "ファイル名"
+
+msgid "Files"
+msgstr "ファイル"
+
+msgid "Filesystem"
+msgstr "ファイルシステム"
+
+msgid "Fill"
+msgstr "塗りつぶし"
+
+msgid "Fill Color"
+msgstr "塗りつぶしの色"
+
+msgid "Filter"
+msgstr "フィルタ"
+
+msgid "Filter..."
+msgstr "フィルタ..."
+
+msgid "Filters"
+msgstr "フィルタ"
+
+msgid "Final"
+msgstr "最終"
+
+msgid "Find"
+msgstr "検索"
+
+msgid "&Find"
+msgstr "検索(&F)"
+
+msgid "_Find"
+msgstr "検索(_F)"
+
+msgid "F&ind"
+msgstr "検索(&I)"
+
+msgid "Find..."
+msgstr "検索..."
+
+msgid "_Find..."
+msgstr "検索(_F)…"
+
+msgid "Find and Replace"
+msgstr "検索と置換"
+
+msgid "Find Next"
+msgstr "次を検索"
+
+msgid "Find _Next"
+msgstr "次を検索(_N)"
+
+msgid "Find Ne_xt"
+msgstr "次を検索(_X)"
+
+msgid "Find Previous"
+msgstr "前を検索"
+
+msgid "Find Pre_vious"
+msgstr "前を検索(_V)"
+
+msgid "Fingerprint"
+msgstr "フィンガープリント"
+
+msgid "Finish"
+msgstr "終了"
+
+msgid "Finished"
+msgstr "完了"
+
+msgid "Finland"
+msgstr "フィンランド"
+
+msgid "Finnish"
+msgstr "フィンランド語"
+
+msgid "First"
+msgstr "最初"
+
+msgid "First Page"
+msgstr "最初のページ"
+
+msgid "Fit"
+msgstr "フィット"
+
+msgid "Fit Width"
+msgstr "幅に合わせる"
+
+msgid "Fixed"
+msgstr "固定"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "フラグ付き"
+
+msgid "Flags"
+msgstr "フラグ"
+
+msgid "Flash"
+msgstr "フラッシュ"
+
+msgid "Flat"
+msgstr "フラット"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "反転"
+
+msgid "Flip Horizontally"
+msgstr "左右反転"
+
+msgid "Flip horizontally"
+msgstr "左右反転"
+
+msgid "Flip Vertically"
+msgstr "上下反転"
+
+msgid "Flip vertically"
+msgstr "上下反転"
+
+msgid "Float"
+msgstr "浮動小数"
+
+msgid "Floating"
+msgstr "フローティング"
+
+msgid "Flow"
+msgstr "流量"
+
+msgid "flower"
+msgstr ""
+
+msgid "Focal Length"
+msgstr "焦点距離"
+
+msgid "Focus"
+msgstr "フォーカス"
+
+msgid "Folder"
+msgstr "フォルダー"
+
+msgid "Folder name"
+msgstr "フォルダー名"
+
+msgid "Folders"
+msgstr "フォルダ"
+
+msgid "Folk"
+msgstr "フォーク"
+
+msgid "Font"
+msgstr "フォント"
+
+msgid "&Font"
+msgstr "フォント(&F)"
+
+msgid "Font Color"
+msgstr "フォントの色"
+
+msgid "Font Family"
+msgstr "フォントファミリ"
+
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+msgid "Font size"
+msgstr "フォントサイズを設定します"
+
+msgid "Fonts"
+msgstr "フォント"
+
+msgid "_Fonts"
+msgstr "フォント(_F)"
+
+msgid "Food"
+msgstr "食べ物"
+
+msgid "Footer"
+msgstr "フッタ"
+
+msgid "Force"
+msgstr "強さ"
+
+msgid "Forecast"
+msgstr "予報"
+
+msgid "Foreground"
+msgstr "描画色"
+
+msgid "Foreground Color"
+msgstr "前景色"
+
+msgid "Foreground color"
+msgstr "描画色"
+
+msgid "forever"
+msgstr "永続的に"
+
+msgid "Form"
+msgstr "フォーム"
+
+msgid "Format"
+msgstr "フォーマット"
+
+msgid "Formatting"
+msgstr "フォーマット"
+
+msgid "Former Maintainer"
+msgstr "以前のメンテナ"
+
+msgid "Former maintainer"
+msgstr "以前のメンテナ"
+
+msgid "Formula"
+msgstr "数式"
+
+msgid "Forward"
+msgstr "進む"
+
+msgid "&Forward"
+msgstr "進む(&F)"
+
+msgid "_Forward"
+msgstr "進む(_F)"
+
+msgid "Fraction"
+msgstr "分数"
+
+msgid "Frame"
+msgstr "フレーム"
+
+msgid "Framerate"
+msgstr "フレームレート"
+
+msgid "Frames"
+msgstr "フレーム"
+
+msgid "France"
+msgstr "フランス"
+
+msgid "Free"
+msgstr "自由"
+
+msgid "French"
+msgstr "フランス語"
+
+msgid "French Guiana"
+msgstr "フランス領ギアナ"
+
+msgid "Frequency"
+msgstr "周波数"
+
+msgid "Friday"
+msgstr "金曜日"
+
+msgid "Friends"
+msgstr "友達"
+
+msgid "From"
+msgstr "差出人"
+
+msgid "from"
+msgstr "(アルバム)"
+
+msgid "From %1"
+msgstr "%1 から"
+
+msgid "Frozen"
+msgstr "変更不可"
+
+msgid "Full"
+msgstr "完全に信頼"
+
+msgid "Full Name"
+msgstr "フルネーム"
+
+msgid "Full Screen"
+msgstr "フルスクリーン"
+
+msgid "Full Screen Mode"
+msgstr "フルスクリーンモード"
+
+msgid "F&ull Screen Mode"
+msgstr "フルスクリーンモード(&U)"
+
+msgid "Fullscreen"
+msgstr "フルスクリーン"
+
+msgid "_Fullscreen"
+msgstr "全画面表示(_F)"
+
+msgid "Function"
+msgstr "関数"
+
+msgid "function"
+msgstr "関数"
+
+msgid "Functions"
+msgstr "関数"
+
+msgid "Future"
+msgstr "将来"
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "ガボン"
+
+msgid "Galician"
+msgstr "ガリシア語"
+
+msgid "Gallery"
+msgstr "ギャラリー"
+
+msgid "Gambia"
+msgstr "ガンビア"
+
+msgid "Game"
+msgstr "ゲーム"
+
+msgid "&Game"
+msgstr "ゲーム(&G)"
+
+msgid "Game Over"
+msgstr "ゲームオーバー"
+
+msgid "Games"
+msgstr "ゲーム"
+
+msgid "Gamma"
+msgstr "ガンマ"
+
+msgid "Gas"
+msgstr "ガス"
+
+msgid "Gate"
+msgstr ""
+
+msgid "Gateway"
+msgstr "ゲートウェイ"
+
+msgid "Gaussian Blur"
+msgstr "ガウシアンぼかし"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "性別"
+
+msgid "General"
+msgstr "全般"
+
+msgid "&General"
+msgstr "全般(&G)"
+
+msgid "General Options"
+msgstr "全般オプション"
+
+msgid "General options"
+msgstr "一般的なオプション"
+
+msgid "General Settings"
+msgstr "全般設定"
+
+msgid "Generate"
+msgstr "生成"
+
+msgid "Generic"
+msgstr "一般"
+
+msgid "Genre"
+msgstr "ジャンル"
+
+msgid "Genres"
+msgstr "ジャンル"
+
+msgid "Geometry"
+msgstr "ジオメトリ"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "グルジア"
+
+msgid "Georgian"
+msgstr "グルジア語"
+
+msgid "German"
+msgstr "ドイツ語"
+
+msgid "Germany"
+msgstr "ドイツ"
+
+msgid "Get New..."
+msgstr "新規入手..."
+
+msgid "Get New Plugins..."
+msgstr "新しいプラグインを入手..."
+
+msgid "Ghana"
+msgstr "ガーナ"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "名"
+
+msgid "Global"
+msgstr "グローバル"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "移動"
+
+msgid "&Go"
+msgstr "移動(&G)"
+
+msgid "_Go"
+msgstr "移動(_G)"
+
+msgid "Go Back"
+msgstr "戻る"
+
+msgid "Go back"
+msgstr "戻る"
+
+msgid "Go forward"
+msgstr "進む"
+
+msgid "Go To"
+msgstr "移動"
+
+msgid "Go to first page"
+msgstr "先頭ページへ移動します"
+
+msgid "Go to last page"
+msgstr "最後のページに移動"
+
+msgid "Go to Line"
+msgstr "指定行へ移動"
+
+msgid "Go to next page"
+msgstr "次のページに移動"
+
+msgid "Go to previous page"
+msgstr "前のページに移動"
+
+msgid "Goa"
+msgstr "ゴア"
+
+msgid "Gold"
+msgstr "金"
+
+msgid "Good"
+msgstr "良い"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "ゴート文字"
+
+msgid "Gradient"
+msgstr "グラデーション"
+
+msgid "Gradients"
+msgstr "グラデーション"
+
+msgid "Graph"
+msgstr "グラフ"
+
+msgid "Graphics"
+msgstr "グラフィック"
+
+msgid "Gray"
+msgstr "グレー"
+
+msgid "gray"
+msgstr "グレー"
+
+msgid "Grayscale"
+msgstr "グレースケール"
+
+msgid "Greece"
+msgstr "ギリシャ"
+
+msgid "Greek"
+msgstr "ギリシャ語"
+
+msgid "Green"
+msgstr "緑"
+
+msgid "green"
+msgstr "緑"
+
+msgid "Grenada"
+msgstr "グレナダ"
+
+msgid "Grey"
+msgstr "グレー"
+
+msgid "Grid"
+msgstr "グリッド"
+
+msgid "Group"
+msgstr "グループ"
+
+msgid "Group name"
+msgstr "グループ名"
+
+msgid "Grouping"
+msgstr "グループ化"
+
+msgid "Groups"
+msgstr "グループ"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "グアテマラ"
+
+msgid "Guides"
+msgstr "ガイド"
+
+msgid "Guinea"
+msgstr "ギニア"
+
+msgid "Gujarati"
+msgstr "グジャラート文字"
+
+msgid "Gurmukhi"
+msgstr "グルムキー文字"
+
+msgid "Guyana"
+msgstr "ガイアナ"
+
+msgid "H"
+msgstr "高"
+
+msgid "Haiti"
+msgstr "ハイチ"
+
+msgid "Hard"
+msgstr "ハード"
+
+msgid "Hardware"
+msgstr "ハードウェア"
+
+msgid "Hawaiian"
+msgstr ""
+
+msgid "Header"
+msgstr "ヘッダ"
+
+msgid "Headers"
+msgstr "ヘッダ"
+
+msgid "Heading"
+msgstr "Heading"
+
+msgid "Heading 1"
+msgstr "見出し 1"
+
+msgid "Heading 2"
+msgstr "見出し 2"
+
+msgid "Heading 3"
+msgstr ""
+
+msgid "Heading 4"
+msgstr ""
+
+msgid "Headphones"
+msgstr "ヘッドフォン"
+
+msgid "Headset"
+msgstr "ヘッドセット"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Hebrew"
+msgstr "ヘブライ語"
+
+msgid "Height"
+msgstr "高さ"
+
+msgid "&Height"
+msgstr "高さ(&H)"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "&Help"
+msgstr "ヘルプ(&H)"
+
+msgid "_Help"
+msgstr "ヘルプ(_H)"
+
+msgid "Helsinki"
+msgstr "ヘルシンキ"
+
+msgid "Hex"
+msgstr "16 進"
+
+msgid "Hexadecimal"
+msgstr "16進"
+
+msgid "Hexagon"
+msgstr "六角形"
+
+msgid "Hibernate"
+msgstr "ハイバネート"
+
+msgid "Hidden"
+msgstr "非表示"
+
+msgid "hidden"
+msgstr "非表示"
+
+msgid "Hide"
+msgstr "隠す"
+
+msgid "&Hide"
+msgstr "隠す(&H)"
+
+msgid "Hide menu bar"
+msgstr "メニューバーを隠す"
+
+msgid "High"
+msgstr "高"
+
+msgid "Highlight"
+msgstr "ハイライト"
+
+msgid "Highlighter"
+msgstr "マーカー"
+
+msgid "Highlights"
+msgstr "ハイライト"
+
+msgid "Hindi"
+msgstr "ヒンズー語"
+
+msgid "Hint"
+msgstr "ヒント"
+
+msgid "Histogram"
+msgstr "ヒストグラム"
+
+msgid "History"
+msgstr "履歴"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "ホールド"
+
+msgid "Holidays"
+msgstr "祝日"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "&Home"
+msgstr "ホーム(&H)"
+
+msgid "Home Folder"
+msgstr "ホームフォルダ"
+
+msgid "Home Page"
+msgstr "ホームページ"
+
+msgid "Homepage"
+msgstr "ホームページ"
+
+msgid "Honduras"
+msgstr "ホンジュラス"
+
+msgid "Hong Kong"
+msgstr "香港"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "Host"
+msgstr "ホスト"
+
+msgid "Hostname"
+msgstr "ホスト名"
+
+msgid "Hotspot"
+msgstr "ホットスポット"
+
+msgid "Hour"
+msgstr "時"
+
+msgid "Hours"
+msgstr "時間"
+
+msgid "hours"
+msgstr "時間"
+
+msgid "House"
+msgstr "ハウス"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "色相"
+
+msgid "Huge"
+msgstr "とても大きい"
+
+msgid "Hungarian"
+msgstr "ハンガリー語"
+
+msgid "Hungary"
+msgstr "ハンガリー"
+
+msgid "Hz"
+msgstr "Hz"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+msgid "Iceland"
+msgstr "アイスランド"
+
+msgid "Icelandic"
+msgstr "アイスランド語"
+
+msgid "Icon"
+msgstr "アイコン"
+
+msgid "Icon Size"
+msgstr "アイコンサイズ"
+
+msgid "Icon size"
+msgstr "アイコンサイズ"
+
+msgid "Icon View"
+msgstr "アイコン表示"
+
+msgid "Icons"
+msgstr "アイコン"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "id"
+msgstr ""
+
+msgid "Identifier"
+msgstr "識別子"
+
+msgid "Identity"
+msgstr "個人情報"
+
+msgid "Idle"
+msgstr "アイドル"
+
+msgid "Ignore"
+msgstr "無視"
+
+msgid "_Ignore"
+msgstr "無視(_I)"
+
+msgid "Ignore Case"
+msgstr ""
+
+msgid "Ignored"
+msgstr "無視"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "image"
+msgstr "画像"
+
+msgid "&Image"
+msgstr "画像(&I)"
+
+msgid "_Image"
+msgstr "画像(_I)"
+
+msgid "Image Editor"
+msgstr "画像エディタ"
+
+msgid "Image Files"
+msgstr "画像ファイル"
+
+msgid "Image files"
+msgstr "画像ファイル"
+
+msgid "Image Gallery"
+msgstr "イメージギャラリー"
+
+msgid "Image Properties"
+msgstr "画像のプロパティ"
+
+msgid "Image Settings"
+msgstr "画像の設定"
+
+msgid "Image Size"
+msgstr "画像サイズ"
+
+msgid "Image Viewer"
+msgstr "画像ビューア"
+
+msgid "Images"
+msgstr "画像"
+
+msgid "Images (%1)"
+msgstr ""
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "&Import"
+msgstr "インポート(&I)"
+
+msgid "_Import"
+msgstr "インポート(_I)"
+
+msgid "Import..."
+msgstr "インポート..."
+
+msgid "&Import..."
+msgstr "インポート(&I)..."
+
+msgid "Import failed"
+msgstr "インポートに失敗"
+
+msgid "Important"
+msgstr "重要"
+
+msgid "In"
+msgstr "イン"
+
+msgid "in"
+msgstr "in"
+
+msgid "Inactive"
+msgstr "非アクティブ"
+
+msgid "Inbox"
+msgstr "受信箱"
+
+msgid "inch"
+msgstr "インチ"
+
+msgid "Inches"
+msgstr "インチ"
+
+msgid "inches"
+msgstr "インチ"
+
+msgid "Inches (in)"
+msgstr "インチ (in)"
+
+msgid "Include"
+msgstr "含む"
+
+msgid "Includes"
+msgstr "インクルード"
+
+msgid "Incoming"
+msgstr "受信"
+
+msgid "Increase Font Size"
+msgstr "フォントサイズを大きく"
+
+msgid "Increase Indent"
+msgstr "字下げを増やす"
+
+msgid "Increase Volume"
+msgstr "音量を上げる"
+
+msgid "Incremental"
+msgstr "インクリメンタル"
+
+msgid "Indentation"
+msgstr "インデント"
+
+msgid "Index"
+msgstr "インデックス"
+
+msgid "Indexed"
+msgstr "インデックス"
+
+msgid "India"
+msgstr "インド"
+
+msgid "Indonesia"
+msgstr "インドネシア"
+
+msgid "Indonesian"
+msgstr "インドネシア語"
+
+msgid "Industrial"
+msgstr "インダストリアル"
+
+msgid "Info"
+msgstr "情報"
+
+msgid "Information"
+msgstr "情報"
+
+msgid "Initials"
+msgstr "イニシャル"
+
+msgid "Input"
+msgstr "入力"
+
+msgid "Input Devices"
+msgstr "入力デバイス"
+
+msgid "Insert"
+msgstr "挿入"
+
+msgid "&Insert"
+msgstr "挿入(&I)"
+
+msgid "Insert Image"
+msgstr "画像を挿入"
+
+msgid "Insert Link"
+msgstr "リンクを挿入"
+
+msgid "Insert Table"
+msgstr "表を挿入"
+
+msgid "Insert Text"
+msgstr "テキストを挿入"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "Install..."
+msgstr "インストール"
+
+msgid "Install from File..."
+msgstr "ファイルからインストール..."
+
+msgid "Installed"
+msgstr "インストール済"
+
+msgid "Installing"
+msgstr "インストール中"
+
+msgid "Instant"
+msgstr "即時"
+
+msgid "Integer"
+msgstr "整数"
+
+msgid "Integrate"
+msgstr "統合"
+
+msgid "Intensity"
+msgstr "強度"
+
+msgid "Interface"
+msgstr "インターフェース"
+
+msgid "Internal"
+msgstr "内部"
+
+msgid "Internal Error"
+msgstr "内部エラー"
+
+msgid "Internal error"
+msgstr "内部エラー"
+
+msgid "International"
+msgstr "国際"
+
+msgid "Internet"
+msgstr "インターネット"
+
+msgid "Interpolation"
+msgstr "補間"
+
+msgid "Interrupt"
+msgstr "中断"
+
+msgid "Interval"
+msgstr "期間"
+
+msgid "Introduction"
+msgstr "はじめに"
+
+msgid "Invalid"
+msgstr "無効"
+
+msgid "invalid"
+msgstr "不正"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr "無効なブーリアン型プロパティ “%s” (yes または no ではありません)"
+
+msgid "Invalid date"
+msgstr "無効な日付"
+
+msgid "Invalid password"
+msgstr "パスワードが正しくありません"
+
+msgid "Invalid URL"
+msgstr "無効な URL"
+
+msgid "Invert"
+msgstr "反転"
+
+msgid "Invert Selection"
+msgstr "選択反転"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP アドレス"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "イラン"
+
+msgid "Iraq"
+msgstr "イラク"
+
+msgid "Ireland"
+msgstr "アイルランド"
+
+msgid "Irish"
+msgstr "アイルランド語"
+
+msgid "is"
+msgstr "が次である"
+
+msgid "Israel"
+msgstr "イスラエル"
+
+msgid "Issued By"
+msgstr "発行"
+
+msgid "Issuer"
+msgstr "発行者"
+
+msgid "Italian"
+msgstr "イタリア語"
+
+msgid "Italic"
+msgstr "イタリック"
+
+msgid "&Italic"
+msgstr "イタリック(&I)"
+
+msgid "_Italic"
+msgstr "斜体(_I)"
+
+msgid "Italy"
+msgstr "イタリア"
+
+msgid "Item"
+msgstr "アイテム"
+
+msgid "Items"
+msgstr "アイテム"
+
+msgid "Iterations"
+msgstr "反復数"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "ジャマイカ"
+
+msgid "January"
+msgstr "1月"
+
+msgid "Japan"
+msgstr "日本"
+
+msgid "Japanese"
+msgstr "日本語"
+
+msgid "Javanese"
+msgstr "ジャワ文字"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "ジャズ"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr "ジョイン"
+
+msgid "Jonah Brüchert"
+msgstr ""
+
+msgid "Jordan"
+msgstr "ヨルダン"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr ""
+
+msgid "Journal"
+msgstr "日記"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "7月"
+
+msgid "Jump to next match"
+msgstr "次のマッチに移動"
+
+msgid "Jump to previous match"
+msgstr "前のマッチに移動"
+
+msgid "June"
+msgstr "6月"
+
+msgid "Justify"
+msgstr "両端揃え"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "カンナダ文字"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "カザフ語"
+
+msgid "Kazakhstan"
+msgstr "カザフスタン"
+
+msgid "kB"
+msgstr "KB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr ""
+
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "保持"
+
+msgid "_Keep"
+msgstr "保持(_K)"
+
+msgid "Keep aspect ratio"
+msgstr "アスペクト比を保つ"
+
+msgid "Keep Open"
+msgstr "開けたままにする"
+
+msgid "Kenya"
+msgstr "ケニア"
+
+msgid "Kernel"
+msgstr "カーネル"
+
+msgid "Key"
+msgstr "キー"
+
+msgid "Key ID"
+msgstr "鍵 ID"
+
+msgid "Keyboard"
+msgstr "キーボード"
+
+msgid "Keyboard Layout"
+msgstr "キーボード配列"
+
+msgid "Keyboard Shortcuts"
+msgstr "キーボードショートカット"
+
+msgid "Keyboard shortcuts"
+msgstr "キーボードショートカットを表示する"
+
+msgid "_Keyboard Shortcuts"
+msgstr "キーボードショートカット(_K)"
+
+msgid "Keys"
+msgstr "キー"
+
+msgid "Keyword"
+msgstr "キーワード"
+
+msgid "Keywords"
+msgstr "キーワード"
+
+msgid "Khmer"
+msgstr "クメール文字"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "種類"
+
+msgid "Kiribati"
+msgstr "キリバス"
+
+msgid "km"
+msgstr "km"
+
+msgid "KMail"
+msgstr "KMail"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "韓国語"
+
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+msgid "Kuwait"
+msgstr "クウェート"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "ラベル"
+
+msgid "label"
+msgstr "ラベル"
+
+msgid "Labels"
+msgstr "ラベル"
+
+msgid "Landscape"
+msgstr "横長"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "_Language"
+msgstr "言語(_L)"
+
+msgid "Languages"
+msgstr "言語"
+
+msgid "Lao"
+msgstr "ラーオ文字"
+
+msgid "Laos"
+msgstr "ラオス"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Last"
+msgstr "最後"
+
+msgid "Last Modified"
+msgstr "最終更新日時"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "ラテン文字"
+
+msgid "Latitude"
+msgstr "緯度"
+
+msgid "Latvia"
+msgstr "ラトビア"
+
+msgid "Latvian"
+msgstr "ラトビア語"
+
+msgid "Launch %1"
+msgstr "%1 を起動"
+
+msgid "Layer"
+msgstr "レイヤー"
+
+msgid "Layers"
+msgstr "レイヤー"
+
+msgid "Layout"
+msgstr "レイアウト"
+
+msgid "Leave Fullscreen"
+msgstr "全画面を終了"
+
+msgid "Lebanon"
+msgstr "レバノン"
+
+msgid "Left"
+msgstr "左"
+
+msgid "left"
+msgstr "left"
+
+msgid "&Left"
+msgstr "左"
+
+msgid "_Left"
+msgstr "左(_L)"
+
+msgid "Left to Right"
+msgstr "左から右"
+
+msgid "Legacy"
+msgstr "レガシー"
+
+msgid "Legend"
+msgstr "凡例"
+
+msgid "Length"
+msgstr "長さ"
+
+msgid "Lesotho"
+msgstr "レソト"
+
+msgid "Letter"
+msgstr "レター"
+
+msgid "Level"
+msgstr "レベル"
+
+msgid "Level %1"
+msgstr "レベル %1"
+
+msgid "Levels"
+msgstr "レベル"
+
+msgid "Liberia"
+msgstr "リベリア"
+
+msgid "Library"
+msgstr "ライブラリ"
+
+msgid "License"
+msgstr "ライセンス"
+
+msgid "Liechtenstein"
+msgstr "リヒテンシュタイン"
+
+msgid "Light"
+msgstr "ライト"
+
+msgid "Lighten"
+msgstr "比較 (明)"
+
+msgid "Lightness"
+msgstr "輝度"
+
+msgid "Limit"
+msgstr "上限"
+
+msgid "Limits"
+msgstr "制限"
+
+msgid "Line"
+msgstr "直線"
+
+msgid "line"
+msgstr "行"
+
+msgid "Line Break"
+msgstr "改行"
+
+msgid "Line Color"
+msgstr "線の色"
+
+msgid "Line Numbers"
+msgstr "行番号"
+
+msgid "Line Width"
+msgstr "線の幅"
+
+msgid "Line width"
+msgstr "線の幅"
+
+msgid "Linear"
+msgstr "線形"
+
+msgid "Lines"
+msgstr "線"
+
+msgid "Link"
+msgstr "リンク"
+
+msgid "link"
+msgstr "リンク"
+
+msgid "Link URL"
+msgstr "リンクの URL"
+
+msgid "Links"
+msgstr "リンク"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "リスト"
+
+msgid "List View"
+msgstr "リスト表示"
+
+msgid "Lists"
+msgstr "リスト"
+
+msgid "Lists the available options for user feedback"
+msgstr "ユーザフィードバックのために利用可能なオプションをリスト"
+
+msgid "Lithuania"
+msgstr "リトアニア"
+
+msgid "Lithuanian"
+msgstr "リトアニア語"
+
+msgid "%l:%M %p"
+msgstr "%p %l:%M"
+
+msgid "Load"
+msgstr "読み込み"
+
+msgid "Load..."
+msgstr "読み込み..."
+
+msgid "Load Game"
+msgstr "ゲームを読み込み"
+
+msgid "Loading"
+msgstr "読み込み中"
+
+msgid "Loading..."
+msgstr "読み込み中..."
+
+msgid "Loading %1..."
+msgstr ""
+
+msgid "Local"
+msgstr "ローカル"
+
+msgid "Locale"
+msgstr "ロケール"
+
+msgid "Locality"
+msgstr "区市町村"
+
+msgid "Location"
+msgstr "場所"
+
+msgid "Locations"
+msgstr "場所"
+
+msgid "Lock"
+msgstr "ロック"
+
+msgid "Lock Screen"
+msgstr "スクリーンをロック"
+
+msgid "Locked"
+msgstr "ロック"
+
+msgid "Log"
+msgstr "ログ"
+
+msgid "Log in"
+msgstr "ログイン"
+
+msgid "Log Out"
+msgstr "ログアウト"
+
+msgid "Logarithmic"
+msgstr "対数"
+
+msgid "Logging"
+msgstr "ログ"
+
+msgid "Logging in..."
+msgstr "ログインしています…"
+
+msgid "Logic"
+msgstr "ロジック"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "_Login"
+msgstr "ログイン(_L)"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Logs"
+msgstr "ログ"
+
+msgid "Longitude"
+msgstr "経度"
+
+msgid "Loop"
+msgstr "繰り返し"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Lower"
+msgstr "低い"
+
+msgid "Lowercase"
+msgstr "小文字"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "輝度"
+
+msgid "Luxembourg"
+msgstr "ルクセンブルク"
+
+msgid "Lyricist"
+msgstr "作詞者"
+
+msgid "Lyrics"
+msgstr "歌詞"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr "m"
+
+msgid "Macedonian"
+msgstr "マケドニア語"
+
+msgid "Macro"
+msgstr "マクロ"
+
+msgid "Macros"
+msgstr "マクロ"
+
+msgid "Madagascar"
+msgstr "マダガスカル"
+
+msgid "Magenta"
+msgstr "マゼンタ"
+
+msgid "Mail"
+msgstr "メール"
+
+msgid "Main"
+msgstr "メイン"
+
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+msgid "Main Toolbar"
+msgstr "メインツールバー"
+
+msgid "Main Window"
+msgstr "メインウィンドウ"
+
+msgid "Main window"
+msgstr "メインウィンドウ"
+
+msgid "Maintainer"
+msgstr "メンテナ"
+
+msgid "Malawi"
+msgstr "マラウイ"
+
+msgid "Malay"
+msgstr "マレー語"
+
+msgid "Malayalam"
+msgstr "マラヤーラム文字"
+
+msgid "Malaysia"
+msgstr "マレーシア"
+
+msgid "Maldives"
+msgstr "モルジブ共和国"
+
+msgid "Male"
+msgstr "マレ"
+
+msgid "Mali"
+msgstr "マリ"
+
+msgid "Malta"
+msgstr "マルタ"
+
+msgid "Maltese"
+msgstr ""
+
+msgid "Manager"
+msgstr "マネージャ"
+
+msgid "Manual"
+msgstr "手動"
+
+msgid "Manufacturer"
+msgstr "製造元"
+
+msgid "Map"
+msgstr "地図"
+
+msgid "Maps"
+msgstr "マップ"
+
+msgid "Marathi"
+msgstr "マラーティー語"
+
+msgid "Marble"
+msgstr "Marble"
+
+msgid "March"
+msgstr "3月"
+
+msgid "Margins"
+msgstr "余白"
+
+msgid "Mark"
+msgstr "マーク"
+
+msgid "Mark as Read"
+msgstr ""
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Marker"
+msgstr "マーカー"
+
+msgid "Markers"
+msgstr "マーカー"
+
+msgid "Marshall Islands"
+msgstr "マーシャル諸島"
+
+msgid "Mask"
+msgstr "マスク"
+
+msgid "Mass"
+msgstr "質量"
+
+msgid "Match"
+msgstr "一致"
+
+msgid "Match case"
+msgstr "大文字/小文字を区別"
+
+msgid "_Match case"
+msgstr "マッチケース(_M)"
+
+msgid "Math"
+msgstr "数学"
+
+msgid "Matrix"
+msgstr "行列"
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "モーリタニア"
+
+msgid "Mauritius"
+msgstr "モーリシャス"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "max"
+msgstr "最大"
+
+msgid "Maximize"
+msgstr "最大化"
+
+msgid "Maximum"
+msgstr "最大"
+
+msgid "May"
+msgstr "5月"
+
+msgid "Maze"
+msgstr "迷路"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "平均"
+
+msgid "Measure"
+msgstr "定規"
+
+msgid "Media"
+msgstr "メディア"
+
+msgid "Media Player"
+msgstr "メディアプレーヤー"
+
+msgid "Median"
+msgstr "中央値"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "medium"
+msgstr "medium"
+
+msgid "Member"
+msgstr "メンバー"
+
+msgid "Memory"
+msgstr "メモリ"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Mercury"
+msgstr "マーキュリー"
+
+msgid "Merge"
+msgstr "マージ"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "message"
+msgstr ""
+
+msgid "Messages"
+msgstr "メッセージ"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "メタデータ"
+
+msgid "Metal"
+msgstr "メタル"
+
+msgid "meters"
+msgstr "メートル"
+
+msgid "Method"
+msgstr "メソッド"
+
+msgid "Metric"
+msgstr "メトリック"
+
+msgid "Mexico"
+msgstr "メキシコ"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "マイクロフォン"
+
+msgid "Middle"
+msgstr "中"
+
+msgid "Miha Čančula"
+msgstr ""
+
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+msgid "Millimeters"
+msgstr "ミリメートル"
+
+msgid "Millimeters (mm)"
+msgstr "ミリメートル (mm)"
+
+msgid "Milliseconds"
+msgstr "ミリ秒"
+
+msgid "milliseconds"
+msgstr "ミリ秒"
+
+msgid "Min"
+msgstr "最小"
+
+msgid "min"
+msgstr "分"
+
+msgid "Minimize"
+msgstr "最小化"
+
+msgid "Minimum"
+msgstr "最小"
+
+msgid "Minute"
+msgstr "分"
+
+msgid "Minutes"
+msgstr "分"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "Mirror"
+msgstr "ミラー"
+
+msgid "Misc"
+msgstr "その他"
+
+msgid "Miscellaneous"
+msgstr "その他"
+
+msgid "missing plugin file \"%s\""
+msgstr "プラグインファイル \"%s\" が見つかりません"
+
+msgid "Miter limit"
+msgstr "マイター限界"
+
+msgid "Mix"
+msgstr "混合"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Mobile"
+msgstr "携帯電話"
+
+msgid "Mode"
+msgstr "モード"
+
+msgid "Model"
+msgstr "モデル"
+
+msgid "Modem"
+msgstr "モデム"
+
+msgid "Modified"
+msgstr "更新日時"
+
+msgid "modified"
+msgstr "変更されました"
+
+msgid "Modifiers"
+msgstr "修飾子"
+
+msgid "Modify"
+msgstr "変更"
+
+msgid "Modify..."
+msgstr "変更…"
+
+msgid "&Modify..."
+msgstr "変更(&M)..."
+
+msgid "Modify search behavior"
+msgstr "検索の挙動を変更"
+
+msgid "Module"
+msgstr "モジュール"
+
+msgid "Modules"
+msgstr "モジュール"
+
+msgid "Moldova"
+msgstr "モルドバ"
+
+msgid "Monaco"
+msgstr "モナコ"
+
+msgid "Monday"
+msgstr "月曜日"
+
+msgid "Mongolia"
+msgstr "モンゴル"
+
+msgid "Mongolian"
+msgstr "モンゴル文字"
+
+msgid "Monitor"
+msgstr "モニタ"
+
+msgid "Mono"
+msgstr "モノラル"
+
+msgid "Monochrome"
+msgstr "モノクロ"
+
+msgid "Monospace"
+msgstr "モノスペース"
+
+msgid "Montenegro"
+msgstr "モンテネグロ"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Month View"
+msgstr "月ビュー"
+
+msgid "Monthly"
+msgstr "月単位"
+
+msgid "Months"
+msgstr "月"
+
+msgid "More"
+msgstr "その他"
+
+msgid "More..."
+msgstr "その他..."
+
+msgid "More actions"
+msgstr "その他のアクション"
+
+msgid "More Information"
+msgstr "詳細情報"
+
+msgid "More options"
+msgstr "その他のオプション"
+
+msgid "Morocco"
+msgstr "モロッコ"
+
+msgid "Mount"
+msgstr "マウント"
+
+msgid "Mount point"
+msgstr "マウントポイント"
+
+msgid "Mouse"
+msgstr "マウス"
+
+msgid "Mouse Wheel"
+msgstr "マウスホイール"
+
+msgid "Move"
+msgstr "移動"
+
+msgid "&Move"
+msgstr "移動(&M)"
+
+msgid "_Move"
+msgstr "移動(_M)"
+
+msgid "Move %1"
+msgstr "%1 を移動"
+
+msgid "Move Down"
+msgstr "下へ移動"
+
+msgid "Move down"
+msgstr "下へ移動"
+
+msgid "Move &Down"
+msgstr "下へ移動(&D)"
+
+msgid "&Move Here"
+msgstr "ここに移動(&M)"
+
+msgid "Move Left"
+msgstr "左に移動"
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr "右に移動"
+
+msgid "Move Tab Left"
+msgstr "タブを左に移動"
+
+msgid "Move Tab Right"
+msgstr "タブを右に移動"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "移動"
+
+msgid "Move to Bottom"
+msgstr "最下位へ移動"
+
+msgid "Move to Top"
+msgstr "最上位へ移動"
+
+msgid "Move to Trash"
+msgstr "ごみ箱に移動"
+
+msgid "&Move to Trash"
+msgstr "ごみ箱に移動(&M)"
+
+msgid "Move Up"
+msgstr "上へ移動"
+
+msgid "Move up"
+msgstr "上へ移動"
+
+msgid "Move &Up"
+msgstr "上へ移動(&U)"
+
+msgid "Mozambique"
+msgstr "モザンビーク"
+
+msgid "ms"
+msgstr "ミリ秒"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "マルチメディア"
+
+msgid "Multiply"
+msgstr "乗算"
+
+msgid "Music"
+msgstr "音楽"
+
+msgid "Music Player"
+msgstr "ミュージックプレーヤー"
+
+msgid "Mute"
+msgstr "ミュート"
+
+msgid "Myanmar"
+msgstr "ミャンマー"
+
+msgid "N"
+msgstr "N"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "name"
+msgstr "名前"
+
+msgid "&Name"
+msgstr "名前(&N)"
+
+msgid "_Name"
+msgstr "名前(_N)"
+
+msgid "Name: %1"
+msgstr "名前: %1"
+
+msgid "Namespace"
+msgstr "ネームスペース"
+
+msgid "Namibia"
+msgstr "ナミビア"
+
+msgid "Nature"
+msgstr "自然"
+
+msgid "Nauru"
+msgstr "ナウル"
+
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+msgid "Negative"
+msgstr "ネガ"
+
+msgid "Neon"
+msgstr "ネオン"
+
+msgid "Nepal"
+msgstr "ネパール"
+
+msgid "Nepali"
+msgstr "ネパール語"
+
+msgid "Netherlands"
+msgstr "オランダ"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Networks"
+msgstr "ネットワーク"
+
+msgid "Never"
+msgstr "しない"
+
+msgid "never"
+msgstr "無期限"
+
+msgid "New"
+msgstr "新規"
+
+msgid "&New"
+msgstr "新規(&N)"
+
+msgid "_New"
+msgstr "新規(_N)"
+
+msgid "New..."
+msgstr "新規..."
+
+msgid "&New..."
+msgstr "新規(&N)..."
+
+msgid "_New..."
+msgstr "新しい画像(_N)..."
+
+msgid "New Bookmark"
+msgstr "新しいブックマーク"
+
+msgid "New Connection"
+msgstr "新しい接続"
+
+msgid "New File"
+msgstr "新しいファイル"
+
+msgid "New Folder"
+msgstr "新しいフォルダ"
+
+msgid "New folder"
+msgstr "新しいフォルダー"
+
+msgid "New Folder..."
+msgstr "新しいフォルダ..."
+
+msgid "New Game"
+msgstr "新しいゲーム"
+
+msgid "New Group"
+msgstr "新しいグループ"
+
+msgid "New Item"
+msgstr "新しいアイテム"
+
+msgid "New Layer"
+msgstr "新しいレイヤー"
+
+msgid "New Message"
+msgstr "新規メッセージ"
+
+msgid "New Name"
+msgstr "新しい名前"
+
+msgid "New name"
+msgstr "新しい名前"
+
+msgid "New Profile"
+msgstr "新しいプロファイル"
+
+msgid "New Project"
+msgstr "新しいプロジェクト"
+
+msgid "New Session"
+msgstr "新しいセッション"
+
+msgid "New South Wales"
+msgstr "ニューサウスウェールズ"
+
+msgid "New Tab"
+msgstr "新しいタブ"
+
+msgid "New tag"
+msgstr "新しいタグ"
+
+msgid "New Window"
+msgstr "新しいウィンドウ"
+
+msgid "_New Window"
+msgstr "新しいウィンドウ(_N)"
+
+msgid "New &Window"
+msgstr "新しいウィンドウ(&W)"
+
+msgid "New _Window"
+msgstr "新しいウィンドウ(_W)"
+
+msgid "New Zealand"
+msgstr "ニュージーランド"
+
+msgid "News"
+msgstr "ニュース"
+
+msgid "Newton"
+msgstr "ニュートン"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "&Next"
+msgstr "次へ(&N)"
+
+msgid "_Next"
+msgstr "次へ(_N)"
+
+msgid "Next Image"
+msgstr "次の画像"
+
+msgid "Next month"
+msgstr "次の月"
+
+msgid "Next Page"
+msgstr "次のページ"
+
+msgid "Next Tab"
+msgstr "次のタブ"
+
+msgid "Next Track"
+msgstr "次のトラック"
+
+msgid "Nicaragua"
+msgstr "ニカラグア"
+
+msgid "Nickname"
+msgstr "あだ名"
+
+msgid "Niger"
+msgstr "ニジェール"
+
+msgid "Nigeria"
+msgstr "ナイジェリア"
+
+msgid "Night"
+msgstr "夜"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "no"
+msgstr "いいえ"
+
+msgid "_No"
+msgstr "いいえ(_N)"
+
+msgid "No."
+msgstr "No."
+
+msgid "No description available"
+msgstr "利用可能な説明はありません"
+
+msgid "No devices found"
+msgstr "デバイスが見つかりません"
+
+msgid "No error"
+msgstr "エラーはありません"
+
+msgid "No file selected"
+msgstr "ファイルが選択されていません"
+
+msgid "No filter"
+msgstr ""
+
+msgid "No Limit"
+msgstr "制限なし"
+
+msgid "No matches"
+msgstr "一致なし"
+
+msgid "No Name"
+msgstr "名前がありません"
+
+msgid "No name"
+msgstr "名前なし"
+
+msgid "No network connection"
+msgstr "ネットワーク接続がありません"
+
+msgid "No results"
+msgstr ""
+
+msgid "No Results Found"
+msgstr "結果がありません"
+
+msgid "No results found"
+msgstr "検索結果はありません"
+
+msgid "No search results"
+msgstr ""
+
+msgid "No selection"
+msgstr "選択なし"
+
+msgid "No Subject"
+msgstr "件名なし"
+
+msgid "No VPN configuration options."
+msgstr "VPN 構成オプションがありません。"
+
+msgid "Noise"
+msgstr "ノイズ"
+
+msgid "None"
+msgstr "なし"
+
+msgid "none"
+msgstr "なし"
+
+msgid "&None"
+msgstr "なし(&N)"
+
+msgid "_None"
+msgstr "選択の解除(_N)"
+
+msgid "(None)"
+msgstr "(なし)"
+
+msgid "(none)"
+msgstr "(なし)"
+
+msgid "Nordic"
+msgstr "北欧"
+
+msgid "Normal"
+msgstr "標準"
+
+msgid "_Normal Size"
+msgstr "通常のサイズ(_N)"
+
+msgid "Normalize"
+msgstr "正規化"
+
+msgid "North"
+msgstr "北"
+
+msgid "North America"
+msgstr "北アメリカ"
+
+msgid "Norway"
+msgstr "ノルウェー"
+
+msgid "Norwegian"
+msgstr ""
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr "‘%1’ を書き込めません。パーティションに空きはありますか？"
+
+msgid "Not Available"
+msgstr "利用できません"
+
+msgid "Not available"
+msgstr "利用できません"
+
+msgid "not available"
+msgstr "ありません"
+
+msgid "Not Connected"
+msgstr ""
+
+msgid "Not connected"
+msgstr "接続していません"
+
+msgid "Not defined"
+msgstr "定義なし"
+
+msgid "Not found"
+msgstr "見つかりません"
+
+msgid "Not implemented"
+msgstr "実装されていません"
+
+msgid "Not running"
+msgstr "停止中"
+
+msgid "Not supported"
+msgstr "サポートされていません"
+
+msgid "Note"
+msgstr "メモ"
+
+msgid "Notes"
+msgstr "メモ"
+
+msgid "Nothing"
+msgstr "なし"
+
+msgid "Notice"
+msgstr "通知"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Noun"
+msgstr "名詞"
+
+msgid "November"
+msgstr "11月"
+
+msgid "Now"
+msgstr "今"
+
+msgid "now"
+msgstr "接続中"
+
+msgid "NT Domain"
+msgstr ""
+
+msgid "NUMBER"
+msgstr "NUMBER"
+
+msgid "Number"
+msgstr "番号"
+
+msgid "number"
+msgstr "number"
+
+msgid "Number of columns"
+msgstr "カラムの数"
+
+msgid "Numbers"
+msgstr "数値"
+
+msgid "Numeric"
+msgstr ""
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "オブジェクト"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr "オブジェクトクラス '%s' には プロパティ '%s' がありません"
+
+msgid "Objects"
+msgstr "オブジェクト"
+
+msgid "Oblique"
+msgstr "オブリック"
+
+msgid "Octal"
+msgstr "8 進"
+
+msgid "October"
+msgstr "10月"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "off"
+msgstr "オフ"
+
+msgid "Office"
+msgstr "オフィス"
+
+msgid "Offline"
+msgstr "オフライン"
+
+msgid "Offset"
+msgstr "オフセット"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "&OK"
+msgstr "OK(&O)"
+
+msgid "_OK"
+msgstr "OK(_O)"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Oman"
+msgstr "オマーン"
+
+msgid "On"
+msgstr "オン"
+
+msgid "on"
+msgstr "on"
+
+msgid "One"
+msgstr "一"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Online Accounts"
+msgstr "オンラインアカウント"
+
+msgid "Opacity"
+msgstr "不透明度"
+
+msgid "Opaque"
+msgstr "不透明"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "&Open"
+msgstr "開く(&O)"
+
+msgid "_Open"
+msgstr "開く(_O)"
+
+msgid "Open..."
+msgstr "開く..."
+
+msgid "&Open..."
+msgstr "開く(&O)..."
+
+msgid "_Open..."
+msgstr "開く/インポート(_O)..."
+
+msgid "Open %1"
+msgstr "%1 を開く"
+
+msgid "Open a file"
+msgstr "ファイルをひとつ開きます"
+
+msgid "Open a new tab"
+msgstr "新しいタブを開きます"
+
+msgid "Open a new window"
+msgstr "新しいウィンドウを開く"
+
+msgid "Open an existing document"
+msgstr "既存の文書を開く"
+
+msgid "Open Audio"
+msgstr "オーディオを開く"
+
+msgid "Open Containing Folder"
+msgstr "保存フォルダを開く"
+
+msgid "&Open Containing Folder"
+msgstr "保存フォルダを開く(&O)"
+
+msgid "Open Document"
+msgstr "文書を開く"
+
+msgid "Open File"
+msgstr "ファイルを開く"
+
+msgid "Open file"
+msgstr "ファイルを開く"
+
+msgid "Open Folder"
+msgstr "フォルダを開く"
+
+msgid "Open folder"
+msgstr "フォルダを開く"
+
+msgid "Open Image"
+msgstr "画像を開く"
+
+msgid "Open in Browser"
+msgstr "ブラウザで開く"
+
+msgid "Open in File Manager"
+msgstr "ファイルマネージャで開く"
+
+msgid "Open in New Tab"
+msgstr "新しいタブで開く"
+
+msgid "Open in New Window"
+msgstr "新しいウィンドウで開く"
+
+msgid "Open Link"
+msgstr "リンクを開く"
+
+msgid "_Open Link"
+msgstr "リンクを開く(_O)"
+
+msgid "Open Location"
+msgstr "場所を開く"
+
+msgid "Open Menu"
+msgstr "メニューを開く"
+
+msgid "Open Project"
+msgstr "プロジェクトを開く"
+
+msgid "Open &Recent"
+msgstr "最近のドキュメントを開く(&R)"
+
+msgid "Open Terminal Here"
+msgstr "ここでターミナルを開く"
+
+msgid "Open URL"
+msgstr "URL を開く"
+
+msgid "Open Video"
+msgstr "ビデオを開く"
+
+msgid "Open With"
+msgstr "アプリケーションで開く"
+
+msgid "Open with"
+msgstr ""
+
+msgid "&Open With"
+msgstr "アプリケーションで開く(&O)"
+
+msgid "Open With..."
+msgstr "アプリケーションで開く..."
+
+msgid "Open &with %1"
+msgstr "%1 で開く(&W)"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "ファイルを開いています..."
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr "オペラ"
+
+msgid "Operation"
+msgstr "操作"
+
+msgid "Operation was cancelled"
+msgstr "操作がキャンセルされました"
+
+msgid "Operations"
+msgstr "操作"
+
+msgid "Operator"
+msgstr "オペレータ"
+
+msgid "Optical Character Recognition"
+msgstr "光学式文字認識"
+
+msgid "Optimize"
+msgstr "最適化"
+
+msgid "Option"
+msgstr "オプション"
+
+msgid "Optional"
+msgstr "任意"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "&Options"
+msgstr "オプション(&O)"
+
+msgid "OR"
+msgstr "OR"
+
+msgid "Or"
+msgstr "OR (または)"
+
+msgid "or"
+msgstr "または"
+
+msgid "Orange"
+msgstr "オレンジ"
+
+msgid "Order"
+msgstr "順序"
+
+msgid "Organization"
+msgstr "組織"
+
+msgid "Orientation"
+msgstr "方向"
+
+msgid "Origin"
+msgstr "でどころ"
+
+msgid "Original"
+msgstr "オリジナル"
+
+msgid "Original Author"
+msgstr "オリジナルの作者"
+
+msgid "Original author"
+msgstr "オリジナルの作者"
+
+msgid "Original Size"
+msgstr "オリジナルのサイズ"
+
+msgid "Oriya"
+msgstr "オリヤー文字"
+
+msgid "Other"
+msgstr "その他"
+
+msgid "other"
+msgstr "その他"
+
+msgid "Other..."
+msgstr "その他..."
+
+msgid "Other Application..."
+msgstr "その他のアプリケーション..."
+
+msgid "Other Options"
+msgstr "その他のオプション"
+
+msgid "Others"
+msgstr "その他"
+
+msgid "Out"
+msgstr "アウト"
+
+msgid "Out of memory"
+msgstr "メモリが足りません"
+
+msgid "Outgoing"
+msgstr "送信"
+
+msgid "Outline"
+msgstr "アウトライン"
+
+msgid "Output"
+msgstr "出力"
+
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgid "Overview"
+msgstr "概要"
+
+msgid "Overwrite"
+msgstr "上書き"
+
+msgid "Overwrite File?"
+msgstr "ファイルを上書きしますか？"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "Ownership"
+msgstr "所有者"
+
+msgid "Oxygen"
+msgstr "Oxygen"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p%"
+
+msgid "Package"
+msgstr "パッケージ"
+
+msgid "Padding"
+msgstr "パディング"
+
+msgid "Page"
+msgstr "ページ"
+
+msgid "page"
+msgstr "ページ"
+
+msgid "Page %1"
+msgstr "ページ %1"
+
+msgid "Page %1 of %2"
+msgstr "%1/%2 ページ"
+
+msgid "Page Break"
+msgstr "ページ変えを強制"
+
+msgid "Page Count"
+msgstr "ページ数"
+
+msgid "Page Number"
+msgstr "ページ番号"
+
+msgid "Page Setup"
+msgstr "ページ設定"
+
+msgid "Pager"
+msgstr "ページャ"
+
+msgid "Pages"
+msgstr "ページ"
+
+msgid "Paint"
+msgstr "描画"
+
+msgid "Pair"
+msgstr "ペア"
+
+msgid "Pakistan"
+msgstr "パキスタン"
+
+msgid "Palau"
+msgstr "パラオ"
+
+msgid "Palette"
+msgstr "パレット"
+
+msgid "Panama"
+msgstr "パナマ"
+
+msgid "Panel"
+msgstr "パネル"
+
+msgid "Panels"
+msgstr "パネル"
+
+msgid "&Panels"
+msgstr "パネル(&P)"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr ""
+
+msgid "Paper Size"
+msgstr "紙のサイズ"
+
+msgid "Papua New Guinea"
+msgstr "パプアニューギニア"
+
+msgid "Paragraph"
+msgstr "段落"
+
+msgid "Paraguay"
+msgstr "パラグアイ"
+
+msgid "Parallel"
+msgstr "パラレル"
+
+msgid "Parameter"
+msgstr "パラメータ"
+
+msgid "Parameters"
+msgstr "パラメータ"
+
+msgid "Parent"
+msgstr "親"
+
+msgid "Partition"
+msgstr "パーティション"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "password"
+msgstr "パスワード"
+
+msgid "&Password"
+msgstr "パスワード(&P)"
+
+msgid "_Password"
+msgstr "パスワード(_P)"
+
+msgid "Password..."
+msgstr "パスワード..."
+
+msgid "Passwords"
+msgstr "パスワード"
+
+msgid "Paste"
+msgstr "貼り付け"
+
+msgid "&Paste"
+msgstr "貼り付け(&P)"
+
+msgid "_Paste"
+msgstr "貼り付け(_P)"
+
+msgid "Path"
+msgstr "パス"
+
+msgid "path"
+msgstr "パス"
+
+msgid "Paths"
+msgstr "パス"
+
+msgid "Pattern"
+msgstr "パターン"
+
+msgid "Patterns"
+msgstr "パターン"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "&Pause"
+msgstr "一時停止(&P)"
+
+msgid "Pause playback"
+msgstr "一時停止します"
+
+msgid "PAUSED"
+msgstr "一時停止中"
+
+msgid "Paused"
+msgstr "一時停止"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr ""
+
+msgid "Peek at Desktop"
+msgstr "ウィンドウを隠す"
+
+msgid "Pencil"
+msgstr "鉛筆で描画"
+
+msgid "Pending"
+msgstr "保留"
+
+msgid "Pentagon"
+msgstr "五角形"
+
+msgid "People"
+msgstr "人"
+
+msgid "Percent"
+msgstr "パーセント"
+
+msgid "Percentage"
+msgstr "パーセンテージ"
+
+msgid "Perceptual"
+msgstr "知覚的"
+
+msgid "Performance"
+msgstr "パフォーマンス"
+
+msgid "Period"
+msgstr "期間"
+
+msgid "Permission denied"
+msgstr "アクセス権限がありません"
+
+msgid "Permissions"
+msgstr "パーミッション"
+
+msgid "Persian"
+msgstr "ペルシア語"
+
+msgid "Person"
+msgstr "担当者"
+
+msgid "Personal"
+msgstr "個人"
+
+msgid "Personal Information"
+msgstr "個人情報"
+
+msgid "Peru"
+msgstr "ペルー"
+
+msgid "Phase"
+msgstr "フェーズ"
+
+msgid "Philippines"
+msgstr "フィリピン"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Photo"
+msgstr "写真"
+
+msgid "PHP Documentation"
+msgstr ""
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "色の取得"
+
+msgid "Picture"
+msgstr "画像"
+
+msgid "Pictures"
+msgstr "画像"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr "パイ"
+
+msgid "Pin"
+msgstr "ピン"
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "ピクセル"
+
+msgid "pixels"
+msgstr "ピクセル"
+
+msgid "Placement"
+msgstr ""
+
+msgid "Places"
+msgstr "場所"
+
+msgid "Plain"
+msgstr "プレーン"
+
+msgid "Plain Text"
+msgstr "プレーンテキスト"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Platform"
+msgstr "プラットフォーム"
+
+msgid "Play"
+msgstr "再生"
+
+msgid "Play Next"
+msgstr "次に再生"
+
+msgid "Play Sounds"
+msgstr "サウンドを再生"
+
+msgid "Playback"
+msgstr "再生"
+
+msgid "Player"
+msgstr "プレイヤー"
+
+msgid "Player %1"
+msgstr "プレイヤー %1"
+
+msgid "Players"
+msgstr "プレイヤー"
+
+msgid "Playground"
+msgstr "実験場"
+
+msgid "Playing"
+msgstr "再生"
+
+msgid "Playlist"
+msgstr "プレイリスト"
+
+msgid "Playlists"
+msgstr "プレイリスト"
+
+msgid "Play/Pause"
+msgstr "再生/一時停止"
+
+msgid "Please choose a file"
+msgstr "ファイルを選択してください"
+
+msgid "Please wait"
+msgstr "お待ちください"
+
+msgid "Please wait..."
+msgstr "お待ちください…"
+
+msgid "Plot"
+msgstr "プロット"
+
+msgid "Plots"
+msgstr ""
+
+msgid "Plugin"
+msgstr "プラグイン"
+
+msgid "Plugins"
+msgstr "プラグイン"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "点"
+
+msgid "Pointers"
+msgstr "ポインタ"
+
+msgid "Points"
+msgstr "ポイント"
+
+msgid "points"
+msgstr "ポイント"
+
+msgid "Poland"
+msgstr "ポーランド"
+
+msgid "Policy"
+msgstr "ポリシー"
+
+msgid "Polish"
+msgstr "ポーランド語"
+
+msgid "Polygon"
+msgstr "多角形"
+
+msgid "Pop"
+msgstr "ポップ"
+
+msgid "Port"
+msgstr "ポート"
+
+msgid "&Port"
+msgstr "ポート(&P)"
+
+msgid "Portrait"
+msgstr "縦長"
+
+msgid "Portugal"
+msgstr "ポルトガル"
+
+msgid "Portuguese"
+msgstr "ポルトガル語"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Posterize"
+msgstr "ポスタリゼーション"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "電源"
+
+msgid "Power Management"
+msgstr "電源管理"
+
+msgid "Precision"
+msgstr "精度"
+
+msgid "Preferences"
+msgstr "設定"
+
+msgid "_Preferences"
+msgstr "設定(_P)"
+
+msgid "Prefix"
+msgstr "プレフィックス"
+
+msgid "Presentation"
+msgstr "プレゼンテーション"
+
+msgid "Preset"
+msgstr "プリセット"
+
+msgid "Presets"
+msgstr "プリセット"
+
+msgid "Pressure"
+msgstr "筆圧"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "&Preview"
+msgstr "プレビュー(&P)"
+
+msgid "Previews"
+msgstr "プレビュー"
+
+msgid "Previous"
+msgstr "前へ"
+
+msgid "&Previous"
+msgstr "前へ(&P)"
+
+msgid "_Previous"
+msgstr "前へ(_P)"
+
+msgid "Previous Image"
+msgstr "前の画像"
+
+msgid "Previous month"
+msgstr "前の月"
+
+msgid "Previous Page"
+msgstr "前のページ"
+
+msgid "Previous Tab"
+msgstr "前のタブ"
+
+msgid "Previous Track"
+msgstr "前のトラック"
+
+msgid "Price"
+msgstr "価格"
+
+msgid "Primary"
+msgstr "プライマリ"
+
+msgid "Print"
+msgstr "印刷"
+
+msgid "_Print"
+msgstr "印刷(_P)"
+
+msgid "Print..."
+msgstr "印刷…"
+
+msgid "&Print..."
+msgstr "印刷(&P)..."
+
+msgid "_Print..."
+msgstr "印刷(_P)…"
+
+msgid "Print Image"
+msgstr "画像の印刷"
+
+msgid "Print Preview"
+msgstr "印刷プレビュー"
+
+msgid "Print version"
+msgstr "バージョンを表示する"
+
+msgid "Print version information and exit"
+msgstr "バージョン情報を表示して終了する"
+
+msgid "Printer"
+msgstr "プリンタ"
+
+msgid "Printers"
+msgstr "プリンタ"
+
+msgid "Printing"
+msgstr "印刷"
+
+msgid "Printing..."
+msgstr "印刷中..."
+
+msgid "Priority"
+msgstr "優先度"
+
+msgid "Privacy"
+msgstr "プライバシー"
+
+msgid "Private"
+msgstr "プライベート"
+
+msgid "Process"
+msgstr "プロセス"
+
+msgid "Processor"
+msgstr "プロセッサ"
+
+msgid "Producer"
+msgstr "プロデューサー"
+
+msgid "Product"
+msgstr "プロダクト"
+
+msgid "Profession"
+msgstr "職業"
+
+msgid "Profile"
+msgstr "プロファイル"
+
+msgid "Profile name"
+msgstr "プロファイルの名前"
+
+msgid "Profiles"
+msgstr "プロファイル"
+
+msgid "Program"
+msgstr "プログラム"
+
+msgid "Progress"
+msgstr "進捗"
+
+msgid "Project"
+msgstr "プロジェクト"
+
+msgid "&Project"
+msgstr "プロジェクト(&P)"
+
+msgid "Projects"
+msgstr "プロジェクト"
+
+msgid "Properties"
+msgstr "プロパティ"
+
+msgid "&Properties"
+msgstr "プロパティ(&P)"
+
+msgid "_Properties"
+msgstr "プロパティ(_P)"
+
+msgid "Properties..."
+msgstr "プロパティ..."
+
+msgid "&Properties..."
+msgstr "プロパティ(&P)..."
+
+msgid "Property"
+msgstr "プロパティ"
+
+msgid "property “%s” invalid or not supported"
+msgstr "プロパティ “%s” は無効またはサポートされていません"
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr "オブジェクトクラス '%s' のプロパティ '%s' は書き込みできません"
+
+msgid "Proportional"
+msgstr "プロポーショナル"
+
+msgid "Protected"
+msgstr "Protected"
+
+msgid "Protocol"
+msgstr "プロトコル"
+
+msgid "Provider"
+msgstr "プロバイダ"
+
+msgid "Proxy"
+msgstr "プロキシ"
+
+msgid "Proxy Settings"
+msgstr "プロキシ設定"
+
+msgid "Public"
+msgstr "公開"
+
+msgid "Public Key"
+msgstr "公開鍵"
+
+msgid "Publisher"
+msgstr "出版者"
+
+msgid "Publishing"
+msgstr "公開"
+
+msgid "Puerto Rico"
+msgstr "プエルトリコ"
+
+msgid "Punjabi"
+msgstr "パンジャーブ語"
+
+msgid "Push"
+msgstr "プッシュ"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "カタール"
+
+msgid "QR Code"
+msgstr "QR コード"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr "<qt>メニューバーを完全に隠します。再び表示するには %1 を押してください。</qt>"
+
+msgid "Quality"
+msgstr "品質"
+
+msgid "Quebec"
+msgstr "ケベック"
+
+msgid "Query"
+msgstr "クエリ"
+
+msgid "Question"
+msgstr "質問"
+
+msgid "Queue"
+msgstr "キュー"
+
+msgid "Queued"
+msgstr "キュー"
+
+msgid "Quit"
+msgstr "終了"
+
+msgid "&Quit"
+msgstr "終了(&Q)"
+
+msgid "_Quit"
+msgstr "終了(_Q)"
+
+msgid "Quit application"
+msgstr "アプリケーションを終了"
+
+msgid "Quit the application"
+msgstr "gitg を終了"
+
+msgid "Quits the application"
+msgstr "アプリケーションを終了"
+
+msgid "Quote"
+msgstr "引用"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "球状"
+
+msgid "Radio"
+msgstr "ラジオ"
+
+msgid "Radius"
+msgstr "半径"
+
+msgid "Raise"
+msgstr "前面に"
+
+msgid "Random"
+msgstr "ランダム"
+
+msgid "Range"
+msgstr "範囲"
+
+msgid "Rank"
+msgstr "ランク"
+
+msgid "Rate"
+msgstr "割合"
+
+msgid "Rating"
+msgstr "評価"
+
+msgid "Raw"
+msgstr "Raw"
+
+msgid "Read"
+msgstr "読み取り"
+
+msgid "Read error"
+msgstr ""
+
+msgid "Read Only"
+msgstr "読み取り専用"
+
+msgid "Read only"
+msgstr "読み取り専用"
+
+msgid "Reading"
+msgstr "読み込み"
+
+msgid "read-only"
+msgstr "読み取り専用"
+
+msgid "Ready"
+msgstr "準備完了"
+
+msgid "Ready."
+msgstr "準備完了。"
+
+msgid "Reason"
+msgstr "理由"
+
+msgid "Reassign"
+msgstr "再割り当て"
+
+msgid "Recent"
+msgstr "最近"
+
+msgid "Recent Documents"
+msgstr "最近の文書"
+
+msgid "Recent Files"
+msgstr "最近のファイル"
+
+msgid "Recent files"
+msgstr "最近のファイル"
+
+msgid "Record"
+msgstr "録画"
+
+msgid "Recording"
+msgstr "画面録画"
+
+msgid "Rectangle"
+msgstr "矩形"
+
+msgid "Recursive"
+msgstr "再帰検索"
+
+msgid "Red"
+msgstr "赤"
+
+msgid "red"
+msgstr "赤"
+
+msgid "Redo"
+msgstr "やり直す"
+
+msgid "&Redo"
+msgstr "やり直す(&R)"
+
+msgid "_Redo"
+msgstr "やり直す(_R)"
+
+msgid "Re&do"
+msgstr "やり直す(&D)"
+
+msgid "Redo %1"
+msgstr "%1 をやり直す"
+
+msgid "Reference"
+msgstr "参照"
+
+msgid "References"
+msgstr "リファレンス"
+
+msgid "Refresh"
+msgstr "更新"
+
+msgid "_Refresh"
+msgstr "更新(_R)"
+
+msgid "Reggae"
+msgstr "レゲエ"
+
+msgid "Region"
+msgstr "範囲"
+
+msgid "Register"
+msgstr ""
+
+msgid "Regular"
+msgstr "レギュラー"
+
+msgid "Regular Expression"
+msgstr "正規表現"
+
+msgid "Regular expression"
+msgstr "正規表現"
+
+msgid "Reject"
+msgstr "拒否"
+
+msgid "Relative"
+msgstr "相対"
+
+msgid "Reload"
+msgstr "再読み込み"
+
+msgid "&Reload"
+msgstr "再読み込み(&R)"
+
+msgid "_Reload"
+msgstr "再読み込み(_R)"
+
+msgid "Reminders"
+msgstr "リマインダ"
+
+msgid "Remote"
+msgstr "リモート"
+
+msgid "Removable"
+msgstr "リムーバブル"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "&Remove"
+msgstr "削除(&R)"
+
+msgid "_Remove"
+msgstr "削除(_R)"
+
+msgid "R&emove"
+msgstr "削除(&E)"
+
+msgid "Re&move"
+msgstr "削除(&M)"
+
+msgid "Remove..."
+msgstr "削除します..."
+
+msgid "Remove %1"
+msgstr "%1 を削除"
+
+msgid "Remove Account"
+msgstr "アカウントを削除"
+
+msgid "Remove All"
+msgstr "すべて削除"
+
+msgid "Remove Bookmark"
+msgstr "ブックマークを削除"
+
+msgid "Remove Folder"
+msgstr "フォルダを削除"
+
+msgid "Remove from Favorites"
+msgstr "お気に入りから削除"
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "グループを削除"
+
+msgid "Remove Rule"
+msgstr "ルールを削除する"
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "名前変更"
+
+msgid "&Rename"
+msgstr "名前変更(&R)"
+
+msgid "_Rename"
+msgstr "名前を変更(_R)"
+
+msgid "Rename..."
+msgstr "名前変更..."
+
+msgid "&Rename..."
+msgstr "名前変更(&R)..."
+
+msgid "Rename Bookmark"
+msgstr "ブックマークの名前を変更"
+
+msgid "Rename File"
+msgstr "ファイル名の変更"
+
+msgid "Repeat"
+msgstr "繰り返し"
+
+msgid "Replace"
+msgstr "置換"
+
+msgid "&Replace"
+msgstr "置換(&R)"
+
+msgid "_Replace"
+msgstr "置換(_R)"
+
+msgid "Replace All"
+msgstr "すべて置換"
+
+msgid "Replace _All"
+msgstr "すべて置換(_A)"
+
+msgid "Replace an existing instance"
+msgstr "既存のインスタンスを置換"
+
+msgid "Replacement"
+msgstr "置換"
+
+msgid "Reply"
+msgstr "返信"
+
+msgid "Report"
+msgstr "レポート"
+
+msgid "Report a bug"
+msgstr "バグを報告"
+
+msgid "Report Bug"
+msgstr "バグを報告"
+
+msgid "Report Bug..."
+msgstr "バグを報告…"
+
+msgid "&Report Bug..."
+msgstr "バグを報告(&R)..."
+
+msgid "Reports"
+msgstr "レポート"
+
+msgid "Required"
+msgstr "必須"
+
+msgid "Rescan"
+msgstr "再スキャン"
+
+msgid "Resend"
+msgstr "再送"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "&Reset"
+msgstr "リセット(&R)"
+
+msgid "_Reset"
+msgstr "リセット(_R)"
+
+msgid "Reset to Default"
+msgstr "標準設定に戻す"
+
+msgid "Reset to default"
+msgstr "デフォルトにリセット"
+
+msgid "Reset Zoom"
+msgstr "拡大率を元に戻す"
+
+msgid "Resize"
+msgstr "サイズ変更"
+
+msgid "_Resize"
+msgstr "サイズ変更(_R)"
+
+msgid "Resize Image"
+msgstr "キャンバスサイズの変更"
+
+msgid "Resolution"
+msgstr "解像度"
+
+msgid "Resource"
+msgstr "リソース"
+
+msgid "Resources"
+msgstr "リソース"
+
+msgid "Restart"
+msgstr "再起動"
+
+msgid "Restore"
+msgstr "復元"
+
+msgid "Restore Session"
+msgstr "セッションを復元"
+
+msgid "Result"
+msgstr "結果"
+
+msgid "Results"
+msgstr "結果"
+
+msgid "Resume"
+msgstr "再開"
+
+msgid "&Resume"
+msgstr "再開(&R)"
+
+msgid "Retry"
+msgstr "再試行"
+
+msgid "Return"
+msgstr "リターン"
+
+msgid "Reverse"
+msgstr "反転"
+
+msgid "Revert"
+msgstr "元に戻す"
+
+msgid "_Revert"
+msgstr "元に戻す(_R)"
+
+msgid "Review"
+msgstr "レビュー"
+
+msgid "Revision"
+msgstr "リビジョン"
+
+msgid "Revoked"
+msgstr "取り消し済"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "右"
+
+msgid "right"
+msgstr "right"
+
+msgid "&Right"
+msgstr "右"
+
+msgid "_Right"
+msgstr "右(_R)"
+
+msgid "Right to Left"
+msgstr "右から左へ"
+
+msgid "Right-click"
+msgstr "右クリック"
+
+msgid "River"
+msgstr "川"
+
+msgid "RKWard Team"
+msgstr ""
+
+msgid "Rock"
+msgstr "ロック"
+
+msgid "Role"
+msgstr "役割"
+
+msgid "Roman"
+msgstr "ローマン"
+
+msgid "Romania"
+msgstr "ルーマニア"
+
+msgid "Romanian"
+msgstr "ルーマニア語"
+
+msgid "Room"
+msgstr ""
+
+msgid "Root"
+msgstr "ルート"
+
+msgid "Rotate"
+msgstr "回転"
+
+msgid "Rotate Left"
+msgstr "左に回転"
+
+msgid "Rotate Right"
+msgstr "右に回転"
+
+msgid "Rotation"
+msgstr "回転"
+
+msgid "Round"
+msgstr "円形"
+
+msgid "Row"
+msgstr "行"
+
+msgid "Rows"
+msgstr "行数"
+
+msgid "rows"
+msgstr "行"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr ""
+
+msgid "Run"
+msgstr "実行"
+
+msgid "&Run"
+msgstr "実行(&R)"
+
+msgid "Run in terminal"
+msgstr "ターミナルで実行"
+
+msgid "Running"
+msgstr "実行中"
+
+msgid "Russia"
+msgstr "ロシア"
+
+msgid "Russian"
+msgstr "ロシア語"
+
+msgid "Rwanda"
+msgstr "ルワンダ"
+
+msgid "S"
+msgstr "S"
+
+msgid "s"
+msgstr "秒"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "%s のプロパティ"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "サモア"
+
+msgid "Sample"
+msgstr "サンプル"
+
+msgid "Sample Rate"
+msgstr "サンプリングレート"
+
+msgid "Sample rate"
+msgstr "サンプリングレート"
+
+msgid "Samples"
+msgstr "例"
+
+msgid "San Marino"
+msgstr "サンマリノ"
+
+msgid "Sans Serif"
+msgstr "サンセリフ"
+
+msgid "Satellite"
+msgstr "人工衛星"
+
+msgid "Saturation"
+msgstr "彩度"
+
+msgid "Saturday"
+msgstr "土曜日"
+
+msgid "Saudi Arabia"
+msgstr "サウジアラビア"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "&Save"
+msgstr "保存(&S)"
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "Save..."
+msgstr "保存..."
+
+msgid "Save All"
+msgstr "すべて保存"
+
+msgid "Save As"
+msgstr "名前を付けて保存"
+
+msgid "Save as"
+msgstr "名前を付けて保存"
+
+msgid "Save _As"
+msgstr "名前を付けて保存(_A)"
+
+msgid "Save As..."
+msgstr "名前を付けて保存..."
+
+msgid "Save as..."
+msgstr "名前を付けて保存..."
+
+msgid "_Save As..."
+msgstr "名前を付けて保存(_S)…"
+
+msgid "Save &As..."
+msgstr "名前を付けて保存(&A)..."
+
+msgid "Save _As..."
+msgstr "名前を付けて保存(_A)..."
+
+msgid "Save Attachment"
+msgstr "添付ファイルを保存"
+
+msgid "Save Changes"
+msgstr "変更を保存"
+
+msgid "Save Changes?"
+msgstr "変更を保存しますか?"
+
+msgid "Save File"
+msgstr "ファイルを保存"
+
+msgid "Save file"
+msgstr "ファイルを保存"
+
+msgid "Save Game"
+msgstr "ゲームを保存"
+
+msgid "Save Image"
+msgstr "画像を保存"
+
+msgid "_Save Image As..."
+msgstr "名前を付けて画像を保存(_S)…"
+
+msgid "Save Project"
+msgstr "プロジェクトを保存"
+
+msgid "Save Session"
+msgstr "セッションを保存"
+
+msgid "Save Settings"
+msgstr "設定の保存"
+
+msgid "Saved"
+msgstr "保存されました"
+
+msgid "Saving"
+msgstr "保存中"
+
+msgid "Saving..."
+msgstr "保存..."
+
+msgid "Saving file..."
+msgstr "ファイルの保存中..."
+
+msgid "Scale"
+msgstr "スケール"
+
+msgid "_Scale"
+msgstr "拡大・縮小(_S)"
+
+msgid "Scaled"
+msgstr "拡大/縮小"
+
+msgid "Scaling"
+msgstr "拡大・縮小"
+
+msgid "Scan"
+msgstr "スキャン"
+
+msgid "Scanner"
+msgstr "スキャナー"
+
+msgid "Scanning..."
+msgstr "スキャンしています…"
+
+msgid "Schedule"
+msgstr "スケジュール"
+
+msgid "Scheduling"
+msgstr "スケジュール作成"
+
+msgid "Scheme"
+msgstr "Scheme"
+
+msgid "School"
+msgstr "学校"
+
+msgid "Scientific"
+msgstr "科学"
+
+msgid "Scope"
+msgstr "範囲"
+
+msgid "Score"
+msgstr "スコア"
+
+msgid "Score: %1"
+msgstr "スコア: %1"
+
+msgid "Screen"
+msgstr "スクリーン"
+
+msgid "Screenshot"
+msgstr "スクリーンショット"
+
+msgid "Screenshots"
+msgstr "スクリーンショット"
+
+msgid "Script"
+msgstr "スクリプト"
+
+msgid "Scripting"
+msgstr "スクリプティング"
+
+msgid "Scripts"
+msgstr "スクリプト"
+
+msgid "Scroll"
+msgstr "スクロール"
+
+msgid "Scroll Down"
+msgstr "下にスクロール"
+
+msgid "Scroll Left"
+msgstr "左にスクロール"
+
+msgid "Scroll Right"
+msgstr "右にスクロール"
+
+msgid "Scroll Up"
+msgstr "上にスクロール"
+
+msgid "Scrolling"
+msgstr "スクロール"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "&Search"
+msgstr "検索(&S)"
+
+msgid "_Search"
+msgstr "検索(_S)"
+
+msgid "S&earch"
+msgstr "検索(&E)"
+
+msgid "Search..."
+msgstr "検索..."
+
+msgid "Search Bar"
+msgstr "検索バー"
+
+msgid "_Search for"
+msgstr "検索する単語(_S)"
+
+msgid "Search for '%1' with"
+msgstr "'%1' を検索"
+
+msgid "Search Options"
+msgstr "検索オプション"
+
+msgid "Search Results"
+msgstr "検索結果"
+
+msgid "Search results"
+msgstr "検索結果"
+
+msgid "Searching..."
+msgstr "検索中..."
+
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+msgid "Second"
+msgstr "秒"
+
+msgid "Seconds"
+msgstr "秒"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "Section"
+msgstr "セクション"
+
+msgid "Security"
+msgstr "セキュリティ"
+
+msgid "Seek"
+msgstr "シーク"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "_Select"
+msgstr "選択(_S)"
+
+msgid "Select..."
+msgstr "選択..."
+
+msgid "Select All"
+msgstr "すべて選択"
+
+msgid "Select all"
+msgstr "すべて選択"
+
+msgid "&Select All"
+msgstr "すべて選択(&S)"
+
+msgid "_Select All"
+msgstr "すべて選択(_S)"
+
+msgid "Select &All"
+msgstr "すべて選択(&A)"
+
+msgid "Select _All"
+msgstr "すべて選択(_A)"
+
+msgid "Select an authentication mode."
+msgstr "認証モードを選択してください。"
+
+msgid "Select an image"
+msgstr "画像を選択"
+
+msgid "Select Color"
+msgstr "色を選択"
+
+msgid "Select Directory"
+msgstr "ディレクトリの選択"
+
+msgid "Select File"
+msgstr "ファイルの選択"
+
+msgid "Select file"
+msgstr "ファイルを選択"
+
+msgid "Select Folder"
+msgstr "フォルダを選択"
+
+msgid "Select folder"
+msgstr "フォルダを選択"
+
+msgid "Select Font"
+msgstr "フォントを選択"
+
+msgid "Select None"
+msgstr "すべて選択解除"
+
+msgid "Select Source"
+msgstr "ソースの選択"
+
+msgid "Selected"
+msgstr "選択済み"
+
+msgid "Selection"
+msgstr "選択"
+
+msgid "Selections"
+msgstr "セレクション"
+
+msgid "Semicolon"
+msgstr "セミコロン"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "Send an email to %1"
+msgstr "%1 にメールを送る"
+
+msgid "Send File"
+msgstr "ファイルを送信"
+
+msgid "Send to %1"
+msgstr "%1 に送信"
+
+msgid "Sender"
+msgstr "送信者"
+
+msgid "Senegal"
+msgstr "セネガル"
+
+msgid "Sensitivity"
+msgstr "感度"
+
+msgid "Sent"
+msgstr "送信済み"
+
+msgid "Separator"
+msgstr "区切り"
+
+msgid "September"
+msgstr "9月"
+
+msgid "Serbia"
+msgstr "セルビア"
+
+msgid "Serbian"
+msgstr "セルビア語"
+
+msgid "Serial Number"
+msgstr "シリアル番号"
+
+msgid "Serial number"
+msgstr "シリアル番号"
+
+msgid "Series"
+msgstr "系"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Server"
+msgstr "サーバー"
+
+msgid "Server URL"
+msgstr "サーバ URL"
+
+msgid "Service"
+msgstr "サービス"
+
+msgid "Services"
+msgstr "サービス"
+
+msgid "Session"
+msgstr "セッション"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "セッション"
+
+msgid "Set"
+msgstr "セット"
+
+msgid "Set as Default"
+msgstr ""
+
+msgid "Set as default"
+msgstr "既定に設定"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "&Settings"
+msgstr "設定(&S)"
+
+msgid "_Settings"
+msgstr "設定(_S)"
+
+msgid "Settings..."
+msgstr "設定..."
+
+msgid "Severity"
+msgstr "重大度"
+
+msgid "Seychelles"
+msgstr "セイシェル共和国"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "シェーディング"
+
+msgid "Shadow"
+msgstr "影"
+
+msgid "Shadows"
+msgstr "影"
+
+msgid "Shape"
+msgstr "シェイプ"
+
+msgid "Share"
+msgstr "共有"
+
+msgid "Share..."
+msgstr "共有…"
+
+msgid "Shared"
+msgstr "共有"
+
+msgid "Sharing"
+msgstr "共有"
+
+msgid "Sharing failed"
+msgstr "共有に失敗"
+
+msgid "Sharpen"
+msgstr "シャープ化"
+
+msgid "Sharpness"
+msgstr "シャープネス"
+
+msgid "Shear"
+msgstr "剪断変形"
+
+msgid "Shell"
+msgstr "シェル"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short"
+msgstr "ショート"
+
+msgid "Shortcut"
+msgstr "ショートカット"
+
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+msgid "Show"
+msgstr "表示"
+
+msgid "Show All"
+msgstr "すべて表示"
+
+msgid "Show Details"
+msgstr "詳細を表示"
+
+msgid "Show details"
+msgstr "詳細を表示"
+
+msgid "Show Grid"
+msgstr "グリッドを表示"
+
+msgid "Show grid"
+msgstr "グリッドを表示"
+
+msgid "Show Help"
+msgstr "ヘルプを表示する"
+
+msgid "Show help"
+msgstr "ヘルプを表示する"
+
+msgid "Show Hidden Files"
+msgstr "隠しファイルを表示"
+
+msgid "Show in folder"
+msgstr "ファイルマネージャーで表示"
+
+msgid "Show legend"
+msgstr "凡例を表示"
+
+msgid "Show Password"
+msgstr "パスワードを表示"
+
+msgid "Show Preview"
+msgstr "プレビューを表示"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr "ショートカットを表示"
+
+msgid "Show Status Bar"
+msgstr "ステータスバーを表示"
+
+msgid "Show St&atusbar"
+msgstr "ステータスバーを表示(&A)"
+
+msgid "Show the application's version"
+msgstr "アプリケーションのバージョンを表示する"
+
+msgid "Show Toolbar"
+msgstr "ツールバーを表示"
+
+msgid "Show toolbar"
+msgstr "ツールバーを表示"
+
+msgid "Show &Toolbar"
+msgstr "ツールバーを表示(&T)"
+
+msgid "Shuffle"
+msgstr "シャッフル"
+
+msgid "Shut Down"
+msgstr "シャットダウン"
+
+msgid "Shutdown"
+msgstr "シャットダウン"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "サイドバー"
+
+msgid "Sierra Leone"
+msgstr "シエラレオネ"
+
+msgid "Sign"
+msgstr "署名"
+
+msgid "Signal"
+msgstr "シグナル"
+
+msgid "Signature"
+msgstr "署名"
+
+msgid "Simple"
+msgstr "シンプル"
+
+msgid "Singapore"
+msgstr "シンガポール"
+
+msgid "Single"
+msgstr "シングル"
+
+msgid "Sinhala"
+msgstr "シンハラ文字"
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid "size"
+msgstr "size"
+
+msgid "&Size"
+msgstr "サイズ(&S)"
+
+msgid "Size: %1"
+msgstr "サイズ: %1"
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "&Skip"
+msgstr "スキップ(&S)"
+
+msgid "_Skip"
+msgstr "スキップ(_S)"
+
+msgid "Skip forward"
+msgstr "次へ"
+
+msgid "Sleep"
+msgstr "スリープ"
+
+msgid "Slide"
+msgstr "スライド"
+
+msgid "Slider"
+msgstr "スライダー"
+
+msgid "Slideshow"
+msgstr "スライドショー"
+
+msgid "Slovak"
+msgstr "スロバキア語"
+
+msgid "Slovenia"
+msgstr "スロベニア"
+
+msgid "Slovenian"
+msgstr "スロベニア語"
+
+msgid "Slow"
+msgstr "遅い"
+
+msgid "Slower"
+msgstr "遅く"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Smooth"
+msgstr "なめらか"
+
+msgid "Smoothing"
+msgstr "スムージング"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Snap"
+
+msgid "Snap to Grid"
+msgstr "グリッドに合わせる"
+
+msgid "Snow"
+msgstr "雪"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr ""
+
+msgid "Software"
+msgstr "ソフトウェア"
+
+msgid "Solid"
+msgstr "実線"
+
+msgid "Solid color"
+msgstr "単色"
+
+msgid "Solomon Islands"
+msgstr "ソロモン諸島"
+
+msgid "Somalia"
+msgstr "ソマリア"
+
+msgid "Sort"
+msgstr "ソート"
+
+msgid "Sort By"
+msgstr "ソート基準"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Sorting"
+msgstr "ソート"
+
+msgid "Sound"
+msgstr "サウンド"
+
+msgid "Soundtrack"
+msgstr "サウンドトラック"
+
+msgid "Source"
+msgstr "ソース"
+
+msgid "Sources"
+msgstr "ソース"
+
+msgid "South"
+msgstr "南"
+
+msgid "South Africa"
+msgstr "南アフリカ"
+
+msgid "South European"
+msgstr "南欧"
+
+msgid "Space"
+msgstr "スペース"
+
+msgid "Spacing"
+msgstr "間隔"
+
+msgid "Spain"
+msgstr "スペイン"
+
+msgid "Spam"
+msgstr "スパム"
+
+msgid "Spanish"
+msgstr "スペイン語"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "読み上げ"
+
+msgid "Speak Text"
+msgstr "テキストを読み上げる"
+
+msgid "Speaker"
+msgstr "スピーカー"
+
+msgid "Special"
+msgstr "特別"
+
+msgid "Special Characters"
+msgstr "特殊文字"
+
+msgid "Specials"
+msgstr "特殊用途"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr "セッション管理 ID を指定する"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "Spell Check"
+msgstr "スペルチェック"
+
+msgid "Spell Checking"
+msgstr "スペルチェック"
+
+msgid "Spelling"
+msgstr "スペル"
+
+msgid "Spiral"
+msgstr "らせん"
+
+msgid "Split"
+msgstr "分割"
+
+msgid "Split View"
+msgstr "ビューを分割"
+
+msgid "Sports"
+msgstr "スポーツ"
+
+msgid "Spreadsheet"
+msgstr "スプレッドシート"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "正方形"
+
+msgid "Sri Lanka"
+msgstr "スリランカ"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr "'%s::%s' は有効なプロパティ名ではありません。'%s' は GObject のサブタイプではありません"
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr ""
+
+msgid "Stacked"
+msgstr "積み上げる"
+
+msgid "Standard"
+msgstr "標準"
+
+msgid "Standard deviation"
+msgstr "標準偏差"
+
+msgid "Star"
+msgstr "星"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "&Start"
+msgstr "開始(&S)"
+
+msgid "Start a new game"
+msgstr "新しいゲームを開始します"
+
+msgid "Start Date"
+msgstr "開始日"
+
+msgid "Start date"
+msgstr "開始日"
+
+msgid "Start Presentation"
+msgstr "プレゼンテーションを開始"
+
+msgid "Start Time"
+msgstr "開始時間"
+
+msgid "Started"
+msgstr "開始"
+
+msgid "Starting"
+msgstr "起動時"
+
+msgid "Starting..."
+msgstr "起動中…"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "が次で始まる"
+
+msgid "Startup"
+msgstr "起動"
+
+msgid "Stash"
+msgstr "スタッシュ"
+
+msgid "State"
+msgstr "状態"
+
+msgid "States"
+msgstr "州|/|$[~set ~regionType $[~this]]"
+
+msgid "Statistics"
+msgstr "統計"
+
+msgid "Status"
+msgstr "状態"
+
+msgid "Status: %1"
+msgstr "状態: %1"
+
+msgid "Statusbar"
+msgstr "ステータスバー"
+
+msgid "_Statusbar"
+msgstr "ステータスバー(_S)"
+
+msgid "Step"
+msgstr "Step"
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr "段階"
+
+msgid "Stereo"
+msgstr "ステレオ"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "&Stop"
+msgstr "停止(&S)"
+
+msgid "_Stop"
+msgstr "停止(_S)"
+
+msgid "S&top"
+msgstr "中止(&S)"
+
+msgid "Stop Recording"
+msgstr "停止"
+
+msgid "Stopped"
+msgstr "停止"
+
+msgid "Storage"
+msgstr "ストレージ"
+
+msgid "Store"
+msgstr "保存"
+
+msgid "Stream"
+msgstr "ストリーム"
+
+msgid "Street"
+msgstr "番地"
+
+msgid "Strength"
+msgstr "強さ"
+
+msgid "Stretch"
+msgstr "ストレッチ"
+
+msgid "Strike Out"
+msgstr "取り消し線"
+
+msgid "Strikethrough"
+msgstr "取り消し線"
+
+msgid "String"
+msgstr "文字列"
+
+msgid "string"
+msgstr "文字列"
+
+msgid "Strings"
+msgstr "文字列"
+
+msgid "Stroke"
+msgstr "縁取り"
+
+msgid "Strong"
+msgstr "強い"
+
+msgid "Structure"
+msgstr "Structure"
+
+msgid "Style"
+msgstr "スタイル"
+
+msgid "Subject"
+msgstr "件名"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Subscribe"
+msgstr "購読"
+
+msgid "Subscript"
+msgstr "下付き文字"
+
+msgid "Subscriptions"
+msgstr "登録チャンネル"
+
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+msgid "Subtitles"
+msgstr "字幕"
+
+msgid "Subtract"
+msgstr "減算"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Sudan"
+msgstr "スーダン"
+
+msgid "Suffix"
+msgstr "接尾語"
+
+msgid "Sum"
+msgstr "合計"
+
+msgid "Summary"
+msgstr "概要"
+
+msgid "Sun"
+msgstr "太陽"
+
+msgid "Sundanese"
+msgstr "スンダ文字"
+
+msgid "Sunday"
+msgstr "日曜日"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "上付き文字"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "Suriname"
+msgstr "スリナム"
+
+msgid "Surname"
+msgstr "姓"
+
+msgid "Suspend"
+msgstr "サスペンド"
+
+msgid "Suspended"
+msgstr "停止中"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "スワップ"
+
+msgid "Sweden"
+msgstr "スウェーデン"
+
+msgid "Swedish"
+msgstr "スウェーデン語"
+
+msgid "Switch"
+msgstr "切り替え"
+
+msgid "Switches"
+msgstr "スイッチ"
+
+msgid "Switzerland"
+msgstr "スイス"
+
+msgid "Symbol"
+msgstr "シンボル"
+
+msgid "Symbols"
+msgstr "シンボル"
+
+msgid "Sync"
+msgstr "同期"
+
+msgid "Synchronization"
+msgstr "同期"
+
+msgid "Synchronize"
+msgstr "同期"
+
+msgid "Syriac"
+msgstr "シリア文字"
+
+msgid "System"
+msgstr "システム"
+
+msgid "System Default"
+msgstr "システムのデフォルト"
+
+msgid "System Settings"
+msgstr "システム設定"
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "タブ"
+
+msgid "Table"
+msgstr "テーブル"
+
+msgid "Table of Contents"
+msgstr "目次"
+
+msgid "Tablet"
+msgstr "タブレット"
+
+msgid "Tabs"
+msgstr "タブ"
+
+msgid "Tag"
+msgstr "タグ"
+
+msgid "Tagalog"
+msgstr "タガログ文字"
+
+msgid "Tagged"
+msgstr "タグあり"
+
+msgid "Tags"
+msgstr "タグ"
+
+msgid "Taiwan"
+msgstr "台湾"
+
+msgid "Tajikistan"
+msgstr "タジキスタン"
+
+msgid "Take Screenshot"
+msgstr "スクリーンショットを撮る"
+
+msgid "Tamil"
+msgstr "タミル文字"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "タンザニア"
+
+msgid "Target"
+msgstr "翻訳"
+
+msgid "Task"
+msgstr "タスク"
+
+msgid "Tasks"
+msgstr "タスク"
+
+msgid "Tatar"
+msgstr ""
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Technology"
+msgstr "テクノロジー名"
+
+msgid "Telephone"
+msgstr "電話"
+
+msgid "Telugu"
+msgstr "テルグ文字"
+
+msgid "Temperature"
+msgstr "温度"
+
+msgid "Template"
+msgstr "テンプレート"
+
+msgid "Templates"
+msgstr "テンプレート"
+
+msgid "Tentative"
+msgstr "暫定的"
+
+msgid "Terminal"
+msgstr "ターミナル"
+
+msgid "Terminal Emulator"
+msgstr "ターミナルエミュレータ"
+
+msgid "Test"
+msgstr "テスト"
+
+msgid "Testing"
+msgstr "テスト"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid "text"
+msgstr "text"
+
+msgid "_Text"
+msgstr "文字(_T)"
+
+msgid "Text Color"
+msgstr "テキスト色"
+
+msgid "Text color"
+msgstr "文字の色"
+
+msgid "Text Editor"
+msgstr "テキストエディター"
+
+msgid "Text File"
+msgstr ""
+
+msgid "Text Files"
+msgstr "テキストファイル"
+
+msgid "Text Only"
+msgstr "テキストのみ"
+
+msgid "Text only"
+msgstr "テキストのみ"
+
+msgid "Text to search for"
+msgstr "検索するテキスト"
+
+msgid "Text Tool"
+msgstr "テキストツール"
+
+msgid "TextLabel"
+msgstr "TextLabel"
+
+msgid "Thai"
+msgstr "タイ語"
+
+msgid "Thailand"
+msgstr "タイ"
+
+msgid "The file %1 does not exist."
+msgstr "ファイル ‘%1’ は存在しません。"
+
+msgid "The GNOME Project"
+msgstr "The GNOME Project"
+
+msgid "The graphical theme to be used."
+msgstr "使用するグラフィックテーマ"
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+msgid "The NetworkManager Developers"
+msgstr "NetworkManager 開発者"
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid "Themes"
+msgstr "テーマ"
+
+msgid "There was a problem sharing the document: %1"
+msgstr ""
+
+msgid "Thin"
+msgstr "シン (Thin)"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr "メニューバーが完全に非表示になります。%1 を入力すると再度表示できます。"
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "しきい値"
+
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+msgid "Thumbnails"
+msgstr "サムネイル"
+
+msgid "Thursday"
+msgstr "木曜日"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "チベット文字"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "タイル"
+
+msgid "Tiled"
+msgstr "タイル"
+
+msgid "Tilt"
+msgstr "傾き"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "time"
+msgstr "time"
+
+msgid "Time: %1"
+msgstr "タイム: %1"
+
+msgid "Time and Date"
+msgstr "日付と時間"
+
+msgid "Time Zone"
+msgstr "タイムゾーン"
+
+msgid "Timeline"
+msgstr "タイムライン"
+
+msgid "Timeout"
+msgstr "タイムアウト"
+
+msgid "Timer"
+msgstr "タイマー"
+
+msgid "Timestamp"
+msgstr "タイムスタンプ"
+
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+msgid "Tiny"
+msgstr "最小"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "title"
+msgstr "タイトル"
+
+msgid "&Title"
+msgstr "タイトル(&T)"
+
+msgid "_Title"
+msgstr "タイトル(_T)"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "宛先"
+
+msgid "to"
+msgstr "-"
+
+msgid "Tobias Fella"
+msgstr "トビアス・フェラ"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "today"
+msgstr "今日"
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "Todo"
+msgstr "Todo"
+
+msgid "Toggle Fullscreen"
+msgstr "全画面表示の切り替え"
+
+msgid "Toggle Sidebar"
+msgstr "サイドバーを切り替える"
+
+msgid "Toggle sidebar"
+msgstr "サイドバーを切り替える"
+
+msgid "Togo"
+msgstr "トーゴ"
+
+msgid "Token"
+msgstr "項目"
+
+msgid "Tolerance"
+msgstr ""
+
+msgid "Tomorrow"
+msgstr "明日"
+
+msgid "Tonga"
+msgstr "トンガ"
+
+msgid "Tool"
+msgstr "ツール"
+
+msgid "Tool Options"
+msgstr "ツールオプション"
+
+msgid "_Toolbar"
+msgstr "ツールバー(_T)"
+
+msgid "T_oolbar"
+msgstr "ツールバー(_O)"
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "ツールボックス"
+
+msgid "Tools"
+msgstr "ツール"
+
+msgid "&Tools"
+msgstr "ツール(&T)"
+
+msgid "_Tools"
+msgstr "ツール(_T)"
+
+msgid "Top"
+msgstr "上"
+
+msgid "_Top"
+msgstr "上(_T)"
+
+msgid "Top Left"
+msgstr "Top Left"
+
+msgid "Top left"
+msgstr "左上"
+
+msgid "Top Right"
+msgstr "上 右"
+
+msgid "Top right"
+msgstr "右上"
+
+msgid "Topic"
+msgstr "トピック"
+
+msgid "Top-left"
+msgstr "左上"
+
+msgid "Top-right"
+msgstr "右上"
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Track"
+msgstr "トラック"
+
+msgid "Track Number"
+msgstr "トラック番号"
+
+msgid "Tracker"
+msgstr "トラッカー"
+
+msgid "Tracks"
+msgstr "トラック"
+
+msgid "Traditional"
+msgstr "伝統的"
+
+msgid "Transfer"
+msgstr "転送"
+
+msgid "Transform"
+msgstr "変形"
+
+msgid "Transformation"
+msgstr "変形"
+
+msgid "Translate"
+msgstr "平行移動"
+
+msgid "Translation"
+msgstr "翻訳"
+
+msgid "Translator"
+msgstr "翻訳者"
+
+msgid "translator-credits"
+msgstr ""
+"Aaron Hamilton <aaron@correspondwith.me>\n"
+"Ryo Nakano <ryonakaknock3@gmail.com>\n"
+"sicklylife <translation@sicklylife.jp>\n"
+"Seiji Iizuka <seiji@iizuka.dev>\n"
+"Kusano Takayuki https://bsky.app/profile/tkusano.jp\n"
+"Japanese Translation Team https://l10n.gnome.org/teams/ja/"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "翻訳者"
+
+msgid "Transparency"
+msgstr "透明部分の表示方法"
+
+msgid "Transparent"
+msgstr "透明"
+
+msgid "Transport"
+msgstr "伝送方式"
+
+msgid "Transpose"
+msgstr "転置"
+
+msgid "Trash"
+msgstr "ごみ箱"
+
+msgid "Travel"
+msgstr "旅行"
+
+msgid "Tree"
+msgstr "ツリー"
+
+msgid "Tree View"
+msgstr "ツリー表示"
+
+msgid "Triangle"
+msgstr "トライアングル"
+
+msgid "True"
+msgstr "True"
+
+msgid "true"
+msgstr "true"
+
+msgid "Trusted"
+msgstr "信頼済み"
+
+msgid "Try a different search"
+msgstr "他のキーワードを試してください"
+
+msgid "Try Again"
+msgstr "再試行"
+
+msgid "Tuesday"
+msgstr "火曜日"
+
+msgid "Tunisia"
+msgstr "チュニジア"
+
+msgid "Turkey"
+msgstr "トルコ"
+
+msgid "Turkish"
+msgstr "トルコ語"
+
+msgid "Turkmenistan"
+msgstr "トルクメニスタン"
+
+msgid "Tuvalu"
+msgstr "ツバル"
+
+msgid "TV"
+msgstr "テレビ"
+
+msgid "Twitter"
+msgstr ""
+
+msgid "TYPE"
+msgstr "TYPE"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "type"
+msgstr "タイプ"
+
+msgid "&Type"
+msgstr "タイプ(&T)"
+
+msgid "Type: %1"
+msgstr "タイプ: %1"
+
+msgid "Uganda"
+msgstr "ウガンダ"
+
+msgid "Ukraine"
+msgstr "ウクライナ"
+
+msgid "Ukrainian"
+msgstr "ウクライナ語"
+
+msgid "Unable to create a temporary file."
+msgstr "一時ファイルを作成できません。"
+
+msgid "unable to get editor plugin name: %s"
+msgstr "エディタープラグイン名を取得できません: %s"
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr "プロパティ '%s' (型 '%s') に型 '%s' の値を設定できません"
+
+msgid "Unavailable"
+msgstr "利用できません"
+
+msgid "Undefined"
+msgstr "未定義"
+
+msgid "Underline"
+msgstr "下線"
+
+msgid "&Underline"
+msgstr "下線(&U)"
+
+msgid "_Underline"
+msgstr "下線(_U)"
+
+msgid "Undo"
+msgstr "元に戻す"
+
+msgid "&Undo"
+msgstr "元に戻す(&U)"
+
+msgid "_Undo"
+msgstr "元に戻す(_U)"
+
+msgid "Undo %1"
+msgstr "%1 を元に戻す"
+
+msgid "Undo History"
+msgstr "作業履歴"
+
+msgid "UnFav it"
+msgstr ""
+
+msgid "unhandled property “%s” type %s"
+msgstr "処理されていないプロパティ “%s” (型: %s)"
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Uniform"
+msgstr "一様"
+
+msgid "Union"
+msgstr "結合"
+
+msgid "Unit"
+msgstr "単位"
+
+msgid "United Arab Emirates"
+msgstr "アラブ首長国連邦"
+
+msgid "United Kingdom"
+msgstr "イギリス"
+
+msgid "United States"
+msgstr "アメリカ合衆国"
+
+msgid "United States Minor Outlying Islands"
+msgstr "合衆国外諸島"
+
+msgid "Units"
+msgstr "単位"
+
+msgid "University"
+msgstr "大学"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "unknown"
+msgstr "不明"
+
+msgid "(unknown)"
+msgstr "(不明)"
+
+msgid "Unknown Error"
+msgstr "不明なエラー"
+
+msgid "Unknown error"
+msgstr "不明なエラー"
+
+msgid "Unknown error."
+msgstr "未知のエラー。"
+
+msgid "unknown error creating editor instance"
+msgstr "エディターインスタンスの作成中に不明なエラーが発生しました"
+
+msgid "Unknown file type"
+msgstr "ファイル形式が不明、または画像として開くことができない形式です"
+
+msgid "Unlimited"
+msgstr "無制限"
+
+msgid "unlimited"
+msgstr "無制限"
+
+msgid "Unlock"
+msgstr "ロック解除"
+
+msgid "_Unlock"
+msgstr "ロック解除(_U)"
+
+msgid "Unmount"
+msgstr "アンマウント"
+
+msgid "Unmute"
+msgstr "ミュート解除"
+
+msgid "Unnamed"
+msgstr "名前なし"
+
+msgid "unnamed"
+msgstr "名前なし"
+
+msgid "Unread"
+msgstr "未読"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr ""
+
+msgid "Unselect All"
+msgstr "すべて選択解除"
+
+msgid "Unselect all"
+msgstr "すべての選択を解除する"
+
+msgid "Unspecified"
+msgstr "指定なし"
+
+msgid "Untitled"
+msgstr "タイトルなし"
+
+msgid "untitled"
+msgstr "タイトルなし"
+
+msgid "Unused"
+msgstr "未使用"
+
+msgid "Up"
+msgstr "上へ"
+
+msgid "&Up"
+msgstr "上へ(&U)"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "&Update"
+msgstr "更新(&U)"
+
+msgid "_Update"
+msgstr "更新(_U)"
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Updating"
+msgstr "更新"
+
+msgid "Updating..."
+msgstr "更新中..."
+
+msgid "Upload"
+msgstr "アップロード"
+
+msgid "_Upload"
+msgstr "アップロード(_U)"
+
+msgid "Uploaded"
+msgstr "アップロード済み"
+
+msgid "Upper"
+msgstr "以上"
+
+msgid "Uppercase"
+msgstr "大文字"
+
+msgid "Urdu"
+msgstr ""
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "ウルグアイ"
+
+msgid "US Letter"
+msgstr "US レター"
+
+msgid "Usage"
+msgstr "使用率"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "使用する"
+
+msgid "Used"
+msgstr "使用済"
+
+msgid "User"
+msgstr "ユーザ"
+
+msgid "User Certificate"
+msgstr "クライアント証明書"
+
+msgid "User Defined"
+msgstr "ユーザ定義"
+
+msgid "User Feedback"
+msgstr "ユーザフィードバック"
+
+msgid "User ID"
+msgstr "ユーザ ID"
+
+msgid "User Interface"
+msgstr "ユーザインターフェース"
+
+msgid "User name"
+msgstr "ユーザー名"
+
+msgid "User Password"
+msgstr ""
+
+msgid "Username"
+msgstr "ユーザ名"
+
+msgid "_Username"
+msgstr "ユーザー名(_U)"
+
+msgid "Users"
+msgstr "ユーザ"
+
+msgid "Utilities"
+msgstr "ユーティリティ"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "ウズベキスタン"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr "%v%"
+
+msgid "Valid"
+msgstr "有効"
+
+msgid "Valid from"
+msgstr "有効期間開始"
+
+msgid "Validity"
+msgstr ""
+
+msgid "Value"
+msgstr "値"
+
+msgid "value"
+msgstr "値"
+
+msgid "&Value"
+msgstr "値(&V)"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr "プロパティ '%3$s' (型 '%4$s') に対して、型 '%2$s' の値 \"%1$s\" は無効または範囲外です"
+
+msgid "Values"
+msgstr "値"
+
+msgid "Vanuatu"
+msgstr "バヌアツ"
+
+msgid "Variable"
+msgstr "変数"
+
+msgid "Variables"
+msgstr "変数"
+
+msgid "Variance"
+msgstr "バリアンス"
+
+msgid "Vector"
+msgstr "ベクター"
+
+msgid "Velocity"
+msgstr "筆速"
+
+msgid "Vendor"
+msgstr "ベンダー"
+
+msgid "Venezuela"
+msgstr "ベネズエラ"
+
+msgid "Verb"
+msgstr "動詞"
+
+msgid "Verify"
+msgstr "確認"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Version %1"
+msgstr "バージョン %1"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "Very Large"
+msgstr "とても大"
+
+msgid "Video"
+msgstr "ビデオ"
+
+msgid "Video CD"
+msgstr "ビデオ CD"
+
+msgid "Video Codec"
+msgstr "動画コーデック"
+
+msgid "Video Files"
+msgstr "ビデオファイル"
+
+msgid "Videos"
+msgstr "動画"
+
+msgid "Vietnam"
+msgstr "ベトナム"
+
+msgid "Vietnamese"
+msgstr "ベトナム語"
+
+msgid "View"
+msgstr "表示"
+
+msgid "&View"
+msgstr "表示(&V)"
+
+msgid "_View"
+msgstr "表示(_V)"
+
+msgid "View Options"
+msgstr "オプションを表示"
+
+msgid "View Settings"
+msgstr "ビューの設定"
+
+msgid "Viewer"
+msgstr "ビューア"
+
+msgid "Views"
+msgstr "表示"
+
+msgid "Virtual"
+msgstr "仮想"
+
+msgid "Virtual Keyboard"
+msgstr "仮想キーボード"
+
+msgid "Visibility"
+msgstr "可視性"
+
+msgid "Visible"
+msgstr "可視部分コピー"
+
+msgid "Voltage"
+msgstr "電圧"
+
+msgid "Volume"
+msgstr "音量"
+
+msgid "Volume Down"
+msgstr "音量を下げる"
+
+msgid "Volume Up"
+msgstr "音量を上げる"
+
+msgid "W"
+msgstr "W"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "待機中"
+
+msgid "Wallpaper"
+msgstr "壁紙"
+
+msgid "Wallpaper type"
+msgstr "壁紙のタイプ"
+
+msgid "WARNING"
+msgstr "警告"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "warning"
+msgstr ""
+
+msgid "Warnings"
+msgstr "警告"
+
+msgid "Water"
+msgstr "水域"
+
+msgid "Wave"
+msgstr "波"
+
+msgid "Weak"
+msgstr "弱い"
+
+msgid "Weather"
+msgstr "天気"
+
+msgid "Web Browser"
+msgstr "ウェブブラウザ"
+
+msgid "Web browser"
+msgstr "Web ブラウザー"
+
+msgid "Website"
+msgstr "ウェブサイト"
+
+msgid "Wednesday"
+msgstr "水曜日"
+
+msgid "Week"
+msgstr "週"
+
+msgid "Week View"
+msgstr ""
+
+msgid "Weekly"
+msgstr "毎週"
+
+msgid "Weeks"
+msgstr "週間"
+
+msgid "weeks"
+msgstr "週"
+
+msgid "Weight"
+msgstr "ウェイト"
+
+msgid "Welcome"
+msgstr "ようこそ"
+
+msgid "Welsh"
+msgstr "ウェールズ語"
+
+msgid "West"
+msgstr "西"
+
+msgid "Western"
+msgstr "西欧"
+
+msgid "Western Sahara"
+msgstr "西サハラ"
+
+msgid "What's new"
+msgstr ""
+
+msgid "Wheel"
+msgstr "ホイール"
+
+msgid "Whether sound effects should be played."
+msgstr "効果音を鳴らすかどうか"
+
+msgid "White"
+msgstr "白"
+
+msgid "white"
+msgstr "白"
+
+msgid "White Balance"
+msgstr "ホワイトバランス"
+
+msgid "Wide"
+msgstr "全角"
+
+msgid "Widgets"
+msgstr "ウィジェット"
+
+msgid "Width"
+msgstr "幅"
+
+msgid "&Width"
+msgstr "幅(&W)"
+
+msgid "_Width"
+msgstr "幅(_W)"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgid "Window"
+msgstr "ウィンドウ"
+
+msgid "&Window"
+msgstr "ウィンドウ(&W)"
+
+msgid "&Window Color Scheme"
+msgstr "ウィンドウのカラースキーム(&W)"
+
+msgid "Window height"
+msgstr "ウィンドウの高さ"
+
+msgid "Window Management"
+msgstr "ウィンドウの管理"
+
+msgid "Window maximized"
+msgstr "ウィンドウが最大化された"
+
+msgid "Window size"
+msgstr "ウィンドウのサイズ"
+
+msgid "Window Title"
+msgstr "ウィンドウのタイトル"
+
+msgid "Window width"
+msgstr "ウィンドウの幅"
+
+msgid "Windows"
+msgstr "ウィンドウ"
+
+msgid "_Windows"
+msgstr "ウィンドウ(_W)"
+
+msgid "with"
+msgstr ":"
+
+msgid "Word"
+msgstr ""
+
+msgid "Word Count"
+msgstr "単語数"
+
+msgid "Words"
+msgstr "単語"
+
+msgid "Work"
+msgstr "勤務先"
+
+msgid "World"
+msgstr "World"
+
+msgid "Wrap"
+msgstr "折り返し"
+
+msgid "_Wrap around"
+msgstr "折り返しも対象にする(_W)"
+
+msgid "Wrap Text"
+msgstr ""
+
+msgid "Write"
+msgstr "書き込み"
+
+msgid "Writing"
+msgstr "書き込み"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Yearly"
+msgstr "年単位"
+
+msgid "Years"
+msgstr "年"
+
+msgid "years"
+msgstr "年"
+
+msgid "Yellow"
+msgstr "イエロー"
+
+msgid "yellow"
+msgstr "黄"
+
+msgid "Yemen"
+msgstr "イエメン"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "yes"
+msgstr "はい"
+
+msgid "_Yes"
+msgstr "はい(_Y)"
+
+msgid "Yesterday"
+msgstr "昨日"
+
+msgid "Yiddish"
+msgstr ""
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr "仮想プライベートネットワーク “%s” にアクセスするには認証が必要です。"
+
+msgid "Yukon"
+msgstr "ユーコン"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "ザンビア"
+
+msgid "Zero"
+msgstr "ゼロ"
+
+msgid "Zimbabwe"
+msgstr "ジンバブエ"
+
+msgid "Zoom"
+msgstr "ズーム"
+
+msgid "&Zoom"
+msgstr "ズーム(&Z)"
+
+msgid "_Zoom"
+msgstr "ズーム(_Z)"
+
+msgid "Zoom In"
+msgstr "拡大"
+
+msgid "Zoom in"
+msgstr "拡大"
+
+msgid "Zoom &In"
+msgstr "拡大(&I)"
+
+msgid "Zoom _In"
+msgstr "拡大(_I)"
+
+msgid "Zoom Out"
+msgstr "縮小"
+
+msgid "Zoom out"
+msgstr "縮小"
+
+msgid "Zoom &Out"
+msgstr "縮小(&O)"
+
+msgid "Zoom _Out"
+msgstr "縮小(_O)"
+
+msgid "Zoom to Fit"
+msgstr "ビューに合わせる(&F)"

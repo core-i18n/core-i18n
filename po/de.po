@@ -7,1437 +7,9466 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Occurs in 103 KDE PO files
-msgid "Main Toolbar"
-msgstr "Haupt-Werkzeugleiste"
+msgid "\""
+msgstr "\""
 
-#. Occurs in 94 KDE PO files
-msgid "General"
-msgstr "Allgemein"
+msgid "#"
+msgstr "#"
 
-#. Occurs in 81 KDE PO files
-msgid "Remove"
-msgstr "Entfernen"
-
-#. Occurs in 74 KDE PO files
-msgid "Cancel"
-msgstr "Abbrechen"
-
-#. Occurs in 72 KDE PO files
-msgid "&File"
-msgstr "&Datei"
-
-#. Occurs in 72 KDE PO files
-msgid "Delete"
-msgstr "Löschen"
-
-#. Occurs in 67 KDE PO files
-msgid "None"
-msgstr "Keine"
-
-#. Occurs in 66 KDE PO files
-msgid "Name"
-msgstr "Name"
-
-#. Occurs in 65 KDE PO files
-msgid "Maintainer"
-msgstr "Betreuer"
-
-#. Occurs in 65 KDE PO files
-msgid "Name:"
-msgstr "Name:"
-
-#. Occurs in 63 KDE PO files
-msgid "&Edit"
-msgstr "&Bearbeiten"
-
-#. Occurs in 61 KDE PO files
-msgid "&Settings"
-msgstr "&Einstellungen"
-
-#. Occurs in 59 KDE PO files
-msgid "Error"
-msgstr "Fehler"
-
-#. Occurs in 58 KDE PO files
-msgid "&View"
-msgstr "&Ansicht"
-
-#. Occurs in 55 KDE PO files
-msgid "Add"
-msgstr "Hinzufügen"
-
-#. Occurs in 55 KDE PO files
-msgid "Password:"
-msgstr "Passwort:"
-
-#. Occurs in 52 KDE PO files
-msgid "Developer"
-msgstr "Entwickler"
-
-#. Occurs in 51 KDE PO files
-msgid "Author"
-msgstr "Autor"
-
-#. Occurs in 48 KDE PO files
-msgid "..."
-msgstr "..."
-
-#. Occurs in 48 KDE PO files
-msgid "Close"
-msgstr "Schließen"
-
-#. Occurs in 48 KDE PO files
-msgid "Options"
-msgstr "Einstellungen"
-
-#. Occurs in 48 KDE PO files
-msgid "Settings"
-msgstr "Einstellungen"
-
-#. Occurs in 48 KDE PO files
-msgid "Unknown"
-msgstr "Unbekannt"
-
-#. Occurs in 47 KDE PO files
-msgid "&Tools"
-msgstr "E&xtras"
-
-#. Occurs in 46 KDE PO files
-msgid "Type"
-msgstr "Typ"
-
-#. Occurs in 45 KDE PO files
-msgid "&Delete"
-msgstr "&Löschen"
-
-#. Occurs in 45 KDE PO files
-msgid "Edit"
-msgstr "Bearbeiten"
-
-#. Occurs in 43 KDE PO files
-msgid "Save"
-msgstr "Speichern"
-
-#. Occurs in 41 KDE PO files
-msgid "Description"
-msgstr "Beschreibung"
-
-#. Occurs in 41 KDE PO files
-msgid "Description:"
-msgstr "Beschreibung:"
-
-#. Occurs in 40 KDE PO files
-msgid "Date"
-msgstr "Datum"
-
-#. Occurs in 40 KDE PO files
-msgid "File"
-msgstr "Datei"
-
-#. Occurs in 40 KDE PO files
-msgid "Preview"
-msgstr "Vorschau"
-
-#. Occurs in 37 KDE PO files
-msgid "Configure"
-msgstr "Einrichten"
-
-#. Occurs in 36 KDE PO files
-msgid "Laurent Montel"
-msgstr "Laurent Montel"
-
-#. Occurs in 35 KDE PO files
-msgid "Appearance"
-msgstr "Erscheinungsbild"
-
-#. Occurs in 35 KDE PO files
-msgid "Properties"
-msgstr "Eigenschaften"
-
-#. Occurs in 35 KDE PO files
-msgid "Type:"
-msgstr "Typ:"
-
-#. Occurs in 34 KDE PO files
-msgid "Size"
-msgstr "Größe"
-
-#. Occurs in 33 KDE PO files
-msgid "&Remove"
-msgstr "&Entfernen"
-
-#. Occurs in 33 KDE PO files
-msgid "Search"
-msgstr "Suchen"
-
-#. Occurs in 32 KDE PO files
-msgid "Default"
-msgstr "Standard"
-
-#. Occurs in 32 KDE PO files
-msgid "Username:"
-msgstr "Benutzername:"
-
-#. Occurs in 31 KDE PO files
-msgid "&Help"
-msgstr "&Hilfe"
-
-#. Occurs in 31 KDE PO files
-msgid "Copy"
-msgstr "Kopieren"
-
-#. Occurs in 31 KDE PO files
-msgid "Stop"
-msgstr "Anhalten"
-
-#. Occurs in 31 KDE PO files
-msgid "View"
-msgstr "Ansicht"
-
-#. Occurs in 31 KDE PO files
-msgid "Warning"
-msgstr "Warnung"
-
-#. Occurs in 30 KDE PO files
-msgid "Normal"
-msgstr "Normal"
-
-#. Occurs in 30 KDE PO files
-msgid "Rename"
-msgstr "Umbenennen"
-
-#. Occurs in 30 KDE PO files
-msgid "Yes"
-msgstr "Ja"
-
-#. Occurs in 29 KDE PO files
-msgid "Advanced"
-msgstr "Erweitert"
-
-#. Occurs in 29 KDE PO files
-msgid "No"
-msgstr "Nein"
-
-#. Occurs in 29 KDE PO files
-msgid "Status"
-msgstr "Status"
-
-#. Occurs in 29 KDE PO files
-msgid "Text"
-msgstr "Text"
-
-#. Occurs in 29 KDE PO files
-msgid "Value"
-msgstr "Wert"
-
-#. Occurs in 28 KDE PO files
-msgid "Colors"
-msgstr "Farben"
-
-#. Occurs in 28 KDE PO files
-msgid "Dialog"
-msgstr "Dialog"
-
-#. Occurs in 28 KDE PO files
-msgid "Title"
-msgstr "Titel"
-
-#. Occurs in 27 KDE PO files
-msgid "Original author"
-msgstr "Ursprünglicher Autor"
-
-#. Occurs in 27 KDE PO files
-msgid "Search..."
-msgstr "Suchen ..."
-
-#. Occurs in 26 KDE PO files
 msgid "%"
 msgstr " %"
 
-#. Occurs in 26 KDE PO files
-msgid "Add..."
-msgstr "Hinzufügen ..."
+msgid "'"
+msgstr "'"
 
-#. Occurs in 26 KDE PO files
-msgid "Information"
-msgstr "Informationen"
+msgid "*"
+msgstr "*"
 
-#. Occurs in 26 KDE PO files
-msgid "Time"
-msgstr "Zeit"
+msgid "+"
+msgstr "+"
 
-#. Occurs in 25 KDE PO files
-msgid "Comment"
-msgstr "Kommentar"
+msgid ","
+msgstr ","
 
-#. Occurs in 25 KDE PO files
-msgid "Height:"
-msgstr "Höhe:"
+msgid "-"
+msgstr "-"
 
-#. Occurs in 25 KDE PO files
-msgid "Left"
-msgstr "Links"
+msgid "/"
+msgstr "/"
 
-#. Occurs in 25 KDE PO files
-msgid "New"
-msgstr "Neu"
+msgid "<"
+msgstr "<"
 
-#. Occurs in 25 KDE PO files
-msgid "Open"
-msgstr "Öffnen"
+msgid "="
+msgstr "="
 
-#. Occurs in 25 KDE PO files
-msgid "Size:"
-msgstr "Größe:"
-
-#. Occurs in 25 KDE PO files
-msgid "Width:"
-msgstr "Breite:"
-
-#. Occurs in 24 KDE PO files
-msgid "Port:"
-msgstr "Port:"
-
-#. Occurs in 24 KDE PO files
-msgid "Right"
-msgstr "Rechts"
-
-#. Occurs in 24 KDE PO files
-msgid "Save As"
-msgstr "Speichern unter"
-
-#. Occurs in 24 KDE PO files
-msgid "Title:"
-msgstr "Titel:"
-
-#. Occurs in 23 KDE PO files
-msgid "&Export"
-msgstr "&Exportieren"
-
-#. Occurs in 23 KDE PO files
-msgid "Automatic"
-msgstr "Automatisch"
-
-#. Occurs in 23 KDE PO files
-msgid "Clear"
-msgstr "Leeren"
-
-#. Occurs in 23 KDE PO files
-msgid "Create"
-msgstr "Erstellen"
-
-#. Occurs in 23 KDE PO files
-msgid "Export"
-msgstr "Exportieren"
-
-#. Occurs in 23 KDE PO files
-msgid "Help"
-msgstr "Hilfe"
-
-#. Occurs in 23 KDE PO files
-msgid "OK"
-msgstr "OK"
-
-#. Occurs in 22 KDE PO files
-msgid "&Name:"
-msgstr "&Name:"
-
-#. Occurs in 22 KDE PO files
-msgid "Authentication"
-msgstr "Authentifizierung"
-
-#. Occurs in 22 KDE PO files
-msgid "Details"
-msgstr "Details"
-
-#. Occurs in 22 KDE PO files
-msgid "Filter"
-msgstr "Filter"
-
-#. Occurs in 22 KDE PO files
-msgid "Ignore"
-msgstr "Ignorieren"
-
-#. Occurs in 22 KDE PO files
-msgid "Image"
-msgstr "Bild"
-
-#. Occurs in 22 KDE PO files
-msgid "Location:"
-msgstr "Ort:"
-
-#. Occurs in 22 KDE PO files
-msgid "Refresh"
-msgstr "Aktualisieren"
-
-#. Occurs in 21 KDE PO files
-msgid "All"
-msgstr "Alle"
-
-#. Occurs in 21 KDE PO files
-msgid "Center"
-msgstr "Zentriert"
-
-#. Occurs in 21 KDE PO files
-msgid "Custom"
-msgstr "Benutzerdefiniert"
-
-#. Occurs in 21 KDE PO files
-msgid "Font"
-msgstr "Schriftart"
-
-#. Occurs in 21 KDE PO files
-msgid "Insert"
-msgstr "Einfügen"
-
-#. Occurs in 21 KDE PO files
-msgid "Never"
-msgstr "Niemals"
-
-#. Occurs in 21 KDE PO files
-msgid "Tools"
-msgstr "Extras"
-
-#. Occurs in 21 KDE PO files
-msgid "Undo"
-msgstr "Rückgängig"
-
-#. Occurs in 21 KDE PO files
-msgid "Untitled"
-msgstr "Unbenannt"
-
-#. Occurs in 20 KDE PO files
-msgid "&Go"
-msgstr "&Gehe zu"
-
-#. Occurs in 20 KDE PO files
-msgid "1"
-msgstr "1"
-
-#. Occurs in 20 KDE PO files
-msgid "Edit..."
-msgstr "Bearbeiten ..."
-
-#. Occurs in 20 KDE PO files
-msgid "Enabled"
-msgstr "Aktiviert"
-
-#. Occurs in 20 KDE PO files
-msgid "Import"
-msgstr "Importieren"
-
-#. Occurs in 20 KDE PO files
-msgid "Location"
-msgstr "Ort"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Down"
-msgstr "Nach unten"
-
-#. Occurs in 20 KDE PO files
-msgid "Move Up"
-msgstr "Nach oben"
-
-#. Occurs in 20 KDE PO files
-msgid "Select All"
-msgstr "Alle auswählen"
-
-#. Occurs in 20 KDE PO files
-msgid "Update"
-msgstr "Aktualisieren"
-
-#. Occurs in 19 KDE PO files
-msgid "&Add"
-msgstr "&Hinzufügen"
-
-#. Occurs in 19 KDE PO files
-msgid "0"
-msgstr "0"
-
-#. Occurs in 19 KDE PO files
-msgid "About"
-msgstr "Über"
-
-#. Occurs in 19 KDE PO files
-msgid "Comment:"
-msgstr "Kommentar:"
-
-#. Occurs in 19 KDE PO files
-msgid "Configure..."
-msgstr "Einrichten ..."
-
-#. Occurs in 19 KDE PO files
-msgid "David Faure"
-msgstr "David Faure"
-
-#. Occurs in 19 KDE PO files
-msgid "Filename:"
-msgstr "Dateiname:"
-
-#. Occurs in 19 KDE PO files
-msgid "General Settings"
-msgstr "Allgemeine Einstellungen"
-
-#. Occurs in 19 KDE PO files
-msgid "Next"
-msgstr "Weiter"
-
-#. Occurs in 19 KDE PO files
-msgid "Other"
-msgstr "Weitere"
-
-#. Occurs in 19 KDE PO files
-msgid "Select"
-msgstr "Auswählen"
-
-#. Occurs in 19 KDE PO files
-msgid "Top"
-msgstr "Oben"
-
-#. Occurs in 19 KDE PO files
-msgid "Vertical"
-msgstr "Senkrecht"
-
-#. Occurs in 18 KDE PO files
-msgid "&Close"
-msgstr "&Schließen"
-
-#. Occurs in 18 KDE PO files
-msgid "Author:"
-msgstr "Autor:"
-
-#. Occurs in 18 KDE PO files
-msgid "Enable"
-msgstr "Aktivieren"
-
-#. Occurs in 18 KDE PO files
-msgid "Horizontal"
-msgstr "Waagerecht"
-
-#. Occurs in 18 KDE PO files
-msgid "Import..."
-msgstr "Importieren ..."
-
-#. Occurs in 18 KDE PO files
-msgid "Redo"
-msgstr "Wiederherstellen"
-
-#. Occurs in 18 KDE PO files
-msgid "Reject"
-msgstr "Ablehnen"
-
-#. Occurs in 18 KDE PO files
-msgid "Replace"
-msgstr "Ersetzen"
-
-#. Occurs in 17 KDE PO files
-msgid "&Edit..."
-msgstr "&Bearbeiten ..."
-
-#. Occurs in 17 KDE PO files
-msgid "Actions"
-msgstr "Aktionen"
-
-#. Occurs in 17 KDE PO files
-msgid "Always"
-msgstr "Immer"
-
-#. Occurs in 17 KDE PO files
-msgid "Bookmarks"
-msgstr "Lesezeichen"
-
-#. Occurs in 17 KDE PO files
-msgid "Date:"
-msgstr "Datum:"
-
-#. Occurs in 17 KDE PO files
-msgid "Export..."
-msgstr "Exportieren ..."
-
-#. Occurs in 17 KDE PO files
-msgid "Info"
-msgstr "Info"
-
-#. Occurs in 17 KDE PO files
-msgid "Number"
-msgstr "Nummer"
-
-#. Occurs in 17 KDE PO files
-msgid "Original Author"
-msgstr "Ursprünglicher Autor"
-
-#. Occurs in 17 KDE PO files
-msgid "Play"
-msgstr "Wiedergabe"
-
-#. Occurs in 17 KDE PO files
-msgid "Reload"
-msgstr "Erneut laden"
-
-#. Occurs in 17 KDE PO files
-msgid "Start"
-msgstr "Start"
-
-#. Occurs in 17 KDE PO files
-msgid "Tags"
-msgstr "Stichwörter"
-
-#. Occurs in 17 KDE PO files
-msgid "Theme"
-msgstr "Design"
-
-#. Occurs in 17 KDE PO files
-msgid "To:"
-msgstr "Bis:"
-
-#. Occurs in 16 KDE PO files
-msgid "%1%"
-msgstr "%1 %"
-
-#. Occurs in 16 KDE PO files
-msgid "&New"
-msgstr "&Neu"
-
-#. Occurs in 16 KDE PO files
-msgid "Accept"
-msgstr "Annehmen"
-
-#. Occurs in 16 KDE PO files
-msgid "Background"
-msgstr "Hintergrund"
-
-#. Occurs in 16 KDE PO files
-msgid "Color:"
-msgstr "Farbe:"
-
-#. Occurs in 16 KDE PO files
-msgid "Command"
-msgstr "Befehl"
-
-#. Occurs in 16 KDE PO files
-msgid "Disabled"
-msgstr "Deaktiviert"
-
-#. Occurs in 16 KDE PO files
-msgid "Done"
-msgstr "Fertig"
-
-#. Occurs in 16 KDE PO files
-msgid "Fonts"
-msgstr "Schriftarten"
-
-#. Occurs in 16 KDE PO files
-msgid "From:"
-msgstr "Von:"
-
-#. Occurs in 16 KDE PO files
-msgid "Line"
-msgstr "Linie"
-
-#. Occurs in 16 KDE PO files
-msgid "Miscellaneous"
-msgstr "Verschiedenes"
-
-#. Occurs in 16 KDE PO files
-msgid "Network"
-msgstr "Netzwerk"
-
-#. Occurs in 16 KDE PO files
-msgid "Paste"
-msgstr "Einfügen"
-
-#. Occurs in 16 KDE PO files
-msgid "Pause"
-msgstr "Pause"
-
-#. Occurs in 16 KDE PO files
-msgid "Position"
-msgstr "Position"
-
-#. Occurs in 16 KDE PO files
-msgid "unknown"
-msgstr "unbekannt"
-
-#. Occurs in 16 KDE PO files
-msgctxt "@title:window"
-msgid "Configure"
-msgstr "Einrichten"
-
-#. Occurs in 15 KDE PO files
-msgid " ms"
-msgstr " ms"
-
-#. Occurs in 15 KDE PO files
-msgid "%1"
-msgstr "%1"
-
-#. Occurs in 15 KDE PO files
-msgid "Apply"
-msgstr "Anwenden"
-
-#. Occurs in 15 KDE PO files
-msgid "Auto"
-msgstr "Automatisch"
-
-#. Occurs in 15 KDE PO files
-msgid "Bottom"
-msgstr "Unten"
-
-#. Occurs in 15 KDE PO files
-msgid "Columns"
-msgstr "Spalten"
-
-#. Occurs in 15 KDE PO files
-msgid "Download"
-msgstr "Herunterladen"
-
-#. Occurs in 15 KDE PO files
-msgid "Editor"
-msgstr "Editor"
-
-#. Occurs in 15 KDE PO files
-msgid "Font:"
-msgstr "Schriftart:"
-
-#. Occurs in 15 KDE PO files
-msgid "Format"
-msgstr "Format"
-
-#. Occurs in 15 KDE PO files
-msgid "From"
-msgstr "Von"
-
-#. Occurs in 15 KDE PO files
-msgid "Language"
-msgstr "Sprache"
-
-#. Occurs in 15 KDE PO files
-msgid "Misc"
-msgstr "Verschiedenes"
-
-#. Occurs in 15 KDE PO files
-msgid "Open File"
-msgstr "Datei öffnen"
-
-#. Occurs in 15 KDE PO files
-msgid "Password"
-msgstr "Passwort"
-
-#. Occurs in 15 KDE PO files
-msgid "Ready"
-msgstr "Bereit"
-
-#. Occurs in 15 KDE PO files
-msgid "Reset"
-msgstr "Zurücksetzen"
-
-#. Occurs in 15 KDE PO files
-msgid "Subject"
-msgstr "Betreff"
-
-#. Occurs in 15 KDE PO files
-msgid "To"
-msgstr "An"
-
-#. Occurs in 15 KDE PO files
-msgid "Zoom"
-msgstr "Zoom"
-
-#. Occurs in 14 KDE PO files
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#. Occurs in 14 KDE PO files
-msgid "&Cancel"
-msgstr "&Abbrechen"
-
-#. Occurs in 14 KDE PO files
-msgid "Account:"
-msgstr "Zugang:"
-
-#. Occurs in 14 KDE PO files
-msgid "All Files"
-msgstr "Alle Dateien"
-
-#. Occurs in 14 KDE PO files
-msgid "Black"
-msgstr "Schwarz"
-
-#. Occurs in 14 KDE PO files
-msgid "Bold"
-msgstr "Fett"
-
-#. Occurs in 14 KDE PO files
-msgid "Continue"
-msgstr "Fortsetzen"
-
-#. Occurs in 14 KDE PO files
-msgid "Data"
-msgstr "Daten"
-
-#. Occurs in 14 KDE PO files
-msgid "Destination"
-msgstr "Ziel"
-
-#. Occurs in 14 KDE PO files
-msgid "Email:"
-msgstr "E-Mail:"
-
-#. Occurs in 14 KDE PO files
-msgid "Folder"
-msgstr "Ordner"
-
-#. Occurs in 14 KDE PO files
-msgid "Group"
-msgstr "Gruppe"
-
-#. Occurs in 14 KDE PO files
-msgid "Icon:"
-msgstr "Symbol:"
-
-#. Occurs in 14 KDE PO files
-msgid "Italic"
-msgstr "Kursiv"
-
-#. Occurs in 14 KDE PO files
-msgid "Layout"
-msgstr "Layout"
-
-#. Occurs in 14 KDE PO files
-msgid "Medium"
-msgstr "Mittel"
-
-#. Occurs in 14 KDE PO files
-msgid "Message"
-msgstr "Nachricht"
-
-#. Occurs in 14 KDE PO files
-msgid "Plugins"
-msgstr "Module"
-
-#. Occurs in 14 KDE PO files
-msgid "Previous"
-msgstr "Zurück"
-
-#. Occurs in 14 KDE PO files
-msgid "Red"
-msgstr "Rot"
-
-#. Occurs in 14 KDE PO files
-msgid "Save As..."
-msgstr "Speichern unter ..."
-
-#. Occurs in 14 KDE PO files
-msgid "Source"
-msgstr "Quelle"
-
-#. Occurs in 14 KDE PO files
-msgid "State"
-msgstr "Status"
-
-#. Occurs in 14 KDE PO files
-msgid "Unknown error"
-msgstr "Unbekannter Fehler"
-
-#. Occurs in 14 KDE PO files
-msgid "Up"
-msgstr "Nach oben"
-
-#. Occurs in 14 KDE PO files
-msgid "Width"
-msgstr "Breite"
-
-#. Occurs in 14 KDE PO files
-msgctxt "@title:column"
-msgid "Name"
-msgstr "Name"
-
-#. Occurs in 13 KDE PO files
-msgid "&Add..."
-msgstr "&Hinzufügen ..."
-
-#. Occurs in 13 KDE PO files
-msgid "&Save"
-msgstr "&Speichern"
-
-#. Occurs in 13 KDE PO files
-msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
-
-#. Occurs in 13 KDE PO files
-msgid "Applications"
-msgstr "Anwendungen"
-
-#. Occurs in 13 KDE PO files
-msgid "Back"
-msgstr "Zurück"
-
-#. Occurs in 13 KDE PO files
-msgid "Behavior"
-msgstr "Verhalten"
-
-#. Occurs in 13 KDE PO files
-msgid "Case sensitive"
-msgstr "Groß-/Kleinschreibung beachten"
-
-#. Occurs in 13 KDE PO files
-msgid "Copy to Clipboard"
-msgstr "In die Zwischenablage kopieren"
-
-#. Occurs in 13 KDE PO files
-msgid "Current maintainer"
-msgstr "Aktueller Betreuer"
-
-#. Occurs in 13 KDE PO files
-msgid "Debug"
-msgstr "Debug"
-
-#. Occurs in 13 KDE PO files
-msgid "Format:"
-msgstr "Format:"
-
-#. Occurs in 13 KDE PO files
-msgid "Length"
-msgstr "Länge"
-
-#. Occurs in 13 KDE PO files
-msgid "Manual"
-msgstr "Manuell"
-
-#. Occurs in 13 KDE PO files
-msgid "Mode"
-msgstr "Modus"
-
-#. Occurs in 13 KDE PO files
-msgid "Output"
-msgstr "Ausgabe"
-
-#. Occurs in 13 KDE PO files
-msgid "Path:"
-msgstr "Pfad:"
-
-#. Occurs in 13 KDE PO files
-msgid "Position:"
-msgstr "Position:"
-
-#. Occurs in 13 KDE PO files
-msgid "Selection"
-msgstr "Auswahl"
-
-#. Occurs in 13 KDE PO files
-msgid "Share"
-msgstr "Teilen"
-
-#. Occurs in 13 KDE PO files
-msgid "Style"
-msgstr "Stil"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom In"
-msgstr "Vergrößern"
-
-#. Occurs in 13 KDE PO files
-msgid "Zoom Out"
-msgstr "Verkleinern"
-
-#. Occurs in 12 KDE PO files
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#. Occurs in 12 KDE PO files
-msgid "&Game"
-msgstr "&Spiel"
-
-#. Occurs in 12 KDE PO files
-msgid "&Import"
-msgstr "&Importieren"
-
-#. Occurs in 12 KDE PO files
-msgid "&Search"
-msgstr "&Suchen"
-
-#. Occurs in 12 KDE PO files
-msgid "All Files (*)"
-msgstr "Alle Dateien (*)"
-
-#. Occurs in 12 KDE PO files
-msgid "Blue"
-msgstr "Blau"
-
-#. Occurs in 12 KDE PO files
-msgid "Color"
-msgstr "Farbe"
-
-#. Occurs in 12 KDE PO files
-msgid "Connect"
-msgstr "Verbinden"
-
-#. Occurs in 12 KDE PO files
-msgid "Country"
-msgstr "Land"
-
-#. Occurs in 12 KDE PO files
-msgid "Documentation"
-msgstr "Dokumentation"
-
-#. Occurs in 12 KDE PO files
-msgid "Down"
-msgstr "Nach unten"
-
-#. Occurs in 12 KDE PO files
-msgid "Email"
-msgstr "E-Mail"
-
-#. Occurs in 12 KDE PO files
-msgid "File Name"
-msgstr "Dateiname"
-
-#. Occurs in 12 KDE PO files
-msgid "Folders"
-msgstr "Ordner"
-
-#. Occurs in 12 KDE PO files
-msgid "Green"
-msgstr "Grün"
-
-#. Occurs in 12 KDE PO files
-msgid "Images"
-msgstr "Bilder"
-
-#. Occurs in 12 KDE PO files
-msgid "Label"
-msgstr "Bezeichnung"
-
-#. Occurs in 12 KDE PO files
-msgid "Low"
-msgstr "Niedrig"
-
-#. Occurs in 12 KDE PO files
-msgid "Month"
-msgstr "Monat"
-
-#. Occurs in 12 KDE PO files
-msgid "Mute"
-msgstr "Stummschalten"
-
-#. Occurs in 12 KDE PO files
-msgid "Quit"
-msgstr "Beenden"
-
-#. Occurs in 12 KDE PO files
-msgid "Search…"
-msgstr "Suchen ..."
-
-#. Occurs in 12 KDE PO files
-msgid "Status:"
-msgstr "Status:"
-
-#. Occurs in 12 KDE PO files
-msgid "Table"
-msgstr "Tabelle"
-
-#. Occurs in 12 KDE PO files
-msgid "Tag"
-msgstr "Stichwort"
-
-#. Occurs in 12 KDE PO files
-msgid "TextLabel"
-msgstr "Textfeld"
-
-#. Occurs in 12 KDE PO files
-msgid "Year"
-msgstr "Jahr"
-
-#. Occurs in 12 KDE PO files
-msgid "no"
-msgstr "Nein"
-
-#. Occurs in 12 KDE PO files
-msgid "yes"
-msgstr "Ja"
-
-#. Occurs in 11 KDE PO files
-msgid " px"
-msgstr " px"
-
-#. Occurs in 11 KDE PO files
-msgid "&Bookmarks"
-msgstr "&Lesezeichen"
-
-#. Occurs in 11 KDE PO files
-msgid "&General"
-msgstr "&Allgemein"
-
-#. Occurs in 11 KDE PO files
-msgid "&New..."
-msgstr "&Neu ..."
-
-#. Occurs in 11 KDE PO files
-msgid "&Open"
-msgstr "Öff&nen"
-
-#. Occurs in 11 KDE PO files
-msgid "&Stop"
-msgstr "&Stopp"
-
-#. Occurs in 11 KDE PO files
-msgid "2"
-msgstr "2"
-
-#. Occurs in 11 KDE PO files
-msgid "Account"
-msgstr "Zugang"
-
-#. Occurs in 11 KDE PO files
-msgid "Account Preferences"
-msgstr "Zugangseinstellungen"
-
-#. Occurs in 11 KDE PO files
-msgid "Action"
-msgstr "Aktion"
-
-#. Occurs in 11 KDE PO files
-msgid "Background Color"
-msgstr "Hintergrundfarbe"
-
-#. Occurs in 11 KDE PO files
-msgid "Categories"
-msgstr "Kategorien"
-
-#. Occurs in 11 KDE PO files
-msgid "Category"
-msgstr "Kategorie"
-
-#. Occurs in 11 KDE PO files
-msgid "Category:"
-msgstr "Kategorie:"
-
-#. Occurs in 11 KDE PO files
-msgid "Collapse All"
-msgstr "Alle einklappen"
-
-#. Occurs in 11 KDE PO files
-msgid "Cut"
-msgstr "Ausschneiden"
-
-#. Occurs in 11 KDE PO files
-msgid "Do not change the actual backend data."
-msgstr "Die eigentlichen Daten des Backends nicht ändern."
-
-#. Occurs in 11 KDE PO files
-msgid "Expand All"
-msgstr "Alle aufklappen"
-
-#. Occurs in 11 KDE PO files
-msgid "Filename"
-msgstr "Dateiname"
-
-#. Occurs in 11 KDE PO files
-msgid "Filter..."
-msgstr "Filter ..."
-
-#. Occurs in 11 KDE PO files
-msgid "Filter:"
-msgstr "Filter:"
-
-#. Occurs in 11 KDE PO files
-msgid "Gateway:"
-msgstr "Gateway:"
-
-#. Occurs in 11 KDE PO files
-msgid "Geometry"
-msgstr "Geometrie"
-
-#. Occurs in 11 KDE PO files
-msgid "Harald Sitter"
-msgstr "Harald Sitter"
-
-#. Occurs in 11 KDE PO files
-msgid "Height"
-msgstr "Höhe"
-
-#. Occurs in 11 KDE PO files
-msgid "Home"
-msgstr "Startseite"
-
-#. Occurs in 11 KDE PO files
-msgid "Icons"
-msgstr "Symbole"
-
-#. Occurs in 11 KDE PO files
-msgid "Key"
-msgstr "Schlüssel"
-
-#. Occurs in 11 KDE PO files
-msgid "Lines"
-msgstr "Linien"
-
-#. Occurs in 11 KDE PO files
-msgid "List"
-msgstr "Liste"
-
-#. Occurs in 11 KDE PO files
-msgid "Loading..."
-msgstr "Wird geladen ..."
-
-#. Occurs in 11 KDE PO files
-msgid "Months"
-msgstr "Monate"
-
-#. Occurs in 11 KDE PO files
-msgid "Move"
-msgstr "Verschieben"
-
-#. Occurs in 11 KDE PO files
-msgid "Nickname:"
-msgstr "Spitzname:"
-
-#. Occurs in 11 KDE PO files
-msgid "Note"
-msgstr "Notiz"
-
-#. Occurs in 11 KDE PO files
-msgid "Open Containing Folder"
-msgstr "Ordner mit diesem Inhalt öffnen"
-
-#. Occurs in 11 KDE PO files
-msgid "Overwrite File?"
-msgstr "Datei überschreiben?"
-
-#. Occurs in 11 KDE PO files
-msgid "Restart"
-msgstr "Neu starten"
-
-#. Occurs in 11 KDE PO files
-msgid "Run"
-msgstr "Ausführen"
-
-#. Occurs in 11 KDE PO files
-msgid "Search:"
-msgstr "Suchen:"
-
-#. Occurs in 11 KDE PO files
-msgid "Send"
-msgstr "Senden"
-
-#. Occurs in 11 KDE PO files
-msgid "Server:"
-msgstr "Server:"
-
-#. Occurs in 11 KDE PO files
-msgid "Speed"
-msgstr "Geschwindigkeit"
-
-#. Occurs in 11 KDE PO files
-msgid "URL"
-msgstr "Adresse"
-
-#. Occurs in 11 KDE PO files
-msgid "URL:"
-msgstr "Adresse (URL):"
-
-#. Occurs in 11 KDE PO files
-msgid "User:"
-msgstr "Benutzer:"
-
-#. Occurs in 11 KDE PO files
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#. Occurs in 11 KDE PO files
-msgid "minutes"
-msgstr "Minuten"
-
-#. Occurs in 11 KDE PO files
-msgctxt "@title:window"
-msgid "Error"
-msgstr "Fehler"
-
-#. Occurs in 10 KDE PO files
-msgid "&Copy"
-msgstr "&Kopieren"
-
-#. Occurs in 10 KDE PO files
 msgid ">"
 msgstr ">"
 
-#. Occurs in 10 KDE PO files
+msgid "?"
+msgstr "?"
+
+msgid "°"
+msgstr "°"
+
+msgid "×"
+msgstr "×"
+
+msgid "..."
+msgstr "..."
+
+msgid "???"
+msgstr "???"
+
+msgid " "
+msgstr " "
+
+msgid " %"
+msgstr " %"
+
+msgid ", "
+msgstr ", "
+
+msgid " - "
+msgstr " - "
+
+msgid " – "
+msgstr " – "
+
+msgid "    "
+msgstr "    "
+
+msgid " and "
+msgstr " und "
+
+msgid " (default)"
+msgstr " (Standard)"
+
+msgid "© KDE Community"
+msgstr "© KDE-Gemeinschaft"
+
+msgid " MB"
+msgstr " MB"
+
+msgid " MiB"
+msgstr " MiB"
+
+msgid " min"
+msgstr " min"
+
+msgid " minutes"
+msgstr " Minuten"
+
+msgid " ms"
+msgstr " ms"
+
+msgid " px"
+msgstr " px"
+
+msgid " s"
+msgstr " s"
+
+msgid " sec"
+msgstr " Sek."
+
+msgid " seconds"
+msgstr " Sekunden"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0 %"
+
+msgid "1"
+msgstr "1"
+
+msgid "%1"
+msgstr "%1"
+
+msgid "%1%"
+msgstr "%1 %"
+
+msgid "%1:"
+msgstr "%1:"
+
+msgid "%1°"
+msgstr "%1°"
+
+msgid "%1 %"
+msgstr "%1 %"
+
+msgid "%1 - %2"
+msgstr "%1 – %2"
+
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+msgid "%1 %2"
+msgstr "%1 %2"
+
+msgid "%1, %2"
+msgstr "%1, %2"
+
+msgid "%1: %2"
+msgstr "%1: %2"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "%1 (%2%)"
+msgstr "%1 (%2 %)"
+
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+msgid "%1, %2, %3"
+msgstr "%1, %2, %3"
+
+msgid "%1 and %2"
+msgstr "%1 und %2"
+
+msgid "%1 bytes"
+msgstr "%1 Bytes"
+
+msgid "1 day"
+msgstr "1 Tag"
+
+msgid "%1 does not exist"
+msgstr "%1 existiert nicht"
+
+msgid "%1 free"
+msgstr "%1 frei"
+
+msgid "1 hour"
+msgstr "1 Stunde"
+
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgid "%1 ms"
+msgstr "%1 ms"
+
+msgid "%1 of %2"
+msgstr "%1 von %2"
+
+msgid "%1 on %2"
+msgstr "%1 auf %2"
+
+msgid "%1 s"
+msgstr "%1 s"
+
+msgid "%1 seconds"
+msgstr "%1 Sekunden"
+
+msgid "%1 to %2"
+msgstr "%1 nach %2"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 minutes"
+msgstr "10 Minuten"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100 %"
+
+msgid "11"
+msgstr "11"
+
+msgid "12"
+msgstr "12"
+
+msgid "%1/%2"
+msgstr "%1/%2"
+
+msgid "%1:%2"
+msgstr "%1:%2"
+
+msgid "128 bit"
+msgstr "128-Bit"
+
+msgid "14"
+msgstr "14"
+
+msgid "15 minutes"
+msgstr "15 Minuten"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16"
+msgstr "16"
+
+msgid "%1m"
+msgstr "%1 m"
+
+msgid "%1/s"
+msgstr "%1/s"
+
+msgid "1st"
+msgstr "1."
+
+msgid "%1x%2"
+msgstr "%1x%2"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "25%"
+msgstr "25 %"
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3"
+msgstr "3"
+
+msgid "30 minutes"
+msgstr "30 Minuten"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4"
+msgstr "4"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "4th"
+msgstr "4."
+
+msgid "5"
+msgstr "5"
+
+msgid "5 minutes"
+msgstr "5 Minuten"
+
+msgid "50%"
+msgstr "50 %"
+
+msgid "5th"
+msgstr "5."
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "75%"
+msgstr "75 %"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "A"
+msgstr "A"
+
+msgid "a"
+msgstr "a"
+
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"Eine Datei mit dem Namen „%1“ existiert bereits. Möchten Sie diese "
+"überschreiben?"
+
+msgid "A4"
+msgstr "A4"
+
 msgid "Abort"
 msgstr "Abbrechen"
 
-#. Occurs in 10 KDE PO files
-msgid "Advanced Options"
-msgstr "Erweiterte Einstellungen"
-
-#. Occurs in 10 KDE PO files
-msgid "Album"
-msgstr "Album"
-
-#. Occurs in 10 KDE PO files
-msgid "Anne-Marie Mahfouf"
-msgstr "Anne-Marie Mahfouf"
-
-#. Occurs in 10 KDE PO files
-msgid "Benjamin Meyer"
-msgstr "Benjamin Meyer"
-
-#. Occurs in 10 KDE PO files
-msgid "C&ancel"
+msgid "&Abort"
 msgstr "&Abbrechen"
 
-#. Occurs in 10 KDE PO files
-msgid "Clear History"
-msgstr "Verlauf leeren"
+msgid "Aborted"
+msgstr "Abgebrochen"
 
-#. Occurs in 10 KDE PO files
-msgid "Compression"
-msgstr "Komprimierung"
+msgid "About"
+msgstr "Über"
 
-#. Occurs in 10 KDE PO files
-msgid "Contacts"
-msgstr "Kontakte"
+msgid "&About"
+msgstr "Ü&ber"
 
-#. Occurs in 10 KDE PO files
-msgid "Copyright"
-msgstr "Copyright"
+msgid "_About"
+msgstr "_Info"
 
-#. Occurs in 10 KDE PO files
-msgid "Device:"
-msgstr "Gerät:"
+msgid "About %1"
+msgstr "Über %1"
 
-#. Occurs in 10 KDE PO files
-msgid "Disconnect"
-msgstr "Verbindung trennen"
+msgid "About KDE"
+msgstr "Über KDE"
 
-#. Occurs in 10 KDE PO files
-msgid "Duration"
-msgstr "Dauer"
+msgid "Abstract"
+msgstr "Abstrakt"
 
-#. Occurs in 10 KDE PO files
-msgid "Error: %1"
-msgstr "Fehler: %1"
+msgid "Accept"
+msgstr "Annehmen"
 
-#. Occurs in 10 KDE PO files
-msgid "Eugene Trounev"
-msgstr "Eugene Trounev"
+msgid "Accepted"
+msgstr "Angenommen"
 
-#. Occurs in 10 KDE PO files
-msgid "File:"
-msgstr "Datei:"
+msgid "Accessed"
+msgstr "Letzter Zugriff"
 
-#. Occurs in 10 KDE PO files
-msgid "Files"
-msgstr "Dateien"
+msgid "Accessibility"
+msgstr "Zugangshilfen"
 
-#. Occurs in 10 KDE PO files
-msgid "Find"
-msgstr "Suchen"
+msgid "Account"
+msgstr "Konto"
 
-#. Occurs in 10 KDE PO files
-msgid "Function"
-msgstr "Funktion"
+msgid "Account Details"
+msgstr "Kontodetails"
 
-#. Occurs in 10 KDE PO files
-msgid "Group:"
-msgstr "Gruppe:"
+msgid "Account Information"
+msgstr "Informationen zum Postfach"
 
-#. Occurs in 10 KDE PO files
-msgid "Hide menu bar"
-msgstr "Menüleiste ausblenden"
+msgid "Account Name"
+msgstr "Kontoname"
 
-#. Occurs in 10 KDE PO files
-msgid "High"
-msgstr "Hoch"
+msgid "Accounts"
+msgstr "Konten"
 
-#. Occurs in 10 KDE PO files
-msgid "History"
-msgstr "Verlauf"
+msgid "Accuracy"
+msgstr "Genauigkeit"
 
-#. Occurs in 10 KDE PO files
-msgid "Inge Wallin"
-msgstr "Inge Wallin"
+msgid "Action"
+msgstr "Aktion"
 
-#. Occurs in 10 KDE PO files
-msgid "Move &Up"
-msgstr "Nach &oben"
+msgid "Actions"
+msgstr "Aktionen"
 
-#. Occurs in 10 KDE PO files
-msgid "Notifications"
-msgstr "Benachrichtigungen"
+msgid "Activate"
+msgstr "Aktivieren"
 
-#. Occurs in 10 KDE PO files
-msgid "Organization"
-msgstr "Organisation"
+msgid "Active"
+msgstr "Aktiv"
 
-#. Occurs in 10 KDE PO files
-msgid "Path"
-msgstr "Pfad"
+msgid "Activities"
+msgstr "Aktivitäten"
 
-#. Occurs in 10 KDE PO files
-msgid "Port"
-msgstr "Port"
+msgid "Activity"
+msgstr "Aktivität"
 
-#. Occurs in 10 KDE PO files
-msgid "Priority"
-msgstr "Priorität"
+msgid "Adaptive"
+msgstr "Adaptiv"
 
-#. Occurs in 10 KDE PO files
-msgid "Priority:"
-msgstr "Priorität:"
-
-#. Occurs in 10 KDE PO files
-msgid "Project"
-msgstr "Projekt"
-
-#. Occurs in 10 KDE PO files
-msgid "Remove Group"
-msgstr "Gruppe entfernen"
-
-#. Occurs in 10 KDE PO files
-msgid "Space"
-msgstr "Leerzeichen"
-
-#. Occurs in 10 KDE PO files
-msgid "Today"
-msgstr "Heute"
-
-#. Occurs in 10 KDE PO files
-msgid "Value:"
-msgstr "Wert:"
-
-#. Occurs in 10 KDE PO files
-msgid "Version"
-msgstr "Version"
-
-#. Occurs in 10 KDE PO files
-msgid "Version:"
-msgstr "Version:"
-
-#. Occurs in 10 KDE PO files
-msgid "Video"
-msgstr "Video"
-
-#. Occurs in 10 KDE PO files
-msgid "Years"
-msgstr "Jahre"
-
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
 msgid "Add"
 msgstr "Hinzufügen"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:button"
+msgid "&Add"
+msgstr "&Hinzufügen"
+
+msgid "_Add"
+msgstr "_Hinzufügen"
+
+msgid "Add..."
+msgstr "Hinzufügen ..."
+
+msgid "&Add..."
+msgstr "&Hinzufügen ..."
+
+msgid "A&dd..."
+msgstr "&Hinzufügen …"
+
+msgid "Add Account"
+msgstr "Konto hinzufügen"
+
+msgid "Add Bookmark"
+msgstr "Lesezeichen hinzufügen"
+
+msgid "_Add Bookmark"
+msgstr ""
+
+msgid "Add Filter"
+msgstr "Filter hinzufügen"
+
+msgid "Add Folder"
+msgstr "Ordner hinzufügen"
+
+msgid "Add Folder..."
+msgstr "Ordner hinzufügen …"
+
+msgid "Add Group"
+msgstr "Gruppe hinzufügen"
+
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+msgid "Add Rule..."
+msgstr "Regel hinzufügen …"
+
+msgid "Add Tag"
+msgstr "Stichwort hinzufügen"
+
+msgid "Add tag"
+msgstr "Stichwort hinzufügen"
+
+msgid "Add to Dictionary"
+msgstr "Zum Wörterbuch hinzufügen"
+
+msgid "Add to Favorites"
+msgstr "Zu Favoriten hinzufügen"
+
+msgid "Added"
+msgstr "Hinzugefügt"
+
+msgid "Addition"
+msgstr "Addition"
+
+msgid "Additional Information"
+msgstr "Zusätzliche Informationen"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address Book"
+msgstr "Adressbuch"
+
+msgid "Addresses"
+msgstr "Adressen"
+
+msgid "Adjust"
+msgstr "Anpassen"
+
+msgid "Advanced"
+msgstr "Erweitert"
+
+msgid "Advanced..."
+msgstr "Erweitert …"
+
+msgid "Ad_vanced..."
+msgstr "Er_weitert …"
+
+msgid "Advanced options"
+msgstr "Erweiterte Einstellungen"
+
+msgid "Advanced Properties"
+msgstr "Erweiterte Eigenschaften"
+
+msgid "Advanced Settings"
+msgstr "Erweiterte Einstellungen"
+
+msgid "Adwaita"
+msgstr "Adwaita"
+
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "After"
+msgstr "Nach"
+
+msgid "Agenda"
+msgstr "Agenda"
+
+msgid "Alarm"
+msgstr "Erinnerung"
+
+msgid "Alarms"
+msgstr "Erinnerungen"
+
+msgid "Albania"
+msgstr "Albanien"
+
+msgid "Albanian"
+msgstr "Albanisch"
+
+msgid "Albert Vaca Cintora"
+msgstr "Albert Vaca Cintora"
+
+msgid "Album"
+msgstr "Album"
+
+msgid "Album Artist"
+msgstr "Album-Interpret"
+
+msgid "Albums"
+msgstr "Alben"
+
+msgid "Alert"
+msgstr "Alarm"
+
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+msgid "Algeria"
+msgstr "Algerien"
+
+msgid "Algorithm"
+msgstr "Algorithmus"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "Aliases"
+msgstr "Aliase"
+
+msgid "Align"
+msgstr "Ausrichten"
+
+msgid "Align Bottom"
+msgstr "Unten ausrichten"
+
+msgid "Align Center"
+msgstr "Zentriert"
+
+msgid "Align Left"
+msgstr "Linksbündig"
+
+msgid "Align left"
+msgstr "Linksbündig"
+
+msgid "Align Right"
+msgstr "Rechtsbündig"
+
+msgid "Align right"
+msgstr "Rechtsbündig"
+
+msgid "Align Top"
+msgstr "Oben ausrichten"
+
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "all"
+msgstr "alle"
+
+msgid "_All"
+msgstr "_Alles"
+
+msgid "All Files"
+msgstr "Alle Dateien"
+
+msgid "All files"
+msgstr "Alle Dateien"
+
+msgid "All Files (*)"
+msgstr "Alle Dateien (*)"
+
+msgid "All files (*)"
+msgstr "Alle Dateien (*)"
+
+msgid "All Supported Files"
+msgstr "Alle unterstützten Dateien"
+
+msgid "Allen Winter"
+msgstr "Allen Winter"
+
+msgid "Allow"
+msgstr "Zulassen"
+
+msgid "Allow Deflate compression"
+msgstr "Deflate-Komprimierung zulassen"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Alphabetically"
+msgstr "Alphabetisch"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative"
+msgstr "Alternativ"
+
+msgid "Always"
+msgstr "Immer"
+
+msgid "Always ask"
+msgstr "Immer nachfragen"
+
+msgid "Always visible"
+msgstr "Immer sichtbar"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Ambient"
+msgstr "Ambient"
+
+msgid "Amount"
+msgstr "Betrag"
+
+msgid "An error occurred"
+msgstr "Es ist ein Fehler aufgetreten"
+
+msgid "An unknown error occurred."
+msgstr "Es ist ein unbekannter Fehler aufgetreten."
+
+msgid "Analysis"
+msgstr "Analyse"
+
+msgid "Anchor"
+msgstr "Anker"
+
+msgid "AND"
+msgstr "UND"
+
+msgid "and"
+msgstr "und"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+msgid "Angle"
+msgstr "Winkel"
+
+msgid "angle"
+msgstr "Winkel"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animation"
+msgstr "Animation"
+
+msgid "Animations"
+msgstr "Animationen"
+
+msgid "Anniversary"
+msgstr "Jahrestag"
+
+msgid "Annotate"
+msgstr "Anmerkungen"
+
+msgid "Annotation"
+msgstr "Anmerkung"
+
+msgid "Annotations"
+msgstr "Anmerkungen"
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Antarctica"
+msgstr "Antarktis"
+
+msgid "Any"
+msgstr "Beliebig"
+
+msgid "Aperture"
+msgstr "Blende"
+
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+msgid "Append"
+msgstr "Anhängen"
+
+msgid "AppImage"
+msgstr "AppImage"
+
+msgid "Application"
+msgstr "Anwendung"
+
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+msgid "Application Menu"
+msgstr "Anwendungsmenü"
+
+msgid "Applications"
+msgstr "Anwendungen"
+
+msgid "Apply"
+msgstr "Anwenden"
+
+msgid "&Apply"
+msgstr "An&wenden"
+
+msgid "_Apply"
+msgstr "_Anwenden"
+
+msgid "Apply Settings"
+msgstr "Einstellungen anwenden"
+
+msgid "April"
+msgstr "April"
+
+msgid "Arabic"
+msgstr "Arabisch"
+
+msgid "Archive"
+msgstr "Archiv"
+
+msgid "Archives"
+msgstr "Archive"
+
+msgid "Area"
+msgstr "Fläche"
+
+msgid "Argentina"
+msgstr "Argentinien"
+
+msgid "Arguments"
+msgstr "Argumente"
+
+msgid "Armenia"
+msgstr "Armenien"
+
+msgid "Armenian"
+msgstr "Armenisch"
+
+msgid "Arrow"
+msgstr "Pfeil"
+
+msgid "Arrows"
+msgstr "Pfeile"
+
+msgid "Articles"
+msgstr "Artikel"
+
+msgid "Artist"
+msgstr "Interpret"
+
+msgid "Artists"
+msgstr "Interpreten"
+
+msgid "Artwork"
+msgstr "Grafikdesign"
+
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+msgid "Asia"
+msgstr "Asien"
+
+msgid "Ask"
+msgstr "Nachfragen"
+
+msgid "Aspect Ratio"
+msgstr "Seitenverhältnis"
+
+msgid "Aspect ratio"
+msgstr "Seitenverhältnis"
+
+msgid "Assamese"
+msgstr "Assamesisch"
+
+msgid "Assign Tags"
+msgstr "Stichwörter zuweisen"
+
+msgid "Assistant"
+msgstr "Assistent"
+
+msgid "ATM"
+msgstr "Geldautomat"
+
+msgid "Attach"
+msgstr "Anhängen"
+
+msgid "Attach File"
+msgstr "Datei anhängen"
+
+msgid "Attachment"
+msgstr "Anhang"
+
+msgid "Attachments"
+msgstr "Anhänge"
+
+msgid "Attendees"
+msgstr "Teilnehmer"
+
+msgid "Attribute"
+msgstr "Attribut"
+
+msgid "Attributes"
+msgstr "Attribute"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Audio CD"
+msgstr "Audio-CD"
+
+msgid "Audio Codec"
+msgstr "Audio-Codec"
+
+msgid "Audio files"
+msgstr "Audio-Dateien"
+
+msgid "August"
+msgstr "August"
+
+msgid "Australia"
+msgstr "Australien"
+
+msgid "Austria"
+msgstr "Österreich"
+
+msgid "Authenticate"
+msgstr "Authentifizieren"
+
+msgid "Authenticate VPN"
+msgstr "VPN legitimieren"
+
+msgid "Authentication"
+msgstr "Authentifizierung"
+
+msgid "Authentication Required"
+msgstr "Authentifizierung erforderlich"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Authors"
+msgstr "Autoren"
+
+msgid "Auto"
+msgstr "Automatisch"
+
+msgid "auto"
+msgstr "Automatisch"
+
+msgid "Auto Detect"
+msgstr "Automatisch erkennen"
+
+msgid "Auto Save"
+msgstr "Automatisch speichern"
+
+msgid "Autodetect"
+msgstr "Automatisch erkennen"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Autosave interval"
+msgstr "Intervall für automatisches Speichern"
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "A&vailable actions"
+msgstr "Ver&fügbare Aktionen"
+
+msgid "Average"
+msgstr "Durchschnitt"
+
+msgid "Axes"
+msgstr "Achsen"
+
+msgid "Azerbaijan"
+msgstr "Aserbaidschan"
+
+msgid "Azerbaijani"
+msgstr "Aserbaidschanisch"
+
+msgid "B"
+msgstr "B"
+
+msgid "<b>%1</b>"
+msgstr "<b>%1</b>"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "&Back"
+msgstr "&Zurück"
+
+msgid "_Back"
+msgstr "_Zurück"
+
+msgid "Background"
+msgstr "Hintergrund"
+
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+msgid "&Background color"
+msgstr "&Hintergrundfarbe"
+
+msgid "Backspace"
+msgstr "Rücktaste"
+
+msgid "Backup"
+msgstr "Sicherung"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Bahrain"
+msgstr "Bahrain"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Balanced"
+msgstr "Ausgeglichen"
+
+msgid "Baltic"
+msgstr "Baltisch"
+
+msgid "Bangladesh"
+msgstr "Bangladesch"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Base"
+msgstr "Basis"
+
+msgid "Basic"
+msgstr "Einfach"
+
+msgid "Basque"
+msgstr "Baskisch"
+
+msgid "Bass"
+msgstr "Bass"
+
+msgid "Battery"
+msgstr "Akku"
+
+msgid "Bcc"
+msgstr "Blindkopie"
+
+msgid "Before"
+msgstr "Vor"
+
+msgid "Behavior"
+msgstr "Verhalten"
+
+msgid "Belarus"
+msgstr "Weißrussland"
+
+msgid "Belarusian"
+msgstr "Weißrussisch"
+
+msgid "Belgium"
+msgstr "Belgien"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Bengali"
+msgstr "Bengalisch"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Best"
+msgstr "Beste"
+
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgid "Bibliography"
+msgstr "Literaturverzeichnis"
+
+msgid "Binary"
+msgstr "Binär"
+
+msgid "Birthday"
+msgstr "Geburtstag"
+
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgid "Black"
+msgstr "Schwarz"
+
+msgid "black"
+msgstr "Schwarz"
+
+msgid "Blend"
+msgstr "Mischen"
+
+msgid "Block"
+msgstr "Block"
+
+msgid "Block Elements"
+msgstr "Elemente für Blockgrafik"
+
+msgid "Blocked"
+msgstr "Blockiert"
+
+msgid "Blue"
+msgstr "Blau"
+
+msgid "Blues"
+msgstr "Blues"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Blur"
+msgstr "Weichzeichnen"
+
+msgid "<b>Name:</b>"
+msgstr "<b>Name:</b>"
+
+msgid "Body"
+msgstr "Nachrichtentext"
+
+msgid "Bold"
+msgstr "Fett"
+
+msgid "&Bold"
+msgstr "&Fett"
+
+msgid "_Bold"
+msgstr "_Fett"
+
+msgid "Bold text"
+msgstr "Fetter Text"
+
+msgid "Bolivia"
+msgstr "Bolivien"
+
+msgid "Book"
+msgstr "Buch"
+
+msgid "Bookmark"
+msgstr "Lesezeichen"
+
+msgid "Bookmarks"
+msgstr "Lesezeichen"
+
+msgid "&Bookmarks"
+msgstr "&Lesezeichen"
+
+msgid "_Bookmarks"
+msgstr "_Lesezeichen"
+
+msgid "Boolean"
+msgstr "Boolesch"
+
+msgid "Border"
+msgstr "Grenze"
+
+msgid "Bosnian"
+msgstr "Bosnisch"
+
+msgid "Both"
+msgstr "Beide"
+
+msgid "Botswana"
+msgstr "Botsuana"
+
+msgid "Bottom"
+msgstr "Unten"
+
+msgid "_Bottom"
+msgstr "_Unten"
+
+msgid "Bottom Left"
+msgstr "Unten links"
+
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+msgid "Bottom-left"
+msgstr "Unten links"
+
+msgid "Bottom-right"
+msgstr "Unten rechts"
+
+msgid "Box"
+msgstr "Rechteck"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "Branch"
+msgstr "Zweig"
+
+msgid "Brazil"
+msgstr "Brasilien"
+
+msgid "Breeze"
+msgstr "Breeze"
+
+msgid "Breeze by the KDE VDG"
+msgstr "Breeze von der KDE VDG"
+
+msgid "Breeze Dark"
+msgstr "Breeze Dunkel"
+
+msgid "Breeze Dark by the KDE VDG"
+msgstr "Breeze Dunkel von der KDE VDG"
+
+msgid "Breton"
+msgstr "Bretonisch"
+
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+msgid "Bridge"
+msgstr "Brücke"
+
+msgid "Brightness"
+msgstr "Helligkeit"
+
+msgid "Broken"
+msgstr "Defekt"
+
+msgid "Browse"
+msgstr "Durchsuchen"
+
+msgid "Browse..."
+msgstr "Durchsuchen ..."
+
+msgid "_Browse..."
+msgstr "_Auswählen …"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Buffer"
+msgstr "Puffer"
+
+msgid "Bug fixes"
+msgstr "Fehlerbereinigungen"
+
+msgid "Build"
+msgstr "Erstellen"
+
+msgid "Built-in Screen"
+msgstr "Integrierter Bildschirm"
+
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+msgid "Bulgarian"
+msgstr "Bulgarisch"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burn"
+msgstr "Nachbelichten"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Bus"
+msgstr "Bus"
+
+msgid "Busy"
+msgstr "Beschäftigt"
+
+msgid "Butt"
+msgstr "Stumpfes Ende"
+
+msgid "Button"
+msgstr "Knopf"
+
+msgid "Buttons"
+msgstr "Knöpfe"
+
+msgid "by"
+msgstr "von"
+
+msgid "By %1"
+msgstr "Von %1"
+
+msgid "By extension"
+msgstr "Nach Erweiterung"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "bytes"
+msgstr "Bytes"
+
+msgid "C"
+msgstr "C"
+
+msgid "CA Certificate"
+msgstr "CA-Zertifikat"
+
+msgid "Cache"
+msgstr "Zwischenspeicher"
+
+msgid "Calculate"
+msgstr "Berechnen"
+
+msgid "Calculating..."
+msgstr "Berechnung läuft …"
+
+msgid "Calculator"
+msgstr "Rechner"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Calendars"
+msgstr "Kalender"
+
+msgid "Call"
+msgstr "Anruf"
+
+msgid "Calls"
+msgstr "Aufrufe"
+
+msgid "Cambodia"
+msgstr "Kambodscha"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "Cameroon"
+msgstr "Kamerun"
+
+msgid "Canada"
+msgstr "Kanada"
+
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@action:inmenu"
+msgid "&Cancel"
+msgstr "&Abbrechen"
+
+msgid "_Cancel"
+msgstr "A_bbrechen"
+
+msgid "C&ancel"
+msgstr "&Abbrechen"
+
+msgid "Canceled"
+msgstr "Abgebrochen"
+
+msgid "Cancelled"
+msgstr "Abgebrochen"
+
+msgid "cannot load editor plugin: %s"
+msgstr "Editor-Erweiterung kann nicht geladen werden: %s"
+
+msgid "cannot load factory %s from plugin: %s"
+msgstr "Factory %s kann nicht aus Erweiterung geladen werden: %s"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+msgid "Canvas"
+msgstr "Leinwand"
+
+msgid "Capabilities"
+msgstr "Fähigkeiten"
+
+msgid "Capacity"
+msgstr "Kapazität"
+
+msgid "Cape Verde"
+msgstr "Kap Verde"
+
+msgid "Capitalize"
+msgstr "Großschreibung am Wortanfang"
+
+msgid "Caps Lock is on"
+msgstr "Feststelltaste ist aktiviert"
+
+msgid "Capture"
+msgstr "Aufnahme"
+
+msgid "Car"
+msgstr "Auto"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Cascade"
+msgstr "Gestaffelt"
+
+msgid "Case Sensitive"
+msgstr "Groß-/Kleinschreibung beachten"
+
+msgid "Case sensitive"
+msgstr "Groß-/Kleinschreibung beachten"
+
+msgid "Castle"
+msgstr "Burg"
+
+msgid "Catalan"
+msgstr "Katalanisch"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "CC"
+msgstr "Kopie"
+
+msgid "Cc"
+msgstr "Kopie"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "CDDB"
+msgstr "CDDB"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "Cell"
+msgstr "Zelle"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Celtic"
+msgstr "Keltisch"
+
+msgid "Center"
+msgstr "Zentriert"
+
+msgid "Centered"
+msgstr "Zentriert"
+
+msgid "Centimeters"
+msgstr "Zentimeter"
+
+msgid "Centimeters (cm)"
+msgstr "Zentimeter (cm)"
+
+msgid "Central"
+msgstr "Zentrum"
+
+msgid "Central African Republic"
+msgstr "Zentralafrikanische Republik"
+
+msgid "Central European"
+msgstr "Mitteleuropäisch"
+
+msgid "Certificate"
+msgstr "Zertifikat"
+
+msgid "Certificates (TLS)"
+msgstr "Zertifikate (TLS)"
+
+msgid "Chad"
+msgstr "Tschad"
+
+msgid "Change"
+msgstr "Ändern"
+
+msgid "Change..."
+msgstr "Ändern ..."
+
+msgid "Changed"
+msgstr "Geändert"
+
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Channels"
+msgstr "Kanäle"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Chapter"
+msgstr "Kapitel"
+
+msgid "Chapters"
+msgstr "Kapitel"
+
+msgid "Character"
+msgstr "Zeichen"
+
+msgid "Characters"
+msgstr "Charaktere"
+
+msgid "Charging"
+msgstr "Wird geladen"
+
+msgid "Chart"
+msgstr "Diagramm"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Check"
+msgstr "Prüfen"
+
+msgid "Check for updates"
+msgstr "Auf Aktualisierungen prüfen"
+
+msgid "Check Spelling"
+msgstr "Rechtschreibprüfung"
+
+msgid "Checkbox"
+msgstr "Ankreuzfeld"
+
+msgid "Checkout"
+msgstr "Auschecken"
+
+msgid "Cherokee"
+msgstr "Cherokee"
+
+msgid "Children"
+msgstr "Kinder"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "China"
+
+msgid "Chinese"
+msgstr "Chinesisch"
+
+msgid "Chinese Simplified"
+msgstr "Chinesisch (vereinfacht)"
+
+msgid "Chinese Traditional"
+msgstr "Chinesisch (traditionell)"
+
+msgid "Choose"
+msgstr "Wählen"
+
+msgid "Choose..."
+msgstr "Auswählen ..."
+
+msgid "Cinema"
+msgstr "Kino"
+
+msgid "Circle"
+msgstr "Kreis"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "Class"
+msgstr "Klasse"
+
+msgid "Classes"
+msgstr "Klassen"
+
+msgid "Classic"
+msgstr "Klassisch"
+
+msgid "Classical"
+msgstr "Klassik"
+
+msgid "Clean"
+msgstr "Aufräumen"
+
+msgid "Cleanup"
+msgstr "Aufräumen"
+
+msgid "Clear"
+msgstr "Leeren"
+
+msgid "&Clear"
+msgstr "&Leeren"
+
+msgid "_Clear"
+msgstr "_Leeren"
+
+msgid "C&lear"
+msgstr "&Löschen"
+
+msgid "Clear All"
+msgstr "Alles löschen"
+
+msgid "Clear History"
+msgstr "Verlauf leeren"
+
+msgid "Clear history"
+msgstr "Verlauf leeren"
+
+msgid "Clear List"
+msgstr "Liste leeren"
+
+msgid "Client"
+msgstr "Client"
+
+msgid "Clip"
+msgstr "Clip"
+
+msgid "Clipboard"
+msgstr "Zwischenablage"
+
+msgid "Clock"
+msgstr "Uhr"
+
+msgid "Clockwise"
+msgstr "Im Uhrzeigersinn"
+
+msgid "Clone"
+msgstr "Klonen"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "&Close"
+msgstr "&Schließen"
+
+msgid "_Close"
+msgstr "S_chließen"
+
+msgid "Close All"
+msgstr "Alle schließen"
+
+msgid "Close Document"
+msgstr "Dokument schließen"
+
+msgid "Close message"
+msgstr "Nachricht schließen"
+
+msgid "Close Tab"
+msgstr "Unterfenster schließen"
+
+msgid "Close tab"
+msgstr "Unterfenster schließen"
+
+msgid "Close the current tab"
+msgstr "Aktuelles Unterfenster schließen"
+
+msgid "Close this window"
+msgstr "Dieses Fenster schließen"
+
+msgid "Close Window"
+msgstr "Fenster schließen"
+
+msgid "Close window"
+msgstr "Fenster schließen"
+
+msgid "Close _without Saving"
+msgstr "Schließen _ohne zu speichern"
+
+msgid "Closed"
+msgstr "Geschlossen"
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Code"
+msgstr "Quelltext"
+
+msgid "code"
+msgstr "Code"
+
+msgid "Codec"
+msgstr "Codec"
+
+msgid "Collapse"
+msgstr "Einklappen"
+
+msgid "Collapse All"
+msgstr "Alle einklappen"
+
+msgid "Collection"
+msgstr "Sammlung"
+
+msgid "Collections"
+msgstr "Sammlungen"
+
+msgid "Colombia"
+msgstr "Kolumbien"
+
+msgid "Color"
+msgstr "Farbe"
+
+msgid "color"
+msgstr "Farbe"
+
+msgid "&Color"
+msgstr "&Farbe"
+
+msgid "Color Balance"
+msgstr "Farbabgleich"
+
+msgid "Color Management"
+msgstr "Farbverwaltung"
+
+msgid "Color Mode"
+msgstr "Farbmodus"
+
+msgid "Color Picker"
+msgstr "Farbauswahl"
+
+msgid "Color Scheme"
+msgstr "Farbschema"
+
+msgid "Color scheme"
+msgstr "Farbschema"
+
+msgid "Color Space"
+msgstr "Farbraum"
+
+msgid "Color theme"
+msgstr "Farbschema"
+
+msgid "Colorize"
+msgstr "Einfärben"
+
+msgid "Colors"
+msgstr "Farben"
+
+msgid "Column"
+msgstr "Spalte"
+
+msgid "Column %1"
+msgstr "Spalte %1"
+
+msgid "Columns"
+msgstr "Spalten"
+
+msgid "Comma"
+msgstr "Komma"
+
+msgid "COMMAND"
+msgstr "BEFEHL"
+
+msgid "Command"
+msgstr "Befehl"
+
+msgid "command"
+msgstr "Befehl"
+
+msgid "Command Line"
+msgstr "Befehlszeile"
+
+msgid "Command to execute"
+msgstr "Auszuführender Befehl"
+
+msgid "Commands"
+msgstr "Befehle"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "Comments"
+msgstr "Kommentare"
+
+msgid "Commit"
+msgstr "Commit"
+
+msgid "Common"
+msgstr "Allgemein"
+
+msgid "Comoros"
+msgstr "Komoren"
+
+msgid "Compact"
+msgstr "Kompakt"
+
+msgid "Compare"
+msgstr "Vergleichen"
+
+msgid "Complete"
+msgstr "Abgeschlossen"
+
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+msgid "Completion"
+msgstr "Vervollständigung"
+
+msgid "Component"
+msgstr "Komponente"
+
+msgid "Components"
+msgstr "Komponenten"
+
+msgid "Composer"
+msgstr "Komponist"
+
+msgid "Composition"
+msgstr "Komposition"
+
+msgid "Compress"
+msgstr "Komprimieren"
+
+msgid "Compression"
+msgstr "Komprimierung"
+
+msgid "Computer"
+msgstr "Rechner"
+
+msgid "Condition"
+msgstr "Bedingung"
+
+msgid "Confidential"
+msgstr "Vertraulich"
+
+msgid "Configuration"
+msgstr "Einrichtung"
+
+msgid "Configure"
+msgstr "Einrichten"
+
+msgid "Configure..."
+msgstr "Einrichten …"
+
+msgid "Configure %1"
+msgstr "%1 einrichten"
+
+msgid "Configure Keyboard Shortcuts"
+msgstr "Tastenkombinationen konfigurieren"
+
+msgid "Configure Plugins"
+msgstr "Module einrichten"
+
+msgid "Configure Toolbars"
+msgstr "Werkzeugleisten einrichten"
+
+msgid "Configure Web Shortcuts..."
+msgstr "Web-Kurzbefehle einrichten …"
+
+msgid "Confirm"
+msgstr "Bestätigen"
+
+msgid "Confirmation"
+msgstr "Bestätigung"
+
+msgid "Confirmation Required"
+msgstr "Bestätigung erforderlich"
+
+msgid "Confirmed"
+msgstr "Bestätigt"
+
+msgid "Conflict with Standard Application Shortcut"
+msgstr "Konflikt mit Standard-Kurzbefehl des Programms"
+
+msgid "Connect"
+msgstr "Verbinden"
+
+msgid "C_onnect"
+msgstr "_Verbinden"
+
+msgid "Connected"
+msgstr "Verbunden"
+
+msgid "Connecting"
+msgstr "Verbindung wird aufgebaut"
+
+msgid "Connecting..."
+msgstr "Verbindung wird aufgebaut …"
+
+msgid "Connection"
+msgstr "Verbindung"
+
+msgid "Connection Failed"
+msgstr "Verbindung fehlgeschlagen"
+
+msgid "Connection Settings"
+msgstr "Verbindungseinstellungen"
+
+msgid "Connections"
+msgstr "Verbindungen"
+
+msgid "Console"
+msgstr "Konsole"
+
+msgid "Constant"
+msgstr "Konstante"
+
+msgid "construct property \"%s\" for object '%s' can't be set after construction"
+msgstr ""
+"Konstruktor-Eigenschaft »%s« für Objekt »%s« kann nicht nach der "
+"Konstruktion gesetzt werden"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Contacts"
+msgstr "Kontakte"
+
+msgid "Container"
+msgstr "Container"
+
+msgid "Contains"
+msgstr "Enthält"
+
+msgid "contains"
+msgstr "enthält"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Content Type"
+msgstr "Inhaltstyp"
+
+msgid "Contents"
+msgstr "Inhalt"
+
+msgid "_Contents"
+msgstr "I_nhalt"
+
+msgid "Context"
+msgstr "Kontext"
+
+msgid "Continue"
+msgstr "Fortsetzen"
+
+msgid "_Continue"
+msgstr "_Fortfahren"
+
+msgid "Contrast"
+msgstr "Kontrast"
+
+msgid "Contributor"
+msgstr "Beiträge"
+
+msgid "Control"
+msgstr "Strg"
+
+msgid "Convert"
+msgstr "Konvertieren"
+
+msgid "Convert to Path"
+msgstr "In Pfad umwandeln"
+
+msgid "Cookies"
+msgstr "Cookies"
+
+msgid "Coordinates"
+msgstr "Koordinaten"
+
+msgid "Copied to clipboard"
+msgstr "In die Zwischenablage kopiert"
+
+msgid "Coptic"
+msgstr "Koptisch"
+
+msgid "Copy"
+msgstr "Kopieren"
+
+msgid "copy"
+msgstr "Kopie"
+
+msgid "&Copy"
+msgstr "&Kopieren"
+
+msgid "_Copy"
+msgstr "_Kopieren"
+
+msgid "Copy Email Address"
+msgstr "E-Mail-Adresse kopieren"
+
+msgid "&Copy Here"
+msgstr "Hierher &kopieren"
+
+msgid "Copy Image"
+msgstr "Bild kopieren"
+
+msgid "Copy Link"
+msgstr "Verknüpfung kopieren"
+
+msgid "Copy Link Address"
+msgstr "Verknüpfungsadresse kopieren"
+
+msgid "_Copy Link Address"
+msgstr "Link-Adresse _kopieren"
+
+msgid "Copy Location"
+msgstr "Ort kopieren"
+
+msgid "Copy of %1"
+msgstr "Kopie von %1"
+
+msgid "Copy selection to clipboard"
+msgstr "Auswahl in die Zwischenablage kopieren"
+
+msgid "Copy Text"
+msgstr "Text kopieren"
+
+msgid "Copy to Clipboard"
+msgstr "In die Zwischenablage kopieren"
+
+msgid "Copy to clipboard"
+msgstr "In die Zwischenablage kopieren"
+
+msgid "Copy URL"
+msgstr "Adresse kopieren"
+
+msgid "Copying files"
+msgstr "Dateien werden kopiert"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Cost"
+msgstr "Kosten"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Could not open %1"
+msgstr "%1 kann nicht geöffnet werden"
+
+msgid "Could not open file."
+msgstr "Die Datei kann nicht geöffnet werden."
+
+msgid "Count"
+msgstr "Anzahl"
+
+msgid "Counter"
+msgstr "Zähler"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Create"
+msgstr "Erstellen"
+
+msgid "C_reate"
+msgstr "_Anlegen"
+
+msgid "Create Folder"
+msgstr "Ordner erstellen"
+
+msgid "Create New"
+msgstr "Neu erstellen"
+
+msgid "Created"
+msgstr "Erstellt"
+
+msgid "Creation Date"
+msgstr "Erstellungsdatum"
+
+msgid "Creation date"
+msgstr "Erstellungsdatum"
+
+msgid "Creator"
+msgstr "Ersteller"
+
+msgid "Credentials"
+msgstr "Anmeldedaten"
+
+msgid "Credits"
+msgstr "Danksagungen"
+
+msgid "Criteria"
+msgstr "Kriterien"
+
+msgid "Critical"
+msgstr "Kritisch"
+
+msgid "Croatia"
+msgstr "Kroatien"
+
+msgid "Croatian"
+msgstr "Kroatisch"
+
+msgid "Crop"
+msgstr "Zuschneiden"
+
+msgid "Crop image"
+msgstr "Bild zuschneiden"
+
+msgid "Cross"
+msgstr "Kreuz"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Ctrl"
+msgstr "Strg"
+
+msgid "Ctrl+C"
+msgstr "Strg+C"
+
+msgid "Ctrl+O"
+msgstr "Strg+O"
+
+msgid "Cuba"
+msgstr "Kuba"
+
+msgid "Currency"
+msgstr "Währung"
+
+msgid "Current"
+msgstr "Aktuell"
+
+msgid "Current Maintainer"
+msgstr "Aktueller Betreuer"
+
+msgid "Current maintainer"
+msgstr "Aktueller Betreuer"
+
+msgid "Cursor"
+msgstr "Cursor"
+
+msgid "Curve"
+msgstr "Kurve"
+
+msgid "Curves"
+msgstr "Kurven"
+
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+msgid "Custom..."
+msgstr "Benutzerdefiniert ..."
+
+msgid "Custom Font"
+msgstr "Benutzerdefinierte Schriftart"
+
+msgid "Cut"
+msgstr "Ausschneiden"
+
+msgid "Cu&t"
+msgstr "&Ausschneiden"
+
+msgid "Cu_t"
+msgstr "_Ausschneiden"
+
+msgid "Cyan"
+msgstr "Cyan"
+
+msgid "Cyprus"
+msgstr "Zypern"
+
+msgid "Cyrillic"
+msgstr "Kyrillisch"
+
+msgid "Czech"
+msgstr "Tschechisch"
+
+msgid "D"
+msgstr "D"
+
+msgid "%d%%"
+msgstr "%d%%"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "Daily"
+msgstr "Täglich"
+
+msgid "Dance"
+msgstr "Dance"
+
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+msgid "Danish"
+msgstr "Dänisch"
+
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+msgid "Dark"
+msgstr "Dunkel"
+
+msgid "Dark Mode"
+msgstr "Dunkler Modus"
+
+msgid "Darken"
+msgstr "Abdunkeln"
+
+msgid "Dashboard"
+msgstr "Übersichtsseite"
+
+msgid "Dashed"
+msgstr "Gestrichelt"
+
+msgid "Data"
+msgstr "Daten"
+
+msgid "Database"
+msgstr "Datenbank"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "date"
+msgstr "Datum"
+
+msgid "Date & Time"
+msgstr "Datum & Zeit"
+
+msgid "Date and Time"
+msgstr "Datum und Zeit"
+
+msgid "Date Format"
+msgstr "Datumsformat"
+
+msgid "Date Modified"
+msgstr "Änderungsdatum"
+
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+msgid "Day"
+msgstr "Tag"
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "days"
+msgstr "Tage"
+
+msgid "day(s)"
+msgstr "Tag(e)"
+
+msgid "D-Bus name to use for this instance"
+msgstr "Für diese Instanz zu verwendender D-Bus-Name"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "Debugger"
+msgstr "Debugger"
+
+msgid "Debugging"
+msgstr "Fehlersuche"
+
+msgid "December"
+msgstr "Dezember"
+
+msgid "Decimal"
+msgstr "Dezimal"
+
+msgid "Decline"
+msgstr "Ablehnen"
+
+msgid "Decrease Font Size"
+msgstr "Schrift verkleinern"
+
+msgid "Decrease Indent"
+msgstr "Einzug verkleinern"
+
+msgid "Decrease Volume"
+msgstr "Lautstärke verringern"
+
+msgid "Decrypt"
+msgstr "Entschlüsseln"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "default"
+msgstr "Standard"
+
+msgid "Defaults"
+msgstr "Voreinstellungen"
+
+msgid "Definition"
+msgstr "Definition"
+
+msgid "degrees"
+msgstr "Grad"
+
+msgid "Del"
+msgstr "Entf"
+
+msgid "Delay"
+msgstr "Verzögerung"
+
 msgid "Delete"
 msgstr "Löschen"
 
-#. Occurs in 10 KDE PO files
-msgctxt "@title"
-msgid "Appearance"
-msgstr "Erscheinungsbild"
+msgid "&Delete"
+msgstr "&Löschen"
+
+msgid "_Delete"
+msgstr "_Löschen"
+
+msgid "D&elete"
+msgstr "&Löschen"
+
+msgid "Delete..."
+msgstr "Löschen …"
+
+msgid "Delete %1"
+msgstr "%1 löschen"
+
+msgid "Delete All"
+msgstr "Alle löschen"
+
+msgid "Delete File"
+msgstr "Datei löschen"
+
+msgid "Delete Folder"
+msgstr "Ordner löschen"
+
+msgid "Delete Image"
+msgstr "Bild löschen"
+
+msgid "Delete Selected"
+msgstr "Ausgewählte löschen"
+
+msgid "Delete selection"
+msgstr "Auswahl löschen"
+
+msgid "_Delete Toolbar"
+msgstr ""
+
+msgid "Deleted"
+msgstr "Gelöscht"
+
+msgid "Deletion"
+msgstr "Löschung"
+
+msgid "Delimiter"
+msgstr "Trennzeichen"
+
+msgid "Delta"
+msgstr "Delta"
+
+msgid "Denmark"
+msgstr "Dänemark"
+
+msgid "Density"
+msgstr "Dichte"
+
+msgid "Deny"
+msgstr "Ablehnen"
+
+msgid "Dependencies"
+msgstr "Abhängigkeiten"
+
+msgid "Depth"
+msgstr "Tiefe"
+
+msgid "Desaturate"
+msgstr "Entsättigen"
+
+msgid "Descending"
+msgstr "Absteigend"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "&Description"
+msgstr "&Beschreibung"
+
+msgid "Deselect"
+msgstr "Auswahl aufheben"
+
+msgid "Deselect All"
+msgstr "Auswahl aufheben"
+
+msgid "Desert"
+msgstr "Wüste"
+
+msgid "Desktop"
+msgstr "Arbeitsfläche"
+
+msgid "Destination"
+msgstr "Ziel"
+
+msgid "Detach"
+msgstr "Ablösen"
+
+msgid "_Detach Tab"
+msgstr "Reiter _lösen"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "&Details"
+msgstr "&Details"
+
+msgid "_Details"
+msgstr "_Details"
+
+msgid "Details..."
+msgstr "Details …"
+
+msgid "Devanagari"
+msgstr "Devanagari"
+
+msgid "Developer"
+msgstr "Entwickler"
+
+msgid "Development"
+msgstr "Entwicklung"
+
+msgid "Device"
+msgstr "Gerät"
+
+msgid "device"
+msgstr "Gerät"
+
+msgid "Device Information"
+msgstr "Geräteinformation"
+
+msgid "Device Status"
+msgstr "Gerätestatus"
+
+msgid "Device type"
+msgstr "Gerätetyp"
+
+msgid "Devices"
+msgstr "Geräte"
+
+msgid "Diagnostics"
+msgstr "Fehlerdiagnose"
+
+msgid "Diagonal"
+msgstr "Diagonal"
+
+msgid "Dialog"
+msgstr "Dialog"
+
+msgid "Dialogs"
+msgstr "Dialoge"
+
+msgid "Diamond"
+msgstr "Diamant"
+
+msgid "Dictionary"
+msgstr "Wörterbuch"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Difference"
+msgstr "Differenz"
+
+msgid "Difficulty"
+msgstr "Schwierigkeitsgrad"
+
+msgid "Digit"
+msgstr "Ziffer"
+
+msgid "Dimensions"
+msgstr "Abmessungen"
+
+msgid "DIR"
+msgstr "ORDNER"
+
+msgid "Direction"
+msgstr "Richtung"
+
+msgid "Directories"
+msgstr "Ordner"
+
+msgid "Directory"
+msgstr "Ordner"
+
+msgid "directory"
+msgstr "Ordner"
+
+msgid "Directory Name"
+msgstr "Ordnername"
+
+msgid "Disable"
+msgstr "Deaktivieren"
+
+msgid "Disable connection to session manager"
+msgstr "Verbindung zur Sitzungsverwaltung deaktivieren"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "disabled"
+msgstr "deaktiviert"
+
+msgid "Disc"
+msgstr "Medium"
+
+msgid "Disc Number"
+msgstr "CD-Nummer"
+
+msgid "Discard"
+msgstr "Verwerfen"
+
+msgid "_Discard"
+msgstr "_Verwerfen"
+
+msgid "Discard All"
+msgstr "Alle verwerfen"
+
+msgid "Discard Changes"
+msgstr "Änderungen verwerfen"
+
+msgid "Discard changes"
+msgstr "Änderungen verwerfen"
+
+msgid "_Discard Changes"
+msgstr "Änderungen _verwerfen"
+
+msgid "Discharging"
+msgstr "Wird entladen"
+
+msgid "Disconnect"
+msgstr "Verbindung trennen"
+
+msgid "Disconnected"
+msgstr "Getrennt"
+
+msgid "Discover"
+msgstr "Discover"
+
+msgid "Discrete"
+msgstr "Diskret"
+
+msgid "Disk"
+msgstr "Festplatte"
+
+msgid "Dismiss"
+msgstr "Schließen"
+
+msgid "Display"
+msgstr "Anzeige"
+
+msgid "Display Configuration"
+msgstr "Anzeige-Einrichtung"
+
+msgid "Display Name"
+msgstr "Anzeigename"
+
+msgid "Display Settings"
+msgstr "Anzeigeeinstellungen"
+
+msgid "Dissolve"
+msgstr "Auflösen"
+
+msgid "Distance"
+msgstr "Abstand"
+
+msgid "Divide"
+msgstr "Dividieren"
+
+msgid "Djibouti"
+msgstr "Dschibuti"
+
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Do not ask again"
+msgstr "Diese Nachfrage nicht mehr anzeigen"
+
+msgid "Do Not Cancel"
+msgstr "Nicht abbrechen"
+
+msgid "Do not change the actual backend data."
+msgstr "Die eigentlichen Daten des Backends nicht ändern."
+
+msgid "Do not show again"
+msgstr "Nicht wieder anzeigen"
+
+msgid "Do not show this message again"
+msgstr "Diese Meldung nicht mehr anzeigen"
+
+msgid "Do Nothing"
+msgstr "Nichts tun"
+
+msgid "Do nothing"
+msgstr "Nichts unternehmen"
+
+msgid "Document"
+msgstr "Dokument"
+
+msgid "Document Properties"
+msgstr "Dokumenteigenschaften"
+
+msgid "Document to open"
+msgstr "Zu öffnendes Dokument"
+
+msgid "Document Viewer"
+msgstr "Dokumentenbetrachter"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Documents"
+msgstr "Dokumente"
+
+msgid "does not contain"
+msgstr "enthält nicht"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "Domain"
+msgstr "Domäne"
+
+msgid "Dominica"
+msgstr "Dominica"
+
+msgid "Dominican Republic"
+msgstr "Dominikanische Republik"
+
+msgid "Donate"
+msgstr "Spenden"
+
+msgid "Done"
+msgstr "Fertig"
+
+msgid "Dot"
+msgstr "Punkt"
+
+msgid "Dots"
+msgstr "Punkte"
+
+msgid "Dotted"
+msgstr "Gepunktet"
+
+msgid "Double"
+msgstr "Doppelt"
+
+msgid "Down"
+msgstr "Nach unten"
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "Download Manager"
+msgstr "Download-Verwaltung"
+
+msgid "Downloaded"
+msgstr "Heruntergeladen"
+
+msgid "Downloading"
+msgstr "Wird heruntergeladen"
+
+msgid "Downloading..."
+msgstr "Wird heruntergeladen …"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Dr."
+msgstr "Dr."
+
+msgid "Draft"
+msgstr "Entwurf"
+
+msgid "Drafts"
+msgstr "Entwürfe"
+
+msgid "Draw"
+msgstr "Zeichnen"
+
+msgid "Drive"
+msgstr "Laufwerk"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Due"
+msgstr "Fällig"
+
+msgid "Due Date"
+msgstr "Fälligkeitsdatum"
+
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+msgid "_Duplicate"
+msgstr "_Duplizieren"
+
+msgid "Duplicates"
+msgstr "Duplikate"
+
+msgid "Duration"
+msgstr "Dauer"
+
+msgid "Dutch"
+msgstr "Niederländisch"
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "E"
+msgstr "O"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "East"
+msgstr "Ost"
+
+msgid "Easy"
+msgstr "Einfach"
+
+msgid "Echo"
+msgstr "Echo"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Edge"
+msgstr "Kante"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "&Edit"
+msgstr "&Bearbeiten"
+
+msgid "_Edit"
+msgstr "_Bearbeiten"
+
+msgid "Edit..."
+msgstr "Bearbeiten …"
+
+msgid "&Edit..."
+msgstr "&Bearbeiten ..."
+
+msgid "Edit %1"
+msgstr "%1 bearbeiten"
+
+msgid "Edit Bookmark"
+msgstr "Lesezeichen bearbeiten"
+
+msgid "Edit Filter"
+msgstr "Filter bearbeiten"
+
+msgid "Edit Image"
+msgstr "Bild bearbeiten"
+
+msgid "Editing"
+msgstr "Bearbeiten"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Education"
+msgstr "Bildung"
+
+msgid "Effects"
+msgstr "Effekte"
+
+msgid "Egypt"
+msgstr "Ägypten"
+
+msgid "Egyptian"
+msgstr "Ägyptisch"
+
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+msgid "Eject"
+msgstr "Auswerfen"
+
+msgid "_Eject"
+msgstr "Aus_werfen"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Electronic"
+msgstr "Elektronik"
+
+msgid "Element"
+msgstr "Element"
+
+msgid "Ellipse"
+msgstr "Ellipse"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "E-mail"
+msgstr "E-Mail"
+
+msgid "Email Address"
+msgstr "E-Mail-Adresse"
+
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+msgid "Emails"
+msgstr "E-Mails"
+
+msgid "Embedded"
+msgstr "Eingebettet"
+
+msgid "Emboss"
+msgstr "Relief"
+
+msgid "Emphasis"
+msgstr "Emphasis"
+
+msgid "Empty"
+msgstr "Leer"
+
+msgid "empty"
+msgstr "leer"
+
+msgid "(empty)"
+msgstr "(leer)"
+
+msgid "<empty>"
+msgstr "<leer>"
+
+msgid "Empty Trash"
+msgstr "Papierkorb leeren"
+
+msgid "Enable"
+msgstr "Aktivieren"
+
+msgid "Enable system tray icon"
+msgstr "Symbol im Systemabschnitt der Kontrollleiste anzeigen"
+
+msgid "Enable verbose debug logging (may expose passwords)"
+msgstr ""
+"Ausführliche Protokollierung zur Fehlerdiagnose erlauben (könnte Passwörter "
+"sichtbar machen)"
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Encoder"
+msgstr "Kodierer"
+
+msgid "Encoding"
+msgstr "Kodierung"
+
+msgid "_Encoding"
+msgstr "K_odierung"
+
+msgid "Encrypt"
+msgstr "Verschlüsseln"
+
+msgid "&Encrypt"
+msgstr "&Verschlüsseln"
+
+msgid "Encrypted"
+msgstr "Verschlüsselt"
+
+msgid "Encryption"
+msgstr "Verschlüsselung"
+
+msgid "End"
+msgstr "Ende"
+
+msgid "end"
+msgstr "Ende"
+
+msgid "End Date"
+msgstr "Enddatum"
+
+msgid "End Time"
+msgstr "Endzeitpunkt"
+
+msgid "ends with"
+msgstr "endet mit"
+
+msgid "Energy"
+msgstr "Energie"
+
+msgid "Engine"
+msgstr ""
+
+msgid "Engineering"
+msgstr "Ingenieurwesen"
+
+msgid "English"
+msgstr "Englisch"
+
+msgid "Enter"
+msgstr "Eingabe"
+
+msgid "Enter password"
+msgstr "Passwort eingeben"
+
+msgid "Entry"
+msgstr "Eintrag"
+
+msgid "Environment"
+msgstr "Umgebung"
+
+msgid "equals"
+msgstr "gleich"
+
+msgid "Equation"
+msgstr "Gleichung"
+
+msgid "Equatorial Guinea"
+msgstr "Äquatorialguinea"
+
+msgid "Erase"
+msgstr "Löschen"
+
+msgid "Eraser"
+msgstr "Radierer"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "ERROR"
+msgstr "FEHLER"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "error"
+msgstr "Fehler"
+
+msgid "Error: %1"
+msgstr "Fehler: %1"
+
+msgid "Error message"
+msgstr "Fehlermeldung"
+
+msgid "Errors"
+msgstr "Fehler"
+
+msgid "Escape"
+msgstr "Esc"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonia"
+msgstr "Estland"
+
+msgid "Estonian"
+msgstr "Estnisch"
+
+msgid "Ethiopia"
+msgstr "Äthiopien"
+
+msgid "Ethiopic"
+msgstr "Äthiopisch"
+
+msgid "Europe"
+msgstr "Europa"
+
+msgid "Evaluate"
+msgstr "Auswerten"
+
+msgid "Event"
+msgstr "Ereignis"
+
+msgid "Events"
+msgstr "Ereignisse"
+
+msgid "Everyone"
+msgstr "Jeder"
+
+msgid "Everything"
+msgstr "Alles"
+
+msgid "Exact"
+msgstr "Genau"
+
+msgid "Example"
+msgstr "Beispiel"
+
+msgid "Examples"
+msgstr "Beispiele"
+
+msgid "Exception"
+msgstr "Ausnahme"
+
+msgid "Exclude"
+msgstr "Ausschließen"
+
+msgid "Exclusion"
+msgstr "Ausschluss"
+
+msgid "Executable"
+msgstr "Programmdatei"
+
+msgid "Execute"
+msgstr "Ausführen"
+
+msgid "Exit"
+msgstr "Beenden"
+
+msgid "Exit Full Screen"
+msgstr "Vollbildmodus beenden"
+
+msgid "Exit Fullscreen"
+msgstr "Vollbildmodus beenden"
+
+msgid "Exiting..."
+msgstr "Beenden ..."
+
+msgid "Expand"
+msgstr "Ausklappen"
+
+msgid "Expand All"
+msgstr "Alle aufklappen"
+
+msgid "Experimental"
+msgstr "Experimentell"
+
+msgid "Expired"
+msgstr "Abgelaufen"
+
+msgid "Expires"
+msgstr "Gültig bis"
+
+msgid "Export"
+msgstr "Exportieren"
+
+msgid "&Export"
+msgstr "&Exportieren"
+
+msgid "_Export"
+msgstr "_Exportieren"
+
+msgid "Export..."
+msgstr "Exportieren …"
+
+msgid "&Export..."
+msgstr "&Exportieren …"
+
+msgid "_Export..."
+msgstr "_Exportieren …"
+
+msgid "E&xport..."
+msgstr "E&xportieren ..."
+
+msgid "Export As..."
+msgstr "Exportieren als ..."
+
+msgid "Export failed"
+msgstr "Exportieren fehlgeschlagen"
+
+msgid "Export Options"
+msgstr "Export-Optionen"
+
+msgid "Exposure"
+msgstr "Belichtung"
+
+msgid "Expression"
+msgstr "Ausdruck"
+
+msgid "Extended"
+msgstr "Erweitert"
+
+msgid "Extension"
+msgstr "Erweiterung"
+
+msgid "Extensions"
+msgstr "Erweiterungen"
+
+msgid "Extra Toolbar"
+msgstr "Extras-Werkzeugleiste"
+
+msgid "Extract"
+msgstr "Entpacken"
+
+msgid "F"
+msgstr "F"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Fade"
+msgstr "Überblenden"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+msgid "False"
+msgstr "Falsch"
+
+msgid "false"
+msgstr "falsch"
+
+msgid "Family"
+msgstr "Familie"
+
+msgid "Family Name"
+msgstr "Familienname"
+
+msgid "Fast"
+msgstr "Schnell"
+
+msgid "Faster"
+msgstr "Schneller"
+
+msgid "Fatal Error"
+msgstr "Schwerer Fehler"
+
+msgid "Favorite"
+msgstr "Favoriten"
+
+msgid "Favorites"
+msgstr "Favoriten"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Features"
+msgstr "Funktionen"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "Feeds"
+msgstr "Nachrichtenquellen"
+
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+msgid "Fetch"
+msgstr "Abholen"
+
+msgid "Fiji"
+msgstr "Fidschi"
+
+msgid "FILE"
+msgstr "DATEI"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "file"
+msgstr "Datei"
+
+msgid "&File"
+msgstr "&Datei"
+
+msgid "_File"
+msgstr "_Datei"
+
+msgid "[FILE...]"
+msgstr "[DATEI ...]"
+
+msgid "File Already Exists"
+msgstr "Datei existiert bereits"
+
+msgid "File already exists"
+msgstr "Die Datei existiert bereits"
+
+msgid "File Exists"
+msgstr "Die Datei existiert bereits"
+
+msgid "File Format"
+msgstr "Dateiformat"
+
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+msgid "File Manager"
+msgstr "Dateiverwaltung"
+
+msgid "File Name"
+msgstr "Dateiname"
+
+msgid "File name"
+msgstr "Dateiname"
+
+msgid "File Not Found"
+msgstr "Datei nicht gefunden"
+
+msgid "File not found"
+msgstr "Datei nicht gefunden"
+
+msgid "File Path"
+msgstr "Dateipfad"
+
+msgid "File Properties"
+msgstr "Dateieigenschaften"
+
+msgid "File Size"
+msgstr "Dateigröße"
+
+msgid "File size"
+msgstr "Dateigröße"
+
+msgid "File System"
+msgstr "Dateisystem"
+
+msgid "File to open"
+msgstr "Zu öffnende Datei"
+
+msgid "File Transfer"
+msgstr "Dateiübertragung"
+
+msgid "File Type"
+msgstr "Dateityp"
+
+msgid "Filename"
+msgstr "Dateiname"
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "Filesystem"
+msgstr "Dateisystem"
+
+msgid "Fill"
+msgstr "Füllen"
+
+msgid "Fill Color"
+msgstr "Füllfarbe"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Filter..."
+msgstr "Filter ..."
+
+msgid "Filters"
+msgstr "Filter"
+
+msgid "Final"
+msgstr "Endgültig"
+
+msgid "Find"
+msgstr "Suchen"
+
+msgid "&Find"
+msgstr "&Suchen"
+
+msgid "_Find"
+msgstr "_Suchen"
+
+msgid "F&ind"
+msgstr "&Suchen"
+
+msgid "Find..."
+msgstr "Suchen ..."
+
+msgid "_Find..."
+msgstr "_Suchen …"
+
+msgid "Find and Replace"
+msgstr "Suchen und Ersetzen"
+
+msgid "Find Next"
+msgstr "Weitersuchen"
+
+msgid "Find _Next"
+msgstr "_Weitersuchen"
+
+msgid "Find Ne_xt"
+msgstr "_Nächsten suchen"
+
+msgid "Find Previous"
+msgstr "Rückwärts suchen"
+
+msgid "Find Pre_vious"
+msgstr "_Vorherigen suchen"
+
+msgid "Fingerprint"
+msgstr "Fingerabdruck"
+
+msgid "Finish"
+msgstr "Fertigstellen"
+
+msgid "Finished"
+msgstr "Abgeschlossen"
+
+msgid "Finland"
+msgstr "Finnland"
+
+msgid "Finnish"
+msgstr "Finnisch"
+
+msgid "First"
+msgstr "Erstes"
+
+msgid "First Page"
+msgstr "Erste Seite"
+
+msgid "Fit"
+msgstr "Einpassen"
+
+msgid "Fit Width"
+msgstr "Auf Seitenbreite einpassen"
+
+msgid "Fixed"
+msgstr "Fest"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "Flagged"
+msgstr "Markiert"
+
+msgid "Flags"
+msgstr "Flaggen"
+
+msgid "Flash"
+msgstr "Blitz"
+
+msgid "Flat"
+msgstr "Flach"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flip"
+msgstr "Spiegeln"
+
+msgid "Flip Horizontally"
+msgstr "Horizontal spiegeln"
+
+msgid "Flip horizontally"
+msgstr "Horizontal spiegeln"
+
+msgid "Flip Vertically"
+msgstr "Vertikal spiegeln"
+
+msgid "Flip vertically"
+msgstr "Vertikal spiegeln"
+
+msgid "Float"
+msgstr "Fließkommawert"
+
+msgid "Floating"
+msgstr "Schwebend"
+
+msgid "Flow"
+msgstr "Fluss"
+
+msgid "flower"
+msgstr "Blume"
+
+msgid "Focal Length"
+msgstr "Brennweite"
+
+msgid "Focus"
+msgstr "Fokus"
+
+msgid "Folder"
+msgstr "Ordner"
+
+msgid "Folder name"
+msgstr "Ordnername"
+
+msgid "Folders"
+msgstr "Ordner"
+
+msgid "Folk"
+msgstr "Folk"
+
+msgid "Font"
+msgstr "Schriftart"
+
+msgid "&Font"
+msgstr "&Schriftart"
+
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+msgid "Font Family"
+msgstr "Schriftfamilie"
+
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+msgid "Font size"
+msgstr "Schriftgröße"
+
+msgid "Fonts"
+msgstr "Schriftarten"
+
+msgid "_Fonts"
+msgstr "_Schriften"
+
+msgid "Food"
+msgstr "Essen"
+
+msgid "Footer"
+msgstr "Fußzeile"
+
+msgid "Force"
+msgstr "Kraft"
+
+msgid "Forecast"
+msgstr "Vorhersage"
+
+msgid "Foreground"
+msgstr "Vordergrund"
+
+msgid "Foreground Color"
+msgstr "Vordergrundfarbe"
+
+msgid "Foreground color"
+msgstr "Vordergrundfarbe"
+
+msgid "forever"
+msgstr "für immer"
+
+msgid "Form"
+msgstr "Formular"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Formatting"
+msgstr "Formatierung"
+
+msgid "Former Maintainer"
+msgstr "Ehemaliger Betreuer"
+
+msgid "Former maintainer"
+msgstr "Ehemaliger Betreuer"
+
+msgid "Formula"
+msgstr "Formel"
+
+msgid "Forward"
+msgstr "Vorwärts"
+
+msgid "&Forward"
+msgstr "&Vorwärts"
+
+msgid "_Forward"
+msgstr "_Vor"
+
+msgid "Fraction"
+msgstr "Bruch"
+
+msgid "Frame"
+msgstr "Rahmen"
+
+msgid "Framerate"
+msgstr "Bildfrequenz"
+
+msgid "Frames"
+msgstr "Bewegte Bilder"
+
+msgid "France"
+msgstr "Frankreich"
+
+msgid "Free"
+msgstr "Frei"
+
+msgid "French"
+msgstr "Französisch"
+
+msgid "French Guiana"
+msgstr "Französisch-Guyana"
+
+msgid "Frequency"
+msgstr "Frequenz"
+
+msgid "Friday"
+msgstr "Freitag"
+
+msgid "Friends"
+msgstr "Freunde"
+
+msgid "From"
+msgstr "Von"
+
+msgid "from"
+msgstr "von"
+
+msgid "From %1"
+msgstr "Von %1"
+
+msgid "Frozen"
+msgstr "Eingefroren"
+
+msgid "Full"
+msgstr "Vollständig"
+
+msgid "Full Name"
+msgstr "Vollständiger Name"
+
+msgid "Full Screen"
+msgstr "Vollbild"
+
+msgid "Full Screen Mode"
+msgstr "Vollbildmodus"
+
+msgid "F&ull Screen Mode"
+msgstr "&Vollbildmodus"
+
+msgid "Fullscreen"
+msgstr "Vollbild"
+
+msgid "_Fullscreen"
+msgstr "_Vollbild"
+
+msgid "Function"
+msgstr "Funktion"
+
+msgid "function"
+msgstr "Funktion"
+
+msgid "Functions"
+msgstr "Funktionen"
+
+msgid "Future"
+msgstr "Zukunft"
+
+msgid "G"
+msgstr "G"
+
+msgid "Gabon"
+msgstr "Gabun"
+
+msgid "Galician"
+msgstr "Galizisch"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Game"
+msgstr "Spiel"
+
+msgid "&Game"
+msgstr "&Spiel"
+
+msgid "Game Over"
+msgstr "Spiel beendet"
+
+msgid "Games"
+msgstr "Spiele"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Gate"
+msgstr "Gate"
+
+msgid "Gateway"
+msgstr "Gateway"
+
+msgid "Gaussian Blur"
+msgstr "Gaußsches Weichzeichnen"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Gender"
+msgstr "Geschlecht"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "&General"
+msgstr "&Allgemein"
+
+msgid "General Options"
+msgstr "Allgemeine Einstellungen"
+
+msgid "General options"
+msgstr "Allgemeine Einstellungen"
+
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+msgid "Generate"
+msgstr "Generieren"
+
+msgid "Generic"
+msgstr "Allgemein"
+
+msgid "Genre"
+msgstr "Genre"
+
+msgid "Genres"
+msgstr "Genres"
+
+msgid "Geometry"
+msgstr "Geometrie"
+
+msgid "George Staikos"
+msgstr "George Staikos"
+
+msgid "Georgia"
+msgstr "Georgien"
+
+msgid "Georgian"
+msgstr "Georgisch"
+
+msgid "German"
+msgstr "Deutsch"
+
+msgid "Germany"
+msgstr "Deutschland"
+
+msgid "Get New..."
+msgstr "Neue holen …"
+
+msgid "Get New Plugins..."
+msgstr "Neue Module holen …"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Given Name"
+msgstr "Vorname"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Go"
+msgstr "Gehe zu"
+
+msgid "&Go"
+msgstr "&Gehe zu"
+
+msgid "_Go"
+msgstr "_Gehe zu"
+
+msgid "Go Back"
+msgstr "Zurück"
+
+msgid "Go back"
+msgstr "Zurück"
+
+msgid "Go forward"
+msgstr "Vorwärts"
+
+msgid "Go To"
+msgstr "Gehe zu"
+
+msgid "Go to first page"
+msgstr "Zur ersten Seite gehen"
+
+msgid "Go to last page"
+msgstr "Zur letzten Seite"
+
+msgid "Go to Line"
+msgstr "Gehe zu Zeile"
+
+msgid "Go to next page"
+msgstr "Zur nächsten Seite gehen"
+
+msgid "Go to previous page"
+msgstr "Zur vorherigen Seite"
+
+msgid "Goa"
+msgstr "Goa"
+
+msgid "Gold"
+msgstr "Gold"
+
+msgid "Good"
+msgstr "Gut"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Gothic"
+msgstr "Gothic"
+
+msgid "Gradient"
+msgstr "Verlauf"
+
+msgid "Gradients"
+msgstr "Verläufe"
+
+msgid "Graph"
+msgstr "Diagramm"
+
+msgid "Graphics"
+msgstr "Grafik"
+
+msgid "Gray"
+msgstr "Grau"
+
+msgid "gray"
+msgstr "Grau"
+
+msgid "Grayscale"
+msgstr "Graustufen"
+
+msgid "Greece"
+msgstr "Griechenland"
+
+msgid "Greek"
+msgstr "Griechisch"
+
+msgid "Green"
+msgstr "Grün"
+
+msgid "green"
+msgstr "grün"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Grey"
+msgstr "Grau"
+
+msgid "Grid"
+msgstr "Gitter"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Group name"
+msgstr "Gruppenname"
+
+msgid "Grouping"
+msgstr "Gruppierung"
+
+msgid "Groups"
+msgstr "Gruppen"
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guides"
+msgstr "Hilfslinien"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "H"
+msgstr "H"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Hard"
+msgstr "Hart"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Hawaiian"
+msgstr "Hawaiianisch"
+
+msgid "Header"
+msgstr "Kopfzeile"
+
+msgid "Headers"
+msgstr "Kopfzeilen"
+
+msgid "Heading"
+msgstr "Überschrift"
+
+msgid "Heading 1"
+msgstr "Überschrift 1"
+
+msgid "Heading 2"
+msgstr "Überschrift 2"
+
+msgid "Heading 3"
+msgstr "Überschrift 3"
+
+msgid "Heading 4"
+msgstr "Überschrift 4"
+
+msgid "Headphones"
+msgstr "Kopfhörer"
+
+msgid "Headset"
+msgstr "Headset"
+
+msgid "Health"
+msgstr "Gesundheit"
+
+msgid "Hebrew"
+msgstr "Hebräisch"
+
+msgid "Height"
+msgstr "Höhe"
+
+msgid "&Height"
+msgstr "&Höhe"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "&Help"
+msgstr "&Hilfe"
+
+msgid "_Help"
+msgstr "_Hilfe"
+
+msgid "Helsinki"
+msgstr "Helsinki"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Hexadecimal"
+msgstr "Hexadezimal"
+
+msgid "Hexagon"
+msgstr "Sechseck"
+
+msgid "Hibernate"
+msgstr "Ruhezustand"
+
+msgid "Hidden"
+msgstr "Ausgeblendet"
+
+msgid "hidden"
+msgstr "ausgeblendet"
+
+msgid "Hide"
+msgstr "Ausblenden"
+
+msgid "&Hide"
+msgstr "&Ausblenden"
+
+msgid "Hide menu bar"
+msgstr "Menüleiste ausblenden"
+
+msgid "High"
+msgstr "Hoch"
+
+msgid "Highlight"
+msgstr "Hervorheben"
+
+msgid "Highlighter"
+msgstr "Hervorhebung"
+
+msgid "Highlights"
+msgstr "Glanzlichter"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hint"
+msgstr "Tipp"
+
+msgid "Histogram"
+msgstr "Histogramm"
+
+msgid "History"
+msgstr "Verlauf"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Hold"
+msgstr "Halten"
+
+msgid "Holidays"
+msgstr "Feiertage"
+
+msgid "Home"
+msgstr "Startseite"
+
+msgid "&Home"
+msgstr "&Startseite"
+
+msgid "Home Folder"
+msgstr "Persönlicher Ordner"
+
+msgid "Home Page"
+msgstr "Startseite"
+
+msgid "Homepage"
+msgstr "Startseite"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "Horizontal"
+msgstr "Waagerecht"
+
+msgid "Host"
+msgstr "Rechner"
+
+msgid "Hostname"
+msgstr "Rechnername"
+
+msgid "Hotspot"
+msgstr "Hotspot"
+
+msgid "Hour"
+msgstr "Stunde"
+
+msgid "Hours"
+msgstr "Stunden"
+
+msgid "hours"
+msgstr "Stunden"
+
+msgid "House"
+msgstr "Haus"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "Hue"
+msgstr "Farbton"
+
+msgid "Huge"
+msgstr "Riesig"
+
+msgid "Hungarian"
+msgstr "Ungarisch"
+
+msgid "Hungary"
+msgstr "Ungarn"
+
+msgid "Hz"
+msgstr "Hz"
+
+msgid "I"
+msgstr "I"
+
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+msgid "Iceland"
+msgstr "Island"
+
+msgid "Icelandic"
+msgstr "Isländisch"
+
+msgid "Icon"
+msgstr "Symbol"
+
+msgid "Icon Size"
+msgstr "Symbolgröße"
+
+msgid "Icon size"
+msgstr "Symbolgröße"
+
+msgid "Icon View"
+msgstr "Symbolansicht"
+
+msgid "Icons"
+msgstr "Symbole"
+
+msgid "ID"
+msgstr "Kennung"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "id"
+msgstr "id"
+
+msgid "Identifier"
+msgstr "Kennung"
+
+msgid "Identity"
+msgstr "Identität"
+
+msgid "Idle"
+msgstr "Inaktiv"
+
+msgid "Ignore"
+msgstr "Ignorieren"
+
+msgid "_Ignore"
+msgstr "_Ignorieren"
+
+msgid "Ignore Case"
+msgstr "Groß-/Kleinschreibung ignorieren"
+
+msgid "Ignored"
+msgstr "Ignoriert"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "image"
+msgstr "Bild"
+
+msgid "&Image"
+msgstr "&Bild"
+
+msgid "_Image"
+msgstr "_Bild"
+
+msgid "Image Editor"
+msgstr "Bildbearbeitung"
+
+msgid "Image Files"
+msgstr "Bilddateien"
+
+msgid "Image files"
+msgstr "Bilddateien"
+
+msgid "Image Gallery"
+msgstr "Bildergalerie"
+
+msgid "Image Properties"
+msgstr "Bildeigenschaften"
+
+msgid "Image Settings"
+msgstr "Bildeinstellungen"
+
+msgid "Image Size"
+msgstr "Bildgröße"
+
+msgid "Image Viewer"
+msgstr "Bildbetrachter"
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Images (%1)"
+msgstr "Bilder (%1)"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Import"
+msgstr "Importieren"
+
+msgid "&Import"
+msgstr "&Importieren"
+
+msgid "_Import"
+msgstr "_Importieren"
+
+msgid "Import..."
+msgstr "Importieren ..."
+
+msgid "&Import..."
+msgstr "&Importieren ..."
+
+msgid "Import failed"
+msgstr "Der Import ist fehlgeschlagen"
+
+msgid "Important"
+msgstr "Wichtig"
+
+msgid "In"
+msgstr "Ein"
+
+msgid "in"
+msgstr "in"
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Inbox"
+msgstr "Posteingang"
+
+msgid "inch"
+msgstr "Zoll"
+
+msgid "Inches"
+msgstr "Zoll"
+
+msgid "inches"
+msgstr "Zoll"
+
+msgid "Inches (in)"
+msgstr "Zoll (in)"
+
+msgid "Include"
+msgstr "Einschließen"
+
+msgid "Includes"
+msgstr "Beinhaltet"
+
+msgid "Incoming"
+msgstr "Eingehend"
+
+msgid "Increase Font Size"
+msgstr "Schrift vergrößern"
+
+msgid "Increase Indent"
+msgstr "Einzug vergrößern"
+
+msgid "Increase Volume"
+msgstr "Lautstärke erhöhen"
+
+msgid "Incremental"
+msgstr "Steigernd"
+
+msgid "Indentation"
+msgstr "Einrückung"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Indexed"
+msgstr "Indiziert"
+
+msgid "India"
+msgstr "Indien"
+
+msgid "Indonesia"
+msgstr "Indonesien"
+
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+msgid "Industrial"
+msgstr "Industrial"
+
+msgid "Info"
+msgstr "Information"
+
+msgid "Information"
+msgstr "Informationen"
+
+msgid "Initials"
+msgstr "Initialen"
+
+msgid "Input"
+msgstr "Eingabe"
+
+msgid "Input Devices"
+msgstr "Eingabegeräte"
+
+msgid "Insert"
+msgstr "Einfügen"
+
+msgid "&Insert"
+msgstr "&Einfügen"
+
+msgid "Insert Image"
+msgstr "Bild einfügen"
+
+msgid "Insert Link"
+msgstr "Verknüpfung einfügen"
+
+msgid "Insert Table"
+msgstr "Tabelle einfügen"
+
+msgid "Insert Text"
+msgstr "Text einfügen"
+
+msgid "Install"
+msgstr "Installieren"
+
+msgid "Install..."
+msgstr "Installieren …"
+
+msgid "Install from File..."
+msgstr "Aus Datei installieren …"
+
+msgid "Installed"
+msgstr "Installiert"
+
+msgid "Installing"
+msgstr "Wird installiert"
+
+msgid "Instant"
+msgstr "Sofort"
+
+msgid "Integer"
+msgstr "Ganzzahl"
+
+msgid "Integrate"
+msgstr "Integrieren"
+
+msgid "Intensity"
+msgstr "Intensität"
+
+msgid "Interface"
+msgstr "Schnittstelle"
+
+msgid "Internal"
+msgstr "Intern"
+
+msgid "Internal Error"
+msgstr "Interner Fehler"
+
+msgid "Internal error"
+msgstr "Interner Fehler"
+
+msgid "International"
+msgstr "International"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Interpolation"
+msgstr "Interpolation"
+
+msgid "Interrupt"
+msgstr "Unterbrechen"
+
+msgid "Interval"
+msgstr "Intervall"
+
+msgid "Introduction"
+msgstr "Einführung"
+
+msgid "Invalid"
+msgstr "Ungültig"
+
+msgid "invalid"
+msgstr "ungültig"
+
+msgid "invalid boolean property “%s” (not yes or no)"
+msgstr "Ungültige boolesche Eigenschaft »%s« (nicht »yes« oder »no«)"
+
+msgid "Invalid date"
+msgstr "Ungültiges Datum"
+
+msgid "Invalid password"
+msgstr "Ungültiges Passwort"
+
+msgid "Invalid URL"
+msgstr "Ungültige Adresse"
+
+msgid "Invert"
+msgstr "Invertieren"
+
+msgid "Invert Selection"
+msgstr "Auswahl umkehren"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+msgid "IPTC"
+msgstr "IPTC"
+
+msgid "Iran"
+msgstr "Iran"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Irland"
+
+msgid "Irish"
+msgstr "Irisch"
+
+msgid "is"
+msgstr "ist"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Issued By"
+msgstr "Ausgestellt von"
+
+msgid "Issuer"
+msgstr "Aussteller"
+
+msgid "Italian"
+msgstr "Italienisch"
+
+msgid "Italic"
+msgstr "Kursiv"
+
+msgid "&Italic"
+msgstr "&Kursiv"
+
+msgid "_Italic"
+msgstr "_Kursiv"
+
+msgid "Italy"
+msgstr "Italien"
+
+msgid "Item"
+msgstr "Element"
+
+msgid "Items"
+msgstr "Einträge"
+
+msgid "Iterations"
+msgstr "Iterationen"
+
+msgid "J"
+msgstr "J"
+
+msgid "Jamaica"
+msgstr "Jamaika"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Japanese"
+msgstr "Japanisch"
+
+msgid "Javanese"
+msgstr "Javanisch"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+msgid "Join"
+msgstr "Beitreten"
+
+msgid "Jonah Brüchert"
+msgstr "Jonah Brüchert"
+
+msgid "Jordan"
+msgstr "Jordanien"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "Joshua Goins"
+msgstr "Joshua Goins"
+
+msgid "Journal"
+msgstr "Journal"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "Jump to next match"
+msgstr "Zur nächsten Übereinstimmung springen"
+
+msgid "Jump to previous match"
+msgstr "Zur vorherigen Übereinstimmung springen"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "Justify"
+msgstr "Blocksatz"
+
+msgid "K"
+msgstr "K"
+
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kazakh"
+msgstr "Kasachisch"
+
+msgid "Kazakhstan"
+msgstr "Kasachstan"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "KDE"
+msgstr "KDE"
+
+msgid "KDE Community, Felipe Kinoshita"
+msgstr "KDE-Gemeinschaft, Felipe Kinoshita"
+
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+msgid "KDevelop"
+msgstr "KDevelop"
+
+msgid "Keep"
+msgstr "Behalten"
+
+msgid "_Keep"
+msgstr "_Behalten"
+
+msgid "Keep aspect ratio"
+msgstr "Seitenverhältnis beibehalten"
+
+msgid "Keep Open"
+msgstr "Offen halten"
+
+msgid "Kenya"
+msgstr "Kenia"
+
+msgid "Kernel"
+msgstr "Kernel"
+
+msgid "Key"
+msgstr "Schlüssel"
+
+msgid "Key ID"
+msgstr "Schlüsselkennung"
+
+msgid "Keyboard"
+msgstr "Tastatur"
+
+msgid "Keyboard Layout"
+msgstr "Tastaturbelegung"
+
+msgid "Keyboard Shortcuts"
+msgstr "Tastenkürzel"
+
+msgid "Keyboard shortcuts"
+msgstr "Tastenkombinationen"
+
+msgid "_Keyboard Shortcuts"
+msgstr "_Tastenkürzel"
+
+msgid "Keys"
+msgstr "Schlüssel"
+
+msgid "Keyword"
+msgstr "Schlüsselwort"
+
+msgid "Keywords"
+msgstr "Schlüsselwörter"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Kind"
+msgstr "Art"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "km"
+msgstr "km"
+
+msgid "KMail"
+msgstr "KMail"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Korean"
+msgstr "Koreanisch"
+
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "KWin"
+msgstr "KWin"
+
+msgid "L"
+msgstr "L"
+
+msgid "Label"
+msgstr "Bezeichnung"
+
+msgid "label"
+msgstr "Beschriftung"
+
+msgid "Labels"
+msgstr "Beschriftungen"
+
+msgid "Landscape"
+msgstr "Querformat"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "_Language"
+msgstr "_Sprache"
+
+msgid "Languages"
+msgstr "Sprachen"
+
+msgid "Lao"
+msgstr "Laotisch"
+
+msgid "Laos"
+msgstr "Laos"
+
+msgid "Large"
+msgstr "Groß"
+
+msgid "Last"
+msgstr "Letzte"
+
+msgid "Last Modified"
+msgstr "Zuletzt geändert"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Latin"
+msgstr "Latein"
+
+msgid "Latitude"
+msgstr "Breitengrad"
+
+msgid "Latvia"
+msgstr "Lettland"
+
+msgid "Latvian"
+msgstr "Lettisch"
+
+msgid "Launch %1"
+msgstr "%1 starten"
+
+msgid "Layer"
+msgstr "Ebene"
+
+msgid "Layers"
+msgstr "Ebenen"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Leave Fullscreen"
+msgstr "Vollbild verlassen"
+
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "left"
+msgstr "links"
+
+msgid "&Left"
+msgstr "&Links"
+
+msgid "_Left"
+msgstr "_Links"
+
+msgid "Left to Right"
+msgstr "Links nach Rechts"
+
+msgid "Legacy"
+msgstr "Veraltet"
+
+msgid "Legend"
+msgstr "Legende"
+
+msgid "Length"
+msgstr "Länge"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Letter"
+msgstr "Brief"
+
+msgid "Level"
+msgstr "Ebene"
+
+msgid "Level %1"
+msgstr "Ebene %1"
+
+msgid "Levels"
+msgstr "Farbwerte"
+
+msgid "Liberia"
+msgstr "Liberia"
+
+msgid "Library"
+msgstr "Bibliothek"
+
+msgid "License"
+msgstr "Lizenz"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Light"
+msgstr "Hell"
+
+msgid "Lighten"
+msgstr "Aufhellen"
+
+msgid "Lightness"
+msgstr "Helligkeit"
+
+msgid "Limit"
+msgstr "Begrenzung"
+
+msgid "Limits"
+msgstr "Begrenzungen"
+
+msgid "Line"
+msgstr "Linie"
+
+msgid "line"
+msgstr "Linie"
+
+msgid "Line Break"
+msgstr "Zeilenumbruch"
+
+msgid "Line Color"
+msgstr "Linienfarbe"
+
+msgid "Line Numbers"
+msgstr "Zeilennummern"
+
+msgid "Line Width"
+msgstr "Linienbreite"
+
+msgid "Line width"
+msgstr "Linienbreite"
+
+msgid "Linear"
+msgstr "Linear"
+
+msgid "Lines"
+msgstr "Linien"
+
+msgid "Link"
+msgstr "Verknüpfung"
+
+msgid "link"
+msgstr "Verknüpfung"
+
+msgid "Link URL"
+msgstr "Verknüpfungsziel"
+
+msgid "Links"
+msgstr "Verknüpfungen"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "List View"
+msgstr "Listenansicht"
+
+msgid "Lists"
+msgstr "Listen"
+
+msgid "Lists the available options for user feedback"
+msgstr "Zeigt die verfügbaren Einstellungen zum Benutzer-Feedback an"
+
+msgid "Lithuania"
+msgstr "Litauen"
+
+msgid "Lithuanian"
+msgstr "Litauisch"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "Load"
+msgstr "Laden"
+
+msgid "Load..."
+msgstr "Laden …"
+
+msgid "Load Game"
+msgstr "Spiel laden"
+
+msgid "Loading"
+msgstr "Wird geladen"
+
+msgid "Loading..."
+msgstr "Wird geladen …"
+
+msgid "Loading %1..."
+msgstr "%1 wird geladen ..."
+
+msgid "Local"
+msgstr "Lokal"
+
+msgid "Locale"
+msgstr "Sprache"
+
+msgid "Locality"
+msgstr "Ort"
+
+msgid "Location"
+msgstr "Ort"
+
+msgid "Locations"
+msgstr "Orte"
+
+msgid "Lock"
+msgstr "Sperren"
+
+msgid "Lock Screen"
+msgstr "Bildschirm sperren"
+
+msgid "Locked"
+msgstr "Gesperrt"
+
+msgid "Log"
+msgstr "Protokoll"
+
+msgid "Log in"
+msgstr "Anmelden"
+
+msgid "Log Out"
+msgstr "Abmelden"
+
+msgid "Logarithmic"
+msgstr "Logarithmisch"
+
+msgid "Logging"
+msgstr "Protokollierung"
+
+msgid "Logging in..."
+msgstr "Anmelden …"
+
+msgid "Logic"
+msgstr "Logik"
+
+msgid "Login"
+msgstr "Anmeldung"
+
+msgid "_Login"
+msgstr "_Anmelden"
+
+msgid "Logout"
+msgstr "Abmelden"
+
+msgid "Logs"
+msgstr "Protokolle"
+
+msgid "Longitude"
+msgstr "Längengrad"
+
+msgid "Loop"
+msgstr "Schleife"
+
+msgid "Low"
+msgstr "Niedrig"
+
+msgid "Lower"
+msgstr "Nach hinten"
+
+msgid "Lowercase"
+msgstr "Kleinschreibung"
+
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+msgid "Luminance"
+msgstr "Leuchtkraft"
+
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgid "Lyricist"
+msgstr "Texter"
+
+msgid "Lyrics"
+msgstr "Liedtext"
+
+msgid "M"
+msgstr "M"
+
+msgid "m"
+msgstr "m"
+
+msgid "Macedonian"
+msgstr "Mazedonisch"
+
+msgid "Macro"
+msgstr "Makro"
+
+msgid "Macros"
+msgstr "Makros"
+
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Mail"
+msgstr "E-Mail"
+
+msgid "Main"
+msgstr "Haupt-Werkzeugleiste"
+
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+msgid "Main Toolbar"
+msgstr "Haupt-Werkzeugleiste"
+
+msgid "Main Window"
+msgstr "Hauptfenster"
+
+msgid "Main window"
+msgstr "Hauptfenster"
+
+msgid "Maintainer"
+msgstr "Betreuer"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Malay"
+msgstr "Malaiisch"
+
+msgid "Malayalam"
+msgstr "Malayalam"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Maldives"
+msgstr "Malediven"
+
+msgid "Male"
+msgstr "Männlich"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Maltese"
+msgstr "Maltesisch"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Manual"
+msgstr "Manuell"
+
+msgid "Manufacturer"
+msgstr "Hersteller"
+
+msgid "Map"
+msgstr "Karte"
+
+msgid "Maps"
+msgstr "Karten"
+
+msgid "Marathi"
+msgstr "Marathi"
+
+msgid "Marble"
+msgstr "Marble"
+
+msgid "March"
+msgstr "März"
+
+msgid "Margins"
+msgstr "Ränder"
+
+msgid "Mark"
+msgstr "Markieren"
+
+msgid "Mark as Read"
+msgstr "Als gelesen markieren"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Marker"
+msgstr "Markierung"
+
+msgid "Markers"
+msgstr "Markierungen"
+
+msgid "Marshall Islands"
+msgstr "Marshallinseln"
+
+msgid "Mask"
+msgstr "Maske"
+
+msgid "Mass"
+msgstr "Masse"
+
+msgid "Match"
+msgstr "Übereinstimmung"
+
+msgid "Match case"
+msgstr "Groß-/Kleinschreibung beachten"
+
+msgid "_Match case"
+msgstr "_Groß-/Kleinschreibung berücksichtigen"
+
+msgid "Math"
+msgstr "Mathematik"
+
+msgid "Matrix"
+msgstr "Matrix"
+
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+msgid "Mauritius"
+msgstr "Mauritius"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "max"
+msgstr "max"
+
+msgid "Maximize"
+msgstr "Maximieren"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Maze"
+msgstr "Labyrinth"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "Mean"
+msgstr "Mittelwert"
+
+msgid "Measure"
+msgstr "Maßband"
+
+msgid "Media"
+msgstr "Medien"
+
+msgid "Media Player"
+msgstr "Medienwiedergabe"
+
+msgid "Median"
+msgstr "Median"
+
+msgid "Medium"
+msgstr "Mittel"
+
+msgid "medium"
+msgstr "mittel"
+
+msgid "Member"
+msgstr "Mitglied"
+
+msgid "Memory"
+msgstr "Speicher"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Mercury"
+msgstr "Merkur"
+
+msgid "Merge"
+msgstr "Zusammenführen"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "message"
+msgstr "Nachricht"
+
+msgid "Messages"
+msgstr "Nachrichten"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metadata"
+msgstr "Metadaten"
+
+msgid "Metal"
+msgstr "Metal"
+
+msgid "meters"
+msgstr "Meter"
+
+msgid "Method"
+msgstr "Methode"
+
+msgid "Metric"
+msgstr "Metrik"
+
+msgid "Mexico"
+msgstr "Mexiko"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Microphone"
+msgstr "Mikrofon"
+
+msgid "Middle"
+msgstr "Mitte"
+
+msgid "Miha Čančula"
+msgstr "Miha Čančula"
+
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+msgid "Millimeters"
+msgstr "Millimeter"
+
+msgid "Millimeters (mm)"
+msgstr "Millimeter (mm)"
+
+msgid "Milliseconds"
+msgstr "Millisekunden"
+
+msgid "milliseconds"
+msgstr "Millisekunden"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "min"
+msgstr "min"
+
+msgid "Minimize"
+msgstr "Minimieren"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Minute"
+msgstr "Minute"
+
+msgid "Minutes"
+msgstr "Minuten"
+
+msgid "minutes"
+msgstr "Minuten"
+
+msgid "Mirror"
+msgstr "Spiegeln"
+
+msgid "Misc"
+msgstr "Verschiedenes"
+
+msgid "Miscellaneous"
+msgstr "Verschiedenes"
+
+msgid "missing plugin file \"%s\""
+msgstr "Erweiterungs-Datei »%s« fehlt"
+
+msgid "Miter limit"
+msgstr "Gehrungsgrenze"
+
+msgid "Mix"
+msgstr "Mischen"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Mode"
+msgstr "Modus"
+
+msgid "Model"
+msgstr "Modell"
+
+msgid "Modem"
+msgstr "Modem"
+
+msgid "Modified"
+msgstr "Geändert"
+
+msgid "modified"
+msgstr "geändert"
+
+msgid "Modifiers"
+msgstr "Sondertasten"
+
+msgid "Modify"
+msgstr "Ändern"
+
+msgid "Modify..."
+msgstr "Ändern …"
+
+msgid "&Modify..."
+msgstr "&Bearbeiten …"
+
+msgid "Modify search behavior"
+msgstr "Suchverhalten ändern"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Modules"
+msgstr "Module"
+
+msgid "Moldova"
+msgstr "Moldawien"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Monday"
+msgstr "Montag"
+
+msgid "Mongolia"
+msgstr "Mongolei"
+
+msgid "Mongolian"
+msgstr "Mongolisch"
+
+msgid "Monitor"
+msgstr "Monitor"
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Monochrome"
+msgstr "Schwarz-Weiß"
+
+msgid "Monospace"
+msgstr "Monospace"
+
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "Month"
+msgstr "Monat"
+
+msgid "Month View"
+msgstr "Monatsansicht"
+
+msgid "Monthly"
+msgstr "Monatlich"
+
+msgid "Months"
+msgstr "Monate"
+
+msgid "More"
+msgstr "Mehr"
+
+msgid "More..."
+msgstr "Mehr ..."
+
+msgid "More actions"
+msgstr "Weitere Aktionen"
+
+msgid "More Information"
+msgstr "Weitere Informationen"
+
+msgid "More options"
+msgstr "Weitere Einstellungen"
+
+msgid "Morocco"
+msgstr "Marokko"
+
+msgid "Mount"
+msgstr "Einhängen"
+
+msgid "Mount point"
+msgstr "Einhängepunkt"
+
+msgid "Mouse"
+msgstr "Maus"
+
+msgid "Mouse Wheel"
+msgstr "Mausrad"
+
+msgid "Move"
+msgstr "Verschieben"
+
+msgid "&Move"
+msgstr "&Verschieben"
+
+msgid "_Move"
+msgstr "_Verschieben"
+
+msgid "Move %1"
+msgstr "%1 verschieben"
+
+msgid "Move Down"
+msgstr "Nach unten"
+
+msgid "Move down"
+msgstr "Nach unten"
+
+msgid "Move &Down"
+msgstr "Nach &unten"
+
+msgid "&Move Here"
+msgstr "Hierher &verschieben"
+
+msgid "Move Left"
+msgstr "Nach links"
+
+msgid "_Move on Toolbar"
+msgstr ""
+
+msgid "Move Right"
+msgstr "Nach rechts"
+
+msgid "Move Tab Left"
+msgstr "Unterfenster nach links verschieben"
+
+msgid "Move Tab Right"
+msgstr "Unterfenster nach rechts verschieben"
+
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+msgid "Move To"
+msgstr "Verschieben nach"
+
+msgid "Move to Bottom"
+msgstr "Nach unten verschieben"
+
+msgid "Move to Top"
+msgstr "Nach oben verschieben"
+
+msgid "Move to Trash"
+msgstr "In den Papierkorb verschieben"
+
+msgid "&Move to Trash"
+msgstr "In den &Papierkorb verschieben"
+
+msgid "Move Up"
+msgstr "Nach oben"
+
+msgid "Move up"
+msgstr "Nach oben"
+
+msgid "Move &Up"
+msgstr "Nach &oben"
+
+msgid "Mozambique"
+msgstr "Mosambik"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Multiply"
+msgstr "Multiplizieren"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Music Player"
+msgstr "Audio-Wiedergabe"
+
+msgid "Mute"
+msgstr "Stummschalten"
+
+msgid "Myanmar"
+msgstr "Myanmar"
+
+msgid "N"
+msgstr "N"
+
+msgid "n"
+msgstr "n"
+
+msgid "N/A"
+msgstr "N/V"
+
+msgid "n/a"
+msgstr "n.v."
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "name"
+msgstr "Name"
+
+msgid "&Name"
+msgstr "&Name"
+
+msgid "_Name"
+msgstr "_Name"
+
+msgid "Name: %1"
+msgstr "Name: %1"
+
+msgid "Namespace"
+msgstr "Namensraum"
+
+msgid "Namibia"
+msgstr "Namibia"
+
+msgid "Nature"
+msgstr "Natur"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Negative"
+msgstr "Negativ"
+
+msgid "Neon"
+msgstr "Neon"
+
+msgid "Nepal"
+msgstr "Nepal"
+
+msgid "Nepali"
+msgstr "Nepalesisch"
+
+msgid "Netherlands"
+msgstr "Niederlande"
+
+msgid "Network"
+msgstr "Netzwerk"
+
+msgid "Networks"
+msgstr "Netzwerke"
+
+msgid "Never"
+msgstr "Niemals"
+
+msgid "never"
+msgstr "Niemals"
+
+msgid "New"
+msgstr "Neu"
+
+msgid "&New"
+msgstr "&Neu"
+
+msgid "_New"
+msgstr "_Neu"
+
+msgid "New..."
+msgstr "Neu …"
+
+msgid "&New..."
+msgstr "&Neu ..."
+
+msgid "_New..."
+msgstr "_Neu …"
+
+msgid "New Bookmark"
+msgstr "Neues Lesezeichen"
+
+msgid "New Connection"
+msgstr "Neue Verbindung"
+
+msgid "New File"
+msgstr "Neue Datei"
+
+msgid "New Folder"
+msgstr "Neuer Ordner"
+
+msgid "New folder"
+msgstr "Neuer Ordner"
+
+msgid "New Folder..."
+msgstr "Neuer Ordner …"
+
+msgid "New Game"
+msgstr "Neues Spiel"
+
+msgid "New Group"
+msgstr "Neue Gruppe"
+
+msgid "New Item"
+msgstr "Neues Element"
+
+msgid "New Layer"
+msgstr "Neue Ebene"
+
+msgid "New Message"
+msgstr "Neue Nachricht"
+
+msgid "New Name"
+msgstr "Neuer Name"
+
+msgid "New name"
+msgstr "Neuer Name"
+
+msgid "New Profile"
+msgstr "Neues Profil"
+
+msgid "New Project"
+msgstr "Neues Projekt"
+
+msgid "New Session"
+msgstr "Neue Sitzung"
+
+msgid "New South Wales"
+msgstr "Neusüdwales"
+
+msgid "New Tab"
+msgstr "Neues Unterfenster"
+
+msgid "New tag"
+msgstr "Neues Stichwort"
+
+msgid "New Window"
+msgstr "Neues Fenster"
+
+msgid "_New Window"
+msgstr "_Neues Fenster"
+
+msgid "New &Window"
+msgstr "Neues &Fenster"
+
+msgid "New _Window"
+msgstr "Neues _Fenster"
+
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+msgid "News"
+msgstr "Nachrichten"
+
+msgid "Newton"
+msgstr "Newton"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "&Next"
+msgstr "&Weiter"
+
+msgid "_Next"
+msgstr "_Weiter"
+
+msgid "Next Image"
+msgstr "Nächstes Bild"
+
+msgid "Next month"
+msgstr "Nächster Monat"
+
+msgid "Next Page"
+msgstr "Nächste Seite"
+
+msgid "Next Tab"
+msgstr "Nächstes Unterfenster"
+
+msgid "Next Track"
+msgstr "Nächstes Stück"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Nickname"
+msgstr "Spitzname"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgid "Night"
+msgstr "Nacht"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "no"
+msgstr "nein"
+
+msgid "_No"
+msgstr "_Nein"
+
+msgid "No."
+msgstr "Nr."
+
+msgid "No description available"
+msgstr "Keine Beschreibung verfügbar"
+
+msgid "No devices found"
+msgstr "Keine Geräte gefunden"
+
+msgid "No error"
+msgstr "Kein Fehler"
+
+msgid "No file selected"
+msgstr "Keine Datei ausgewählt"
+
+msgid "No filter"
+msgstr "Kein Filter"
+
+msgid "No Limit"
+msgstr "Keine Begrenzung"
+
+msgid "No matches"
+msgstr "Keine Übereinstimmungen"
+
+msgid "No Name"
+msgstr "Kein Name"
+
+msgid "No name"
+msgstr "Kein Name"
+
+msgid "No network connection"
+msgstr "Keine Netzwerkverbindung"
+
+msgid "No results"
+msgstr "Keine Ergebnisse"
+
+msgid "No Results Found"
+msgstr "Keine Ergebnisse gefunden"
+
+msgid "No results found"
+msgstr "Keine Ergebnisse gefunden"
+
+msgid "No search results"
+msgstr "Keine Suchergebnisse"
+
+msgid "No selection"
+msgstr "Keine Auswahl"
+
+msgid "No Subject"
+msgstr "Kein Betreff"
+
+msgid "No VPN configuration options."
+msgstr "Keine VPN-Konfigurationsoptionen."
+
+msgid "Noise"
+msgstr "Rauschen"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "none"
+msgstr "Keine"
+
+msgid "&None"
+msgstr "&Keine"
+
+msgid "_None"
+msgstr "Nichts"
+
+msgid "(None)"
+msgstr "(Keine)"
+
+msgid "(none)"
+msgstr "(keine)"
+
+msgid "Nordic"
+msgstr "Nordisch"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "_Normal Size"
+msgstr "_Normale Größe"
+
+msgid "Normalize"
+msgstr "Normalisieren"
+
+msgid "North"
+msgstr "Nord"
+
+msgid "North America"
+msgstr "Nordamerika"
+
+msgid "Norway"
+msgstr "Norwegen"
+
+msgid "Norwegian"
+msgstr "Norwegisch"
+
+msgid "Not a launchable item"
+msgstr ""
+
+msgid "Not able to write '%1'. Partition full?"
+msgstr ""
+"„%1“ kann nicht geschrieben werden. Möglicherweise ist nicht genug Platz auf"
+" dem Speichermedium."
+
+msgid "Not Available"
+msgstr "Nicht verfügbar"
+
+msgid "Not available"
+msgstr "Nicht verfügbar"
+
+msgid "not available"
+msgstr "nicht verfügbar"
+
+msgid "Not Connected"
+msgstr "Nicht verbunden"
+
+msgid "Not connected"
+msgstr "Nicht verbunden"
+
+msgid "Not defined"
+msgstr "Nicht definiert"
+
+msgid "Not found"
+msgstr "Nicht gefunden"
+
+msgid "Not implemented"
+msgstr "Nicht verfügbar"
+
+msgid "Not running"
+msgstr "Nicht gestartet"
+
+msgid "Not supported"
+msgstr "Nicht unterstützt"
+
+msgid "Note"
+msgstr "Notiz"
+
+msgid "Notes"
+msgstr "Notizen"
+
+msgid "Nothing"
+msgstr "Nichts"
+
+msgid "Notice"
+msgstr "Hinweis"
+
+msgid "Notification"
+msgstr "Benachrichtigung"
+
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+msgid "Noun"
+msgstr "Substantiv"
+
+msgid "November"
+msgstr "November"
+
+msgid "Now"
+msgstr "Jetzt"
+
+msgid "now"
+msgstr "jetzt"
+
+msgid "NT Domain"
+msgstr "NT-Domäne"
+
+msgid "NUMBER"
+msgstr "NUMMER"
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "number"
+msgstr "Zahl"
+
+msgid "Number of columns"
+msgstr "Anzahl der Spalten"
+
+msgid "Numbers"
+msgstr "Zahlen"
+
+msgid "Numeric"
+msgstr "Numerisch"
+
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+msgid "Object"
+msgstr "Objekt"
+
+msgid "object class '%s' has no property named '%s'"
+msgstr "Objektklasse »%s« hat keine Eigenschaft namens »%s«"
+
+msgid "Objects"
+msgstr "Objekte"
+
+msgid "Oblique"
+msgstr "Kursiv"
+
+msgid "Octal"
+msgstr "Oktal"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "off"
+msgstr "aus"
+
+msgid "Office"
+msgstr "Büro"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Offset"
+msgstr "Versatz"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "_OK"
+msgstr "_OK"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Oman"
+msgstr "Oman"
+
+msgid "On"
+msgstr "Ein"
+
+msgid "on"
+msgstr "an"
+
+msgid "One"
+msgstr "Eins"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Online Accounts"
+msgstr "Online-Konten"
+
+msgid "Opacity"
+msgstr "Deckkraft"
+
+msgid "Opaque"
+msgstr "Deckend"
+
+msgid "Open"
+msgstr "Öffnen"
+
+msgid "&Open"
+msgstr "Öff&nen"
+
+msgid "_Open"
+msgstr "Ö_ffnen"
+
+msgid "Open..."
+msgstr "Öffnen …"
+
+msgid "&Open..."
+msgstr "Öff&nen ..."
+
+msgid "_Open..."
+msgstr "Ö_ffnen …"
+
+msgid "Open %1"
+msgstr "%1 öffnen"
+
+msgid "Open a file"
+msgstr "Eine Datei öffnen"
+
+msgid "Open a new tab"
+msgstr "Neues Unterfenster öffnen"
+
+msgid "Open a new window"
+msgstr "Ein neues Fenster öffnen"
+
+msgid "Open an existing document"
+msgstr "Ein vorhandenes Dokument öffnen"
+
+msgid "Open Audio"
+msgstr "Audio öffnen"
+
+msgid "Open Containing Folder"
+msgstr "Ordner mit diesem Inhalt öffnen"
+
+msgid "&Open Containing Folder"
+msgstr "&Ordner mit diesem Inhalt öffnen"
+
+msgid "Open Document"
+msgstr "Dokument öffnen"
+
+msgid "Open File"
+msgstr "Datei öffnen"
+
+msgid "Open file"
+msgstr "Datei öffnen"
+
+msgid "Open Folder"
+msgstr "Ordner öffnen"
+
+msgid "Open folder"
+msgstr "Ordner öffnen"
+
+msgid "Open Image"
+msgstr "Bild öffnen"
+
+msgid "Open in Browser"
+msgstr "Im Browser öffnen"
+
+msgid "Open in File Manager"
+msgstr "In Dateiverwaltung öffnen"
+
+msgid "Open in New Tab"
+msgstr "In neuem Unterfenster öffnen"
+
+msgid "Open in New Window"
+msgstr "In neuem Fenster öffnen"
+
+msgid "Open Link"
+msgstr "Verknüpfung öffnen"
+
+msgid "_Open Link"
+msgstr "Link ö_ffnen"
+
+msgid "Open Location"
+msgstr "Speicherort öffnen"
+
+msgid "Open Menu"
+msgstr "Menü öffnen"
+
+msgid "Open Project"
+msgstr "Projekt öffnen"
+
+msgid "Open &Recent"
+msgstr "&Zuletzt geöffnete Dateien"
+
+msgid "Open Terminal Here"
+msgstr "Terminal hier öffnen"
+
+msgid "Open URL"
+msgstr "Adresse öffnen"
+
+msgid "Open Video"
+msgstr "Video öffnen"
+
+msgid "Open With"
+msgstr "Öffnen mit"
+
+msgid "Open with"
+msgstr "Öffnen mit"
+
+msgid "&Open With"
+msgstr "Öff&nen mit"
+
+msgid "Open With..."
+msgstr "Öffnen mit ..."
+
+msgid "Open &with %1"
+msgstr "&Mit %1 öffnen"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Opening file..."
+msgstr "Datei wird geöffnet …"
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Opera"
+msgstr "Oper"
+
+msgid "Operation"
+msgstr "Operation"
+
+msgid "Operation was cancelled"
+msgstr "Vorgang wurde abgebrochen"
+
+msgid "Operations"
+msgstr "Operationen"
+
+msgid "Operator"
+msgstr "Operator"
+
+msgid "Optical Character Recognition"
+msgstr "Optische Zeichenerkennung (OCR)"
+
+msgid "Optimize"
+msgstr "Optimieren"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Optional"
+msgstr "Optional"
+
+msgid "Options"
+msgstr "Optionen"
+
+msgid "&Options"
+msgstr "&Optionen"
+
+msgid "OR"
+msgstr "ODER"
+
+msgid "Or"
+msgstr "Oder"
+
+msgid "or"
+msgstr "oder"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Order"
+msgstr "Reihenfolge"
+
+msgid "Organization"
+msgstr "Organisation"
+
+msgid "Orientation"
+msgstr "Ausrichtung"
+
+msgid "Origin"
+msgstr "Herkunft"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Original Author"
+msgstr "Ursprünglicher Autor"
+
+msgid "Original author"
+msgstr "Ursprünglicher Autor"
+
+msgid "Original Size"
+msgstr "Originalgröße"
+
+msgid "Oriya"
+msgstr "Oriya"
+
+msgid "Other"
+msgstr "Weitere"
+
+msgid "other"
+msgstr "Andere"
+
+msgid "Other..."
+msgstr "Weitere ..."
+
+msgid "Other Application..."
+msgstr "Andere Anwendung …"
+
+msgid "Other Options"
+msgstr "Weitere Optionen"
+
+msgid "Others"
+msgstr "Sonstige"
+
+msgid "Out"
+msgstr "Aus"
+
+msgid "Out of memory"
+msgstr "Nicht genügend Speicher"
+
+msgid "Outgoing"
+msgstr "Ausgehend"
+
+msgid "Outline"
+msgstr "Funktions-Kurzinfo"
+
+msgid "Output"
+msgstr "Ausgabe"
+
+msgid "Overlay"
+msgstr "Überlagern"
+
+msgid "Overview"
+msgstr "Übersicht"
+
+msgid "Overwrite"
+msgstr "Überschreiben"
+
+msgid "Overwrite File?"
+msgstr "Datei überschreiben?"
+
+msgid "Owner"
+msgstr "Eigentümer"
+
+msgid "Ownership"
+msgstr "Eigentümer"
+
+msgid "Oxygen"
+msgstr "Oxygen"
+
+msgid "P"
+msgstr "P"
+
+msgid "%p%"
+msgstr "%p %"
+
+msgid "Package"
+msgstr "Paket"
+
+msgid "Padding"
+msgstr "Zwischenraum"
+
+msgid "Page"
+msgstr "Seite"
+
+msgid "page"
+msgstr "Seite"
+
+msgid "Page %1"
+msgstr "Seite %1"
+
+msgid "Page %1 of %2"
+msgstr "Seite %1 von %2"
+
+msgid "Page Break"
+msgstr "Seitenumbruch"
+
+msgid "Page Count"
+msgstr "Seitenanzahl"
+
+msgid "Page Number"
+msgstr "Seitenzahl"
+
+msgid "Page Setup"
+msgstr "Seiteneinstellungen"
+
+msgid "Pager"
+msgstr "Pager"
+
+msgid "Pages"
+msgstr "Seiten"
+
+msgid "Paint"
+msgstr "Zeichnen"
+
+msgid "Pair"
+msgstr "Koppeln"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Palette"
+msgstr "Palette"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Panel"
+msgstr "Dateifenster"
+
+msgid "Panels"
+msgstr "Seitenleisten"
+
+msgid "&Panels"
+msgstr "&Seitenleisten"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Paper"
+msgstr "Papier"
+
+msgid "Paper Size"
+msgstr "Papiergröße"
+
+msgid "Papua New Guinea"
+msgstr "Papua-Neuguinea"
+
+msgid "Paragraph"
+msgstr "Absatz"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parallel"
+msgstr "Parallel"
+
+msgid "Parameter"
+msgstr "Parameter"
+
+msgid "Parameters"
+msgstr "Parameter"
+
+msgid "Parent"
+msgstr "Übergeordnetes Element"
+
+msgid "Partition"
+msgstr "Partition"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "password"
+msgstr "Passwort"
+
+msgid "&Password"
+msgstr "&Passwort"
+
+msgid "_Password"
+msgstr "_Passwort"
+
+msgid "Password..."
+msgstr "Passwort …"
+
+msgid "Passwords"
+msgstr "Passwörter"
+
+msgid "Paste"
+msgstr "Einfügen"
+
+msgid "&Paste"
+msgstr "&Einfügen"
+
+msgid "_Paste"
+msgstr "E_infügen"
+
+msgid "Path"
+msgstr "Pfad"
+
+msgid "path"
+msgstr "Pfad"
+
+msgid "Paths"
+msgstr "Pfade"
+
+msgid "Pattern"
+msgstr "Muster"
+
+msgid "Patterns"
+msgstr "Muster"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "&Pause"
+msgstr "&Pause"
+
+msgid "Pause playback"
+msgstr "Wiedergabe anhalten"
+
+msgid "PAUSED"
+msgstr "PAUSE"
+
+msgid "Paused"
+msgstr "Angehalten"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Peak"
+msgstr "Gipfel"
+
+msgid "Peek at Desktop"
+msgstr "Blick auf die Arbeitsfläche"
+
+msgid "Pencil"
+msgstr "Stift"
+
+msgid "Pending"
+msgstr "Ausstehend"
+
+msgid "Pentagon"
+msgstr "Fünfeck"
+
+msgid "People"
+msgstr "Personen"
+
+msgid "Percent"
+msgstr "Prozent"
+
+msgid "Percentage"
+msgstr "Prozentsatz"
+
+msgid "Perceptual"
+msgstr "Wahrnehmung"
+
+msgid "Performance"
+msgstr "Leistung"
+
+msgid "Period"
+msgstr "Periode"
+
+msgid "Permission denied"
+msgstr "Zugriff verweigert"
+
+msgid "Permissions"
+msgstr "Berechtigungen"
+
+msgid "Persian"
+msgstr "Persisch"
+
+msgid "Person"
+msgstr "Person"
+
+msgid "Personal"
+msgstr "Persönlich"
+
+msgid "Personal Information"
+msgstr "Persönliche Informationen"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Phase"
+msgstr "Phase"
+
+msgid "Philippines"
+msgstr "Philippinen"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "PHP Documentation"
+msgstr "PHP-Dokumentation"
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Pick a color"
+msgstr "Eine Farbe wählen"
+
+msgid "Picture"
+msgstr "Bild"
+
+msgid "Pictures"
+msgstr "Bilder"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Pie"
+msgstr "Kreis"
+
+msgid "Pin"
+msgstr "Pin"
+
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+msgid "Pixels"
+msgstr "Pixel"
+
+msgid "pixels"
+msgstr "Pixel"
+
+msgid "Placement"
+msgstr "Platzierung"
+
+msgid "Places"
+msgstr "Orte"
+
+msgid "Plain"
+msgstr "Einfach"
+
+msgid "Plain Text"
+msgstr "Einfacher Text"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Platform"
+msgstr "Bahnsteig"
+
+msgid "Play"
+msgstr "Wiedergabe"
+
+msgid "Play Next"
+msgstr "Als nächstes wiedergeben"
+
+msgid "Play Sounds"
+msgstr "Klänge wiedergeben"
+
+msgid "Playback"
+msgstr "Wiedergabe"
+
+msgid "Player"
+msgstr "Spieler"
+
+msgid "Player %1"
+msgstr "Spieler %1"
+
+msgid "Players"
+msgstr "Spieler"
+
+msgid "Playground"
+msgstr "Spielplatz"
+
+msgid "Playing"
+msgstr "Wiedergabe"
+
+msgid "Playlist"
+msgstr "Wiedergabeliste"
+
+msgid "Playlists"
+msgstr "Wiedergabelisten"
+
+msgid "Play/Pause"
+msgstr "Wiedergabe/Pause"
+
+msgid "Please choose a file"
+msgstr "Bitte wählen Sie eine Datei"
+
+msgid "Please wait"
+msgstr "Bitte warten"
+
+msgid "Please wait..."
+msgstr "Bitte warten …"
+
+msgid "Plot"
+msgstr "Plot"
+
+msgid "Plots"
+msgstr "Plots"
+
+msgid "Plugin"
+msgstr "Modul"
+
+msgid "Plugins"
+msgstr "Module"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Point"
+msgstr "Punkt"
+
+msgid "Pointers"
+msgstr "Mauszeiger"
+
+msgid "Points"
+msgstr "Punkte"
+
+msgid "points"
+msgstr "Punkte"
+
+msgid "Poland"
+msgstr "Polen"
+
+msgid "Policy"
+msgstr "Regelung"
+
+msgid "Polish"
+msgstr "Polnisch"
+
+msgid "Polygon"
+msgstr "Vieleck"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "&Port"
+msgstr "&Port"
+
+msgid "Portrait"
+msgstr "Hochformat"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Portuguese"
+msgstr "Portugiesisch"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Posterize"
+msgstr "Posterisieren"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Power"
+msgstr "Leistung"
+
+msgid "Power Management"
+msgstr "Energieverwaltung"
+
+msgid "Precision"
+msgstr "Genauigkeit"
+
+msgid "Preferences"
+msgstr "Einstellungen"
+
+msgid "_Preferences"
+msgstr "_Einstellungen"
+
+msgid "Prefix"
+msgstr "Präfix"
+
+msgid "Presentation"
+msgstr "Präsentation"
+
+msgid "Preset"
+msgstr "Voreinstellung"
+
+msgid "Presets"
+msgstr "Voreinstellungen"
+
+msgid "Pressure"
+msgstr "Druck"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "&Preview"
+msgstr "&Vorschau"
+
+msgid "Previews"
+msgstr "Vorschaubilder"
+
+msgid "Previous"
+msgstr "Zurück"
+
+msgid "&Previous"
+msgstr "&Zurück"
+
+msgid "_Previous"
+msgstr "_Zurück"
+
+msgid "Previous Image"
+msgstr "Vorheriges Bild"
+
+msgid "Previous month"
+msgstr "Vorheriger Monat"
+
+msgid "Previous Page"
+msgstr "Vorherige Seite"
+
+msgid "Previous Tab"
+msgstr "Vorheriges Unterfenster"
+
+msgid "Previous Track"
+msgstr "Vorheriges Stück"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Primary"
+msgstr "Primär"
+
+msgid "Print"
+msgstr "Drucken"
+
+msgid "_Print"
+msgstr "_Drucken"
+
+msgid "Print..."
+msgstr "Drucken …"
+
+msgid "&Print..."
+msgstr "&Drucken …"
+
+msgid "_Print..."
+msgstr "_Drucken …"
+
+msgid "Print Image"
+msgstr "Bild drucken"
+
+msgid "Print Preview"
+msgstr "Druckvorschau"
+
+msgid "Print version"
+msgstr "Version ausgeben"
+
+msgid "Print version information and exit"
+msgstr "Versionsinformationen anzeigen und beenden"
+
+msgid "Printer"
+msgstr "Drucker"
+
+msgid "Printers"
+msgstr "Drucker"
+
+msgid "Printing"
+msgstr "Drucken"
+
+msgid "Printing..."
+msgstr "Druckvorgang läuft …"
+
+msgid "Priority"
+msgstr "Priorität"
+
+msgid "Privacy"
+msgstr "Privatsphäre"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Process"
+msgstr "Prozess"
+
+msgid "Processor"
+msgstr "Prozessor"
+
+msgid "Producer"
+msgstr "Produzent"
+
+msgid "Product"
+msgstr "Produkt"
+
+msgid "Profession"
+msgstr "Beruf"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile name"
+msgstr "Profilname"
+
+msgid "Profiles"
+msgstr "Profile"
+
+msgid "Program"
+msgstr "Programm"
+
+msgid "Progress"
+msgstr "Fortschritt"
+
+msgid "Project"
+msgstr "Projekt"
+
+msgid "&Project"
+msgstr "&Projekt"
+
+msgid "Projects"
+msgstr "Projekte"
+
+msgid "Properties"
+msgstr "Eigenschaften"
+
+msgid "&Properties"
+msgstr "&Eigenschaften"
+
+msgid "_Properties"
+msgstr "_Eigenschaften"
+
+msgid "Properties..."
+msgstr "Eigenschaften ..."
+
+msgid "&Properties..."
+msgstr "&Eigenschaften …"
+
+msgid "Property"
+msgstr "Eigenschaft"
+
+msgid "property “%s” invalid or not supported"
+msgstr "Eigenschaft »%s« ist ungültig oder wird nicht unterstützt"
+
+msgid "property '%s' of object class '%s' is not writable"
+msgstr "Eigenschaft »%s« der Objektklasse »%s« ist schreibgeschützt"
+
+msgid "Proportional"
+msgstr "Proportional"
+
+msgid "Protected"
+msgstr "Protected"
+
+msgid "Protocol"
+msgstr "Protokoll"
+
+msgid "Provider"
+msgstr "Anbieter"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Proxy Settings"
+msgstr "Proxy-Einstellungen"
+
+msgid "Public"
+msgstr "Öffentlich"
+
+msgid "Public Key"
+msgstr "Öffentlicher Schlüssel"
+
+msgid "Publisher"
+msgstr "Herausgeber"
+
+msgid "Publishing"
+msgstr "Veröffentlichen"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgid "Push"
+msgstr "Übertragen (Push)"
+
+msgid "px"
+msgstr "px"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Qatar"
+msgstr "Katar"
+
+msgid "QR Code"
+msgstr "QR-Code"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>Hiermit wird die Menüleiste vollständig ausgeblendet. Geben Sie %1 ein, "
+"um sie wieder anzuzeigen.</qt>"
+
+msgid "Quality"
+msgstr "Qualität"
+
+msgid "Quebec"
+msgstr "Quebec"
+
+msgid "Query"
+msgstr "Abfrage"
+
+msgid "Question"
+msgstr "Frage"
+
+msgid "Queue"
+msgstr "Warteschlange"
+
+msgid "Queued"
+msgstr "Im Postausgang"
+
+msgid "Quit"
+msgstr "Beenden"
+
+msgid "&Quit"
+msgstr "Be&enden"
+
+msgid "_Quit"
+msgstr "_Beenden"
+
+msgid "Quit application"
+msgstr "Die Anwendung beenden"
+
+msgid "Quit the application"
+msgstr "Die Anwendung beenden"
+
+msgid "Quits the application"
+msgstr "Beendet das Programm"
+
+msgid "Quote"
+msgstr "Zitat"
+
+msgid "R"
+msgstr "R"
+
+msgid "Radial"
+msgstr "Radial"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Radius"
+msgstr "Radius"
+
+msgid "Raise"
+msgstr "Nach vorne"
+
+msgid "Random"
+msgstr "Zufällig"
+
+msgid "Range"
+msgstr "Bereich"
+
+msgid "Rank"
+msgstr "Platzierung"
+
+msgid "Rate"
+msgstr "Rate"
+
+msgid "Rating"
+msgstr "Bewertung"
+
+msgid "Raw"
+msgstr "Rohdaten"
+
+msgid "Read"
+msgstr "Lesen"
+
+msgid "Read error"
+msgstr "Lesefehler"
+
+msgid "Read Only"
+msgstr "Nur lesen"
+
+msgid "Read only"
+msgstr "Nur lesen"
+
+msgid "Reading"
+msgstr "Reading"
+
+msgid "read-only"
+msgstr "Nur lesen"
+
+msgid "Ready"
+msgstr "Bereit"
+
+msgid "Ready."
+msgstr "Bereit."
+
+msgid "Reason"
+msgstr "Grund"
+
+msgid "Reassign"
+msgstr "Neu zuordnen"
+
+msgid "Recent"
+msgstr "Zuletzt verwendet"
+
+msgid "Recent Documents"
+msgstr "Zuletzt geöffnete Dokumente"
+
+msgid "Recent Files"
+msgstr "Zuletzt geöffnete Dateien"
+
+msgid "Recent files"
+msgstr "Zuletzt geöffnete Dateien"
+
+msgid "Record"
+msgstr "Aufnahme"
+
+msgid "Recording"
+msgstr "Aufnahme"
+
+msgid "Rectangle"
+msgstr "Rechteck"
+
+msgid "Recursive"
+msgstr "Rekursiv"
+
+msgid "Red"
+msgstr "Rot"
+
+msgid "red"
+msgstr "rot"
+
+msgid "Redo"
+msgstr "Wiederherstellen"
+
+msgid "&Redo"
+msgstr "&Wiederherstellen"
+
+msgid "_Redo"
+msgstr "_Wiederherstellen"
+
+msgid "Re&do"
+msgstr "Wie&derherstellen"
+
+msgid "Redo %1"
+msgstr "%1 Wiederherstellen"
+
+msgid "Reference"
+msgstr "Referenz"
+
+msgid "References"
+msgstr "Referenzen"
+
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+msgid "_Refresh"
+msgstr "_Aktualisieren"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Regular"
+msgstr "Normal"
+
+msgid "Regular Expression"
+msgstr "Regulärer Ausdruck"
+
+msgid "Regular expression"
+msgstr "Regulärer Ausdruck"
+
+msgid "Reject"
+msgstr "Ablehnen"
+
+msgid "Relative"
+msgstr "Relativ"
+
+msgid "Reload"
+msgstr "Neu laden"
+
+msgid "&Reload"
+msgstr "&Neu laden"
+
+msgid "_Reload"
+msgstr "_Neu laden"
+
+msgid "Reminders"
+msgstr "Erinnerungen"
+
+msgid "Remote"
+msgstr "Fremdgerät"
+
+msgid "Removable"
+msgstr "Wechselbar"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "&Remove"
+msgstr "&Entfernen"
+
+msgid "_Remove"
+msgstr "_Entfernen"
+
+msgid "R&emove"
+msgstr "&Entfernen"
+
+msgid "Re&move"
+msgstr "&Entfernen"
+
+msgid "Remove..."
+msgstr "Entfernen …"
+
+msgid "Remove %1"
+msgstr "%1 entfernen"
+
+msgid "Remove Account"
+msgstr "Zugang entfernen"
+
+msgid "Remove All"
+msgstr "Alle entfernen"
+
+msgid "Remove Bookmark"
+msgstr "Lesezeichen entfernen"
+
+msgid "Remove Folder"
+msgstr "Ordner entfernen"
+
+msgid "Remove from Favorites"
+msgstr "Aus Favoriten entfernen"
+
+msgid "_Remove from Toolbar"
+msgstr ""
+
+msgid "Remove Group"
+msgstr "Gruppe entfernen"
+
+msgid "Remove Rule"
+msgstr "Regel entfernen"
+
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+msgid "Remove the selected toolbar"
+msgstr ""
+
+msgid "Rename"
+msgstr "Umbenennen"
+
+msgid "&Rename"
+msgstr "&Umbenennen"
+
+msgid "_Rename"
+msgstr "_Umbenennen"
+
+msgid "Rename..."
+msgstr "Umbenennen …"
+
+msgid "&Rename..."
+msgstr "&Umbenennen …"
+
+msgid "Rename Bookmark"
+msgstr "Lesezeichen umbenennen"
+
+msgid "Rename File"
+msgstr "Datei umbenennen"
+
+msgid "Repeat"
+msgstr "Wiederholen"
+
+msgid "Replace"
+msgstr "Ersetzen"
+
+msgid "&Replace"
+msgstr "&Ersetzen"
+
+msgid "_Replace"
+msgstr "_Ersetzen"
+
+msgid "Replace All"
+msgstr "Alle ersetzen"
+
+msgid "Replace _All"
+msgstr "_Alle ersetzen"
+
+msgid "Replace an existing instance"
+msgstr "Eine bestehende Instanz ersetzen"
+
+msgid "Replacement"
+msgstr "Ersetzung"
+
+msgid "Reply"
+msgstr "Antworten"
+
+msgid "Report"
+msgstr "Bericht"
+
+msgid "Report a bug"
+msgstr "Ein Problem melden"
+
+msgid "Report Bug"
+msgstr "Problem melden"
+
+msgid "Report Bug..."
+msgstr "Problem melden …"
+
+msgid "&Report Bug..."
+msgstr "P&robleme melden …"
+
+msgid "Reports"
+msgstr "Berichte"
+
+msgid "Required"
+msgstr "Erforderlich"
+
+msgid "Rescan"
+msgstr "Erneut einlesen"
+
+msgid "Resend"
+msgstr "Erneut senden"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "&Reset"
+msgstr "&Zurücksetzen"
+
+msgid "_Reset"
+msgstr "_Zurücksetzen"
+
+msgid "Reset to Default"
+msgstr "Auf Voreinstellung zurücksetzen"
+
+msgid "Reset to default"
+msgstr "Auf Voreinstellungen zurücksetzen"
+
+msgid "Reset Zoom"
+msgstr "Vergrößerung zurücksetzen"
+
+msgid "Resize"
+msgstr "Größe ändern"
+
+msgid "_Resize"
+msgstr "_Größe ändern"
+
+msgid "Resize Image"
+msgstr "Bildgröße ändern"
+
+msgid "Resolution"
+msgstr "Auflösung"
+
+msgid "Resource"
+msgstr "Ressource"
+
+msgid "Resources"
+msgstr "Ressourcen"
+
+msgid "Restart"
+msgstr "Neu starten"
+
+msgid "Restore"
+msgstr "Wiederherstellen"
+
+msgid "Restore Session"
+msgstr "Sitzung wiederherstellen"
+
+msgid "Result"
+msgstr "Ergebnis"
+
+msgid "Results"
+msgstr "Ergebnisse"
+
+msgid "Resume"
+msgstr "Fortsetzen"
+
+msgid "&Resume"
+msgstr "&Wiederaufnehmen"
+
+msgid "Retry"
+msgstr "Erneut versuchen"
+
+msgid "Return"
+msgstr "Eingabetaste"
+
+msgid "Reverse"
+msgstr "Umkehren"
+
+msgid "Revert"
+msgstr "Zurücksetzen"
+
+msgid "_Revert"
+msgstr "Zu_rücksetzen"
+
+msgid "Review"
+msgstr "Überprüfung"
+
+msgid "Revision"
+msgstr "Revision"
+
+msgid "Revoked"
+msgstr "Widerrufen"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "right"
+msgstr "rechts"
+
+msgid "&Right"
+msgstr "&Rechts"
+
+msgid "_Right"
+msgstr "_Rechts"
+
+msgid "Right to Left"
+msgstr "Rechts nach Links"
+
+msgid "Right-click"
+msgstr "Rechtsklick"
+
+msgid "River"
+msgstr "Fluss"
+
+msgid "RKWard Team"
+msgstr "RKWard-Team"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "Roman"
+msgstr "Roman"
+
+msgid "Romania"
+msgstr "Rumänien"
+
+msgid "Romanian"
+msgstr "Rumänisch"
+
+msgid "Room"
+msgstr "Raum"
+
+msgid "Root"
+msgstr "Basisordner"
+
+msgid "Rotate"
+msgstr "Drehen"
+
+msgid "Rotate Left"
+msgstr "Nach links drehen"
+
+msgid "Rotate Right"
+msgstr "Nach rechts drehen"
+
+msgid "Rotation"
+msgstr "Drehung"
+
+msgid "Round"
+msgstr "Rund"
+
+msgid "Row"
+msgstr "Zeile"
+
+msgid "Rows"
+msgstr "Zeilen"
+
+msgid "rows"
+msgstr "Zeilen"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "Rules"
+msgstr "Regeln"
+
+msgid "Run"
+msgstr "Ausführen"
+
+msgid "&Run"
+msgstr "&Ausführen"
+
+msgid "Run in terminal"
+msgstr "In Terminal ausführen"
+
+msgid "Running"
+msgstr "Läuft"
+
+msgid "Russia"
+msgstr "Russland"
+
+msgid "Russian"
+msgstr "Russisch"
+
+msgid "Rwanda"
+msgstr "Ruanda"
+
+msgid "S"
+msgstr "S"
+
+msgid "s"
+msgstr "s"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Properties"
+msgstr "Eigenschaften von %s"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Samba"
+msgstr "Samba"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "Sample"
+msgstr "Beispiel"
+
+msgid "Sample Rate"
+msgstr "Abtastrate"
+
+msgid "Sample rate"
+msgstr "Abtastrate"
+
+msgid "Samples"
+msgstr "Messpunkte"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Satellite"
+msgstr "Satellit"
+
+msgid "Saturation"
+msgstr "Sättigung"
+
+msgid "Saturday"
+msgstr "Samstag"
+
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabien"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "&Save"
+msgstr "&Speichern"
+
+msgid "_Save"
+msgstr "_Speichern"
+
+msgid "Save..."
+msgstr "Speichern …"
+
+msgid "Save All"
+msgstr "Alle speichern"
+
+msgid "Save As"
+msgstr "Speichern unter"
+
+msgid "Save as"
+msgstr "Speichern unter"
+
+msgid "Save _As"
+msgstr "Speichern _unter"
+
+msgid "Save As..."
+msgstr "Speichern unter …"
+
+msgid "Save as..."
+msgstr "Speichern unter …"
+
+msgid "_Save As..."
+msgstr "Speichern _unter …"
+
+msgid "Save &As..."
+msgstr "Speichern &unter …"
+
+msgid "Save _As..."
+msgstr "Speichern _unter …"
+
+msgid "Save Attachment"
+msgstr "Anhang speichern"
+
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+msgid "Save Changes?"
+msgstr "Änderungen speichern?"
+
+msgid "Save File"
+msgstr "Datei speichern"
+
+msgid "Save file"
+msgstr "Datei speichern"
+
+msgid "Save Game"
+msgstr "Spiel speichern"
+
+msgid "Save Image"
+msgstr "Bild speichern"
+
+msgid "_Save Image As..."
+msgstr "Bild _speichern unter …"
+
+msgid "Save Project"
+msgstr "Projekt speichern"
+
+msgid "Save Session"
+msgstr "Sitzung speichern"
+
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+msgid "Saved"
+msgstr "Gespeichert"
+
+msgid "Saving"
+msgstr "Speichern"
+
+msgid "Saving..."
+msgstr "Wird gespeichert ..."
+
+msgid "Saving file..."
+msgstr "Datei wird gespeichert …"
+
+msgid "Scale"
+msgstr "Skalieren"
+
+msgid "_Scale"
+msgstr "_Skalieren"
+
+msgid "Scaled"
+msgstr "Skaliert"
+
+msgid "Scaling"
+msgstr "Skalierung"
+
+msgid "Scan"
+msgstr "Scannen"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+msgid "Scanning..."
+msgstr "Geräte werden gesucht …"
+
+msgid "Schedule"
+msgstr "Zeitplan"
+
+msgid "Scheduling"
+msgstr "Planung"
+
+msgid "Scheme"
+msgstr "Schema"
+
+msgid "School"
+msgstr "Schule"
+
+msgid "Scientific"
+msgstr "Wissenschaftlich"
+
+msgid "Scope"
+msgstr "Bereich"
+
+msgid "Score"
+msgstr "Punkte"
+
+msgid "Score: %1"
+msgstr "Punkte: %1"
+
+msgid "Screen"
+msgstr "Bildschirm"
+
+msgid "Screenshot"
+msgstr "Bildschirmfoto"
+
+msgid "Screenshots"
+msgstr "Bildschirmfotos"
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "Scripting"
+msgstr "Skripte"
+
+msgid "Scripts"
+msgstr "Skripte"
+
+msgid "Scroll"
+msgstr "Rollen"
+
+msgid "Scroll Down"
+msgstr "Runterrollen"
+
+msgid "Scroll Left"
+msgstr "Links rollen"
+
+msgid "Scroll Right"
+msgstr "Rechts rollen"
+
+msgid "Scroll Up"
+msgstr "Hochrollen"
+
+msgid "Scrolling"
+msgstr "Bildlauf"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "&Search"
+msgstr "&Suchen"
+
+msgid "_Search"
+msgstr "_Suchen"
+
+msgid "S&earch"
+msgstr "&Suchen"
+
+msgid "Search..."
+msgstr "Suchen ..."
+
+msgid "Search Bar"
+msgstr "Suchleiste"
+
+msgid "_Search for"
+msgstr "_Suchen nach"
+
+msgid "Search for '%1' with"
+msgstr "Nach „%1“ suchen mit"
+
+msgid "Search Options"
+msgstr "Sucheinstellungen"
+
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+msgid "Searching..."
+msgstr "Suche läuft ..."
+
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+msgid "Second"
+msgstr "Sekunde"
+
+msgid "Seconds"
+msgstr "Sekunden"
+
+msgid "seconds"
+msgstr "Sekunden"
+
+msgid "Section"
+msgstr "Abschnitt"
+
+msgid "Security"
+msgstr "Sicherheit"
+
+msgid "Seek"
+msgstr "Suchen"
+
+msgid "Select"
+msgstr "Auswählen"
+
+msgid "_Select"
+msgstr "A_uswählen"
+
+msgid "Select..."
+msgstr "Auswählen ..."
+
+msgid "Select All"
+msgstr "Alles auswählen"
+
+msgid "Select all"
+msgstr "Alle auswählen"
+
+msgid "&Select All"
+msgstr "Alles au&swählen"
+
+msgid "_Select All"
+msgstr "Alle au_swählen"
+
+msgid "Select &All"
+msgstr "&Alle auswählen"
+
+msgid "Select _All"
+msgstr "_Alles auswählen"
+
+msgid "Select an authentication mode."
+msgstr "Wählen Sie eine Authentifizierungsmethode."
+
+msgid "Select an image"
+msgstr "Wählen Sie ein Bild aus"
+
+msgid "Select Color"
+msgstr "Farbe auswählen"
+
+msgid "Select Directory"
+msgstr "Ordner auswählen"
+
+msgid "Select File"
+msgstr "Datei auswählen"
+
+msgid "Select file"
+msgstr "Datei auswählen"
+
+msgid "Select Folder"
+msgstr "Ordner auswählen"
+
+msgid "Select folder"
+msgstr "Ordner auswählen"
+
+msgid "Select Font"
+msgstr "Schriftart auswählen"
+
+msgid "Select None"
+msgstr "Nichts auswählen"
+
+msgid "Select Source"
+msgstr "Quelle auswählen"
+
+msgid "Selected"
+msgstr "Ausgewählt"
+
+msgid "Selection"
+msgstr "Auswahl"
+
+msgid "Selections"
+msgstr "Auswahl"
+
+msgid "Semicolon"
+msgstr "Semikolon"
+
+msgid "Send"
+msgstr "Senden"
+
+msgid "Send an email to %1"
+msgstr "Eine E-Mail an %1 senden"
+
+msgid "Send File"
+msgstr "Datei senden"
+
+msgid "Send to %1"
+msgstr "An %1 senden"
+
+msgid "Sender"
+msgstr "Absender"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Sensitivity"
+msgstr "Empfindlichkeit"
+
+msgid "Sent"
+msgstr "Versendet"
+
+msgid "Separator"
+msgstr "Trennlinie"
+
+msgid "September"
+msgstr "September"
+
+msgid "Serbia"
+msgstr "Serbien"
+
+msgid "Serbian"
+msgstr "Serbisch"
+
+msgid "Serial Number"
+msgstr "Seriennummer"
+
+msgid "Serial number"
+msgstr "Seriennummer"
+
+msgid "Series"
+msgstr "Datenreihe"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Server URL"
+msgstr "Server-Adresse"
+
+msgid "Service"
+msgstr "Dienst"
+
+msgid "Services"
+msgstr "Dienste"
+
+msgid "Session"
+msgstr "Sitzung"
+
+msgid "Session management options"
+msgstr ""
+
+msgid "Sessions"
+msgstr "Sitzungen"
+
+msgid "Set"
+msgstr "Festlegen"
+
+msgid "Set as Default"
+msgstr "Als Standard verwenden"
+
+msgid "Set as default"
+msgstr "Als Standard verwenden"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "&Settings"
+msgstr "&Einstellungen"
+
+msgid "_Settings"
+msgstr "_Einstellungen"
+
+msgid "Settings..."
+msgstr "Einstellungen …"
+
+msgid "Severity"
+msgstr "Schweregrad"
+
+msgid "Seychelles"
+msgstr "Seychellen"
+
+msgid "SHA-256"
+msgstr "SHA-256"
+
+msgid "Shading"
+msgstr "Schattierung"
+
+msgid "Shadow"
+msgstr "Schatten"
+
+msgid "Shadows"
+msgstr "Schatten"
+
+msgid "Shape"
+msgstr "Form"
+
+msgid "Share"
+msgstr "Teilen"
+
+msgid "Share..."
+msgstr "Teilen …"
+
+msgid "Shared"
+msgstr "Geteilt"
+
+msgid "Sharing"
+msgstr "Hochladen"
+
+msgid "Sharing failed"
+msgstr "Teilen fehlgeschlagen"
+
+msgid "Sharpen"
+msgstr "Schärfen"
+
+msgid "Sharpness"
+msgstr "Schärfe"
+
+msgid "Shear"
+msgstr "Scheren"
+
+msgid "Shell"
+msgstr "Shell"
+
+msgid "Shift"
+msgstr "Umschalt"
+
+msgid "Short"
+msgstr "Kurz"
+
+msgid "Shortcut"
+msgstr "Kurzbefehl"
+
+msgid "Shortcuts"
+msgstr "Kurzbefehle"
+
+msgid "Show"
+msgstr "Anzeigen"
+
+msgid "Show All"
+msgstr "Alle anzeigen"
+
+msgid "Show Details"
+msgstr "Details anzeigen"
+
+msgid "Show details"
+msgstr "Details anzeigen"
+
+msgid "Show Grid"
+msgstr "Gitter anzeigen"
+
+msgid "Show grid"
+msgstr "Gitter anzeigen"
+
+msgid "Show Help"
+msgstr "Hilfe anzeigen"
+
+msgid "Show help"
+msgstr "Hilfe anzeigen"
+
+msgid "Show Hidden Files"
+msgstr "Versteckte Dateien anzeigen"
+
+msgid "Show in folder"
+msgstr "In Ordner anzeigen"
+
+msgid "Show legend"
+msgstr "Legende anzeigen"
+
+msgid "Show Password"
+msgstr "Passwort anzeigen"
+
+msgid "Show Preview"
+msgstr "Vorschau anzeigen"
+
+msgid "Show “_%s”"
+msgstr ""
+
+msgid "Show session management options"
+msgstr ""
+
+msgid "Show Shortcuts"
+msgstr "Tastenkürzel anzeigen"
+
+msgid "Show Status Bar"
+msgstr "Statusleiste anzeigen"
+
+msgid "Show St&atusbar"
+msgstr "&Statusleiste anzeigen"
+
+msgid "Show the application's version"
+msgstr "Die Version der Anwendung anzeigen"
+
+msgid "Show Toolbar"
+msgstr "Werkzeugleiste anzeigen"
+
+msgid "Show toolbar"
+msgstr "Werkzeugleiste anzeigen"
+
+msgid "Show &Toolbar"
+msgstr "&Werkzeugleiste anzeigen"
+
+msgid "Shuffle"
+msgstr "Mischen"
+
+msgid "Shut Down"
+msgstr "Herunterfahren"
+
+msgid "Shutdown"
+msgstr "Herunterfahren"
+
+msgid "Side _Pane"
+msgstr ""
+
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Sign"
+msgstr "Signieren"
+
+msgid "Signal"
+msgstr "Signal"
+
+msgid "Signature"
+msgstr "Signatur"
+
+msgid "Simple"
+msgstr "Einfach"
+
+msgid "Singapore"
+msgstr "Singapur"
+
+msgid "Single"
+msgstr "Einfach"
+
+msgid "Sinhala"
+msgstr "Singhalesisch"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "size"
+msgstr "Größe"
+
+msgid "&Size"
+msgstr "&Größe"
+
+msgid "Size: %1"
+msgstr "Größe: %1"
+
+msgid "Skip"
+msgstr "Überspringen"
+
+msgid "&Skip"
+msgstr "&Überspringen"
+
+msgid "_Skip"
+msgstr "Ü_berspringen"
+
+msgid "Skip forward"
+msgstr "Vorwärts springen"
+
+msgid "Sleep"
+msgstr "Standby-Modus"
+
+msgid "Slide"
+msgstr "Gleiten"
+
+msgid "Slider"
+msgstr "Schieberegler"
+
+msgid "Slideshow"
+msgstr "Diaschau"
+
+msgid "Slovak"
+msgstr "Slowakisch"
+
+msgid "Slovenia"
+msgstr "Slowenien"
+
+msgid "Slovenian"
+msgstr "Slowenisch"
+
+msgid "Slow"
+msgstr "Langsam"
+
+msgid "Slower"
+msgstr "Langsamer"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Smooth"
+msgstr "Weich"
+
+msgid "Smoothing"
+msgstr "Glättung"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Snap"
+msgstr "Snap"
+
+msgid "Snap to Grid"
+msgstr "An Gitter ausrichten"
+
+msgid "Snow"
+msgstr "Schnee"
+
+msgid "SOCKS"
+msgstr "SOCKS"
+
+msgid "Socks5"
+msgstr "Socks5"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Solid"
+msgstr "Durchgezogen"
+
+msgid "Solid color"
+msgstr "Einfarbig"
+
+msgid "Solomon Islands"
+msgstr "Salomonen"
+
+msgid "Somalia"
+msgstr "Somalia"
+
+msgid "Sort"
+msgstr "Sortieren"
+
+msgid "Sort By"
+msgstr "Sortieren nach"
+
+msgid "Sort by"
+msgstr "Sortieren nach"
+
+msgid "Sorting"
+msgstr "Sortierung"
+
+msgid "Sound"
+msgstr "Klang"
+
+msgid "Soundtrack"
+msgstr "Soundtrack"
+
+msgid "Source"
+msgstr "Quelle"
+
+msgid "Sources"
+msgstr "Quellen"
+
+msgid "South"
+msgstr "Süd"
+
+msgid "South Africa"
+msgstr "Südafrika"
+
+msgid "South European"
+msgstr "Südeuropäisch"
+
+msgid "Space"
+msgstr "Leerzeichen"
+
+msgid "Spacing"
+msgstr "Abstand"
+
+msgid "Spain"
+msgstr "Spanien"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Spanish"
+msgstr "Spanisch"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "Speak"
+msgstr "Vorlesen"
+
+msgid "Speak Text"
+msgstr "Text vorlesen"
+
+msgid "Speaker"
+msgstr "Lautsprecher"
+
+msgid "Special"
+msgstr "Spezialattribut"
+
+msgid "Special Characters"
+msgstr "Sonderzeichen"
+
+msgid "Specials"
+msgstr "Spezielles"
+
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+msgid "Specify session management ID"
+msgstr "Kennung der Sitzungsverwaltung angeben"
+
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+msgid "Spell Check"
+msgstr "Rechtschreibprüfung"
+
+msgid "Spell Checking"
+msgstr "Rechtschreibprüfung"
+
+msgid "Spelling"
+msgstr "Rechtschreibung"
+
+msgid "Spiral"
+msgstr "Spirale"
+
+msgid "Split"
+msgstr "Teilen"
+
+msgid "Split View"
+msgstr "Ansicht teilen"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Spreadsheet"
+msgstr "Tabellenkalkulation"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Square"
+msgstr "Quadrat"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
+msgstr ""
+"»%s::%s« ist kein gültiger Eigenschaftsname; »%s« ist kein GObject-Untertyp"
+
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+msgid "Stack"
+msgstr "Stapel"
+
+msgid "Stacked"
+msgstr "Gestapelt"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Standard deviation"
+msgstr "Standardabweichung"
+
+msgid "Star"
+msgstr "Stern"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "&Start"
+msgstr "&Starten"
+
+msgid "Start a new game"
+msgstr "Eine neue Spielpartie beginnen"
+
+msgid "Start Date"
+msgstr "Anfangsdatum"
+
+msgid "Start date"
+msgstr "Startdatum"
+
+msgid "Start Presentation"
+msgstr "Präsentation starten"
+
+msgid "Start Time"
+msgstr "Startzeitpunkt"
+
+msgid "Started"
+msgstr "Begonnen"
+
+msgid "Starting"
+msgstr "Wird gestartet"
+
+msgid "Starting..."
+msgstr "Startvorgang …"
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "starts with"
+msgstr "beginnt mit"
+
+msgid "Startup"
+msgstr "Programmstart"
+
+msgid "Stash"
+msgstr "Stash"
+
+msgid "State"
+msgstr "Status"
+
+msgid "States"
+msgstr "Staaten"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Status: %1"
+msgstr "Status: %1"
+
+msgid "Statusbar"
+msgstr "Statusleiste"
+
+msgid "_Statusbar"
+msgstr "_Statusleiste"
+
+msgid "Step"
+msgstr "Schritt"
+
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+msgid "Steps"
+msgstr "Stufen"
+
+msgid "Stereo"
+msgstr "Stereo"
+
+msgid "Stop"
+msgstr "Anhalten"
+
+msgid "&Stop"
+msgstr "&Stopp"
+
+msgid "_Stop"
+msgstr "_Stopp"
+
+msgid "S&top"
+msgstr "An&halten"
+
+msgid "Stop Recording"
+msgstr "Aufnahme beenden"
+
+msgid "Stopped"
+msgstr "Angehalten"
+
+msgid "Storage"
+msgstr "Speicher"
+
+msgid "Store"
+msgstr "Speichern"
+
+msgid "Stream"
+msgstr "Bach"
+
+msgid "Street"
+msgstr "Straße"
+
+msgid "Strength"
+msgstr "Stärke"
+
+msgid "Stretch"
+msgstr "Strecken"
+
+msgid "Strike Out"
+msgstr "Durchgestrichen"
+
+msgid "Strikethrough"
+msgstr "Durchgestrichen"
+
+msgid "String"
+msgstr "Zeichenfolge"
+
+msgid "string"
+msgstr "Zeichenfolge"
+
+msgid "Strings"
+msgstr "Zeichenfolgen"
+
+msgid "Stroke"
+msgstr "Strich"
+
+msgid "Strong"
+msgstr "Stark"
+
+msgid "Structure"
+msgstr "Struktur"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Subject"
+msgstr "Betreff"
+
+msgid "Submit"
+msgstr "Absenden"
+
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+msgid "Subscript"
+msgstr "Tiefgestellt"
+
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+msgid "Subtitle"
+msgstr "Untertitel"
+
+msgid "Subtitles"
+msgstr "Untertitel"
+
+msgid "Subtract"
+msgstr "Abziehen"
+
+msgid "Subversion"
+msgstr "Subversion"
+
+msgid "Success"
+msgstr "Erfolg"
+
+msgid "Sudan"
+msgstr "Sudan"
+
+msgid "Suffix"
+msgstr "Suffix"
+
+msgid "Sum"
+msgstr "Summe"
+
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+msgid "Sun"
+msgstr "Sonne"
+
+msgid "Sundanese"
+msgstr "Sundanesisch"
+
+msgid "Sunday"
+msgstr "Sonntag"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Superscript"
+msgstr "Hochgestellt"
+
+msgid "Support"
+msgstr "Unterstützung"
+
+msgid "Suriname"
+msgstr "Suriname"
+
+msgid "Surname"
+msgstr "Nachname"
+
+msgid "Suspend"
+msgstr "Standby-Modus"
+
+msgid "Suspended"
+msgstr "Angehalten"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Swap"
+msgstr "Auslagerungsspeicher"
+
+msgid "Sweden"
+msgstr "Schweden"
+
+msgid "Swedish"
+msgstr "Schwedisch"
+
+msgid "Switch"
+msgstr "Wechseln"
+
+msgid "Switches"
+msgstr "Schalter"
+
+msgid "Switzerland"
+msgstr "Schweiz"
+
+msgid "Symbol"
+msgstr "Symbol"
+
+msgid "Symbols"
+msgstr "Symbole"
+
+msgid "Sync"
+msgstr "Abgleichen"
+
+msgid "Synchronization"
+msgstr "Abgleich"
+
+msgid "Synchronize"
+msgstr "Abgleichen"
+
+msgid "Syriac"
+msgstr "Syrisch"
+
+msgid "System"
+msgstr "System"
+
+msgid "System Default"
+msgstr "Systemvoreinstellung"
+
+msgid "System Settings"
+msgstr "Systemeinstellungen"
+
+msgid "T"
+msgstr "T"
+
+msgid "Tab"
+msgstr "Tabulator"
+
+msgid "Table"
+msgstr "Tabelle"
+
+msgid "Table of Contents"
+msgstr "Inhaltsverzeichnis"
+
+msgid "Tablet"
+msgstr "Tablett"
+
+msgid "Tabs"
+msgstr "Unterfenster"
+
+msgid "Tag"
+msgstr "Stichwort"
+
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Tagged"
+msgstr "Mit Schlagwort"
+
+msgid "Tags"
+msgstr "Stichwörter"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Tajikistan"
+msgstr "Tadschikistan"
+
+msgid "Take Screenshot"
+msgstr "Bildschirmfoto aufnehmen"
+
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tanzania"
+msgstr "Tansania"
+
+msgid "Target"
+msgstr "Ziel"
+
+msgid "Task"
+msgstr "Aufgabe"
+
+msgid "Tasks"
+msgstr "Aufgaben"
+
+msgid "Tatar"
+msgstr "Tatarisch"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Technology"
+msgstr "Technologie"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Temperature"
+msgstr "Temperatur"
+
+msgid "Template"
+msgstr "Vorlage"
+
+msgid "Templates"
+msgstr "Vorlagen"
+
+msgid "Tentative"
+msgstr "Vorläufig"
+
+msgid "Terminal"
+msgstr "Terminal"
+
+msgid "Terminal Emulator"
+msgstr "Terminal-Emulator"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Testing"
+msgstr "Testen"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "text"
+msgstr "Text"
+
+msgid "_Text"
+msgstr "_Text"
+
+msgid "Text Color"
+msgstr "Textfarbe"
+
+msgid "Text color"
+msgstr "Textfarbe"
+
+msgid "Text Editor"
+msgstr "Texteditor"
+
+msgid "Text File"
+msgstr "Textdatei"
+
+msgid "Text Files"
+msgstr "Textdateien"
+
+msgid "Text Only"
+msgstr "Nur Text"
+
+msgid "Text only"
+msgstr "Nur Text"
+
+msgid "Text to search for"
+msgstr "Suchtext"
+
+msgid "Text Tool"
+msgstr "Textwerkzeug"
+
+msgid "TextLabel"
+msgstr "Textfeld"
+
+msgid "Thai"
+msgstr "Thailändisch"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "The file %1 does not exist."
+msgstr "Die Datei %1 existiert nicht."
+
+msgid "The GNOME Project"
+msgstr "Das GNOME-Projekt"
+
+msgid "The graphical theme to be used."
+msgstr "Das zu verwendende grafische Design."
+
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+msgid "The NetworkManager Developers"
+msgstr "Die NetworkManager-Entwickler"
+
+msgid "Theme"
+msgstr "Design"
+
+msgid "Themes"
+msgstr "Designs"
+
+msgid "There was a problem sharing the document: %1"
+msgstr "Beim Veröffentlichen des Dokuments ist ein Fehler aufgetreten: %1"
+
+msgid "Thin"
+msgstr "Dünn"
+
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"Hiermit wird das Menü vollständig ausgeblendet. Geben Sie %1 ein, um es "
+"wieder anzuzeigen."
+
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+msgid "Threshold"
+msgstr "Schwellwert"
+
+msgid "Thumbnail"
+msgstr "Vorschaubild"
+
+msgid "Thumbnails"
+msgstr "Vorschaubilder"
+
+msgid "Thursday"
+msgstr "Donnerstag"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Tibetan"
+msgstr "Tibetisch"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "Tile"
+msgstr "Kacheln"
+
+msgid "Tiled"
+msgstr "Gekachelt"
+
+msgid "Tilt"
+msgstr "Neigung"
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "time"
+msgstr "Zeit"
+
+msgid "Time: %1"
+msgstr "Zeit: %1"
+
+msgid "Time and Date"
+msgstr "Zeit und Datum"
+
+msgid "Time Zone"
+msgstr "Zeitzone"
+
+msgid "Timeline"
+msgstr "Zeitleiste"
+
+msgid "Timeout"
+msgstr "Zeitüberschreitung"
+
+msgid "Timer"
+msgstr "Timer"
+
+msgid "Timestamp"
+msgstr "Zeitstempel"
+
+msgid "Timezone"
+msgstr "Zeitzone"
+
+msgid "Tiny"
+msgstr "Winzig"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "title"
+msgstr "Titel"
+
+msgid "&Title"
+msgstr "&Titel"
+
+msgid "_Title"
+msgstr "_Titel"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "To"
+msgstr "An"
+
+msgid "to"
+msgstr "bis"
+
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+msgid "Today"
+msgstr "Heute"
+
+msgid "today"
+msgstr "heute"
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "Todo"
+msgstr "Aufgabe"
+
+msgid "Toggle Fullscreen"
+msgstr "Vollbild ein- oder ausschalten"
+
+msgid "Toggle Sidebar"
+msgstr "Seitenleiste umschalten"
+
+msgid "Toggle sidebar"
+msgstr "Seitenleiste umschalten"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Token"
+msgstr "Funktion"
+
+msgid "Tolerance"
+msgstr "Toleranz"
+
+msgid "Tomorrow"
+msgstr "Morgen"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Tool"
+msgstr "Werkzeug"
+
+msgid "Tool Options"
+msgstr "Werkzeugeinstellungen"
+
+msgid "_Toolbar"
+msgstr "_Werkzeugleiste"
+
+msgid "T_oolbar"
+msgstr "_Werkzeugleiste"
+
+msgid "Toolbar Editor"
+msgstr ""
+
+msgid "Toolbox"
+msgstr "Werkzeugkasten"
+
+msgid "Tools"
+msgstr "Werkzeuge"
+
+msgid "&Tools"
+msgstr "E&xtras"
+
+msgid "_Tools"
+msgstr "_Werkzeuge"
+
+msgid "Top"
+msgstr "Oben"
+
+msgid "_Top"
+msgstr "_Oben"
+
+msgid "Top Left"
+msgstr "Oben links"
+
+msgid "Top left"
+msgstr "Oben links"
+
+msgid "Top Right"
+msgstr "Oben rechts"
+
+msgid "Top right"
+msgstr "Oben rechts"
+
+msgid "Topic"
+msgstr "Thema"
+
+msgid "Top-left"
+msgstr "Oben links"
+
+msgid "Top-right"
+msgstr "Oben rechts"
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "Track"
+msgstr "Stück"
+
+msgid "Track Number"
+msgstr "Titelnummer"
+
+msgid "Tracker"
+msgstr "Tracker"
+
+msgid "Tracks"
+msgstr "Stücke"
+
+msgid "Traditional"
+msgstr "Traditionell"
+
+msgid "Transfer"
+msgstr "Überweisung"
+
+msgid "Transform"
+msgstr "Transformieren"
+
+msgid "Transformation"
+msgstr "Transformation"
+
+msgid "Translate"
+msgstr "Übersetzen"
+
+msgid "Translation"
+msgstr "Übersetzung"
+
+msgid "Translator"
+msgstr "Übersetzer"
+
+msgid "translator-credits"
+msgstr ""
+"Achill Gilgenast <fossdd@pwned.life>\n"
+"Philipp Kiemle <l10n@prly.mozmail.com>\n"
+"Christian Kirbach <Christian.Kirbach@gmail.com>, 2026"
+
+msgid "translator_credits"
+msgstr ""
+
+msgid "Translators"
+msgstr "Übersetzer"
+
+msgid "Transparency"
+msgstr "Transparenz"
+
+msgid "Transparent"
+msgstr "Transparent"
+
+msgid "Transport"
+msgstr "Transport"
+
+msgid "Transpose"
+msgstr "Transponieren"
+
+msgid "Trash"
+msgstr "Papierkorb"
+
+msgid "Travel"
+msgstr "Reisen"
+
+msgid "Tree"
+msgstr "Baum"
+
+msgid "Tree View"
+msgstr "Baumansicht"
+
+msgid "Triangle"
+msgstr "Dreieck"
+
+msgid "True"
+msgstr "Wahr"
+
+msgid "true"
+msgstr "wahr"
+
+msgid "Trusted"
+msgstr "Vertrauenswürdig"
+
+msgid "Try a different search"
+msgstr "Versuchen Sie eine andere Suchanfrage"
+
+msgid "Try Again"
+msgstr "Erneut versuchen"
+
+msgid "Tuesday"
+msgstr "Dienstag"
+
+msgid "Tunisia"
+msgstr "Tunesien"
+
+msgid "Turkey"
+msgstr "Türkei"
+
+msgid "Turkish"
+msgstr "Türkisch"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "TYPE"
+msgstr "TYP"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "type"
+msgstr "Typ"
+
+msgid "&Type"
+msgstr "&Typ"
+
+msgid "Type: %1"
+msgstr "Typ: %1"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Ukrainian"
+msgstr "Ukrainisch"
+
+msgid "Unable to create a temporary file."
+msgstr "Es kann keine temporäre Datei erstellt werden."
+
+msgid "unable to get editor plugin name: %s"
+msgstr "Der Name der Editor-Erweiterung kann nicht ermittelt werden: %s"
+
+msgid "unable to set property '%s' of type '%s' from value of type '%s'"
+msgstr ""
+"Eigenschaft »%s« des Typs »%s« konnte nicht aus dem Wert des Typs »%s« "
+"gesetzt werden"
+
+msgid "Unavailable"
+msgstr "Nicht verfügbar"
+
+msgid "Undefined"
+msgstr "Nicht definiert"
+
+msgid "Underline"
+msgstr "Unterstrichen"
+
+msgid "&Underline"
+msgstr "&Unterstrichen"
+
+msgid "_Underline"
+msgstr "_Unterstreichen"
+
+msgid "Undo"
+msgstr "Rückgängig"
+
+msgid "&Undo"
+msgstr "&Rückgängig"
+
+msgid "_Undo"
+msgstr "_Rückgängig"
+
+msgid "Undo %1"
+msgstr "%1 rückgängig machen"
+
+msgid "Undo History"
+msgstr "Aktionsverlauf"
+
+msgid "UnFav it"
+msgstr "Aus Favoriten entfernen"
+
+msgid "unhandled property “%s” type %s"
+msgstr "Unbehandelte Eigenschaft »%s« des Typs %s"
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Uniform"
+msgstr "Gleichverteilt"
+
+msgid "Union"
+msgstr "Vereinigung"
+
+msgid "Unit"
+msgstr "Einheit"
+
+msgid "United Arab Emirates"
+msgstr "Vereinigte Arabische Emirate"
+
+msgid "United Kingdom"
+msgstr "Vereinigtes Königreich"
+
+msgid "United States"
+msgstr "Vereinigte Staaten"
+
+msgid "United States Minor Outlying Islands"
+msgstr "United States Minor Outlying Islands"
+
+msgid "Units"
+msgstr "Einheiten"
+
+msgid "University"
+msgstr "Universität"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "unknown"
+msgstr "unbekannt"
+
+msgid "(unknown)"
+msgstr "(unbekannt)"
+
+msgid "Unknown Error"
+msgstr "Unbekannter Fehler"
+
+msgid "Unknown error"
+msgstr "Unbekannter Fehler"
+
+msgid "Unknown error."
+msgstr "Unbekannter Fehler."
+
+msgid "unknown error creating editor instance"
+msgstr "Unbekannter Fehler beim Erzeugen der Editor-Instanz"
+
+msgid "Unknown file type"
+msgstr "Unbekannter Dateityp"
+
+msgid "Unlimited"
+msgstr "Unbegrenzt"
+
+msgid "unlimited"
+msgstr "unbegrenzt"
+
+msgid "Unlock"
+msgstr "Entsperren"
+
+msgid "_Unlock"
+msgstr "_Entsperren"
+
+msgid "Unmount"
+msgstr "Aushängen"
+
+msgid "Unmute"
+msgstr "Stummschaltung aufheben"
+
+msgid "Unnamed"
+msgstr "Unbenannt"
+
+msgid "unnamed"
+msgstr "Unbenannt"
+
+msgid "Unread"
+msgstr "Ungelesen"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr "Ungespeicherte Änderungen"
+
+msgid "Unselect All"
+msgstr "Auswahl aufheben"
+
+msgid "Unselect all"
+msgstr "Alles abwählen"
+
+msgid "Unspecified"
+msgstr "Nicht angegeben"
+
+msgid "Untitled"
+msgstr "Unbenannt"
+
+msgid "untitled"
+msgstr "Unbenannt"
+
+msgid "Unused"
+msgstr "Unbenutzt"
+
+msgid "Up"
+msgstr "Nach oben"
+
+msgid "&Up"
+msgstr "Nach &oben"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "&Update"
+msgstr "&Aktualisieren"
+
+msgid "_Update"
+msgstr "_Aktualisieren"
+
+msgid "Updates"
+msgstr "Aktualisierungen"
+
+msgid "Updating"
+msgstr "Aktualisieren"
+
+msgid "Updating..."
+msgstr "Aktualisierung läuft …"
+
+msgid "Upload"
+msgstr "Hochladen"
+
+msgid "_Upload"
+msgstr "_Hochladen"
+
+msgid "Uploaded"
+msgstr "Hochgeladen"
+
+msgid "Upper"
+msgstr "Großbuchstaben"
+
+msgid "Uppercase"
+msgstr "Großbuchstaben"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "URI"
+msgstr "Adresse"
+
+msgid "URL"
+msgstr "Adresse"
+
+msgid "Url"
+msgstr "Adresse"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "Usage"
+msgstr "Verwendung"
+
+msgid "USB"
+msgstr "USB"
+
+msgid "Use"
+msgstr "Verwenden"
+
+msgid "Used"
+msgstr "Belegt"
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "User Certificate"
+msgstr "Benutzerzertifikat"
+
+msgid "User Defined"
+msgstr "Benutzerdefiniert"
+
+msgid "User Feedback"
+msgstr "Benutzer-Feedback"
+
+msgid "User ID"
+msgstr "Benutzerkennung"
+
+msgid "User Interface"
+msgstr "Benutzeroberfläche"
+
+msgid "User name"
+msgstr "Benutzername"
+
+msgid "User Password"
+msgstr "Benutzerpasswort"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "_Username"
+msgstr "_Benutzername"
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "Utilities"
+msgstr "Dienstprogramme"
+
+msgid "UUID"
+msgstr "UUID"
+
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+msgid "V"
+msgstr "V"
+
+msgid "%v%"
+msgstr "%v %"
+
+msgid "Valid"
+msgstr "Gültig"
+
+msgid "Valid from"
+msgstr "Gültig ab"
+
+msgid "Validity"
+msgstr "Gültigkeit"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "value"
+msgstr "Wert"
+
+msgid "&Value"
+msgstr "&Wert"
+
+msgid ""
+"value \"%s\" of type '%s' is invalid or out of range for property '%s' of "
+"type '%s'"
+msgstr ""
+"Wert »%s« des Typs »%s« ist ungültig oder außerhalb des Bereichs der "
+"Eigenschaft »%s« des Typs »%s«"
+
+msgid "Values"
+msgstr "Werte"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Variable"
+msgstr "Variable"
+
+msgid "Variables"
+msgstr "Variablen"
+
+msgid "Variance"
+msgstr "Varianz"
+
+msgid "Vector"
+msgstr "Vektor"
+
+msgid "Velocity"
+msgstr "Geschwindigkeit"
+
+msgid "Vendor"
+msgstr "Hersteller"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Verb"
+msgstr "Verb"
+
+msgid "Verify"
+msgstr "Verifizieren"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Version %1"
+msgstr "Version %1"
+
+msgid "Vertical"
+msgstr "Senkrecht"
+
+msgid "Very Large"
+msgstr "Sehr groß"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video CD"
+msgstr "Video-CD"
+
+msgid "Video Codec"
+msgstr "Video-Codec"
+
+msgid "Video Files"
+msgstr "Videodateien"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Vietnamese"
+msgstr "Vietnamesisch"
+
+msgid "View"
+msgstr "Ansicht"
+
+msgid "&View"
+msgstr "&Ansicht"
+
+msgid "_View"
+msgstr "_Ansicht"
+
+msgid "View Options"
+msgstr "Ansichtseinstellungen"
+
+msgid "View Settings"
+msgstr "Ansichtseinstellungen"
+
+msgid "Viewer"
+msgstr "Betrachter"
+
+msgid "Views"
+msgstr "Ansichten"
+
+msgid "Virtual"
+msgstr "Virtuell"
+
+msgid "Virtual Keyboard"
+msgstr "Virtuelle Tastatur"
+
+msgid "Visibility"
+msgstr "Sichtbarkeit"
+
+msgid "Visible"
+msgstr "Sichtbar"
+
+msgid "Voltage"
+msgstr "Spannung"
+
+msgid "Volume"
+msgstr "Lautstärke"
+
+msgid "Volume Down"
+msgstr "Leiser"
+
+msgid "Volume Up"
+msgstr "Lauter"
+
+msgid "W"
+msgstr "W"
+
+msgid "w"
+msgstr "w"
+
+msgid "Waiting"
+msgstr "Warten"
+
+msgid "Wallpaper"
+msgstr "Hintergrundbild"
+
+msgid "Wallpaper type"
+msgstr "Hintergrundbild-Typ"
+
+msgid "WARNING"
+msgstr "WARNUNG"
+
+msgid "Warning"
+msgstr "Warnung"
+
+msgid "warning"
+msgstr "Warnung"
+
+msgid "Warnings"
+msgstr "Warnungen"
+
+msgid "Water"
+msgstr "Wasser"
+
+msgid "Wave"
+msgstr "Welle"
+
+msgid "Weak"
+msgstr "Schwach"
+
+msgid "Weather"
+msgstr "Wetter"
+
+msgid "Web Browser"
+msgstr "Webbrowser"
+
+msgid "Web browser"
+msgstr "Webbrowser"
+
+msgid "Website"
+msgstr "Webseite"
+
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+msgid "Week"
+msgstr "Woche"
+
+msgid "Week View"
+msgstr "Wochenansicht"
+
+msgid "Weekly"
+msgstr "Wöchentlich"
+
+msgid "Weeks"
+msgstr "Wochen"
+
+msgid "weeks"
+msgstr "Wochen"
+
+msgid "Weight"
+msgstr "Gewichtung"
+
+msgid "Welcome"
+msgstr "Willkommen"
+
+msgid "Welsh"
+msgstr "Walisisch"
+
+msgid "West"
+msgstr "West"
+
+msgid "Western"
+msgstr "Westlich"
+
+msgid "Western Sahara"
+msgstr "Westsahara"
+
+msgid "What's new"
+msgstr "Neuigkeiten"
+
+msgid "Wheel"
+msgstr "Mausrad"
+
+msgid "Whether sound effects should be played."
+msgstr "Ist diese Einstellung aktiviert, werden die Klänge wiedergegeben."
+
+msgid "White"
+msgstr "Weiß"
+
+msgid "white"
+msgstr "Weiß"
+
+msgid "White Balance"
+msgstr "Weißabgleich"
+
+msgid "Wide"
+msgstr "Breit"
+
+msgid "Widgets"
+msgstr "Miniprogramme"
+
+msgid "Width"
+msgstr "Breite"
+
+msgid "&Width"
+msgstr "&Breite"
+
+msgid "_Width"
+msgstr "_Breite"
+
+msgid "Wi-Fi"
+msgstr "WLAN"
+
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgid "Window"
+msgstr "Fenster"
+
+msgid "&Window"
+msgstr "&Fenster"
+
+msgid "&Window Color Scheme"
+msgstr "&Fenster-Farbschema"
+
+msgid "Window height"
+msgstr "Fensterhöhe"
+
+msgid "Window Management"
+msgstr "Fensterverwaltung"
+
+msgid "Window maximized"
+msgstr "Fenster maximiert"
+
+msgid "Window size"
+msgstr "Fenstergröße"
+
+msgid "Window Title"
+msgstr "Fenstertitel"
+
+msgid "Window width"
+msgstr "Fensterbreite"
+
+msgid "Windows"
+msgstr "Fenster"
+
+msgid "_Windows"
+msgstr "_Fenster"
+
+msgid "with"
+msgstr "mit"
+
+msgid "Word"
+msgstr "Wort"
+
+msgid "Word Count"
+msgstr "Wortanzahl"
+
+msgid "Words"
+msgstr "Wörter"
+
+msgid "Work"
+msgstr "Arbeit"
+
+msgid "World"
+msgstr "Welt"
+
+msgid "Wrap"
+msgstr "Umbrechen"
+
+msgid "_Wrap around"
+msgstr "Suche beim Erreichen des Endes am Anfang _fortsetzen"
+
+msgid "Wrap Text"
+msgstr "Text umbrechen"
+
+msgid "Write"
+msgstr "Schreiben"
+
+msgid "Writing"
+msgstr "Schreiben"
+
+msgid "X"
+msgstr "X"
+
+msgid "x"
+msgstr "x"
+
+msgid "_X"
+msgstr "_X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "y"
+msgstr "y"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgid "Year"
+msgstr "Jahr"
+
+msgid "Yearly"
+msgstr "Jährlich"
+
+msgid "Years"
+msgstr "Jahre"
+
+msgid "years"
+msgstr "Jahre"
+
+msgid "Yellow"
+msgstr "Gelb"
+
+msgid "yellow"
+msgstr "Gelb"
+
+msgid "Yemen"
+msgstr "Jemen"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "yes"
+msgstr "Ja"
+
+msgid "_Yes"
+msgstr "_Ja"
+
+msgid "Yesterday"
+msgstr "Gestern"
+
+msgid "Yiddish"
+msgstr "Jiddisch"
+
+msgid "You need to authenticate to access the Virtual Private Network “%s”."
+msgstr ""
+"Sie müssen sich legitimieren, um auf das Virtuelle Private Netz »%s« "
+"zuzugreifen."
+
+msgid "Yukon"
+msgstr "Yukon"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zambia"
+msgstr "Sambia"
+
+msgid "Zero"
+msgstr "Null"
+
+msgid "Zimbabwe"
+msgstr "Simbabwe"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "&Zoom"
+msgstr "&Zoom"
+
+msgid "_Zoom"
+msgstr "_Vergrößerung"
+
+msgid "Zoom In"
+msgstr "Vergrößern"
+
+msgid "Zoom in"
+msgstr "Vergrößern"
+
+msgid "Zoom &In"
+msgstr "Ver&größern"
+
+msgid "Zoom _In"
+msgstr "Ver_größern"
+
+msgid "Zoom Out"
+msgstr "Verkleinern"
+
+msgid "Zoom out"
+msgstr "Verkleinern"
+
+msgid "Zoom &Out"
+msgstr "Ver&kleinern"
+
+msgid "Zoom _Out"
+msgstr "Ver_kleinern"
+
+msgid "Zoom to Fit"
+msgstr "Auf Ansichtsgröße zoomen"
