@@ -82,9 +82,6 @@ msgstr " și "
 msgid " (default)"
 msgstr " (implicit)"
 
-msgid "© KDE Community"
-msgstr "© Comunitatea KDE"
-
 msgid " MB"
 msgstr " Mo"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Există deja un fișier cu denumirea „%1”. Sigur doriți să îl suprascrieți?"
@@ -356,17 +356,20 @@ msgstr "_Despre"
 msgid "About %1"
 msgstr "Despre %1"
 
-msgid "About KDE"
-msgstr "Despre KDE"
-
 msgid "Abstract"
 msgstr "Abstract"
+
+msgid "Acceleration"
+msgstr "Accelerație"
 
 msgid "Accept"
 msgstr "Acceptă"
 
 msgid "Accepted"
 msgstr "Acceptat"
+
+msgid "Access"
+msgstr "Acces"
 
 msgid "Accessed"
 msgstr "Accesat"
@@ -385,6 +388,9 @@ msgstr "Informații despre cont"
 
 msgid "Account Name"
 msgstr "Numele contului"
+
+msgid "Account name"
+msgstr "Denumirea contului"
 
 msgid "Accounts"
 msgstr "Conturi"
@@ -638,6 +644,9 @@ msgstr "Alfabetic"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Alternativ"
+
 msgid "Alternative"
 msgstr "Alternativ"
 
@@ -713,8 +722,14 @@ msgstr "Adnotări"
 msgid "Anonymous"
 msgstr "Anonim"
 
+msgid "Answer"
+msgstr "Răspunde"
+
 msgid "Antarctica"
 msgstr "Antarctica"
+
+msgid "Antialiasing"
+msgstr "Antialias"
 
 msgid "Any"
 msgstr "Oricare"
@@ -884,6 +899,9 @@ msgstr "Autentificarea este necesară"
 msgid "Author"
 msgstr "Autor"
 
+msgid "Author name"
+msgstr "Numele autorului"
+
 msgid "Authors"
 msgstr "Autori"
 
@@ -929,6 +947,9 @@ msgstr "Azerbaijană"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -941,8 +962,14 @@ msgstr "Înap&oi"
 msgid "_Back"
 msgstr "Î_napoi"
 
+msgid "Backend"
+msgstr "Platformă"
+
 msgid "Background"
 msgstr "Fundal"
+
+msgid "&Background"
+msgstr "&Fundal"
 
 msgid "Background Color"
 msgstr "Culoare fundal"
@@ -952,6 +979,9 @@ msgstr "Culoarea de fundal"
 
 msgid "&Background color"
 msgstr "Culoare &fundal: "
+
+msgid "Background image"
+msgstr "Imagine de fundal"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -973,6 +1003,9 @@ msgstr "Echilibrat"
 
 msgid "Baltic"
 msgstr "Baltic"
+
+msgid "Bandwidth"
+msgstr "Lungime de bandă"
 
 msgid "Bangladesh"
 msgstr "Bangladeș"
@@ -1000,6 +1033,9 @@ msgstr "Bași"
 
 msgid "Battery"
 msgstr "Acumulator"
+
+msgid "BCC"
+msgstr "Copie oarbă"
 
 msgid "Bcc"
 msgstr ""
@@ -1157,23 +1193,8 @@ msgstr "Ramură"
 msgid "Brazil"
 msgstr "Brazilia"
 
-msgid "Breeze"
-msgstr "Briză"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Briză, de KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Briză, întunecat"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Briză, întunecat, de KDE VDG"
-
 msgid "Breton"
 msgstr "Bretonă"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Punte"
@@ -1310,18 +1331,6 @@ msgstr "R&enunță"
 msgid "Canceled"
 msgstr "Anulat"
 
-msgid "Cancelled"
-msgstr "Anulat"
-
-msgid "cannot load editor plugin: %s"
-msgstr "nu se poate încărca modulul editor: %s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "nu se poate încărca fabrica %s de la modul: %s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr ""
 
@@ -1340,14 +1349,14 @@ msgstr "Capitalizează"
 msgid "Caps Lock is on"
 msgstr "Caps Lock e activ"
 
+msgid "Caption"
+msgstr "Titlu"
+
 msgid "Capture"
 msgstr "Capturează"
 
 msgid "Car"
 msgstr "Mașină"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascadă"
@@ -1436,6 +1445,9 @@ msgstr "Modificare..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr "Modificări"
+
 msgid "Channel"
 msgstr "Canal"
 
@@ -1453,6 +1465,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Caracter"
+
+msgid "Character set"
+msgstr "Caractere"
 
 msgid "Characters"
 msgstr "Caractere"
@@ -1685,6 +1700,9 @@ msgstr "Schemă de culori"
 msgid "Color Space"
 msgstr "Spațiu de culoare"
 
+msgid "Color space"
+msgstr "Spațiu de culoare"
+
 msgid "Color theme"
 msgstr "Tematică de culori"
 
@@ -1706,14 +1724,8 @@ msgstr "Coloane"
 msgid "Comma"
 msgstr "Virgulă"
 
-msgid "COMMAND"
-msgstr "COMANDĂ"
-
 msgid "Command"
 msgstr "Comandă"
-
-msgid "command"
-msgstr "comandă"
 
 msgid "Command Line"
 msgstr "Linie de comandă"
@@ -1727,6 +1739,9 @@ msgstr "Comenzi"
 msgid "Comment"
 msgstr "Comentariu"
 
+msgid "comment"
+msgstr "comentariu"
+
 msgid "Comments"
 msgstr "Comentarii"
 
@@ -1736,11 +1751,17 @@ msgstr "Comite"
 msgid "Common"
 msgstr "Comun"
 
+msgid "Common Name"
+msgstr "Nume comun"
+
 msgid "Comoros"
 msgstr "Comoros"
 
 msgid "Compact"
 msgstr "Compact"
+
+msgid "Company"
+msgstr "Companie"
 
 msgid "Compare"
 msgstr "Compară"
@@ -1778,6 +1799,9 @@ msgstr "Calculator"
 msgid "Condition"
 msgstr "Condiție"
 
+msgid "Conditions"
+msgstr "Condiții"
+
 msgid "Confidential"
 msgstr "Confidențial"
 
@@ -1808,6 +1832,9 @@ msgstr "Configurare scurtături Web..."
 msgid "Confirm"
 msgstr "Confirmă"
 
+msgid "Confirm Password"
+msgstr "Confirmați parola"
+
 msgid "Confirmation"
 msgstr "Confirmare"
 
@@ -1819,6 +1846,9 @@ msgstr "Confirmat"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Conflict cu o scurtătură standard de aplicație"
+
+msgid "Conflicts"
+msgstr "Conflicte"
 
 msgid "Connect"
 msgstr "Conectează"
@@ -1844,6 +1874,9 @@ msgstr "Conexiunea a eșuat"
 msgid "Connection Settings"
 msgstr "Configurări conexiune"
 
+msgid "Connection type"
+msgstr "Tip conexiune"
+
 msgid "Connections"
 msgstr "Conexiuni"
 
@@ -1852,11 +1885,6 @@ msgstr "Consolă"
 
 msgid "Constant"
 msgstr "Constantă"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
-"proprietatea construct „%s” pentru obiectul „%s” nu poate fi stabilită după "
-"construcție"
 
 msgid "Contact"
 msgstr "Contact"
@@ -1870,14 +1898,14 @@ msgstr "Container"
 msgid "Contains"
 msgstr "Conține"
 
-msgid "contains"
-msgstr "conține"
-
 msgid "Content"
 msgstr "Conținut"
 
 msgid "Content Type"
 msgstr "Tip conținut"
+
+msgid "Content type"
+msgstr "Tip de conținut"
 
 msgid "Contents"
 msgstr "Conținut"
@@ -1900,11 +1928,17 @@ msgstr "Contrast"
 msgid "Contributor"
 msgstr "Contribuitor"
 
+msgid "Contributors"
+msgstr "Colaboratori"
+
 msgid "Control"
 msgstr "Control"
 
 msgid "Convert"
 msgstr "Convertește"
+
+msgid "Convert to"
+msgstr "Convertește la"
 
 msgid "Convert to Path"
 msgstr "Converteşte în cale"
@@ -1923,9 +1957,6 @@ msgstr "Coptic"
 
 msgid "Copy"
 msgstr "Copiază"
-
-msgid "copy"
-msgstr "copiază"
 
 msgid "&Copy"
 msgstr "&Copiază"
@@ -1978,6 +2009,9 @@ msgstr "Se copiază fișiere"
 msgid "Copyright"
 msgstr "Drept de autor"
 
+msgid "Correct"
+msgstr "Corect"
+
 msgid "Cost"
 msgstr ""
 
@@ -2001,6 +2035,9 @@ msgstr "Țară"
 
 msgid "CPU"
 msgstr "Procesor"
+
+msgid "CPU usage"
+msgstr "Utilizare procesor"
 
 msgid "Create"
 msgstr "Creează"
@@ -2029,6 +2066,9 @@ msgstr "Creator"
 msgid "Credentials"
 msgstr "Acreditări"
 
+msgid "Credit"
+msgstr "Credit"
+
 msgid "Credits"
 msgstr "Mulțumiri"
 
@@ -2055,15 +2095,6 @@ msgstr "Cruce"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr ""
 
 msgid "Cuba"
 msgstr "Cuba"
@@ -2092,8 +2123,14 @@ msgstr "Curbe"
 msgid "Custom"
 msgstr "Personalizat"
 
+msgid "&Custom"
+msgstr "&Personalizat"
+
 msgid "Custom..."
 msgstr "Personalizat..."
+
+msgid "Custom color"
+msgstr "Culoare particularizată"
 
 msgid "Custom Font"
 msgstr "Font personalizat"
@@ -2167,6 +2204,9 @@ msgstr "Date"
 msgid "Database"
 msgstr "Bază de date"
 
+msgid "Database name"
+msgstr "Denumire BD"
+
 msgid "Date"
 msgstr "Dată"
 
@@ -2182,14 +2222,20 @@ msgstr "Data și ora"
 msgid "Date Format"
 msgstr "Format dată"
 
+msgid "Date format"
+msgstr "Format dată"
+
 msgid "Date Modified"
 msgstr "Data modificării"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr ""
 
 msgid "Day"
 msgstr "Zi"
+
+msgid "day"
+msgstr "zi"
 
 msgid "Days"
 msgstr "Zile"
@@ -2238,6 +2284,9 @@ msgstr "Implicit"
 
 msgid "default"
 msgstr "implicit"
+
+msgid "Default value"
+msgstr "Valoare implicită"
 
 msgid "Defaults"
 msgstr "Implicite"
@@ -2314,6 +2363,9 @@ msgstr "Densitate"
 msgid "Deny"
 msgstr "Refuză"
 
+msgid "Department"
+msgstr "Departament"
+
 msgid "Dependencies"
 msgstr "Dependențe"
 
@@ -2346,6 +2398,12 @@ msgstr "Birou"
 
 msgid "Destination"
 msgstr "Destinație"
+
+msgid "Destination Folder"
+msgstr "Dosar destinație"
+
+msgid "Destination folder"
+msgstr "Dosar destinație"
 
 msgid "Detach"
 msgstr "Detașează"
@@ -2518,6 +2576,9 @@ msgstr "Dizolvare"
 msgid "Distance"
 msgstr "Distanță"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "Împarte"
 
@@ -2572,11 +2633,11 @@ msgstr "Documente"
 msgid "does not contain"
 msgstr "nu conține"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Domeniu"
+
+msgid "_Domain"
+msgstr "_Domeniu"
 
 msgid "Dominica"
 msgstr "Dominica"
@@ -2680,6 +2741,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Dinamică"
+
 msgid "E"
 msgstr "E"
 
@@ -2731,6 +2795,9 @@ msgstr "Modifică imaginea"
 msgid "Editing"
 msgstr "Editare"
 
+msgid "Edition"
+msgstr "Ediție"
+
 msgid "Editor"
 msgstr "Editor"
 
@@ -2746,9 +2813,6 @@ msgstr "Egipt"
 msgid "Egyptian"
 msgstr "Egiptean"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Scoate"
 
@@ -2758,17 +2822,29 @@ msgstr "Scoat_e"
 msgid "El Salvador"
 msgstr "El Salvador"
 
+msgid "Elapsed Time"
+msgstr "Timp scurs"
+
 msgid "Electronic"
 msgstr "Electronic"
 
 msgid "Element"
 msgstr "Element"
 
+msgid "Elements"
+msgstr "Elemente"
+
 msgid "Ellipse"
 msgstr "Elipsă"
 
+msgid "EMail"
+msgstr "Email"
+
 msgid "Email"
 msgstr "Email"
+
+msgid "E-Mail"
+msgstr "E-Mail"
 
 msgid "E-mail"
 msgstr "Poștă electronică"
@@ -2848,6 +2924,9 @@ msgstr "end"
 msgid "End Date"
 msgstr "Dată de sfârșit"
 
+msgid "End date"
+msgstr "Data de încheiere"
+
 msgid "End Time"
 msgstr ""
 
@@ -2869,8 +2948,14 @@ msgstr "Engleză"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "Introduceți denumirea"
+
 msgid "Enter password"
 msgstr "Introduceți parola"
+
+msgid "Entries"
+msgstr "Elemente"
 
 msgid "Entry"
 msgstr "Intrare"
@@ -2944,6 +3029,9 @@ msgstr "Eveniment"
 msgid "Events"
 msgstr "Evenimente"
 
+msgid "Every"
+msgstr "În fiecare"
+
 msgid "Everyone"
 msgstr "Toți"
 
@@ -2961,6 +3049,9 @@ msgstr "Exemple"
 
 msgid "Exception"
 msgstr "Excepție"
+
+msgid "Exceptions"
+msgstr ""
 
 msgid "Exclude"
 msgstr "Exclude"
@@ -2995,10 +3086,16 @@ msgstr "Desfășoară tot"
 msgid "Experimental"
 msgstr "Experimental"
 
+msgid "Expiration"
+msgstr "Expirare"
+
 msgid "Expired"
 msgstr "Expirat"
 
 msgid "Expires"
+msgstr "Expiră la"
+
+msgid "Expires On"
 msgstr "Expiră la"
 
 msgid "Export"
@@ -3034,6 +3131,9 @@ msgstr "Exportă opțiunile"
 msgid "Exposure"
 msgstr "Expunere"
 
+msgid "Exposure Time"
+msgstr "Timp de expunere"
+
 msgid "Expression"
 msgstr "Expresie"
 
@@ -3054,6 +3154,9 @@ msgstr "Extrage"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr ""
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3112,6 +3215,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Obține"
 
+msgid "Field"
+msgstr "Câmp"
+
+msgid "Fields"
+msgstr "Câmpuri"
+
 msgid "Fiji"
 msgstr "Fiji"
 
@@ -3144,6 +3253,9 @@ msgstr "Fișierul există"
 
 msgid "File Format"
 msgstr "Format Fișier"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3204,6 +3316,9 @@ msgstr "Culoare de umplere"
 
 msgid "Filter"
 msgstr "Filtru"
+
+msgid "&Filter"
+msgstr "&Filtru"
 
 msgid "Filter..."
 msgstr "Filtru…"
@@ -3268,6 +3383,9 @@ msgstr "Finlandeză"
 msgid "First"
 msgstr "Cea mai apropiată"
 
+msgid "First Name"
+msgstr "Prenume"
+
 msgid "First Page"
 msgstr "Prima pagină"
 
@@ -3328,6 +3446,9 @@ msgstr "floare"
 msgid "Focal Length"
 msgstr "Distanța focală"
 
+msgid "Focal length"
+msgstr "Distanță focală"
+
 msgid "Focus"
 msgstr "Focalizare"
 
@@ -3349,6 +3470,9 @@ msgstr "Font"
 msgid "&Font"
 msgstr "&Font"
 
+msgid "_Font"
+msgstr "_Font"
+
 msgid "Font Color"
 msgstr "Culoare font"
 
@@ -3360,6 +3484,12 @@ msgstr "Dimensiune font"
 
 msgid "Font size"
 msgstr "Dimensiunea fontului"
+
+msgid "Font Style"
+msgstr "Stil caractere"
+
+msgid "Font style"
+msgstr "Stil font"
 
 msgid "Fonts"
 msgstr "Fonturi"
@@ -3397,6 +3527,12 @@ msgstr "Formular"
 msgid "Format"
 msgstr "Format"
 
+msgid "&Format"
+msgstr "&Format"
+
+msgid "_Format"
+msgstr "_Format"
+
 msgid "Formatting"
 msgstr "Formatare"
 
@@ -3423,6 +3559,12 @@ msgstr "Fracție"
 
 msgid "Frame"
 msgstr "Cadru"
+
+msgid "Frame Rate"
+msgstr "Frecvență cadre"
+
+msgid "Frame rate"
+msgstr "Frecvență cadre"
 
 msgid "Framerate"
 msgstr "Rată de cadre"
@@ -3467,6 +3609,9 @@ msgid "Full"
 msgstr "Deplin"
 
 msgid "Full Name"
+msgstr "Nume complet"
+
+msgid "Full name"
 msgstr "Nume complet"
 
 msgid "Full Screen"
@@ -3534,6 +3679,9 @@ msgstr ""
 
 msgid "Gateway"
 msgstr "Gateway"
+
+msgid "_Gateway"
+msgstr "_Gateway"
 
 msgid "Gaussian Blur"
 msgstr "Estompare gaussiană"
@@ -3655,6 +3803,9 @@ msgstr "Mergi la pagina precedentă"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr "Obiectiv"
+
 msgid "Gold"
 msgstr "Aur"
 
@@ -3709,6 +3860,9 @@ msgstr "Gri"
 msgid "Grid"
 msgstr "Grilă"
 
+msgid "&Grid"
+msgstr "&Grilă"
+
 msgid "Group"
 msgstr "Grup"
 
@@ -3754,6 +3908,9 @@ msgstr "Dificil"
 msgid "Hardware"
 msgstr "Echipament"
 
+msgid "Hash"
+msgstr "Hash"
+
 msgid "Hawaiian"
 msgstr "Hawaiană"
 
@@ -3795,6 +3952,9 @@ msgstr "Înălțime"
 
 msgid "&Height"
 msgstr "Î&nălțime"
+
+msgid "_Height"
+msgstr "Î_nălțime"
 
 msgid "Help"
 msgstr "Ajutor"
@@ -3840,6 +4000,9 @@ msgstr "Înaltă"
 
 msgid "Highlight"
 msgstr "Evidențiere"
+
+msgid "Highlight color"
+msgstr "Culoare evidențiere"
 
 msgid "Highlighter"
 msgstr "Evidențiator"
@@ -3892,8 +4055,17 @@ msgstr "Hong Kong"
 msgid "Horizontal"
 msgstr "Orizontal"
 
+msgid "_Horizontal"
+msgstr "_Orizontal"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "Gazdă"
+
+msgid "Host Name"
+msgstr "Nume gazdă"
 
 msgid "Hostname"
 msgstr "Nume gazdă"
@@ -3973,6 +4145,9 @@ msgstr "Id."
 msgid "id"
 msgstr "id"
 
+msgid "Identification"
+msgstr "Identificare"
+
 msgid "Identifier"
 msgstr "Identificator"
 
@@ -4026,6 +4201,12 @@ msgstr "Configurări imagine"
 
 msgid "Image Size"
 msgstr "Dimensiune de imagine"
+
+msgid "Image size"
+msgstr "Dimensiune de imagine"
+
+msgid "Image type"
+msgstr "Tip de imagine"
 
 msgid "Image Viewer"
 msgstr "Vizualizator de imagini"
@@ -4102,6 +4283,9 @@ msgstr "Mărește indentarea"
 msgid "Increase Volume"
 msgstr "Mărește volumul"
 
+msgid "Increment"
+msgstr "Incrementare"
+
 msgid "Incremental"
 msgstr "Incremental"
 
@@ -4113,6 +4297,9 @@ msgstr "Index"
 
 msgid "Indexed"
 msgstr "Indexat"
+
+msgid "Indexing"
+msgstr "Indexare"
 
 msgid "India"
 msgstr "India"
@@ -4176,6 +4363,9 @@ msgstr "Se instalează"
 
 msgid "Instant"
 msgstr "Instantanee"
+
+msgid "Instructions"
+msgstr "Instrucțiuni: "
 
 msgid "Integer"
 msgstr "Întreg"
@@ -4264,11 +4454,17 @@ msgstr "Irlandeză"
 msgid "is"
 msgstr "este"
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "Israel"
 
 msgid "Issued By"
 msgstr "Emis de"
+
+msgid "Issued On"
+msgstr "Emis la"
 
 msgid "Issuer"
 msgstr "Emitent"
@@ -4366,9 +4562,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Kazahă"
 
@@ -4377,18 +4570,6 @@ msgstr "Kazahstan"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "Comunitatea KDE, Felipe Kinoshita"
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Păstrează"
@@ -4453,26 +4634,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsolă"
-
 msgid "Korean"
 msgstr "Coreeană"
 
-msgid "KOrganizer"
-msgstr "Organizator"
-
 msgid "Kuwait"
 msgstr "Kuweit"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4491,6 +4657,9 @@ msgstr "Peisaj"
 
 msgid "Language"
 msgstr "Limbă"
+
+msgid "&Language"
+msgstr "&Limba"
 
 msgid "_Language"
 msgstr "_Limbă"
@@ -4512,6 +4681,12 @@ msgstr "Ultima"
 
 msgid "Last Modified"
 msgstr "Ultima modificare"
+
+msgid "Last modified"
+msgstr "Modificat ultima dată"
+
+msgid "Last Name"
+msgstr "Nume"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4624,8 +4799,20 @@ msgstr "Linie nouă"
 msgid "Line Color"
 msgstr "Culoare linie"
 
+msgid "Line Count"
+msgstr "Număr de linii"
+
 msgid "Line Numbers"
 msgstr "Numere de linie"
+
+msgid "Line spacing"
+msgstr "Spațiere între linii"
+
+msgid "Line Style"
+msgstr "Stil linie"
+
+msgid "Line style"
+msgstr "Stil de linie"
 
 msgid "Line Width"
 msgstr "Lățime linie"
@@ -4644,6 +4831,9 @@ msgstr "Legătură"
 
 msgid "link"
 msgstr "legătură"
+
+msgid "Link Text"
+msgstr "Text legătură"
 
 msgid "Link URL"
 msgstr "URL legătură"
@@ -4744,6 +4934,9 @@ msgstr "Autentificare"
 
 msgid "_Login"
 msgstr "_Autentificare"
+
+msgid "Logo"
+msgstr "Logo"
 
 msgid "Logout"
 msgstr "Deconectare"
@@ -4940,6 +5133,9 @@ msgstr "Maximizează"
 msgid "Maximum"
 msgstr "Maxim"
 
+msgid "Maximum width"
+msgstr "Lățimea maximă"
+
 msgid "May"
 msgstr "Mai"
 
@@ -4994,6 +5190,9 @@ msgstr "Mesaj"
 msgid "message"
 msgstr "mesaj"
 
+msgid "&Message"
+msgstr "&Mesaj"
+
 msgid "Messages"
 msgstr "Mesaje"
 
@@ -5005,6 +5204,9 @@ msgstr "Metadate"
 
 msgid "Metal"
 msgstr "Metal"
+
+msgid "Metering Mode"
+msgstr "Mod de măsură"
 
 msgid "meters"
 msgstr "metri"
@@ -5044,6 +5246,9 @@ msgstr "Milisecunde"
 
 msgid "milliseconds"
 msgstr "milisecunde"
+
+msgid "MIME type"
+msgstr ""
 
 msgid "Min"
 msgstr "Min"
@@ -5090,8 +5295,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Mobil"
 
+msgid "Mobile Phone"
+msgstr "Telefon mobil"
+
 msgid "Mode"
 msgstr "Regim"
+
+msgid "_Mode"
+msgstr "_Mod"
 
 msgid "Model"
 msgstr "Model"
@@ -5188,6 +5399,9 @@ msgstr "Maroc"
 
 msgid "Mount"
 msgstr "Montează"
+
+msgid "Mount Point"
+msgstr "Punct de montare"
 
 msgid "Mount point"
 msgstr "Punct de montare"
@@ -5327,6 +5541,9 @@ msgstr "_Nume"
 msgid "Name: %1"
 msgstr "Denumire: %1"
 
+msgid "Names"
+msgstr "Denumiri"
+
 msgid "Namespace"
 msgstr "Domeniu de nume"
 
@@ -5356,6 +5573,9 @@ msgstr "Nepaleză"
 
 msgid "Netherlands"
 msgstr "Olanda"
+
+msgid "Netmask"
+msgstr "Mască rețea"
 
 msgid "Network"
 msgstr "Rețea"
@@ -5567,6 +5787,9 @@ msgstr "Fără subiect"
 msgid "No VPN configuration options."
 msgstr "Nu există opțiuni de configurare VPN."
 
+msgid "Node"
+msgstr "Nod"
+
 msgid "Noise"
 msgstr "Zgomot"
 
@@ -5693,6 +5916,9 @@ msgstr "număr"
 msgid "Number of columns"
 msgstr "Număr de coloane"
 
+msgid "Number of rows"
+msgstr "Număr de rânduri"
+
 msgid "Numbers"
 msgstr "Numere"
 
@@ -5749,9 +5975,6 @@ msgstr "&Bine"
 
 msgid "_OK"
 msgstr "_OK"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Oman"
@@ -5903,6 +6126,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Operă"
 
+msgid "Operating System"
+msgstr "Sistem de operare"
+
 msgid "Operation"
 msgstr "Operație"
 
@@ -5914,6 +6140,9 @@ msgstr "Operații"
 
 msgid "Operator"
 msgstr "Operator"
+
+msgid "Operators"
+msgstr "Operatori"
 
 msgid "Optical Character Recognition"
 msgstr "Recunoaștere optică a caracterelor"
@@ -5972,6 +6201,9 @@ msgstr "Dimensiune originală"
 msgid "Oriya"
 msgstr "Oriya"
 
+msgid "OS"
+msgstr "SO"
+
 msgid "Other"
 msgstr "Altele"
 
@@ -5985,6 +6217,9 @@ msgid "Other Application..."
 msgstr "Altă aplicație…"
 
 msgid "Other Options"
+msgstr "Alte opțiuni"
+
+msgid "Other options"
 msgstr "Alte opțiuni"
 
 msgid "Others"
@@ -6128,6 +6363,9 @@ msgstr "Părinte"
 msgid "Partition"
 msgstr "Partiție"
 
+msgid "Passphrase"
+msgstr "Frază secretă"
+
 msgid "Password"
 msgstr "Parolă"
 
@@ -6166,6 +6404,9 @@ msgstr "Căi"
 
 msgid "Pattern"
 msgstr "Model"
+
+msgid "_Pattern"
+msgstr "_Model"
 
 msgid "Patterns"
 msgstr "Modele"
@@ -6251,8 +6492,14 @@ msgstr "Filipine"
 msgid "Phone"
 msgstr "Telefon"
 
+msgid "Phone Numbers"
+msgstr "Numere de telefon"
+
 msgid "Photo"
 msgstr "Fotografie"
+
+msgid "Photos"
+msgstr "Fotografii"
 
 msgid "PHP Documentation"
 msgstr "Documentație PHP"
@@ -6274,6 +6521,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "Diagramă circulară"
+
+msgid "PIN"
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "Fixează"
@@ -6302,9 +6552,6 @@ msgstr "Text simplu"
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Platformă"
 
@@ -6323,8 +6570,14 @@ msgstr "Redare"
 msgid "Player"
 msgstr "Jucător"
 
+msgid "Player 1"
+msgstr "Jucător 1"
+
 msgid "Player %1"
 msgstr "Jucător %1"
+
+msgid "Player 2"
+msgstr "Jucător 2"
 
 msgid "Players"
 msgstr "Jucători"
@@ -6404,6 +6657,9 @@ msgstr "Port"
 msgid "&Port"
 msgstr "&Port"
 
+msgid "_Port"
+msgstr "_Port"
+
 msgid "Portrait"
 msgstr "Portret"
 
@@ -6415,6 +6671,9 @@ msgstr "Portugheză"
 
 msgid "Position"
 msgstr "Poziție"
+
+msgid "Postal code"
+msgstr "Cod poștal"
 
 msgid "Posterize"
 msgstr "Posterizare"
@@ -6457,6 +6716,9 @@ msgstr "Previzualizare"
 
 msgid "&Preview"
 msgstr "&Previzualizare"
+
+msgid "_Preview"
+msgstr "_Previzualizare"
 
 msgid "Previews"
 msgstr "Previzualizări"
@@ -6539,6 +6801,9 @@ msgstr "Confidențialitate"
 msgid "Private"
 msgstr "Privat"
 
+msgid "Private Key"
+msgstr "Cheie privată"
+
 msgid "Process"
 msgstr "Proces"
 
@@ -6566,6 +6831,9 @@ msgstr "Profiluri"
 msgid "Program"
 msgstr "Program"
 
+msgid "Programs"
+msgstr "Programe"
+
 msgid "Progress"
 msgstr "Progres"
 
@@ -6574,6 +6842,9 @@ msgstr "Proiect"
 
 msgid "&Project"
 msgstr "&Proiect"
+
+msgid "Project name"
+msgstr ""
 
 msgid "Projects"
 msgstr "Proiecte"
@@ -6647,6 +6918,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "Qatar"
 
@@ -6702,6 +6976,9 @@ msgstr "Termină aplicația"
 msgid "Quote"
 msgstr "Citat"
 
+msgid "Quotes"
+msgstr "Citate"
+
 msgid "R"
 msgstr "R"
 
@@ -6732,6 +7009,9 @@ msgstr "Rată"
 msgid "Rating"
 msgstr "Evaluare"
 
+msgid "Ratio"
+msgstr "Raport"
+
 msgid "Raw"
 msgstr "Brut"
 
@@ -6759,11 +7039,17 @@ msgstr "Pregătit"
 msgid "Ready."
 msgstr "Gata."
 
+msgid "Realm"
+msgstr "Domeniu"
+
 msgid "Reason"
 msgstr "Motiv"
 
 msgid "Reassign"
 msgstr "Reatribuie"
+
+msgid "Received"
+msgstr "Primit"
 
 msgid "Recent"
 msgstr "Recente"
@@ -6785,6 +7071,9 @@ msgstr "Înregistrare"
 
 msgid "Rectangle"
 msgstr "Dreptunghi"
+
+msgid "Recurrence"
+msgstr "Repetiție"
 
 msgid "Recursive"
 msgstr "Recursiv"
@@ -6915,6 +7204,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Se elimină"
+
 msgid "Rename"
 msgstr "Redenumește"
 
@@ -6935,6 +7227,9 @@ msgstr "Redenumește semnul de carte"
 
 msgid "Rename File"
 msgstr "Redenumește fișierul"
+
+msgid "Rendering intent"
+msgstr "Intenția de randare"
 
 msgid "Repeat"
 msgstr "Repetă"
@@ -6957,11 +7252,20 @@ msgstr "Înlocuiește _tot"
 msgid "Replace an existing instance"
 msgstr "Înlocuiește o instanță existentă"
 
+msgid "Replace With"
+msgstr "Înlocuiește cu"
+
+msgid "Replace with"
+msgstr "Înlocuiește cu"
+
 msgid "Replacement"
 msgstr "Înlocuire"
 
 msgid "Reply"
 msgstr "Răspunde"
+
+msgid "Reply-To"
+msgstr "Răspuns către"
 
 msgid "Report"
 msgstr "Raport"
@@ -6980,6 +7284,9 @@ msgstr "&Raportează defect…"
 
 msgid "Reports"
 msgstr "Rapoarte"
+
+msgid "Repository"
+msgstr "Depozit"
 
 msgid "Required"
 msgstr "Necesar"
@@ -7092,6 +7399,9 @@ msgstr "De la dreapta la stânga"
 msgid "Right-click"
 msgstr "Clic drept"
 
+msgid "Rights"
+msgstr "Drepturi"
+
 msgid "River"
 msgstr "Râu"
 
@@ -7146,6 +7456,9 @@ msgstr "rânduri"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr "Reguli"
 
@@ -7154,6 +7467,9 @@ msgstr "Rulează"
 
 msgid "&Run"
 msgstr "&Rulează"
+
+msgid "Run command"
+msgstr "Rulează comandă"
 
 msgid "Run in terminal"
 msgstr "Execută în terminal"
@@ -7290,6 +7606,9 @@ msgstr "Salvează imaginea"
 msgid "_Save Image As..."
 msgstr "_Salvează imaginea ca…"
 
+msgid "Save Location"
+msgstr "Locul de salvare"
+
 msgid "Save Project"
 msgstr ""
 
@@ -7298,6 +7617,9 @@ msgstr "Salvează sesiunea"
 
 msgid "Save Settings"
 msgstr "Salvează configurările"
+
+msgid "Save to"
+msgstr "Salvează la"
 
 msgid "Saved"
 msgstr "Salvat"
@@ -7329,11 +7651,17 @@ msgstr "Scanează"
 msgid "Scanner"
 msgstr "Scaner"
 
+msgid "Scanning"
+msgstr "Se scanează"
+
 msgid "Scanning..."
 msgstr "Se citește…"
 
 msgid "Schedule"
 msgstr "Planificare"
+
+msgid "Scheduler"
+msgstr "Planificator"
 
 msgid "Scheduling"
 msgstr ""
@@ -7410,11 +7738,17 @@ msgstr "Caută…"
 msgid "Search Bar"
 msgstr "Bara de căutare"
 
+msgid "Search for"
+msgstr "Caută"
+
 msgid "_Search for"
 msgstr "Ca_ută"
 
 msgid "Search for '%1' with"
 msgstr "Caută „%1” cu"
+
+msgid "Search in"
+msgstr "Caută în"
 
 msgid "Search Options"
 msgstr "Opțiuni de căutare"
@@ -7518,6 +7852,9 @@ msgstr "Selecție"
 msgid "Selections"
 msgstr "Selecții"
 
+msgid "Self"
+msgstr "Sine"
+
 msgid "Semicolon"
 msgstr "Punct și virgulă"
 
@@ -7557,6 +7894,9 @@ msgstr "Serbia"
 msgid "Serbian"
 msgstr "Sârbă"
 
+msgid "Serial"
+msgstr "Seria"
+
 msgid "Serial Number"
 msgstr "Număr de serie"
 
@@ -7572,8 +7912,14 @@ msgstr "Cu serife"
 msgid "Server"
 msgstr "Server"
 
+msgid "&Server"
+msgstr "&Server"
+
 msgid "Server URL"
 msgstr "URL server"
+
+msgid "Servers"
+msgstr "Servere"
 
 msgid "Service"
 msgstr "Serviciu"
@@ -7586,6 +7932,9 @@ msgstr "Sesiune"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Denumirea sesiunii"
 
 msgid "Sessions"
 msgstr "Sesiuni"
@@ -7616,6 +7965,12 @@ msgstr "Severitate"
 
 msgid "Seychelles"
 msgstr "Seychelles"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7655,6 +8010,12 @@ msgstr "Claritate"
 
 msgid "Shear"
 msgstr "Înclinare"
+
+msgid "Sheet"
+msgstr "Foaie"
+
+msgid "Sheets"
+msgstr "Foi"
 
 msgid "Shell"
 msgstr "Cochilie"
@@ -7776,6 +8137,9 @@ msgstr "Singur"
 msgid "Sinhala"
 msgstr "Sinhala"
 
+msgid "Site"
+msgstr "Sait"
+
 msgid "Size"
 msgstr "Dimensiune"
 
@@ -7784,6 +8148,9 @@ msgstr "dimensiune"
 
 msgid "&Size"
 msgstr "Dimen&siune"
+
+msgid "_Size"
+msgstr "Dimen_siune"
 
 msgid "Size: %1"
 msgstr "Dimensiune: %1"
@@ -7811,6 +8178,9 @@ msgstr "Cursor"
 
 msgid "Slideshow"
 msgstr "Diaporamă"
+
+msgid "Slope"
+msgstr "Pantă"
 
 msgid "Slovak"
 msgstr "Slovacă"
@@ -7866,6 +8236,12 @@ msgstr "Culoare uniformă"
 msgid "Solomon Islands"
 msgstr "Insulele Solomon"
 
+msgid "Solution"
+msgstr "Soluție"
+
+msgid "Solve"
+msgstr "Rezolvă"
+
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -7883,6 +8259,9 @@ msgstr "Sortare"
 
 msgid "Sound"
 msgstr "Sunet"
+
+msgid "Sounds"
+msgstr "Sunete"
 
 msgid "Soundtrack"
 msgstr "Coloană sonoră"
@@ -7951,6 +8330,9 @@ msgid "Spell Check"
 msgstr "Verificare ortografică"
 
 msgid "Spell Checking"
+msgstr "Verificare ortografică"
+
+msgid "Spellcheck"
 msgstr "Verificare ortografică"
 
 msgid "Spelling"
@@ -8192,6 +8574,9 @@ msgstr "Sudaneză"
 msgid "Sunday"
 msgstr "Duminică"
 
+msgid "Sunrise"
+msgstr "Răsărit"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8248,6 +8633,9 @@ msgstr "Sincronizare"
 
 msgid "Synchronize"
 msgstr "Sincronizează"
+
+msgid "Syntax"
+msgstr "Sintaxă"
 
 msgid "Syriac"
 msgstr "Sirian"
@@ -8311,6 +8699,9 @@ msgstr "Tanzania"
 
 msgid "Target"
 msgstr "Destinație"
+
+msgid "Targets"
+msgstr "Ținte"
 
 msgid "Task"
 msgstr "Sarcină"
@@ -8425,6 +8816,9 @@ msgstr "Dezvoltatori ManagerRețea"
 msgid "Theme"
 msgstr "Tematică"
 
+msgid "&Theme"
+msgstr "&Tematică"
+
 msgid "Themes"
 msgstr "Teme"
 
@@ -8444,6 +8838,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "Fire"
 
 msgid "Threshold"
 msgstr "Prag"
@@ -8470,6 +8867,9 @@ msgid "Tile"
 msgstr "Mozaic"
 
 msgid "Tiled"
+msgstr "Dale"
+
+msgid "Tiles"
 msgstr "Dale"
 
 msgid "Tilt"
@@ -8520,6 +8920,9 @@ msgstr "&Titlu"
 msgid "_Title"
 msgstr "_Titlu"
 
+msgid "Titles"
+msgstr "Titluri"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8543,6 +8946,9 @@ msgstr "DE FĂCUT"
 
 msgid "Todo"
 msgstr "Obiective"
+
+msgid "To-do"
+msgstr ""
 
 msgid "Toggle Fullscreen"
 msgstr "Pe tot ecranul Activat/Dezactivat"
@@ -8574,6 +8980,9 @@ msgstr "Unealtă"
 msgid "Tool Options"
 msgstr "Opțiuni de instrument"
 
+msgid "Toolbar"
+msgstr "Bara de unelte"
+
 msgid "_Toolbar"
 msgstr "_Bară de instrumente"
 
@@ -8594,6 +9003,9 @@ msgstr "&Unelte"
 
 msgid "_Tools"
 msgstr "_Instrumente"
+
+msgid "Tooltip"
+msgstr "Indiciu"
 
 msgid "Top"
 msgstr "Sus"
@@ -8747,11 +9159,17 @@ msgstr "tip"
 msgid "&Type"
 msgstr "&Tip"
 
+msgid "_Type"
+msgstr "_Tip"
+
 msgid "Type: %1"
 msgstr "Tip: %1"
 
 msgid "Uganda"
 msgstr "Uganda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ucraina"
@@ -8986,6 +9404,9 @@ msgstr "Folosită"
 msgid "User"
 msgstr "Utilizator"
 
+msgid "User Agent"
+msgstr "Agent utilizator"
+
 msgid "User Certificate"
 msgstr "Certificat utilizator"
 
@@ -9010,11 +9431,17 @@ msgstr "Parolă utilizator"
 msgid "Username"
 msgstr "Utilizator"
 
+msgid "&Username"
+msgstr "&Utilizator"
+
 msgid "_Username"
 msgstr "N_ume de utilizator"
 
 msgid "Users"
 msgstr "Utilizatori"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Utilitare"
@@ -9036,6 +9463,9 @@ msgstr "Valid"
 
 msgid "Valid from"
 msgstr "Valabil din"
+
+msgid "Valid until"
+msgstr "Valabil până la"
 
 msgid "Validity"
 msgstr "Valabilitate"
@@ -9071,6 +9501,9 @@ msgstr "Variabile"
 msgid "Variance"
 msgstr "Varianță"
 
+msgid "Variant"
+msgstr "Variantă"
+
 msgid "Vector"
 msgstr "Vector"
 
@@ -9097,6 +9530,9 @@ msgstr "Versiunea %1"
 
 msgid "Vertical"
 msgstr "Vertical"
+
+msgid "_Vertical"
+msgstr "_Vertical"
 
 msgid "Very Large"
 msgstr "Foarte mare"
@@ -9130,6 +9566,9 @@ msgstr "&Vizualizare"
 
 msgid "_View"
 msgstr "_Vizualizare"
+
+msgid "View mode"
+msgstr "Regim vizualizare"
 
 msgid "View Options"
 msgstr "Arată opțiunile"
@@ -9290,6 +9729,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
+msgid "Wind"
+msgstr "Vânt"
+
 msgid "Window"
 msgstr "Fereastră"
 
@@ -9332,11 +9774,17 @@ msgstr "Cuvânt"
 msgid "Word Count"
 msgstr "Contor de cuvinte"
 
+msgid "Word wrap"
+msgstr "Limitare cuvinte"
+
 msgid "Words"
 msgstr "Cuvinte"
 
 msgid "Work"
 msgstr "Serviciu"
+
+msgid "Workspace"
+msgstr "Spațiu de lucru"
 
 msgid "World"
 msgstr "Lume"
@@ -9376,6 +9824,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "An"
+
+msgid "&Year"
+msgstr "&An"
 
 msgid "Yearly"
 msgstr "Anual"
@@ -9437,6 +9888,9 @@ msgstr "&Lupă"
 
 msgid "_Zoom"
 msgstr "_Zoom"
+
+msgid "Zoom factor"
+msgstr "Factor de apropiere"
 
 msgid "Zoom In"
 msgstr "Mărește"

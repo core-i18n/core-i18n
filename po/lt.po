@@ -82,9 +82,6 @@ msgstr " ir "
 msgid " (default)"
 msgstr " (numatytasis)"
 
-msgid "© KDE Community"
-msgstr "© KDE bendruomenė"
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "Failas pavadinimu „%1“ jau yra. Ar norite jį perrašyti?"
 
@@ -355,17 +355,20 @@ msgstr "_Apie"
 msgid "About %1"
 msgstr "Apie %1"
 
-msgid "About KDE"
-msgstr "Apie KDE"
-
 msgid "Abstract"
 msgstr "Abstraktas"
+
+msgid "Acceleration"
+msgstr "Pagreitis"
 
 msgid "Accept"
 msgstr "Priimti"
 
 msgid "Accepted"
 msgstr "Priimtas"
+
+msgid "Access"
+msgstr "Prieiga"
 
 msgid "Accessed"
 msgstr "Paskiausia prieiga"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr "Informacija apie paskyrą"
 
 msgid "Account Name"
+msgstr "Paskyros pavadinimas"
+
+msgid "Account name"
 msgstr "Paskyros pavadinimas"
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "Pagal abėcėlę"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Alternatyvus"
+
 msgid "Alternative"
 msgstr "Alternative"
 
@@ -712,8 +721,14 @@ msgstr "Anotacijos"
 msgid "Anonymous"
 msgstr "Anonimas"
 
+msgid "Answer"
+msgstr "Atsakymas"
+
 msgid "Antarctica"
 msgstr "Antarktida"
+
+msgid "Antialiasing"
+msgstr "Glotninimas"
 
 msgid "Any"
 msgstr "Bet kokia"
@@ -883,6 +898,9 @@ msgstr "Reikia nustatyti tapatybę"
 msgid "Author"
 msgstr "Autorius"
 
+msgid "Author name"
+msgstr "Autoriaus vardas"
+
 msgid "Authors"
 msgstr "Autoriai"
 
@@ -928,6 +946,9 @@ msgstr "Azerbaidžaniečių"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&Atgal"
 msgid "_Back"
 msgstr "_Atgal"
 
+msgid "Backend"
+msgstr "Galinė sąsaja"
+
 msgid "Background"
 msgstr "Fonas"
+
+msgid "&Background"
+msgstr "&Fonas"
 
 msgid "Background Color"
 msgstr "Fono spalva"
@@ -951,6 +978,9 @@ msgstr "Fono spalva"
 
 msgid "&Background color"
 msgstr "&Fono spalva"
+
+msgid "Background image"
+msgstr "Fono paveikslas"
 
 msgid "Backspace"
 msgstr "Naikinti"
@@ -972,6 +1002,9 @@ msgstr "Subalansuotas"
 
 msgid "Baltic"
 msgstr "Baltų"
+
+msgid "Bandwidth"
+msgstr "Pralaidumas"
 
 msgid "Bangladesh"
 msgstr "Bangladešas"
@@ -999,6 +1032,9 @@ msgstr "Žemi tonai"
 
 msgid "Battery"
 msgstr "Akumuliatorius"
+
+msgid "BCC"
+msgstr "BCC"
 
 msgid "Bcc"
 msgstr "Bcc"
@@ -1156,23 +1192,8 @@ msgstr "Šaka"
 msgid "Brazil"
 msgstr "Brazilija"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze pagal KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Breeze tamsus"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze tamsus pagal KDE VDG"
-
 msgid "Breton"
 msgstr "Bretonų"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Tiltas"
@@ -1309,18 +1330,6 @@ msgstr "&Atšaukti"
 msgid "Canceled"
 msgstr "Atsisakyta"
 
-msgid "Cancelled"
-msgstr "Atšaukta"
-
-msgid "cannot load editor plugin: %s"
-msgstr "nepavyksta įkelti redaktoriaus įskiepio: %s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "nepavyksta įkelti gamyklos %s iš įskiepio: %s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Piešimo drobė"
 
@@ -1339,14 +1348,14 @@ msgstr "Iš didžiosios raidės"
 msgid "Caps Lock is on"
 msgstr "Įjungtos didžiosios raidės"
 
+msgid "Caption"
+msgstr "Antraštė"
+
 msgid "Capture"
 msgstr "Įrašyti"
 
 msgid "Car"
 msgstr "Automobilis"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascade"
@@ -1435,6 +1444,9 @@ msgstr "Keisti..."
 msgid "Changed"
 msgstr "Pakeista"
 
+msgid "Changes"
+msgstr "Pakeitimai"
+
 msgid "Channel"
 msgstr "Kanalas"
 
@@ -1452,6 +1464,9 @@ msgstr "Skyriai"
 
 msgid "Character"
 msgstr "Simbolis"
+
+msgid "Character set"
+msgstr "Simbolių koduotė"
 
 msgid "Characters"
 msgstr "Simboliai"
@@ -1684,6 +1699,9 @@ msgstr "Spalvų rinkinys"
 msgid "Color Space"
 msgstr "Spalvų erdvė"
 
+msgid "Color space"
+msgstr "Spalvų erdvė"
+
 msgid "Color theme"
 msgstr "Spalvų rinkinys"
 
@@ -1705,14 +1723,8 @@ msgstr "Stulpeliai"
 msgid "Comma"
 msgstr "Kablelis"
 
-msgid "COMMAND"
-msgstr "KOMANDA"
-
 msgid "Command"
 msgstr "Komanda"
-
-msgid "command"
-msgstr "komanda"
 
 msgid "Command Line"
 msgstr "Komandų eilutė"
@@ -1726,6 +1738,9 @@ msgstr "Komandos"
 msgid "Comment"
 msgstr "Komentaras"
 
+msgid "comment"
+msgstr "komentaras"
+
 msgid "Comments"
 msgstr "Komentarai"
 
@@ -1735,11 +1750,17 @@ msgstr "Patvirtinti"
 msgid "Common"
 msgstr "Bendra"
 
+msgid "Common Name"
+msgstr "Bendrinis vardas"
+
 msgid "Comoros"
 msgstr "Comoros"
 
 msgid "Compact"
 msgstr "Kompaktiškas"
+
+msgid "Company"
+msgstr "Bendrovė"
 
 msgid "Compare"
 msgstr "Palyginti"
@@ -1777,6 +1798,9 @@ msgstr "Kompiuteris"
 msgid "Condition"
 msgstr "Sąlyga"
 
+msgid "Conditions"
+msgstr "Sąlygos"
+
 msgid "Confidential"
 msgstr "Konfidencialu"
 
@@ -1807,6 +1831,9 @@ msgstr "Konfigūruoti saityno trumpinius…"
 msgid "Confirm"
 msgstr "Patvirtinti"
 
+msgid "Confirm Password"
+msgstr "Pakartokite slaptažodį"
+
 msgid "Confirmation"
 msgstr "Patvirtinimas"
 
@@ -1818,6 +1845,9 @@ msgstr "Patvirtinta"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konfliktas su programos standartiniu sparčiuoju klavišu"
+
+msgid "Conflicts"
+msgstr "Konfliktai"
 
 msgid "Connect"
 msgstr "Prisijungti"
@@ -1843,6 +1873,9 @@ msgstr "Nepavyko prisijungti"
 msgid "Connection Settings"
 msgstr "Ryšio nuostatos"
 
+msgid "Connection type"
+msgstr "Ryšio tipas"
+
 msgid "Connections"
 msgstr "Ryšiai"
 
@@ -1851,11 +1884,6 @@ msgstr "Konsolė"
 
 msgid "Constant"
 msgstr "Konstanta"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
-"konstruktoriaus savybė „%s“, kuri priklauso objektui „%s“, negali būti "
-"nustatyta po sukonstravimo"
 
 msgid "Contact"
 msgstr "Adresatas"
@@ -1869,13 +1897,13 @@ msgstr "Konteineris"
 msgid "Contains"
 msgstr "Turi"
 
-msgid "contains"
-msgstr "turi"
-
 msgid "Content"
 msgstr "Turinys"
 
 msgid "Content Type"
+msgstr "Turinio tipas"
+
+msgid "Content type"
 msgstr "Turinio tipas"
 
 msgid "Contents"
@@ -1899,11 +1927,17 @@ msgstr "Kontrastas"
 msgid "Contributor"
 msgstr "Talkininkas"
 
+msgid "Contributors"
+msgstr "Pagalbininkai"
+
 msgid "Control"
 msgstr "Vald"
 
 msgid "Convert"
 msgstr "Konvertuoti"
+
+msgid "Convert to"
+msgstr "Konvertuoti į"
 
 msgid "Convert to Path"
 msgstr "Konvertuoti į kontūrą"
@@ -1922,9 +1956,6 @@ msgstr "Koptų"
 
 msgid "Copy"
 msgstr "Kopijuoti"
-
-msgid "copy"
-msgstr "kopija"
 
 msgid "&Copy"
 msgstr "&Kopijuoti"
@@ -1977,6 +2008,9 @@ msgstr "Kopijuojami failai"
 msgid "Copyright"
 msgstr "Autorių teisės"
 
+msgid "Correct"
+msgstr "Teisinga"
+
 msgid "Cost"
 msgstr "Kaina"
 
@@ -2000,6 +2034,9 @@ msgstr "Šalis"
 
 msgid "CPU"
 msgstr "Procesorius"
+
+msgid "CPU usage"
+msgstr "CPU anudojimas"
 
 msgid "Create"
 msgstr "Sukurti"
@@ -2028,6 +2065,9 @@ msgstr "Kūrėjas"
 msgid "Credentials"
 msgstr "Prisijungimo duomenys"
 
+msgid "Credit"
+msgstr "Kūrėjai"
+
 msgid "Credits"
 msgstr "Padėkos"
 
@@ -2054,15 +2094,6 @@ msgstr "Kryžius"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Vald"
-
-msgid "Ctrl+C"
-msgstr "Vald+C"
-
-msgid "Ctrl+O"
-msgstr "Vald+O"
 
 msgid "Cuba"
 msgstr "Kuba"
@@ -2091,8 +2122,14 @@ msgstr "Kreivės"
 msgid "Custom"
 msgstr "Pasirinktinis"
 
+msgid "&Custom"
+msgstr "&Savitas"
+
 msgid "Custom..."
 msgstr "Pasirinktas..."
+
+msgid "Custom color"
+msgstr "Pasirinktinė spalva"
 
 msgid "Custom Font"
 msgstr "Pasirinktinis šriftas"
@@ -2166,6 +2203,9 @@ msgstr "Duomenys"
 msgid "Database"
 msgstr "Duomenų bazė"
 
+msgid "Database name"
+msgstr "Duombazės pavadinimas"
+
 msgid "Date"
 msgstr "Data"
 
@@ -2181,14 +2221,20 @@ msgstr "Data ir laikas"
 msgid "Date Format"
 msgstr "Datos formatas"
 
+msgid "Date format"
+msgstr "Datos formatas"
+
 msgid "Date Modified"
 msgstr "Modifikavimo data"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "Data / laikas"
 
 msgid "Day"
 msgstr "Diena"
+
+msgid "day"
+msgstr "dienos"
 
 msgid "Days"
 msgstr "Dienos"
@@ -2237,6 +2283,9 @@ msgstr "Numatytasis"
 
 msgid "default"
 msgstr "numatyta"
+
+msgid "Default value"
+msgstr "Numatyta vertė"
 
 msgid "Defaults"
 msgstr "Numatytosios nuostatos"
@@ -2313,6 +2362,9 @@ msgstr "Tankis"
 msgid "Deny"
 msgstr "Drausti"
 
+msgid "Department"
+msgstr "Padalinys"
+
 msgid "Dependencies"
 msgstr "Priklausomybės"
 
@@ -2345,6 +2397,12 @@ msgstr "Darbalaukis"
 
 msgid "Destination"
 msgstr "Paskirtis"
+
+msgid "Destination Folder"
+msgstr "Paskirties aplankas"
+
+msgid "Destination folder"
+msgstr "<b>Paskirties aplankas</b>"
 
 msgid "Detach"
 msgstr "Atkabinti"
@@ -2517,6 +2575,9 @@ msgstr "Išskaidyti"
 msgid "Distance"
 msgstr "Atstumas"
 
+msgid "Distribution"
+msgstr "Pasiskirstymas"
+
 msgid "Divide"
 msgstr "Dalinti"
 
@@ -2571,11 +2632,11 @@ msgstr "Dokumentai"
 msgid "does not contain"
 msgstr "neturi"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Domenas"
+
+msgid "_Domain"
+msgstr "_Domenas"
 
 msgid "Dominica"
 msgstr "Dominika"
@@ -2679,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Dinaminis"
+
 msgid "E"
 msgstr "R"
 
@@ -2730,6 +2794,9 @@ msgstr "Redaguoti paveikslėlį"
 msgid "Editing"
 msgstr "Redagavimas"
 
+msgid "Edition"
+msgstr "Leidimas"
+
 msgid "Editor"
 msgstr "Redaktorius"
 
@@ -2745,9 +2812,6 @@ msgstr "Egiptas"
 msgid "Egyptian"
 msgstr "Egipto"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Išstumti"
 
@@ -2757,16 +2821,28 @@ msgstr "Iš_stumti"
 msgid "El Salvador"
 msgstr "Salvadoras"
 
+msgid "Elapsed Time"
+msgstr "Veikimo laikas"
+
 msgid "Electronic"
 msgstr "Electronic"
 
 msgid "Element"
 msgstr "Elementas"
 
+msgid "Elements"
+msgstr "Elementai"
+
 msgid "Ellipse"
 msgstr "Elipsė"
 
+msgid "EMail"
+msgstr "El. paštas"
+
 msgid "Email"
+msgstr "El. paštas"
+
+msgid "E-Mail"
 msgstr "El. paštas"
 
 msgid "E-mail"
@@ -2847,6 +2923,9 @@ msgstr "pabaiga"
 msgid "End Date"
 msgstr "Pabaigos data"
 
+msgid "End date"
+msgstr "Pabaigos data"
+
 msgid "End Time"
 msgstr "Pabaigos laikas"
 
@@ -2868,8 +2947,14 @@ msgstr "Anglų"
 msgid "Enter"
 msgstr "Įeiti"
 
+msgid "Enter name"
+msgstr "Įveskite pavadinimą"
+
 msgid "Enter password"
 msgstr "Įveskite slaptažodį"
+
+msgid "Entries"
+msgstr "Įrašai"
 
 msgid "Entry"
 msgstr "Įrašas"
@@ -2943,6 +3028,9 @@ msgstr "Įvykis"
 msgid "Events"
 msgstr "Įvykiai"
 
+msgid "Every"
+msgstr "Kas"
+
 msgid "Everyone"
 msgstr "Visi"
 
@@ -2960,6 +3048,9 @@ msgstr "Pavyzdžiai"
 
 msgid "Exception"
 msgstr "Išimtis"
+
+msgid "Exceptions"
+msgstr "Išimtys"
 
 msgid "Exclude"
 msgstr "Išimti"
@@ -2994,10 +3085,16 @@ msgstr "Išskleisti viską"
 msgid "Experimental"
 msgstr "Eksperimentinė"
 
+msgid "Expiration"
+msgstr "Galiojimo laikas"
+
 msgid "Expired"
 msgstr "Nebegaliojantis"
 
 msgid "Expires"
+msgstr "Galioja iki"
+
+msgid "Expires On"
 msgstr "Galioja iki"
 
 msgid "Export"
@@ -3033,6 +3130,9 @@ msgstr "Eksportavimo parinktys"
 msgid "Exposure"
 msgstr "Išlaikymas"
 
+msgid "Exposure Time"
+msgstr "Išlaikymo laikas"
+
 msgid "Expression"
 msgstr "Išraiška"
 
@@ -3053,6 +3153,9 @@ msgstr "Išpakuoti"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Struktūra"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3111,6 +3214,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Gauti"
 
+msgid "Field"
+msgstr "Laukas"
+
+msgid "Fields"
+msgstr "Laukeliai"
+
 msgid "Fiji"
 msgstr "Fidžis"
 
@@ -3142,6 +3251,9 @@ msgid "File Exists"
 msgstr "Failas jau yra"
 
 msgid "File Format"
+msgstr "Failo formatas"
+
+msgid "File format"
 msgstr "Failo formatas"
 
 msgid "File is not a valid .desktop file"
@@ -3203,6 +3315,9 @@ msgstr "Užpildo spalva"
 
 msgid "Filter"
 msgstr "Filtras"
+
+msgid "&Filter"
+msgstr "&Filtras"
 
 msgid "Filter..."
 msgstr "Filtruoti..."
@@ -3267,6 +3382,9 @@ msgstr "Suomių"
 msgid "First"
 msgstr "Pirmas"
 
+msgid "First Name"
+msgstr "Vardas"
+
 msgid "First Page"
 msgstr "Pirmas puslapis"
 
@@ -3327,6 +3445,9 @@ msgstr "gėlė"
 msgid "Focal Length"
 msgstr "Židinio nuotolis"
 
+msgid "Focal length"
+msgstr "Nublukimo ilgis"
+
 msgid "Focus"
 msgstr "Fokusavimas"
 
@@ -3348,6 +3469,9 @@ msgstr "Šriftas"
 msgid "&Font"
 msgstr "Šri&ftas"
 
+msgid "_Font"
+msgstr "Šri_ftas"
+
 msgid "Font Color"
 msgstr "Šrifto spalva"
 
@@ -3359,6 +3483,12 @@ msgstr "Šrifto dydis"
 
 msgid "Font size"
 msgstr "Šrifto dydis"
+
+msgid "Font Style"
+msgstr "Šrifto stilius"
+
+msgid "Font style"
+msgstr "Šrifto stilius"
 
 msgid "Fonts"
 msgstr "Šriftai"
@@ -3396,6 +3526,12 @@ msgstr "Forma"
 msgid "Format"
 msgstr "Formatas"
 
+msgid "&Format"
+msgstr "&Formatas"
+
+msgid "_Format"
+msgstr "_Formatas"
+
 msgid "Formatting"
 msgstr "Formatavimas"
 
@@ -3422,6 +3558,12 @@ msgstr "Dalis"
 
 msgid "Frame"
 msgstr "Rėmelis"
+
+msgid "Frame Rate"
+msgstr "Kadrų dažnis"
+
+msgid "Frame rate"
+msgstr "Kadrų dažnis"
 
 msgid "Framerate"
 msgstr "Kadrų dažnis"
@@ -3467,6 +3609,9 @@ msgstr "Pilnas"
 
 msgid "Full Name"
 msgstr "Visas vardas"
+
+msgid "Full name"
+msgstr "Vardas, pavardė"
 
 msgid "Full Screen"
 msgstr "Visas ekranas"
@@ -3533,6 +3678,9 @@ msgstr ""
 
 msgid "Gateway"
 msgstr "Tinklų sietuvas"
+
+msgid "_Gateway"
+msgstr "_Tinklų sietuvas"
 
 msgid "Gaussian Blur"
 msgstr "Gauso suliejimas"
@@ -3654,6 +3802,9 @@ msgstr "Eiti į ankstesnį puslapį"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr "Tikslas"
+
 msgid "Gold"
 msgstr "Auksas"
 
@@ -3708,6 +3859,9 @@ msgstr "Pilka"
 msgid "Grid"
 msgstr "Tinklelis"
 
+msgid "&Grid"
+msgstr "&Tinklelis"
+
 msgid "Group"
 msgstr "Grupė"
 
@@ -3753,6 +3907,9 @@ msgstr "Kietas"
 msgid "Hardware"
 msgstr "Aparatinė įranga"
 
+msgid "Hash"
+msgstr "Maiša"
+
 msgid "Hawaiian"
 msgstr "Havajiečių"
 
@@ -3794,6 +3951,9 @@ msgstr "Aukštis"
 
 msgid "&Height"
 msgstr "&Aukštis"
+
+msgid "_Height"
+msgstr "_Aukštis"
 
 msgid "Help"
 msgstr "Pagalba"
@@ -3839,6 +3999,9 @@ msgstr "Aukšta"
 
 msgid "Highlight"
 msgstr "Paryškinimas"
+
+msgid "Highlight color"
+msgstr "Paryškinimo spalva"
 
 msgid "Highlighter"
 msgstr "Markeris"
@@ -3891,8 +4054,17 @@ msgstr "Hong Kongas"
 msgid "Horizontal"
 msgstr "Horizontaliai"
 
+msgid "_Horizontal"
+msgstr "_Horizontali"
+
+msgid "Horizontally"
+msgstr "Horizontaliai"
+
 msgid "Host"
 msgstr "Mazgas"
+
+msgid "Host Name"
+msgstr "Mazgo vardas"
 
 msgid "Hostname"
 msgstr "Mazgo pavadinimas"
@@ -3972,6 +4144,9 @@ msgstr "Id"
 msgid "id"
 msgstr "id"
 
+msgid "Identification"
+msgstr "Identifikacija"
+
 msgid "Identifier"
 msgstr "Identifikatorius"
 
@@ -4025,6 +4200,12 @@ msgstr "Paveikslo nuostatos"
 
 msgid "Image Size"
 msgstr "Paveikslėlio dydis"
+
+msgid "Image size"
+msgstr "Paveikslėlio dydis"
+
+msgid "Image type"
+msgstr "Paveikslėlio tipas"
 
 msgid "Image Viewer"
 msgstr "Paveikslų žiūryklė"
@@ -4101,6 +4282,9 @@ msgstr "Didinti atitraukimą"
 msgid "Increase Volume"
 msgstr "Pagarsinti"
 
+msgid "Increment"
+msgstr "Padidinti"
+
 msgid "Incremental"
 msgstr "Didėjantis"
 
@@ -4112,6 +4296,9 @@ msgstr "Index"
 
 msgid "Indexed"
 msgstr "Indeksuota"
+
+msgid "Indexing"
+msgstr "Indeksavimas"
 
 msgid "India"
 msgstr "Indija"
@@ -4175,6 +4362,9 @@ msgstr "Įdiegiama"
 
 msgid "Instant"
 msgstr "Žaibiškas"
+
+msgid "Instructions"
+msgstr "Instrukcijos"
 
 msgid "Integer"
 msgstr "Sveikas"
@@ -4263,10 +4453,16 @@ msgstr "Airių"
 msgid "is"
 msgstr "yra"
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "Izraelis"
 
 msgid "Issued By"
+msgstr "Išdavė"
+
+msgid "Issued On"
 msgstr "Išdavė"
 
 msgid "Issuer"
@@ -4365,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Kazachų"
 
@@ -4376,18 +4569,6 @@ msgstr "Kazachstanas"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "KDE bendruomenė, Felipe Kinoshita"
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Palikti"
@@ -4452,26 +4633,11 @@ msgstr "Kiribatis"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsolė"
-
 msgid "Korean"
 msgstr "Korėjiečių"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Kuveitas"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4490,6 +4656,9 @@ msgstr "Gulsčias"
 
 msgid "Language"
 msgstr "Kalba"
+
+msgid "&Language"
+msgstr "&Kalba"
 
 msgid "_Language"
 msgstr "_Kalba"
@@ -4511,6 +4680,12 @@ msgstr "Paskutinis"
 
 msgid "Last Modified"
 msgstr "Paskutinis modifikavimas"
+
+msgid "Last modified"
+msgstr "Keitimo data"
+
+msgid "Last Name"
+msgstr "Pavardė"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4623,8 +4798,20 @@ msgstr "Eilutės lūžis"
 msgid "Line Color"
 msgstr "Linijos spalva"
 
+msgid "Line Count"
+msgstr "Eilučių skaičius"
+
 msgid "Line Numbers"
 msgstr "Eilučių numeriai"
+
+msgid "Line spacing"
+msgstr "Linijų intervalas"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "Linijos stilius"
 
 msgid "Line Width"
 msgstr "Linijos plotis"
@@ -4643,6 +4830,9 @@ msgstr "Nuoroda"
 
 msgid "link"
 msgstr "nuoroda"
+
+msgid "Link Text"
+msgstr "Nuorodos tekstas"
 
 msgid "Link URL"
 msgstr "Nuorodos URL"
@@ -4742,6 +4932,9 @@ msgstr "Prisijungti"
 
 msgid "_Login"
 msgstr "_Prisijungti"
+
+msgid "Logo"
+msgstr "Logotipas"
 
 msgid "Logout"
 msgstr "Atsijungti"
@@ -4938,6 +5131,9 @@ msgstr "Išskleisti"
 msgid "Maximum"
 msgstr "Didžiausias"
 
+msgid "Maximum width"
+msgstr "Didžiausias plotis"
+
 msgid "May"
 msgstr "Gegužė"
 
@@ -4992,6 +5188,9 @@ msgstr "Pranešimas"
 msgid "message"
 msgstr "žinutė"
 
+msgid "&Message"
+msgstr "&Laiškas"
+
 msgid "Messages"
 msgstr "Pranešimai"
 
@@ -5003,6 +5202,9 @@ msgstr "Metaduomenys"
 
 msgid "Metal"
 msgstr "Metal"
+
+msgid "Metering Mode"
+msgstr "Matavimo veiksena"
 
 msgid "meters"
 msgstr "metrai"
@@ -5042,6 +5244,9 @@ msgstr "Milisekundės"
 
 msgid "milliseconds"
 msgstr "milisekundės"
+
+msgid "MIME type"
+msgstr "MIME tipas"
 
 msgid "Min"
 msgstr "Min"
@@ -5088,8 +5293,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Mobile"
 
+msgid "Mobile Phone"
+msgstr "Mobilus telefonas"
+
 msgid "Mode"
 msgstr "Veiksena"
+
+msgid "_Mode"
+msgstr "_Veiksena"
 
 msgid "Model"
 msgstr "Modelis"
@@ -5186,6 +5397,9 @@ msgstr "Marokas"
 
 msgid "Mount"
 msgstr "Prijungti"
+
+msgid "Mount Point"
+msgstr "Prijungimo taškas"
 
 msgid "Mount point"
 msgstr "Prijungimo vieta"
@@ -5325,6 +5539,9 @@ msgstr "_Pavadinimas"
 msgid "Name: %1"
 msgstr "Pavadinimas: %1"
 
+msgid "Names"
+msgstr "Vardai"
+
 msgid "Namespace"
 msgstr "Vardų erdvė"
 
@@ -5354,6 +5571,9 @@ msgstr "Nepaliečių"
 
 msgid "Netherlands"
 msgstr "Olandija"
+
+msgid "Netmask"
+msgstr "Tinklo kaukė"
 
 msgid "Network"
 msgstr "Tinklas"
@@ -5565,6 +5785,9 @@ msgstr "Nėra temos"
 msgid "No VPN configuration options."
 msgstr "Nėra VPN konfigūracijos parametrų."
 
+msgid "Node"
+msgstr "Mazgas"
+
 msgid "Noise"
 msgstr "Triukšmas"
 
@@ -5691,6 +5914,9 @@ msgstr "numeris"
 msgid "Number of columns"
 msgstr "Stulpelių skaičius"
 
+msgid "Number of rows"
+msgstr "Eilučių skaičius"
+
 msgid "Numbers"
 msgstr "Skaičiai"
 
@@ -5747,9 +5973,6 @@ msgstr "&Gerai"
 
 msgid "_OK"
 msgstr "_Gerai"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Omanas"
@@ -5901,6 +6124,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr "Operacinė sistema"
+
 msgid "Operation"
 msgstr "Operacija"
 
@@ -5912,6 +6138,9 @@ msgstr "Operacijos"
 
 msgid "Operator"
 msgstr "Operatorius"
+
+msgid "Operators"
+msgstr "Operatoriai"
 
 msgid "Optical Character Recognition"
 msgstr "Optinis ženklų atpažinimas"
@@ -5970,6 +6199,9 @@ msgstr "Pradinis dydis"
 msgid "Oriya"
 msgstr "Orija"
 
+msgid "OS"
+msgstr "OS"
+
 msgid "Other"
 msgstr "Kita"
 
@@ -5983,6 +6215,9 @@ msgid "Other Application..."
 msgstr "Kita programa..."
 
 msgid "Other Options"
+msgstr "Kiti parametrai"
+
+msgid "Other options"
 msgstr "Kiti parametrai"
 
 msgid "Others"
@@ -6126,6 +6361,9 @@ msgstr "Tėvas"
 msgid "Partition"
 msgstr "Skaidinys"
 
+msgid "Passphrase"
+msgstr "Slaptafrazė"
+
 msgid "Password"
 msgstr "Slaptažodis"
 
@@ -6164,6 +6402,9 @@ msgstr "Keliai"
 
 msgid "Pattern"
 msgstr "Raštas"
+
+msgid "_Pattern"
+msgstr "_Raštas"
 
 msgid "Patterns"
 msgstr "Šablonai"
@@ -6249,8 +6490,14 @@ msgstr "Filipinai"
 msgid "Phone"
 msgstr "Telefonas"
 
+msgid "Phone Numbers"
+msgstr "Telefono numeriai"
+
 msgid "Photo"
 msgstr "Nuotrauka"
+
+msgid "Photos"
+msgstr "Nuotraukos"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6272,6 +6519,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "Pyragas"
+
+msgid "PIN"
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "Prisegti"
@@ -6300,9 +6550,6 @@ msgstr "Grynasis tekstas"
 msgid "Plan"
 msgstr "Planas"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Platforma"
 
@@ -6321,8 +6568,14 @@ msgstr "Atkūrimas"
 msgid "Player"
 msgstr "Žaidėjas"
 
+msgid "Player 1"
+msgstr "Žaidėjas 1"
+
 msgid "Player %1"
 msgstr "Žaidėjas %1"
+
+msgid "Player 2"
+msgstr "Žaidėjas 2"
 
 msgid "Players"
 msgstr "Žaidėjai"
@@ -6402,6 +6655,9 @@ msgstr "Prievadas"
 msgid "&Port"
 msgstr "&Prievadas"
 
+msgid "_Port"
+msgstr "_Prievadas"
+
 msgid "Portrait"
 msgstr "Stačias"
 
@@ -6413,6 +6669,9 @@ msgstr "Portugalų"
 
 msgid "Position"
 msgstr "Pozicija"
+
+msgid "Postal code"
+msgstr "Pašto kodas"
 
 msgid "Posterize"
 msgstr "Posterizuoti"
@@ -6455,6 +6714,9 @@ msgstr "Peržiūra"
 
 msgid "&Preview"
 msgstr "&Peržiūra"
+
+msgid "_Preview"
+msgstr "_Peržiūra"
 
 msgid "Previews"
 msgstr "Peržiūros"
@@ -6537,6 +6799,9 @@ msgstr "Privatumas"
 msgid "Private"
 msgstr "Privatus"
 
+msgid "Private Key"
+msgstr "Privatusis raktas"
+
 msgid "Process"
 msgstr "Procesas"
 
@@ -6564,6 +6829,9 @@ msgstr "Profiliai"
 msgid "Program"
 msgstr "Programa"
 
+msgid "Programs"
+msgstr "Programos"
+
 msgid "Progress"
 msgstr "Eiga"
 
@@ -6572,6 +6840,9 @@ msgstr "Projektas"
 
 msgid "&Project"
 msgstr "&Projektas"
+
+msgid "Project name"
+msgstr "Projekto pavadinimas"
 
 msgid "Projects"
 msgstr "Projektai"
@@ -6645,6 +6916,9 @@ msgstr "piks."
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "K"
+
 msgid "Qatar"
 msgstr "Kataras"
 
@@ -6700,6 +6974,9 @@ msgstr "Baigs programos darbą"
 msgid "Quote"
 msgstr "Citata"
 
+msgid "Quotes"
+msgstr "Kabutės"
+
 msgid "R"
 msgstr "R"
 
@@ -6730,6 +7007,9 @@ msgstr "Dažnis"
 msgid "Rating"
 msgstr "Įvertinimas"
 
+msgid "Ratio"
+msgstr "Santykis"
+
 msgid "Raw"
 msgstr "Neapdorotas"
 
@@ -6757,11 +7037,17 @@ msgstr "Pasiruošęs"
 msgid "Ready."
 msgstr "Pasirengęs."
 
+msgid "Realm"
+msgstr "Sritis"
+
 msgid "Reason"
 msgstr "Priežastis"
 
 msgid "Reassign"
 msgstr "Priskirti iš naujo"
+
+msgid "Received"
+msgstr "Gauta"
 
 msgid "Recent"
 msgstr "Neseni"
@@ -6783,6 +7069,9 @@ msgstr "Filmavimas"
 
 msgid "Rectangle"
 msgstr "Stačiakampis"
+
+msgid "Recurrence"
+msgstr "Pasikartojimas"
 
 msgid "Recursive"
 msgstr "Rekursyviai"
@@ -6913,6 +7202,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Šalinama"
+
 msgid "Rename"
 msgstr "Pervadinti"
 
@@ -6933,6 +7225,9 @@ msgstr "Pervadinti žymelę"
 
 msgid "Rename File"
 msgstr "Pervadinti failą"
+
+msgid "Rendering intent"
+msgstr "Atvaizdavimo paskirtis"
 
 msgid "Repeat"
 msgstr "Kartoti"
@@ -6955,11 +7250,20 @@ msgstr "Pakeisti _visus"
 msgid "Replace an existing instance"
 msgstr "Pakeisti esamą egzempliorių"
 
+msgid "Replace With"
+msgstr "Kuo pakeisti"
+
+msgid "Replace with"
+msgstr "Keisti į"
+
 msgid "Replacement"
 msgstr "Pakeitimas"
 
 msgid "Reply"
 msgstr "Atsakyti"
+
+msgid "Reply-To"
+msgstr "Kam atsakyti"
 
 msgid "Report"
 msgstr "Ataskaita"
@@ -6978,6 +7282,9 @@ msgstr "P&ranešti apie programos klaidą…"
 
 msgid "Reports"
 msgstr "Ataskaitos"
+
+msgid "Repository"
+msgstr "Saugykla"
 
 msgid "Required"
 msgstr "Būtina"
@@ -7090,6 +7397,9 @@ msgstr "Iš dešinės į kairę"
 msgid "Right-click"
 msgstr "Dešiniojo mygtuko spustelėjimas"
 
+msgid "Rights"
+msgstr "Teisės"
+
 msgid "River"
 msgstr "Upė"
 
@@ -7144,6 +7454,9 @@ msgstr "eilutės"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "Taisyklė"
+
 msgid "Rules"
 msgstr "Taisyklės"
 
@@ -7152,6 +7465,9 @@ msgstr "Paleisti"
 
 msgid "&Run"
 msgstr "&Paleisti"
+
+msgid "Run command"
+msgstr "Vykdyti komandą"
 
 msgid "Run in terminal"
 msgstr "Vykdyti terminale"
@@ -7288,6 +7604,9 @@ msgstr "Įrašyti paveikslėlį"
 msgid "_Save Image As..."
 msgstr "Į_rašyti paveikslėlį kaip…"
 
+msgid "Save Location"
+msgstr "Įrašymo vieta"
+
 msgid "Save Project"
 msgstr "Išsaugoti projektą"
 
@@ -7296,6 +7615,9 @@ msgstr "Įrašyti seansą"
 
 msgid "Save Settings"
 msgstr "Įrašyti nuostatas"
+
+msgid "Save to"
+msgstr "Išsaugoti į"
 
 msgid "Saved"
 msgstr "Įrašyta"
@@ -7327,11 +7649,17 @@ msgstr "Skenuoti"
 msgid "Scanner"
 msgstr "Skeneris"
 
+msgid "Scanning"
+msgstr "Ieškoma"
+
 msgid "Scanning..."
 msgstr "Ieškoma…"
 
 msgid "Schedule"
 msgstr "Tvarkaraštis"
+
+msgid "Scheduler"
+msgstr "Planuotojas"
 
 msgid "Scheduling"
 msgstr "Planavimas"
@@ -7408,11 +7736,17 @@ msgstr "Ieškoti..."
 msgid "Search Bar"
 msgstr "Paieškos juosta"
 
+msgid "Search for"
+msgstr "Ieškoti"
+
 msgid "_Search for"
 msgstr "_Ieškoti"
 
 msgid "Search for '%1' with"
 msgstr "Ieškoti „%1“ su"
+
+msgid "Search in"
+msgstr "Ieškoti"
 
 msgid "Search Options"
 msgstr "Paieškos parametrai"
@@ -7516,6 +7850,9 @@ msgstr "Pažymėjimas"
 msgid "Selections"
 msgstr "Žymėjimai"
 
+msgid "Self"
+msgstr "Pats"
+
 msgid "Semicolon"
 msgstr "Kabliataškis"
 
@@ -7555,6 +7892,9 @@ msgstr "Serbija"
 msgid "Serbian"
 msgstr "Serbų"
 
+msgid "Serial"
+msgstr "Serija"
+
 msgid "Serial Number"
 msgstr "Serijos numeris"
 
@@ -7570,8 +7910,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "Serveris"
 
+msgid "&Server"
+msgstr "&Serveris"
+
 msgid "Server URL"
 msgstr "Serverio URL"
+
+msgid "Servers"
+msgstr "Serveriai"
 
 msgid "Service"
 msgstr "Paslauga"
@@ -7584,6 +7930,9 @@ msgstr "Seansas"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Seanso pavadinimas"
 
 msgid "Sessions"
 msgstr "Seansai"
@@ -7614,6 +7963,12 @@ msgstr "Svarbumas"
 
 msgid "Seychelles"
 msgstr "Seičeliai"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7653,6 +8008,12 @@ msgstr "Ryškumas"
 
 msgid "Shear"
 msgstr "Šlytis"
+
+msgid "Sheet"
+msgstr "Lakštas"
+
+msgid "Sheets"
+msgstr "Lakštai"
 
 msgid "Shell"
 msgstr "Apvalkalas"
@@ -7774,6 +8135,9 @@ msgstr "Pavienis"
 msgid "Sinhala"
 msgstr "Sinhalų"
 
+msgid "Site"
+msgstr "Svetainė"
+
 msgid "Size"
 msgstr "Dydis"
 
@@ -7782,6 +8146,9 @@ msgstr "dydis"
 
 msgid "&Size"
 msgstr "&Dydis"
+
+msgid "_Size"
+msgstr "_Dydis"
 
 msgid "Size: %1"
 msgstr "Dydis: %1"
@@ -7809,6 +8176,9 @@ msgstr "Slankiklis"
 
 msgid "Slideshow"
 msgstr "Skaidrių rodymas"
+
+msgid "Slope"
+msgstr "Posvyris"
 
 msgid "Slovak"
 msgstr "Slovakų"
@@ -7864,6 +8234,12 @@ msgstr "Vientisa spalva"
 msgid "Solomon Islands"
 msgstr "Saliamono Salos"
 
+msgid "Solution"
+msgstr "Sprendimas"
+
+msgid "Solve"
+msgstr "Išspręsk"
+
 msgid "Somalia"
 msgstr "Somalis"
 
@@ -7881,6 +8257,9 @@ msgstr "Rikiavimas"
 
 msgid "Sound"
 msgstr "Garsas"
+
+msgid "Sounds"
+msgstr "Garsai"
 
 msgid "Soundtrack"
 msgstr "Garso takelis"
@@ -7949,6 +8328,9 @@ msgid "Spell Check"
 msgstr "Rašybos tikrinimas"
 
 msgid "Spell Checking"
+msgstr "Rašybos tikrinimas"
+
+msgid "Spellcheck"
 msgstr "Rašybos tikrinimas"
 
 msgid "Spelling"
@@ -8188,6 +8570,9 @@ msgstr "Sudaniečių"
 msgid "Sunday"
 msgstr "Sekmadienis"
 
+msgid "Sunrise"
+msgstr "Saulėtekis"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8244,6 +8629,9 @@ msgstr "Sinchronizavimas"
 
 msgid "Synchronize"
 msgstr "Sinchronizuoti"
+
+msgid "Syntax"
+msgstr "Sintaksė"
 
 msgid "Syriac"
 msgstr "Sirų"
@@ -8307,6 +8695,9 @@ msgstr "Tanzanija"
 
 msgid "Target"
 msgstr "Tikslas"
+
+msgid "Targets"
+msgstr "Paskirtys"
 
 msgid "Task"
 msgstr "Užduotis"
@@ -8421,6 +8812,9 @@ msgstr "NetworkManager kūrėjai"
 msgid "Theme"
 msgstr "Apipavidalinimas"
 
+msgid "&Theme"
+msgstr "&Apipavidalinimas"
+
 msgid "Themes"
 msgstr "Apipavidalinimai"
 
@@ -8439,6 +8833,9 @@ msgstr "Tai visiškai paslėps meniu juostą. Galite vėl ją rodyti, paspaudę 
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "Gijos"
 
 msgid "Threshold"
 msgstr "Slenkstis"
@@ -8466,6 +8863,9 @@ msgstr "Iškloti"
 
 msgid "Tiled"
 msgstr "Išklotas"
+
+msgid "Tiles"
+msgstr "Kaladėlės"
 
 msgid "Tilt"
 msgstr "Pakrypimas"
@@ -8515,6 +8915,9 @@ msgstr "Pa&vadinimas"
 msgid "_Title"
 msgstr "_Pavadinimas"
 
+msgid "Titles"
+msgstr "Pavadinimai"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8538,6 +8941,9 @@ msgstr "TODO"
 
 msgid "Todo"
 msgstr "Atlikti"
+
+msgid "To-do"
+msgstr "Darbas"
 
 msgid "Toggle Fullscreen"
 msgstr "Perjungti viso ekrano veikseną"
@@ -8569,6 +8975,9 @@ msgstr "Įrankis"
 msgid "Tool Options"
 msgstr "Įrankių parametrai"
 
+msgid "Toolbar"
+msgstr "Įrankių juosta"
+
 msgid "_Toolbar"
 msgstr "Įrankių _juosta"
 
@@ -8589,6 +8998,9 @@ msgstr "Įrank&iai"
 
 msgid "_Tools"
 msgstr "Įra_nkiai"
+
+msgid "Tooltip"
+msgstr "Paaiškinimas"
 
 msgid "Top"
 msgstr "Viršuje"
@@ -8740,11 +9152,17 @@ msgstr "tipas"
 msgid "&Type"
 msgstr "&Tipas"
 
+msgid "_Type"
+msgstr "_Tipas"
+
 msgid "Type: %1"
 msgstr "Tipas: %1"
 
 msgid "Uganda"
 msgstr "Uganda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ukraina"
@@ -8979,6 +9397,9 @@ msgstr "Naudojama"
 msgid "User"
 msgstr "Naudotojas"
 
+msgid "User Agent"
+msgstr "Naudotojo agentas"
+
 msgid "User Certificate"
 msgstr "Naudotojo liudijimas"
 
@@ -9003,11 +9424,17 @@ msgstr "Naudotojo slaptažodis"
 msgid "Username"
 msgstr "Naudotojo vardas"
 
+msgid "&Username"
+msgstr "&Naudotojo vardas"
+
 msgid "_Username"
 msgstr "Na_udotojo vardas"
 
 msgid "Users"
 msgstr "Naudotojai"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Paslaugų programos"
@@ -9029,6 +9456,9 @@ msgstr "Galioja"
 
 msgid "Valid from"
 msgstr "Galioja nuo"
+
+msgid "Valid until"
+msgstr "Galioja iki"
 
 msgid "Validity"
 msgstr "Galiojimas"
@@ -9064,6 +9494,9 @@ msgstr "Kintamieji"
 msgid "Variance"
 msgstr "Dispersija"
 
+msgid "Variant"
+msgstr "Variantas"
+
 msgid "Vector"
 msgstr "Vektorius"
 
@@ -9090,6 +9523,9 @@ msgstr "Versija %1"
 
 msgid "Vertical"
 msgstr "Vertikaliai"
+
+msgid "_Vertical"
+msgstr "_Vertikali"
 
 msgid "Very Large"
 msgstr "Labai didelis"
@@ -9123,6 +9559,9 @@ msgstr "&Rodymas"
 
 msgid "_View"
 msgstr "_Rodymas"
+
+msgid "View mode"
+msgstr "Rodinio veiksena"
 
 msgid "View Options"
 msgstr "Rodyti parametrus"
@@ -9283,6 +9722,9 @@ msgstr "Belaidis (Wi-Fi)"
 msgid "Wikipedia"
 msgstr "Vikipedija"
 
+msgid "Wind"
+msgstr "Vėjas"
+
 msgid "Window"
 msgstr "Langas"
 
@@ -9325,11 +9767,17 @@ msgstr "Žodis"
 msgid "Word Count"
 msgstr "Žodžių skaičius"
 
+msgid "Word wrap"
+msgstr "Žodžių laužymas"
+
 msgid "Words"
 msgstr "Žodžiai"
 
 msgid "Work"
 msgstr "Darbo"
+
+msgid "Workspace"
+msgstr "Darbo sritis"
 
 msgid "World"
 msgstr "Pasaulis"
@@ -9369,6 +9817,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Metai"
+
+msgid "&Year"
+msgstr "&Metai"
 
 msgid "Yearly"
 msgstr "Kas metus"
@@ -9431,6 +9882,9 @@ msgstr "&Mastelis"
 
 msgid "_Zoom"
 msgstr "_Mastelis"
+
+msgid "Zoom factor"
+msgstr "Didinimo faktorius"
 
 msgid "Zoom In"
 msgstr "Didinti"

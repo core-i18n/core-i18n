@@ -82,9 +82,6 @@ msgstr " और "
 msgid " (default)"
 msgstr " (गलती करना)"
 
-msgid "© KDE Community"
-msgstr "© केडीई समुदाय"
-
 msgid " MB"
 msgstr "एमबी"
 
@@ -328,6 +325,9 @@ msgstr "ए"
 msgid "a"
 msgstr "ए"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "फ़ाइल नाम \"%1\"  पहले से ही अस्तित्व में है. क्या आप इसके ऊपर ही मिटाकर "
@@ -357,17 +357,20 @@ msgstr "के बारे में (_A)"
 msgid "About %1"
 msgstr "%1 के बारे में"
 
-msgid "About KDE"
-msgstr "केडीई के बारे में"
-
 msgid "Abstract"
 msgstr "अमूर्त"
+
+msgid "Acceleration"
+msgstr "त्वरण"
 
 msgid "Accept"
 msgstr "स्वीकार करना"
 
 msgid "Accepted"
 msgstr "स्वीकृत"
+
+msgid "Access"
+msgstr "पहुँच"
 
 msgid "Accessed"
 msgstr "एक्सेस किया गया"
@@ -385,6 +388,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr "खाता नाम"
+
+msgid "Account name"
 msgstr "खाता नाम"
 
 msgid "Accounts"
@@ -639,6 +645,9 @@ msgstr "वर्णक्रम"
 msgid "Alt"
 msgstr "ऑल्ट"
 
+msgid "Alternate"
+msgstr "वैकल्पिक"
+
 msgid "Alternative"
 msgstr "वैकल्पिक"
 
@@ -714,8 +723,14 @@ msgstr "व्याख्याएँ"
 msgid "Anonymous"
 msgstr "गुमनाम"
 
+msgid "Answer"
+msgstr "उत्तर"
+
 msgid "Antarctica"
 msgstr "अंटार्कटिका"
+
+msgid "Antialiasing"
+msgstr "एन्टीअलियासिंग"
 
 msgid "Any"
 msgstr "कोई"
@@ -887,6 +902,9 @@ msgstr "प्रमाणित करना"
 msgid "Author"
 msgstr "लेखक"
 
+msgid "Author name"
+msgstr "लेखक का नाम"
+
 msgid "Authors"
 msgstr "लेखक"
 
@@ -932,6 +950,9 @@ msgstr "आज़रबाइजानी"
 msgid "B"
 msgstr "बी"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -944,8 +965,14 @@ msgstr "पीछे (&B)"
 msgid "_Back"
 msgstr "पीछे (_B)"
 
+msgid "Backend"
+msgstr "बैकएंड"
+
 msgid "Background"
 msgstr "पृष्ठभूमि"
+
+msgid "&Background"
+msgstr "पृष्ठभूमिः (&B)"
 
 msgid "Background Color"
 msgstr "पृष्ठभूमि रंग"
@@ -955,6 +982,9 @@ msgstr "पृष्ठभूमि का रंग"
 
 msgid "&Background color"
 msgstr "पृष्ठभूमि का रंगः (&B)"
+
+msgid "Background image"
+msgstr "पृष्ठभूमि छवि"
 
 msgid "Backspace"
 msgstr "बेकस्पेस"
@@ -976,6 +1006,9 @@ msgstr "संतुलित"
 
 msgid "Baltic"
 msgstr "बाल्टिक"
+
+msgid "Bandwidth"
+msgstr "बैंडविड्थ"
 
 msgid "Bangladesh"
 msgstr "बांग्लादेश"
@@ -1003,6 +1036,9 @@ msgstr "बास"
 
 msgid "Battery"
 msgstr "बैटरी"
+
+msgid "BCC"
+msgstr "बीसीसी"
 
 msgid "Bcc"
 msgstr ""
@@ -1160,23 +1196,8 @@ msgstr "शाखा"
 msgid "Brazil"
 msgstr "ब्राजील"
 
-msgid "Breeze"
-msgstr "ब्रीज़"
-
-msgid "Breeze by the KDE VDG"
-msgstr "केडीई वीडीजी द्वारा ब्रीज़"
-
-msgid "Breeze Dark"
-msgstr "ब्रीज़ डार्क"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "केडीई वीडीजी द्वारा ब्रीज़ गहरा"
-
 msgid "Breton"
 msgstr "ब्रेटन"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "पुल"
@@ -1313,19 +1334,6 @@ msgstr "रद्द करें (&a)"
 msgid "Canceled"
 msgstr "रद्द"
 
-msgid "Cancelled"
-msgstr "रद्द"
-
-msgid "cannot load editor plugin: %s"
-msgstr "संपादक प्लगइन लोड नहीं कर सकता: %s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "प्लगइन से फ़ैक्टरी %s लोड नहीं हो सकता: %s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-"दस्तावेज़ URI को किसी 'Type=Link' डेस्कटॉप प्रविष्टि में भेज नहीं सकता है"
-
 msgid "Canvas"
 msgstr "कैनवास"
 
@@ -1344,14 +1352,14 @@ msgstr "केपिटलाइज़"
 msgid "Caps Lock is on"
 msgstr "कैप्स लॉक ऑन है"
 
+msgid "Caption"
+msgstr "कैप्शन"
+
 msgid "Capture"
 msgstr "कब्जा"
 
 msgid "Car"
 msgstr "कार"
-
-msgid "Carsten Pfeiffer"
-msgstr "कार्स्टेन फेइफर"
 
 msgid "Cascade"
 msgstr "एक के बाद एक"
@@ -1440,6 +1448,9 @@ msgstr "बदलें..."
 msgid "Changed"
 msgstr "परिवर्तित"
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "चैनल"
 
@@ -1457,6 +1468,9 @@ msgstr "अध्याय"
 
 msgid "Character"
 msgstr "चरित्र"
+
+msgid "Character set"
+msgstr "वर्ण समूह"
 
 msgid "Characters"
 msgstr "वर्ण"
@@ -1689,6 +1703,9 @@ msgstr "रंग योजना"
 msgid "Color Space"
 msgstr "रंग स्थान"
 
+msgid "Color space"
+msgstr "रंग स्थान"
+
 msgid "Color theme"
 msgstr "रंग थीम"
 
@@ -1710,14 +1727,8 @@ msgstr "कॉलम"
 msgid "Comma"
 msgstr "अल्पविराम"
 
-msgid "COMMAND"
-msgstr "कमांड"
-
 msgid "Command"
 msgstr "आज्ञा"
-
-msgid "command"
-msgstr "कमांड"
 
 msgid "Command Line"
 msgstr "कमांड लाइन"
@@ -1731,6 +1742,9 @@ msgstr ""
 msgid "Comment"
 msgstr "टिप्पणी"
 
+msgid "comment"
+msgstr "टिप्पणी"
+
 msgid "Comments"
 msgstr "टिप्पणियाँ"
 
@@ -1740,11 +1754,17 @@ msgstr "कमिट"
 msgid "Common"
 msgstr "आम"
 
+msgid "Common Name"
+msgstr "सामान्य नाम"
+
 msgid "Comoros"
 msgstr "कोमोरोस"
 
 msgid "Compact"
 msgstr "सघन"
+
+msgid "Company"
+msgstr "कंपनी"
 
 msgid "Compare"
 msgstr "तुलना करना"
@@ -1782,6 +1802,9 @@ msgstr "कम्प्यूटर"
 msgid "Condition"
 msgstr "स्थिति"
 
+msgid "Conditions"
+msgstr "शर्तें"
+
 msgid "Confidential"
 msgstr "गोपनीय"
 
@@ -1812,6 +1835,9 @@ msgstr ""
 msgid "Confirm"
 msgstr "पुष्टि करना"
 
+msgid "Confirm Password"
+msgstr "पासवर्ड की पुष्टि कीजिये"
+
 msgid "Confirmation"
 msgstr "पुष्टीकरण"
 
@@ -1823,6 +1849,9 @@ msgstr "की पुष्टि"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "मानक अनुप्रयोग शॉर्टकट के परस्पर विरोध में है"
+
+msgid "Conflicts"
+msgstr "परस्पर विरोध"
 
 msgid "Connect"
 msgstr "जोड़ना"
@@ -1848,6 +1877,9 @@ msgstr "कनेक्शन विफल"
 msgid "Connection Settings"
 msgstr "कनेक्शन सेटिंग्स"
 
+msgid "Connection type"
+msgstr "रिश्ते का प्रकार"
+
 msgid "Connections"
 msgstr "कनेक्शन्स"
 
@@ -1856,11 +1888,6 @@ msgstr "सांत्वना देना"
 
 msgid "Constant"
 msgstr "स्थिर"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
-"वस्तु '%2$s' के लिए निर्माण गुण \"%1$s\" निर्माण के बाद निर्धारित नहीं की जा"
-" सकती"
 
 msgid "Contact"
 msgstr "संपर्क"
@@ -1874,13 +1901,13 @@ msgstr "कंटेनर"
 msgid "Contains"
 msgstr "रोकना"
 
-msgid "contains"
-msgstr "रोकना"
-
 msgid "Content"
 msgstr "सामग्री"
 
 msgid "Content Type"
+msgstr "सामग्री प्रकार"
+
+msgid "Content type"
 msgstr "सामग्री प्रकार"
 
 msgid "Contents"
@@ -1904,11 +1931,17 @@ msgstr "कंट्रास्ट"
 msgid "Contributor"
 msgstr "सहयोगी"
 
+msgid "Contributors"
+msgstr "योगदानकर्ता"
+
 msgid "Control"
 msgstr "कंट्रोल"
 
 msgid "Convert"
 msgstr "बदलना"
+
+msgid "Convert to"
+msgstr "में बदलो"
 
 msgid "Convert to Path"
 msgstr "पथ में परिवर्तित करें"
@@ -1927,9 +1960,6 @@ msgstr "कोप्टिक"
 
 msgid "Copy"
 msgstr "प्रतिलिपि"
-
-msgid "copy"
-msgstr "नक़ल"
 
 msgid "&Copy"
 msgstr "नक़ल (&C)"
@@ -1982,6 +2012,9 @@ msgstr "फ़ाइलें कॉपी करना"
 msgid "Copyright"
 msgstr "कॉपीराइट"
 
+msgid "Correct"
+msgstr "सही"
+
 msgid "Cost"
 msgstr "खर्च"
 
@@ -2005,6 +2038,9 @@ msgstr "देश"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "CPU प्रयोग"
 
 msgid "Create"
 msgstr "बनाएं"
@@ -2033,6 +2069,9 @@ msgstr "निर्माता"
 msgid "Credentials"
 msgstr "साख"
 
+msgid "Credit"
+msgstr "क्रेडिट"
+
 msgid "Credits"
 msgstr "श्रेय"
 
@@ -2059,15 +2098,6 @@ msgstr "क्रास"
 
 msgid "CSV"
 msgstr ""
-
-msgid "Ctrl"
-msgstr "कंट्रोल"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+सी"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+ओ"
 
 msgid "Cuba"
 msgstr "क्यूबा"
@@ -2096,8 +2126,14 @@ msgstr "वक्र"
 msgid "Custom"
 msgstr "रिवाज़"
 
+msgid "&Custom"
+msgstr "&रिवाज़"
+
 msgid "Custom..."
 msgstr "रिवाज़..."
+
+msgid "Custom color"
+msgstr "कस्टम रंग"
 
 msgid "Custom Font"
 msgstr "तदनुकूल फॉन्ट"
@@ -2171,6 +2207,9 @@ msgstr "डेटा"
 msgid "Database"
 msgstr "डेटाबेस"
 
+msgid "Database name"
+msgstr ""
+
 msgid "Date"
 msgstr "तारीख"
 
@@ -2186,13 +2225,19 @@ msgstr "तिथि और समय"
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr ""
+
 msgid "Date Modified"
 msgstr "डेटा संशोधित"
 
-msgid "David Edmundson"
-msgstr "डेविड एडमंडसन"
+msgid "Date/Time"
+msgstr "दिनांक समय"
 
 msgid "Day"
+msgstr "दिन"
+
+msgid "day"
 msgstr "दिन"
 
 msgid "Days"
@@ -2242,6 +2287,9 @@ msgstr "गलती करना"
 
 msgid "default"
 msgstr "गलती करना"
+
+msgid "Default value"
+msgstr "तयशुदा मान"
 
 msgid "Defaults"
 msgstr "चूक"
@@ -2318,6 +2366,9 @@ msgstr "घनत्व"
 msgid "Deny"
 msgstr "अस्वीकार करना"
 
+msgid "Department"
+msgstr "विभाग"
+
 msgid "Dependencies"
 msgstr "निर्भरताएं"
 
@@ -2350,6 +2401,12 @@ msgstr "डेस्कटॉप"
 
 msgid "Destination"
 msgstr "गंतव्य"
+
+msgid "Destination Folder"
+msgstr "गंतव्य फ़ोल्डर"
+
+msgid "Destination folder"
+msgstr "गंतव्य फ़ोल्डर"
 
 msgid "Detach"
 msgstr "अलग करें"
@@ -2522,6 +2579,9 @@ msgstr "भंग करना"
 msgid "Distance"
 msgstr "दूरी"
 
+msgid "Distribution"
+msgstr "वितरण"
+
 msgid "Divide"
 msgstr "विभाजन"
 
@@ -2576,11 +2636,11 @@ msgstr "दस्तावेज़"
 msgid "does not contain"
 msgstr "इसमें शामिल नहीं है"
 
-msgid "Dolphin"
-msgstr "डॉल्फ़िन"
-
 msgid "Domain"
 msgstr "डोमेन"
+
+msgid "_Domain"
+msgstr "डोमेन (_D)"
 
 msgid "Dominica"
 msgstr "डोमिनिका"
@@ -2684,6 +2744,9 @@ msgstr "डीवीडी+आरडबल्यू"
 msgid "DVD-RW"
 msgstr "डीवीडी-आरडबल्यू"
 
+msgid "Dynamic"
+msgstr "गतिशील"
+
 msgid "E"
 msgstr "E"
 
@@ -2735,6 +2798,9 @@ msgstr "संपादित छवि"
 msgid "Editing"
 msgstr "संपादन"
 
+msgid "Edition"
+msgstr "संस्करण"
+
 msgid "Editor"
 msgstr "संपादक"
 
@@ -2750,9 +2816,6 @@ msgstr "मिश्र"
 msgid "Egyptian"
 msgstr "मिस्री"
 
-msgid "Eike Hein"
-msgstr "एइक हेइन"
-
 msgid "Eject"
 msgstr "निकालें"
 
@@ -2762,17 +2825,29 @@ msgstr "बाहर करें (_E)"
 msgid "El Salvador"
 msgstr "अल सल्वाडोर"
 
+msgid "Elapsed Time"
+msgstr "बीता समय"
+
 msgid "Electronic"
 msgstr "इलेक्ट्रॉनिक"
 
 msgid "Element"
 msgstr "तत्व"
 
+msgid "Elements"
+msgstr "अवयव"
+
 msgid "Ellipse"
 msgstr "दीर्घवृत्त"
 
+msgid "EMail"
+msgstr "ईमेल"
+
 msgid "Email"
 msgstr "ईमेल"
+
+msgid "E-Mail"
+msgstr "ई-मेल"
 
 msgid "E-mail"
 msgstr "ईमेल"
@@ -2852,6 +2927,9 @@ msgstr "अंत"
 msgid "End Date"
 msgstr "अंतिम तिथि"
 
+msgid "End date"
+msgstr "अंतिम तारीख"
+
 msgid "End Time"
 msgstr "अंत समय"
 
@@ -2873,8 +2951,14 @@ msgstr "अंग्रेज़ी"
 msgid "Enter"
 msgstr "प्रविष्ट करें"
 
+msgid "Enter name"
+msgstr "नाम भरें"
+
 msgid "Enter password"
 msgstr "कूटशब्द प्रविष्ट करो"
+
+msgid "Entries"
+msgstr "प्रविष्टियाँ"
 
 msgid "Entry"
 msgstr "प्रविष्टि"
@@ -2948,6 +3032,9 @@ msgstr "आयोजन"
 msgid "Events"
 msgstr "घटनाक्रम"
 
+msgid "Every"
+msgstr "प्रत्येक"
+
 msgid "Everyone"
 msgstr "सब लोग"
 
@@ -2964,6 +3051,9 @@ msgid "Examples"
 msgstr "उदाहरण"
 
 msgid "Exception"
+msgstr "अपवाद"
+
+msgid "Exceptions"
 msgstr "अपवाद"
 
 msgid "Exclude"
@@ -2999,11 +3089,17 @@ msgstr "सभी का विस्तार"
 msgid "Experimental"
 msgstr "परीक्षणाधीन"
 
+msgid "Expiration"
+msgstr "समय सीमा समाप्ति"
+
 msgid "Expired"
 msgstr "खत्म हो चुका"
 
 msgid "Expires"
 msgstr "समाप्त"
+
+msgid "Expires On"
+msgstr "पर समय सीमा समाप्त"
 
 msgid "Export"
 msgstr "निर्यात"
@@ -3038,6 +3134,9 @@ msgstr "निर्यात विकल्प"
 msgid "Exposure"
 msgstr "एक्सपोज़र"
 
+msgid "Exposure Time"
+msgstr "संसर्ग का समय"
+
 msgid "Expression"
 msgstr ""
 
@@ -3058,6 +3157,9 @@ msgstr "निष्कर्षित करें"
 
 msgid "F"
 msgstr "एफ"
+
+msgid "Fabric"
+msgstr "कपड़ा"
 
 msgid "Facebook"
 msgstr "फेसबुक"
@@ -3116,6 +3218,12 @@ msgstr "फेलिप किनोशिता"
 msgid "Fetch"
 msgstr "लाना"
 
+msgid "Field"
+msgstr "क्षेत्र"
+
+msgid "Fields"
+msgstr "क्षेत्र"
+
 msgid "Fiji"
 msgstr "फिजी"
 
@@ -3147,6 +3255,9 @@ msgid "File Exists"
 msgstr "फ़ाइल अस्तित्व में है"
 
 msgid "File Format"
+msgstr "फ़ाइल फ़ारमैट"
+
+msgid "File format"
 msgstr "फ़ाइल फ़ारमैट"
 
 msgid "File is not a valid .desktop file"
@@ -3208,6 +3319,9 @@ msgstr "भराव रंग"
 
 msgid "Filter"
 msgstr "फ़िल्टर"
+
+msgid "&Filter"
+msgstr "फ़िल्टर : (&F)"
 
 msgid "Filter..."
 msgstr "फ़िल्टर..."
@@ -3272,6 +3386,9 @@ msgstr "फिनिश"
 msgid "First"
 msgstr "प्रथम"
 
+msgid "First Name"
+msgstr "पहला नाम"
+
 msgid "First Page"
 msgstr "प्रथम पृष्ठ"
 
@@ -3332,6 +3449,9 @@ msgstr "फ्लावर"
 msgid "Focal Length"
 msgstr "फोकल लंबाई"
 
+msgid "Focal length"
+msgstr "फोकल लम्बाई"
+
 msgid "Focus"
 msgstr "फ़ोकस"
 
@@ -3353,6 +3473,9 @@ msgstr "फ़ॉन्ट"
 msgid "&Font"
 msgstr "&फ़ॉन्ट"
 
+msgid "_Font"
+msgstr "फ़ॉन्ट (_F)"
+
 msgid "Font Color"
 msgstr "फ़ॉन्ट रंग"
 
@@ -3364,6 +3487,12 @@ msgstr "फ़ॉन्ट आकार"
 
 msgid "Font size"
 msgstr "फ़ॉन्ट आकार"
+
+msgid "Font Style"
+msgstr "फॉन्ट शैली"
+
+msgid "Font style"
+msgstr "फ़ॉन्ट शैली"
 
 msgid "Fonts"
 msgstr "फ़ॉन्ट्स"
@@ -3401,6 +3530,12 @@ msgstr "रूप"
 msgid "Format"
 msgstr "प्रारूप"
 
+msgid "&Format"
+msgstr "फॉर्मेट: (&F)"
+
+msgid "_Format"
+msgstr "प्रा_रूप"
+
 msgid "Formatting"
 msgstr "प्रारूपण"
 
@@ -3427,6 +3562,12 @@ msgstr "अंश"
 
 msgid "Frame"
 msgstr "फ्रेम"
+
+msgid "Frame Rate"
+msgstr "फ्रेम रेट"
+
+msgid "Frame rate"
+msgstr "फ्रेम रेट"
 
 msgid "Framerate"
 msgstr "फ्रेम रेट"
@@ -3471,6 +3612,9 @@ msgid "Full"
 msgstr "भरा हुआ"
 
 msgid "Full Name"
+msgstr "पूरा नाम"
+
+msgid "Full name"
 msgstr "पूरा नाम"
 
 msgid "Full Screen"
@@ -3538,6 +3682,9 @@ msgstr "दरवाज़ा"
 
 msgid "Gateway"
 msgstr "द्वार"
+
+msgid "_Gateway"
+msgstr "गेटवे (_G)"
 
 msgid "Gaussian Blur"
 msgstr "गॉसियन फ़ीका"
@@ -3659,6 +3806,9 @@ msgstr "पिछले पृष्ठ पर जाएं"
 msgid "Goa"
 msgstr "गोवा"
 
+msgid "Goal"
+msgstr "गोल"
+
 msgid "Gold"
 msgstr "सोना"
 
@@ -3713,6 +3863,9 @@ msgstr "स्लेटी"
 msgid "Grid"
 msgstr "ग्रिड"
 
+msgid "&Grid"
+msgstr "ग्रिड (&G)"
+
 msgid "Group"
 msgstr "समूह"
 
@@ -3758,6 +3911,9 @@ msgstr "कठिन"
 msgid "Hardware"
 msgstr "हार्डवेयर"
 
+msgid "Hash"
+msgstr "हैश"
+
 msgid "Hawaiian"
 msgstr "हवाई"
 
@@ -3799,6 +3955,9 @@ msgstr "ऊंचाई"
 
 msgid "&Height"
 msgstr "ऊंचाईः (&H)"
+
+msgid "_Height"
+msgstr "ऊँचाई (_H)"
 
 msgid "Help"
 msgstr "मदद"
@@ -3844,6 +4003,9 @@ msgstr "उच्च"
 
 msgid "Highlight"
 msgstr "उभारें"
+
+msgid "Highlight color"
+msgstr "हाइलाइट रंग"
 
 msgid "Highlighter"
 msgstr "हाइलाइटर"
@@ -3896,8 +4058,17 @@ msgstr "हांग कांग"
 msgid "Horizontal"
 msgstr "आड़ा"
 
+msgid "_Horizontal"
+msgstr "क्षैतिज (_H)"
+
+msgid "Horizontally"
+msgstr "आड़ा"
+
 msgid "Host"
 msgstr "मेज़बान"
+
+msgid "Host Name"
+msgstr "मेजबान नाम"
 
 msgid "Hostname"
 msgstr "तंत्र का नाम (होस्टनेम)"
@@ -3977,6 +4148,9 @@ msgstr "पहचान"
 msgid "id"
 msgstr "पहचान"
 
+msgid "Identification"
+msgstr "पहचान"
+
 msgid "Identifier"
 msgstr "पहचानकर्ता"
 
@@ -4030,6 +4204,12 @@ msgstr "छवि सेटिंग"
 
 msgid "Image Size"
 msgstr "छवि आकार"
+
+msgid "Image size"
+msgstr "छवि का आकार"
+
+msgid "Image type"
+msgstr "चित्र प्रकार"
 
 msgid "Image Viewer"
 msgstr "छवि प्रदर्शक"
@@ -4106,6 +4286,9 @@ msgstr "हाशिया बढ़ाएँ"
 msgid "Increase Volume"
 msgstr "आवाज़ बढ़ाएँ"
 
+msgid "Increment"
+msgstr "वेतन वृद्धि"
+
 msgid "Incremental"
 msgstr "इंक्रीमेंटल"
 
@@ -4117,6 +4300,9 @@ msgstr "निर्देशिका (Index)"
 
 msgid "Indexed"
 msgstr "इंडैक्स्ड"
+
+msgid "Indexing"
+msgstr "अनुक्रमण"
 
 msgid "India"
 msgstr "भारत"
@@ -4180,6 +4366,9 @@ msgstr "संस्थापित किया जा रहा है"
 
 msgid "Instant"
 msgstr "त्वरित"
+
+msgid "Instructions"
+msgstr "निर्देश"
 
 msgid "Integer"
 msgstr "पूर्णांक"
@@ -4268,11 +4457,17 @@ msgstr "आयरिश"
 msgid "is"
 msgstr "है"
 
+msgid "ISBN"
+msgstr "आइएसबीएन "
+
 msgid "Israel"
 msgstr "इज़राइल"
 
 msgid "Issued By"
 msgstr ""
+
+msgid "Issued On"
+msgstr "पर जारी किए"
 
 msgid "Issuer"
 msgstr "जारीकर्ता"
@@ -4370,9 +4565,6 @@ msgstr "क"
 msgid "Kannada"
 msgstr "कन्नड"
 
-msgid "Kate"
-msgstr "के-एटीई"
-
 msgid "Kazakh"
 msgstr "कजाख"
 
@@ -4381,18 +4573,6 @@ msgstr "कज़ाखिस्तान"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "केडीई"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "केडीई समुदाय, फेलिप किनोशिता"
-
-msgid "KDE Connect"
-msgstr "केडीई कनेक्ट"
-
-msgid "KDevelop"
-msgstr "के-डेवलप"
 
 msgid "Keep"
 msgstr "रखना"
@@ -4457,26 +4637,11 @@ msgstr "किरीबाटी"
 msgid "km"
 msgstr "किमी"
 
-msgid "KMail"
-msgstr "के-मेल"
-
-msgid "Konqueror"
-msgstr "कॉन्करर"
-
-msgid "Konsole"
-msgstr "कंसोल"
-
 msgid "Korean"
 msgstr "कोरियाई"
 
-msgid "KOrganizer"
-msgstr "ऑर्गेनाइज़र"
-
 msgid "Kuwait"
 msgstr "कुवैत"
-
-msgid "KWin"
-msgstr "के-विन"
 
 msgid "L"
 msgstr "एल"
@@ -4495,6 +4660,9 @@ msgstr "आड़ा"
 
 msgid "Language"
 msgstr "भाषा"
+
+msgid "&Language"
+msgstr "भाषा (&L)"
 
 msgid "_Language"
 msgstr "भाषा (_L)"
@@ -4516,6 +4684,12 @@ msgstr "अंतिम"
 
 msgid "Last Modified"
 msgstr "अंतिम संशोधित"
+
+msgid "Last modified"
+msgstr "अंतिम बार संशोधित"
+
+msgid "Last Name"
+msgstr "अंतिम नाम"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4628,8 +4802,20 @@ msgstr "लाइन ब्रेक"
 msgid "Line Color"
 msgstr "रेखा का रंग"
 
+msgid "Line Count"
+msgstr "पंक्ति गणना"
+
 msgid "Line Numbers"
 msgstr "पंक्ति संख्याएँ"
+
+msgid "Line spacing"
+msgstr "पंक्ति रिक्ति"
+
+msgid "Line Style"
+msgstr "रेखा शैली"
+
+msgid "Line style"
+msgstr "रेखा शैली"
 
 msgid "Line Width"
 msgstr "लकीर की चौड़ाई"
@@ -4648,6 +4834,9 @@ msgstr "जोड़ना"
 
 msgid "link"
 msgstr "कडी"
+
+msgid "Link Text"
+msgstr "कड़ी पाठ"
 
 msgid "Link URL"
 msgstr "लिंक यूआरएल"
@@ -4747,6 +4936,9 @@ msgstr "लॉग इन करें"
 
 msgid "_Login"
 msgstr "लॉगिन (_L)"
+
+msgid "Logo"
+msgstr "प्रतीक चिन्ह"
 
 msgid "Logout"
 msgstr "लॉग आउट"
@@ -4943,6 +5135,9 @@ msgstr "अधिकतम"
 msgid "Maximum"
 msgstr "अधिकतम"
 
+msgid "Maximum width"
+msgstr "अधिकतम चौड़ाई"
+
 msgid "May"
 msgstr "मई"
 
@@ -4997,6 +5192,9 @@ msgstr "संदेश"
 msgid "message"
 msgstr "संदेश"
 
+msgid "&Message"
+msgstr "संदेश (&M)"
+
 msgid "Messages"
 msgstr "संदेश"
 
@@ -5008,6 +5206,9 @@ msgstr "मेटाडाटा"
 
 msgid "Metal"
 msgstr "धातु"
+
+msgid "Metering Mode"
+msgstr "मीटरिंग मोड"
 
 msgid "meters"
 msgstr "मीटर की दूरी पर"
@@ -5047,6 +5248,9 @@ msgstr "मिलीसेकंड"
 
 msgid "milliseconds"
 msgstr "मिली-सेकण्ड्स"
+
+msgid "MIME type"
+msgstr ""
 
 msgid "Min"
 msgstr "न्यून."
@@ -5093,8 +5297,14 @@ msgstr "मिमी"
 msgid "Mobile"
 msgstr "गतिमान"
 
+msgid "Mobile Phone"
+msgstr "चल दूरभाष"
+
 msgid "Mode"
 msgstr "तरीका"
+
+msgid "_Mode"
+msgstr ""
 
 msgid "Model"
 msgstr "नमूना"
@@ -5191,6 +5401,9 @@ msgstr "मोरक्को"
 
 msgid "Mount"
 msgstr "पर्वत"
+
+msgid "Mount Point"
+msgstr "माउन्ट पाइंट"
 
 msgid "Mount point"
 msgstr "माउंट पॉइंट"
@@ -5330,6 +5543,9 @@ msgstr "नाम (_N)"
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr "नाम"
+
 msgid "Namespace"
 msgstr "नाम स्थान"
 
@@ -5359,6 +5575,9 @@ msgstr "नेपाली"
 
 msgid "Netherlands"
 msgstr "नीदरलैंड्स"
+
+msgid "Netmask"
+msgstr "नेटमास्क"
 
 msgid "Network"
 msgstr "नेटवर्क"
@@ -5570,6 +5789,9 @@ msgstr "कोई विषय नहीं"
 msgid "No VPN configuration options."
 msgstr "कोई VPN विन्यास विकल्प नहीं।"
 
+msgid "Node"
+msgstr "नोड"
+
 msgid "Noise"
 msgstr "शोर"
 
@@ -5696,6 +5918,9 @@ msgstr "संख्या"
 msgid "Number of columns"
 msgstr "स्तंभों की संख्या"
 
+msgid "Number of rows"
+msgstr "पंक्तियों की संख्या"
+
 msgid "Numbers"
 msgstr "संख्याएँ"
 
@@ -5752,9 +5977,6 @@ msgstr "&ठीक है"
 
 msgid "_OK"
 msgstr "ठीक है (_O)"
-
-msgid "Okular"
-msgstr "ऑकुलर"
 
 msgid "Oman"
 msgstr "ओमन"
@@ -5906,6 +6128,9 @@ msgstr "ओपनस्ट्रीटमैप"
 msgid "Opera"
 msgstr "ऑपेरा"
 
+msgid "Operating System"
+msgstr "ऑपरेटिंग सिस्टम"
+
 msgid "Operation"
 msgstr "ऑपरेशन"
 
@@ -5917,6 +6142,9 @@ msgstr "संचालन"
 
 msgid "Operator"
 msgstr "ऑपरेटर"
+
+msgid "Operators"
+msgstr "प्रचालक"
 
 msgid "Optical Character Recognition"
 msgstr "ऑप्टिकल कैरेक्टर रिकग्नीशन"
@@ -5975,6 +6203,9 @@ msgstr "मूल आकार"
 msgid "Oriya"
 msgstr "उड़िया"
 
+msgid "OS"
+msgstr "आप"
+
 msgid "Other"
 msgstr "अन्य"
 
@@ -5989,6 +6220,9 @@ msgstr "अन्य अनुप्रयोग..."
 
 msgid "Other Options"
 msgstr ""
+
+msgid "Other options"
+msgstr "अन्य विकल्प"
 
 msgid "Others"
 msgstr "अन्य"
@@ -6131,6 +6365,9 @@ msgstr "पैरेंट"
 msgid "Partition"
 msgstr "PARTITION"
 
+msgid "Passphrase"
+msgstr "पासफ़्रेज़"
+
 msgid "Password"
 msgstr "पासवर्ड"
 
@@ -6169,6 +6406,9 @@ msgstr "के रास्ते"
 
 msgid "Pattern"
 msgstr "नमूना"
+
+msgid "_Pattern"
+msgstr "पैटर्न (_P)"
 
 msgid "Patterns"
 msgstr "पैटर्न"
@@ -6254,8 +6494,14 @@ msgstr "फिलिप्पीन्स"
 msgid "Phone"
 msgstr "फ़ोन"
 
+msgid "Phone Numbers"
+msgstr "दूरभाष संख्या"
+
 msgid "Photo"
 msgstr "तस्वीर"
+
+msgid "Photos"
+msgstr "तस्वीरें"
 
 msgid "PHP Documentation"
 msgstr "PHP दस्तावेज़ीकरण"
@@ -6277,6 +6523,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "पाई"
+
+msgid "PIN"
+msgstr "नत्थी करना"
 
 msgid "Pin"
 msgstr "पिन"
@@ -6305,9 +6554,6 @@ msgstr "सादे पाठ"
 msgid "Plan"
 msgstr "प्लान"
 
-msgid "Plasma"
-msgstr "प्लाज़्मा"
-
 msgid "Platform"
 msgstr "प्लेटफॉर्म"
 
@@ -6326,8 +6572,14 @@ msgstr "प्लेबैक"
 msgid "Player"
 msgstr "खिलाड़ी"
 
+msgid "Player 1"
+msgstr "खिलाड़ी 1"
+
 msgid "Player %1"
 msgstr "खिलाड़ी %1     "
+
+msgid "Player 2"
+msgstr "खिलाड़ी 2"
 
 msgid "Players"
 msgstr "खिलाड़ी"
@@ -6407,6 +6659,9 @@ msgstr "पोर्ट"
 msgid "&Port"
 msgstr "पोर्टः (&P)"
 
+msgid "_Port"
+msgstr "पोर्ट (_P)"
+
 msgid "Portrait"
 msgstr "चित्र"
 
@@ -6418,6 +6673,9 @@ msgstr "पुर्तगाली"
 
 msgid "Position"
 msgstr "स्थिति"
+
+msgid "Postal code"
+msgstr "पिन कोडः"
 
 msgid "Posterize"
 msgstr "पोस्टराइज़"
@@ -6460,6 +6718,9 @@ msgstr "पूर्वावलोकन"
 
 msgid "&Preview"
 msgstr "पूर्वावलोकन (&P)"
+
+msgid "_Preview"
+msgstr "पूर्वदृश्य"
 
 msgid "Previews"
 msgstr "पूर्वावलोकन"
@@ -6542,6 +6803,9 @@ msgstr "गोपनीयता"
 msgid "Private"
 msgstr "निजी"
 
+msgid "Private Key"
+msgstr "निजी चाबी"
+
 msgid "Process"
 msgstr "प्रक्रिया"
 
@@ -6569,6 +6833,9 @@ msgstr "प्रोफाइल"
 msgid "Program"
 msgstr "कार्यक्रम"
 
+msgid "Programs"
+msgstr "प्रोग्राम्स"
+
 msgid "Progress"
 msgstr "प्रगति"
 
@@ -6577,6 +6844,9 @@ msgstr "परियोजना"
 
 msgid "&Project"
 msgstr "परियोजना (&P)"
+
+msgid "Project name"
+msgstr "परियोजना नाम "
 
 msgid "Projects"
 msgstr "परियोजनाएं"
@@ -6650,6 +6920,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "क़तर"
 
@@ -6705,6 +6978,9 @@ msgstr "अनुप्रयोग से बाहर होता है"
 msgid "Quote"
 msgstr "उद्धरण"
 
+msgid "Quotes"
+msgstr "उद्धरण"
+
 msgid "R"
 msgstr "आर"
 
@@ -6735,6 +7011,9 @@ msgstr "दर"
 msgid "Rating"
 msgstr "रेटिंग"
 
+msgid "Ratio"
+msgstr "अनुपातः"
+
 msgid "Raw"
 msgstr "कच्चा"
 
@@ -6762,11 +7041,17 @@ msgstr "तैयार"
 msgid "Ready."
 msgstr "तैयार."
 
+msgid "Realm"
+msgstr "क्षेत्र"
+
 msgid "Reason"
 msgstr "कारण"
 
 msgid "Reassign"
 msgstr "फिर से आबंटित करें"
+
+msgid "Received"
+msgstr ""
 
 msgid "Recent"
 msgstr "हालिया"
@@ -6788,6 +7073,9 @@ msgstr "रिकॉर्डिंग"
 
 msgid "Rectangle"
 msgstr "चतुर्भुज"
+
+msgid "Recurrence"
+msgstr "पुनरावृत्ति"
 
 msgid "Recursive"
 msgstr "पुनरावर्ती"
@@ -6918,6 +7206,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "मिटाया जा रहा है"
+
 msgid "Rename"
 msgstr "नाम बदलें"
 
@@ -6938,6 +7229,9 @@ msgstr "पुस्तचिन्ह का नाम बदलें"
 
 msgid "Rename File"
 msgstr "फ़ाइल का नाम बदलें"
+
+msgid "Rendering intent"
+msgstr ""
 
 msgid "Repeat"
 msgstr "दोहराएँ"
@@ -6960,11 +7254,20 @@ msgstr "सभी बदलें (_A)"
 msgid "Replace an existing instance"
 msgstr "एक वर्तमान चलित अनुप्रयोग को प्रतिस्थापित करें"
 
+msgid "Replace With"
+msgstr "के साथ बदलें"
+
+msgid "Replace with"
+msgstr "के साथ बदलें"
+
 msgid "Replacement"
 msgstr "बदला"
 
 msgid "Reply"
 msgstr "जवाब"
+
+msgid "Reply-To"
+msgstr "को उत्तर "
 
 msgid "Report"
 msgstr "प्रतिवेदन"
@@ -6983,6 +7286,9 @@ msgstr "त्रुटि दर्ज करें... (&R)"
 
 msgid "Reports"
 msgstr "रिपोर्टों"
+
+msgid "Repository"
+msgstr "कोष"
 
 msgid "Required"
 msgstr "आवश्यक"
@@ -7095,6 +7401,9 @@ msgstr "दाहिने से बांयें"
 msgid "Right-click"
 msgstr "दाएँ क्लिक करें"
 
+msgid "Rights"
+msgstr "अधिकार "
+
 msgid "River"
 msgstr "नदी"
 
@@ -7149,6 +7458,9 @@ msgstr "पंक्तियाँ"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "नियम"
+
 msgid "Rules"
 msgstr "नियम"
 
@@ -7157,6 +7469,9 @@ msgstr "दौड़ना"
 
 msgid "&Run"
 msgstr "चलाएँ (&R)"
+
+msgid "Run command"
+msgstr "समादेश चलाएँ"
 
 msgid "Run in terminal"
 msgstr "टर्मिनल में चलाएँ"
@@ -7293,6 +7608,9 @@ msgstr "छवि सहेजें"
 msgid "_Save Image As..."
 msgstr "छवि ऐसे सहेजें (_S)…"
 
+msgid "Save Location"
+msgstr "सहेजने के लिए स्थान "
+
 msgid "Save Project"
 msgstr "प्रोजेक्ट सहेजें"
 
@@ -7301,6 +7619,9 @@ msgstr "सत्र सहेजें"
 
 msgid "Save Settings"
 msgstr "सेटिंग्स सहेजें"
+
+msgid "Save to"
+msgstr "में सुरक्षित करें"
 
 msgid "Saved"
 msgstr "सहेजा गया"
@@ -7332,11 +7653,17 @@ msgstr "स्कैन"
 msgid "Scanner"
 msgstr "स्कैनर"
 
+msgid "Scanning"
+msgstr "स्कैनिंग"
+
 msgid "Scanning..."
 msgstr "स्कैनिंग हो रहा है..."
 
 msgid "Schedule"
 msgstr "अनुसूची"
+
+msgid "Scheduler"
+msgstr ""
 
 msgid "Scheduling"
 msgstr "निर्धारण"
@@ -7413,11 +7740,17 @@ msgstr "खोज..."
 msgid "Search Bar"
 msgstr "खोज पट्टी"
 
+msgid "Search for"
+msgstr "निम्न को खोजें"
+
 msgid "_Search for"
 msgstr "इसके लिए ढूँढें: (_S)"
 
 msgid "Search for '%1' with"
 msgstr "'%1' को ढूंढें इसके साथ"
+
+msgid "Search in"
+msgstr "इसमें खोजें"
 
 msgid "Search Options"
 msgstr "खोज विकल्प"
@@ -7521,6 +7854,9 @@ msgstr "चयन"
 msgid "Selections"
 msgstr "चयन"
 
+msgid "Self"
+msgstr "स्व"
+
 msgid "Semicolon"
 msgstr "सेमी-कॉलन"
 
@@ -7560,6 +7896,9 @@ msgstr "सर्बिया"
 msgid "Serbian"
 msgstr "सर्बियाई"
 
+msgid "Serial"
+msgstr "सीरियल"
+
 msgid "Serial Number"
 msgstr "क्रम संख्या"
 
@@ -7575,8 +7914,14 @@ msgstr "सेरिफ़"
 msgid "Server"
 msgstr "सर्वर"
 
+msgid "&Server"
+msgstr "सर्वरः (&S)"
+
 msgid "Server URL"
 msgstr "सर्वर यूआरएल"
+
+msgid "Servers"
+msgstr "सर्वर"
 
 msgid "Service"
 msgstr "सेवा"
@@ -7589,6 +7934,9 @@ msgstr "सत्र"
 
 msgid "Session management options"
 msgstr "सत्र प्रबंधन विकल्प"
+
+msgid "Session name"
+msgstr "सत्र नाम"
 
 msgid "Sessions"
 msgstr "सत्र"
@@ -7619,6 +7967,12 @@ msgstr "गंभीरता"
 
 msgid "Seychelles"
 msgstr "सीचेलेस"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7658,6 +8012,12 @@ msgstr "सुस्पष्टता"
 
 msgid "Shear"
 msgstr "अपरूपण"
+
+msgid "Sheet"
+msgstr "शीट"
+
+msgid "Sheets"
+msgstr "शीट्स"
 
 msgid "Shell"
 msgstr "खोल"
@@ -7779,6 +8139,9 @@ msgstr "एकल"
 msgid "Sinhala"
 msgstr "सिंहला"
 
+msgid "Site"
+msgstr "साइट"
+
 msgid "Size"
 msgstr "आकार"
 
@@ -7787,6 +8150,9 @@ msgstr "आकार"
 
 msgid "&Size"
 msgstr "आकार : (&S)"
+
+msgid "_Size"
+msgstr "आकार (_S)"
 
 msgid "Size: %1"
 msgstr "आकार: %1"
@@ -7814,6 +8180,9 @@ msgstr "स्लाइडर"
 
 msgid "Slideshow"
 msgstr "स्लाइड-शो"
+
+msgid "Slope"
+msgstr "ढाल"
 
 msgid "Slovak"
 msgstr "स्लोवाक"
@@ -7869,6 +8238,12 @@ msgstr "ठोस रंग"
 msgid "Solomon Islands"
 msgstr "सोलोमन द्वीप"
 
+msgid "Solution"
+msgstr "समाधान"
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "सोमालिया"
 
@@ -7885,6 +8260,9 @@ msgid "Sorting"
 msgstr "छंटाई"
 
 msgid "Sound"
+msgstr "ध्वनि"
+
+msgid "Sounds"
 msgstr "ध्वनि"
 
 msgid "Soundtrack"
@@ -7957,6 +8335,9 @@ msgstr "वर्तनी की जाँच"
 
 msgid "Spell Checking"
 msgstr "वर्तनी की जांच "
+
+msgid "Spellcheck"
+msgstr "वर्तनी जाँच"
 
 msgid "Spelling"
 msgstr "वर्तनी"
@@ -8195,6 +8576,9 @@ msgstr "सुंडानी"
 msgid "Sunday"
 msgstr "रविवार"
 
+msgid "Sunrise"
+msgstr "सूर्योदय"
+
 msgid "Super"
 msgstr "सुपर"
 
@@ -8251,6 +8635,9 @@ msgstr "तुल्यकालन"
 
 msgid "Synchronize"
 msgstr "सिंक्रनाइज़"
+
+msgid "Syntax"
+msgstr "वाक्यविन्यास"
 
 msgid "Syriac"
 msgstr "सीरियाक"
@@ -8314,6 +8701,9 @@ msgstr "तंजानिया"
 
 msgid "Target"
 msgstr "लक्ष्य"
+
+msgid "Targets"
+msgstr ""
 
 msgid "Task"
 msgstr "कार्य"
@@ -8428,6 +8818,9 @@ msgstr "NetworkManager विकासकर्ता"
 msgid "Theme"
 msgstr "विषय"
 
+msgid "&Theme"
+msgstr "प्रसंगः (&T)"
+
 msgid "Themes"
 msgstr "प्रसंग"
 
@@ -8446,6 +8839,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "थॉमस जेंडर"
+
+msgid "Threads"
+msgstr "धागे"
 
 msgid "Threshold"
 msgstr "सीमा"
@@ -8473,6 +8869,9 @@ msgstr "टाइल"
 
 msgid "Tiled"
 msgstr "टाइलों"
+
+msgid "Tiles"
+msgstr ""
 
 msgid "Tilt"
 msgstr "झुकाव"
@@ -8522,6 +8921,9 @@ msgstr "शीर्षकः (&T)"
 msgid "_Title"
 msgstr "शीर्षक (_T)"
 
+msgid "Titles"
+msgstr "शीर्षक"
+
 msgid "TLS"
 msgstr "टीएलएस"
 
@@ -8545,6 +8947,9 @@ msgstr "सभी"
 
 msgid "Todo"
 msgstr "सभी"
+
+msgid "To-do"
+msgstr ""
 
 msgid "Toggle Fullscreen"
 msgstr "पूर्णस्क्रीन टॉगल करें"
@@ -8576,6 +8981,9 @@ msgstr "औजार"
 msgid "Tool Options"
 msgstr "औजार विकल्प"
 
+msgid "Toolbar"
+msgstr "औज़ार पट्टी"
+
 msgid "_Toolbar"
 msgstr "उपकरण-पट्टी (_T)"
 
@@ -8596,6 +9004,9 @@ msgstr "औज़ार (&T)"
 
 msgid "_Tools"
 msgstr "औजार (_T)"
+
+msgid "Tooltip"
+msgstr "टूलटिप"
 
 msgid "Top"
 msgstr "शीर्ष"
@@ -8747,11 +9158,17 @@ msgstr "क़िस्म"
 msgid "&Type"
 msgstr "क़िस्म (&T)"
 
+msgid "_Type"
+msgstr "प्रकार (_T)"
+
 msgid "Type: %1"
 msgstr "प्रकार: %1"
 
 msgid "Uganda"
 msgstr "उगांडा"
+
+msgid "UID"
+msgstr "यूआईडी"
 
 msgid "Ukraine"
 msgstr "उक्रेन"
@@ -8986,6 +9403,9 @@ msgstr "इस्तेमाल किया गया"
 msgid "User"
 msgstr "उपयोगकर्ता"
 
+msgid "User Agent"
+msgstr "उपयोगकर्ता एजेंट"
+
 msgid "User Certificate"
 msgstr "उपयोगकर्ता प्रमाणपत्र"
 
@@ -9010,11 +9430,17 @@ msgstr "उपयोगकर्ता पासवर्ड"
 msgid "Username"
 msgstr "उपयोगकर्ता नाम"
 
+msgid "&Username"
+msgstr "&उपयोगकर्ता नाम"
+
 msgid "_Username"
 msgstr "उपयोक्तानाम (_U)"
 
 msgid "Users"
 msgstr "उपयोगकर्ताओं"
+
+msgid "UTF-8"
+msgstr "यूटीएफ़-8"
 
 msgid "Utilities"
 msgstr "उपयोगिताएँ"
@@ -9036,6 +9462,9 @@ msgstr "वैध"
 
 msgid "Valid from"
 msgstr "मान्य"
+
+msgid "Valid until"
+msgstr "तब तक वैध"
 
 msgid "Validity"
 msgstr "वैधता"
@@ -9071,6 +9500,9 @@ msgstr "चर"
 msgid "Variance"
 msgstr "झगड़ा"
 
+msgid "Variant"
+msgstr "प्रकार"
+
 msgid "Vector"
 msgstr "वेक्टर"
 
@@ -9097,6 +9529,9 @@ msgstr "संस्करण %1"
 
 msgid "Vertical"
 msgstr "खड़ा"
+
+msgid "_Vertical"
+msgstr "ऊर्ध्वाधर (_V)"
 
 msgid "Very Large"
 msgstr "बहुत बड़ा"
@@ -9130,6 +9565,9 @@ msgstr "देखें (&V)"
 
 msgid "_View"
 msgstr "देखें (_V)"
+
+msgid "View mode"
+msgstr "दृश्य मोड"
 
 msgid "View Options"
 msgstr "विकल्प देखें"
@@ -9290,6 +9728,9 @@ msgstr "वाईफ़ाई"
 msgid "Wikipedia"
 msgstr "विकिपीडिया"
 
+msgid "Wind"
+msgstr "हवाः"
+
 msgid "Window"
 msgstr "विंडो"
 
@@ -9332,11 +9773,17 @@ msgstr "शब्द"
 msgid "Word Count"
 msgstr "शब्द गणना"
 
+msgid "Word wrap"
+msgstr "वर्ड रैप"
+
 msgid "Words"
 msgstr "शब्द"
 
 msgid "Work"
 msgstr "काम"
+
+msgid "Workspace"
+msgstr "कार्यस्थान"
 
 msgid "World"
 msgstr "दुनिया"
@@ -9376,6 +9823,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "वर्ष"
+
+msgid "&Year"
+msgstr "&वर्ष"
 
 msgid "Yearly"
 msgstr "सालाना"
@@ -9438,6 +9888,9 @@ msgstr "ज़ूम (&Z)"
 
 msgid "_Zoom"
 msgstr "ज़ूम (_Z)"
+
+msgid "Zoom factor"
+msgstr "ज़ूम कारक"
 
 msgid "Zoom In"
 msgstr "ज़ूम इन"

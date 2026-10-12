@@ -82,9 +82,6 @@ msgstr " ಹಾಗು "
 msgid " (default)"
 msgstr ""
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr ""
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 
@@ -355,16 +355,19 @@ msgstr "ಇದರ ಬಗ್ಗೆ (_A)"
 msgid "About %1"
 msgstr ""
 
-msgid "About KDE"
-msgstr ""
-
 msgid "Abstract"
 msgstr "ಅಮೂರ್ತ"
+
+msgid "Acceleration"
+msgstr ""
 
 msgid "Accept"
 msgstr "ಒಪ್ಪಿಕೋ"
 
 msgid "Accepted"
+msgstr ""
+
+msgid "Access"
 msgstr ""
 
 msgid "Accessed"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "ವರ್ಣಮಾಲೆಯ ಮೇರೆಗೆ"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "ಪರ್ಯಾಯ"
+
 msgid "Alternative"
 msgstr "ಪರ್ಯಾಯ"
 
@@ -712,8 +721,14 @@ msgstr "ಟಿಪ್ಪಣಿಗಳು"
 msgid "Anonymous"
 msgstr "ಅನಾಮಧೇಯ"
 
+msgid "Answer"
+msgstr ""
+
 msgid "Antarctica"
 msgstr "ಅಂಟಾರ್ಟಿಕಾ"
+
+msgid "Antialiasing"
+msgstr "ಆಂಟಿಅಲಿಯಾಸಿಂಗ್"
 
 msgid "Any"
 msgstr "ಯಾವುದೆ"
@@ -883,6 +898,9 @@ msgstr "ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ"
 msgid "Author"
 msgstr "ಕರ್ತೃ"
 
+msgid "Author name"
+msgstr ""
+
 msgid "Authors"
 msgstr ""
 
@@ -928,6 +946,9 @@ msgstr ""
 msgid "B"
 msgstr ""
 
+msgid "b*"
+msgstr ""
+
 msgid "<b>%1</b>"
 msgstr ""
 
@@ -940,8 +961,14 @@ msgstr "ಹಿಂದಕ್ಕೆ(&B)"
 msgid "_Back"
 msgstr "ಹಿಂದಕ್ಕೆ (_B)"
 
+msgid "Backend"
+msgstr ""
+
 msgid "Background"
 msgstr "ಹಿನ್ನಲೆ"
+
+msgid "&Background"
+msgstr ""
 
 msgid "Background Color"
 msgstr "ಹಿನ್ನಲೆ ಬಣ್ಣ"
@@ -951,6 +978,9 @@ msgstr "ಹಿನ್ನೆಲೆ ಬಣ್ಣ"
 
 msgid "&Background color"
 msgstr ""
+
+msgid "Background image"
+msgstr "ಹಿನ್ನಲೆಯ ಚಿತ್ರ"
 
 msgid "Backspace"
 msgstr "ಬ್ಯಾಕ್‌ಸ್ಪೇಸ್"
@@ -972,6 +1002,9 @@ msgstr ""
 
 msgid "Baltic"
 msgstr "ಬಾಲ್ಟಿಕ್"
+
+msgid "Bandwidth"
+msgstr ""
 
 msgid "Bangladesh"
 msgstr "ಬಾಂಗ್ಲಾದೇಶ"
@@ -999,6 +1032,9 @@ msgstr ""
 
 msgid "Battery"
 msgstr "ಬ್ಯಾಟರಿ"
+
+msgid "BCC"
+msgstr ""
 
 msgid "Bcc"
 msgstr ""
@@ -1156,23 +1192,8 @@ msgstr ""
 msgid "Brazil"
 msgstr "ಬ್ರೆಜಿಲ್"
 
-msgid "Breeze"
-msgstr ""
-
-msgid "Breeze by the KDE VDG"
-msgstr ""
-
-msgid "Breeze Dark"
-msgstr ""
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr ""
-
 msgid "Breton"
 msgstr "ಬ್ರೆಟನ್"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "ಬ್ರಿಜ್"
@@ -1309,19 +1330,6 @@ msgstr ""
 msgid "Canceled"
 msgstr "ರದ್ದು ಮಾಡಲಾಗಿದೆ"
 
-msgid "Cancelled"
-msgstr "ರದ್ದು ಮಾಡಲಾಗಿದೆ"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-"ದಸ್ತಾವೇಜಿನ URI ಗಳನ್ನು ಒಂದು 'Type=Link' ಗಣಕತೆರೆ ನಮೂದಿಗೆ ರವಾನಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ"
-
 msgid "Canvas"
 msgstr "ಕ್ಯಾನ್ವಾಸ್"
 
@@ -1340,14 +1348,14 @@ msgstr ""
 msgid "Caps Lock is on"
 msgstr ""
 
+msgid "Caption"
+msgstr "ಶೀರ್ಷಿಕೆ"
+
 msgid "Capture"
 msgstr "ಸೆರೆಹಿಡಿ"
 
 msgid "Car"
 msgstr ""
-
-msgid "Carsten Pfeiffer"
-msgstr "ಕಾರ್ಸ್ಟೆನ್ ಪ್ಫ್ಹೀಫೆರ್"
 
 msgid "Cascade"
 msgstr "ಕ್ಯಾಸ್ಕೇಡ್"
@@ -1436,6 +1444,9 @@ msgstr ""
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "ಚಾನಲ್"
 
@@ -1453,6 +1464,9 @@ msgstr "ಅಧ್ಯಾಯಗಳು"
 
 msgid "Character"
 msgstr "ಅಕ್ಷರ"
+
+msgid "Character set"
+msgstr ""
 
 msgid "Characters"
 msgstr ""
@@ -1685,6 +1699,9 @@ msgstr ""
 msgid "Color Space"
 msgstr ""
 
+msgid "Color space"
+msgstr ""
+
 msgid "Color theme"
 msgstr ""
 
@@ -1706,13 +1723,7 @@ msgstr "ಕಾಲಂಗಳು"
 msgid "Comma"
 msgstr ""
 
-msgid "COMMAND"
-msgstr "COMMAND"
-
 msgid "Command"
-msgstr "ಆಜ್ಞೆ"
-
-msgid "command"
 msgstr "ಆಜ್ಞೆ"
 
 msgid "Command Line"
@@ -1727,6 +1738,9 @@ msgstr ""
 msgid "Comment"
 msgstr "ಟಿಪ್ಪಣಿ"
 
+msgid "comment"
+msgstr "ಟಿಪ್ಪಣಿ"
+
 msgid "Comments"
 msgstr ""
 
@@ -1736,10 +1750,16 @@ msgstr ""
 msgid "Common"
 msgstr "ಸಾಮಾನ್ಯ"
 
+msgid "Common Name"
+msgstr "ಸಾಮಾನ್ಯ ಹೆಸರು"
+
 msgid "Comoros"
 msgstr "ಕೊಮೊರೋಸ್"
 
 msgid "Compact"
+msgstr ""
+
+msgid "Company"
 msgstr ""
 
 msgid "Compare"
@@ -1778,6 +1798,9 @@ msgstr "ಗಣಕ"
 msgid "Condition"
 msgstr ""
 
+msgid "Conditions"
+msgstr "ಪರಿಸ್ಥಿತಿಗಳು"
+
 msgid "Confidential"
 msgstr "ಗೌಪ್ಯವಾದ"
 
@@ -1808,6 +1831,9 @@ msgstr ""
 msgid "Confirm"
 msgstr "ದೃಢೀಕರಣ"
 
+msgid "Confirm Password"
+msgstr ""
+
 msgid "Confirmation"
 msgstr "ಖಚಿತಪಡಿಸುವಿಕೆ"
 
@@ -1819,6 +1845,9 @@ msgstr ""
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "ಮಾನಕ (standard) ಅನ್ವಯಿಕ ಸಮೀಪಮಾರ್ಗಗಳೊಡನೆ ಕಲಹ"
+
+msgid "Conflicts"
+msgstr ""
 
 msgid "Connect"
 msgstr "ಸಂಪರ್ಕ ಕಲ್ಪಿಸು"
@@ -1844,6 +1873,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr "ಸಂಪರ್ಕ ಸಿದ್ಧತೆಗಳು"
 
+msgid "Connection type"
+msgstr "ಸಂಪರ್ಕದ ಬಗೆ"
+
 msgid "Connections"
 msgstr ""
 
@@ -1852,9 +1884,6 @@ msgstr ""
 
 msgid "Constant"
 msgstr "ಸ್ಥಿರಾಂಕ"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr ""
@@ -1868,14 +1897,14 @@ msgstr ""
 msgid "Contains"
 msgstr ""
 
-msgid "contains"
-msgstr "ಇದನ್ನು ಹೊಂದಿರುವ"
-
 msgid "Content"
 msgstr ""
 
 msgid "Content Type"
 msgstr ""
+
+msgid "Content type"
+msgstr "ವಿಷಯದ ಬಗೆ"
 
 msgid "Contents"
 msgstr "ಒಳ ವಿಷಯಗಳು"
@@ -1898,11 +1927,17 @@ msgstr "ವೈದೃಶ್ಯ (ಕಾಂಟ್ರಾಸ್ಟ್)"
 msgid "Contributor"
 msgstr ""
 
+msgid "Contributors"
+msgstr "ನೆರವಾದವರು"
+
 msgid "Control"
 msgstr "ನಿಯಂತ್ರಣ"
 
 msgid "Convert"
 msgstr "ಪರಿವರ್ತಿಸು"
+
+msgid "Convert to"
+msgstr ""
 
 msgid "Convert to Path"
 msgstr ""
@@ -1921,9 +1956,6 @@ msgstr "ಕಾಪ್ಟಿಕ್"
 
 msgid "Copy"
 msgstr "ನಕಲಿಸು"
-
-msgid "copy"
-msgstr ""
 
 msgid "&Copy"
 msgstr "ನಕಲಿಸು(&C)"
@@ -1976,6 +2008,9 @@ msgstr "ಕಡತಗಳನ್ನು ಪ್ರತಿಮಾಡಲಾಗುತ್�
 msgid "Copyright"
 msgstr "ಹಕ್ಕು"
 
+msgid "Correct"
+msgstr ""
+
 msgid "Cost"
 msgstr ""
 
@@ -1999,6 +2034,9 @@ msgstr "ದೇಶ"
 
 msgid "CPU"
 msgstr ""
+
+msgid "CPU usage"
+msgstr "ಸಿಪಿಯು  ಬಳಕೆ"
 
 msgid "Create"
 msgstr "ನಿರ್ಮಿಸು"
@@ -2027,6 +2065,9 @@ msgstr ""
 msgid "Credentials"
 msgstr "ಪರಿಚಯಪತ್ರಗಳು"
 
+msgid "Credit"
+msgstr "ಅಂಗೀಕಾರ"
+
 msgid "Credits"
 msgstr ""
 
@@ -2052,15 +2093,6 @@ msgid "Cross"
 msgstr "ಕ್ರಾಸ್‌"
 
 msgid "CSV"
-msgstr ""
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
 msgstr ""
 
 msgid "Cuba"
@@ -2090,7 +2122,13 @@ msgstr "ವಕ್ರರೇಖೆಗಳು"
 msgid "Custom"
 msgstr "ಅಗತ್ಯಾನುಗುಣ"
 
+msgid "&Custom"
+msgstr ""
+
 msgid "Custom..."
+msgstr ""
+
+msgid "Custom color"
 msgstr ""
 
 msgid "Custom Font"
@@ -2165,6 +2203,9 @@ msgstr "ದತ್ತಾಂಶ"
 msgid "Database"
 msgstr "ದತ್ತಸಂಚಯ"
 
+msgid "Database name"
+msgstr ""
+
 msgid "Date"
 msgstr "ದಿನಾಂಕ"
 
@@ -2180,13 +2221,19 @@ msgstr ""
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr ""
+
 msgid "Date Modified"
 msgstr ""
 
-msgid "David Edmundson"
-msgstr ""
+msgid "Date/Time"
+msgstr "ದಿನಾಂಕ/ಸಮಯ"
 
 msgid "Day"
+msgstr "ದಿನ"
+
+msgid "day"
 msgstr "ದಿನ"
 
 msgid "Days"
@@ -2236,6 +2283,9 @@ msgstr "ಪೂರ್ವನಿಯೋಜಿತ"
 
 msgid "default"
 msgstr "ಪೂರ್ವನಿಯೋಜಿತ"
+
+msgid "Default value"
+msgstr ""
 
 msgid "Defaults"
 msgstr "ಡೀಫಾಲ್ಟುಗಳು"
@@ -2312,6 +2362,9 @@ msgstr ""
 msgid "Deny"
 msgstr "ನಿರಾಕರಿಸು"
 
+msgid "Department"
+msgstr ""
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2344,6 +2397,12 @@ msgstr "ಗಣಕತೆರೆ"
 
 msgid "Destination"
 msgstr "ಗುರಿ"
+
+msgid "Destination Folder"
+msgstr ""
+
+msgid "Destination folder"
+msgstr "ನಿರ್ದೇಶಿತ ಕಡತಕೋಶ"
 
 msgid "Detach"
 msgstr ""
@@ -2516,6 +2575,9 @@ msgstr ""
 msgid "Distance"
 msgstr "ದೂರ"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "ವಿಭಜಿಸು"
 
@@ -2570,11 +2632,11 @@ msgstr "ದಸ್ತಾವೇಜುಗಳು"
 msgid "does not contain"
 msgstr "ಇದನ್ನು ಹೊಂದಿರದ"
 
-msgid "Dolphin"
-msgstr ""
-
 msgid "Domain"
 msgstr "ಕ್ಷೇತ್ರ"
+
+msgid "_Domain"
+msgstr "ಕ್ಷೇತ್ರ (_D)"
 
 msgid "Dominica"
 msgstr "ಡೊಮಿನಿಕಾ"
@@ -2678,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr ""
+
 msgid "E"
 msgstr ""
 
@@ -2729,6 +2794,9 @@ msgstr "ಚಿತ್ರವನ್ನು ಸಂಪಾದಿಸಿ"
 msgid "Editing"
 msgstr ""
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr ""
 
@@ -2744,9 +2812,6 @@ msgstr "ಈಜಿಪ್ಟ್"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr ""
-
 msgid "Eject"
 msgstr "ಹೊರತಳ್ಳು"
 
@@ -2756,17 +2821,29 @@ msgstr "ಹೊರತಳ್ಳಿ (_E)"
 msgid "El Salvador"
 msgstr "ಎಲ್ ಸಾಲ್ವಡಾರ್"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr ""
 
 msgid "Element"
 msgstr "ಘಟಕ"
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "ದೀರ್ಘವೃತ್ತ"
 
+msgid "EMail"
+msgstr ""
+
 msgid "Email"
 msgstr "ಇಮೇಲ್"
+
+msgid "E-Mail"
+msgstr ""
 
 msgid "E-mail"
 msgstr "ವಿ-ಅಂಚೆ"
@@ -2846,6 +2923,9 @@ msgstr ""
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr ""
+
 msgid "End Time"
 msgstr ""
 
@@ -2867,8 +2947,14 @@ msgstr "ಇಂಗ್ಲೀಷ್"
 msgid "Enter"
 msgstr "ಎಂಟರ್"
 
+msgid "Enter name"
+msgstr ""
+
 msgid "Enter password"
 msgstr "ಗುಪ್ತಪದವನ್ನು ನಮೂದಿಸು"
+
+msgid "Entries"
+msgstr "ನಮೂದುಗಳು"
 
 msgid "Entry"
 msgstr ""
@@ -2942,6 +3028,9 @@ msgstr "ಸಂದರ್ಭ(ಎವೆಂಟ್)"
 msgid "Events"
 msgstr "ಕಾರ್ಯಕ್ರಮಗಳು"
 
+msgid "Every"
+msgstr ""
+
 msgid "Everyone"
 msgstr "ಪ್ರತಿಯೊಬ್ಬರಿಗೂ"
 
@@ -2958,6 +3047,9 @@ msgid "Examples"
 msgstr ""
 
 msgid "Exception"
+msgstr ""
+
+msgid "Exceptions"
 msgstr ""
 
 msgid "Exclude"
@@ -2993,11 +3085,17 @@ msgstr "ಎಲ್ಲವನ್ನು ಹಿಗ್ಗಿಸು"
 msgid "Experimental"
 msgstr ""
 
+msgid "Expiration"
+msgstr ""
+
 msgid "Expired"
 msgstr "ಕಾಲಾವಧಿ ಮುಗಿದಿದೆ"
 
 msgid "Expires"
 msgstr "ಅಂತ್ಯಗೊಳ್ಳುವುದು"
+
+msgid "Expires On"
+msgstr "ವಾಯಿದೆ ದಿನಾಂಕ"
 
 msgid "Export"
 msgstr "ರಫ್ತು"
@@ -3032,6 +3130,9 @@ msgstr ""
 msgid "Exposure"
 msgstr "ಎಕ್ಸ್‌‍ಪೋಶರ್"
 
+msgid "Exposure Time"
+msgstr "ಎಕ್ಸ್‍ಪೋಶರ್ ಸಮಯ"
+
 msgid "Expression"
 msgstr ""
 
@@ -3051,6 +3152,9 @@ msgid "Extract"
 msgstr "ಆಯ್ದು ತೆಗೆ"
 
 msgid "F"
+msgstr ""
+
+msgid "Fabric"
 msgstr ""
 
 msgid "Facebook"
@@ -3110,6 +3214,12 @@ msgstr ""
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr "ಕ್ಷೇತ್ರ"
+
+msgid "Fields"
+msgstr ""
+
 msgid "Fiji"
 msgstr "ಫಿಜಿ"
 
@@ -3141,6 +3251,9 @@ msgid "File Exists"
 msgstr "ಕಡತವು ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ"
 
 msgid "File Format"
+msgstr ""
+
+msgid "File format"
 msgstr ""
 
 msgid "File is not a valid .desktop file"
@@ -3202,6 +3315,9 @@ msgstr ""
 
 msgid "Filter"
 msgstr "ಶೋಧಕ (ಫಿಲ್ಟರ್)"
+
+msgid "&Filter"
+msgstr ""
 
 msgid "Filter..."
 msgstr ""
@@ -3266,6 +3382,9 @@ msgstr "ಫಿನ್ನಿಷ್"
 msgid "First"
 msgstr "ಮೊದಲನೇ"
 
+msgid "First Name"
+msgstr ""
+
 msgid "First Page"
 msgstr "ಮೊದಲ ಪುಟ"
 
@@ -3326,6 +3445,9 @@ msgstr "ಹೂವು"
 msgid "Focal Length"
 msgstr ""
 
+msgid "Focal length"
+msgstr "ಫೋಕಲ್ ಉದ್ದ"
+
 msgid "Focus"
 msgstr ""
 
@@ -3347,6 +3469,9 @@ msgstr "ಅಕ್ಷರಶೈಲಿ"
 msgid "&Font"
 msgstr "ಅಕ್ಷರಶೈಲಿ(&F)"
 
+msgid "_Font"
+msgstr "ಅಕ್ಷರಶೈಲಿ(_F)"
+
 msgid "Font Color"
 msgstr ""
 
@@ -3358,6 +3483,12 @@ msgstr "ಅಕ್ಷರಶೈಲಿ ಗಾತ್ರ"
 
 msgid "Font size"
 msgstr "ಅಕ್ಷರ ಗಾತ್ರ"
+
+msgid "Font Style"
+msgstr ""
+
+msgid "Font style"
+msgstr ""
 
 msgid "Fonts"
 msgstr "ಅಕ್ಷರಶೈಲಿಗಳು"
@@ -3395,6 +3526,12 @@ msgstr "ಫಾರ್ಮ್"
 msgid "Format"
 msgstr "ವಿನ್ಯಾಸ"
 
+msgid "&Format"
+msgstr ""
+
+msgid "_Format"
+msgstr "ಫಾರ್ಮಾಟ್‍ಗೊಳಿಸು (_F)"
+
 msgid "Formatting"
 msgstr "ರೂಪಿಸುವಿಕೆ"
 
@@ -3421,6 +3558,12 @@ msgstr ""
 
 msgid "Frame"
 msgstr "ಚೌಕಟ್ಟು"
+
+msgid "Frame Rate"
+msgstr ""
+
+msgid "Frame rate"
+msgstr ""
 
 msgid "Framerate"
 msgstr ""
@@ -3466,6 +3609,9 @@ msgstr "ಸಂಪೂರ್ಣ"
 
 msgid "Full Name"
 msgstr "ಸಂಪೂರ್ಣ ಹೆಸರು"
+
+msgid "Full name"
+msgstr "ಪೂರ್ಣ ಹೆಸರು"
 
 msgid "Full Screen"
 msgstr "ಸಂಪೂರ್ಣ ತೆರೆ"
@@ -3532,6 +3678,9 @@ msgstr "ಗೇಟ್"
 
 msgid "Gateway"
 msgstr "ಗೇಟ್ ವೇ"
+
+msgid "_Gateway"
+msgstr "ಗೇಟ್‌ವೇ(_G)"
 
 msgid "Gaussian Blur"
 msgstr ""
@@ -3653,6 +3802,9 @@ msgstr "ಹಿಂದಿನ ಪುಟಕ್ಕೆ ತೆರಳು"
 msgid "Goa"
 msgstr "ಗೋವ"
 
+msgid "Goal"
+msgstr "ಉದ್ದೇಶ"
+
 msgid "Gold"
 msgstr ""
 
@@ -3707,6 +3859,9 @@ msgstr ""
 msgid "Grid"
 msgstr "ಚೌಕ"
 
+msgid "&Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "ಸಮೂಹ"
 
@@ -3752,6 +3907,9 @@ msgstr ""
 msgid "Hardware"
 msgstr "ಯಂತ್ರಾಂಶ"
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr ""
 
@@ -3793,6 +3951,9 @@ msgstr "ಎತ್ತರ"
 
 msgid "&Height"
 msgstr ""
+
+msgid "_Height"
+msgstr "ಎತ್ತರ (_H)"
 
 msgid "Help"
 msgstr "ನೆರವು"
@@ -3838,6 +3999,9 @@ msgstr "ಉಚ್ಛ"
 
 msgid "Highlight"
 msgstr "ಹೈಲೈಟ್"
+
+msgid "Highlight color"
+msgstr ""
 
 msgid "Highlighter"
 msgstr ""
@@ -3890,8 +4054,17 @@ msgstr "ಹಾಂಗ್ ಕಾಂಗ್"
 msgid "Horizontal"
 msgstr "ಅಡ್ಡ"
 
+msgid "_Horizontal"
+msgstr "ಅಡ್ಡ(_H)"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "ಅತಿಥೇಯ"
+
+msgid "Host Name"
+msgstr "ಅತಿಥೇಯದ ಹೆಸರು"
 
 msgid "Hostname"
 msgstr "ಆತಿಥೇಯದ ಹೆಸರು"
@@ -3971,6 +4144,9 @@ msgstr ""
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr "ಪತ್ತೆಗಾರ"
 
@@ -4024,6 +4200,12 @@ msgstr "ಚಿತ್ರದ ಸಿದ್ಧತೆಗಳು"
 
 msgid "Image Size"
 msgstr "ಚಿತ್ರದ ಗಾತ್ರ"
+
+msgid "Image size"
+msgstr ""
+
+msgid "Image type"
+msgstr "ಚಿತ್ರದ ಬಗೆ"
 
 msgid "Image Viewer"
 msgstr "ಚಿತ್ರ ನೋಡುಗ"
@@ -4100,6 +4282,9 @@ msgstr "ಪದಪಲ್ಲಟ (ಇಂಡೆಂಟ್) ಹೆಚ್ಚುಮಾ�
 msgid "Increase Volume"
 msgstr ""
 
+msgid "Increment"
+msgstr ""
+
 msgid "Incremental"
 msgstr ""
 
@@ -4111,6 +4296,9 @@ msgstr "ಪರಿವಿಡಿ"
 
 msgid "Indexed"
 msgstr "ಅನುಸೂಚಿತ"
+
+msgid "Indexing"
+msgstr ""
 
 msgid "India"
 msgstr "ಭಾರತ"
@@ -4173,6 +4361,9 @@ msgid "Installing"
 msgstr "ಅನುಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ"
 
 msgid "Instant"
+msgstr ""
+
+msgid "Instructions"
 msgstr ""
 
 msgid "Integer"
@@ -4262,11 +4453,17 @@ msgstr "ಐರಿಷ್"
 msgid "is"
 msgstr "ಇದು ಆಗಿರುವ"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "ಇಸ್ರೇಲ್"
 
 msgid "Issued By"
 msgstr "ಒದಗಿಸಿದವರು"
+
+msgid "Issued On"
+msgstr "ಒದಗಿಸಲಾದ ದಿನಾಂಕ"
 
 msgid "Issuer"
 msgstr "ಒದಗಿಸಿದವರು"
@@ -4364,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "ಕನ್ನಡ"
 
-msgid "Kate"
-msgstr "ಕೇಟ್"
-
 msgid "Kazakh"
 msgstr "ಕಝಾಕ್"
 
@@ -4375,18 +4569,6 @@ msgstr "ಕಝಕಿಸ್ತಾನ್"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "ಕೆಡಿಇ"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
-msgstr ""
 
 msgid "Keep"
 msgstr ""
@@ -4451,26 +4633,11 @@ msgstr "ಕಿರಿಬಾಟಿ"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr ""
-
-msgid "Konqueror"
-msgstr "ಕಾಂಕರರ್"
-
-msgid "Konsole"
-msgstr "ಕನ್ಸೋಲ್"
-
 msgid "Korean"
 msgstr "ಕೊರಿಯನ್"
 
-msgid "KOrganizer"
-msgstr ""
-
 msgid "Kuwait"
 msgstr "ಕುವೈತ್"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr ""
@@ -4489,6 +4656,9 @@ msgstr ""
 
 msgid "Language"
 msgstr "ಭಾಷೆ"
+
+msgid "&Language"
+msgstr ""
 
 msgid "_Language"
 msgstr ""
@@ -4509,6 +4679,12 @@ msgid "Last"
 msgstr "ಕೊನೆಯ"
 
 msgid "Last Modified"
+msgstr ""
+
+msgid "Last modified"
+msgstr "ಕೊನೆಯದಾಗಿ ಮಾರ್ಪಡಿಸಲಾಗಿದ್ದು"
+
+msgid "Last Name"
 msgstr ""
 
 msgid "LaTeX"
@@ -4622,8 +4798,20 @@ msgstr "ಸಾಲಿನ ತಡೆ"
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr ""
+
 msgid "Line Numbers"
 msgstr ""
+
+msgid "Line spacing"
+msgstr ""
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "ರೇಖೆಯ ಶೈಲಿ"
 
 msgid "Line Width"
 msgstr "ರೇಖೆಯ ಅಗಲ"
@@ -4642,6 +4830,9 @@ msgstr "ಕೊಂಡಿ"
 
 msgid "link"
 msgstr "ಕೊಂಡಿ"
+
+msgid "Link Text"
+msgstr "ಕೊಂಡಿ ಪಠ್ಯ"
 
 msgid "Link URL"
 msgstr "ತಾಣಸೂಚಿಯ ಕೊಂಡಿ"
@@ -4741,6 +4932,9 @@ msgstr "ಪ್ರವೇಶ"
 
 msgid "_Login"
 msgstr "ಪ್ರವೇಶಿಸು (_L)"
+
+msgid "Logo"
+msgstr "ಲಾಂಛನ"
 
 msgid "Logout"
 msgstr ""
@@ -4937,6 +5131,9 @@ msgstr "ಗರಿಷ್ಠೀಕರಿಸು"
 msgid "Maximum"
 msgstr "ಗರಿಷ್ಟ"
 
+msgid "Maximum width"
+msgstr ""
+
 msgid "May"
 msgstr ""
 
@@ -4991,6 +5188,9 @@ msgstr "ಸಂದೇಶ"
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr ""
+
 msgid "Messages"
 msgstr ""
 
@@ -5002,6 +5202,9 @@ msgstr "ಮೆಟಾಡಾಟ"
 
 msgid "Metal"
 msgstr ""
+
+msgid "Metering Mode"
+msgstr "ಮೀಟರಿಂಗ್ ಕ್ರಮ"
 
 msgid "meters"
 msgstr "ಮೀಟರುಗಳು"
@@ -5041,6 +5244,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "ಮಿಲಿಸೆಕೆಂಡುಗಳು"
+
+msgid "MIME type"
+msgstr "MIME ಬಗೆ"
 
 msgid "Min"
 msgstr ""
@@ -5087,8 +5293,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "ಮೊಬೈಲ್"
 
+msgid "Mobile Phone"
+msgstr "ಮೊಬೈಲ್ ದೂರವಾಣಿ"
+
 msgid "Mode"
 msgstr "ಕ್ರಮ"
+
+msgid "_Mode"
+msgstr "ಪದ್ಧತಿ(_M)"
 
 msgid "Model"
 msgstr "ಮಾದರಿ"
@@ -5185,6 +5397,9 @@ msgstr "ಮೊರಾಕೊ"
 
 msgid "Mount"
 msgstr ""
+
+msgid "Mount Point"
+msgstr "ಆರೋಹಣ ತಾಣ"
 
 msgid "Mount point"
 msgstr ""
@@ -5324,6 +5539,9 @@ msgstr "ಹೆಸರು (_N)"
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr ""
+
 msgid "Namespace"
 msgstr "ನೇಮ್‌ಸ್ಪೇಸ್"
 
@@ -5353,6 +5571,9 @@ msgstr "ನೇಪಾಲಿ"
 
 msgid "Netherlands"
 msgstr "ನೆದರ್ಲ್ಯಾಂಡ್ಸ್‍"
+
+msgid "Netmask"
+msgstr "ನೆಟ್‍ಮಾಸ್ಕ್‍"
 
 msgid "Network"
 msgstr "ಜಾಲಬಂಧ"
@@ -5564,6 +5785,9 @@ msgstr ""
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr ""
+
 msgid "Noise"
 msgstr ""
 
@@ -5690,6 +5914,9 @@ msgstr "ಸಂಖ್ಯೆ"
 msgid "Number of columns"
 msgstr ""
 
+msgid "Number of rows"
+msgstr ""
+
 msgid "Numbers"
 msgstr "ಸಂಖ್ಯೆಗಳು"
 
@@ -5746,9 +5973,6 @@ msgstr ""
 
 msgid "_OK"
 msgstr "ಸರಿ (_O)"
-
-msgid "Okular"
-msgstr ""
 
 msgid "Oman"
 msgstr "ಒಮಾನ್"
@@ -5900,6 +6124,9 @@ msgstr ""
 msgid "Opera"
 msgstr "ಓಪೆರಾ"
 
+msgid "Operating System"
+msgstr "ಕಾರ್ಯ ವ್ಯವಸ್ಥೆ"
+
 msgid "Operation"
 msgstr ""
 
@@ -5911,6 +6138,9 @@ msgstr "ಕಾರ್ಯಗಳು"
 
 msgid "Operator"
 msgstr "ಕಾರ್ಯನಿರ್ವಾಹಕ"
+
+msgid "Operators"
+msgstr "ಕ್ರಿಯೆಗಳು"
 
 msgid "Optical Character Recognition"
 msgstr "ಆಪ್ಟಿಕಲ್ ಅಕ್ಷರ ಗುರುತಿಸುವಿಕೆ"
@@ -5969,6 +6199,9 @@ msgstr "ಮೂಲ ಗಾತ್ರ"
 msgid "Oriya"
 msgstr "ಒರಿಯಾ"
 
+msgid "OS"
+msgstr "OS"
+
 msgid "Other"
 msgstr "ಇತರೆ"
 
@@ -5982,6 +6215,9 @@ msgid "Other Application..."
 msgstr ""
 
 msgid "Other Options"
+msgstr ""
+
+msgid "Other options"
 msgstr ""
 
 msgid "Others"
@@ -6125,6 +6361,9 @@ msgstr "ಪೇರೆಂಟ್"
 msgid "Partition"
 msgstr ""
 
+msgid "Passphrase"
+msgstr "ಗುಪ್ತವಾಕ್ಯ"
+
 msgid "Password"
 msgstr "ಗುಪ್ತಪದ"
 
@@ -6163,6 +6402,9 @@ msgstr "ಮಾರ್ಗಗಳು"
 
 msgid "Pattern"
 msgstr "ನಮೂನೆ"
+
+msgid "_Pattern"
+msgstr "ವಿನ್ಯಾಸ(_P)"
 
 msgid "Patterns"
 msgstr ""
@@ -6248,8 +6490,14 @@ msgstr "ಫಿಲಿಪೀನ್ಸ್‍"
 msgid "Phone"
 msgstr "ದೂರವಾಣಿ"
 
+msgid "Phone Numbers"
+msgstr ""
+
 msgid "Photo"
 msgstr "ಫೋಟೊ"
+
+msgid "Photos"
+msgstr "ಫೋಟೊಗಳು"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6270,6 +6518,9 @@ msgid "PID"
 msgstr ""
 
 msgid "Pie"
+msgstr ""
+
+msgid "PIN"
 msgstr ""
 
 msgid "Pin"
@@ -6299,9 +6550,6 @@ msgstr ""
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "ಪ್ಲಾಸ್ಮಾ"
-
 msgid "Platform"
 msgstr ""
 
@@ -6320,7 +6568,13 @@ msgstr "ಪ್ಲೇಬ್ಯಾಕ್"
 msgid "Player"
 msgstr ""
 
+msgid "Player 1"
+msgstr ""
+
 msgid "Player %1"
+msgstr ""
+
+msgid "Player 2"
 msgstr ""
 
 msgid "Players"
@@ -6401,6 +6655,9 @@ msgstr "ಸಂಪರ್ಕ ಸ್ಥಾನ"
 msgid "&Port"
 msgstr "ಸಂ&ಪರ್ಕ ಕಿಂಡಿ"
 
+msgid "_Port"
+msgstr "ಸಂಪರ್ಕಸ್ಥಾನ(_P)"
+
 msgid "Portrait"
 msgstr "ಭಾವಚಿತ್ರ"
 
@@ -6412,6 +6669,9 @@ msgstr "ಪೋರ್ಚುಗೀಸ್"
 
 msgid "Position"
 msgstr "ಸ್ಥಾನ"
+
+msgid "Postal code"
+msgstr ""
 
 msgid "Posterize"
 msgstr ""
@@ -6454,6 +6714,9 @@ msgstr "ಮುನ್ನೋಟ"
 
 msgid "&Preview"
 msgstr ""
+
+msgid "_Preview"
+msgstr "ಮುನ್ನೋಟ(_P)"
 
 msgid "Previews"
 msgstr "ಮುನ್ನೋಟಗಳು"
@@ -6536,6 +6799,9 @@ msgstr "ಗೌಪ್ಯತೆ"
 msgid "Private"
 msgstr "ಖಾಸಗಿ"
 
+msgid "Private Key"
+msgstr "ಖಾಸಗಿ ಕೀಲಿ"
+
 msgid "Process"
 msgstr "ಪ್ರಕ್ರಿಯೆ"
 
@@ -6563,6 +6829,9 @@ msgstr "ಪ್ರೊಫೈಲ್‌ಗಳು"
 msgid "Program"
 msgstr ""
 
+msgid "Programs"
+msgstr "ಕ್ರಮವಿಧಿಗಳು (programs)"
+
 msgid "Progress"
 msgstr "ಪ್ರಗತಿ"
 
@@ -6570,6 +6839,9 @@ msgid "Project"
 msgstr ""
 
 msgid "&Project"
+msgstr ""
+
+msgid "Project name"
 msgstr ""
 
 msgid "Projects"
@@ -6644,6 +6916,9 @@ msgstr ""
 msgid "Python"
 msgstr "ಪೈಥಾನ್"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "ಕತಾರ್"
 
@@ -6697,6 +6972,9 @@ msgstr ""
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr ""
+
 msgid "R"
 msgstr "R"
 
@@ -6727,6 +7005,9 @@ msgstr "ದರ"
 msgid "Rating"
 msgstr "ರೇಟಿಂಗ್"
 
+msgid "Ratio"
+msgstr ""
+
 msgid "Raw"
 msgstr ""
 
@@ -6754,10 +7035,16 @@ msgstr "ತಯಾರಿದೆ"
 msgid "Ready."
 msgstr ""
 
+msgid "Realm"
+msgstr ""
+
 msgid "Reason"
 msgstr "ಕಾರಣ"
 
 msgid "Reassign"
+msgstr ""
+
+msgid "Received"
 msgstr ""
 
 msgid "Recent"
@@ -6779,6 +7066,9 @@ msgid "Recording"
 msgstr ""
 
 msgid "Rectangle"
+msgstr ""
+
+msgid "Recurrence"
 msgstr ""
 
 msgid "Recursive"
@@ -6910,6 +7200,9 @@ msgstr "ಆರಿಸಲಾದ ಅಂಶವನ್ನು ಉಪಕರಣ ಪಟ್
 msgid "Remove the selected toolbar"
 msgstr "ಆರಿಸಲಾದ ಉಪಕರಣ ಪಟ್ಟಿಯನ್ನು ತೆಗೆದು ಹಾಕು"
 
+msgid "Removing"
+msgstr "ತೆಗೆದು ಹಾಕಲಾಗುತ್ತಿದೆ"
+
 msgid "Rename"
 msgstr "ಹೆಸರು ಬದಲಾಯಿಸು"
 
@@ -6929,6 +7222,9 @@ msgid "Rename Bookmark"
 msgstr ""
 
 msgid "Rename File"
+msgstr ""
+
+msgid "Rendering intent"
 msgstr ""
 
 msgid "Repeat"
@@ -6952,10 +7248,19 @@ msgstr "ಎಲ್ಲವನ್ನೂ ಬದಲಿಸು (_A)"
 msgid "Replace an existing instance"
 msgstr ""
 
+msgid "Replace With"
+msgstr "ಇದರಿಂದ ಪ್ರತಿಸ್ಥಾಪಿಸುಿಸು"
+
+msgid "Replace with"
+msgstr ""
+
 msgid "Replacement"
 msgstr ""
 
 msgid "Reply"
+msgstr ""
+
+msgid "Reply-To"
 msgstr ""
 
 msgid "Report"
@@ -6974,6 +7279,9 @@ msgid "&Report Bug..."
 msgstr ""
 
 msgid "Reports"
+msgstr ""
+
+msgid "Repository"
 msgstr ""
 
 msgid "Required"
@@ -7087,6 +7395,9 @@ msgstr "ಬಲದಿಂದ ಎಡಕ್ಕೆ"
 msgid "Right-click"
 msgstr ""
 
+msgid "Rights"
+msgstr ""
+
 msgid "River"
 msgstr ""
 
@@ -7141,6 +7452,9 @@ msgstr "ಅಡ್ಡಸಾಲುಗಳು"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
@@ -7148,6 +7462,9 @@ msgid "Run"
 msgstr ""
 
 msgid "&Run"
+msgstr ""
+
+msgid "Run command"
 msgstr ""
 
 msgid "Run in terminal"
@@ -7285,6 +7602,9 @@ msgstr "ಚಿತ್ರವನ್ನು ಉಳಿಸು"
 msgid "_Save Image As..."
 msgstr "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು (_S)..."
 
+msgid "Save Location"
+msgstr ""
+
 msgid "Save Project"
 msgstr ""
 
@@ -7292,6 +7612,9 @@ msgid "Save Session"
 msgstr "ಅಧಿವೇಶನವನ್ನು ಉಳಿಸು"
 
 msgid "Save Settings"
+msgstr ""
+
+msgid "Save to"
 msgstr ""
 
 msgid "Saved"
@@ -7324,10 +7647,16 @@ msgstr ""
 msgid "Scanner"
 msgstr "ಸ್ಕ್ಯಾನರ್"
 
+msgid "Scanning"
+msgstr ""
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
+msgstr ""
+
+msgid "Scheduler"
 msgstr ""
 
 msgid "Scheduling"
@@ -7405,10 +7734,16 @@ msgstr ""
 msgid "Search Bar"
 msgstr ""
 
+msgid "Search for"
+msgstr ""
+
 msgid "_Search for"
 msgstr "ಇದಕ್ಕಾಗಿ ಹುಡುಕು (_S): "
 
 msgid "Search for '%1' with"
+msgstr ""
+
+msgid "Search in"
 msgstr ""
 
 msgid "Search Options"
@@ -7513,6 +7848,9 @@ msgstr "ಆಯ್ಕೆ"
 msgid "Selections"
 msgstr ""
 
+msgid "Self"
+msgstr ""
+
 msgid "Semicolon"
 msgstr ""
 
@@ -7552,6 +7890,9 @@ msgstr "ಸರ್ಬಿಯಾ"
 msgid "Serbian"
 msgstr "ಸರ್ಬಿಯನ್"
 
+msgid "Serial"
+msgstr ""
+
 msgid "Serial Number"
 msgstr "ಅನುಕ್ರಮ ಸಂಖ್ಯೆ"
 
@@ -7567,8 +7908,14 @@ msgstr ""
 msgid "Server"
 msgstr "ಪರಿಚಾರಕ"
 
+msgid "&Server"
+msgstr ""
+
 msgid "Server URL"
 msgstr ""
+
+msgid "Servers"
+msgstr "ಪೂರೈಕೆಗಣಕಗಳು"
 
 msgid "Service"
 msgstr ""
@@ -7581,6 +7928,9 @@ msgstr ""
 
 msgid "Session management options"
 msgstr "ಅಧಿವೇಶನ ನಿರ್ವಹಣಾ ಆಯ್ಕೆಗಳು"
+
+msgid "Session name"
+msgstr ""
 
 msgid "Sessions"
 msgstr "ಅಧಿವೇಶನಗಳು"
@@ -7611,6 +7961,12 @@ msgstr ""
 
 msgid "Seychelles"
 msgstr "ಸಿಶೆಲ್ಸ್‍"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr ""
@@ -7649,6 +8005,12 @@ msgid "Sharpness"
 msgstr ""
 
 msgid "Shear"
+msgstr ""
+
+msgid "Sheet"
+msgstr "ಹಾಳೆ"
+
+msgid "Sheets"
 msgstr ""
 
 msgid "Shell"
@@ -7771,6 +8133,9 @@ msgstr ""
 msgid "Sinhala"
 msgstr "ಸಿಂಹಳ"
 
+msgid "Site"
+msgstr "ತಾಣ"
+
 msgid "Size"
 msgstr "ಗಾತ್ರ"
 
@@ -7779,6 +8144,9 @@ msgstr ""
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "ಗಾತ್ರ (_S)"
 
 msgid "Size: %1"
 msgstr ""
@@ -7806,6 +8174,9 @@ msgstr "ಸ್ಲೈಡರ್"
 
 msgid "Slideshow"
 msgstr "ಜಾರುಫಲಕ ಪ್ರದರ್ಶನ"
+
+msgid "Slope"
+msgstr ""
 
 msgid "Slovak"
 msgstr "ಸ್ಲೋವಾಕ್"
@@ -7861,6 +8232,12 @@ msgstr "ಗಾಢ ಬಣ್ಣ"
 msgid "Solomon Islands"
 msgstr "ಸೊಲೊಮನ್ ಐಲ್ಯಾಂಡ್ಸ್‍"
 
+msgid "Solution"
+msgstr ""
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "ಸೊಮಾಲಿಯಾ"
 
@@ -7878,6 +8255,9 @@ msgstr ""
 
 msgid "Sound"
 msgstr "ಧ್ವನಿ"
+
+msgid "Sounds"
+msgstr ""
 
 msgid "Soundtrack"
 msgstr ""
@@ -7947,6 +8327,9 @@ msgstr ""
 
 msgid "Spell Checking"
 msgstr ""
+
+msgid "Spellcheck"
+msgstr "ಕಾಗುಣಿತ ಪರೀಕ್ಷಣೆ"
 
 msgid "Spelling"
 msgstr ""
@@ -8185,6 +8568,9 @@ msgstr "ಸುಂಡನೀಸ್"
 msgid "Sunday"
 msgstr "ಆದಿತ್ಯವಾರ"
 
+msgid "Sunrise"
+msgstr "ಸೂರ್ಯೋದಯ"
+
 msgid "Super"
 msgstr "ಸೂಪರ್"
 
@@ -8240,6 +8626,9 @@ msgid "Synchronization"
 msgstr "ಹೊಂದಾಣಿಸುವಿಕೆ"
 
 msgid "Synchronize"
+msgstr ""
+
+msgid "Syntax"
 msgstr ""
 
 msgid "Syriac"
@@ -8303,6 +8692,9 @@ msgid "Tanzania"
 msgstr "ಟಾಂಝಾನಿಯಾ"
 
 msgid "Target"
+msgstr ""
+
+msgid "Targets"
 msgstr ""
 
 msgid "Task"
@@ -8418,6 +8810,9 @@ msgstr ""
 msgid "Theme"
 msgstr "ಪರಿಸರವಿನ್ಯಾಸ"
 
+msgid "&Theme"
+msgstr ""
+
 msgid "Themes"
 msgstr "ಪರಿಸರವಿನ್ಯಾಸಗಳು"
 
@@ -8435,6 +8830,9 @@ msgid ""
 msgstr ""
 
 msgid "Thomas Zander"
+msgstr ""
+
+msgid "Threads"
 msgstr ""
 
 msgid "Threshold"
@@ -8463,6 +8861,9 @@ msgstr ""
 
 msgid "Tiled"
 msgstr "ಚೌಕವನ್ನೊಳಗೊಂಡ"
+
+msgid "Tiles"
+msgstr "ಇಟ್ಟಿಗೆಗಳು"
 
 msgid "Tilt"
 msgstr ""
@@ -8512,6 +8913,9 @@ msgstr ""
 msgid "_Title"
 msgstr "ಶೀರ್ಷಿಕೆ(_T)"
 
+msgid "Titles"
+msgstr "ಶೀರ್ಷಿಕೆಗಳು"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8534,6 +8938,9 @@ msgid "TODO"
 msgstr "TODO"
 
 msgid "Todo"
+msgstr ""
+
+msgid "To-do"
 msgstr ""
 
 msgid "Toggle Fullscreen"
@@ -8566,6 +8973,9 @@ msgstr ""
 msgid "Tool Options"
 msgstr "ಉಪಕರಣ ಆಯ್ಕೆಗಳು"
 
+msgid "Toolbar"
+msgstr "ಉಪಕರಣಪಟ್ಟಿ"
+
 msgid "_Toolbar"
 msgstr "ಉಪಕರಣಪಟ್ಟಿ (_T)"
 
@@ -8586,6 +8996,9 @@ msgstr "ಉಪಕರಣಗಳು(&T)"
 
 msgid "_Tools"
 msgstr "ಉಪಕರಣಗಳು(_T)"
+
+msgid "Tooltip"
+msgstr "ಸುಳಿವು"
 
 msgid "Top"
 msgstr "ಮೇಲೆ"
@@ -8737,11 +9150,17 @@ msgstr ""
 msgid "&Type"
 msgstr ""
 
+msgid "_Type"
+msgstr "ಬಗೆ (_T)"
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "ಉಗಾಂಡ"
+
+msgid "UID"
+msgstr ""
 
 msgid "Ukraine"
 msgstr "ಉಕ್ರೇನ್"
@@ -8974,6 +9393,9 @@ msgstr ""
 msgid "User"
 msgstr "ಯೂಸರ್"
 
+msgid "User Agent"
+msgstr ""
+
 msgid "User Certificate"
 msgstr ""
 
@@ -8998,11 +9420,17 @@ msgstr ""
 msgid "Username"
 msgstr "ಬಳಕೆದಾರಹೆಸರು"
 
+msgid "&Username"
+msgstr "&ಬಳಕೆದಾರನ ಹೆಸರು"
+
 msgid "_Username"
 msgstr "ಬಳಕೆದಾರ ಹೆಸರು (_U)"
 
 msgid "Users"
 msgstr "ಬಳಕೆದಾರರು"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "ಸೌಲಭ್ಯಗಳು"
@@ -9023,6 +9451,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9057,6 +9488,9 @@ msgstr ""
 msgid "Variance"
 msgstr ""
 
+msgid "Variant"
+msgstr ""
+
 msgid "Vector"
 msgstr ""
 
@@ -9083,6 +9517,9 @@ msgstr ""
 
 msgid "Vertical"
 msgstr "ಲಂಬ"
+
+msgid "_Vertical"
+msgstr "ಲಂಬ(_V)"
 
 msgid "Very Large"
 msgstr "ಬಹಳ ದೊಡ್ಡದಾದ"
@@ -9116,6 +9553,9 @@ msgstr "ನೋಟ(&V)"
 
 msgid "_View"
 msgstr "ನೋಟ (_V)"
+
+msgid "View mode"
+msgstr "ನೋಟ ವಿಧಾನ"
 
 msgid "View Options"
 msgstr ""
@@ -9276,6 +9716,9 @@ msgstr "ವೈ-ಫೈ"
 msgid "Wikipedia"
 msgstr ""
 
+msgid "Wind"
+msgstr "ಗಾಳಿ"
+
 msgid "Window"
 msgstr "ಕಿಟಕಿ"
 
@@ -9318,11 +9761,17 @@ msgstr ""
 msgid "Word Count"
 msgstr ""
 
+msgid "Word wrap"
+msgstr ""
+
 msgid "Words"
 msgstr "ಪದಗಳು"
 
 msgid "Work"
 msgstr "ಕೆಲಸ"
+
+msgid "Workspace"
+msgstr ""
 
 msgid "World"
 msgstr "ಪ್ರಪಂಚ"
@@ -9362,6 +9811,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "ವರ್ಷ"
+
+msgid "&Year"
+msgstr ""
 
 msgid "Yearly"
 msgstr ""
@@ -9422,6 +9874,9 @@ msgstr ""
 
 msgid "_Zoom"
 msgstr "ಗಾತ್ರ ಬದಲಾಯಿಸು(_Z)"
+
+msgid "Zoom factor"
+msgstr ""
 
 msgid "Zoom In"
 msgstr "ಹಿಗ್ಗಿಸು"

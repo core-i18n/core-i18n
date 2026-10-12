@@ -82,9 +82,6 @@ msgstr " dan"
 msgid " (default)"
 msgstr ""
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "Fail bernama \"%1\" telah wujud. Anda pasti ingin tulis semula?"
 
@@ -355,16 +355,19 @@ msgstr "_Perihal"
 msgid "About %1"
 msgstr "Perihal %1"
 
-msgid "About KDE"
-msgstr "Perihal KDE"
-
 msgid "Abstract"
 msgstr "Abstrak"
+
+msgid "Acceleration"
+msgstr ""
 
 msgid "Accept"
 msgstr "Terima"
 
 msgid "Accepted"
+msgstr ""
+
+msgid "Access"
 msgstr ""
 
 msgid "Accessed"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "Mengikut Abjad"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Alternatif"
+
 msgid "Alternative"
 msgstr "Alternatif"
 
@@ -712,8 +721,14 @@ msgstr "Catatan"
 msgid "Anonymous"
 msgstr "Awanama"
 
+msgid "Answer"
+msgstr "Jawapan"
+
 msgid "Antarctica"
 msgstr "Antartika"
+
+msgid "Antialiasing"
+msgstr "Antialias"
 
 msgid "Any"
 msgstr "Sebarang"
@@ -883,6 +898,9 @@ msgstr ""
 msgid "Author"
 msgstr "Pengarang"
 
+msgid "Author name"
+msgstr ""
+
 msgid "Authors"
 msgstr ""
 
@@ -928,6 +946,9 @@ msgstr ""
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr ""
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "Kem&bali"
 msgid "_Back"
 msgstr "_Undur"
 
+msgid "Backend"
+msgstr ""
+
 msgid "Background"
 msgstr "Latar Belakang"
+
+msgid "&Background"
+msgstr "&Latar Belakang"
 
 msgid "Background Color"
 msgstr "Warna Latar Belakang"
@@ -951,6 +978,9 @@ msgstr "Warna latar belakang"
 
 msgid "&Background color"
 msgstr "Warna &latar belakang"
+
+msgid "Background image"
+msgstr "Imej latar belakang"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr ""
 
 msgid "Baltic"
 msgstr "Baltik"
+
+msgid "Bandwidth"
+msgstr ""
 
 msgid "Bangladesh"
 msgstr "Bangladesh"
@@ -998,6 +1031,9 @@ msgid "Bass"
 msgstr "Bass"
 
 msgid "Battery"
+msgstr ""
+
+msgid "BCC"
 msgstr ""
 
 msgid "Bcc"
@@ -1156,23 +1192,8 @@ msgstr "Cabang"
 msgid "Brazil"
 msgstr "Brazil"
 
-msgid "Breeze"
-msgstr ""
-
-msgid "Breeze by the KDE VDG"
-msgstr ""
-
-msgid "Breeze Dark"
-msgstr ""
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr ""
-
 msgid "Breton"
 msgstr "Breton"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "Jambatan"
@@ -1309,18 +1330,6 @@ msgstr "B&atalkan"
 msgid "Canceled"
 msgstr ""
 
-msgid "Cancelled"
-msgstr "Dibatalkan"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr ""
 
@@ -1339,14 +1348,14 @@ msgstr "Huruf Besarkan"
 msgid "Caps Lock is on"
 msgstr ""
 
+msgid "Caption"
+msgstr "Kapsyen"
+
 msgid "Capture"
 msgstr "Cekup"
 
 msgid "Car"
 msgstr "Kereta"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascade"
@@ -1435,6 +1444,9 @@ msgstr "Ubah..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "Saluran"
 
@@ -1452,6 +1464,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Aksara"
+
+msgid "Character set"
+msgstr ""
 
 msgid "Characters"
 msgstr ""
@@ -1684,6 +1699,9 @@ msgstr ""
 msgid "Color Space"
 msgstr ""
 
+msgid "Color space"
+msgstr ""
+
 msgid "Color theme"
 msgstr ""
 
@@ -1705,14 +1723,8 @@ msgstr "Lajur"
 msgid "Comma"
 msgstr "Koma"
 
-msgid "COMMAND"
-msgstr "PERINTAH"
-
 msgid "Command"
 msgstr "Arahan"
-
-msgid "command"
-msgstr ""
 
 msgid "Command Line"
 msgstr "Arahan Baris"
@@ -1726,6 +1738,9 @@ msgstr ""
 msgid "Comment"
 msgstr "Komen"
 
+msgid "comment"
+msgstr "ulasan"
+
 msgid "Comments"
 msgstr ""
 
@@ -1735,11 +1750,17 @@ msgstr "Keterikatan"
 msgid "Common"
 msgstr "Biasa"
 
+msgid "Common Name"
+msgstr "Nama Biasa"
+
 msgid "Comoros"
 msgstr "Comoros"
 
 msgid "Compact"
 msgstr "Padat"
+
+msgid "Company"
+msgstr "Syarikat"
 
 msgid "Compare"
 msgstr ""
@@ -1777,6 +1798,9 @@ msgstr "Komputer"
 msgid "Condition"
 msgstr "Keadaan"
 
+msgid "Conditions"
+msgstr "Keadaan"
+
 msgid "Confidential"
 msgstr ""
 
@@ -1807,6 +1831,9 @@ msgstr ""
 msgid "Confirm"
 msgstr "Pasti"
 
+msgid "Confirm Password"
+msgstr ""
+
 msgid "Confirmation"
 msgstr "Pengesahan"
 
@@ -1818,6 +1845,9 @@ msgstr ""
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflik dengan Piawaian Kekunci Pintas Aplikasi"
+
+msgid "Conflicts"
+msgstr ""
 
 msgid "Connect"
 msgstr "Sambung"
@@ -1843,6 +1873,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr ""
 
+msgid "Connection type"
+msgstr "Jenis sambungan"
+
 msgid "Connections"
 msgstr ""
 
@@ -1850,9 +1883,6 @@ msgid "Console"
 msgstr ""
 
 msgid "Constant"
-msgstr ""
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
 msgstr ""
 
 msgid "Contact"
@@ -1867,14 +1897,14 @@ msgstr "Kontena"
 msgid "Contains"
 msgstr "Mengandungi"
 
-msgid "contains"
-msgstr "mengandungi"
-
 msgid "Content"
 msgstr "Kandungan"
 
 msgid "Content Type"
 msgstr ""
+
+msgid "Content type"
+msgstr "Jenis kandungan"
 
 msgid "Contents"
 msgstr "Kandungan"
@@ -1897,11 +1927,17 @@ msgstr "Kontras"
 msgid "Contributor"
 msgstr "Penyumbang"
 
+msgid "Contributors"
+msgstr "Penyumbang"
+
 msgid "Control"
 msgstr "Kawalan"
 
 msgid "Convert"
 msgstr "Tukar"
+
+msgid "Convert to"
+msgstr ""
 
 msgid "Convert to Path"
 msgstr ""
@@ -1920,9 +1956,6 @@ msgstr ""
 
 msgid "Copy"
 msgstr "Salin"
-
-msgid "copy"
-msgstr "salin"
 
 msgid "&Copy"
 msgstr "&Salin"
@@ -1975,6 +2008,9 @@ msgstr "Menyalin fail"
 msgid "Copyright"
 msgstr "Hak Cipta"
 
+msgid "Correct"
+msgstr ""
+
 msgid "Cost"
 msgstr "Kos"
 
@@ -1998,6 +2034,9 @@ msgstr "Negara"
 
 msgid "CPU"
 msgstr ""
+
+msgid "CPU usage"
+msgstr "Penggunaan CPU"
 
 msgid "Create"
 msgstr "Cipta"
@@ -2024,6 +2063,9 @@ msgid "Creator"
 msgstr "Pencipta"
 
 msgid "Credentials"
+msgstr ""
+
+msgid "Credit"
 msgstr ""
 
 msgid "Credits"
@@ -2053,15 +2095,6 @@ msgstr "Silang"
 msgid "CSV"
 msgstr ""
 
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
-msgstr ""
-
 msgid "Cuba"
 msgstr "Cuba"
 
@@ -2089,7 +2122,13 @@ msgstr "Lengkung"
 msgid "Custom"
 msgstr "Tersendiri"
 
+msgid "&Custom"
+msgstr "&Biasa"
+
 msgid "Custom..."
+msgstr ""
+
+msgid "Custom color"
 msgstr ""
 
 msgid "Custom Font"
@@ -2164,6 +2203,9 @@ msgstr "Data"
 msgid "Database"
 msgstr "Pangkalan Data"
 
+msgid "Database name"
+msgstr ""
+
 msgid "Date"
 msgstr "Tarikh"
 
@@ -2179,14 +2221,20 @@ msgstr "Tarikh dan Masa"
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr ""
+
 msgid "Date Modified"
 msgstr ""
 
-msgid "David Edmundson"
-msgstr ""
+msgid "Date/Time"
+msgstr "Tarikh/Masa"
 
 msgid "Day"
 msgstr "Hari"
+
+msgid "day"
+msgstr "hari"
 
 msgid "Days"
 msgstr "Hari "
@@ -2235,6 +2283,9 @@ msgstr "Lalai"
 
 msgid "default"
 msgstr "piawai"
+
+msgid "Default value"
+msgstr "Nilai lalai"
 
 msgid "Defaults"
 msgstr ""
@@ -2311,6 +2362,9 @@ msgstr ""
 msgid "Deny"
 msgstr "Halang"
 
+msgid "Department"
+msgstr ""
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2343,6 +2397,12 @@ msgstr "Desktop"
 
 msgid "Destination"
 msgstr "Destinasi"
+
+msgid "Destination Folder"
+msgstr ""
+
+msgid "Destination folder"
+msgstr ""
 
 msgid "Detach"
 msgstr "Leraikan"
@@ -2515,6 +2575,9 @@ msgstr ""
 msgid "Distance"
 msgstr "Jarak"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "Bahagi"
 
@@ -2569,11 +2632,11 @@ msgstr "Dokumen"
 msgid "does not contain"
 msgstr ""
 
-msgid "Dolphin"
-msgstr ""
-
 msgid "Domain"
 msgstr ""
+
+msgid "_Domain"
+msgstr "_Domain"
 
 msgid "Dominica"
 msgstr "Dominica"
@@ -2677,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr ""
+
 msgid "E"
 msgstr "E"
 
@@ -2728,6 +2794,9 @@ msgstr ""
 msgid "Editing"
 msgstr "Mengedit"
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "Editor"
 
@@ -2743,9 +2812,6 @@ msgstr "Mesir"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr ""
-
 msgid "Eject"
 msgstr "Eject"
 
@@ -2755,17 +2821,29 @@ msgstr "_Lenting"
 msgid "El Salvador"
 msgstr "El Salvador"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr "Elektronik"
 
 msgid "Element"
 msgstr ""
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "Elips"
 
+msgid "EMail"
+msgstr ""
+
 msgid "Email"
 msgstr "Email"
+
+msgid "E-Mail"
+msgstr "E-Mel"
 
 msgid "E-mail"
 msgstr "E-mel"
@@ -2845,6 +2923,9 @@ msgstr "akhir"
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr "Tarikh tamat"
+
 msgid "End Time"
 msgstr ""
 
@@ -2866,8 +2947,14 @@ msgstr "Inggeris"
 msgid "Enter"
 msgstr "Masuk"
 
+msgid "Enter name"
+msgstr "Masukkan nama"
+
 msgid "Enter password"
 msgstr ""
+
+msgid "Entries"
+msgstr "Masukan"
 
 msgid "Entry"
 msgstr ""
@@ -2941,6 +3028,9 @@ msgstr ""
 msgid "Events"
 msgstr "Acara"
 
+msgid "Every"
+msgstr ""
+
 msgid "Everyone"
 msgstr ""
 
@@ -2957,6 +3047,9 @@ msgid "Examples"
 msgstr ""
 
 msgid "Exception"
+msgstr ""
+
+msgid "Exceptions"
 msgstr ""
 
 msgid "Exclude"
@@ -2992,11 +3085,17 @@ msgstr "Kembangkan Semua"
 msgid "Experimental"
 msgstr ""
 
+msgid "Expiration"
+msgstr "Peluputan"
+
 msgid "Expired"
 msgstr "Luput"
 
 msgid "Expires"
 msgstr "Luput"
+
+msgid "Expires On"
+msgstr ""
 
 msgid "Export"
 msgstr "Eksport"
@@ -3031,6 +3130,9 @@ msgstr "Opsyen Eksport"
 msgid "Exposure"
 msgstr "Dedahan"
 
+msgid "Exposure Time"
+msgstr "Masa Dedahan"
+
 msgid "Expression"
 msgstr "Ungkapan"
 
@@ -3050,6 +3152,9 @@ msgid "Extract"
 msgstr "Ekstrak"
 
 msgid "F"
+msgstr ""
+
+msgid "Fabric"
 msgstr ""
 
 msgid "Facebook"
@@ -3109,6 +3214,12 @@ msgstr ""
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr "Medan"
+
+msgid "Fields"
+msgstr "Medan"
+
 msgid "Fiji"
 msgstr "Fiji"
 
@@ -3141,6 +3252,9 @@ msgstr "Fail Wujud"
 
 msgid "File Format"
 msgstr "Format Fail"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3201,6 +3315,9 @@ msgstr ""
 
 msgid "Filter"
 msgstr "Penapis"
+
+msgid "&Filter"
+msgstr ""
 
 msgid "Filter..."
 msgstr ""
@@ -3265,6 +3382,9 @@ msgstr "Finnish"
 msgid "First"
 msgstr "Pertama"
 
+msgid "First Name"
+msgstr ""
+
 msgid "First Page"
 msgstr "Halaman Pertama"
 
@@ -3325,6 +3445,9 @@ msgstr ""
 msgid "Focal Length"
 msgstr "Jarak Fokus"
 
+msgid "Focal length"
+msgstr ""
+
 msgid "Focus"
 msgstr ""
 
@@ -3346,6 +3469,9 @@ msgstr "Font"
 msgid "&Font"
 msgstr "&Font"
 
+msgid "_Font"
+msgstr "_Font"
+
 msgid "Font Color"
 msgstr ""
 
@@ -3357,6 +3483,12 @@ msgstr "Saiz Font"
 
 msgid "Font size"
 msgstr "Saiz fon"
+
+msgid "Font Style"
+msgstr "Gaya Fon"
+
+msgid "Font style"
+msgstr "Gaya font"
 
 msgid "Fonts"
 msgstr "Fon"
@@ -3394,6 +3526,12 @@ msgstr "Borang"
 msgid "Format"
 msgstr "Format"
 
+msgid "&Format"
+msgstr "&Format"
+
+msgid "_Format"
+msgstr "_Format"
+
 msgid "Formatting"
 msgstr "Memformat"
 
@@ -3420,6 +3558,12 @@ msgstr "Pecahan"
 
 msgid "Frame"
 msgstr "Bingkai"
+
+msgid "Frame Rate"
+msgstr ""
+
+msgid "Frame rate"
+msgstr ""
 
 msgid "Framerate"
 msgstr ""
@@ -3465,6 +3609,9 @@ msgstr "Penuh"
 
 msgid "Full Name"
 msgstr "Nama Penuh"
+
+msgid "Full name"
+msgstr ""
 
 msgid "Full Screen"
 msgstr "Skrin Penuh"
@@ -3531,6 +3678,9 @@ msgstr ""
 
 msgid "Gateway"
 msgstr "Get laluan"
+
+msgid "_Gateway"
+msgstr ""
 
 msgid "Gaussian Blur"
 msgstr "Gauss Kabur"
@@ -3652,6 +3802,9 @@ msgstr "Pergi ke halaman terdahulu"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr ""
+
 msgid "Gold"
 msgstr ""
 
@@ -3706,6 +3859,9 @@ msgstr ""
 msgid "Grid"
 msgstr "Grid"
 
+msgid "&Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Kumpulan"
 
@@ -3751,6 +3907,9 @@ msgstr ""
 msgid "Hardware"
 msgstr "Perkakasan"
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr "Hawaiian"
 
@@ -3792,6 +3951,9 @@ msgstr "Tinggi"
 
 msgid "&Height"
 msgstr "&Tinggi"
+
+msgid "_Height"
+msgstr "_Tinggi"
 
 msgid "Help"
 msgstr "Bantuan"
@@ -3837,6 +3999,9 @@ msgstr "Tinggi"
 
 msgid "Highlight"
 msgstr "Sorot"
+
+msgid "Highlight color"
+msgstr ""
 
 msgid "Highlighter"
 msgstr ""
@@ -3889,8 +4054,17 @@ msgstr "Hong Kong"
 msgid "Horizontal"
 msgstr "Mengufuk"
 
+msgid "_Horizontal"
+msgstr "_Mengufuk"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "Hos"
+
+msgid "Host Name"
+msgstr ""
 
 msgid "Hostname"
 msgstr "Nama Hos"
@@ -3970,6 +4144,9 @@ msgstr ""
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr "Pengenalan"
 
@@ -4023,6 +4200,12 @@ msgstr "Seting Imej"
 
 msgid "Image Size"
 msgstr "Saiz Imej"
+
+msgid "Image size"
+msgstr ""
+
+msgid "Image type"
+msgstr "Jenis imej"
 
 msgid "Image Viewer"
 msgstr "Pelihat Imej"
@@ -4099,6 +4282,9 @@ msgstr "Tambahkan Inden"
 msgid "Increase Volume"
 msgstr ""
 
+msgid "Increment"
+msgstr "Kenaikkan"
+
 msgid "Incremental"
 msgstr "Tambahan"
 
@@ -4109,6 +4295,9 @@ msgid "Index"
 msgstr "Indeks"
 
 msgid "Indexed"
+msgstr ""
+
+msgid "Indexing"
 msgstr ""
 
 msgid "India"
@@ -4172,6 +4361,9 @@ msgid "Installing"
 msgstr "Memasang"
 
 msgid "Instant"
+msgstr ""
+
+msgid "Instructions"
 msgstr ""
 
 msgid "Integer"
@@ -4261,11 +4453,17 @@ msgstr "Irish"
 msgid "is"
 msgstr "ialah"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "Israel"
 
 msgid "Issued By"
 msgstr "Dikeluarkan Oleh"
+
+msgid "Issued On"
+msgstr ""
 
 msgid "Issuer"
 msgstr ""
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Kazakh"
 
@@ -4374,18 +4569,6 @@ msgstr "Kazakhstan"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr ""
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr ""
@@ -4450,26 +4633,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Korea"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Kuwait"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr ""
@@ -4488,6 +4656,9 @@ msgstr ""
 
 msgid "Language"
 msgstr "Bahasa"
+
+msgid "&Language"
+msgstr "&Bahasa"
 
 msgid "_Language"
 msgstr "_Bahasa"
@@ -4509,6 +4680,12 @@ msgstr "Akhir"
 
 msgid "Last Modified"
 msgstr "Terakhir Diubah Suai"
+
+msgid "Last modified"
+msgstr "Tarikh diubahsuai"
+
+msgid "Last Name"
+msgstr ""
 
 msgid "LaTeX"
 msgstr ""
@@ -4621,8 +4798,20 @@ msgstr "Hentian Baris"
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr ""
+
 msgid "Line Numbers"
 msgstr ""
+
+msgid "Line spacing"
+msgstr "Jarak baris"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "Gaya garisan"
 
 msgid "Line Width"
 msgstr ""
@@ -4641,6 +4830,9 @@ msgstr "Pautan"
 
 msgid "link"
 msgstr "pautan"
+
+msgid "Link Text"
+msgstr "Teks Pautan"
 
 msgid "Link URL"
 msgstr "URL pautan"
@@ -4740,6 +4932,9 @@ msgstr "Daftar Masuk"
 
 msgid "_Login"
 msgstr ""
+
+msgid "Logo"
+msgstr "Logo"
 
 msgid "Logout"
 msgstr ""
@@ -4936,6 +5131,9 @@ msgstr "Maksimakan"
 msgid "Maximum"
 msgstr "Maksima"
 
+msgid "Maximum width"
+msgstr ""
+
 msgid "May"
 msgstr "Mei"
 
@@ -4990,6 +5188,9 @@ msgstr "Mesej"
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr "&Mesej"
+
 msgid "Messages"
 msgstr ""
 
@@ -5001,6 +5202,9 @@ msgstr "Data Meta"
 
 msgid "Metal"
 msgstr "Metal"
+
+msgid "Metering Mode"
+msgstr "Mod Bermeter"
 
 msgid "meters"
 msgstr "meter"
@@ -5040,6 +5244,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "milisaat"
+
+msgid "MIME type"
+msgstr ""
 
 msgid "Min"
 msgstr "Min"
@@ -5086,8 +5293,14 @@ msgstr ""
 msgid "Mobile"
 msgstr "Mobile"
 
+msgid "Mobile Phone"
+msgstr "Telefon Bimbit"
+
 msgid "Mode"
 msgstr "Mod"
+
+msgid "_Mode"
+msgstr ""
 
 msgid "Model"
 msgstr "Model"
@@ -5184,6 +5397,9 @@ msgstr "Maghribi"
 
 msgid "Mount"
 msgstr "Lekap"
+
+msgid "Mount Point"
+msgstr "Titik Lekap"
 
 msgid "Mount point"
 msgstr ""
@@ -5323,6 +5539,9 @@ msgstr "_Nama"
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr ""
+
 msgid "Namespace"
 msgstr ""
 
@@ -5352,6 +5571,9 @@ msgstr "Nepali"
 
 msgid "Netherlands"
 msgstr "Belanda"
+
+msgid "Netmask"
+msgstr "Netmask"
 
 msgid "Network"
 msgstr "Rangkaian"
@@ -5563,6 +5785,9 @@ msgstr "Tiada Subjek"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "Nod"
+
 msgid "Noise"
 msgstr "Hingar"
 
@@ -5689,6 +5914,9 @@ msgstr "nombor"
 msgid "Number of columns"
 msgstr ""
 
+msgid "Number of rows"
+msgstr ""
+
 msgid "Numbers"
 msgstr "Nombor"
 
@@ -5745,9 +5973,6 @@ msgstr ""
 
 msgid "_OK"
 msgstr "_OK"
-
-msgid "Okular"
-msgstr ""
 
 msgid "Oman"
 msgstr "Oman"
@@ -5899,6 +6124,9 @@ msgstr ""
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr ""
+
 msgid "Operation"
 msgstr "Operasi"
 
@@ -5909,6 +6137,9 @@ msgid "Operations"
 msgstr "Operasi"
 
 msgid "Operator"
+msgstr ""
+
+msgid "Operators"
 msgstr ""
 
 msgid "Optical Character Recognition"
@@ -5968,6 +6199,9 @@ msgstr ""
 msgid "Oriya"
 msgstr "Oriya"
 
+msgid "OS"
+msgstr "Sistem Pengendali"
+
 msgid "Other"
 msgstr "Lain-lain"
 
@@ -5982,6 +6216,9 @@ msgstr ""
 
 msgid "Other Options"
 msgstr "Opsyen Lain"
+
+msgid "Other options"
+msgstr ""
 
 msgid "Others"
 msgstr "Lain-lain"
@@ -6124,6 +6361,9 @@ msgstr "Parent"
 msgid "Partition"
 msgstr "Sekatan"
 
+msgid "Passphrase"
+msgstr "Frasa laluan"
+
 msgid "Password"
 msgstr "Kata Laluan"
 
@@ -6162,6 +6402,9 @@ msgstr "Laluan"
 
 msgid "Pattern"
 msgstr "Corak"
+
+msgid "_Pattern"
+msgstr "_Corak"
 
 msgid "Patterns"
 msgstr "Corak"
@@ -6247,7 +6490,13 @@ msgstr "Filipina"
 msgid "Phone"
 msgstr "Telefon"
 
+msgid "Phone Numbers"
+msgstr ""
+
 msgid "Photo"
+msgstr "Foto"
+
+msgid "Photos"
 msgstr "Foto"
 
 msgid "PHP Documentation"
@@ -6270,6 +6519,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "Pai"
+
+msgid "PIN"
+msgstr ""
 
 msgid "Pin"
 msgstr ""
@@ -6298,9 +6550,6 @@ msgstr ""
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Platform"
 
@@ -6319,8 +6568,14 @@ msgstr "Main Balik"
 msgid "Player"
 msgstr ""
 
+msgid "Player 1"
+msgstr "Pemain 1"
+
 msgid "Player %1"
 msgstr "Pemain %1"
+
+msgid "Player 2"
+msgstr "Pemain 2"
 
 msgid "Players"
 msgstr ""
@@ -6400,6 +6655,9 @@ msgstr "Port"
 msgid "&Port"
 msgstr "&Port"
 
+msgid "_Port"
+msgstr ""
+
 msgid "Portrait"
 msgstr "Potret"
 
@@ -6411,6 +6669,9 @@ msgstr "Portugis"
 
 msgid "Position"
 msgstr "Kedudukan"
+
+msgid "Postal code"
+msgstr "Poskod"
 
 msgid "Posterize"
 msgstr "Memposterkan"
@@ -6453,6 +6714,9 @@ msgstr "Pralihat"
 
 msgid "&Preview"
 msgstr "&Pralihat"
+
+msgid "_Preview"
+msgstr "_Pralihat"
 
 msgid "Previews"
 msgstr "Pralihat"
@@ -6535,6 +6799,9 @@ msgstr "Kerahsiaan"
 msgid "Private"
 msgstr "Persendirian"
 
+msgid "Private Key"
+msgstr "Kunci Persendirian"
+
 msgid "Process"
 msgstr "Proses"
 
@@ -6562,6 +6829,9 @@ msgstr "Profil"
 msgid "Program"
 msgstr ""
 
+msgid "Programs"
+msgstr "Program"
+
 msgid "Progress"
 msgstr "Kemajuan"
 
@@ -6569,6 +6839,9 @@ msgid "Project"
 msgstr ""
 
 msgid "&Project"
+msgstr ""
+
+msgid "Project name"
 msgstr ""
 
 msgid "Projects"
@@ -6643,6 +6916,9 @@ msgstr ""
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "Qatar"
 
@@ -6696,6 +6972,9 @@ msgstr "Keluar aplikasi"
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr "Petikan"
+
 msgid "R"
 msgstr "R"
 
@@ -6726,6 +7005,9 @@ msgstr "Kadar"
 msgid "Rating"
 msgstr "Kadaran"
 
+msgid "Ratio"
+msgstr "Nisbah"
+
 msgid "Raw"
 msgstr ""
 
@@ -6753,11 +7035,17 @@ msgstr "Sedia"
 msgid "Ready."
 msgstr "Sedia."
 
+msgid "Realm"
+msgstr ""
+
 msgid "Reason"
 msgstr "Alasan"
 
 msgid "Reassign"
 msgstr "Tetap Semula"
+
+msgid "Received"
+msgstr ""
 
 msgid "Recent"
 msgstr "Baru-baru Ini"
@@ -6779,6 +7067,9 @@ msgstr ""
 
 msgid "Rectangle"
 msgstr "Segiempat tepat"
+
+msgid "Recurrence"
+msgstr ""
 
 msgid "Recursive"
 msgstr "Rekursif"
@@ -6909,6 +7200,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Mengeluarkan"
+
 msgid "Rename"
 msgstr "Tukarnama"
 
@@ -6928,6 +7222,9 @@ msgid "Rename Bookmark"
 msgstr "Namakan Semula Penanda Buku"
 
 msgid "Rename File"
+msgstr ""
+
+msgid "Rendering intent"
 msgstr ""
 
 msgid "Repeat"
@@ -6951,11 +7248,20 @@ msgstr "Ganti Semu_a"
 msgid "Replace an existing instance"
 msgstr ""
 
+msgid "Replace With"
+msgstr "Ganti Dengan"
+
+msgid "Replace with"
+msgstr "Gantikan dengan"
+
 msgid "Replacement"
 msgstr "Penggantian"
 
 msgid "Reply"
 msgstr "Jawap"
+
+msgid "Reply-To"
+msgstr "Balas-Kpd"
 
 msgid "Report"
 msgstr "Laporan"
@@ -6973,6 +7279,9 @@ msgid "&Report Bug..."
 msgstr ""
 
 msgid "Reports"
+msgstr ""
+
+msgid "Repository"
 msgstr ""
 
 msgid "Required"
@@ -7086,6 +7395,9 @@ msgstr "Kanan ke Kiri"
 msgid "Right-click"
 msgstr ""
 
+msgid "Rights"
+msgstr ""
+
 msgid "River"
 msgstr ""
 
@@ -7140,6 +7452,9 @@ msgstr "baris"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
@@ -7147,6 +7462,9 @@ msgid "Run"
 msgstr ""
 
 msgid "&Run"
+msgstr ""
+
+msgid "Run command"
 msgstr ""
 
 msgid "Run in terminal"
@@ -7284,6 +7602,9 @@ msgstr "Simpan Imej"
 msgid "_Save Image As..."
 msgstr "_Simpan Imej Sebagai..."
 
+msgid "Save Location"
+msgstr ""
+
 msgid "Save Project"
 msgstr ""
 
@@ -7291,6 +7612,9 @@ msgid "Save Session"
 msgstr ""
 
 msgid "Save Settings"
+msgstr ""
+
+msgid "Save to"
 msgstr ""
 
 msgid "Saved"
@@ -7323,11 +7647,17 @@ msgstr ""
 msgid "Scanner"
 msgstr "Pengimbas"
 
+msgid "Scanning"
+msgstr ""
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
 msgstr "Jadual"
+
+msgid "Scheduler"
+msgstr ""
 
 msgid "Scheduling"
 msgstr ""
@@ -7404,10 +7734,16 @@ msgstr ""
 msgid "Search Bar"
 msgstr "Bar Cari"
 
+msgid "Search for"
+msgstr "Mencari"
+
 msgid "_Search for"
 msgstr "_Cari "
 
 msgid "Search for '%1' with"
+msgstr ""
+
+msgid "Search in"
 msgstr ""
 
 msgid "Search Options"
@@ -7512,6 +7848,9 @@ msgstr "Pemilihan"
 msgid "Selections"
 msgstr ""
 
+msgid "Self"
+msgstr ""
+
 msgid "Semicolon"
 msgstr "Koma Bertitik"
 
@@ -7551,6 +7890,9 @@ msgstr "Serbia"
 msgid "Serbian"
 msgstr "Serbia"
 
+msgid "Serial"
+msgstr "Bersiri"
+
 msgid "Serial Number"
 msgstr "Nombor Siri"
 
@@ -7566,8 +7908,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "Pelayan"
 
+msgid "&Server"
+msgstr ""
+
 msgid "Server URL"
 msgstr "URL Pelayan"
+
+msgid "Servers"
+msgstr "Pelayan"
 
 msgid "Service"
 msgstr ""
@@ -7579,6 +7927,9 @@ msgid "Session"
 msgstr "Sesi"
 
 msgid "Session management options"
+msgstr ""
+
+msgid "Session name"
 msgstr ""
 
 msgid "Sessions"
@@ -7610,6 +7961,12 @@ msgstr ""
 
 msgid "Seychelles"
 msgstr "Seychelles"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr ""
@@ -7649,6 +8006,12 @@ msgstr ""
 
 msgid "Shear"
 msgstr "Ricih"
+
+msgid "Sheet"
+msgstr "Helaian"
+
+msgid "Sheets"
+msgstr "Helaian"
 
 msgid "Shell"
 msgstr ""
@@ -7770,6 +8133,9 @@ msgstr "Tunggal"
 msgid "Sinhala"
 msgstr "Sinhala"
 
+msgid "Site"
+msgstr "Laman Web"
+
 msgid "Size"
 msgstr "Saiz"
 
@@ -7778,6 +8144,9 @@ msgstr "saiz"
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "_Saiz"
 
 msgid "Size: %1"
 msgstr ""
@@ -7805,6 +8174,9 @@ msgstr "Pelungsur"
 
 msgid "Slideshow"
 msgstr "Paparan slaid"
+
+msgid "Slope"
+msgstr ""
 
 msgid "Slovak"
 msgstr "Slovak"
@@ -7860,6 +8232,12 @@ msgstr "Warna tegar"
 msgid "Solomon Islands"
 msgstr "Kepulauan Solomon"
 
+msgid "Solution"
+msgstr ""
+
+msgid "Solve"
+msgstr "Selsai"
+
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -7876,6 +8254,9 @@ msgid "Sorting"
 msgstr "Isihan"
 
 msgid "Sound"
+msgstr "Bunyi"
+
+msgid "Sounds"
 msgstr "Bunyi"
 
 msgid "Soundtrack"
@@ -7946,6 +8327,9 @@ msgstr "Semak Ejaan"
 
 msgid "Spell Checking"
 msgstr "Periksa Ejaan"
+
+msgid "Spellcheck"
+msgstr "Periksa ejaan"
 
 msgid "Spelling"
 msgstr "Ejaan"
@@ -8184,6 +8568,9 @@ msgstr "Sundanese"
 msgid "Sunday"
 msgstr ""
 
+msgid "Sunrise"
+msgstr "Matahari Terbit"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8239,6 +8626,9 @@ msgid "Synchronization"
 msgstr ""
 
 msgid "Synchronize"
+msgstr ""
+
+msgid "Syntax"
 msgstr ""
 
 msgid "Syriac"
@@ -8303,6 +8693,9 @@ msgstr "Republik Bersatu Tanzania"
 
 msgid "Target"
 msgstr "Sasaran"
+
+msgid "Targets"
+msgstr ""
 
 msgid "Task"
 msgstr "Tugas"
@@ -8417,6 +8810,9 @@ msgstr ""
 msgid "Theme"
 msgstr "Tema"
 
+msgid "&Theme"
+msgstr ""
+
 msgid "Themes"
 msgstr "Tema"
 
@@ -8434,6 +8830,9 @@ msgid ""
 msgstr ""
 
 msgid "Thomas Zander"
+msgstr ""
+
+msgid "Threads"
 msgstr ""
 
 msgid "Threshold"
@@ -8462,6 +8861,9 @@ msgstr ""
 
 msgid "Tiled"
 msgstr "Dijubinkan"
+
+msgid "Tiles"
+msgstr "Jubin"
 
 msgid "Tilt"
 msgstr ""
@@ -8511,6 +8913,9 @@ msgstr "&Tajuk"
 msgid "_Title"
 msgstr "_Tajuk"
 
+msgid "Titles"
+msgstr "Tajuk"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8533,6 +8938,9 @@ msgid "TODO"
 msgstr ""
 
 msgid "Todo"
+msgstr ""
+
+msgid "To-do"
 msgstr ""
 
 msgid "Toggle Fullscreen"
@@ -8565,6 +8973,9 @@ msgstr ""
 msgid "Tool Options"
 msgstr "Opsyen Alat"
 
+msgid "Toolbar"
+msgstr "Bar Alat"
+
 msgid "_Toolbar"
 msgstr "Palang Ala_t"
 
@@ -8585,6 +8996,9 @@ msgstr "Ala&tan"
 
 msgid "_Tools"
 msgstr "_Alatan"
+
+msgid "Tooltip"
+msgstr ""
 
 msgid "Top"
 msgstr "Atas"
@@ -8738,11 +9152,17 @@ msgstr ""
 msgid "&Type"
 msgstr ""
 
+msgid "_Type"
+msgstr "_Jenis"
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "Uganda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ukraine"
@@ -8975,6 +9395,9 @@ msgstr "Digunakan"
 msgid "User"
 msgstr "Pengguna"
 
+msgid "User Agent"
+msgstr ""
+
 msgid "User Certificate"
 msgstr ""
 
@@ -8999,11 +9422,17 @@ msgstr ""
 msgid "Username"
 msgstr "Nama Pengguna"
 
+msgid "&Username"
+msgstr "&Nama pengguna"
+
 msgid "_Username"
 msgstr "Nama Pengg_una"
 
 msgid "Users"
 msgstr ""
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Utiliti"
@@ -9024,6 +9453,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9058,6 +9490,9 @@ msgstr "Pembolehubah"
 msgid "Variance"
 msgstr "Varians"
 
+msgid "Variant"
+msgstr "Varian"
+
 msgid "Vector"
 msgstr ""
 
@@ -9084,6 +9519,9 @@ msgstr ""
 
 msgid "Vertical"
 msgstr "Menegak"
+
+msgid "_Vertical"
+msgstr "_Menegak"
 
 msgid "Very Large"
 msgstr "Sangat Besar"
@@ -9117,6 +9555,9 @@ msgstr "&Lihat"
 
 msgid "_View"
 msgstr "_Lihat"
+
+msgid "View mode"
+msgstr "Mod papar"
 
 msgid "View Options"
 msgstr ""
@@ -9277,6 +9718,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr ""
 
+msgid "Wind"
+msgstr "Angin"
+
 msgid "Window"
 msgstr "Tetingkap"
 
@@ -9319,10 +9763,16 @@ msgstr "Perkataan"
 msgid "Word Count"
 msgstr ""
 
+msgid "Word wrap"
+msgstr ""
+
 msgid "Words"
 msgstr "Perkataan"
 
 msgid "Work"
+msgstr ""
+
+msgid "Workspace"
 msgstr ""
 
 msgid "World"
@@ -9363,6 +9813,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Tahun"
+
+msgid "&Year"
+msgstr "&Tahun"
 
 msgid "Yearly"
 msgstr ""
@@ -9423,6 +9876,9 @@ msgstr ""
 
 msgid "_Zoom"
 msgstr "_Zoom"
+
+msgid "Zoom factor"
+msgstr "Faktor zum"
 
 msgid "Zoom In"
 msgstr "Zoom Masuk"

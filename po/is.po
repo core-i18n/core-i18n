@@ -82,9 +82,6 @@ msgstr " og "
 msgid " (default)"
 msgstr " (sjálfgefið)"
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Skrá með nafninu \"%1\" er þegar til. Ertu viss um að þú viljir skrifa yfir "
@@ -357,17 +357,20 @@ msgstr "_Um hugbúnaðinn"
 msgid "About %1"
 msgstr "Um %1"
 
-msgid "About KDE"
-msgstr "Um KDE"
-
 msgid "Abstract"
 msgstr "Útdráttur"
+
+msgid "Acceleration"
+msgstr "Hröðun"
 
 msgid "Accept"
 msgstr "Samþykkja"
 
 msgid "Accepted"
 msgstr "Samþykkt"
+
+msgid "Access"
+msgstr ""
 
 msgid "Accessed"
 msgstr "Opnað"
@@ -385,6 +388,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -639,6 +645,9 @@ msgstr "Í stafrófsröð"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Vara"
+
 msgid "Alternative"
 msgstr "Alternative"
 
@@ -714,8 +723,14 @@ msgstr "Glósur"
 msgid "Anonymous"
 msgstr "Nafnlaust"
 
+msgid "Answer"
+msgstr ""
+
 msgid "Antarctica"
 msgstr "Suðurskautslandið"
+
+msgid "Antialiasing"
+msgstr "Afstöllun"
 
 msgid "Any"
 msgstr "Hvað sem er"
@@ -885,6 +900,9 @@ msgstr "Auðkenningar krafist"
 msgid "Author"
 msgstr "Höfundur"
 
+msgid "Author name"
+msgstr "Nafn höfundar"
+
 msgid "Authors"
 msgstr "Höfundar"
 
@@ -930,6 +948,9 @@ msgstr "Adzerbadjanska"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -942,8 +963,14 @@ msgstr "Til &baka"
 msgid "_Back"
 msgstr "_Til baka"
 
+msgid "Backend"
+msgstr "Bakendi"
+
 msgid "Background"
 msgstr "Bakgrunnur"
+
+msgid "&Background"
+msgstr "&Bakgrunnur"
 
 msgid "Background Color"
 msgstr "Bakgrunnslitur"
@@ -953,6 +980,9 @@ msgstr "Bakgrunnslitur"
 
 msgid "&Background color"
 msgstr "Litur &bakgrunns"
+
+msgid "Background image"
+msgstr "Bakgrunnsmynd"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -974,6 +1004,9 @@ msgstr "Jafnvægi"
 
 msgid "Baltic"
 msgstr "Balkneskt"
+
+msgid "Bandwidth"
+msgstr "Bandbreidd"
 
 msgid "Bangladesh"
 msgstr "Bangladess"
@@ -1001,6 +1034,9 @@ msgstr "Bass"
 
 msgid "Battery"
 msgstr "Rafhlaða"
+
+msgid "BCC"
+msgstr "Dulið afrit (Bcc)"
 
 msgid "Bcc"
 msgstr ""
@@ -1158,23 +1194,8 @@ msgstr ""
 msgid "Brazil"
 msgstr "Brasilía"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze frá KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Breeze dökkt"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze Dark frá KDE VDG"
-
 msgid "Breton"
 msgstr "Bretónska"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Brú"
@@ -1311,18 +1332,6 @@ msgstr "Hætt&a við"
 msgid "Canceled"
 msgstr "Hætt við"
 
-msgid "Cancelled"
-msgstr "Hætt við"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Myndflötur"
 
@@ -1341,14 +1350,14 @@ msgstr "Hástafa"
 msgid "Caps Lock is on"
 msgstr "Kveikt er á hástafalás (CapsLock)"
 
+msgid "Caption"
+msgstr "Skýringatexti"
+
 msgid "Capture"
 msgstr "Upptaka"
 
 msgid "Car"
 msgstr "Bíll"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Stafla"
@@ -1437,6 +1446,9 @@ msgstr "Breyta..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr "Breytingar"
+
 msgid "Channel"
 msgstr "Litrás"
 
@@ -1454,6 +1466,9 @@ msgstr "Kaflar"
 
 msgid "Character"
 msgstr "Stafur"
+
+msgid "Character set"
+msgstr ""
 
 msgid "Characters"
 msgstr "Stafir"
@@ -1686,6 +1701,9 @@ msgstr "Litastef"
 msgid "Color Space"
 msgstr "Litrýmd"
 
+msgid "Color space"
+msgstr "Litarýmd"
+
 msgid "Color theme"
 msgstr "Litastef"
 
@@ -1707,14 +1725,8 @@ msgstr "Dálkar"
 msgid "Comma"
 msgstr "Komma"
 
-msgid "COMMAND"
-msgstr "SKIPUN"
-
 msgid "Command"
 msgstr "Skipun"
-
-msgid "command"
-msgstr "skipun"
 
 msgid "Command Line"
 msgstr "Skipanalína"
@@ -1728,6 +1740,9 @@ msgstr "Skipanir"
 msgid "Comment"
 msgstr "Athugasemd"
 
+msgid "comment"
+msgstr "athugasemd"
+
 msgid "Comments"
 msgstr "Athugasemdir"
 
@@ -1737,11 +1752,17 @@ msgstr ""
 msgid "Common"
 msgstr "Algengt"
 
+msgid "Common Name"
+msgstr "Kjörnafn"
+
 msgid "Comoros"
 msgstr "Kómoreyjar"
 
 msgid "Compact"
 msgstr "Þétt"
+
+msgid "Company"
+msgstr "Fyrirtæki"
 
 msgid "Compare"
 msgstr "Bera saman"
@@ -1779,6 +1800,9 @@ msgstr "Tölva"
 msgid "Condition"
 msgstr "Skilyrði"
 
+msgid "Conditions"
+msgstr "Skilyrði"
+
 msgid "Confidential"
 msgstr "Trúnaðarmál"
 
@@ -1809,6 +1833,9 @@ msgstr "Grunnstilla vefflýtilykla..."
 msgid "Confirm"
 msgstr "Staðfesta"
 
+msgid "Confirm Password"
+msgstr "Staðfesta lykilorð"
+
 msgid "Confirmation"
 msgstr "Staðfesting"
 
@@ -1820,6 +1847,9 @@ msgstr "Staðfest"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Árekstur við staðlaða flýtilykla forrita"
+
+msgid "Conflicts"
+msgstr "Árekstrar"
 
 msgid "Connect"
 msgstr "Tengjast"
@@ -1845,6 +1875,9 @@ msgstr "Tenging mistókst"
 msgid "Connection Settings"
 msgstr ""
 
+msgid "Connection type"
+msgstr "Tegund tengingar"
+
 msgid "Connections"
 msgstr "Tengingar"
 
@@ -1853,9 +1886,6 @@ msgstr "Skipanagluggi"
 
 msgid "Constant"
 msgstr "Fasti"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "Tengiliður"
@@ -1869,14 +1899,14 @@ msgstr ""
 msgid "Contains"
 msgstr "Inniheldur"
 
-msgid "contains"
-msgstr "inniheldur"
-
 msgid "Content"
 msgstr "Efni"
 
 msgid "Content Type"
 msgstr "Gerð efnis"
+
+msgid "Content type"
+msgstr "Tegund efnis"
 
 msgid "Contents"
 msgstr "Innihald"
@@ -1899,11 +1929,17 @@ msgstr "Birtuskil"
 msgid "Contributor"
 msgstr "Framlög frá"
 
+msgid "Contributors"
+msgstr "Framlög"
+
 msgid "Control"
 msgstr "Control"
 
 msgid "Convert"
 msgstr "Umbreyta"
+
+msgid "Convert to"
+msgstr "Umbreyta í"
 
 msgid "Convert to Path"
 msgstr "Umbreyta í línuteikningu"
@@ -1922,9 +1958,6 @@ msgstr "Koptískt"
 
 msgid "Copy"
 msgstr "Afrita"
-
-msgid "copy"
-msgstr "afrit"
 
 msgid "&Copy"
 msgstr "&Afrita"
@@ -1977,6 +2010,9 @@ msgstr "Afrita skrár"
 msgid "Copyright"
 msgstr "Höfundarréttur"
 
+msgid "Correct"
+msgstr "Leiðrétta"
+
 msgid "Cost"
 msgstr ""
 
@@ -2000,6 +2036,9 @@ msgstr "Land"
 
 msgid "CPU"
 msgstr "Örgjörvi"
+
+msgid "CPU usage"
+msgstr "Örgjörvanotkun"
 
 msgid "Create"
 msgstr "Búa til"
@@ -2028,6 +2067,9 @@ msgstr "Höfundur"
 msgid "Credentials"
 msgstr "Skilríki"
 
+msgid "Credit"
+msgstr "Þakkir fá"
+
 msgid "Credits"
 msgstr "Þátttakendur"
 
@@ -2054,15 +2096,6 @@ msgstr "Kross"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+O"
 
 msgid "Cuba"
 msgstr "Kúba"
@@ -2091,8 +2124,14 @@ msgstr "Litferlar"
 msgid "Custom"
 msgstr "Sérsniðið"
 
+msgid "&Custom"
+msgstr "Sérsniðið"
+
 msgid "Custom..."
 msgstr "Sérsniðið..."
+
+msgid "Custom color"
+msgstr "Sérsniðinn litur"
 
 msgid "Custom Font"
 msgstr "Sérsnið letur"
@@ -2166,6 +2205,9 @@ msgstr "Gögn"
 msgid "Database"
 msgstr "Gagnagrunnur"
 
+msgid "Database name"
+msgstr "Heiti gagnagrunns"
+
 msgid "Date"
 msgstr "Dagsetning"
 
@@ -2181,14 +2223,20 @@ msgstr "Dagsetning og tími"
 msgid "Date Format"
 msgstr "Dagsetningasnið"
 
+msgid "Date format"
+msgstr "Snið dagsetninga"
+
 msgid "Date Modified"
 msgstr "Breytt þann"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr ""
 
 msgid "Day"
 msgstr "Dagur"
+
+msgid "day"
+msgstr "dagur"
 
 msgid "Days"
 msgstr "Dagar"
@@ -2237,6 +2285,9 @@ msgstr "Sjálfgefið"
 
 msgid "default"
 msgstr "sjálfgefið"
+
+msgid "Default value"
+msgstr "Sjálfgefið gildi"
 
 msgid "Defaults"
 msgstr "Sjálfgefin gildi"
@@ -2313,6 +2364,9 @@ msgstr "Þéttleiki"
 msgid "Deny"
 msgstr "Hafna"
 
+msgid "Department"
+msgstr "Deild"
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2345,6 +2399,12 @@ msgstr "Skjáborð"
 
 msgid "Destination"
 msgstr "Áfangastaður"
+
+msgid "Destination Folder"
+msgstr "Móttökumappa"
+
+msgid "Destination folder"
+msgstr "Móttökumappa"
 
 msgid "Detach"
 msgstr "Leysa frá"
@@ -2517,6 +2577,9 @@ msgstr "Uppleysing"
 msgid "Distance"
 msgstr "Vegalengd"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "Deila"
 
@@ -2571,11 +2634,11 @@ msgstr "Skjöl"
 msgid "does not contain"
 msgstr "inniheldur ekki"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Lén"
+
+msgid "_Domain"
+msgstr "_Lén"
 
 msgid "Dominica"
 msgstr "Dóminíka"
@@ -2679,6 +2742,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Breytilegt"
+
 msgid "E"
 msgstr "A"
 
@@ -2730,6 +2796,9 @@ msgstr ""
 msgid "Editing"
 msgstr "Breytingar"
 
+msgid "Edition"
+msgstr "Sérútgáfa"
+
 msgid "Editor"
 msgstr "Ritill"
 
@@ -2745,9 +2814,6 @@ msgstr "Egyptaland"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Spýta út"
 
@@ -2757,17 +2823,29 @@ msgstr "_Spýta út"
 msgid "El Salvador"
 msgstr "El Salvador"
 
+msgid "Elapsed Time"
+msgstr "Liðinn tími"
+
 msgid "Electronic"
 msgstr "Electronic"
 
 msgid "Element"
 msgstr "Frumefni"
 
+msgid "Elements"
+msgstr "Færslur"
+
 msgid "Ellipse"
 msgstr "Sporbaugur"
 
+msgid "EMail"
+msgstr "Netfang"
+
 msgid "Email"
 msgstr "Netfang"
+
+msgid "E-Mail"
+msgstr "Tölvupóstur"
 
 msgid "E-mail"
 msgstr "Netfang"
@@ -2847,6 +2925,9 @@ msgstr ""
 msgid "End Date"
 msgstr "Endadagur"
 
+msgid "End date"
+msgstr "Lokadagsetning"
+
 msgid "End Time"
 msgstr ""
 
@@ -2868,8 +2949,14 @@ msgstr "Enska"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "Settu inn heiti"
+
 msgid "Enter password"
 msgstr "Settu inn lykilorð"
+
+msgid "Entries"
+msgstr "Færslur"
 
 msgid "Entry"
 msgstr "Færsla"
@@ -2943,6 +3030,9 @@ msgstr "Atvik"
 msgid "Events"
 msgstr "Atburðir"
 
+msgid "Every"
+msgstr ""
+
 msgid "Everyone"
 msgstr "Allir"
 
@@ -2960,6 +3050,9 @@ msgstr "Dæmi"
 
 msgid "Exception"
 msgstr ""
+
+msgid "Exceptions"
+msgstr "Undantekningar"
 
 msgid "Exclude"
 msgstr "Útiloka"
@@ -2994,11 +3087,17 @@ msgstr "Fella allt út"
 msgid "Experimental"
 msgstr "Á tilraunastigi"
 
+msgid "Expiration"
+msgstr "Rennur út"
+
 msgid "Expired"
 msgstr "Útrunninn"
 
 msgid "Expires"
 msgstr "Rennur út"
+
+msgid "Expires On"
+msgstr "Gildir til"
 
 msgid "Export"
 msgstr "Flytja út"
@@ -3033,6 +3132,9 @@ msgstr "Útflutningsvalkostir"
 msgid "Exposure"
 msgstr "Lýsing"
 
+msgid "Exposure Time"
+msgstr "Lýsingartími"
+
 msgid "Expression"
 msgstr ""
 
@@ -3053,6 +3155,9 @@ msgstr "Afþjappa"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Fabric tengslanet"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3111,6 +3216,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Sækja"
 
+msgid "Field"
+msgstr ""
+
+msgid "Fields"
+msgstr "Svæði"
+
 msgid "Fiji"
 msgstr "Fídjieyjar"
 
@@ -3143,6 +3254,9 @@ msgstr "Skrá þegar til"
 
 msgid "File Format"
 msgstr "Skráarsnið"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3203,6 +3317,9 @@ msgstr "Fyllilitur"
 
 msgid "Filter"
 msgstr "Sía"
+
+msgid "&Filter"
+msgstr "&Sía"
 
 msgid "Filter..."
 msgstr "Sía..."
@@ -3267,6 +3384,9 @@ msgstr "Finnska"
 msgid "First"
 msgstr "Fyrsta"
 
+msgid "First Name"
+msgstr "Skírnarnafn"
+
 msgid "First Page"
 msgstr "Fyrsta síða"
 
@@ -3327,6 +3447,9 @@ msgstr "blóm"
 msgid "Focal Length"
 msgstr "Brennivídd"
 
+msgid "Focal length"
+msgstr "Brennivídd"
+
 msgid "Focus"
 msgstr "Virkni"
 
@@ -3348,6 +3471,9 @@ msgstr "Letur"
 msgid "&Font"
 msgstr "&Letur"
 
+msgid "_Font"
+msgstr "L_etur"
+
 msgid "Font Color"
 msgstr "Litur á letri"
 
@@ -3359,6 +3485,12 @@ msgstr "Leturstærð"
 
 msgid "Font size"
 msgstr "Leturstærð"
+
+msgid "Font Style"
+msgstr "Stíll leturs"
+
+msgid "Font style"
+msgstr "Leturstíll"
 
 msgid "Fonts"
 msgstr "Letur"
@@ -3396,6 +3528,12 @@ msgstr "Eyðublað"
 msgid "Format"
 msgstr "Snið"
 
+msgid "&Format"
+msgstr "&Snið"
+
+msgid "_Format"
+msgstr "_Forsníða"
+
 msgid "Formatting"
 msgstr "Forsnið"
 
@@ -3422,6 +3560,12 @@ msgstr "Brot"
 
 msgid "Frame"
 msgstr "Rammi"
+
+msgid "Frame Rate"
+msgstr "Rammatíðni"
+
+msgid "Frame rate"
+msgstr "Rammatíðni"
 
 msgid "Framerate"
 msgstr "Hraði á römmum"
@@ -3467,6 +3611,9 @@ msgstr "Fullt"
 
 msgid "Full Name"
 msgstr "Fullt nafn"
+
+msgid "Full name"
+msgstr ""
 
 msgid "Full Screen"
 msgstr "Allur skjárinn"
@@ -3533,6 +3680,9 @@ msgstr "Hlið"
 
 msgid "Gateway"
 msgstr "Netgátt (gateway)"
+
+msgid "_Gateway"
+msgstr ""
 
 msgid "Gaussian Blur"
 msgstr "Gauss mýking"
@@ -3654,6 +3804,9 @@ msgstr "Fara á fyrri síðu"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr "Markmið"
+
 msgid "Gold"
 msgstr ""
 
@@ -3708,6 +3861,9 @@ msgstr "Grátt"
 msgid "Grid"
 msgstr "Hnitanet"
 
+msgid "&Grid"
+msgstr "&Hnitanet"
+
 msgid "Group"
 msgstr "Hópur"
 
@@ -3753,6 +3909,9 @@ msgstr "Erfitt"
 msgid "Hardware"
 msgstr "Vélbúnaður"
 
+msgid "Hash"
+msgstr "Tætigildi (hash)"
+
 msgid "Hawaiian"
 msgstr "Havaíska"
 
@@ -3794,6 +3953,9 @@ msgstr "Hæð"
 
 msgid "&Height"
 msgstr "&Hæð"
+
+msgid "_Height"
+msgstr "_Hæð"
 
 msgid "Help"
 msgstr "Hjálp"
@@ -3839,6 +4001,9 @@ msgstr "Hátt"
 
 msgid "Highlight"
 msgstr "Áherslulita"
+
+msgid "Highlight color"
+msgstr ""
 
 msgid "Highlighter"
 msgstr "Áherslulitun"
@@ -3891,8 +4056,17 @@ msgstr "Hong Kong"
 msgid "Horizontal"
 msgstr "Lárétt"
 
+msgid "_Horizontal"
+msgstr "Lá_rétt"
+
+msgid "Horizontally"
+msgstr "Lárétt"
+
 msgid "Host"
 msgstr "Vél"
+
+msgid "Host Name"
+msgstr "Vélarheiti"
 
 msgid "Hostname"
 msgstr "Vélarheiti"
@@ -3972,6 +4146,9 @@ msgstr "Auðkenni"
 msgid "id"
 msgstr "auðkenni"
 
+msgid "Identification"
+msgstr "Auðkenni"
+
 msgid "Identifier"
 msgstr "Auðkenni"
 
@@ -4025,6 +4202,12 @@ msgstr "Myndstillingar"
 
 msgid "Image Size"
 msgstr "Stærð myndar"
+
+msgid "Image size"
+msgstr "Stærð myndar"
+
+msgid "Image type"
+msgstr "Tegund myndar"
 
 msgid "Image Viewer"
 msgstr "Myndskoðari"
@@ -4101,6 +4284,9 @@ msgstr "Auka inndrátt"
 msgid "Increase Volume"
 msgstr "Auka hljóðstyrk"
 
+msgid "Increment"
+msgstr ""
+
 msgid "Incremental"
 msgstr "Stighækkandi"
 
@@ -4112,6 +4298,9 @@ msgstr "Atriðaskrá"
 
 msgid "Indexed"
 msgstr "Litnúmerað"
+
+msgid "Indexing"
+msgstr ""
 
 msgid "India"
 msgstr "Indland"
@@ -4175,6 +4364,9 @@ msgstr "Set upp"
 
 msgid "Instant"
 msgstr "Samstundis"
+
+msgid "Instructions"
+msgstr "Leiðbeiningar"
 
 msgid "Integer"
 msgstr "Heiltala"
@@ -4263,11 +4455,17 @@ msgstr "Írska"
 msgid "is"
 msgstr "er"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "Ísrael"
 
 msgid "Issued By"
 msgstr "Útgefandi"
+
+msgid "Issued On"
+msgstr "Gefið út"
 
 msgid "Issuer"
 msgstr "Útgefandi"
@@ -4365,9 +4563,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Kasakska"
 
@@ -4376,18 +4571,6 @@ msgstr "Kasakstan"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "KDE-samfélagið, Felipe Kinoshita"
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Halda"
@@ -4452,26 +4635,11 @@ msgstr "Kíribatí"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Kóreska"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Kúveit"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4490,6 +4658,9 @@ msgstr "Langsnið"
 
 msgid "Language"
 msgstr "Tungumál"
+
+msgid "&Language"
+msgstr "&Tungumál"
 
 msgid "_Language"
 msgstr "Tungumá_l"
@@ -4511,6 +4682,12 @@ msgstr "Síðasta"
 
 msgid "Last Modified"
 msgstr "Síðast breytt"
+
+msgid "Last modified"
+msgstr "Síðast breytt"
+
+msgid "Last Name"
+msgstr "Eftirnafn"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4623,8 +4800,20 @@ msgstr ""
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr "Fjöldi lína"
+
 msgid "Line Numbers"
 msgstr "Línunúmer"
+
+msgid "Line spacing"
+msgstr "Línubil"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "Línustíll"
 
 msgid "Line Width"
 msgstr "Línubreidd"
@@ -4643,6 +4832,9 @@ msgstr "Tengill"
 
 msgid "link"
 msgstr "tengill"
+
+msgid "Link Text"
+msgstr "Texti tengils"
 
 msgid "Link URL"
 msgstr "Slóð tengils"
@@ -4742,6 +4934,9 @@ msgstr "Innskráning"
 
 msgid "_Login"
 msgstr "_Innskráning"
+
+msgid "Logo"
+msgstr "Merki"
 
 msgid "Logout"
 msgstr "Útskráning"
@@ -4938,6 +5133,9 @@ msgstr "Fullstækka"
 msgid "Maximum"
 msgstr "Hámark"
 
+msgid "Maximum width"
+msgstr "Hámarksbreidd"
+
 msgid "May"
 msgstr "Maí"
 
@@ -4992,6 +5190,9 @@ msgstr "Skilaboð"
 msgid "message"
 msgstr "skilaboð"
 
+msgid "&Message"
+msgstr "Skila&boð"
+
 msgid "Messages"
 msgstr ""
 
@@ -5003,6 +5204,9 @@ msgstr "Lýsigögn"
 
 msgid "Metal"
 msgstr "Metal"
+
+msgid "Metering Mode"
+msgstr "Mælihamur"
 
 msgid "meters"
 msgstr "metrar"
@@ -5042,6 +5246,9 @@ msgstr "Millisekúndur"
 
 msgid "milliseconds"
 msgstr "millisekúndur"
+
+msgid "MIME type"
+msgstr "MIME-tegund"
 
 msgid "Min"
 msgstr "Lágm."
@@ -5088,8 +5295,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Farsími"
 
+msgid "Mobile Phone"
+msgstr "Farsími"
+
 msgid "Mode"
 msgstr "Hamur"
+
+msgid "_Mode"
+msgstr "Ha_mur"
 
 msgid "Model"
 msgstr "Gerð"
@@ -5186,6 +5399,9 @@ msgstr "Marokkó"
 
 msgid "Mount"
 msgstr "Tengja í skráakerfið"
+
+msgid "Mount Point"
+msgstr "Tengipunktur"
 
 msgid "Mount point"
 msgstr "Tengipunktur"
@@ -5325,6 +5541,9 @@ msgstr "_Heiti"
 msgid "Name: %1"
 msgstr "Heiti: %1"
 
+msgid "Names"
+msgstr "Nöfn"
+
 msgid "Namespace"
 msgstr ""
 
@@ -5354,6 +5573,9 @@ msgstr "Nepalska"
 
 msgid "Netherlands"
 msgstr "Holland"
+
+msgid "Netmask"
+msgstr "Netmaski"
 
 msgid "Network"
 msgstr "Netkerfi"
@@ -5565,6 +5787,9 @@ msgstr "Ekkert viðfangsefni"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "Hnútur"
+
 msgid "Noise"
 msgstr "Noise"
 
@@ -5691,6 +5916,9 @@ msgstr "númer"
 msgid "Number of columns"
 msgstr "Fjöldi dálka"
 
+msgid "Number of rows"
+msgstr "Fjöldi raða"
+
 msgid "Numbers"
 msgstr "Tölur"
 
@@ -5747,9 +5975,6 @@ msgstr "Í &lagi"
 
 msgid "_OK"
 msgstr "Í _lagi"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Óman"
@@ -5901,6 +6126,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr "Stýrikerfi"
+
 msgid "Operation"
 msgstr "Aðgerð"
 
@@ -5912,6 +6140,9 @@ msgstr "Aðgerðir"
 
 msgid "Operator"
 msgstr "Netþjónusta"
+
+msgid "Operators"
+msgstr ""
 
 msgid "Optical Character Recognition"
 msgstr "Myndlestur (OCR)"
@@ -5970,6 +6201,9 @@ msgstr "Upprunaleg stærð"
 msgid "Oriya"
 msgstr "Oriya"
 
+msgid "OS"
+msgstr "Stýrikerfi"
+
 msgid "Other"
 msgstr "Annað"
 
@@ -5983,6 +6217,9 @@ msgid "Other Application..."
 msgstr "Annað forrit..."
 
 msgid "Other Options"
+msgstr "Aðrir valkostir"
+
+msgid "Other options"
 msgstr "Aðrir valkostir"
 
 msgid "Others"
@@ -6126,6 +6363,9 @@ msgstr "Parent"
 msgid "Partition"
 msgstr "Disksneið"
 
+msgid "Passphrase"
+msgstr "Lykilsetning"
+
 msgid "Password"
 msgstr "Lykilorð"
 
@@ -6164,6 +6404,9 @@ msgstr "Ferlar"
 
 msgid "Pattern"
 msgstr "Mynstur"
+
+msgid "_Pattern"
+msgstr "_Mynstur"
 
 msgid "Patterns"
 msgstr "Mynstur"
@@ -6249,8 +6492,14 @@ msgstr "Filippseyjar"
 msgid "Phone"
 msgstr "Sími"
 
+msgid "Phone Numbers"
+msgstr "Símanúmer"
+
 msgid "Photo"
 msgstr "Ljósmynd"
+
+msgid "Photos"
+msgstr "Ljósmyndir"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6272,6 +6521,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr ""
+
+msgid "PIN"
+msgstr "PIN-númer"
 
 msgid "Pin"
 msgstr "PIN-númer"
@@ -6300,9 +6552,6 @@ msgstr "Hreinn texti"
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Stýrikerfi"
 
@@ -6321,8 +6570,14 @@ msgstr "Afspilun"
 msgid "Player"
 msgstr "Spilari"
 
+msgid "Player 1"
+msgstr "Leikmaður 1"
+
 msgid "Player %1"
 msgstr "Leikmaður %1"
+
+msgid "Player 2"
+msgstr "Leikmaður 2"
 
 msgid "Players"
 msgstr "Leikmenn"
@@ -6402,6 +6657,9 @@ msgstr "Tengi"
 msgid "&Port"
 msgstr "&Gátt"
 
+msgid "_Port"
+msgstr "_Gátt"
+
 msgid "Portrait"
 msgstr "Lóðrétt"
 
@@ -6413,6 +6671,9 @@ msgstr "Portúgalska"
 
 msgid "Position"
 msgstr "Staðsetning"
+
+msgid "Postal code"
+msgstr "Póstnúmer"
 
 msgid "Posterize"
 msgstr "Þrykkja"
@@ -6455,6 +6716,9 @@ msgstr "Forskoðun"
 
 msgid "&Preview"
 msgstr "&Forskoða"
+
+msgid "_Preview"
+msgstr "_Forskoðun"
 
 msgid "Previews"
 msgstr "Forskoðanir"
@@ -6537,6 +6801,9 @@ msgstr "Gagnaleynd"
 msgid "Private"
 msgstr "Einka"
 
+msgid "Private Key"
+msgstr "Einkalykill"
+
 msgid "Process"
 msgstr "Ferli"
 
@@ -6564,6 +6831,9 @@ msgstr "Litasnið"
 msgid "Program"
 msgstr "Forrit"
 
+msgid "Programs"
+msgstr "Forrit"
+
 msgid "Progress"
 msgstr "Framvinda"
 
@@ -6572,6 +6842,9 @@ msgstr "Verkefni"
 
 msgid "&Project"
 msgstr "&Verkefni"
+
+msgid "Project name"
+msgstr ""
 
 msgid "Projects"
 msgstr ""
@@ -6645,6 +6918,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "D"
+
 msgid "Qatar"
 msgstr "Katar"
 
@@ -6700,6 +6976,9 @@ msgstr "Hættir í forritinu"
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr ""
+
 msgid "R"
 msgstr "R"
 
@@ -6730,6 +7009,9 @@ msgstr "Tíðni"
 msgid "Rating"
 msgstr "Einkunn"
 
+msgid "Ratio"
+msgstr "Hlutfall"
+
 msgid "Raw"
 msgstr "RAW"
 
@@ -6757,11 +7039,17 @@ msgstr "Tilbúið"
 msgid "Ready."
 msgstr "Tilbúið."
 
+msgid "Realm"
+msgstr "Umráðasvæði"
+
 msgid "Reason"
 msgstr "Ástæða"
 
 msgid "Reassign"
 msgstr "Endurúthluta"
+
+msgid "Received"
+msgstr "Móttekið"
 
 msgid "Recent"
 msgstr "Nýlegt"
@@ -6783,6 +7071,9 @@ msgstr "Upptaka"
 
 msgid "Rectangle"
 msgstr "Rétthyrningur"
+
+msgid "Recurrence"
+msgstr ""
 
 msgid "Recursive"
 msgstr "Endurkvæmt"
@@ -6913,6 +7204,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Fjarlægi"
+
 msgid "Rename"
 msgstr "Endurnefna"
 
@@ -6933,6 +7227,9 @@ msgstr "Endurnefna bókamerki"
 
 msgid "Rename File"
 msgstr "Endurnefna skrá"
+
+msgid "Rendering intent"
+msgstr "Myndgerðarmarkmið"
 
 msgid "Repeat"
 msgstr "Endurtaka"
@@ -6955,11 +7252,20 @@ msgstr "Skipt_a út öllu"
 msgid "Replace an existing instance"
 msgstr "Skipta út fyrirliggjandi tilviki"
 
+msgid "Replace With"
+msgstr "Setja í staðinn"
+
+msgid "Replace with"
+msgstr "Skipta út fyrir"
+
 msgid "Replacement"
 msgstr "Útskipting"
 
 msgid "Reply"
 msgstr "Svara"
+
+msgid "Reply-To"
+msgstr ""
 
 msgid "Report"
 msgstr "Rannsóknarblaðamennska"
@@ -6978,6 +7284,9 @@ msgstr "Senda &villuskýrslu..."
 
 msgid "Reports"
 msgstr ""
+
+msgid "Repository"
+msgstr "Hugbúnaðarsafn"
 
 msgid "Required"
 msgstr ""
@@ -7090,6 +7399,9 @@ msgstr "Hægri til vinstri"
 msgid "Right-click"
 msgstr "Hægrismellur"
 
+msgid "Rights"
+msgstr "Réttindi"
+
 msgid "River"
 msgstr "Vatnsfall"
 
@@ -7144,6 +7456,9 @@ msgstr "raðir"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "Regla"
+
 msgid "Rules"
 msgstr "Reglur"
 
@@ -7152,6 +7467,9 @@ msgstr "Keyra"
 
 msgid "&Run"
 msgstr "&Keyra"
+
+msgid "Run command"
+msgstr "Keyra skipun"
 
 msgid "Run in terminal"
 msgstr "Keyra í skjáhermi"
@@ -7288,6 +7606,9 @@ msgstr "Vista mynd"
 msgid "_Save Image As..."
 msgstr "Vi_sta mynd sem…"
 
+msgid "Save Location"
+msgstr "Staðsetning vistunar"
+
 msgid "Save Project"
 msgstr ""
 
@@ -7296,6 +7617,9 @@ msgstr "Vista setu"
 
 msgid "Save Settings"
 msgstr "Stillingar vistunar"
+
+msgid "Save to"
+msgstr "Vista í"
 
 msgid "Saved"
 msgstr ""
@@ -7327,11 +7651,17 @@ msgstr "Skanna"
 msgid "Scanner"
 msgstr "Skanni"
 
+msgid "Scanning"
+msgstr "Skönnun"
+
 msgid "Scanning..."
 msgstr "Er að leita…"
 
 msgid "Schedule"
 msgstr "Vinnuáætlun"
+
+msgid "Scheduler"
+msgstr ""
 
 msgid "Scheduling"
 msgstr "Tímasetning"
@@ -7408,11 +7738,17 @@ msgstr "Leita..."
 msgid "Search Bar"
 msgstr "Leitarslá"
 
+msgid "Search for"
+msgstr "Leita að"
+
 msgid "_Search for"
 msgstr "_Leita að"
 
 msgid "Search for '%1' with"
 msgstr "Leita að '%1' með"
+
+msgid "Search in"
+msgstr "Leita í"
 
 msgid "Search Options"
 msgstr "Leitarvalkostir"
@@ -7516,6 +7852,9 @@ msgstr "Myndval"
 msgid "Selections"
 msgstr "Myndval"
 
+msgid "Self"
+msgstr ""
+
 msgid "Semicolon"
 msgstr "Semikomma"
 
@@ -7555,6 +7894,9 @@ msgstr "Serbía"
 msgid "Serbian"
 msgstr "Serbneska"
 
+msgid "Serial"
+msgstr "Raðtengi"
+
 msgid "Serial Number"
 msgstr "Raðnúmer"
 
@@ -7570,8 +7912,14 @@ msgstr "Broddletur (serif)"
 msgid "Server"
 msgstr "Þjónn"
 
+msgid "&Server"
+msgstr "Vefþ&jónn"
+
 msgid "Server URL"
 msgstr "Slóð á þjón"
+
+msgid "Servers"
+msgstr "Þjónar"
 
 msgid "Service"
 msgstr "Þjónusta"
@@ -7584,6 +7932,9 @@ msgstr "Seta"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Heiti setu"
 
 msgid "Sessions"
 msgstr "Setur"
@@ -7614,6 +7965,12 @@ msgstr "Alvarleiki"
 
 msgid "Seychelles"
 msgstr "Seychelles-eyjar"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7653,6 +8010,12 @@ msgstr "Skerpa"
 
 msgid "Shear"
 msgstr "Skekkja"
+
+msgid "Sheet"
+msgstr "Blað"
+
+msgid "Sheets"
+msgstr "Blöð"
 
 msgid "Shell"
 msgstr "Skel"
@@ -7774,6 +8137,9 @@ msgstr "Stakur"
 msgid "Sinhala"
 msgstr "Sinhalíska"
 
+msgid "Site"
+msgstr "Vefsvæði"
+
 msgid "Size"
 msgstr "Stærð"
 
@@ -7782,6 +8148,9 @@ msgstr ""
 
 msgid "&Size"
 msgstr "&Stærð"
+
+msgid "_Size"
+msgstr "_Stærð"
 
 msgid "Size: %1"
 msgstr "Stærð: %1"
@@ -7809,6 +8178,9 @@ msgstr "Sleði"
 
 msgid "Slideshow"
 msgstr "Skyggnusýning"
+
+msgid "Slope"
+msgstr "Hallatala"
 
 msgid "Slovak"
 msgstr "Slóvakíska"
@@ -7864,6 +8236,12 @@ msgstr "Heillitur"
 msgid "Solomon Islands"
 msgstr "Salómonseyjar"
 
+msgid "Solution"
+msgstr "Lausn"
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "Sómalía"
 
@@ -7880,6 +8258,9 @@ msgid "Sorting"
 msgstr "Röðun"
 
 msgid "Sound"
+msgstr "Hljóð"
+
+msgid "Sounds"
 msgstr "Hljóð"
 
 msgid "Soundtrack"
@@ -7950,6 +8331,9 @@ msgstr "Stafsetningaryfirferð"
 
 msgid "Spell Checking"
 msgstr "Stafsetningaryfirferð"
+
+msgid "Spellcheck"
+msgstr "Athuga stafsetningu"
 
 msgid "Spelling"
 msgstr "Stafsetning"
@@ -8188,6 +8572,9 @@ msgstr "Súndanska"
 msgid "Sunday"
 msgstr "sunnudag"
 
+msgid "Sunrise"
+msgstr "Sólarupprás"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8244,6 +8631,9 @@ msgstr "Samstilling"
 
 msgid "Synchronize"
 msgstr "Samstilla"
+
+msgid "Syntax"
+msgstr "Notkun"
 
 msgid "Syriac"
 msgstr "Sýrlenskt"
@@ -8307,6 +8697,9 @@ msgstr "Tansanía"
 
 msgid "Target"
 msgstr "Útkoma"
+
+msgid "Targets"
+msgstr "Markhlutir"
 
 msgid "Task"
 msgstr "Verk"
@@ -8421,6 +8814,9 @@ msgstr "Þróunarteymi NetworkManager"
 msgid "Theme"
 msgstr "Þema"
 
+msgid "&Theme"
+msgstr "&Þema"
+
 msgid "Themes"
 msgstr "Þemu"
 
@@ -8441,6 +8837,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr ""
 
 msgid "Threshold"
 msgstr "Litmörk"
@@ -8468,6 +8867,9 @@ msgstr "Flísaleggja"
 
 msgid "Tiled"
 msgstr "Flísalagt"
+
+msgid "Tiles"
+msgstr "Kubbar"
 
 msgid "Tilt"
 msgstr "Halli"
@@ -8517,6 +8919,9 @@ msgstr "&Titill"
 msgid "_Title"
 msgstr "_Titill"
 
+msgid "Titles"
+msgstr "Titlar"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8540,6 +8945,9 @@ msgstr "Verkefni"
 
 msgid "Todo"
 msgstr "Geralistinn"
+
+msgid "To-do"
+msgstr ""
 
 msgid "Toggle Fullscreen"
 msgstr "Skipta heilskjá"
@@ -8571,6 +8979,9 @@ msgstr "Verkfæri"
 msgid "Tool Options"
 msgstr "Verkfæravalkostir"
 
+msgid "Toolbar"
+msgstr "Tækjastika"
+
 msgid "_Toolbar"
 msgstr "_Tækjastika"
 
@@ -8591,6 +9002,9 @@ msgstr "&Verkfæri"
 
 msgid "_Tools"
 msgstr "_Verkfæri"
+
+msgid "Tooltip"
+msgstr "Vísbending"
 
 msgid "Top"
 msgstr "Efst"
@@ -8742,11 +9156,17 @@ msgstr "tegund"
 msgid "&Type"
 msgstr "&Tegund"
 
+msgid "_Type"
+msgstr "_Gerð"
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "Úganda"
+
+msgid "UID"
+msgstr "Auðkenni"
 
 msgid "Ukraine"
 msgstr "Úkraína"
@@ -8979,6 +9399,9 @@ msgstr "Notað"
 msgid "User"
 msgstr "Notandi"
 
+msgid "User Agent"
+msgstr "Kennisstrengur"
+
 msgid "User Certificate"
 msgstr "Vottorð notanda"
 
@@ -9003,11 +9426,17 @@ msgstr "Lykilorð notanda"
 msgid "Username"
 msgstr "Notandanafn"
 
+msgid "&Username"
+msgstr "&Notandanafn"
+
 msgid "_Username"
 msgstr "Notan_danafn"
 
 msgid "Users"
 msgstr "Notendur"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Nytjaforrit"
@@ -9028,6 +9457,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9062,6 +9494,9 @@ msgstr "Breytur"
 msgid "Variance"
 msgstr ""
 
+msgid "Variant"
+msgstr "Tilbrigði"
+
 msgid "Vector"
 msgstr "Vigur"
 
@@ -9088,6 +9523,9 @@ msgstr "Útgáfa %1"
 
 msgid "Vertical"
 msgstr "Lóðrétt"
+
+msgid "_Vertical"
+msgstr "_Lóðrétt"
 
 msgid "Very Large"
 msgstr "Mjög stór"
@@ -9121,6 +9559,9 @@ msgstr "S&koða"
 
 msgid "_View"
 msgstr "S_koða"
+
+msgid "View mode"
+msgstr "Skoðunarsnið"
 
 msgid "View Options"
 msgstr "Valkostir skoðunar"
@@ -9281,6 +9722,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
+msgid "Wind"
+msgstr "Vind"
+
 msgid "Window"
 msgstr "Gluggi"
 
@@ -9323,11 +9767,17 @@ msgstr ""
 msgid "Word Count"
 msgstr "Fjöldi orða"
 
+msgid "Word wrap"
+msgstr "Línuskrið"
+
 msgid "Words"
 msgstr "Orð"
 
 msgid "Work"
 msgstr "Vinna"
+
+msgid "Workspace"
+msgstr "Vinnusvæði"
 
 msgid "World"
 msgstr "Heimurinn"
@@ -9367,6 +9817,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Ár"
+
+msgid "&Year"
+msgstr "Á&r"
 
 msgid "Yearly"
 msgstr ""
@@ -9427,6 +9880,9 @@ msgstr "&Aðdráttur"
 
 msgid "_Zoom"
 msgstr "Aðdrá_ttur"
+
+msgid "Zoom factor"
+msgstr "Aðdráttarmagn"
 
 msgid "Zoom In"
 msgstr "Renna að"

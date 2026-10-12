@@ -82,9 +82,6 @@ msgstr "a"
 msgid " (default)"
 msgstr ""
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr "MB"
 
@@ -328,6 +325,9 @@ msgstr ""
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Mae ffeil o'r enw \"%1\" mewn bod eisoes.  Ydych wir eisiau ysgrifennu "
@@ -357,16 +357,19 @@ msgstr "_Ynghylch"
 msgid "About %1"
 msgstr "Ynglyn â %1"
 
-msgid "About KDE"
-msgstr "Ynglyn a Kde"
-
 msgid "Abstract"
 msgstr ""
+
+msgid "Acceleration"
+msgstr "Cyflymiad"
 
 msgid "Accept"
 msgstr "Derbyn"
 
 msgid "Accepted"
+msgstr ""
+
+msgid "Access"
 msgstr ""
 
 msgid "Accessed"
@@ -385,6 +388,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -639,6 +645,9 @@ msgstr "Yn ôl yr wyddor"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Eiledol"
+
 msgid "Alternative"
 msgstr ""
 
@@ -714,8 +723,14 @@ msgstr ""
 msgid "Anonymous"
 msgstr "Di-enw"
 
+msgid "Answer"
+msgstr "Ateb"
+
 msgid "Antarctica"
 msgstr "Yr Antarctig"
+
+msgid "Antialiasing"
+msgstr ""
 
 msgid "Any"
 msgstr "Unrhyw"
@@ -885,6 +900,9 @@ msgstr ""
 msgid "Author"
 msgstr "Awdur"
 
+msgid "Author name"
+msgstr ""
+
 msgid "Authors"
 msgstr ""
 
@@ -930,6 +948,9 @@ msgstr "Azerbaijaneg"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr ""
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -942,8 +963,14 @@ msgstr "&Yn ôl"
 msgid "_Back"
 msgstr "_Nôl"
 
+msgid "Backend"
+msgstr ""
+
 msgid "Background"
 msgstr "Cefndir"
+
+msgid "&Background"
+msgstr "&Cefndir"
 
 msgid "Background Color"
 msgstr "Lliw Cefndir"
@@ -953,6 +980,9 @@ msgstr "Lliw'r cefndir"
 
 msgid "&Background color"
 msgstr "Lliw'r &cefndir"
+
+msgid "Background image"
+msgstr "Delwedd cefndir"
 
 msgid "Backspace"
 msgstr "Yn ôl"
@@ -974,6 +1004,9 @@ msgstr ""
 
 msgid "Baltic"
 msgstr "Baltig"
+
+msgid "Bandwidth"
+msgstr ""
 
 msgid "Bangladesh"
 msgstr "Bangladesh"
@@ -1000,6 +1033,9 @@ msgid "Bass"
 msgstr ""
 
 msgid "Battery"
+msgstr ""
+
+msgid "BCC"
 msgstr ""
 
 msgid "Bcc"
@@ -1158,23 +1194,8 @@ msgstr ""
 msgid "Brazil"
 msgstr "Brasil"
 
-msgid "Breeze"
-msgstr ""
-
-msgid "Breeze by the KDE VDG"
-msgstr ""
-
-msgid "Breeze Dark"
-msgstr ""
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr ""
-
 msgid "Breton"
 msgstr "Llydaweg"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "Pont"
@@ -1311,18 +1332,6 @@ msgstr "Didd&ymu"
 msgid "Canceled"
 msgstr ""
 
-msgid "Cancelled"
-msgstr "Diddymwyd"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Cynfas"
 
@@ -1341,13 +1350,13 @@ msgstr ""
 msgid "Caps Lock is on"
 msgstr ""
 
+msgid "Caption"
+msgstr ""
+
 msgid "Capture"
 msgstr ""
 
 msgid "Car"
-msgstr ""
-
-msgid "Carsten Pfeiffer"
 msgstr ""
 
 msgid "Cascade"
@@ -1437,6 +1446,9 @@ msgstr "Newid..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "Sianel"
 
@@ -1454,6 +1466,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Nod"
+
+msgid "Character set"
+msgstr ""
 
 msgid "Characters"
 msgstr "Nodau"
@@ -1686,6 +1701,9 @@ msgstr ""
 msgid "Color Space"
 msgstr ""
 
+msgid "Color space"
+msgstr ""
+
 msgid "Color theme"
 msgstr ""
 
@@ -1707,14 +1725,8 @@ msgstr "Colofnau"
 msgid "Comma"
 msgstr "Atalnod"
 
-msgid "COMMAND"
-msgstr "GORCHYMYN"
-
 msgid "Command"
 msgstr "Gorchymyn"
-
-msgid "command"
-msgstr ""
 
 msgid "Command Line"
 msgstr "Llinell Orchymyn"
@@ -1728,6 +1740,9 @@ msgstr ""
 msgid "Comment"
 msgstr "Sylw"
 
+msgid "comment"
+msgstr ""
+
 msgid "Comments"
 msgstr "Sylwadau"
 
@@ -1737,11 +1752,17 @@ msgstr ""
 msgid "Common"
 msgstr "Cyffredin"
 
+msgid "Common Name"
+msgstr "Enw Cyffredin"
+
 msgid "Comoros"
 msgstr "Comoros"
 
 msgid "Compact"
 msgstr ""
+
+msgid "Company"
+msgstr "Cwmni"
 
 msgid "Compare"
 msgstr ""
@@ -1779,6 +1800,9 @@ msgstr "Cyfrifiadur"
 msgid "Condition"
 msgstr "Amod"
 
+msgid "Conditions"
+msgstr "Amodau"
+
 msgid "Confidential"
 msgstr ""
 
@@ -1809,6 +1833,9 @@ msgstr ""
 msgid "Confirm"
 msgstr ""
 
+msgid "Confirm Password"
+msgstr ""
+
 msgid "Confirmation"
 msgstr ""
 
@@ -1820,6 +1847,9 @@ msgstr ""
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Croestyniad efo Byrlwybr Cymhwysiad Arferol"
+
+msgid "Conflicts"
+msgstr "Gwrthdrawiadau"
 
 msgid "Connect"
 msgstr ""
@@ -1845,6 +1875,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr ""
 
+msgid "Connection type"
+msgstr ""
+
 msgid "Connections"
 msgstr ""
 
@@ -1852,9 +1885,6 @@ msgid "Console"
 msgstr ""
 
 msgid "Constant"
-msgstr ""
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
 msgstr ""
 
 msgid "Contact"
@@ -1869,13 +1899,13 @@ msgstr ""
 msgid "Contains"
 msgstr ""
 
-msgid "contains"
-msgstr "yn cynnwys"
-
 msgid "Content"
 msgstr ""
 
 msgid "Content Type"
+msgstr ""
+
+msgid "Content type"
 msgstr ""
 
 msgid "Contents"
@@ -1899,10 +1929,16 @@ msgstr "Cyferbyniant"
 msgid "Contributor"
 msgstr "Cyfrannwr"
 
+msgid "Contributors"
+msgstr "Cyfrannwyr"
+
 msgid "Control"
 msgstr "Rheoli"
 
 msgid "Convert"
+msgstr ""
+
+msgid "Convert to"
 msgstr ""
 
 msgid "Convert to Path"
@@ -1922,9 +1958,6 @@ msgstr "Coptig"
 
 msgid "Copy"
 msgstr "Copïo"
-
-msgid "copy"
-msgstr ""
 
 msgid "&Copy"
 msgstr "&Copio"
@@ -1977,6 +2010,9 @@ msgstr ""
 msgid "Copyright"
 msgstr "Hawlfraint"
 
+msgid "Correct"
+msgstr ""
+
 msgid "Cost"
 msgstr "Cost"
 
@@ -1999,6 +2035,9 @@ msgid "Country"
 msgstr "Gwlad"
 
 msgid "CPU"
+msgstr ""
+
+msgid "CPU usage"
 msgstr ""
 
 msgid "Create"
@@ -2028,6 +2067,9 @@ msgstr "Creuwr"
 msgid "Credentials"
 msgstr ""
 
+msgid "Credit"
+msgstr ""
+
 msgid "Credits"
 msgstr ""
 
@@ -2053,15 +2095,6 @@ msgid "Cross"
 msgstr ""
 
 msgid "CSV"
-msgstr ""
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
 msgstr ""
 
 msgid "Cuba"
@@ -2091,7 +2124,13 @@ msgstr ""
 msgid "Custom"
 msgstr "Addasiedig"
 
+msgid "&Custom"
+msgstr "&Addasiedig "
+
 msgid "Custom..."
+msgstr ""
+
+msgid "Custom color"
 msgstr ""
 
 msgid "Custom Font"
@@ -2166,6 +2205,9 @@ msgstr "Data"
 msgid "Database"
 msgstr "Cronfa Ddata"
 
+msgid "Database name"
+msgstr ""
+
 msgid "Date"
 msgstr "Dyddiad"
 
@@ -2181,14 +2223,20 @@ msgstr ""
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr ""
+
 msgid "Date Modified"
 msgstr "Dyddiad Newidiwyd"
 
-msgid "David Edmundson"
+msgid "Date/Time"
 msgstr ""
 
 msgid "Day"
 msgstr "Diwrnod"
+
+msgid "day"
+msgstr ""
 
 msgid "Days"
 msgstr "Dydd"
@@ -2237,6 +2285,9 @@ msgstr "Rhagosodiad"
 
 msgid "default"
 msgstr "rhagosodiad"
+
+msgid "Default value"
+msgstr ""
 
 msgid "Defaults"
 msgstr ""
@@ -2313,6 +2364,9 @@ msgstr ""
 msgid "Deny"
 msgstr "Gwrthod"
 
+msgid "Department"
+msgstr ""
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2345,6 +2399,12 @@ msgstr "Penbwrdd"
 
 msgid "Destination"
 msgstr "Cyrchfan"
+
+msgid "Destination Folder"
+msgstr "Plygell Cyrchfan"
+
+msgid "Destination folder"
+msgstr "Plygell allbwn"
 
 msgid "Detach"
 msgstr ""
@@ -2517,6 +2577,9 @@ msgstr ""
 msgid "Distance"
 msgstr "Pellter"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr ""
 
@@ -2571,11 +2634,11 @@ msgstr "Dogfennau"
 msgid "does not contain"
 msgstr "ddim yn cynnwys"
 
-msgid "Dolphin"
-msgstr ""
-
 msgid "Domain"
 msgstr "Parth"
+
+msgid "_Domain"
+msgstr ""
 
 msgid "Dominica"
 msgstr "Dominica"
@@ -2679,6 +2742,9 @@ msgstr ""
 msgid "DVD-RW"
 msgstr ""
 
+msgid "Dynamic"
+msgstr ""
+
 msgid "E"
 msgstr "E"
 
@@ -2730,6 +2796,9 @@ msgstr ""
 msgid "Editing"
 msgstr ""
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "Golygydd"
 
@@ -2745,9 +2814,6 @@ msgstr "Yr Aifft"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr ""
-
 msgid "Eject"
 msgstr ""
 
@@ -2757,17 +2823,29 @@ msgstr "_Allfwrw"
 msgid "El Salvador"
 msgstr "El Salvador"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr ""
 
 msgid "Element"
 msgstr ""
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "Hirgylch"
 
+msgid "EMail"
+msgstr ""
+
 msgid "Email"
 msgstr "Ebost"
+
+msgid "E-Mail"
+msgstr ""
 
 msgid "E-mail"
 msgstr ""
@@ -2847,6 +2925,9 @@ msgstr ""
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr ""
+
 msgid "End Time"
 msgstr ""
 
@@ -2868,8 +2949,14 @@ msgstr "Saesneg"
 msgid "Enter"
 msgstr "Mynd i mewn"
 
+msgid "Enter name"
+msgstr "Rhowch enw"
+
 msgid "Enter password"
 msgstr "Rhowch y cyfrinair"
+
+msgid "Entries"
+msgstr "Cofnodion"
 
 msgid "Entry"
 msgstr ""
@@ -2943,6 +3030,9 @@ msgstr ""
 msgid "Events"
 msgstr "Digwyddiadau"
 
+msgid "Every"
+msgstr ""
+
 msgid "Everyone"
 msgstr ""
 
@@ -2959,6 +3049,9 @@ msgid "Examples"
 msgstr ""
 
 msgid "Exception"
+msgstr ""
+
+msgid "Exceptions"
 msgstr ""
 
 msgid "Exclude"
@@ -2994,11 +3087,17 @@ msgstr ""
 msgid "Experimental"
 msgstr ""
 
+msgid "Expiration"
+msgstr "Dilys Hyd"
+
 msgid "Expired"
 msgstr ""
 
 msgid "Expires"
 msgstr ""
+
+msgid "Expires On"
+msgstr "Yn Darfod Ar"
 
 msgid "Export"
 msgstr ""
@@ -3033,6 +3132,9 @@ msgstr ""
 msgid "Exposure"
 msgstr ""
 
+msgid "Exposure Time"
+msgstr ""
+
 msgid "Expression"
 msgstr ""
 
@@ -3052,6 +3154,9 @@ msgid "Extract"
 msgstr "Echdynnu"
 
 msgid "F"
+msgstr ""
+
+msgid "Fabric"
 msgstr ""
 
 msgid "Facebook"
@@ -3111,6 +3216,12 @@ msgstr ""
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr ""
+
+msgid "Fields"
+msgstr "Meysydd"
+
 msgid "Fiji"
 msgstr "Ffiji"
 
@@ -3143,6 +3254,9 @@ msgstr "Ffeil yn Bodoli"
 
 msgid "File Format"
 msgstr "Fformat Ffeil"
+
+msgid "File format"
+msgstr "Ffurf ffeil"
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3203,6 +3317,9 @@ msgstr ""
 
 msgid "Filter"
 msgstr "Hidl"
+
+msgid "&Filter"
+msgstr "&Hidl"
 
 msgid "Filter..."
 msgstr ""
@@ -3267,6 +3384,9 @@ msgstr "Ffinneg"
 msgid "First"
 msgstr "Cyntaf"
 
+msgid "First Name"
+msgstr ""
+
 msgid "First Page"
 msgstr ""
 
@@ -3327,6 +3447,9 @@ msgstr ""
 msgid "Focal Length"
 msgstr ""
 
+msgid "Focal length"
+msgstr ""
+
 msgid "Focus"
 msgstr "Canolbwynt"
 
@@ -3348,6 +3471,9 @@ msgstr "Ffont"
 msgid "&Font"
 msgstr ""
 
+msgid "_Font"
+msgstr "_Ffont"
+
 msgid "Font Color"
 msgstr ""
 
@@ -3358,6 +3484,12 @@ msgid "Font Size"
 msgstr "Maint Ffont"
 
 msgid "Font size"
+msgstr ""
+
+msgid "Font Style"
+msgstr ""
+
+msgid "Font style"
 msgstr ""
 
 msgid "Fonts"
@@ -3396,6 +3528,12 @@ msgstr ""
 msgid "Format"
 msgstr "Fformat"
 
+msgid "&Format"
+msgstr "&Fformat"
+
+msgid "_Format"
+msgstr ""
+
 msgid "Formatting"
 msgstr "Fformadu"
 
@@ -3422,6 +3560,12 @@ msgstr "Ffracsiwn"
 
 msgid "Frame"
 msgstr "Ffrâm"
+
+msgid "Frame Rate"
+msgstr ""
+
+msgid "Frame rate"
+msgstr ""
 
 msgid "Framerate"
 msgstr ""
@@ -3467,6 +3611,9 @@ msgstr ""
 
 msgid "Full Name"
 msgstr "Enw Llawn"
+
+msgid "Full name"
+msgstr ""
 
 msgid "Full Screen"
 msgstr "Llenwi'r Sgrin"
@@ -3532,6 +3679,9 @@ msgid "Gate"
 msgstr ""
 
 msgid "Gateway"
+msgstr ""
+
+msgid "_Gateway"
 msgstr ""
 
 msgid "Gaussian Blur"
@@ -3654,6 +3804,9 @@ msgstr ""
 msgid "Goa"
 msgstr ""
 
+msgid "Goal"
+msgstr ""
+
 msgid "Gold"
 msgstr ""
 
@@ -3708,6 +3861,9 @@ msgstr ""
 msgid "Grid"
 msgstr "Grid"
 
+msgid "&Grid"
+msgstr "&Grid "
+
 msgid "Group"
 msgstr "Grŵp"
 
@@ -3753,6 +3909,9 @@ msgstr "Anodd"
 msgid "Hardware"
 msgstr ""
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr ""
 
@@ -3794,6 +3953,9 @@ msgstr "Uchder"
 
 msgid "&Height"
 msgstr "&Uchder"
+
+msgid "_Height"
+msgstr ""
 
 msgid "Help"
 msgstr "Cymorth"
@@ -3839,6 +4001,9 @@ msgstr "Uchel"
 
 msgid "Highlight"
 msgstr "Amlygu"
+
+msgid "Highlight color"
+msgstr "Lliw Amlygu"
 
 msgid "Highlighter"
 msgstr ""
@@ -3891,8 +4056,17 @@ msgstr "Hong Kong"
 msgid "Horizontal"
 msgstr ""
 
+msgid "_Horizontal"
+msgstr ""
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "Gwesteiwr"
+
+msgid "Host Name"
+msgstr "Enw Gwesteiwr"
 
 msgid "Hostname"
 msgstr "Enw Gwesteiwr"
@@ -3972,6 +4146,9 @@ msgstr ""
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr "Dynodiad "
+
 msgid "Identifier"
 msgstr ""
 
@@ -4025,6 +4202,12 @@ msgstr ""
 
 msgid "Image Size"
 msgstr "Maint y Ddelwedd"
+
+msgid "Image size"
+msgstr ""
+
+msgid "Image type"
+msgstr ""
 
 msgid "Image Viewer"
 msgstr "Gwelydd Delweddau"
@@ -4101,6 +4284,9 @@ msgstr "Cynyddu Mewnoliad"
 msgid "Increase Volume"
 msgstr ""
 
+msgid "Increment"
+msgstr ""
+
 msgid "Incremental"
 msgstr ""
 
@@ -4112,6 +4298,9 @@ msgstr "Mynegai"
 
 msgid "Indexed"
 msgstr ""
+
+msgid "Indexing"
+msgstr "Mynegeio"
 
 msgid "India"
 msgstr "India"
@@ -4175,6 +4364,9 @@ msgstr "Sefydlu"
 
 msgid "Instant"
 msgstr ""
+
+msgid "Instructions"
+msgstr "Cyfarwyddiadau"
 
 msgid "Integer"
 msgstr "Cyfanrif"
@@ -4263,11 +4455,17 @@ msgstr "Gwyddeleg"
 msgid "is"
 msgstr ""
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "Israel"
 
 msgid "Issued By"
 msgstr ""
+
+msgid "Issued On"
+msgstr "Cyflwynwyd Ar"
 
 msgid "Issuer"
 msgstr "Cyhoeddwr"
@@ -4365,9 +4563,6 @@ msgstr ""
 msgid "Kannada"
 msgstr "Canareg"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Kazakh"
 
@@ -4375,18 +4570,6 @@ msgid "Kazakhstan"
 msgstr "Casachstan"
 
 msgid "kB"
-msgstr ""
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
 msgstr ""
 
 msgid "Keep"
@@ -4452,26 +4635,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Corieg"
 
-msgid "KOrganizer"
-msgstr "KTrefnydd"
-
 msgid "Kuwait"
 msgstr "Coweit"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4490,6 +4658,9 @@ msgstr ""
 
 msgid "Language"
 msgstr "Iaith"
+
+msgid "&Language"
+msgstr "&Iaith"
 
 msgid "_Language"
 msgstr ""
@@ -4511,6 +4682,12 @@ msgstr "Olaf"
 
 msgid "Last Modified"
 msgstr "Newid Diwethaf"
+
+msgid "Last modified"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4623,7 +4800,19 @@ msgstr ""
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr ""
+
 msgid "Line Numbers"
+msgstr ""
+
+msgid "Line spacing"
+msgstr ""
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
 msgstr ""
 
 msgid "Line Width"
@@ -4643,6 +4832,9 @@ msgstr "Cyswllt"
 
 msgid "link"
 msgstr "cyswllt"
+
+msgid "Link Text"
+msgstr ""
 
 msgid "Link URL"
 msgstr ""
@@ -4742,6 +4934,9 @@ msgstr "Mewngofnodi"
 
 msgid "_Login"
 msgstr ""
+
+msgid "Logo"
+msgstr "Logo"
 
 msgid "Logout"
 msgstr ""
@@ -4938,6 +5133,9 @@ msgstr "Ehangu"
 msgid "Maximum"
 msgstr "Uchafswm"
 
+msgid "Maximum width"
+msgstr ""
+
 msgid "May"
 msgstr "Mai"
 
@@ -4992,6 +5190,9 @@ msgstr "Neges"
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr "&Neges"
+
 msgid "Messages"
 msgstr "Negeseuon"
 
@@ -5002,6 +5203,9 @@ msgid "Metadata"
 msgstr ""
 
 msgid "Metal"
+msgstr ""
+
+msgid "Metering Mode"
 msgstr ""
 
 msgid "meters"
@@ -5042,6 +5246,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "milfedau o eiliadau"
+
+msgid "MIME type"
+msgstr ""
 
 msgid "Min"
 msgstr "Lleiaf"
@@ -5088,8 +5295,14 @@ msgstr ""
 msgid "Mobile"
 msgstr "Mobile"
 
+msgid "Mobile Phone"
+msgstr "Ffôn Symudol"
+
 msgid "Mode"
 msgstr "Modd"
+
+msgid "_Mode"
+msgstr ""
 
 msgid "Model"
 msgstr "Model"
@@ -5186,6 +5399,9 @@ msgstr "Moroco"
 
 msgid "Mount"
 msgstr "Amdringo"
+
+msgid "Mount Point"
+msgstr "Man Clymu"
 
 msgid "Mount point"
 msgstr ""
@@ -5325,6 +5541,9 @@ msgstr "_Enw"
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr "Sylwadau"
+
 msgid "Namespace"
 msgstr "Gofod enwau"
 
@@ -5354,6 +5573,9 @@ msgstr ""
 
 msgid "Netherlands"
 msgstr "Netherlands"
+
+msgid "Netmask"
+msgstr ""
 
 msgid "Network"
 msgstr "Rhwydwaith"
@@ -5565,6 +5787,9 @@ msgstr "Dim Pwnc"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "Nôd"
+
 msgid "Noise"
 msgstr "Sŵn"
 
@@ -5691,6 +5916,9 @@ msgstr "rhif"
 msgid "Number of columns"
 msgstr ""
 
+msgid "Number of rows"
+msgstr ""
+
 msgid "Numbers"
 msgstr ""
 
@@ -5746,9 +5974,6 @@ msgid "&OK"
 msgstr ""
 
 msgid "_OK"
-msgstr ""
-
-msgid "Okular"
 msgstr ""
 
 msgid "Oman"
@@ -5901,6 +6126,9 @@ msgstr ""
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr ""
+
 msgid "Operation"
 msgstr "Gweithrediad"
 
@@ -5912,6 +6140,9 @@ msgstr "Gweithrediadau"
 
 msgid "Operator"
 msgstr "Gweithredwr"
+
+msgid "Operators"
+msgstr "Gweithredwyr"
 
 msgid "Optical Character Recognition"
 msgstr "Adnabyddiaeth Nodau Optegol"
@@ -5970,6 +6201,9 @@ msgstr ""
 msgid "Oriya"
 msgstr "Orïa"
 
+msgid "OS"
+msgstr "SG"
+
 msgid "Other"
 msgstr "Eraill"
 
@@ -5983,6 +6217,9 @@ msgid "Other Application..."
 msgstr ""
 
 msgid "Other Options"
+msgstr ""
+
+msgid "Other options"
 msgstr ""
 
 msgid "Others"
@@ -6126,6 +6363,9 @@ msgstr "Parent"
 msgid "Partition"
 msgstr ""
 
+msgid "Passphrase"
+msgstr ""
+
 msgid "Password"
 msgstr "Cyfrinair"
 
@@ -6164,6 +6404,9 @@ msgstr ""
 
 msgid "Pattern"
 msgstr "Patrwm"
+
+msgid "_Pattern"
+msgstr "_Patrwm"
 
 msgid "Patterns"
 msgstr "Patrymau"
@@ -6249,8 +6492,14 @@ msgstr "Philipinau"
 msgid "Phone"
 msgstr ""
 
+msgid "Phone Numbers"
+msgstr ""
+
 msgid "Photo"
 msgstr "Ffoto"
+
+msgid "Photos"
+msgstr ""
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6271,6 +6520,9 @@ msgid "PID"
 msgstr ""
 
 msgid "Pie"
+msgstr ""
+
+msgid "PIN"
 msgstr ""
 
 msgid "Pin"
@@ -6300,9 +6552,6 @@ msgstr ""
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr ""
-
 msgid "Platform"
 msgstr ""
 
@@ -6321,8 +6570,14 @@ msgstr ""
 msgid "Player"
 msgstr ""
 
+msgid "Player 1"
+msgstr "Chwaraewr 1"
+
 msgid "Player %1"
 msgstr "Chwaraewr %1"
+
+msgid "Player 2"
+msgstr "Chwaraewr 2"
 
 msgid "Players"
 msgstr "Chwaraewyr"
@@ -6402,6 +6657,9 @@ msgstr "Porth"
 msgid "&Port"
 msgstr "&Porth"
 
+msgid "_Port"
+msgstr "_Porth"
+
 msgid "Portrait"
 msgstr ""
 
@@ -6413,6 +6671,9 @@ msgstr "Portiwgaleg"
 
 msgid "Position"
 msgstr "Lleoliad"
+
+msgid "Postal code"
+msgstr "Côd post"
 
 msgid "Posterize"
 msgstr ""
@@ -6455,6 +6716,9 @@ msgstr "Rhagolwg"
 
 msgid "&Preview"
 msgstr "&Rhagolwg"
+
+msgid "_Preview"
+msgstr ""
 
 msgid "Previews"
 msgstr ""
@@ -6537,6 +6801,9 @@ msgstr "Preifatrwydd"
 msgid "Private"
 msgstr "Preivat"
 
+msgid "Private Key"
+msgstr ""
+
 msgid "Process"
 msgstr "Proses"
 
@@ -6564,6 +6831,9 @@ msgstr "Proffiliau"
 msgid "Program"
 msgstr "Rhaglen"
 
+msgid "Programs"
+msgstr "Rhaglenni"
+
 msgid "Progress"
 msgstr "Cynnydd"
 
@@ -6571,6 +6841,9 @@ msgid "Project"
 msgstr ""
 
 msgid "&Project"
+msgstr ""
+
+msgid "Project name"
 msgstr ""
 
 msgid "Projects"
@@ -6645,6 +6918,9 @@ msgstr ""
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr ""
+
 msgid "Qatar"
 msgstr "Qatar"
 
@@ -6698,6 +6974,9 @@ msgstr "Terfynu'r cymhwysiad"
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr "Dyfynodau"
+
 msgid "R"
 msgstr "R"
 
@@ -6728,6 +7007,9 @@ msgstr "Cyfradd"
 msgid "Rating"
 msgstr "Serenau"
 
+msgid "Ratio"
+msgstr "Cyfartaledd"
+
 msgid "Raw"
 msgstr "Amrwd"
 
@@ -6755,11 +7037,17 @@ msgstr "Barod"
 msgid "Ready."
 msgstr "Parod."
 
+msgid "Realm"
+msgstr ""
+
 msgid "Reason"
 msgstr "Rheswm"
 
 msgid "Reassign"
 msgstr "Ailarddodi"
+
+msgid "Received"
+msgstr ""
 
 msgid "Recent"
 msgstr "Diweddar"
@@ -6781,6 +7069,9 @@ msgstr ""
 
 msgid "Rectangle"
 msgstr "Hirsgwâr"
+
+msgid "Recurrence"
+msgstr ""
 
 msgid "Recursive"
 msgstr ""
@@ -6911,6 +7202,9 @@ msgstr "Tynnu'r eitem a ddewiswyd o'r bar offer"
 msgid "Remove the selected toolbar"
 msgstr "Tynnu'r bar offer a ddewiswyd"
 
+msgid "Removing"
+msgstr "Gwaredu"
+
 msgid "Rename"
 msgstr "Ail-enwi"
 
@@ -6930,6 +7224,9 @@ msgid "Rename Bookmark"
 msgstr "Ailenwi Llyfrnod"
 
 msgid "Rename File"
+msgstr ""
+
+msgid "Rendering intent"
 msgstr ""
 
 msgid "Repeat"
@@ -6953,10 +7250,19 @@ msgstr ""
 msgid "Replace an existing instance"
 msgstr ""
 
+msgid "Replace With"
+msgstr "Amnewid Efo"
+
+msgid "Replace with"
+msgstr "Amnewid efo"
+
 msgid "Replacement"
 msgstr "Amnewidiad"
 
 msgid "Reply"
+msgstr ""
+
+msgid "Reply-To"
 msgstr ""
 
 msgid "Report"
@@ -6975,6 +7281,9 @@ msgid "&Report Bug..."
 msgstr ""
 
 msgid "Reports"
+msgstr ""
+
+msgid "Repository"
 msgstr ""
 
 msgid "Required"
@@ -7088,6 +7397,9 @@ msgstr "De i'r Chwith"
 msgid "Right-click"
 msgstr ""
 
+msgid "Rights"
+msgstr ""
+
 msgid "River"
 msgstr ""
 
@@ -7142,6 +7454,9 @@ msgstr "o resi"
 msgid "RSA"
 msgstr ""
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
@@ -7149,6 +7464,9 @@ msgid "Run"
 msgstr ""
 
 msgid "&Run"
+msgstr ""
+
+msgid "Run command"
 msgstr ""
 
 msgid "Run in terminal"
@@ -7286,6 +7604,9 @@ msgstr "Cadw Delwedd"
 msgid "_Save Image As..."
 msgstr "_Cadw'r Ddelwedd Fel..."
 
+msgid "Save Location"
+msgstr ""
+
 msgid "Save Project"
 msgstr ""
 
@@ -7293,6 +7614,9 @@ msgid "Save Session"
 msgstr ""
 
 msgid "Save Settings"
+msgstr ""
+
+msgid "Save to"
 msgstr ""
 
 msgid "Saved"
@@ -7325,11 +7649,17 @@ msgstr "Sganio"
 msgid "Scanner"
 msgstr ""
 
+msgid "Scanning"
+msgstr ""
+
 msgid "Scanning..."
 msgstr "Yn sganio..."
 
 msgid "Schedule"
 msgstr "Trefnlen"
+
+msgid "Scheduler"
+msgstr ""
 
 msgid "Scheduling"
 msgstr ""
@@ -7406,11 +7736,17 @@ msgstr "Chwilio..."
 msgid "Search Bar"
 msgstr "Bar Chwiliad"
 
+msgid "Search for"
+msgstr ""
+
 msgid "_Search for"
 msgstr "_Chwilio am: "
 
 msgid "Search for '%1' with"
 msgstr "Chwilio am '%1' gyda"
+
+msgid "Search in"
+msgstr "Chwilio Mewn "
 
 msgid "Search Options"
 msgstr "Dewisiadau Chwilio"
@@ -7514,6 +7850,9 @@ msgstr "Dewisiad"
 msgid "Selections"
 msgstr ""
 
+msgid "Self"
+msgstr "Hunan"
+
 msgid "Semicolon"
 msgstr "Gwahannod"
 
@@ -7553,6 +7892,9 @@ msgstr ""
 msgid "Serbian"
 msgstr "Serbieg"
 
+msgid "Serial"
+msgstr "Cyfresol"
+
 msgid "Serial Number"
 msgstr "Rhif Cyfres"
 
@@ -7568,8 +7910,14 @@ msgstr ""
 msgid "Server"
 msgstr " Gweinydd"
 
+msgid "&Server"
+msgstr "&Gweinydd"
+
 msgid "Server URL"
 msgstr "URL y gweinydd"
+
+msgid "Servers"
+msgstr ""
 
 msgid "Service"
 msgstr "Gwasanaeth"
@@ -7582,6 +7930,9 @@ msgstr ""
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Enw sesiwn"
 
 msgid "Sessions"
 msgstr "Sesiynau"
@@ -7612,6 +7963,12 @@ msgstr ""
 
 msgid "Seychelles"
 msgstr "Seychelles"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr ""
@@ -7650,6 +8007,12 @@ msgid "Sharpness"
 msgstr ""
 
 msgid "Shear"
+msgstr ""
+
+msgid "Sheet"
+msgstr "Dalen"
+
+msgid "Sheets"
 msgstr ""
 
 msgid "Shell"
@@ -7772,6 +8135,9 @@ msgstr ""
 msgid "Sinhala"
 msgstr "Sinhala"
 
+msgid "Site"
+msgstr "Gwefan"
+
 msgid "Size"
 msgstr "Maint"
 
@@ -7780,6 +8146,9 @@ msgstr ""
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "_Maint"
 
 msgid "Size: %1"
 msgstr "Maint: %1"
@@ -7806,6 +8175,9 @@ msgid "Slider"
 msgstr "Llithrydd"
 
 msgid "Slideshow"
+msgstr ""
+
+msgid "Slope"
 msgstr ""
 
 msgid "Slovak"
@@ -7862,6 +8234,12 @@ msgstr ""
 msgid "Solomon Islands"
 msgstr "Ynysoedd Solomon"
 
+msgid "Solution"
+msgstr ""
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -7879,6 +8257,9 @@ msgstr "Didoli"
 
 msgid "Sound"
 msgstr "Sain"
+
+msgid "Sounds"
+msgstr "Syniau"
 
 msgid "Soundtrack"
 msgstr ""
@@ -7948,6 +8329,9 @@ msgstr ""
 
 msgid "Spell Checking"
 msgstr ""
+
+msgid "Spellcheck"
+msgstr "Gwirio Sillafu"
 
 msgid "Spelling"
 msgstr "Sillafu"
@@ -8186,6 +8570,9 @@ msgstr ""
 msgid "Sunday"
 msgstr ""
 
+msgid "Sunrise"
+msgstr "Codiad haul"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8241,6 +8628,9 @@ msgid "Synchronization"
 msgstr ""
 
 msgid "Synchronize"
+msgstr ""
+
+msgid "Syntax"
 msgstr ""
 
 msgid "Syriac"
@@ -8305,6 +8695,9 @@ msgstr "Tanzania"
 
 msgid "Target"
 msgstr "Targed"
+
+msgid "Targets"
+msgstr "Targedau"
 
 msgid "Task"
 msgstr "Tasg"
@@ -8419,6 +8812,9 @@ msgstr ""
 msgid "Theme"
 msgstr "Thema"
 
+msgid "&Theme"
+msgstr ""
+
 msgid "Themes"
 msgstr "Themâu"
 
@@ -8436,6 +8832,9 @@ msgid ""
 msgstr ""
 
 msgid "Thomas Zander"
+msgstr ""
+
+msgid "Threads"
 msgstr ""
 
 msgid "Threshold"
@@ -8464,6 +8863,9 @@ msgstr ""
 
 msgid "Tiled"
 msgstr ""
+
+msgid "Tiles"
+msgstr "Teils"
 
 msgid "Tilt"
 msgstr ""
@@ -8513,6 +8915,9 @@ msgstr "&Teitl"
 msgid "_Title"
 msgstr "_Teitl"
 
+msgid "Titles"
+msgstr ""
+
 msgid "TLS"
 msgstr ""
 
@@ -8535,6 +8940,9 @@ msgid "TODO"
 msgstr ""
 
 msgid "Todo"
+msgstr ""
+
+msgid "To-do"
 msgstr ""
 
 msgid "Toggle Fullscreen"
@@ -8567,6 +8975,9 @@ msgstr ""
 msgid "Tool Options"
 msgstr ""
 
+msgid "Toolbar"
+msgstr "Bar Offer"
+
 msgid "_Toolbar"
 msgstr "Bar _Dewis"
 
@@ -8586,6 +8997,9 @@ msgid "&Tools"
 msgstr "&Offer"
 
 msgid "_Tools"
+msgstr ""
+
+msgid "Tooltip"
 msgstr ""
 
 msgid "Top"
@@ -8744,11 +9158,17 @@ msgstr ""
 msgid "&Type"
 msgstr "&Math"
 
+msgid "_Type"
+msgstr "_Math"
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "Wganda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Wcrain"
@@ -8981,6 +9401,9 @@ msgstr ""
 msgid "User"
 msgstr "Defnyddiwr"
 
+msgid "User Agent"
+msgstr ""
+
 msgid "User Certificate"
 msgstr ""
 
@@ -9005,11 +9428,17 @@ msgstr ""
 msgid "Username"
 msgstr "Enw Cyfrif"
 
+msgid "&Username"
+msgstr "&Enw Defnyddiwr"
+
 msgid "_Username"
 msgstr "_Enw Defnyddiwr"
 
 msgid "Users"
 msgstr "Defnyddwyr"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr ""
@@ -9030,6 +9459,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9064,6 +9496,9 @@ msgstr "Newidynnau"
 msgid "Variance"
 msgstr "Amrywiant"
 
+msgid "Variant"
+msgstr ""
+
 msgid "Vector"
 msgstr ""
 
@@ -9089,6 +9524,9 @@ msgid "Version %1"
 msgstr "Fersiwn %1"
 
 msgid "Vertical"
+msgstr ""
+
+msgid "_Vertical"
 msgstr ""
 
 msgid "Very Large"
@@ -9123,6 +9561,9 @@ msgstr "&Golwg"
 
 msgid "_View"
 msgstr "_Golwg"
+
+msgid "View mode"
+msgstr ""
 
 msgid "View Options"
 msgstr ""
@@ -9283,6 +9724,9 @@ msgstr ""
 msgid "Wikipedia"
 msgstr ""
 
+msgid "Wind"
+msgstr "Gwynt"
+
 msgid "Window"
 msgstr "Ffenestr"
 
@@ -9325,11 +9769,17 @@ msgstr "Gair"
 msgid "Word Count"
 msgstr ""
 
+msgid "Word wrap"
+msgstr ""
+
 msgid "Words"
 msgstr ""
 
 msgid "Work"
 msgstr "Gwaith"
+
+msgid "Workspace"
+msgstr ""
 
 msgid "World"
 msgstr "World"
@@ -9369,6 +9819,9 @@ msgstr ""
 
 msgid "Year"
 msgstr "Blwyddyn"
+
+msgid "&Year"
+msgstr "&Blwyddyn "
 
 msgid "Yearly"
 msgstr ""
@@ -9429,6 +9882,9 @@ msgstr ""
 
 msgid "_Zoom"
 msgstr ""
+
+msgid "Zoom factor"
+msgstr "Ffactor chwyddo"
 
 msgid "Zoom In"
 msgstr "Chwyddo"

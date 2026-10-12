@@ -82,9 +82,6 @@ msgstr " og "
 msgid " (default)"
 msgstr " (standard)"
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "En fil som heter «%1» finnes fra før. Er du sikker på at du vil skrive over "
@@ -357,17 +357,20 @@ msgstr "_Om"
 msgid "About %1"
 msgstr "Om %1"
 
-msgid "About KDE"
-msgstr "Om KDE"
-
 msgid "Abstract"
 msgstr "Abstrakt"
+
+msgid "Acceleration"
+msgstr "Akselerasjon"
 
 msgid "Accept"
 msgstr "Godta"
 
 msgid "Accepted"
 msgstr "Godtatt"
+
+msgid "Access"
+msgstr "Tilgang"
 
 msgid "Accessed"
 msgstr "Brukt"
@@ -385,6 +388,9 @@ msgid "Account Information"
 msgstr "Kontoinformasjon"
 
 msgid "Account Name"
+msgstr "Kontonavn"
+
+msgid "Account name"
 msgstr "Kontonavn"
 
 msgid "Accounts"
@@ -639,6 +645,9 @@ msgstr "Alfabetisk"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Alternativ"
+
 msgid "Alternative"
 msgstr "Alternativ"
 
@@ -714,8 +723,14 @@ msgstr "Merknader"
 msgid "Anonymous"
 msgstr "Anonym"
 
+msgid "Answer"
+msgstr "Svar"
+
 msgid "Antarctica"
 msgstr "Antarktika"
+
+msgid "Antialiasing"
+msgstr "Antialiasering"
 
 msgid "Any"
 msgstr "Alle"
@@ -885,6 +900,9 @@ msgstr "Autentisering er nødvendig"
 msgid "Author"
 msgstr "Forfatter"
 
+msgid "Author name"
+msgstr "Forfatters navn"
+
 msgid "Authors"
 msgstr "Opphavspersoner"
 
@@ -930,6 +948,9 @@ msgstr "Aserbajdsjansk"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -942,8 +963,14 @@ msgstr "&Tilbake"
 msgid "_Back"
 msgstr "Til_bake"
 
+msgid "Backend"
+msgstr "Serverprogramvare"
+
 msgid "Background"
 msgstr "Bakgrunn"
+
+msgid "&Background"
+msgstr "&Bakgrunn"
 
 msgid "Background Color"
 msgstr "Bakgrunnsfarge"
@@ -953,6 +980,9 @@ msgstr "Bakgrunnsfarge"
 
 msgid "&Background color"
 msgstr "&Bakgrunnsfarge"
+
+msgid "Background image"
+msgstr "Bakgrunnsbilde"
 
 msgid "Backspace"
 msgstr "Rettetast"
@@ -974,6 +1004,9 @@ msgstr "Balansert"
 
 msgid "Baltic"
 msgstr "Baltisk"
+
+msgid "Bandwidth"
+msgstr "Båndbredde"
 
 msgid "Bangladesh"
 msgstr "Bangladesh"
@@ -1001,6 +1034,9 @@ msgstr "Bass"
 
 msgid "Battery"
 msgstr "Batteri"
+
+msgid "BCC"
+msgstr "Blindkopi"
 
 msgid "Bcc"
 msgstr "Bcc"
@@ -1158,23 +1194,8 @@ msgstr "Gren"
 msgid "Brazil"
 msgstr "Brasil"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze fra KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Breeze mørk"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze mørk fra KDE VDG"
-
 msgid "Breton"
 msgstr "Bretonsk"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Bro"
@@ -1311,18 +1332,6 @@ msgstr "&Avbryt"
 msgid "Canceled"
 msgstr "Avbrutt"
 
-msgid "Cancelled"
-msgstr "Avbrutt"
-
-msgid "cannot load editor plugin: %s"
-msgstr "kan ikke laste redigerings modulen: «%s»"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "kan ikke laste fabrikken «%s» fra modulen: «%s»"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Kanvas"
 
@@ -1341,14 +1350,14 @@ msgstr "Store forbokstaver"
 msgid "Caps Lock is on"
 msgstr "«Caps Lock» er på"
 
+msgid "Caption"
+msgstr "Bildetekst"
+
 msgid "Capture"
 msgstr "Fang inn"
 
 msgid "Car"
 msgstr "Bil"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Stabel"
@@ -1437,6 +1446,9 @@ msgstr "Endre …"
 msgid "Changed"
 msgstr "Endret"
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "Kanal"
 
@@ -1454,6 +1466,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Tegn"
+
+msgid "Character set"
+msgstr "Tegnsett"
 
 msgid "Characters"
 msgstr "Tegn"
@@ -1686,6 +1701,9 @@ msgstr ""
 msgid "Color Space"
 msgstr "Fargerom"
 
+msgid "Color space"
+msgstr "Fargerom"
+
 msgid "Color theme"
 msgstr "Fargetema"
 
@@ -1707,14 +1725,8 @@ msgstr "Kolonner"
 msgid "Comma"
 msgstr "Komma"
 
-msgid "COMMAND"
-msgstr "KOMMANDO"
-
 msgid "Command"
 msgstr "Kommando"
-
-msgid "command"
-msgstr "kommando"
 
 msgid "Command Line"
 msgstr "Kommandolinje"
@@ -1728,6 +1740,9 @@ msgstr "Kommandoer"
 msgid "Comment"
 msgstr "Kommentar"
 
+msgid "comment"
+msgstr "kommentar"
+
 msgid "Comments"
 msgstr "Kommentarer"
 
@@ -1737,11 +1752,17 @@ msgstr "Sjekk inn"
 msgid "Common"
 msgstr "Vanlig"
 
+msgid "Common Name"
+msgstr "Vanlig navn"
+
 msgid "Comoros"
 msgstr "Komorene"
 
 msgid "Compact"
 msgstr "Kompakt"
+
+msgid "Company"
+msgstr "Firma"
 
 msgid "Compare"
 msgstr "Sammenlign"
@@ -1779,6 +1800,9 @@ msgstr "Datamaskin"
 msgid "Condition"
 msgstr "Betingelse"
 
+msgid "Conditions"
+msgstr "Betingelser"
+
 msgid "Confidential"
 msgstr "Konfidensielt"
 
@@ -1809,6 +1833,9 @@ msgstr "Sett opp nettsnarveier …"
 msgid "Confirm"
 msgstr "Bekreft"
 
+msgid "Confirm Password"
+msgstr "Bekreft passord"
+
 msgid "Confirmation"
 msgstr "Bekreftelse"
 
@@ -1820,6 +1847,9 @@ msgstr "Bekreftet"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflikt med en standard programsnarvei"
+
+msgid "Conflicts"
+msgstr "Er i konflikt med"
 
 msgid "Connect"
 msgstr "Koble til"
@@ -1845,6 +1875,9 @@ msgstr "Feil ved tilkobling"
 msgid "Connection Settings"
 msgstr "Innstillinger for tilkopling"
 
+msgid "Connection type"
+msgstr "Tilkoblingstype"
+
 msgid "Connections"
 msgstr "Forbindelser"
 
@@ -1853,11 +1886,6 @@ msgstr "Konsoll"
 
 msgid "Constant"
 msgstr "Konstant"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
-"egenskapen for «%s» objektet «%s» kan ikke bli oppdatert etter objektet har "
-"blit laget"
 
 msgid "Contact"
 msgstr "Kontakt"
@@ -1871,13 +1899,13 @@ msgstr "Beholder"
 msgid "Contains"
 msgstr "Inneholder"
 
-msgid "contains"
-msgstr "inneholder"
-
 msgid "Content"
 msgstr "Innhold"
 
 msgid "Content Type"
+msgstr "Innholdstype"
+
+msgid "Content type"
 msgstr "Innholdstype"
 
 msgid "Contents"
@@ -1901,11 +1929,17 @@ msgstr "Kontrast"
 msgid "Contributor"
 msgstr "Bidragsyter"
 
+msgid "Contributors"
+msgstr "Bidragsytere"
+
 msgid "Control"
 msgstr "Ctrl"
 
 msgid "Convert"
 msgstr "Konverter"
+
+msgid "Convert to"
+msgstr "Konverter til"
 
 msgid "Convert to Path"
 msgstr "Gjør om til bane"
@@ -1924,9 +1958,6 @@ msgstr "Koptisk"
 
 msgid "Copy"
 msgstr "Kopier"
-
-msgid "copy"
-msgstr "kopier"
 
 msgid "&Copy"
 msgstr "Ko&pier"
@@ -1979,6 +2010,9 @@ msgstr "Kopierer filer"
 msgid "Copyright"
 msgstr "Opphavsrett"
 
+msgid "Correct"
+msgstr "Riktig"
+
 msgid "Cost"
 msgstr "Kost"
 
@@ -2002,6 +2036,9 @@ msgstr "Land"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "CPU-bruk"
 
 msgid "Create"
 msgstr "Opprett"
@@ -2030,6 +2067,9 @@ msgstr "Laget av"
 msgid "Credentials"
 msgstr "Innloggingsdata"
 
+msgid "Credit"
+msgstr "Kredit"
+
 msgid "Credits"
 msgstr "Bidragsytere"
 
@@ -2056,15 +2096,6 @@ msgstr "Kryss"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+O"
 
 msgid "Cuba"
 msgstr "Cuba"
@@ -2093,8 +2124,14 @@ msgstr "Kurver"
 msgid "Custom"
 msgstr "Tilpasset"
 
+msgid "&Custom"
+msgstr "&Selvvalgt"
+
 msgid "Custom..."
 msgstr "Tilpasset …"
+
+msgid "Custom color"
+msgstr "Egendefinert farge"
 
 msgid "Custom Font"
 msgstr "Egen skrifttype"
@@ -2168,6 +2205,9 @@ msgstr "Data"
 msgid "Database"
 msgstr "Database"
 
+msgid "Database name"
+msgstr "Databasenavn"
+
 msgid "Date"
 msgstr "Dato"
 
@@ -2183,14 +2223,20 @@ msgstr "Dato og klokkeslett"
 msgid "Date Format"
 msgstr "Datoformat"
 
+msgid "Date format"
+msgstr "Datoformat"
+
 msgid "Date Modified"
 msgstr "Dato endret"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "Dato/Klokkeslett"
 
 msgid "Day"
 msgstr "Dag"
+
+msgid "day"
+msgstr "dag"
 
 msgid "Days"
 msgstr "dager"
@@ -2239,6 +2285,9 @@ msgstr "Standard"
 
 msgid "default"
 msgstr "standard"
+
+msgid "Default value"
+msgstr "Forvalgt verdi"
 
 msgid "Defaults"
 msgstr "Standard"
@@ -2315,6 +2364,9 @@ msgstr "Tetthet"
 msgid "Deny"
 msgstr "Avvis"
 
+msgid "Department"
+msgstr "Avdeling"
+
 msgid "Dependencies"
 msgstr "Avhengigheter"
 
@@ -2347,6 +2399,12 @@ msgstr "Skrivebord"
 
 msgid "Destination"
 msgstr "Mål"
+
+msgid "Destination Folder"
+msgstr "Målmappe"
+
+msgid "Destination folder"
+msgstr "Målmappe"
 
 msgid "Detach"
 msgstr "Koble fra"
@@ -2519,6 +2577,9 @@ msgstr "Oppløs"
 msgid "Distance"
 msgstr "Avstand"
 
+msgid "Distribution"
+msgstr "Spredning"
+
 msgid "Divide"
 msgstr "Del opp"
 
@@ -2573,11 +2634,11 @@ msgstr "Dokumenter"
 msgid "does not contain"
 msgstr "inneholder ikke"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Domene"
+
+msgid "_Domain"
+msgstr "_Domene"
 
 msgid "Dominica"
 msgstr "Dominica"
@@ -2681,6 +2742,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Dynamisk"
+
 msgid "E"
 msgstr "Ø"
 
@@ -2732,6 +2796,9 @@ msgstr "Rediger bilde"
 msgid "Editing"
 msgstr "Redigering"
 
+msgid "Edition"
+msgstr "Utgave"
+
 msgid "Editor"
 msgstr "Redigerer"
 
@@ -2747,9 +2814,6 @@ msgstr "Egypt"
 msgid "Egyptian"
 msgstr "Egyptisk"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Løs ut"
 
@@ -2759,16 +2823,28 @@ msgstr "_Løs ut"
 msgid "El Salvador"
 msgstr "El Salvador"
 
+msgid "Elapsed Time"
+msgstr "Medgått tid"
+
 msgid "Electronic"
 msgstr "Elektronisk"
 
 msgid "Element"
 msgstr "Grunnstoff"
 
+msgid "Elements"
+msgstr "Elementer"
+
 msgid "Ellipse"
 msgstr "Ellipse"
 
+msgid "EMail"
+msgstr "E-post"
+
 msgid "Email"
+msgstr "E-post"
+
+msgid "E-Mail"
 msgstr "E-post"
 
 msgid "E-mail"
@@ -2849,6 +2925,9 @@ msgstr "slutt"
 msgid "End Date"
 msgstr "Sluttdato"
 
+msgid "End date"
+msgstr "Sluttdato"
+
 msgid "End Time"
 msgstr "Slutt-tid"
 
@@ -2870,8 +2949,14 @@ msgstr "Engelsk"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "Oppgi navn"
+
 msgid "Enter password"
 msgstr "Oppgi passord"
+
+msgid "Entries"
+msgstr "Oppføringer"
 
 msgid "Entry"
 msgstr "Oppføring"
@@ -2945,6 +3030,9 @@ msgstr "Hendelse"
 msgid "Events"
 msgstr "Hendelser"
 
+msgid "Every"
+msgstr "Hver"
+
 msgid "Everyone"
 msgstr "Alle"
 
@@ -2961,6 +3049,9 @@ msgid "Examples"
 msgstr "Eksempler"
 
 msgid "Exception"
+msgstr "Unntak"
+
+msgid "Exceptions"
 msgstr "Unntak"
 
 msgid "Exclude"
@@ -2996,11 +3087,17 @@ msgstr "Fold ut alle"
 msgid "Experimental"
 msgstr "Eksperimentell"
 
+msgid "Expiration"
+msgstr "Utløper"
+
 msgid "Expired"
 msgstr "Utgått"
 
 msgid "Expires"
 msgstr "Utgår"
+
+msgid "Expires On"
+msgstr "Utløper den"
 
 msgid "Export"
 msgstr "Eksporter"
@@ -3035,6 +3132,9 @@ msgstr "Alternativer for eksport"
 msgid "Exposure"
 msgstr "Eksponering"
 
+msgid "Exposure Time"
+msgstr "Lukkertid"
+
 msgid "Expression"
 msgstr "Uttrykk"
 
@@ -3055,6 +3155,9 @@ msgstr "Pakk ut"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Fabric"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3113,6 +3216,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Hent"
 
+msgid "Field"
+msgstr "Felt"
+
+msgid "Fields"
+msgstr "Felter"
+
 msgid "Fiji"
 msgstr "Fiji"
 
@@ -3145,6 +3254,9 @@ msgstr "Fila finnes"
 
 msgid "File Format"
 msgstr "Filformat"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr "Filen er ikke en gyldig .desktop-fil"
@@ -3205,6 +3317,9 @@ msgstr "Fyllfarge"
 
 msgid "Filter"
 msgstr "Filter"
+
+msgid "&Filter"
+msgstr "&Filter"
 
 msgid "Filter..."
 msgstr "Filtrer  …"
@@ -3269,6 +3384,9 @@ msgstr "Finsk"
 msgid "First"
 msgstr "Først"
 
+msgid "First Name"
+msgstr "Fornavn"
+
 msgid "First Page"
 msgstr "Første side"
 
@@ -3329,6 +3447,9 @@ msgstr "blomst"
 msgid "Focal Length"
 msgstr "Brennvidde"
 
+msgid "Focal length"
+msgstr "Brennvidde"
+
 msgid "Focus"
 msgstr "Fokus"
 
@@ -3350,6 +3471,9 @@ msgstr "Skrift"
 msgid "&Font"
 msgstr "Skri&ft"
 
+msgid "_Font"
+msgstr "Skri_ft"
+
 msgid "Font Color"
 msgstr "Skriftfarge"
 
@@ -3361,6 +3485,12 @@ msgstr "Skriftstørrelse"
 
 msgid "Font size"
 msgstr "Skriftstørrelse"
+
+msgid "Font Style"
+msgstr "Skriftstil"
+
+msgid "Font style"
+msgstr ""
 
 msgid "Fonts"
 msgstr "Skrifter"
@@ -3398,6 +3528,12 @@ msgstr "Skjema"
 msgid "Format"
 msgstr "Format"
 
+msgid "&Format"
+msgstr "&Format"
+
+msgid "_Format"
+msgstr "_Format"
+
 msgid "Formatting"
 msgstr "Formatering"
 
@@ -3424,6 +3560,12 @@ msgstr "Brøk"
 
 msgid "Frame"
 msgstr "Ramme"
+
+msgid "Frame Rate"
+msgstr "Rammerate"
+
+msgid "Frame rate"
+msgstr "Rammerate"
 
 msgid "Framerate"
 msgstr "Bilderate"
@@ -3468,6 +3610,9 @@ msgid "Full"
 msgstr "Full"
 
 msgid "Full Name"
+msgstr "Fullt navn"
+
+msgid "Full name"
 msgstr "Fullt navn"
 
 msgid "Full Screen"
@@ -3535,6 +3680,9 @@ msgstr ""
 
 msgid "Gateway"
 msgstr "Portner"
+
+msgid "_Gateway"
+msgstr "_Gateway"
 
 msgid "Gaussian Blur"
 msgstr "Gaussisk slør"
@@ -3656,6 +3804,9 @@ msgstr "Gå til forrige side"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr "Mål"
+
 msgid "Gold"
 msgstr "Gull"
 
@@ -3710,6 +3861,9 @@ msgstr "Grå"
 msgid "Grid"
 msgstr "Rutenett"
 
+msgid "&Grid"
+msgstr "&Rutenett"
+
 msgid "Group"
 msgstr "Gruppe"
 
@@ -3755,6 +3909,9 @@ msgstr "Vanskelig"
 msgid "Hardware"
 msgstr "Maskinvare"
 
+msgid "Hash"
+msgstr "Hash"
+
 msgid "Hawaiian"
 msgstr "Hawaisk"
 
@@ -3796,6 +3953,9 @@ msgstr "Høyde"
 
 msgid "&Height"
 msgstr "&Høyde"
+
+msgid "_Height"
+msgstr "_Høyde"
 
 msgid "Help"
 msgstr "Hjelp"
@@ -3841,6 +4001,9 @@ msgstr "Høy"
 
 msgid "Highlight"
 msgstr "Uthev"
+
+msgid "Highlight color"
+msgstr "Farge for fremheving"
 
 msgid "Highlighter"
 msgstr "Fremhever"
@@ -3893,8 +4056,17 @@ msgstr "Hong Kong"
 msgid "Horizontal"
 msgstr "Vannrett"
 
+msgid "_Horizontal"
+msgstr "_Horisontal"
+
+msgid "Horizontally"
+msgstr "Vannrett"
+
 msgid "Host"
 msgstr "Vert"
+
+msgid "Host Name"
+msgstr "Vertsnavn"
 
 msgid "Hostname"
 msgstr "Vertsnavn"
@@ -3974,6 +4146,9 @@ msgstr "Id"
 msgid "id"
 msgstr "id"
 
+msgid "Identification"
+msgstr "Identifikasjon"
+
 msgid "Identifier"
 msgstr "Identifikator"
 
@@ -4027,6 +4202,12 @@ msgstr "Bildeinnstillinger"
 
 msgid "Image Size"
 msgstr "Bildestørrelse"
+
+msgid "Image size"
+msgstr "Bildestørrelse"
+
+msgid "Image type"
+msgstr "Bildetype"
 
 msgid "Image Viewer"
 msgstr "Bildeviser"
@@ -4103,6 +4284,9 @@ msgstr "Øk innrykk"
 msgid "Increase Volume"
 msgstr "Høyere lyd"
 
+msgid "Increment"
+msgstr "Økning"
+
 msgid "Incremental"
 msgstr "Inkrementell"
 
@@ -4114,6 +4298,9 @@ msgstr "Indeks"
 
 msgid "Indexed"
 msgstr "Indeksert"
+
+msgid "Indexing"
+msgstr "Indeksering"
 
 msgid "India"
 msgstr "India"
@@ -4177,6 +4364,9 @@ msgstr "Installerer"
 
 msgid "Instant"
 msgstr "Med en gang"
+
+msgid "Instructions"
+msgstr "Instruksjoner"
 
 msgid "Integer"
 msgstr "Heltall"
@@ -4265,11 +4455,17 @@ msgstr "Irsk"
 msgid "is"
 msgstr "er"
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "Israel"
 
 msgid "Issued By"
 msgstr ""
+
+msgid "Issued On"
+msgstr "Utstedt den"
 
 msgid "Issuer"
 msgstr "Utsteder"
@@ -4367,9 +4563,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Kasakhisk"
 
@@ -4378,18 +4571,6 @@ msgstr "Kasakhstan"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Behold"
@@ -4454,26 +4635,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Koreansk"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Kuwait"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4492,6 +4658,9 @@ msgstr "Liggende"
 
 msgid "Language"
 msgstr "Språk"
+
+msgid "&Language"
+msgstr "&Språk"
 
 msgid "_Language"
 msgstr "S_pråk"
@@ -4513,6 +4682,12 @@ msgstr "Siste"
 
 msgid "Last Modified"
 msgstr "Sist endret"
+
+msgid "Last modified"
+msgstr "Sist endret"
+
+msgid "Last Name"
+msgstr "Etternavn"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4625,8 +4800,20 @@ msgstr "Linjeskift"
 msgid "Line Color"
 msgstr "Linjefarge"
 
+msgid "Line Count"
+msgstr "Antall linjer"
+
 msgid "Line Numbers"
 msgstr "Linjenummer"
+
+msgid "Line spacing"
+msgstr "Rom mellom linjer"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "Linjestil"
 
 msgid "Line Width"
 msgstr "Linjebredde"
@@ -4645,6 +4832,9 @@ msgstr "Lenke"
 
 msgid "link"
 msgstr "lenke"
+
+msgid "Link Text"
+msgstr "Lenketekst"
 
 msgid "Link URL"
 msgstr "Lenke-URL"
@@ -4744,6 +4934,9 @@ msgstr "Logg inn"
 
 msgid "_Login"
 msgstr "_Logg inn"
+
+msgid "Logo"
+msgstr "Logo"
 
 msgid "Logout"
 msgstr "Logg ut"
@@ -4940,6 +5133,9 @@ msgstr "Maksimer"
 msgid "Maximum"
 msgstr "Maksimum"
 
+msgid "Maximum width"
+msgstr "Største bredde"
+
 msgid "May"
 msgstr "Mai"
 
@@ -4994,6 +5190,9 @@ msgstr "Melding"
 msgid "message"
 msgstr "melding"
 
+msgid "&Message"
+msgstr "&Melding"
+
 msgid "Messages"
 msgstr "Meldinger"
 
@@ -5005,6 +5204,9 @@ msgstr "Metadata"
 
 msgid "Metal"
 msgstr "Metall"
+
+msgid "Metering Mode"
+msgstr "Målemodus"
 
 msgid "meters"
 msgstr "meter"
@@ -5044,6 +5246,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "millisekunder"
+
+msgid "MIME type"
+msgstr "MIME-type"
 
 msgid "Min"
 msgstr "Min"
@@ -5090,8 +5295,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Mobil"
 
+msgid "Mobile Phone"
+msgstr "Mobiltelefon"
+
 msgid "Mode"
 msgstr "Modus"
+
+msgid "_Mode"
+msgstr "_Modus"
 
 msgid "Model"
 msgstr "Modell"
@@ -5188,6 +5399,9 @@ msgstr "Marokko"
 
 msgid "Mount"
 msgstr "Monter"
+
+msgid "Mount Point"
+msgstr "Monteringssted"
 
 msgid "Mount point"
 msgstr "Monteringspunkt"
@@ -5327,6 +5541,9 @@ msgstr "_Navn"
 msgid "Name: %1"
 msgstr "Navn: %1"
 
+msgid "Names"
+msgstr "Navn"
+
 msgid "Namespace"
 msgstr "Navnerom"
 
@@ -5356,6 +5573,9 @@ msgstr "Nepali"
 
 msgid "Netherlands"
 msgstr "Nederland"
+
+msgid "Netmask"
+msgstr "Nettmaske"
 
 msgid "Network"
 msgstr "Nettverk"
@@ -5567,6 +5787,9 @@ msgstr "Intet emne"
 msgid "No VPN configuration options."
 msgstr "Ingen konfigurasjonsvalg for VPN."
 
+msgid "Node"
+msgstr "Node"
+
 msgid "Noise"
 msgstr "Støy"
 
@@ -5693,6 +5916,9 @@ msgstr "tall"
 msgid "Number of columns"
 msgstr "Antall kolonner"
 
+msgid "Number of rows"
+msgstr "Antall rader"
+
 msgid "Numbers"
 msgstr "Tall"
 
@@ -5749,9 +5975,6 @@ msgstr "&OK"
 
 msgid "_OK"
 msgstr "_OK"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Oman"
@@ -5903,6 +6126,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr "Operativsystem"
+
 msgid "Operation"
 msgstr "Handling"
 
@@ -5914,6 +6140,9 @@ msgstr "Operasjoner"
 
 msgid "Operator"
 msgstr "Operator"
+
+msgid "Operators"
+msgstr "Operatorer"
 
 msgid "Optical Character Recognition"
 msgstr "Optisk tegn-gjenkjenning"
@@ -5972,6 +6201,9 @@ msgstr "Opprinnelig størrelse"
 msgid "Oriya"
 msgstr "Oriya"
 
+msgid "OS"
+msgstr "OS"
+
 msgid "Other"
 msgstr "Annet"
 
@@ -5986,6 +6218,9 @@ msgstr "Andre programmer …"
 
 msgid "Other Options"
 msgstr "Andre valg"
+
+msgid "Other options"
+msgstr "Andre alternativer"
 
 msgid "Others"
 msgstr "Andre"
@@ -6128,6 +6363,9 @@ msgstr "Forelder"
 msgid "Partition"
 msgstr "Partisjon"
 
+msgid "Passphrase"
+msgstr "Adgangsfrase"
+
 msgid "Password"
 msgstr "Passord"
 
@@ -6166,6 +6404,9 @@ msgstr "Baner"
 
 msgid "Pattern"
 msgstr "Mønster"
+
+msgid "_Pattern"
+msgstr "_Mønster"
 
 msgid "Patterns"
 msgstr "Mønstre"
@@ -6251,8 +6492,14 @@ msgstr "Filippinene"
 msgid "Phone"
 msgstr "Telefon"
 
+msgid "Phone Numbers"
+msgstr "Telefonnumre"
+
 msgid "Photo"
 msgstr "Foto"
+
+msgid "Photos"
+msgstr "Bilder"
 
 msgid "PHP Documentation"
 msgstr "PHP-dokumentasjon"
@@ -6274,6 +6521,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "Kake"
+
+msgid "PIN"
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "Fest"
@@ -6302,9 +6552,6 @@ msgstr "Ren tekst"
 msgid "Plan"
 msgstr "Plan"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Plattform"
 
@@ -6323,8 +6570,14 @@ msgstr "Avspilling"
 msgid "Player"
 msgstr "Spiller"
 
+msgid "Player 1"
+msgstr "Spiller 1"
+
 msgid "Player %1"
 msgstr "Spiller %1"
+
+msgid "Player 2"
+msgstr "Spiller 2"
 
 msgid "Players"
 msgstr "Spillere"
@@ -6404,6 +6657,9 @@ msgstr "Port"
 msgid "&Port"
 msgstr "&Port"
 
+msgid "_Port"
+msgstr "_Port"
+
 msgid "Portrait"
 msgstr "Stående"
 
@@ -6415,6 +6671,9 @@ msgstr "Portugisisk"
 
 msgid "Position"
 msgstr "Posisjon"
+
+msgid "Postal code"
+msgstr "Postnummer"
 
 msgid "Posterize"
 msgstr "Posterisering"
@@ -6457,6 +6716,9 @@ msgstr "Forhåndsvisning"
 
 msgid "&Preview"
 msgstr "&Forhåndsvisning"
+
+msgid "_Preview"
+msgstr "_Forhåndsvis"
 
 msgid "Previews"
 msgstr "Forhåndsvisninger"
@@ -6539,6 +6801,9 @@ msgstr "Personvern"
 msgid "Private"
 msgstr "Privat"
 
+msgid "Private Key"
+msgstr "Privat nøkkel"
+
 msgid "Process"
 msgstr "Prosess"
 
@@ -6566,6 +6831,9 @@ msgstr "Profiler"
 msgid "Program"
 msgstr "Program"
 
+msgid "Programs"
+msgstr "Programmer"
+
 msgid "Progress"
 msgstr "Framdrift"
 
@@ -6574,6 +6842,9 @@ msgstr "Prosjekt"
 
 msgid "&Project"
 msgstr "&Prosjekt"
+
+msgid "Project name"
+msgstr "Prosjektnavn"
 
 msgid "Projects"
 msgstr "Prosjekter"
@@ -6647,6 +6918,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "Qatar"
 
@@ -6702,6 +6976,9 @@ msgstr "Avslutter programmet"
 msgid "Quote"
 msgstr "Sitat"
 
+msgid "Quotes"
+msgstr "Hermetegn"
+
 msgid "R"
 msgstr "R"
 
@@ -6732,6 +7009,9 @@ msgstr "Rate"
 msgid "Rating"
 msgstr "Karakter"
 
+msgid "Ratio"
+msgstr "Forhold"
+
 msgid "Raw"
 msgstr "Rå"
 
@@ -6759,11 +7039,17 @@ msgstr "Klar"
 msgid "Ready."
 msgstr "Klar."
 
+msgid "Realm"
+msgstr "Område"
+
 msgid "Reason"
 msgstr "Årsak"
 
 msgid "Reassign"
 msgstr "Tilordne på nytt"
+
+msgid "Received"
+msgstr "Mottatt"
 
 msgid "Recent"
 msgstr "Nylige"
@@ -6785,6 +7071,9 @@ msgstr "Skjermopptak"
 
 msgid "Rectangle"
 msgstr "Rektangel"
+
+msgid "Recurrence"
+msgstr "Gjentakelse"
 
 msgid "Recursive"
 msgstr "Rekursivt"
@@ -6915,6 +7204,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Fjerner"
+
 msgid "Rename"
 msgstr "Endre navn"
 
@@ -6935,6 +7227,9 @@ msgstr "Gi bokmerke nytt navn"
 
 msgid "Rename File"
 msgstr "Endre navn på fila"
+
+msgid "Rendering intent"
+msgstr "Gjengivelsesformål"
 
 msgid "Repeat"
 msgstr "Gjenta"
@@ -6957,11 +7252,20 @@ msgstr "Erstatt _alle"
 msgid "Replace an existing instance"
 msgstr "Erstatt en eksisterende instans"
 
+msgid "Replace With"
+msgstr "Erstatt med"
+
+msgid "Replace with"
+msgstr "Bytt ut med"
+
 msgid "Replacement"
 msgstr "Erstatning"
 
 msgid "Reply"
 msgstr "Svar"
+
+msgid "Reply-To"
+msgstr "Svar til"
 
 msgid "Report"
 msgstr "Rapport"
@@ -6980,6 +7284,9 @@ msgstr "&Meld fra om feil …"
 
 msgid "Reports"
 msgstr "Rapporter"
+
+msgid "Repository"
+msgstr "Depot"
 
 msgid "Required"
 msgstr "Nødvendig"
@@ -7092,6 +7399,9 @@ msgstr "Fra høyre til venstre"
 msgid "Right-click"
 msgstr "Høyreklikk"
 
+msgid "Rights"
+msgstr "Retter"
+
 msgid "River"
 msgstr "Elv"
 
@@ -7146,6 +7456,9 @@ msgstr "rader"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "Regel"
+
 msgid "Rules"
 msgstr "Regler"
 
@@ -7154,6 +7467,9 @@ msgstr "Kjør"
 
 msgid "&Run"
 msgstr "&Kjør"
+
+msgid "Run command"
+msgstr "Kjør kommando"
 
 msgid "Run in terminal"
 msgstr "Kjør i terminal"
@@ -7290,6 +7606,9 @@ msgstr "Lagre bilde"
 msgid "_Save Image As..."
 msgstr "Lagre bilde _som …"
 
+msgid "Save Location"
+msgstr "Lagre til"
+
 msgid "Save Project"
 msgstr "Lagre prosjekt"
 
@@ -7298,6 +7617,9 @@ msgstr "Lagre økt"
 
 msgid "Save Settings"
 msgstr "Lagre innstillinger"
+
+msgid "Save to"
+msgstr "Lagre til"
 
 msgid "Saved"
 msgstr "Lagret"
@@ -7329,11 +7651,17 @@ msgstr "Skann"
 msgid "Scanner"
 msgstr "Skanner"
 
+msgid "Scanning"
+msgstr "Analysering"
+
 msgid "Scanning..."
 msgstr "Søker …"
 
 msgid "Schedule"
 msgstr "Tidsplan"
+
+msgid "Scheduler"
+msgstr "Tidsplanlegger"
 
 msgid "Scheduling"
 msgstr "Planlegging"
@@ -7410,11 +7738,17 @@ msgstr "Søk …"
 msgid "Search Bar"
 msgstr "Søkelinje"
 
+msgid "Search for"
+msgstr "Søk etter"
+
 msgid "_Search for"
 msgstr "_Søk etter"
 
 msgid "Search for '%1' with"
 msgstr "Søk etter «%1» med"
+
+msgid "Search in"
+msgstr "Søk i"
 
 msgid "Search Options"
 msgstr "Alternativer for søk"
@@ -7518,6 +7852,9 @@ msgstr "Utvalg"
 msgid "Selections"
 msgstr "Utvalg"
 
+msgid "Self"
+msgstr "Selv"
+
 msgid "Semicolon"
 msgstr "Semikolon"
 
@@ -7557,6 +7894,9 @@ msgstr "Serbia"
 msgid "Serbian"
 msgstr "Serbisk"
 
+msgid "Serial"
+msgstr "Serienummer"
+
 msgid "Serial Number"
 msgstr "Serienummer"
 
@@ -7572,8 +7912,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "Tjener"
 
+msgid "&Server"
+msgstr "Tj&ener"
+
 msgid "Server URL"
 msgstr "Tjener-URL"
+
+msgid "Servers"
+msgstr "Tjenere"
 
 msgid "Service"
 msgstr "Tjeneste"
@@ -7586,6 +7932,9 @@ msgstr "Økt"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Øktnavn"
 
 msgid "Sessions"
 msgstr "Økter"
@@ -7616,6 +7965,12 @@ msgstr "Alvorlighet"
 
 msgid "Seychelles"
 msgstr "Seychellene"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7655,6 +8010,12 @@ msgstr "Skarphet"
 
 msgid "Shear"
 msgstr "Skjær"
+
+msgid "Sheet"
+msgstr "Ark"
+
+msgid "Sheets"
+msgstr "Ark"
 
 msgid "Shell"
 msgstr "Skall"
@@ -7776,6 +8137,9 @@ msgstr "Enkel"
 msgid "Sinhala"
 msgstr "Singalesisk"
 
+msgid "Site"
+msgstr "Nettsted"
+
 msgid "Size"
 msgstr "Størrelse"
 
@@ -7784,6 +8148,9 @@ msgstr "størrelse"
 
 msgid "&Size"
 msgstr "&Størrelse"
+
+msgid "_Size"
+msgstr "_Størrelse"
 
 msgid "Size: %1"
 msgstr "Størrelse: %1"
@@ -7811,6 +8178,9 @@ msgstr "Glidebryter"
 
 msgid "Slideshow"
 msgstr "Lysbildevisning"
+
+msgid "Slope"
+msgstr "Helling"
 
 msgid "Slovak"
 msgstr "Slovak"
@@ -7866,6 +8236,12 @@ msgstr "Helfylt farge"
 msgid "Solomon Islands"
 msgstr "Salomon-øyene"
 
+msgid "Solution"
+msgstr "Løsning"
+
+msgid "Solve"
+msgstr "Løs"
+
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -7883,6 +8259,9 @@ msgstr "Sortering"
 
 msgid "Sound"
 msgstr "Lyd"
+
+msgid "Sounds"
+msgstr "Lyder"
 
 msgid "Soundtrack"
 msgstr "Filmmusikk"
@@ -7951,6 +8330,9 @@ msgid "Spell Check"
 msgstr "Stavekontroll"
 
 msgid "Spell Checking"
+msgstr "Stavekontroll"
+
+msgid "Spellcheck"
 msgstr "Stavekontroll"
 
 msgid "Spelling"
@@ -8192,6 +8574,9 @@ msgstr "Sundanesisk"
 msgid "Sunday"
 msgstr "Søndag"
 
+msgid "Sunrise"
+msgstr "Soloppgang"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8248,6 +8633,9 @@ msgstr "Synkronisering"
 
 msgid "Synchronize"
 msgstr "Synkroniser"
+
+msgid "Syntax"
+msgstr "Syntaks"
 
 msgid "Syriac"
 msgstr "Syrisk"
@@ -8310,6 +8698,9 @@ msgid "Tanzania"
 msgstr "Tanzania"
 
 msgid "Target"
+msgstr "Mål"
+
+msgid "Targets"
 msgstr "Mål"
 
 msgid "Task"
@@ -8425,6 +8816,9 @@ msgstr "NetworkManager Utviklere"
 msgid "Theme"
 msgstr "Tema"
 
+msgid "&Theme"
+msgstr "&Tema"
+
 msgid "Themes"
 msgstr "Tema"
 
@@ -8443,6 +8837,9 @@ msgstr "Dette gjemmer menylinja helt. Du kan vise den igjen ved å taste %1."
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "Tråder"
 
 msgid "Threshold"
 msgstr "Terskel"
@@ -8470,6 +8867,9 @@ msgstr "Flis"
 
 msgid "Tiled"
 msgstr "Flislagt"
+
+msgid "Tiles"
+msgstr "Brikker"
 
 msgid "Tilt"
 msgstr "Vend"
@@ -8519,6 +8919,9 @@ msgstr "&Tittel"
 msgid "_Title"
 msgstr "_Tittel"
 
+msgid "Titles"
+msgstr "Titler"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8541,6 +8944,9 @@ msgid "TODO"
 msgstr "GJENSTÅR"
 
 msgid "Todo"
+msgstr "Gjøremål"
+
+msgid "To-do"
 msgstr "Gjøremål"
 
 msgid "Toggle Fullscreen"
@@ -8573,6 +8979,9 @@ msgstr "Verktøy"
 msgid "Tool Options"
 msgstr "Verktøyinnstillinger"
 
+msgid "Toolbar"
+msgstr "Verktøylinje"
+
 msgid "_Toolbar"
 msgstr "Verk_tøylinje"
 
@@ -8593,6 +9002,9 @@ msgstr "Verk&tøy"
 
 msgid "_Tools"
 msgstr "Verk_tøy"
+
+msgid "Tooltip"
+msgstr "Hjelpebobler"
 
 msgid "Top"
 msgstr "Øverst"
@@ -8744,11 +9156,17 @@ msgstr "type"
 msgid "&Type"
 msgstr "&Type"
 
+msgid "_Type"
+msgstr "_Type"
+
 msgid "Type: %1"
 msgstr "Type: %1"
 
 msgid "Uganda"
 msgstr "Uganda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ukraina"
@@ -8981,6 +9399,9 @@ msgstr "Brukt"
 msgid "User"
 msgstr "Bruker"
 
+msgid "User Agent"
+msgstr "Brukeragent"
+
 msgid "User Certificate"
 msgstr "Brukersertifikat"
 
@@ -9005,11 +9426,17 @@ msgstr "Bruker-passord"
 msgid "Username"
 msgstr "Brukernavn"
 
+msgid "&Username"
+msgstr "Br&ukernavn"
+
 msgid "_Username"
 msgstr "_Brukernavn"
 
 msgid "Users"
 msgstr "Brukere"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Verktøy"
@@ -9031,6 +9458,9 @@ msgstr "Gyldig"
 
 msgid "Valid from"
 msgstr "Gyldig fra"
+
+msgid "Valid until"
+msgstr "Gyldig til"
 
 msgid "Validity"
 msgstr "Gyldighet"
@@ -9066,6 +9496,9 @@ msgstr "Variabler"
 msgid "Variance"
 msgstr "Varians"
 
+msgid "Variant"
+msgstr "Variant"
+
 msgid "Vector"
 msgstr "Vektor"
 
@@ -9092,6 +9525,9 @@ msgstr "Versjon %1"
 
 msgid "Vertical"
 msgstr "Loddrett"
+
+msgid "_Vertical"
+msgstr "_Vertikal"
 
 msgid "Very Large"
 msgstr "Svært stor"
@@ -9125,6 +9561,9 @@ msgstr "&Vis"
 
 msgid "_View"
 msgstr "_Vis"
+
+msgid "View mode"
+msgstr "Visningsmodus"
 
 msgid "View Options"
 msgstr "Vis alternativer"
@@ -9285,6 +9724,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
+msgid "Wind"
+msgstr "Vind"
+
 msgid "Window"
 msgstr "Vindu"
 
@@ -9327,11 +9769,17 @@ msgstr "Ord"
 msgid "Word Count"
 msgstr "Antall ord"
 
+msgid "Word wrap"
+msgstr "Ordbryting"
+
 msgid "Words"
 msgstr "Ord"
 
 msgid "Work"
 msgstr "Arbeid"
+
+msgid "Workspace"
+msgstr "Arbeidsrom"
 
 msgid "World"
 msgstr "Verden"
@@ -9371,6 +9819,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "År"
+
+msgid "&Year"
+msgstr "Å&r"
 
 msgid "Yearly"
 msgstr "Årlig"
@@ -9432,6 +9883,9 @@ msgstr "&Forstørre/-minske"
 
 msgid "_Zoom"
 msgstr "_Zoom"
+
+msgid "Zoom factor"
+msgstr "Forstørrelsesfaktor"
 
 msgid "Zoom In"
 msgstr "Zoom inn"

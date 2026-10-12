@@ -82,9 +82,6 @@ msgstr " dhe "
 msgid " (default)"
 msgstr ""
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Një skedar i emërtuar \"%1\" ekziston tashmë. Jeni i sigurtë që dëshironi ta"
@@ -357,17 +357,20 @@ msgstr "_Informacione"
 msgid "About %1"
 msgstr "Rreth %1"
 
-msgid "About KDE"
-msgstr "Mbi KDE-në"
-
 msgid "Abstract"
 msgstr "Abstract"
+
+msgid "Acceleration"
+msgstr "Përshpejtimi"
 
 msgid "Accept"
 msgstr "Prano"
 
 msgid "Accepted"
 msgstr ""
+
+msgid "Access"
+msgstr "Hyrje"
 
 msgid "Accessed"
 msgstr "Datës së qasjes"
@@ -385,6 +388,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -639,6 +645,9 @@ msgstr "Sipas Alfabetit"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Alternativ"
+
 msgid "Alternative"
 msgstr "Alternativ"
 
@@ -714,8 +723,14 @@ msgstr "Shënimet"
 msgid "Anonymous"
 msgstr "Anonim"
 
+msgid "Answer"
+msgstr "Përgjigje"
+
 msgid "Antarctica"
 msgstr "Antarctica"
+
+msgid "Antialiasing"
+msgstr ""
 
 msgid "Any"
 msgstr "Çfarëdo"
@@ -885,6 +900,9 @@ msgstr ""
 msgid "Author"
 msgstr "Autori"
 
+msgid "Author name"
+msgstr ""
+
 msgid "Authors"
 msgstr ""
 
@@ -930,6 +948,9 @@ msgstr ""
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr ""
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -942,8 +963,14 @@ msgstr "&Mbrapa"
 msgid "_Back"
 msgstr "_Mbrapa"
 
+msgid "Backend"
+msgstr ""
+
 msgid "Background"
 msgstr "Sfondi"
+
+msgid "&Background"
+msgstr "&Sfondi"
 
 msgid "Background Color"
 msgstr "Ngjyra e Sfondit"
@@ -953,6 +980,9 @@ msgstr "Ngjyrë sfondi"
 
 msgid "&Background color"
 msgstr "&Ngjyra e Sfondit"
+
+msgid "Background image"
+msgstr "Figura e sfondit"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -974,6 +1004,9 @@ msgstr ""
 
 msgid "Baltic"
 msgstr "Balltike"
+
+msgid "Bandwidth"
+msgstr ""
 
 msgid "Bangladesh"
 msgstr "Bangladeshi"
@@ -1001,6 +1034,9 @@ msgstr "Bas"
 
 msgid "Battery"
 msgstr "Bateri"
+
+msgid "BCC"
+msgstr ""
 
 msgid "Bcc"
 msgstr ""
@@ -1158,23 +1194,8 @@ msgstr "Degë"
 msgid "Brazil"
 msgstr "Brazili"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze nga KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Breeze e Errët"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze e Errët nga KDE VDG"
-
 msgid "Breton"
 msgstr "Bretonisht"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "Urë Rrjeti"
@@ -1311,18 +1332,6 @@ msgstr "A&nullo"
 msgid "Canceled"
 msgstr "Anulluar"
 
-msgid "Cancelled"
-msgstr ""
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "Nuk mund t'i kalohen URLtë e dokumenteve një zëri desktop 'Type=Link'"
-
 msgid "Canvas"
 msgstr ""
 
@@ -1341,14 +1350,14 @@ msgstr ""
 msgid "Caps Lock is on"
 msgstr ""
 
+msgid "Caption"
+msgstr "Kapitulli"
+
 msgid "Capture"
 msgstr "Marrje"
 
 msgid "Car"
 msgstr "Makina"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascade"
@@ -1437,6 +1446,9 @@ msgstr "Ndrysho..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "Kanali"
 
@@ -1454,6 +1466,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Shenjë"
+
+msgid "Character set"
+msgstr ""
 
 msgid "Characters"
 msgstr "Shenja"
@@ -1686,6 +1701,9 @@ msgstr ""
 msgid "Color Space"
 msgstr ""
 
+msgid "Color space"
+msgstr ""
+
 msgid "Color theme"
 msgstr "Temë ngjyrash"
 
@@ -1707,14 +1725,8 @@ msgstr "Kolonat"
 msgid "Comma"
 msgstr ""
 
-msgid "COMMAND"
-msgstr "KOMANDA"
-
 msgid "Command"
 msgstr "Komanda"
-
-msgid "command"
-msgstr "komandë"
 
 msgid "Command Line"
 msgstr "Rreshti i komandës"
@@ -1728,6 +1740,9 @@ msgstr "Urdhra"
 msgid "Comment"
 msgstr "Komenti"
 
+msgid "comment"
+msgstr "komenti"
+
 msgid "Comments"
 msgstr "Komente"
 
@@ -1737,11 +1752,17 @@ msgstr ""
 msgid "Common"
 msgstr "Përbashkët"
 
+msgid "Common Name"
+msgstr "Emri i zakonshëm"
+
 msgid "Comoros"
 msgstr "Comoros"
 
 msgid "Compact"
 msgstr "Kompakt"
+
+msgid "Company"
+msgstr "Kompania"
 
 msgid "Compare"
 msgstr "Krahaso"
@@ -1779,6 +1800,9 @@ msgstr "Kompjuteri"
 msgid "Condition"
 msgstr "Kushti"
 
+msgid "Conditions"
+msgstr "Kushtet"
+
 msgid "Confidential"
 msgstr "Në konfidencë"
 
@@ -1809,6 +1833,9 @@ msgstr "Formësoni Shkurtore Web…"
 msgid "Confirm"
 msgstr "Konfermo"
 
+msgid "Confirm Password"
+msgstr ""
+
 msgid "Confirmation"
 msgstr "Konfirmimi"
 
@@ -1820,6 +1847,9 @@ msgstr "I ripohuar"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflike me Shkurtoren e Programit Standart"
+
+msgid "Conflicts"
+msgstr "Konflikte"
 
 msgid "Connect"
 msgstr "Lidhu"
@@ -1845,6 +1875,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr ""
 
+msgid "Connection type"
+msgstr ""
+
 msgid "Connections"
 msgstr "Lidhjet"
 
@@ -1853,9 +1886,6 @@ msgstr "Komanda"
 
 msgid "Constant"
 msgstr "Konstante"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "Kontakti"
@@ -1869,13 +1899,13 @@ msgstr ""
 msgid "Contains"
 msgstr "Përmban"
 
-msgid "contains"
-msgstr "përmban"
-
 msgid "Content"
 msgstr "Përmbajtja"
 
 msgid "Content Type"
+msgstr ""
+
+msgid "Content type"
 msgstr ""
 
 msgid "Contents"
@@ -1899,10 +1929,16 @@ msgstr "Kontrasti"
 msgid "Contributor"
 msgstr "Kontribues"
 
+msgid "Contributors"
+msgstr "Ndihmuan"
+
 msgid "Control"
 msgstr "Kontrollo"
 
 msgid "Convert"
+msgstr ""
+
+msgid "Convert to"
 msgstr ""
 
 msgid "Convert to Path"
@@ -1922,9 +1958,6 @@ msgstr "Coptic"
 
 msgid "Copy"
 msgstr "Kopjo"
-
-msgid "copy"
-msgstr ""
 
 msgid "&Copy"
 msgstr "&Kopjo"
@@ -1977,6 +2010,9 @@ msgstr ""
 msgid "Copyright"
 msgstr "E Drejta E Autorit"
 
+msgid "Correct"
+msgstr ""
+
 msgid "Cost"
 msgstr ""
 
@@ -1999,6 +2035,9 @@ msgid "Country"
 msgstr "Vendi"
 
 msgid "CPU"
+msgstr ""
+
+msgid "CPU usage"
 msgstr ""
 
 msgid "Create"
@@ -2028,6 +2067,9 @@ msgstr ""
 msgid "Credentials"
 msgstr ""
 
+msgid "Credit"
+msgstr "Kredit"
+
 msgid "Credits"
 msgstr ""
 
@@ -2053,15 +2095,6 @@ msgid "Cross"
 msgstr "Kryq"
 
 msgid "CSV"
-msgstr ""
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
 msgstr ""
 
 msgid "Cuba"
@@ -2091,7 +2124,13 @@ msgstr ""
 msgid "Custom"
 msgstr "E personalizuar"
 
+msgid "&Custom"
+msgstr "Të &Personalizuar"
+
 msgid "Custom..."
+msgstr ""
+
+msgid "Custom color"
 msgstr ""
 
 msgid "Custom Font"
@@ -2166,6 +2205,9 @@ msgstr "Të Dhënat"
 msgid "Database"
 msgstr "Databaza"
 
+msgid "Database name"
+msgstr ""
+
 msgid "Date"
 msgstr "Data"
 
@@ -2181,14 +2223,20 @@ msgstr "Data dhe Ora"
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr ""
+
 msgid "Date Modified"
 msgstr "Ndryshimi i fundit"
 
-msgid "David Edmundson"
+msgid "Date/Time"
 msgstr ""
 
 msgid "Day"
 msgstr "Ditë"
+
+msgid "day"
+msgstr "ditë"
 
 msgid "Days"
 msgstr "Ditët"
@@ -2237,6 +2285,9 @@ msgstr "I Parazgjedhur"
 
 msgid "default"
 msgstr "parazgjedhje"
+
+msgid "Default value"
+msgstr ""
 
 msgid "Defaults"
 msgstr "Parazgjedhje"
@@ -2313,6 +2364,9 @@ msgstr "Dendësi"
 msgid "Deny"
 msgstr "Moho"
 
+msgid "Department"
+msgstr "Departamenti"
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2345,6 +2399,12 @@ msgstr "Ambienti grafik"
 
 msgid "Destination"
 msgstr "Vendmbërritje"
+
+msgid "Destination Folder"
+msgstr ""
+
+msgid "Destination folder"
+msgstr "Kartela e destinuar"
 
 msgid "Detach"
 msgstr ""
@@ -2517,6 +2577,9 @@ msgstr ""
 msgid "Distance"
 msgstr "Distanca"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "Pjestim"
 
@@ -2571,11 +2634,11 @@ msgstr "Dokumente"
 msgid "does not contain"
 msgstr ""
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Domain"
+
+msgid "_Domain"
+msgstr "_Domain"
 
 msgid "Dominica"
 msgstr "Dominika"
@@ -2679,6 +2742,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr ""
+
 msgid "E"
 msgstr "E"
 
@@ -2730,6 +2796,9 @@ msgstr ""
 msgid "Editing"
 msgstr "Ndryshime"
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "Editori"
 
@@ -2745,9 +2814,6 @@ msgstr "Egjipti"
 msgid "Egyptian"
 msgstr "Egjiptian"
 
-msgid "Eike Hein"
-msgstr ""
-
 msgid "Eject"
 msgstr "Nxirre jashtë"
 
@@ -2757,17 +2823,29 @@ msgstr "_Nxirre"
 msgid "El Salvador"
 msgstr "El Salvadori"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr "Elektronike"
 
 msgid "Element"
 msgstr ""
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "Elips"
 
+msgid "EMail"
+msgstr ""
+
 msgid "Email"
 msgstr "Email"
+
+msgid "E-Mail"
+msgstr "E-Mail"
 
 msgid "E-mail"
 msgstr ""
@@ -2847,6 +2925,9 @@ msgstr ""
 msgid "End Date"
 msgstr "Data e Përfundimit"
 
+msgid "End date"
+msgstr ""
+
 msgid "End Time"
 msgstr ""
 
@@ -2868,8 +2949,14 @@ msgstr "Anglisht"
 msgid "Enter"
 msgstr "Dërgo"
 
+msgid "Enter name"
+msgstr "Vendos emrin"
+
 msgid "Enter password"
 msgstr "Shkruaj fjalëkalimin"
+
+msgid "Entries"
+msgstr ""
 
 msgid "Entry"
 msgstr "Hyrja"
@@ -2943,6 +3030,9 @@ msgstr "Ngjarja"
 msgid "Events"
 msgstr "Ngjarjet"
 
+msgid "Every"
+msgstr ""
+
 msgid "Everyone"
 msgstr ""
 
@@ -2960,6 +3050,9 @@ msgstr "Shembuj"
 
 msgid "Exception"
 msgstr "Përjashtim"
+
+msgid "Exceptions"
+msgstr ""
 
 msgid "Exclude"
 msgstr ""
@@ -2994,11 +3087,17 @@ msgstr "Shpalosi të gjitha"
 msgid "Experimental"
 msgstr ""
 
+msgid "Expiration"
+msgstr "Skadenca"
+
 msgid "Expired"
 msgstr "Ka Skaduar"
 
 msgid "Expires"
 msgstr ""
+
+msgid "Expires On"
+msgstr "Skadon më"
 
 msgid "Export"
 msgstr "Eksporto"
@@ -3033,6 +3132,9 @@ msgstr "Opcionet e eksportimit"
 msgid "Exposure"
 msgstr ""
 
+msgid "Exposure Time"
+msgstr ""
+
 msgid "Expression"
 msgstr ""
 
@@ -3053,6 +3155,9 @@ msgstr "Nxirr"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr ""
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3111,6 +3216,12 @@ msgstr ""
 msgid "Fetch"
 msgstr "Mblidh"
 
+msgid "Field"
+msgstr "Fusha"
+
+msgid "Fields"
+msgstr "Fusha"
+
 msgid "Fiji"
 msgstr "Fixhi"
 
@@ -3143,6 +3254,9 @@ msgstr "Skedari Ekziston"
 
 msgid "File Format"
 msgstr "Formati i Skedarit"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr "File nuk është një file i vlefshëm .desktop"
@@ -3203,6 +3317,9 @@ msgstr ""
 
 msgid "Filter"
 msgstr "Filtri"
+
+msgid "&Filter"
+msgstr "&Filtro"
 
 msgid "Filter..."
 msgstr "Filtri..."
@@ -3267,6 +3384,9 @@ msgstr "Finlandisht"
 msgid "First"
 msgstr "E Para"
 
+msgid "First Name"
+msgstr "Emri"
+
 msgid "First Page"
 msgstr ""
 
@@ -3327,6 +3447,9 @@ msgstr "lule"
 msgid "Focal Length"
 msgstr ""
 
+msgid "Focal length"
+msgstr "Gjatësia e fokusit"
+
 msgid "Focus"
 msgstr "Fokus"
 
@@ -3348,6 +3471,9 @@ msgstr "Gërmat"
 msgid "&Font"
 msgstr "&Shkrimi"
 
+msgid "_Font"
+msgstr "_Gërmat"
+
 msgid "Font Color"
 msgstr "Ngjyra e Gërmave"
 
@@ -3359,6 +3485,12 @@ msgstr "Madhësia e gërmave"
 
 msgid "Font size"
 msgstr "Madhësi shkronjash"
+
+msgid "Font Style"
+msgstr ""
+
+msgid "Font style"
+msgstr "Stili i gërmave"
 
 msgid "Fonts"
 msgstr "Gërmat"
@@ -3396,6 +3528,12 @@ msgstr "Forma"
 msgid "Format"
 msgstr "Formati"
 
+msgid "&Format"
+msgstr ""
+
+msgid "_Format"
+msgstr ""
+
 msgid "Formatting"
 msgstr "Duke formatuar"
 
@@ -3421,6 +3559,12 @@ msgid "Fraction"
 msgstr ""
 
 msgid "Frame"
+msgstr ""
+
+msgid "Frame Rate"
+msgstr "Shpejtësia e pamjeve"
+
+msgid "Frame rate"
 msgstr ""
 
 msgid "Framerate"
@@ -3467,6 +3611,9 @@ msgstr "I Plotë"
 
 msgid "Full Name"
 msgstr "Emri dhe Mbiemri"
+
+msgid "Full name"
+msgstr "Emri i plotë"
 
 msgid "Full Screen"
 msgstr "Ekran i plotë"
@@ -3532,6 +3679,9 @@ msgid "Gate"
 msgstr ""
 
 msgid "Gateway"
+msgstr ""
+
+msgid "_Gateway"
 msgstr ""
 
 msgid "Gaussian Blur"
@@ -3654,6 +3804,9 @@ msgstr "Shko tek faqja paraardhëse"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr "Synim"
+
 msgid "Gold"
 msgstr ""
 
@@ -3708,6 +3861,9 @@ msgstr "Hiri"
 msgid "Grid"
 msgstr "Rrjeta"
 
+msgid "&Grid"
+msgstr "&Rrjeta"
+
 msgid "Group"
 msgstr "Grupi"
 
@@ -3753,6 +3909,9 @@ msgstr "E Vështirë"
 msgid "Hardware"
 msgstr "Hardware"
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr "Havajanisht"
 
@@ -3794,6 +3953,9 @@ msgstr "Lartësia"
 
 msgid "&Height"
 msgstr "&Lartësi"
+
+msgid "_Height"
+msgstr "_Lartësia"
 
 msgid "Help"
 msgstr "Ndihmë"
@@ -3839,6 +4001,9 @@ msgstr "E lartë"
 
 msgid "Highlight"
 msgstr "Vër në dukje"
+
+msgid "Highlight color"
+msgstr "Ngjyra e vënies në dukje"
 
 msgid "Highlighter"
 msgstr ""
@@ -3891,8 +4056,17 @@ msgstr "Hong Kong"
 msgid "Horizontal"
 msgstr "Horizontal"
 
+msgid "_Horizontal"
+msgstr "_Horizontalisht"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "Host"
+
+msgid "Host Name"
+msgstr ""
 
 msgid "Hostname"
 msgstr "Emri i Hostit"
@@ -3972,6 +4146,9 @@ msgstr "Id"
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr "Identifikuesi"
 
@@ -4025,6 +4202,12 @@ msgstr "Rregullimet e Figurës"
 
 msgid "Image Size"
 msgstr "Përmasa e Imazhit"
+
+msgid "Image size"
+msgstr ""
+
+msgid "Image type"
+msgstr ""
 
 msgid "Image Viewer"
 msgstr "Shikues figurash"
@@ -4101,6 +4284,9 @@ msgstr "Rrit ngushtimin"
 msgid "Increase Volume"
 msgstr "Rrite zërin"
 
+msgid "Increment"
+msgstr ""
+
 msgid "Incremental"
 msgstr ""
 
@@ -4112,6 +4298,9 @@ msgstr "Treguesi"
 
 msgid "Indexed"
 msgstr "I Indeksuar"
+
+msgid "Indexing"
+msgstr "Duke indeksuar"
 
 msgid "India"
 msgstr "India"
@@ -4175,6 +4364,9 @@ msgstr "Duke Instaluar"
 
 msgid "Instant"
 msgstr ""
+
+msgid "Instructions"
+msgstr "Udhëzime"
 
 msgid "Integer"
 msgstr "Numër i plotë"
@@ -4263,11 +4455,17 @@ msgstr "Irlandeze"
 msgid "is"
 msgstr ""
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "Izraeli"
 
 msgid "Issued By"
 msgstr ""
+
+msgid "Issued On"
+msgstr "Lëshuar më"
 
 msgid "Issuer"
 msgstr "Lëshues"
@@ -4365,9 +4563,6 @@ msgstr ""
 msgid "Kannada"
 msgstr "Kanada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Kazakisht"
 
@@ -4375,18 +4570,6 @@ msgid "Kazakhstan"
 msgstr "Kazakistani"
 
 msgid "kB"
-msgstr ""
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
 msgstr ""
 
 msgid "Keep"
@@ -4452,26 +4635,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr ""
-
 msgid "Korean"
 msgstr "Koreane"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Kuvajti"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4490,6 +4658,9 @@ msgstr "Peizazh"
 
 msgid "Language"
 msgstr "Gjuha"
+
+msgid "&Language"
+msgstr "&Gjuha"
 
 msgid "_Language"
 msgstr "_Gjuha"
@@ -4511,6 +4682,12 @@ msgstr "E fundit"
 
 msgid "Last Modified"
 msgstr "Modifikimi i Fundit"
+
+msgid "Last modified"
+msgstr ""
+
+msgid "Last Name"
+msgstr "Mbiemri"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4623,8 +4800,20 @@ msgstr ""
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr "Numri i rreshtave"
+
 msgid "Line Numbers"
 msgstr ""
+
+msgid "Line spacing"
+msgstr ""
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "Stili i vijave"
 
 msgid "Line Width"
 msgstr ""
@@ -4643,6 +4832,9 @@ msgstr "Lidhje"
 
 msgid "link"
 msgstr "hallkë"
+
+msgid "Link Text"
+msgstr ""
 
 msgid "Link URL"
 msgstr ""
@@ -4742,6 +4934,9 @@ msgstr "Hyrje"
 
 msgid "_Login"
 msgstr ""
+
+msgid "Logo"
+msgstr "Stema"
 
 msgid "Logout"
 msgstr "Dalja"
@@ -4938,6 +5133,9 @@ msgstr "Maksimizo"
 msgid "Maximum"
 msgstr "Maksimum"
 
+msgid "Maximum width"
+msgstr ""
+
 msgid "May"
 msgstr "Maj"
 
@@ -4992,6 +5190,9 @@ msgstr "Mesazh"
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr ""
+
 msgid "Messages"
 msgstr "Mesazhe"
 
@@ -5003,6 +5204,9 @@ msgstr "Metadata"
 
 msgid "Metal"
 msgstr "Metal"
+
+msgid "Metering Mode"
+msgstr ""
 
 msgid "meters"
 msgstr "metra"
@@ -5042,6 +5246,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "milisekonda"
+
+msgid "MIME type"
+msgstr ""
 
 msgid "Min"
 msgstr "Min"
@@ -5088,8 +5295,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Mobile"
 
+msgid "Mobile Phone"
+msgstr "Celulari"
+
 msgid "Mode"
 msgstr "Mënyra"
+
+msgid "_Mode"
+msgstr ""
 
 msgid "Model"
 msgstr "Modeli"
@@ -5186,6 +5399,9 @@ msgstr "Maroku"
 
 msgid "Mount"
 msgstr "Monto"
+
+msgid "Mount Point"
+msgstr "Pika e Montimit"
 
 msgid "Mount point"
 msgstr ""
@@ -5325,6 +5541,9 @@ msgstr "_Emri"
 msgid "Name: %1"
 msgstr "Emër: %1"
 
+msgid "Names"
+msgstr "Emra"
+
 msgid "Namespace"
 msgstr "Emri hapësirës"
 
@@ -5354,6 +5573,9 @@ msgstr "Nepalishte"
 
 msgid "Netherlands"
 msgstr "Hollanda"
+
+msgid "Netmask"
+msgstr "NetMask-ë"
 
 msgid "Network"
 msgstr "Rrjeti"
@@ -5565,6 +5787,9 @@ msgstr "Asnjë Subjekt"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "Nyjë"
+
 msgid "Noise"
 msgstr "Noise"
 
@@ -5691,6 +5916,9 @@ msgstr "numër"
 msgid "Number of columns"
 msgstr ""
 
+msgid "Number of rows"
+msgstr ""
+
 msgid "Numbers"
 msgstr "Numra"
 
@@ -5747,9 +5975,6 @@ msgstr ""
 
 msgid "_OK"
 msgstr ""
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Oman"
@@ -5901,6 +6126,9 @@ msgstr ""
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr ""
+
 msgid "Operation"
 msgstr "Veprimi"
 
@@ -5912,6 +6140,9 @@ msgstr "Veprimet"
 
 msgid "Operator"
 msgstr "Operatori"
+
+msgid "Operators"
+msgstr "Operatorë"
 
 msgid "Optical Character Recognition"
 msgstr "Njohja optike e simboleve"
@@ -5970,6 +6201,9 @@ msgstr "Madhësia origjinale"
 msgid "Oriya"
 msgstr "Oriya"
 
+msgid "OS"
+msgstr "OS"
+
 msgid "Other"
 msgstr "Tjetër"
 
@@ -5983,6 +6217,9 @@ msgid "Other Application..."
 msgstr "Program Tjetër..."
 
 msgid "Other Options"
+msgstr ""
+
+msgid "Other options"
 msgstr ""
 
 msgid "Others"
@@ -6126,6 +6363,9 @@ msgstr "Parent"
 msgid "Partition"
 msgstr ""
 
+msgid "Passphrase"
+msgstr ""
+
 msgid "Password"
 msgstr "Fjalëkalim"
 
@@ -6164,6 +6404,9 @@ msgstr "Shtigjet"
 
 msgid "Pattern"
 msgstr "Modeli"
+
+msgid "_Pattern"
+msgstr ""
 
 msgid "Patterns"
 msgstr ""
@@ -6249,8 +6492,14 @@ msgstr "Filipinet"
 msgid "Phone"
 msgstr "Telefoni"
 
+msgid "Phone Numbers"
+msgstr ""
+
 msgid "Photo"
 msgstr "Foto"
+
+msgid "Photos"
+msgstr "Fotografitë"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6271,6 +6520,9 @@ msgid "PID"
 msgstr ""
 
 msgid "Pie"
+msgstr ""
+
+msgid "PIN"
 msgstr ""
 
 msgid "Pin"
@@ -6300,9 +6552,6 @@ msgstr ""
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr ""
-
 msgid "Platform"
 msgstr ""
 
@@ -6321,8 +6570,14 @@ msgstr "Këndo"
 msgid "Player"
 msgstr ""
 
+msgid "Player 1"
+msgstr "Lojtari 1 "
+
 msgid "Player %1"
 msgstr "Lojtari %1"
+
+msgid "Player 2"
+msgstr "Lojtari 2"
 
 msgid "Players"
 msgstr "Lojtarët"
@@ -6402,6 +6657,9 @@ msgstr "Porti"
 msgid "&Port"
 msgstr "&Porti"
 
+msgid "_Port"
+msgstr "_Porta"
+
 msgid "Portrait"
 msgstr "Portret"
 
@@ -6413,6 +6671,9 @@ msgstr "Portugalisht"
 
 msgid "Position"
 msgstr "Pozicioni"
+
+msgid "Postal code"
+msgstr "Kodi Postal"
 
 msgid "Posterize"
 msgstr ""
@@ -6455,6 +6716,9 @@ msgstr "Parapamje"
 
 msgid "&Preview"
 msgstr "&Shikoje"
+
+msgid "_Preview"
+msgstr "_Pamja e parë"
 
 msgid "Previews"
 msgstr "Parapamjet"
@@ -6537,6 +6801,9 @@ msgstr "Privacy"
 msgid "Private"
 msgstr "Privat"
 
+msgid "Private Key"
+msgstr "Kyçi privat"
+
 msgid "Process"
 msgstr "Proçesi"
 
@@ -6564,6 +6831,9 @@ msgstr "Profilet"
 msgid "Program"
 msgstr "Programi"
 
+msgid "Programs"
+msgstr "Programet"
+
 msgid "Progress"
 msgstr "Progresi"
 
@@ -6572,6 +6842,9 @@ msgstr "Projekti"
 
 msgid "&Project"
 msgstr "&Projekti"
+
+msgid "Project name"
+msgstr "Emri i projektit"
 
 msgid "Projects"
 msgstr ""
@@ -6645,6 +6918,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr ""
+
 msgid "Qatar"
 msgstr "Katari"
 
@@ -6698,6 +6974,9 @@ msgstr ""
 msgid "Quote"
 msgstr "Citim"
 
+msgid "Quotes"
+msgstr "Citime"
+
 msgid "R"
 msgstr "R"
 
@@ -6728,6 +7007,9 @@ msgstr "Shkalla"
 msgid "Rating"
 msgstr "Vlerësimi"
 
+msgid "Ratio"
+msgstr "Raporti"
+
 msgid "Raw"
 msgstr ""
 
@@ -6755,11 +7037,17 @@ msgstr "Gati"
 msgid "Ready."
 msgstr "Gati."
 
+msgid "Realm"
+msgstr "Lidhja"
+
 msgid "Reason"
 msgstr "Arsye"
 
 msgid "Reassign"
 msgstr "Ricaktojani dikujt"
+
+msgid "Received"
+msgstr ""
 
 msgid "Recent"
 msgstr "Së fundi"
@@ -6781,6 +7069,9 @@ msgstr ""
 
 msgid "Rectangle"
 msgstr "Drejtkëndësh"
+
+msgid "Recurrence"
+msgstr ""
 
 msgid "Recursive"
 msgstr ""
@@ -6911,6 +7202,9 @@ msgstr "Hiq elementin e zgjedhur nga paneli i instrumentëve"
 msgid "Remove the selected toolbar"
 msgstr "Heq panelin e zgjedhur të instrumentëve"
 
+msgid "Removing"
+msgstr ""
+
 msgid "Rename"
 msgstr "Riemërto"
 
@@ -6930,6 +7224,9 @@ msgid "Rename Bookmark"
 msgstr "Riemërto libërshënues"
 
 msgid "Rename File"
+msgstr ""
+
+msgid "Rendering intent"
 msgstr ""
 
 msgid "Repeat"
@@ -6953,11 +7250,20 @@ msgstr "Zëvendëso _Gjithçka"
 msgid "Replace an existing instance"
 msgstr "Zëvendëso një instancë ekzistuese"
 
+msgid "Replace With"
+msgstr "Zëvendësoje Me"
+
+msgid "Replace with"
+msgstr "Zëvenëdsoji me"
+
 msgid "Replacement"
 msgstr "Zëvendësimi"
 
 msgid "Reply"
 msgstr "Përgjigjuni"
+
+msgid "Reply-To"
+msgstr "Përgjigju-Tek"
 
 msgid "Report"
 msgstr "Raportoje"
@@ -6976,6 +7282,9 @@ msgstr ""
 
 msgid "Reports"
 msgstr "Raportime"
+
+msgid "Repository"
+msgstr ""
 
 msgid "Required"
 msgstr "Kërkohet"
@@ -7088,6 +7397,9 @@ msgstr "Nga e djathta në të majtë"
 msgid "Right-click"
 msgstr "Klikim i djatht"
 
+msgid "Rights"
+msgstr ""
+
 msgid "River"
 msgstr "Lumenjtë"
 
@@ -7142,6 +7454,9 @@ msgstr "rreshta"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr "Rregulla"
 
@@ -7150,6 +7465,9 @@ msgstr "Ekzekuto"
 
 msgid "&Run"
 msgstr "&Nise"
+
+msgid "Run command"
+msgstr ""
 
 msgid "Run in terminal"
 msgstr "Xhiroje në terminal"
@@ -7286,6 +7604,9 @@ msgstr "Ruaj figurën"
 msgid "_Save Image As..."
 msgstr "Ruaj figurën _Si..."
 
+msgid "Save Location"
+msgstr "Vendndodhja e Ruajtjes"
+
 msgid "Save Project"
 msgstr ""
 
@@ -7293,6 +7614,9 @@ msgid "Save Session"
 msgstr ""
 
 msgid "Save Settings"
+msgstr ""
+
+msgid "Save to"
 msgstr ""
 
 msgid "Saved"
@@ -7325,11 +7649,17 @@ msgstr "Skanim"
 msgid "Scanner"
 msgstr "Skaner"
 
+msgid "Scanning"
+msgstr "Skanimi"
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
 msgstr "Planifikojeni"
+
+msgid "Scheduler"
+msgstr ""
 
 msgid "Scheduling"
 msgstr ""
@@ -7406,11 +7736,17 @@ msgstr "Kërko..."
 msgid "Search Bar"
 msgstr "Shiriti i Kërkimit"
 
+msgid "Search for"
+msgstr ""
+
 msgid "_Search for"
 msgstr "_Kërko për"
 
 msgid "Search for '%1' with"
 msgstr "Kërko për '%1' me"
+
+msgid "Search in"
+msgstr ""
 
 msgid "Search Options"
 msgstr "Opsionet e Kërkimit"
@@ -7514,6 +7850,9 @@ msgstr "Përzgjedhje"
 msgid "Selections"
 msgstr ""
 
+msgid "Self"
+msgstr "Vetë"
+
 msgid "Semicolon"
 msgstr ""
 
@@ -7553,6 +7892,9 @@ msgstr "Serbi"
 msgid "Serbian"
 msgstr "Serbisht"
 
+msgid "Serial"
+msgstr "Serial"
+
 msgid "Serial Number"
 msgstr "Numri serial"
 
@@ -7568,8 +7910,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "Serveri"
 
+msgid "&Server"
+msgstr "&Serveri"
+
 msgid "Server URL"
 msgstr "Server URL"
+
+msgid "Servers"
+msgstr ""
 
 msgid "Service"
 msgstr "Shërbimi"
@@ -7581,6 +7929,9 @@ msgid "Session"
 msgstr ""
 
 msgid "Session management options"
+msgstr ""
+
+msgid "Session name"
 msgstr ""
 
 msgid "Sessions"
@@ -7612,6 +7963,12 @@ msgstr "Rëndësi"
 
 msgid "Seychelles"
 msgstr "Sejshellet"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr ""
@@ -7650,6 +8007,12 @@ msgid "Sharpness"
 msgstr ""
 
 msgid "Shear"
+msgstr ""
+
+msgid "Sheet"
+msgstr ""
+
+msgid "Sheets"
 msgstr ""
 
 msgid "Shell"
@@ -7772,6 +8135,9 @@ msgstr "I vetëm"
 msgid "Sinhala"
 msgstr "Sinhala"
 
+msgid "Site"
+msgstr "Sajt"
+
 msgid "Size"
 msgstr "Madhësia"
 
@@ -7780,6 +8146,9 @@ msgstr ""
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "_Madhësia"
 
 msgid "Size: %1"
 msgstr "Madhësi: %1"
@@ -7807,6 +8176,9 @@ msgstr "Rrëshqitës"
 
 msgid "Slideshow"
 msgstr "Diapozitivët"
+
+msgid "Slope"
+msgstr ""
 
 msgid "Slovak"
 msgstr "Sllovakisht"
@@ -7862,6 +8234,12 @@ msgstr ""
 msgid "Solomon Islands"
 msgstr "Ishujt Solomon"
 
+msgid "Solution"
+msgstr "Zgjidhja"
+
+msgid "Solve"
+msgstr "Zgjidhni"
+
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -7879,6 +8257,9 @@ msgstr "Renditje"
 
 msgid "Sound"
 msgstr "Zëri"
+
+msgid "Sounds"
+msgstr "Zërat"
 
 msgid "Soundtrack"
 msgstr "Kolona Zanore"
@@ -7948,6 +8329,9 @@ msgstr ""
 
 msgid "Spell Checking"
 msgstr "Kontroll i Shqiptimit"
+
+msgid "Spellcheck"
+msgstr "Kontroll Drejtshkrimi"
 
 msgid "Spelling"
 msgstr ""
@@ -8186,6 +8570,9 @@ msgstr "Sundaneze"
 msgid "Sunday"
 msgstr "E Diel"
 
+msgid "Sunrise"
+msgstr "Dielli lind"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8242,6 +8629,9 @@ msgstr ""
 
 msgid "Synchronize"
 msgstr ""
+
+msgid "Syntax"
+msgstr "Sintaksa"
 
 msgid "Syriac"
 msgstr "Siriane"
@@ -8305,6 +8695,9 @@ msgstr "Tanzania"
 
 msgid "Target"
 msgstr "Shënjestra"
+
+msgid "Targets"
+msgstr "Objektivë"
 
 msgid "Task"
 msgstr "Aktiviteti"
@@ -8419,6 +8812,9 @@ msgstr ""
 msgid "Theme"
 msgstr "Tema"
 
+msgid "&Theme"
+msgstr ""
+
 msgid "Themes"
 msgstr "Temat"
 
@@ -8436,6 +8832,9 @@ msgid ""
 msgstr ""
 
 msgid "Thomas Zander"
+msgstr ""
+
+msgid "Threads"
 msgstr ""
 
 msgid "Threshold"
@@ -8464,6 +8863,9 @@ msgstr ""
 
 msgid "Tiled"
 msgstr ""
+
+msgid "Tiles"
+msgstr "Gurët"
 
 msgid "Tilt"
 msgstr ""
@@ -8513,6 +8915,9 @@ msgstr "&Titulli"
 msgid "_Title"
 msgstr "_Titulli"
 
+msgid "Titles"
+msgstr ""
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8536,6 +8941,9 @@ msgstr ""
 
 msgid "Todo"
 msgstr "Për-të-bërë"
+
+msgid "To-do"
+msgstr ""
 
 msgid "Toggle Fullscreen"
 msgstr "Ndrysho me ekran të plotë"
@@ -8567,6 +8975,9 @@ msgstr "Mjet"
 msgid "Tool Options"
 msgstr ""
 
+msgid "Toolbar"
+msgstr "Paneli i instrumentëve"
+
 msgid "_Toolbar"
 msgstr "_Paneli i instrumentëve"
 
@@ -8587,6 +8998,9 @@ msgstr "&Mjetet"
 
 msgid "_Tools"
 msgstr "_Instrumentë"
+
+msgid "Tooltip"
+msgstr ""
 
 msgid "Top"
 msgstr "Kreu"
@@ -8738,11 +9152,17 @@ msgstr "lloj"
 msgid "&Type"
 msgstr "&Tipi"
 
+msgid "_Type"
+msgstr "_Lloji"
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "Uganda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ukraina"
@@ -8975,6 +9395,9 @@ msgstr ""
 msgid "User"
 msgstr "Përdorues"
 
+msgid "User Agent"
+msgstr ""
+
 msgid "User Certificate"
 msgstr ""
 
@@ -8999,11 +9422,17 @@ msgstr ""
 msgid "Username"
 msgstr "Emri i Përdoruesit"
 
+msgid "&Username"
+msgstr "&Emri i Përdoruesit"
+
 msgid "_Username"
 msgstr "_Përdoruesi"
 
 msgid "Users"
 msgstr "Përdorues"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Programe ndihmues"
@@ -9024,6 +9453,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9058,6 +9490,9 @@ msgstr "Ndryshoret"
 msgid "Variance"
 msgstr ""
 
+msgid "Variant"
+msgstr ""
+
 msgid "Vector"
 msgstr ""
 
@@ -9084,6 +9519,9 @@ msgstr "Version %1"
 
 msgid "Vertical"
 msgstr "Vertikal"
+
+msgid "_Vertical"
+msgstr "_Vertikalisht"
 
 msgid "Very Large"
 msgstr "Tepër e madhe"
@@ -9117,6 +9555,9 @@ msgstr "&Shfaq"
 
 msgid "_View"
 msgstr "_Shfaq"
+
+msgid "View mode"
+msgstr "Mënyra e shfaqjes"
 
 msgid "View Options"
 msgstr ""
@@ -9277,6 +9718,9 @@ msgstr ""
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
+msgid "Wind"
+msgstr "Era"
+
 msgid "Window"
 msgstr "Dritare"
 
@@ -9319,11 +9763,17 @@ msgstr ""
 msgid "Word Count"
 msgstr "Numrit të fjalëve"
 
+msgid "Word wrap"
+msgstr ""
+
 msgid "Words"
 msgstr "Fjalë"
 
 msgid "Work"
 msgstr "Puna"
+
+msgid "Workspace"
+msgstr ""
 
 msgid "World"
 msgstr "Bota"
@@ -9363,6 +9813,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Viti"
+
+msgid "&Year"
+msgstr "&Viti"
 
 msgid "Yearly"
 msgstr ""
@@ -9423,6 +9876,9 @@ msgstr "&Zmadho"
 
 msgid "_Zoom"
 msgstr "_Zmadhimi"
+
+msgid "Zoom factor"
+msgstr ""
 
 msgid "Zoom In"
 msgstr "Zmadho"

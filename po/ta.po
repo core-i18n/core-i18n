@@ -82,9 +82,6 @@ msgstr " மற்றும் "
 msgid " (default)"
 msgstr " (இயல்பிருப்பு)"
 
-msgid "© KDE Community"
-msgstr "© கே.டீ.யீ. சமூகம்"
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "'%1' என்ற கோப்பு ஏற்கனவே உள்ளது. உறுதியாக அதை மேலெழுத வேண்டுமா?"
 
@@ -355,17 +355,20 @@ msgstr "_A பற்றி"
 msgid "About %1"
 msgstr "%1 பற்றி "
 
-msgid "About KDE"
-msgstr "கே.டீ.யீ. பற்றி"
-
 msgid "Abstract"
 msgstr "சுருக்கம்"
+
+msgid "Acceleration"
+msgstr "திசை முடக்கம்"
 
 msgid "Accept"
 msgstr "ஏற்றுக்கொள்"
 
 msgid "Accepted"
 msgstr "ஏற்றுல்லார்"
+
+msgid "Access"
+msgstr "அணுகல்"
 
 msgid "Accessed"
 msgstr "அணுகப்பட்டது"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr "கணக்கு விவரங்கள்"
 
 msgid "Account Name"
+msgstr "கணக்கின் பெயர்"
+
+msgid "Account name"
 msgstr "கணக்கின் பெயர்"
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "அகரவரிசையாக"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "மாற்று"
+
 msgid "Alternative"
 msgstr "இன்னொன்று"
 
@@ -712,8 +721,14 @@ msgstr "வியாக்கியானம்"
 msgid "Anonymous"
 msgstr "அனாமதேயமானது"
 
+msgid "Answer"
+msgstr "பதில்"
+
 msgid "Antarctica"
 msgstr "அண்டார்ட்டிக்கா"
+
+msgid "Antialiasing"
+msgstr "நிற அலை இசைவிப்பு"
 
 msgid "Any"
 msgstr "ஏதேனும்"
@@ -883,6 +898,9 @@ msgstr "அனுமதி உறுதிபடுத்தல்  வேண்
 msgid "Author"
 msgstr "இயற்றியவர்"
 
+msgid "Author name"
+msgstr "இயற்றியவரின் பெயர்"
+
 msgid "Authors"
 msgstr "இயற்றியவர்கள்"
 
@@ -928,6 +946,9 @@ msgstr "அசர்பைஜானி"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr ""
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&பின்னே"
 msgid "_Back"
 msgstr "_பின்"
 
+msgid "Backend"
+msgstr ""
+
 msgid "Background"
 msgstr "பின்புலம்"
+
+msgid "&Background"
+msgstr "&பின்னணி"
 
 msgid "Background Color"
 msgstr "பின்புல நிறம்"
@@ -951,6 +978,9 @@ msgstr "பின்னணி வண்ணம்"
 
 msgid "&Background color"
 msgstr "பின்னணி நிறம்"
+
+msgid "Background image"
+msgstr "பின்னணி ஓவியம்"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "சமநிலை"
 
 msgid "Baltic"
 msgstr "பால்டிக்"
+
+msgid "Bandwidth"
+msgstr ""
 
 msgid "Bangladesh"
 msgstr "வங்காளதேசம்"
@@ -999,6 +1032,9 @@ msgstr "Bass"
 
 msgid "Battery"
 msgstr "மின்கலம்"
+
+msgid "BCC"
+msgstr "மறைநகல்"
 
 msgid "Bcc"
 msgstr "மறைநகல்"
@@ -1156,23 +1192,8 @@ msgstr "கிளை"
 msgid "Brazil"
 msgstr "பிரேசில்"
 
-msgid "Breeze"
-msgstr "பிரீஸ்"
-
-msgid "Breeze by the KDE VDG"
-msgstr "கே.டீ.யீ. VDG வழங்கும் பிரீஸ்"
-
-msgid "Breeze Dark"
-msgstr "கரும் பிரீஸ்"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "கே.டீ.யீ. VDG வழங்கும் கரும் பிரீஸ்"
-
 msgid "Breton"
 msgstr "பிரிடான்"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "Bridge"
@@ -1309,18 +1330,6 @@ msgstr "ரத்து செய்"
 msgid "Canceled"
 msgstr "ரத்து செய்யப்பட்டது"
 
-msgid "Cancelled"
-msgstr "ரத்து செய்யப்பட்டது"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "'Type=Link' மேல்மேசை உள்ளீடுக்கு ஆவண யூஆர்ஐ ஐ கொடுக்க இயலாது"
-
 msgid "Canvas"
 msgstr ""
 
@@ -1339,14 +1348,14 @@ msgstr "பெரிய எழுதாக்கு"
 msgid "Caps Lock is on"
 msgstr "Caps Lock இயக்கப்பட்டுள்ளது"
 
+msgid "Caption"
+msgstr "தலைப்பு"
+
 msgid "Capture"
 msgstr ""
 
 msgid "Car"
 msgstr "வண்டி"
-
-msgid "Carsten Pfeiffer"
-msgstr "கார்சுடன் ஃபைஃபர்"
 
 msgid "Cascade"
 msgstr "காஸ்கேட் "
@@ -1435,6 +1444,9 @@ msgstr "மாற்று..."
 msgid "Changed"
 msgstr "மாற்றப்பட்டுள்ளது"
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "வாய்க்கால்"
 
@@ -1452,6 +1464,9 @@ msgstr "அத்தியாயங்கள்"
 
 msgid "Character"
 msgstr "எழுத்து"
+
+msgid "Character set"
+msgstr ""
 
 msgid "Characters"
 msgstr ""
@@ -1684,6 +1699,9 @@ msgstr "நிறத்திட்டம்"
 msgid "Color Space"
 msgstr "நிற வகை"
 
+msgid "Color space"
+msgstr "நிற வெளி"
+
 msgid "Color theme"
 msgstr "நிறத்திட்டம்"
 
@@ -1705,13 +1723,7 @@ msgstr "நெடுவரிகள்"
 msgid "Comma"
 msgstr "கால்புள்ளி"
 
-msgid "COMMAND"
-msgstr "COMMAND"
-
 msgid "Command"
-msgstr "கட்டளை"
-
-msgid "command"
 msgstr "கட்டளை"
 
 msgid "Command Line"
@@ -1726,6 +1738,9 @@ msgstr "கட்டளைகள்"
 msgid "Comment"
 msgstr "குறிப்பு"
 
+msgid "comment"
+msgstr "கருத்து"
+
 msgid "Comments"
 msgstr "குறிப்புரைகள்"
 
@@ -1735,11 +1750,17 @@ msgstr "உறுதிமொழி"
 msgid "Common"
 msgstr "பொது"
 
+msgid "Common Name"
+msgstr "பொதுவான பெயர்"
+
 msgid "Comoros"
 msgstr "கோமொரோஸ்"
 
 msgid "Compact"
 msgstr "சுருக்கமானது"
+
+msgid "Company"
+msgstr "நிறுவனம்"
 
 msgid "Compare"
 msgstr "ஒப்பிடு "
@@ -1777,6 +1798,9 @@ msgstr "கணினி"
 msgid "Condition"
 msgstr "நிபந்தனை"
 
+msgid "Conditions"
+msgstr "நிலவரங்கள்"
+
 msgid "Confidential"
 msgstr "ரகசியமானது"
 
@@ -1807,6 +1831,9 @@ msgstr "இணைய சுருக்குவழிகளை அமை…"
 msgid "Confirm"
 msgstr "உறுதிசெய்"
 
+msgid "Confirm Password"
+msgstr "கடவுச்சொல்லை உறுதி செய்க"
+
 msgid "Confirmation"
 msgstr "உறுதிப்படுத்துக"
 
@@ -1818,6 +1845,9 @@ msgstr "உறுதியானது"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "வழக்கமான செயலி சுருக்குவழியுடன் முரண்பாடு"
+
+msgid "Conflicts"
+msgstr "குழப்பங்கள்"
 
 msgid "Connect"
 msgstr "இணை "
@@ -1843,6 +1873,9 @@ msgstr "இணைப்பு தோல்வியடைந்தது"
 msgid "Connection Settings"
 msgstr "இணைப்பு அமைப்புகள்"
 
+msgid "Connection type"
+msgstr "இணைப்பு வகை"
+
 msgid "Connections"
 msgstr "இணைப்புகள்"
 
@@ -1851,9 +1884,6 @@ msgstr ""
 
 msgid "Constant"
 msgstr "மாறிலி"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "தொடர்பு"
@@ -1867,13 +1897,13 @@ msgstr "கொள்கலன்"
 msgid "Contains"
 msgstr "இதை கொண்டது"
 
-msgid "contains"
-msgstr "கொண்டுள்ள"
-
 msgid "Content"
 msgstr "உள்ளடக்கம்"
 
 msgid "Content Type"
+msgstr ""
+
+msgid "Content type"
 msgstr ""
 
 msgid "Contents"
@@ -1897,10 +1927,16 @@ msgstr "நிறமாறுபாட்டை கூட்டு"
 msgid "Contributor"
 msgstr "பங்களிப்பாளர்"
 
+msgid "Contributors"
+msgstr "எழுதியவர்கள்"
+
 msgid "Control"
 msgstr "கட்டுப்பாடு"
 
 msgid "Convert"
+msgstr ""
+
+msgid "Convert to"
 msgstr ""
 
 msgid "Convert to Path"
@@ -1920,9 +1956,6 @@ msgstr "காப்டிக்"
 
 msgid "Copy"
 msgstr "நகலெடு"
-
-msgid "copy"
-msgstr "நகல்"
 
 msgid "&Copy"
 msgstr "&நகலெடு"
@@ -1975,6 +2008,9 @@ msgstr "கோப்புகளை நகலெடுக்கிறது"
 msgid "Copyright"
 msgstr "பதிப்புரிமை"
 
+msgid "Correct"
+msgstr "சரியானது"
+
 msgid "Cost"
 msgstr "மதிப்பு"
 
@@ -1998,6 +2034,9 @@ msgstr "நாடு"
 
 msgid "CPU"
 msgstr "சீபியூ"
+
+msgid "CPU usage"
+msgstr "CPU பயன்பாடு"
 
 msgid "Create"
 msgstr "உருவாக்கு"
@@ -2026,6 +2065,9 @@ msgstr "உருவாக்கியவர்"
 msgid "Credentials"
 msgstr ""
 
+msgid "Credit"
+msgstr "அங்கீகாரம்"
+
 msgid "Credits"
 msgstr "நன்றி"
 
@@ -2052,15 +2094,6 @@ msgstr "பெருக்கல் குறியிடு"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
-msgstr ""
 
 msgid "Cuba"
 msgstr "கியூபா"
@@ -2089,8 +2122,14 @@ msgstr "வளைகோடுகள்"
 msgid "Custom"
 msgstr "தனிப்பயன்"
 
+msgid "&Custom"
+msgstr ""
+
 msgid "Custom..."
 msgstr "விருப்பமானது..."
+
+msgid "Custom color"
+msgstr "தனிப்பயன் நிறம்"
 
 msgid "Custom Font"
 msgstr "வேறு எழுத்துரு"
@@ -2164,6 +2203,9 @@ msgstr "தரவு"
 msgid "Database"
 msgstr "தரவுத்தளம்"
 
+msgid "Database name"
+msgstr "தகவல்தளத்தின் பெயர்"
+
 msgid "Date"
 msgstr "தேதி"
 
@@ -2179,14 +2221,20 @@ msgstr "தேதியும் நேரமும்"
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr "தேதி எவ்வாறு காட்டப்படும்"
+
 msgid "Date Modified"
 msgstr "மாற்றப்பட்ட தேதி"
 
-msgid "David Edmundson"
-msgstr "டேவிட் எட்மண்டுஸன்"
+msgid "Date/Time"
+msgstr "தேதி/நேரம்"
 
 msgid "Day"
 msgstr "நாள்"
+
+msgid "day"
+msgstr ""
 
 msgid "Days"
 msgstr "நாட்கள்"
@@ -2235,6 +2283,9 @@ msgstr "இயல்பிருப்பு"
 
 msgid "default"
 msgstr "முன்னிருப்பு"
+
+msgid "Default value"
+msgstr "இயல்பிருப்பு மதிப்பு"
 
 msgid "Defaults"
 msgstr "இயல்பிருப்புகள்"
@@ -2311,6 +2362,9 @@ msgstr ""
 msgid "Deny"
 msgstr "மறு"
 
+msgid "Department"
+msgstr "பிரிவு"
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2343,6 +2397,12 @@ msgstr "பணிமேடை"
 
 msgid "Destination"
 msgstr "சேருமிடம்"
+
+msgid "Destination Folder"
+msgstr ""
+
+msgid "Destination folder"
+msgstr "இலக்கு அடைவு"
 
 msgid "Detach"
 msgstr ""
@@ -2515,6 +2575,9 @@ msgstr "கரைதல்"
 msgid "Distance"
 msgstr "தொலைவு"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "வகு"
 
@@ -2569,11 +2632,11 @@ msgstr "ஆவணங்கள்"
 msgid "does not contain"
 msgstr "இதைக் கொண்டில்லாதது"
 
-msgid "Dolphin"
-msgstr "டால்பின்"
-
 msgid "Domain"
 msgstr "ஆள்களம்"
+
+msgid "_Domain"
+msgstr "(_D)டொமைன் "
 
 msgid "Dominica"
 msgstr "டொமினிக்கா"
@@ -2677,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "இயங்குநிலை"
+
 msgid "E"
 msgstr "E"
 
@@ -2728,6 +2794,9 @@ msgstr "படத்தை திருத்துவது"
 msgid "Editing"
 msgstr "திருத்துவது"
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "உரைத்திருத்தி"
 
@@ -2743,9 +2812,6 @@ msgstr "எகிப்து"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr "எய்கே ஹைன்"
-
 msgid "Eject"
 msgstr "வெளியேற்று"
 
@@ -2755,17 +2821,29 @@ msgstr "வெளியேற்று (_E)"
 msgid "El Salvador"
 msgstr "எல் சால்வடார்"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr ""
 
 msgid "Element"
 msgstr "மூலகங்கள்"
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "நீள்வட்டம்"
 
+msgid "EMail"
+msgstr "மின்னஞ்சல்"
+
 msgid "Email"
 msgstr "மின்னஞ்சல்"
+
+msgid "E-Mail"
+msgstr ""
 
 msgid "E-mail"
 msgstr "மின்னஞ்சல்"
@@ -2845,6 +2923,9 @@ msgstr "முடிவு"
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr ""
+
 msgid "End Time"
 msgstr ""
 
@@ -2866,8 +2947,14 @@ msgstr "ஆங்கிலம்"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "பெயரினை உள்ளீடு செய்"
+
 msgid "Enter password"
 msgstr "கடவுச்சொல்லை உள்ளிடவும்"
+
+msgid "Entries"
+msgstr "உள்ளீடுகள்"
 
 msgid "Entry"
 msgstr ""
@@ -2941,6 +3028,9 @@ msgstr "நிகழ்வு"
 msgid "Events"
 msgstr "நிகழ்வுகள் "
 
+msgid "Every"
+msgstr "ஒவ்வொரு"
+
 msgid "Everyone"
 msgstr "அனைவருக்கும்"
 
@@ -2958,6 +3048,9 @@ msgstr "உதாரணங்கள்"
 
 msgid "Exception"
 msgstr "விதிவிலக்கு"
+
+msgid "Exceptions"
+msgstr "விதிவிலக்குகள்"
 
 msgid "Exclude"
 msgstr ""
@@ -2992,11 +3085,17 @@ msgstr "அனைத்தையும் விரிவாக்கு"
 msgid "Experimental"
 msgstr "சோதனைக்கானது"
 
+msgid "Expiration"
+msgstr "கடவிச்சொல்லை மாற்று"
+
 msgid "Expired"
 msgstr "காலாவதியானது"
 
 msgid "Expires"
 msgstr "காலாவதி ஆவது"
+
+msgid "Expires On"
+msgstr "காலாவதி ஆகும் தேதி"
 
 msgid "Export"
 msgstr "ஏற்றுமதி"
@@ -3031,6 +3130,9 @@ msgstr ""
 msgid "Exposure"
 msgstr "வெளிக்காட்டல்"
 
+msgid "Exposure Time"
+msgstr "வெளிக்காட்டிய நேரம்"
+
 msgid "Expression"
 msgstr ""
 
@@ -3051,6 +3153,9 @@ msgstr "பிரித்தெடு"
 
 msgid "F"
 msgstr "மு"
+
+msgid "Fabric"
+msgstr ""
 
 msgid "Facebook"
 msgstr "பேஸ்புக்"
@@ -3109,6 +3214,12 @@ msgstr "ஃபெலிபே கினோஷ்டா"
 msgid "Fetch"
 msgstr "கொணர்"
 
+msgid "Field"
+msgstr "புலம்"
+
+msgid "Fields"
+msgstr "புலங்கள்:"
+
 msgid "Fiji"
 msgstr "ஃபிஜி"
 
@@ -3141,6 +3252,9 @@ msgstr "கோப்பு உள்ளது"
 
 msgid "File Format"
 msgstr "கோப்பு வடிவம்"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr "கோப்பு சரியான .desktop கோப்பில்லை"
@@ -3201,6 +3315,9 @@ msgstr "நிறத்தால் நிரப்பு "
 
 msgid "Filter"
 msgstr "வடிகட்டி"
+
+msgid "&Filter"
+msgstr "&வடிகட்டி"
 
 msgid "Filter..."
 msgstr "வடிகட்டு..."
@@ -3265,6 +3382,9 @@ msgstr "Finnish"
 msgid "First"
 msgstr "முதல்"
 
+msgid "First Name"
+msgstr "முதல் பெயர்"
+
 msgid "First Page"
 msgstr "முதல் பக்கம்"
 
@@ -3325,6 +3445,9 @@ msgstr "பூ"
 msgid "Focal Length"
 msgstr "குவிய தூரம்"
 
+msgid "Focal length"
+msgstr "குவியத்தூரம்"
+
 msgid "Focus"
 msgstr "குவிப்பு"
 
@@ -3346,6 +3469,9 @@ msgstr "எழுத்துரு"
 msgid "&Font"
 msgstr "&எழுத்துரு"
 
+msgid "_Font"
+msgstr "(_F) எழுத்துரு"
+
 msgid "Font Color"
 msgstr "எழுத்துருவின் நிறம்"
 
@@ -3357,6 +3483,12 @@ msgstr "எழுத்துருவின் அளவு"
 
 msgid "Font size"
 msgstr "எழுத்துரு அளவு"
+
+msgid "Font Style"
+msgstr "எழுத்துரு வகை"
+
+msgid "Font style"
+msgstr "எழுத்துரு வகை"
 
 msgid "Fonts"
 msgstr "எழுத்துருக்கள்"
@@ -3394,6 +3526,12 @@ msgstr "படிவம்"
 msgid "Format"
 msgstr "வடிவமைப்பு"
 
+msgid "&Format"
+msgstr "&அமைப்பு"
+
+msgid "_Format"
+msgstr "(_F) வடிவமை"
+
 msgid "Formatting"
 msgstr "வடிவமைப்பு"
 
@@ -3419,6 +3557,12 @@ msgid "Fraction"
 msgstr "பின்னம்"
 
 msgid "Frame"
+msgstr ""
+
+msgid "Frame Rate"
+msgstr "சட்டக விகிதம்"
+
+msgid "Frame rate"
 msgstr ""
 
 msgid "Framerate"
@@ -3465,6 +3609,9 @@ msgstr "முழு"
 
 msgid "Full Name"
 msgstr "முழுப்பெயர்"
+
+msgid "Full name"
+msgstr ""
 
 msgid "Full Screen"
 msgstr "முழுத்திரை"
@@ -3531,6 +3678,9 @@ msgstr "வாசல்"
 
 msgid "Gateway"
 msgstr "நுழைவாயில்"
+
+msgid "_Gateway"
+msgstr "கேட்வே (_G)"
 
 msgid "Gaussian Blur"
 msgstr "காஸ்சியன் தெளிவற்ற நிலை"
@@ -3652,6 +3802,9 @@ msgstr "முந்தைய பக்கத்திற்கு செல்"
 msgid "Goa"
 msgstr "கோவா"
 
+msgid "Goal"
+msgstr "இலக்கு"
+
 msgid "Gold"
 msgstr ""
 
@@ -3706,6 +3859,9 @@ msgstr "சாம்பல்"
 msgid "Grid"
 msgstr "வலைக்கட்டம்"
 
+msgid "&Grid"
+msgstr "&கட்டம்"
+
 msgid "Group"
 msgstr "குழு"
 
@@ -3751,6 +3907,9 @@ msgstr "கடினம்"
 msgid "Hardware"
 msgstr "வன்பொருள்"
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr ""
 
@@ -3792,6 +3951,9 @@ msgstr "உயரம்"
 
 msgid "&Height"
 msgstr "&உயரம்: "
+
+msgid "_Height"
+msgstr "(_H) உயரம்"
 
 msgid "Help"
 msgstr "உதவி"
@@ -3837,6 +3999,9 @@ msgstr "அதிகமானது"
 
 msgid "Highlight"
 msgstr "முனைப்புறுத்தல்"
+
+msgid "Highlight color"
+msgstr "தேர்ந்தெடுத்துள்ளதற்கான நிறம்"
 
 msgid "Highlighter"
 msgstr "எடுப்பாக்கி"
@@ -3889,8 +4054,17 @@ msgstr "ஹாங்காங்"
 msgid "Horizontal"
 msgstr "கிடைமட்டம்"
 
+msgid "_Horizontal"
+msgstr "(_H) படுக்கைவசமாக"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "புரவன்"
+
+msgid "Host Name"
+msgstr "புரவலப் பெயர்"
 
 msgid "Hostname"
 msgstr "புரவலர் பெயர்"
@@ -3970,6 +4144,9 @@ msgstr ""
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr "அடையாளம் காட்டுபவர்"
 
@@ -4023,6 +4200,12 @@ msgstr "பட அமைப்புகள்"
 
 msgid "Image Size"
 msgstr "படத்தின் அளவு"
+
+msgid "Image size"
+msgstr "பிம்ப அளவு"
+
+msgid "Image type"
+msgstr "பிம்ப வகை"
 
 msgid "Image Viewer"
 msgstr "படக் காட்டி"
@@ -4099,6 +4282,9 @@ msgstr "இடைவெளி அதிகமாக்கு"
 msgid "Increase Volume"
 msgstr "ஒலியைக் கூட்டு"
 
+msgid "Increment"
+msgstr ""
+
 msgid "Incremental"
 msgstr "பெருகும்"
 
@@ -4110,6 +4296,9 @@ msgstr "அகரவரிசை"
 
 msgid "Indexed"
 msgstr "அட்டவணையாக்கப்படும்"
+
+msgid "Indexing"
+msgstr "அட்டவணையாக்கம்"
 
 msgid "India"
 msgstr "இந்தியா"
@@ -4173,6 +4362,9 @@ msgstr "நிறுவப்படுகிறது"
 
 msgid "Instant"
 msgstr "உடனடியானது"
+
+msgid "Instructions"
+msgstr "ஆணைகள்"
 
 msgid "Integer"
 msgstr "முழு எண்"
@@ -4261,11 +4453,17 @@ msgstr "ஐரிஷ்"
 msgid "is"
 msgstr "இது"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "இஸ்ரேல்"
 
 msgid "Issued By"
 msgstr "வழங்கியவர்"
+
+msgid "Issued On"
+msgstr "வழங்கப்பட்ட தேதி"
 
 msgid "Issuer"
 msgstr "வழங்கியவர்"
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "கன்னடம்"
 
-msgid "Kate"
-msgstr "கேட்"
-
 msgid "Kazakh"
 msgstr "கசக்"
 
@@ -4374,18 +4569,6 @@ msgstr "கசக்கஸ்தான்"
 
 msgid "kB"
 msgstr "கேபி(kB)"
-
-msgid "KDE"
-msgstr "கே.டீ.யீ."
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr "கே.டீ.யீ. கனெக்ட்"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "வைத்திரு"
@@ -4450,26 +4633,11 @@ msgstr "கிரிபட்டி"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "கேமெயில்"
-
-msgid "Konqueror"
-msgstr "கான்கொயரர்"
-
-msgid "Konsole"
-msgstr "கான்சோல்"
-
 msgid "Korean"
 msgstr "கொரியன்"
 
-msgid "KOrganizer"
-msgstr "கேயார்கனைசர்"
-
 msgid "Kuwait"
 msgstr "குவைத்"
-
-msgid "KWin"
-msgstr "கேவின்"
 
 msgid "L"
 msgstr "L"
@@ -4488,6 +4656,9 @@ msgstr "கிடைமட்டமாக"
 
 msgid "Language"
 msgstr "மொழி"
+
+msgid "&Language"
+msgstr "&மொழி"
 
 msgid "_Language"
 msgstr "!மொழி"
@@ -4509,6 +4680,12 @@ msgstr "கடைசி"
 
 msgid "Last Modified"
 msgstr "இறுதியாக மாற்றப்பட்டது"
+
+msgid "Last modified"
+msgstr "கடைசியாக மாற்றப்பட்டது"
+
+msgid "Last Name"
+msgstr "கடைசிப் பெயர்"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4621,8 +4798,20 @@ msgstr "வரி முரிவு"
 msgid "Line Color"
 msgstr "கோட்டின் நிறம்"
 
+msgid "Line Count"
+msgstr "வரிகளின் எண்ணிக்கை"
+
 msgid "Line Numbers"
 msgstr "வரியேண்கள்"
+
+msgid "Line spacing"
+msgstr "வரி இடைவெளி"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr ""
 
 msgid "Line Width"
 msgstr ""
@@ -4641,6 +4830,9 @@ msgstr "இணைப்பு"
 
 msgid "link"
 msgstr "இணைப்பு"
+
+msgid "Link Text"
+msgstr "இணைப்பின் உரை"
 
 msgid "Link URL"
 msgstr "இணைப்பின் முகவரி"
@@ -4740,6 +4932,9 @@ msgstr "நுழைவு"
 
 msgid "_Login"
 msgstr "உள்நுழை (_L)"
+
+msgid "Logo"
+msgstr "சின்னம்"
 
 msgid "Logout"
 msgstr "வெளியேற்றம்"
@@ -4936,6 +5131,9 @@ msgstr "அதிகபட்ச பெரிதாக்கு"
 msgid "Maximum"
 msgstr "அதிக பட்சம்"
 
+msgid "Maximum width"
+msgstr "அதிகபட்ச அகலம்"
+
 msgid "May"
 msgstr "மே"
 
@@ -4990,6 +5188,9 @@ msgstr "செய்தி"
 msgid "message"
 msgstr "அஞ்சல்"
 
+msgid "&Message"
+msgstr "&அஞ்சல்"
+
 msgid "Messages"
 msgstr "செய்திகள்"
 
@@ -5001,6 +5202,9 @@ msgstr "மீத்தரவு"
 
 msgid "Metal"
 msgstr ""
+
+msgid "Metering Mode"
+msgstr "மீட்டர் பாங்கு"
 
 msgid "meters"
 msgstr "மீட்டர்"
@@ -5040,6 +5244,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "மில்லிநொடி"
+
+msgid "MIME type"
+msgstr "MIME வகை"
 
 msgid "Min"
 msgstr "கழித்தல்"
@@ -5086,8 +5293,14 @@ msgstr ""
 msgid "Mobile"
 msgstr "கைபேசி"
 
+msgid "Mobile Phone"
+msgstr "கைபேசி எண்"
+
 msgid "Mode"
 msgstr "அனுமதிகள்"
+
+msgid "_Mode"
+msgstr "(_M) பாங்கு"
 
 msgid "Model"
 msgstr "மாதிரி"
@@ -5184,6 +5397,9 @@ msgstr "மொரோகோ"
 
 msgid "Mount"
 msgstr "ஏற்று"
+
+msgid "Mount Point"
+msgstr "ஏறும் புள்ளி"
 
 msgid "Mount point"
 msgstr ""
@@ -5323,6 +5539,9 @@ msgstr "_N பெயர் "
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr "பெயர்கள்"
+
 msgid "Namespace"
 msgstr "பெயர் இடம்"
 
@@ -5352,6 +5571,9 @@ msgstr "நேபாளி"
 
 msgid "Netherlands"
 msgstr "நெதர்லாந்து"
+
+msgid "Netmask"
+msgstr "நெட்மாஸ்க்"
 
 msgid "Network"
 msgstr "பிணையம்"
@@ -5563,6 +5785,9 @@ msgstr "தலைப்பில்லாத‍து"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "கணு"
+
 msgid "Noise"
 msgstr ""
 
@@ -5689,6 +5914,9 @@ msgstr "எண்"
 msgid "Number of columns"
 msgstr "நெடுவரிசைகளின் எண்ணிக்கை"
 
+msgid "Number of rows"
+msgstr "வரிசைகளின் &எண்ணிக்கை"
+
 msgid "Numbers"
 msgstr "எண்கள்"
 
@@ -5745,9 +5973,6 @@ msgstr "&சரி"
 
 msgid "_OK"
 msgstr "_சரி"
-
-msgid "Okular"
-msgstr "ஆக்குலர்"
 
 msgid "Oman"
 msgstr "ஓமன்"
@@ -5899,6 +6124,9 @@ msgstr ""
 msgid "Opera"
 msgstr "ஒபரா"
 
+msgid "Operating System"
+msgstr "இயக்குதளம்"
+
 msgid "Operation"
 msgstr "செயல்பாடு "
 
@@ -5910,6 +6138,9 @@ msgstr "இயக்கங்கள்"
 
 msgid "Operator"
 msgstr "இயக்குபவர்"
+
+msgid "Operators"
+msgstr "செயல்பாடுகள்"
 
 msgid "Optical Character Recognition"
 msgstr "Optical Character Recognition"
@@ -5968,6 +6199,9 @@ msgstr "உண்மையான அளவு"
 msgid "Oriya"
 msgstr "ஒரியா"
 
+msgid "OS"
+msgstr "இயக்குதளம்"
+
 msgid "Other"
 msgstr "மற்றவை"
 
@@ -5982,6 +6216,9 @@ msgstr "வேறு செயலி..."
 
 msgid "Other Options"
 msgstr "மற்ற விருப்பத்தேர்வுகள்"
+
+msgid "Other options"
+msgstr ""
 
 msgid "Others"
 msgstr "பிறர்"
@@ -6124,6 +6361,9 @@ msgstr "பாரென்ட்"
 msgid "Partition"
 msgstr ""
 
+msgid "Passphrase"
+msgstr "கடவுச்சொற்றொடர்"
+
 msgid "Password"
 msgstr "கடவுச்சொல்"
 
@@ -6162,6 +6402,9 @@ msgstr "பாதைகள்"
 
 msgid "Pattern"
 msgstr "தோரணி"
+
+msgid "_Pattern"
+msgstr "(_P) தோரணி"
 
 msgid "Patterns"
 msgstr "தோரணிகள்"
@@ -6247,8 +6490,14 @@ msgstr "பிலிப்பைன்ஸ்"
 msgid "Phone"
 msgstr "தொலைபேசி"
 
+msgid "Phone Numbers"
+msgstr "தொலைபேசி எண்கள்"
+
 msgid "Photo"
 msgstr "படம்"
+
+msgid "Photos"
+msgstr "புகைப்படங்கள்"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6270,6 +6519,9 @@ msgstr "பணியெண்"
 
 msgid "Pie"
 msgstr ""
+
+msgid "PIN"
+msgstr "கடவெண்"
 
 msgid "Pin"
 msgstr "தக்கவை"
@@ -6298,9 +6550,6 @@ msgstr "சாதாரண உரை"
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "பிளாஸ்மா"
-
 msgid "Platform"
 msgstr ""
 
@@ -6319,8 +6568,14 @@ msgstr "இயக்குதல்"
 msgid "Player"
 msgstr ""
 
+msgid "Player 1"
+msgstr "முதல் விளையாட்டாளர்"
+
 msgid "Player %1"
 msgstr "விளையாடுபவர் %1"
+
+msgid "Player 2"
+msgstr "இரண்டாம்  விளையாட்டாளர்"
 
 msgid "Players"
 msgstr ""
@@ -6400,6 +6655,9 @@ msgstr "புறை"
 msgid "&Port"
 msgstr "&புறை"
 
+msgid "_Port"
+msgstr ""
+
 msgid "Portrait"
 msgstr "செங்குத்தாக"
 
@@ -6411,6 +6669,9 @@ msgstr "போர்த்துக்கீசியம்"
 
 msgid "Position"
 msgstr "இருப்பிடம்"
+
+msgid "Postal code"
+msgstr "அஞ்சல் குறியீடு"
 
 msgid "Posterize"
 msgstr "சுவரொட்டியாக்கு"
@@ -6453,6 +6714,9 @@ msgstr "முன்னோட்டம்"
 
 msgid "&Preview"
 msgstr "&முன்காட்சி"
+
+msgid "_Preview"
+msgstr "(_P) முன்பார்வை"
 
 msgid "Previews"
 msgstr "முன்காட்சிகள்"
@@ -6535,6 +6799,9 @@ msgstr "தனியுரிமை"
 msgid "Private"
 msgstr "தனி"
 
+msgid "Private Key"
+msgstr "அந்தரங்க விசை"
+
 msgid "Process"
 msgstr ""
 
@@ -6562,6 +6829,9 @@ msgstr "பயன்முறைகள்"
 msgid "Program"
 msgstr "நிரல்"
 
+msgid "Programs"
+msgstr "நிரல்கள்"
+
 msgid "Progress"
 msgstr "முன்னேற்றம்"
 
@@ -6570,6 +6840,9 @@ msgstr "திட்டப்பணி"
 
 msgid "&Project"
 msgstr ""
+
+msgid "Project name"
+msgstr "திட்டப் பெயர்"
 
 msgid "Projects"
 msgstr "திட்டங்கள்"
@@ -6643,6 +6916,9 @@ msgstr "px"
 msgid "Python"
 msgstr "பைத்தான்"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "கதார்"
 
@@ -6698,6 +6974,9 @@ msgstr "ஆவணத்தை வெளியேற்றும் "
 msgid "Quote"
 msgstr "மேற்கோள்"
 
+msgid "Quotes"
+msgstr "அடைப்புக்குறிகள்"
+
 msgid "R"
 msgstr "R"
 
@@ -6728,6 +7007,9 @@ msgstr "விகிதம்"
 msgid "Rating"
 msgstr "மதிப்பீடு"
 
+msgid "Ratio"
+msgstr ""
+
 msgid "Raw"
 msgstr "Raw"
 
@@ -6755,11 +7037,17 @@ msgstr "தயார்"
 msgid "Ready."
 msgstr "தயார்."
 
+msgid "Realm"
+msgstr ""
+
 msgid "Reason"
 msgstr "காரணம்"
 
 msgid "Reassign"
 msgstr "இதற்கே அமர்த்து"
+
+msgid "Received"
+msgstr ""
 
 msgid "Recent"
 msgstr "சமீபமானவை"
@@ -6781,6 +7069,9 @@ msgstr "திரைப்பதிவு"
 
 msgid "Rectangle"
 msgstr "செவ்வகம்"
+
+msgid "Recurrence"
+msgstr "மறுநிகழ்வு"
 
 msgid "Recursive"
 msgstr "சாரடைவுகளிலும்"
@@ -6911,6 +7202,9 @@ msgstr "தேர்ந்தெடுக்கப்பட்ட உருப�
 msgid "Remove the selected toolbar"
 msgstr "தேர்ந்தெடுக்கப்பட்ட கருவிப்பட்டையை நீக்கு"
 
+msgid "Removing"
+msgstr "நீக்கப்படுகிறது"
+
 msgid "Rename"
 msgstr "மறுபெயரிடு"
 
@@ -6931,6 +7225,9 @@ msgstr "நினைவுக்குறியின் பெயரை மா�
 
 msgid "Rename File"
 msgstr ""
+
+msgid "Rendering intent"
+msgstr "நிறங்கள் காட்டப்படும் விதம்"
 
 msgid "Repeat"
 msgstr "திரும்ப இசைப்பது"
@@ -6953,11 +7250,20 @@ msgstr "(_A)அனைத்தையும் மாற்று"
 msgid "Replace an existing instance"
 msgstr "ஏற்கனவே உள்ளதற்கு பதிலாக இது இயங்கட்டும்"
 
+msgid "Replace With"
+msgstr "இதனால் மாற்று:"
+
+msgid "Replace with"
+msgstr "இதுவாக மாற்று"
+
 msgid "Replacement"
 msgstr "மாற்றம்"
 
 msgid "Reply"
 msgstr "பதிலளி"
+
+msgid "Reply-To"
+msgstr "இவருக்கு பதிலளி"
 
 msgid "Report"
 msgstr "புகாரளி"
@@ -6976,6 +7282,9 @@ msgstr "&பிழையை தெரிவி…"
 
 msgid "Reports"
 msgstr ""
+
+msgid "Repository"
+msgstr "கிடங்கு"
 
 msgid "Required"
 msgstr "கட்டாயம் வரவேண்டும்"
@@ -7090,6 +7399,9 @@ msgstr "வலமிருந்து இடம்"
 msgid "Right-click"
 msgstr "வலது கிளிக்"
 
+msgid "Rights"
+msgstr ""
+
 msgid "River"
 msgstr ""
 
@@ -7148,6 +7460,9 @@ msgstr "வரிசைகள்"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "விதிமுறை"
+
 msgid "Rules"
 msgstr ""
 
@@ -7156,6 +7471,9 @@ msgstr "இயக்கு"
 
 msgid "&Run"
 msgstr ""
+
+msgid "Run command"
+msgstr "கட்டளையை இயக்கு"
 
 msgid "Run in terminal"
 msgstr "முனையத்தில் இயக்கு"
@@ -7292,6 +7610,9 @@ msgstr "படத்தை சேமி"
 msgid "_Save Image As..."
 msgstr "(_S) பிம்பத்தை இப்படிச் சேமி"
 
+msgid "Save Location"
+msgstr "சேமிக்கப்படும் இடம்"
+
 msgid "Save Project"
 msgstr "பணித்தாளை சேமி"
 
@@ -7300,6 +7621,9 @@ msgstr "அமர்வை சேமி"
 
 msgid "Save Settings"
 msgstr "அமைப்புகளை சேமி"
+
+msgid "Save to"
+msgstr ""
 
 msgid "Saved"
 msgstr ""
@@ -7331,11 +7655,17 @@ msgstr "ஆராய்"
 msgid "Scanner"
 msgstr "வருடி"
 
+msgid "Scanning"
+msgstr ""
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
 msgstr "அட்டவணை"
+
+msgid "Scheduler"
+msgstr ""
 
 msgid "Scheduling"
 msgstr ""
@@ -7412,11 +7742,17 @@ msgstr "தேடு..."
 msgid "Search Bar"
 msgstr "தேடல் பட்டி"
 
+msgid "Search for"
+msgstr "இதற்கு தேடுக"
+
 msgid "_Search for"
 msgstr "(_S) இதற்காக தேடுக"
 
 msgid "Search for '%1' with"
 msgstr "'%1' என்பதற்கு இதைக்கொண்டு தேடு"
+
+msgid "Search in"
+msgstr "இதில் தேடு"
 
 msgid "Search Options"
 msgstr "தேடல் விருப்பத்தேர்வுகள்"
@@ -7520,6 +7856,9 @@ msgstr "தேர்வு"
 msgid "Selections"
 msgstr ""
 
+msgid "Self"
+msgstr ""
+
 msgid "Semicolon"
 msgstr "அரைப்புள்ளி"
 
@@ -7559,6 +7898,9 @@ msgstr "செர்பியா"
 msgid "Serbian"
 msgstr "செர்பியன்"
 
+msgid "Serial"
+msgstr "வரிசை"
+
 msgid "Serial Number"
 msgstr "தொடர் எண்"
 
@@ -7574,8 +7916,14 @@ msgstr "செரிஃப்"
 msgid "Server"
 msgstr "சேவையகம்"
 
+msgid "&Server"
+msgstr "&சேவகன்"
+
 msgid "Server URL"
 msgstr "சேவையக முகவரி"
+
+msgid "Servers"
+msgstr "சேவையகங்கள்"
 
 msgid "Service"
 msgstr "சேவை"
@@ -7588,6 +7936,9 @@ msgstr "அமர்வு"
 
 msgid "Session management options"
 msgstr "அமர்வு மேலாண்மை தேர்வுகள்"
+
+msgid "Session name"
+msgstr "அமர்வின் பெயர்"
 
 msgid "Sessions"
 msgstr "அமர்வுகள்"
@@ -7618,6 +7969,12 @@ msgstr ""
 
 msgid "Seychelles"
 msgstr "சேஷல்ஸ்"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr ""
@@ -7657,6 +8014,12 @@ msgstr ""
 
 msgid "Shear"
 msgstr "பிள"
+
+msgid "Sheet"
+msgstr "தாள்"
+
+msgid "Sheets"
+msgstr "தாள்கள்"
 
 msgid "Shell"
 msgstr "முனையம்"
@@ -7778,6 +8141,9 @@ msgstr ""
 msgid "Sinhala"
 msgstr "சிங்களம்"
 
+msgid "Site"
+msgstr "தளம்"
+
 msgid "Size"
 msgstr "அளவு"
 
@@ -7786,6 +8152,9 @@ msgstr "அளவு"
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "_அளவு"
 
 msgid "Size: %1"
 msgstr "அளவு: %1"
@@ -7813,6 +8182,9 @@ msgstr "ச்லைடர்"
 
 msgid "Slideshow"
 msgstr "வில்லைக்காட்சி"
+
+msgid "Slope"
+msgstr "சரிவு"
 
 msgid "Slovak"
 msgstr "சுலோவாக்"
@@ -7868,6 +8240,12 @@ msgstr "பரு நிறம்"
 msgid "Solomon Islands"
 msgstr "சாலமன் தீவுகள்"
 
+msgid "Solution"
+msgstr ""
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "சோமாலியா"
 
@@ -7885,6 +8263,9 @@ msgstr "வரிசைப்படுத்தல்"
 
 msgid "Sound"
 msgstr "ஒலி"
+
+msgid "Sounds"
+msgstr "ஒலிகள்"
 
 msgid "Soundtrack"
 msgstr ""
@@ -7954,6 +8335,9 @@ msgstr "சொல் திருத்தி"
 
 msgid "Spell Checking"
 msgstr "சொல் திருத்தம்"
+
+msgid "Spellcheck"
+msgstr "எழுத்து பிழை திருத்தி"
 
 msgid "Spelling"
 msgstr "எழுத்தாக்கம்"
@@ -8192,6 +8576,9 @@ msgstr "சூடானிய"
 msgid "Sunday"
 msgstr "ஞாயிறு"
 
+msgid "Sunrise"
+msgstr "சூரிய உதயம்"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8248,6 +8635,9 @@ msgstr "ஒத்திசைவுட கிளையன்ட்டி கு�
 
 msgid "Synchronize"
 msgstr "ஒத்திசையசெய்"
+
+msgid "Syntax"
+msgstr "இலக்கணம்"
 
 msgid "Syriac"
 msgstr "சிரிய"
@@ -8311,6 +8701,9 @@ msgstr "டான்ஸானியா"
 
 msgid "Target"
 msgstr "இலக்கு"
+
+msgid "Targets"
+msgstr ""
 
 msgid "Task"
 msgstr "பணி"
@@ -8425,6 +8818,9 @@ msgstr ""
 msgid "Theme"
 msgstr "கருப்பொருள்"
 
+msgid "&Theme"
+msgstr "தோ&ற்றத்திட்டம்"
+
 msgid "Themes"
 msgstr "கருத்துகள்"
 
@@ -8445,6 +8841,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr ""
+
+msgid "Threads"
+msgstr "நாண்கள்"
 
 msgid "Threshold"
 msgstr "விளிம்பு"
@@ -8472,6 +8871,9 @@ msgstr "பக்கத்துப்பக்கத்தில் பலம�
 
 msgid "Tiled"
 msgstr "ஓடுகளாக்கப்பட்டது"
+
+msgid "Tiles"
+msgstr "ஓடுகள்"
 
 msgid "Tilt"
 msgstr "சாய்வு"
@@ -8521,6 +8923,9 @@ msgstr "&தலைப்பு"
 msgid "_Title"
 msgstr "தலைப்பு (_T)"
 
+msgid "Titles"
+msgstr "தலைப்புகள்"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8544,6 +8949,9 @@ msgstr "செய்ய வேண்டியவை"
 
 msgid "Todo"
 msgstr "செய்யவேண்டியவற்றிற்கான"
+
+msgid "To-do"
+msgstr "செய்யவேண்டியது"
 
 msgid "Toggle Fullscreen"
 msgstr "முழுத்திரை பயன்முறையை நிலைமாற்று"
@@ -8575,6 +8983,9 @@ msgstr ""
 msgid "Tool Options"
 msgstr "கருவி தேர்வுகள்"
 
+msgid "Toolbar"
+msgstr "கருவிப்பட்டை"
+
 msgid "_Toolbar"
 msgstr "_T கருவிப்பட்டி"
 
@@ -8595,6 +9006,9 @@ msgstr "&கருவிகள்"
 
 msgid "_Tools"
 msgstr "(_T) கருவிகள்"
+
+msgid "Tooltip"
+msgstr "கருவித் துப்பு"
 
 msgid "Top"
 msgstr "மேலே"
@@ -8746,11 +9160,17 @@ msgstr "வகை"
 msgid "&Type"
 msgstr "&வகை"
 
+msgid "_Type"
+msgstr "வகை _T "
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "உகாண்டா"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "உக்ரைன்"
@@ -8983,6 +9403,9 @@ msgstr ""
 msgid "User"
 msgstr "பயனர்"
 
+msgid "User Agent"
+msgstr ""
+
 msgid "User Certificate"
 msgstr ""
 
@@ -9007,11 +9430,17 @@ msgstr ""
 msgid "Username"
 msgstr "பயனர் பெயர்"
 
+msgid "&Username"
+msgstr "&பயனர் பெயர்"
+
 msgid "_Username"
 msgstr "பயனர் பெயர் (_U)"
 
 msgid "Users"
 msgstr "பயனர்கள்"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "பயனுள்ளவை"
@@ -9032,6 +9461,9 @@ msgid "Valid"
 msgstr "முறையானது"
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9066,6 +9498,9 @@ msgstr "மாறிகள்"
 msgid "Variance"
 msgstr "மாற்றம்"
 
+msgid "Variant"
+msgstr ""
+
 msgid "Vector"
 msgstr "நெறியம்"
 
@@ -9092,6 +9527,9 @@ msgstr "பதிப்பு %1"
 
 msgid "Vertical"
 msgstr "செங்குத்து"
+
+msgid "_Vertical"
+msgstr "(_V) செங்குத்தாக"
 
 msgid "Very Large"
 msgstr "பெரியது"
@@ -9125,6 +9563,9 @@ msgstr "&பார்வை"
 
 msgid "_View"
 msgstr "பார்வை (_V)"
+
+msgid "View mode"
+msgstr "காட்சி முறை"
 
 msgid "View Options"
 msgstr ""
@@ -9285,6 +9726,9 @@ msgstr "அருகலை"
 msgid "Wikipedia"
 msgstr ""
 
+msgid "Wind"
+msgstr "காற்று"
+
 msgid "Window"
 msgstr "சாளரம்"
 
@@ -9327,11 +9771,17 @@ msgstr ""
 msgid "Word Count"
 msgstr "சொற்களின் எண்ணிக்கை"
 
+msgid "Word wrap"
+msgstr "வரிமடிப்பு"
+
 msgid "Words"
 msgstr "சொற்கள்"
 
 msgid "Work"
 msgstr "அலுவலகம்"
+
+msgid "Workspace"
+msgstr "பணிமேடை"
 
 msgid "World"
 msgstr "உலகம்"
@@ -9371,6 +9821,9 @@ msgstr "(_Y) ஒய்"
 
 msgid "Year"
 msgstr "ஆண்டு"
+
+msgid "&Year"
+msgstr "&ஆண்டு"
 
 msgid "Yearly"
 msgstr "ஒவ்வொரு ஆண்டும்"
@@ -9431,6 +9884,9 @@ msgstr "&உருப்பெருக்கம்"
 
 msgid "_Zoom"
 msgstr "அளவிடு (_Z)"
+
+msgid "Zoom factor"
+msgstr "உருப்பெருக்க விகிதம்"
 
 msgid "Zoom In"
 msgstr "அணுகிப்பார்"

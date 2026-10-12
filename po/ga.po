@@ -82,9 +82,6 @@ msgstr " agus "
 msgid " (default)"
 msgstr " (réamhshocraithe)"
 
-msgid "© KDE Community"
-msgstr "© Pobal KDE"
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Tá comhad darb ainm \"%1\" ann cheana. An bhfuil tú cinnte gur mian leat "
@@ -357,17 +357,20 @@ msgstr "_Maidir Leis Seo"
 msgid "About %1"
 msgstr "Maidir le %1"
 
-msgid "About KDE"
-msgstr "Maidir le KDE"
-
 msgid "Abstract"
 msgstr "Coimriú"
+
+msgid "Acceleration"
+msgstr "Luasghéarú"
 
 msgid "Accept"
 msgstr "Glac Leis"
 
 msgid "Accepted"
 msgstr "Glactha"
+
+msgid "Access"
+msgstr "Rochtain"
 
 msgid "Accessed"
 msgstr "Rochtain déanta air"
@@ -386,6 +389,9 @@ msgstr "Eolas faoin Chuntas"
 
 msgid "Account Name"
 msgstr "Ainm an Chuntais"
+
+msgid "Account name"
+msgstr "Ainm an chuntais"
 
 msgid "Accounts"
 msgstr "Cuntais"
@@ -639,6 +645,9 @@ msgstr "De réir aibítre"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Malartach"
+
 msgid "Alternative"
 msgstr "Malartach"
 
@@ -714,8 +723,14 @@ msgstr "Anótálacha"
 msgid "Anonymous"
 msgstr "Gan ainm"
 
+msgid "Answer"
+msgstr "Freagra"
+
 msgid "Antarctica"
 msgstr "Antartaice"
+
+msgid "Antialiasing"
+msgstr "Frithailiasáil"
 
 msgid "Any"
 msgstr "Ar Bith"
@@ -885,6 +900,9 @@ msgstr ""
 msgid "Author"
 msgstr "Údar"
 
+msgid "Author name"
+msgstr "Ainm an údair"
+
 msgid "Authors"
 msgstr "Údair"
 
@@ -930,6 +948,9 @@ msgstr "Asarbaiseáinis"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -942,8 +963,14 @@ msgstr "&Siar"
 msgid "_Back"
 msgstr "_Siar"
 
+msgid "Backend"
+msgstr "Cúil"
+
 msgid "Background"
 msgstr "Cúlra"
+
+msgid "&Background"
+msgstr "&Cúlra"
 
 msgid "Background Color"
 msgstr "Dath an Chúlra"
@@ -953,6 +980,9 @@ msgstr "Dath an chúlra"
 
 msgid "&Background color"
 msgstr "Dath an &Chúlra"
+
+msgid "Background image"
+msgstr "Íomhá chúlra"
 
 msgid "Backspace"
 msgstr "Cúlspás"
@@ -974,6 +1004,9 @@ msgstr "Cothrom"
 
 msgid "Baltic"
 msgstr "Baltach"
+
+msgid "Bandwidth"
+msgstr "Bandaleithead"
 
 msgid "Bangladesh"
 msgstr "An Bhanglaidéis"
@@ -1001,6 +1034,9 @@ msgstr "Dord"
 
 msgid "Battery"
 msgstr "Cadhnra"
+
+msgid "BCC"
+msgstr "BCC"
 
 msgid "Bcc"
 msgstr "BCC"
@@ -1158,23 +1194,8 @@ msgstr "Brainse"
 msgid "Brazil"
 msgstr "An Bhrasaíl"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze ag an KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Breeze Dark"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze Dark ag an KDE VDG"
-
 msgid "Breton"
 msgstr "Briotáinis"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Droichead"
@@ -1311,18 +1332,6 @@ msgstr "Ce&alaigh"
 msgid "Canceled"
 msgstr "Cealaithe"
 
-msgid "Cancelled"
-msgstr "Cealaithe"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Canbhás"
 
@@ -1341,14 +1350,14 @@ msgstr "Cás Uachtair"
 msgid "Caps Lock is on"
 msgstr "Tá Caps Lock ar siúl"
 
+msgid "Caption"
+msgstr "Fotheideal"
+
 msgid "Capture"
 msgstr "Gabháil"
 
 msgid "Car"
 msgstr "Carr"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascáidigh"
@@ -1437,6 +1446,9 @@ msgstr "Athraigh..."
 msgid "Changed"
 msgstr "Athraithe"
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "Cainéal"
 
@@ -1454,6 +1466,9 @@ msgstr "Caibidlí"
 
 msgid "Character"
 msgstr "Carachtar"
+
+msgid "Character set"
+msgstr "Tacar carachtar"
 
 msgid "Characters"
 msgstr "Carachtair"
@@ -1686,6 +1701,9 @@ msgstr ""
 msgid "Color Space"
 msgstr "Spás Dathanna"
 
+msgid "Color space"
+msgstr "Spás datha"
+
 msgid "Color theme"
 msgstr ""
 
@@ -1707,14 +1725,8 @@ msgstr "Colúin"
 msgid "Comma"
 msgstr "Camóg"
 
-msgid "COMMAND"
-msgstr "ORDÚ"
-
 msgid "Command"
 msgstr "Ordú"
-
-msgid "command"
-msgstr "ordú"
 
 msgid "Command Line"
 msgstr "Líne na nOrduithe"
@@ -1728,6 +1740,9 @@ msgstr "Orduithe"
 msgid "Comment"
 msgstr "Nóta"
 
+msgid "comment"
+msgstr "nóta"
+
 msgid "Comments"
 msgstr "Nótaí"
 
@@ -1737,11 +1752,17 @@ msgstr "Cuir i bhFeidhm"
 msgid "Common"
 msgstr "Coitianta"
 
+msgid "Common Name"
+msgstr "Ainm Coitianta"
+
 msgid "Comoros"
 msgstr "Oileáin Chomóra"
 
 msgid "Compact"
 msgstr "Dlúth"
+
+msgid "Company"
+msgstr "Comhlacht"
 
 msgid "Compare"
 msgstr "Cuir i gComparáid"
@@ -1779,6 +1800,9 @@ msgstr "Ríomhaire"
 msgid "Condition"
 msgstr "Coinníoll"
 
+msgid "Conditions"
+msgstr "Aimsir"
+
 msgid "Confidential"
 msgstr "Faoi Rún"
 
@@ -1809,6 +1833,9 @@ msgstr "Cumraigh Aicearraí Gréasáin..."
 msgid "Confirm"
 msgstr "Deimhnigh"
 
+msgid "Confirm Password"
+msgstr ""
+
 msgid "Confirmation"
 msgstr "Deimhniú"
 
@@ -1820,6 +1847,9 @@ msgstr "Cinntithe"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Coimhlint le hAicearra Feidhmchláir Chaighdeánaithe"
+
+msgid "Conflicts"
+msgstr "Coinbhleachtaí"
 
 msgid "Connect"
 msgstr "Ceangail"
@@ -1845,6 +1875,9 @@ msgstr "Theip ar an gCeangal"
 msgid "Connection Settings"
 msgstr "Socruithe an Cheangail"
 
+msgid "Connection type"
+msgstr "Cineál nasc"
+
 msgid "Connections"
 msgstr "Ceangail"
 
@@ -1853,9 +1886,6 @@ msgstr "Consól"
 
 msgid "Constant"
 msgstr "Tairiseach"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "Teagmháil"
@@ -1869,14 +1899,14 @@ msgstr "Coimeádán"
 msgid "Contains"
 msgstr "Ina bhfuil"
 
-msgid "contains"
-msgstr "ina bhfuil"
-
 msgid "Content"
 msgstr "Ábhar"
 
 msgid "Content Type"
 msgstr "Cineál Ábhair"
+
+msgid "Content type"
+msgstr "Cineál ábhair"
 
 msgid "Contents"
 msgstr "Ábhar"
@@ -1899,11 +1929,17 @@ msgstr "Codarsnacht"
 msgid "Contributor"
 msgstr "Cuiditheoir"
 
+msgid "Contributors"
+msgstr "Cuiditheoirí"
+
 msgid "Control"
 msgstr "Control"
 
 msgid "Convert"
 msgstr "Tiontaigh"
+
+msgid "Convert to"
+msgstr "Tiontaigh go"
 
 msgid "Convert to Path"
 msgstr "Tiontaigh go Cosán"
@@ -1922,9 +1958,6 @@ msgstr "Coptais"
 
 msgid "Copy"
 msgstr "Cóipeáil"
-
-msgid "copy"
-msgstr "cóip"
 
 msgid "&Copy"
 msgstr "&Cóipeáil"
@@ -1977,6 +2010,9 @@ msgstr "Comhad á gcóipeáil"
 msgid "Copyright"
 msgstr "Cóipcheart"
 
+msgid "Correct"
+msgstr "Ceart"
+
 msgid "Cost"
 msgstr "Costas"
 
@@ -2000,6 +2036,9 @@ msgstr "Tír"
 
 msgid "CPU"
 msgstr ""
+
+msgid "CPU usage"
+msgstr "Úsáid LAP"
 
 msgid "Create"
 msgstr "Cruthaigh"
@@ -2028,6 +2067,9 @@ msgstr "Cruthaitheoir"
 msgid "Credentials"
 msgstr "Dintiúir"
 
+msgid "Credit"
+msgstr "Admháil"
+
 msgid "Credits"
 msgstr "Creidmheasanna"
 
@@ -2054,15 +2096,6 @@ msgstr "Cros"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+O"
 
 msgid "Cuba"
 msgstr "Cúba"
@@ -2091,8 +2124,14 @@ msgstr "Cuair"
 msgid "Custom"
 msgstr "Saincheaptha"
 
+msgid "&Custom"
+msgstr "Sain&cheaptha"
+
 msgid "Custom..."
 msgstr "Saincheaptha..."
+
+msgid "Custom color"
+msgstr "Dath saincheaptha"
 
 msgid "Custom Font"
 msgstr "Cló Saincheaptha"
@@ -2166,6 +2205,9 @@ msgstr "Sonraí"
 msgid "Database"
 msgstr "Bunachar Sonraí"
 
+msgid "Database name"
+msgstr "Ainm an bhunachair sonraí"
+
 msgid "Date"
 msgstr "Dáta"
 
@@ -2181,14 +2223,20 @@ msgstr "Dáta agus Am"
 msgid "Date Format"
 msgstr "Formáid an Dáta"
 
+msgid "Date format"
+msgstr "Formáid an dáta"
+
 msgid "Date Modified"
 msgstr "Dáta Athraithe"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "Dáta/Am"
 
 msgid "Day"
 msgstr "Lá"
+
+msgid "day"
+msgstr "lá"
 
 msgid "Days"
 msgstr "Laethanta"
@@ -2237,6 +2285,9 @@ msgstr "Réamhshocrú"
 
 msgid "default"
 msgstr "réamhshocraithe"
+
+msgid "Default value"
+msgstr ""
 
 msgid "Defaults"
 msgstr "Réamhshocruithe"
@@ -2313,6 +2364,9 @@ msgstr "Dlús"
 msgid "Deny"
 msgstr "Diúltaigh"
 
+msgid "Department"
+msgstr "Roinn"
+
 msgid "Dependencies"
 msgstr "Spleáchais"
 
@@ -2345,6 +2399,12 @@ msgstr "Deasc"
 
 msgid "Destination"
 msgstr "Sprioc"
+
+msgid "Destination Folder"
+msgstr "Fillteán Ceann Scríbe"
+
+msgid "Destination folder"
+msgstr "Fillteán ceann scríbe"
 
 msgid "Detach"
 msgstr "Dícheangail"
@@ -2517,6 +2577,9 @@ msgstr "Tuaslaig"
 msgid "Distance"
 msgstr "Fad"
 
+msgid "Distribution"
+msgstr "Dáileadh"
+
 msgid "Divide"
 msgstr "Roinn"
 
@@ -2571,11 +2634,11 @@ msgstr "Doiciméid"
 msgid "does not contain"
 msgstr "nach bhfuil ann"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Fearann"
+
+msgid "_Domain"
+msgstr "_Fearann"
 
 msgid "Dominica"
 msgstr "Doiminice"
@@ -2679,6 +2742,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Dinimiciúil"
+
 msgid "E"
 msgstr "E"
 
@@ -2730,6 +2796,9 @@ msgstr "Cuir Íomhá in Eagar"
 msgid "Editing"
 msgstr "Eagarthóireacht"
 
+msgid "Edition"
+msgstr "Eagrán"
+
 msgid "Editor"
 msgstr "Eagarthóir"
 
@@ -2745,9 +2814,6 @@ msgstr "An Éigipt"
 msgid "Egyptian"
 msgstr "Éigipteach"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Díchuir"
 
@@ -2757,16 +2823,28 @@ msgstr "_Díchuir"
 msgid "El Salvador"
 msgstr "An tSalvadóir"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr "Leictreonach"
 
 msgid "Element"
 msgstr "Dúil"
 
+msgid "Elements"
+msgstr "Eilimintí"
+
 msgid "Ellipse"
 msgstr "Éilips"
 
+msgid "EMail"
+msgstr "Ríomhphost"
+
 msgid "Email"
+msgstr "Ríomhphost"
+
+msgid "E-Mail"
 msgstr "Ríomhphost"
 
 msgid "E-mail"
@@ -2847,6 +2925,9 @@ msgstr "deireadh"
 msgid "End Date"
 msgstr "Dáta Deiridh"
 
+msgid "End date"
+msgstr "Dáta deiridh"
+
 msgid "End Time"
 msgstr "Am Críochnaithe"
 
@@ -2868,8 +2949,14 @@ msgstr "Béarla"
 msgid "Enter"
 msgstr "Iontráil"
 
+msgid "Enter name"
+msgstr "Iontráil ainm"
+
 msgid "Enter password"
 msgstr "Iontráil focal faire"
+
+msgid "Entries"
+msgstr ""
 
 msgid "Entry"
 msgstr "Iontráil"
@@ -2943,6 +3030,9 @@ msgstr "Imeacht"
 msgid "Events"
 msgstr "Imeachtaí"
 
+msgid "Every"
+msgstr "Gach"
+
 msgid "Everyone"
 msgstr "Gach duine"
 
@@ -2960,6 +3050,9 @@ msgstr "Samplaí"
 
 msgid "Exception"
 msgstr "Eisceacht"
+
+msgid "Exceptions"
+msgstr "Eisceachtaí"
 
 msgid "Exclude"
 msgstr "Fág as"
@@ -2994,11 +3087,17 @@ msgstr "Leathnaigh Uile"
 msgid "Experimental"
 msgstr "Turgnamhach"
 
+msgid "Expiration"
+msgstr "Dul as feidhm"
+
 msgid "Expired"
 msgstr "As Dáta"
 
 msgid "Expires"
 msgstr "As Feidhm"
+
+msgid "Expires On"
+msgstr "Éagaíonn Ar"
 
 msgid "Export"
 msgstr "Easpórtáil"
@@ -3033,6 +3132,9 @@ msgstr "Roghanna Easpórtála"
 msgid "Exposure"
 msgstr "Nochtadh"
 
+msgid "Exposure Time"
+msgstr "Aga nochta"
+
 msgid "Expression"
 msgstr "Slonn"
 
@@ -3053,6 +3155,9 @@ msgstr "Bain Amach"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Fabraic"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3111,6 +3216,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Gabh"
 
+msgid "Field"
+msgstr "Réimse"
+
+msgid "Fields"
+msgstr "Réimsí"
+
 msgid "Fiji"
 msgstr "Fidsí"
 
@@ -3143,6 +3254,9 @@ msgstr "Tá an comhad ann"
 
 msgid "File Format"
 msgstr "Formáid Chomhaid"
+
+msgid "File format"
+msgstr "Formáid comhaid"
 
 msgid "File is not a valid .desktop file"
 msgstr "Ní comhad .desktop bailí é an comhad"
@@ -3203,6 +3317,9 @@ msgstr "Dath Líonta"
 
 msgid "Filter"
 msgstr "Scagaire"
+
+msgid "&Filter"
+msgstr "&Scagaire"
 
 msgid "Filter..."
 msgstr "Scagaire..."
@@ -3267,6 +3384,9 @@ msgstr "Fionlainnis"
 msgid "First"
 msgstr "An Chéad"
 
+msgid "First Name"
+msgstr "Céadainm"
+
 msgid "First Page"
 msgstr "An Chéad Leathanach"
 
@@ -3327,6 +3447,9 @@ msgstr "bláth"
 msgid "Focal Length"
 msgstr "Fad Fócasach"
 
+msgid "Focal length"
+msgstr "Fad fócais"
+
 msgid "Focus"
 msgstr "Fócas"
 
@@ -3348,6 +3471,9 @@ msgstr "Cló"
 msgid "&Font"
 msgstr "&Cló"
 
+msgid "_Font"
+msgstr "_Cló"
+
 msgid "Font Color"
 msgstr "Dath Cló"
 
@@ -3359,6 +3485,12 @@ msgstr "Clómhéid"
 
 msgid "Font size"
 msgstr "Clómhéid"
+
+msgid "Font Style"
+msgstr "Stíl Cló"
+
+msgid "Font style"
+msgstr "Stíl an chló"
 
 msgid "Fonts"
 msgstr "Clónna"
@@ -3396,6 +3528,12 @@ msgstr "Foirm"
 msgid "Format"
 msgstr "Formáid"
 
+msgid "&Format"
+msgstr "&Formáid"
+
+msgid "_Format"
+msgstr "_Formáid"
+
 msgid "Formatting"
 msgstr "Formáidiú"
 
@@ -3422,6 +3560,12 @@ msgstr "Codán"
 
 msgid "Frame"
 msgstr "Fráma"
+
+msgid "Frame Rate"
+msgstr "Ráta Fráma"
+
+msgid "Frame rate"
+msgstr "Ráta fráma"
 
 msgid "Framerate"
 msgstr "Ráta Fráma"
@@ -3467,6 +3611,9 @@ msgstr "Iomlán"
 
 msgid "Full Name"
 msgstr "Ainm Iomlán"
+
+msgid "Full name"
+msgstr "Ainm iomlán"
 
 msgid "Full Screen"
 msgstr "Lánscáileán"
@@ -3533,6 +3680,9 @@ msgstr "Geata"
 
 msgid "Gateway"
 msgstr "Geata"
+
+msgid "_Gateway"
+msgstr ""
 
 msgid "Gaussian Blur"
 msgstr "Doiléiriú Gaussach"
@@ -3654,6 +3804,9 @@ msgstr "Go dtí an leathanach roimhe seo"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr "Sprioc"
+
 msgid "Gold"
 msgstr "Ór"
 
@@ -3708,6 +3861,9 @@ msgstr "Liath"
 msgid "Grid"
 msgstr "Eangach"
 
+msgid "&Grid"
+msgstr "&Greille"
+
 msgid "Group"
 msgstr "Grúpa"
 
@@ -3753,6 +3909,9 @@ msgstr "Crua"
 msgid "Hardware"
 msgstr "Crua-Earraí"
 
+msgid "Hash"
+msgstr "Hais"
+
 msgid "Hawaiian"
 msgstr "Haváís"
 
@@ -3794,6 +3953,9 @@ msgstr "Airde"
 
 msgid "&Height"
 msgstr "&Airde"
+
+msgid "_Height"
+msgstr "A_irde"
 
 msgid "Help"
 msgstr "Cabhair"
@@ -3839,6 +4001,9 @@ msgstr "Ard"
 
 msgid "Highlight"
 msgstr "Aibhsigh"
+
+msgid "Highlight color"
+msgstr "Dath aibhsithe"
 
 msgid "Highlighter"
 msgstr "Aibhseoir"
@@ -3891,8 +4056,17 @@ msgstr "Hong Cong"
 msgid "Horizontal"
 msgstr "Cothrománach"
 
+msgid "_Horizontal"
+msgstr "_Cothromach"
+
+msgid "Horizontally"
+msgstr "Go Cothrománach"
+
 msgid "Host"
 msgstr "Óstríomhaire"
+
+msgid "Host Name"
+msgstr "Óstainm"
 
 msgid "Hostname"
 msgstr "Óstainm"
@@ -3972,6 +4146,9 @@ msgstr "Aitheantas"
 msgid "id"
 msgstr "aitheantas"
 
+msgid "Identification"
+msgstr "Aitheantas"
+
 msgid "Identifier"
 msgstr "Aitheantóir"
 
@@ -4025,6 +4202,12 @@ msgstr "Socruithe Íomhá"
 
 msgid "Image Size"
 msgstr "Méid na hÍomhá"
+
+msgid "Image size"
+msgstr "Méid íomhá"
+
+msgid "Image type"
+msgstr "Cineál íomhá"
 
 msgid "Image Viewer"
 msgstr "Amharcán Íomhánna"
@@ -4101,6 +4284,9 @@ msgstr "Méadaigh Eangú"
 msgid "Increase Volume"
 msgstr "Méadaigh an Airde"
 
+msgid "Increment"
+msgstr "Incrimint"
+
 msgid "Incremental"
 msgstr "Incrimint"
 
@@ -4112,6 +4298,9 @@ msgstr "Innéacs"
 
 msgid "Indexed"
 msgstr "Innéacsaithe"
+
+msgid "Indexing"
+msgstr "Innéacsú"
 
 msgid "India"
 msgstr "An India"
@@ -4175,6 +4364,9 @@ msgstr "Á Shuiteáil"
 
 msgid "Instant"
 msgstr "Meandarach"
+
+msgid "Instructions"
+msgstr "Treoracha"
 
 msgid "Integer"
 msgstr "Slánuimhir"
@@ -4263,11 +4455,17 @@ msgstr "Gaeilge"
 msgid "is"
 msgstr "atá"
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "Iosrael"
 
 msgid "Issued By"
 msgstr "Eisithe ag"
+
+msgid "Issued On"
+msgstr "Eisithe Ar"
 
 msgid "Issuer"
 msgstr "Eisitheoir"
@@ -4365,9 +4563,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Cannadais"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Casacstáinis"
 
@@ -4376,18 +4571,6 @@ msgstr "An Chasacstáin"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "Pobal KDE, Felipe Kinoshita"
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Coimeád"
@@ -4452,26 +4635,11 @@ msgstr "Ciribeas"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Cóiréach"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "An Chuáit"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "C"
@@ -4490,6 +4658,9 @@ msgstr "Tírdhreach"
 
 msgid "Language"
 msgstr "Teanga"
+
+msgid "&Language"
+msgstr "&Teanga"
 
 msgid "_Language"
 msgstr ""
@@ -4511,6 +4682,12 @@ msgstr "Lá Deiridh"
 
 msgid "Last Modified"
 msgstr "Athraithe"
+
+msgid "Last modified"
+msgstr "Athraithe go deireanach"
+
+msgid "Last Name"
+msgstr "Sloinne"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4623,8 +4800,20 @@ msgstr "Briseadh Líne"
 msgid "Line Color"
 msgstr "Dath Líne"
 
+msgid "Line Count"
+msgstr "Líon na Línte"
+
 msgid "Line Numbers"
 msgstr "Uimhreacha Líne"
+
+msgid "Line spacing"
+msgstr "Spásáil líne"
+
+msgid "Line Style"
+msgstr "Stíl Líne"
+
+msgid "Line style"
+msgstr "Stíl líne"
 
 msgid "Line Width"
 msgstr "Leithead Líne"
@@ -4643,6 +4832,9 @@ msgstr "Nasc"
 
 msgid "link"
 msgstr "nasc"
+
+msgid "Link Text"
+msgstr "Téacs Naisc"
 
 msgid "Link URL"
 msgstr "URL an Naisc"
@@ -4742,6 +4934,9 @@ msgstr "Logáil Isteach"
 
 msgid "_Login"
 msgstr ""
+
+msgid "Logo"
+msgstr "Lógó"
 
 msgid "Logout"
 msgstr "Logáil Amach"
@@ -4938,6 +5133,9 @@ msgstr "Uasmhéadaigh"
 msgid "Maximum"
 msgstr "Uasmhéid"
 
+msgid "Maximum width"
+msgstr "Leithead uasta"
+
 msgid "May"
 msgstr "Bealtaine"
 
@@ -4992,6 +5190,9 @@ msgstr "Teachtaireacht"
 msgid "message"
 msgstr "teachtaireacht"
 
+msgid "&Message"
+msgstr "&Teachtaireacht"
+
 msgid "Messages"
 msgstr "Teachtaireachtaí"
 
@@ -5003,6 +5204,9 @@ msgstr "Meiteashonraí"
 
 msgid "Metal"
 msgstr "Metal"
+
+msgid "Metering Mode"
+msgstr "Mód Méadraithe"
 
 msgid "meters"
 msgstr "méadair"
@@ -5042,6 +5246,9 @@ msgstr "Mileasoicindí"
 
 msgid "milliseconds"
 msgstr "milleasoicind"
+
+msgid "MIME type"
+msgstr "Cineál MIME"
 
 msgid "Min"
 msgstr "Íos"
@@ -5088,8 +5295,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Fón Póca"
 
+msgid "Mobile Phone"
+msgstr "Fón Póca"
+
 msgid "Mode"
 msgstr "Mód"
+
+msgid "_Mode"
+msgstr ""
 
 msgid "Model"
 msgstr "Samhail"
@@ -5186,6 +5399,9 @@ msgstr "Maracó"
 
 msgid "Mount"
 msgstr "Feistigh"
+
+msgid "Mount Point"
+msgstr "Pointe Feistithe"
 
 msgid "Mount point"
 msgstr ""
@@ -5325,6 +5541,9 @@ msgstr "_Ainm"
 msgid "Name: %1"
 msgstr "Ainm: %1"
 
+msgid "Names"
+msgstr "Ainmneacha"
+
 msgid "Namespace"
 msgstr "Ainmspás"
 
@@ -5354,6 +5573,9 @@ msgstr "Neipeálach"
 
 msgid "Netherlands"
 msgstr "An Ísiltír"
+
+msgid "Netmask"
+msgstr ""
 
 msgid "Network"
 msgstr "Líonra"
@@ -5565,6 +5787,9 @@ msgstr "Gan Ábhar"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "Nód"
+
 msgid "Noise"
 msgstr "Torann"
 
@@ -5691,6 +5916,9 @@ msgstr "uimhir"
 msgid "Number of columns"
 msgstr "Líon na gcolún"
 
+msgid "Number of rows"
+msgstr "Líon na rónna"
+
 msgid "Numbers"
 msgstr "Uimhreacha"
 
@@ -5747,9 +5975,6 @@ msgstr "&OK"
 
 msgid "_OK"
 msgstr "Tá g_o Maith"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Oman"
@@ -5901,6 +6126,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Ceoldráma"
 
+msgid "Operating System"
+msgstr ""
+
 msgid "Operation"
 msgstr "Oibríocht"
 
@@ -5912,6 +6140,9 @@ msgstr "Oibríochtaí"
 
 msgid "Operator"
 msgstr "Oibreoir"
+
+msgid "Operators"
+msgstr "Oibreoirí"
 
 msgid "Optical Character Recognition"
 msgstr "Aithint Optúil Carachtar"
@@ -5970,6 +6201,9 @@ msgstr "Méid Bunaidh"
 msgid "Oriya"
 msgstr "Oirísis"
 
+msgid "OS"
+msgstr "Córas"
+
 msgid "Other"
 msgstr "Eile"
 
@@ -5984,6 +6218,9 @@ msgstr "Feidhmchlár Eile..."
 
 msgid "Other Options"
 msgstr "Roghanna Eile"
+
+msgid "Other options"
+msgstr "Roghanna eile"
 
 msgid "Others"
 msgstr "Eile"
@@ -6126,6 +6363,9 @@ msgstr "Máthair"
 msgid "Partition"
 msgstr "Deighilt"
 
+msgid "Passphrase"
+msgstr "Frása Faire"
+
 msgid "Password"
 msgstr "Focal Faire"
 
@@ -6164,6 +6404,9 @@ msgstr "Conairí"
 
 msgid "Pattern"
 msgstr "Patrún"
+
+msgid "_Pattern"
+msgstr "_Patrún"
 
 msgid "Patterns"
 msgstr "Patrúin"
@@ -6249,8 +6492,14 @@ msgstr "Na hOileáin Fhilipíneacha"
 msgid "Phone"
 msgstr "Fón"
 
+msgid "Phone Numbers"
+msgstr "Uimhreacha Teileafóin"
+
 msgid "Photo"
 msgstr "Grianghraf"
+
+msgid "Photos"
+msgstr "Grianghraif"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6272,6 +6521,9 @@ msgstr ""
 
 msgid "Pie"
 msgstr "Pióg"
+
+msgid "PIN"
+msgstr ""
 
 msgid "Pin"
 msgstr "Greamaigh le Bioráin"
@@ -6300,9 +6552,6 @@ msgstr "Gnáth-théacs"
 msgid "Plan"
 msgstr "Plean"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Ardán"
 
@@ -6321,8 +6570,14 @@ msgstr "Athsheinm"
 msgid "Player"
 msgstr "Imreoir"
 
+msgid "Player 1"
+msgstr "Imreoir 1"
+
 msgid "Player %1"
 msgstr "Imreoir %1"
+
+msgid "Player 2"
+msgstr "Imreoir 2"
 
 msgid "Players"
 msgstr "Imreoirí"
@@ -6402,6 +6657,9 @@ msgstr "Port"
 msgid "&Port"
 msgstr "&Port"
 
+msgid "_Port"
+msgstr ""
+
 msgid "Portrait"
 msgstr "Portráid"
 
@@ -6413,6 +6671,9 @@ msgstr "Portaingéilis"
 
 msgid "Position"
 msgstr "Ionad"
+
+msgid "Postal code"
+msgstr "Cód poist"
 
 msgid "Posterize"
 msgstr "Póstaeraigh"
@@ -6455,6 +6716,9 @@ msgstr "Réamhamharc"
 
 msgid "&Preview"
 msgstr "&Réamhamharc"
+
+msgid "_Preview"
+msgstr "_Reámhtaispeántas"
 
 msgid "Previews"
 msgstr "Réamhamharc"
@@ -6537,6 +6801,9 @@ msgstr "Príobháideachas"
 msgid "Private"
 msgstr "Príobháideach"
 
+msgid "Private Key"
+msgstr ""
+
 msgid "Process"
 msgstr "Próiseas"
 
@@ -6564,6 +6831,9 @@ msgstr "Próifílí"
 msgid "Program"
 msgstr "Clár"
 
+msgid "Programs"
+msgstr "Ríomhchláir"
+
 msgid "Progress"
 msgstr "Dul chun cinn"
 
@@ -6572,6 +6842,9 @@ msgstr "Tionscadal"
 
 msgid "&Project"
 msgstr "&Tionscadal"
+
+msgid "Project name"
+msgstr "Ainm an tionscadail"
 
 msgid "Projects"
 msgstr "Tionscadail"
@@ -6645,6 +6918,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "Catar"
 
@@ -6698,6 +6974,9 @@ msgstr "Éirigh as an bhfeidhmchlár"
 msgid "Quote"
 msgstr "Luaigh"
 
+msgid "Quotes"
+msgstr "Comharthaí Athfhriotail"
+
 msgid "R"
 msgstr "R"
 
@@ -6728,6 +7007,9 @@ msgstr "Ráta"
 msgid "Rating"
 msgstr "Rátáil"
 
+msgid "Ratio"
+msgstr "Cóimheas"
+
 msgid "Raw"
 msgstr "Amh"
 
@@ -6755,11 +7037,17 @@ msgstr "Réidh"
 msgid "Ready."
 msgstr "Réidh."
 
+msgid "Realm"
+msgstr "Flaitheas"
+
 msgid "Reason"
 msgstr "Cúis"
 
 msgid "Reassign"
 msgstr "Athshann"
+
+msgid "Received"
+msgstr "Faighte"
 
 msgid "Recent"
 msgstr "Le déanaí"
@@ -6781,6 +7069,9 @@ msgstr "Taifeadadh"
 
 msgid "Rectangle"
 msgstr "Dronuilleog"
+
+msgid "Recurrence"
+msgstr "Atarlú"
 
 msgid "Recursive"
 msgstr "Athchúrsach"
@@ -6911,6 +7202,9 @@ msgstr "Bain an mhír roghnaithe ón mbarra uirlisí"
 msgid "Remove the selected toolbar"
 msgstr "Bain an barra uirlisí roghnaithe"
 
+msgid "Removing"
+msgstr "Á Bhaint"
+
 msgid "Rename"
 msgstr "Athainmnigh"
 
@@ -6931,6 +7225,9 @@ msgstr "Athainmnigh an Leabharmharc"
 
 msgid "Rename File"
 msgstr "Athainmnigh Comhad"
+
+msgid "Rendering intent"
+msgstr "Intinn rindreála"
 
 msgid "Repeat"
 msgstr "Arís"
@@ -6953,11 +7250,20 @@ msgstr "Glac áit _Gach rud"
 msgid "Replace an existing instance"
 msgstr "Cuir cás atá ann cheana ina áit"
 
+msgid "Replace With"
+msgstr "Ionadaigh Le"
+
+msgid "Replace with"
+msgstr "Ionadaigh le"
+
 msgid "Replacement"
 msgstr "Ionadaí"
 
 msgid "Reply"
 msgstr "Freagair"
+
+msgid "Reply-To"
+msgstr ""
 
 msgid "Report"
 msgstr "Tuairisc"
@@ -6976,6 +7282,9 @@ msgstr "&Seol tuairisc ar fhabht..."
 
 msgid "Reports"
 msgstr "Tuairiscí"
+
+msgid "Repository"
+msgstr "Stór"
 
 msgid "Required"
 msgstr "Riachtanach"
@@ -7088,6 +7397,9 @@ msgstr "Deas go Clé"
 msgid "Right-click"
 msgstr "Cliceáil ar dheis"
 
+msgid "Rights"
+msgstr "Cearta"
+
 msgid "River"
 msgstr "Abhainn"
 
@@ -7142,6 +7454,9 @@ msgstr "ró"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "Riail"
+
 msgid "Rules"
 msgstr "Rialacha"
 
@@ -7150,6 +7465,9 @@ msgstr "Rith"
 
 msgid "&Run"
 msgstr "&Rith"
+
+msgid "Run command"
+msgstr "Rith an t-ordú"
 
 msgid "Run in terminal"
 msgstr "Rith sa teirminéal"
@@ -7286,6 +7604,9 @@ msgstr "Sábháil Íomhá"
 msgid "_Save Image As..."
 msgstr "_Sábháil Íomhá Mar…"
 
+msgid "Save Location"
+msgstr "Suíomh Sábhála"
+
 msgid "Save Project"
 msgstr "Sábháil Tionscadal"
 
@@ -7294,6 +7615,9 @@ msgstr "Sábháil Seisiún"
 
 msgid "Save Settings"
 msgstr "Sábháil Socruithe"
+
+msgid "Save to"
+msgstr "Sábháil chuig"
 
 msgid "Saved"
 msgstr "Sábháilte"
@@ -7325,11 +7649,17 @@ msgstr "Scan"
 msgid "Scanner"
 msgstr "Scanóir"
 
+msgid "Scanning"
+msgstr "Scanadh"
+
 msgid "Scanning..."
 msgstr "Ag scanadh..."
 
 msgid "Schedule"
 msgstr "Sceideal"
+
+msgid "Scheduler"
+msgstr "Sceidealóir"
 
 msgid "Scheduling"
 msgstr "Sceidealadh"
@@ -7406,11 +7736,17 @@ msgstr "Cuardaigh..."
 msgid "Search Bar"
 msgstr "Barra Cuardaigh"
 
+msgid "Search for"
+msgstr "Déan cuardach ar"
+
 msgid "_Search for"
 msgstr "_Cuardaigh ar: "
 
 msgid "Search for '%1' with"
 msgstr "Déan cuardach ar '%1' le"
+
+msgid "Search in"
+msgstr "Cuardaigh i"
 
 msgid "Search Options"
 msgstr "Roghanna Cuardaigh"
@@ -7514,6 +7850,9 @@ msgstr "Roghnú"
 msgid "Selections"
 msgstr ""
 
+msgid "Self"
+msgstr "Féin"
+
 msgid "Semicolon"
 msgstr "Leathstad"
 
@@ -7553,6 +7892,9 @@ msgstr "An tSeirbia"
 msgid "Serbian"
 msgstr "Seirbis"
 
+msgid "Serial"
+msgstr "Sraitheach"
+
 msgid "Serial Number"
 msgstr "Sraithuimhir"
 
@@ -7568,8 +7910,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "Freastalaí"
 
+msgid "&Server"
+msgstr "Frea&stalaí"
+
 msgid "Server URL"
 msgstr "URL an fhreastalaí"
+
+msgid "Servers"
+msgstr "Freastalaithe"
 
 msgid "Service"
 msgstr "Seirbhís"
@@ -7582,6 +7930,9 @@ msgstr "Seisiún"
 
 msgid "Session management options"
 msgstr "Roghanna bainistíochta seisiún"
+
+msgid "Session name"
+msgstr "Ainm an tseisiúin"
 
 msgid "Sessions"
 msgstr "Seisiúin"
@@ -7612,6 +7963,12 @@ msgstr "Géire"
 
 msgid "Seychelles"
 msgstr "Na Séiséil"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr ""
@@ -7651,6 +8008,12 @@ msgstr "Géire"
 
 msgid "Shear"
 msgstr "Lomadh"
+
+msgid "Sheet"
+msgstr "Bileog"
+
+msgid "Sheets"
+msgstr "Bileoga"
 
 msgid "Shell"
 msgstr "Blaosc"
@@ -7772,6 +8135,9 @@ msgstr "Singil"
 msgid "Sinhala"
 msgstr "Siolóinis"
 
+msgid "Site"
+msgstr "Suíomh"
+
 msgid "Size"
 msgstr "Méid"
 
@@ -7780,6 +8146,9 @@ msgstr "méid"
 
 msgid "&Size"
 msgstr "&Méid"
+
+msgid "_Size"
+msgstr "_Méid"
 
 msgid "Size: %1"
 msgstr "Méid: %1"
@@ -7807,6 +8176,9 @@ msgstr "Barra Sleamhnáin"
 
 msgid "Slideshow"
 msgstr "Taispeántas Sleamhnán"
+
+msgid "Slope"
+msgstr "Fána"
 
 msgid "Slovak"
 msgstr "Slóvaicis"
@@ -7862,6 +8234,12 @@ msgstr "Dath soladach"
 msgid "Solomon Islands"
 msgstr "Oileáin Sholamón"
 
+msgid "Solution"
+msgstr "Réiteach"
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "An tSomáil"
 
@@ -7879,6 +8257,9 @@ msgstr "Sórtáil"
 
 msgid "Sound"
 msgstr "Fuaim"
+
+msgid "Sounds"
+msgstr "Fuaimeanna"
 
 msgid "Soundtrack"
 msgstr "Fuaimrian"
@@ -7948,6 +8329,9 @@ msgstr "Seiceáil Litrithe"
 
 msgid "Spell Checking"
 msgstr "Seiceáil Litrithe"
+
+msgid "Spellcheck"
+msgstr "Seiceáil an litriú"
 
 msgid "Spelling"
 msgstr "Litriú"
@@ -8186,6 +8570,9 @@ msgstr "Sundáinis"
 msgid "Sunday"
 msgstr "Domhnach"
 
+msgid "Sunrise"
+msgstr "Éirí Gréine"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8242,6 +8629,9 @@ msgstr "Sioncrónú"
 
 msgid "Synchronize"
 msgstr "Sioncrónaigh"
+
+msgid "Syntax"
+msgstr "Comhréir"
 
 msgid "Syriac"
 msgstr "Síris"
@@ -8305,6 +8695,9 @@ msgstr "An Tansáin"
 
 msgid "Target"
 msgstr "Sprioc"
+
+msgid "Targets"
+msgstr "Spriocanna"
 
 msgid "Task"
 msgstr "Tasc"
@@ -8421,6 +8814,9 @@ msgstr ""
 msgid "Theme"
 msgstr "Téama"
 
+msgid "&Theme"
+msgstr "&Téama"
+
 msgid "Themes"
 msgstr "Téamaí"
 
@@ -8442,6 +8838,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "Snáitheanna"
 
 msgid "Threshold"
 msgstr "Tairseach"
@@ -8469,6 +8868,9 @@ msgstr "Tíligh"
 
 msgid "Tiled"
 msgstr "Tílithe"
+
+msgid "Tiles"
+msgstr "Tíleanna"
 
 msgid "Tilt"
 msgstr "Claon"
@@ -8518,6 +8920,9 @@ msgstr "&Teideal"
 msgid "_Title"
 msgstr "_Teideal"
 
+msgid "Titles"
+msgstr "Teidil"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8541,6 +8946,9 @@ msgstr "LE DÉANAMH"
 
 msgid "Todo"
 msgstr "Le Déanamh"
+
+msgid "To-do"
+msgstr "Tasc"
 
 msgid "Toggle Fullscreen"
 msgstr "Scoránaigh Scáileán Iomlán"
@@ -8572,6 +8980,9 @@ msgstr "Uirlis"
 msgid "Tool Options"
 msgstr "Roghanna Uirlisí"
 
+msgid "Toolbar"
+msgstr "Barra Uirlisí"
+
 msgid "_Toolbar"
 msgstr "_Barra Uirlisí"
 
@@ -8592,6 +9003,9 @@ msgstr "&Uirlisí"
 
 msgid "_Tools"
 msgstr "_Uirlisí"
+
+msgid "Tooltip"
+msgstr "Leid Uirlis"
 
 msgid "Top"
 msgstr "Barr"
@@ -8743,11 +9157,17 @@ msgstr "cineál"
 msgid "&Type"
 msgstr "&Cineál"
 
+msgid "_Type"
+msgstr "_Saghas"
+
 msgid "Type: %1"
 msgstr "Cineál: %1"
 
 msgid "Uganda"
 msgstr "Uganda"
+
+msgid "UID"
+msgstr "Aitheantas Úsáideora"
 
 msgid "Ukraine"
 msgstr "An Úcráin"
@@ -8980,6 +9400,9 @@ msgstr "Úsáidte"
 msgid "User"
 msgstr "Úsáideoir"
 
+msgid "User Agent"
+msgstr "Gníomhaire Úsáideora"
+
 msgid "User Certificate"
 msgstr ""
 
@@ -9004,11 +9427,17 @@ msgstr ""
 msgid "Username"
 msgstr "Ainm úsáideora"
 
+msgid "&Username"
+msgstr "&Ainm úsáideora"
+
 msgid "_Username"
 msgstr "_Ainm Úsáideora"
 
 msgid "Users"
 msgstr "Úsáideoirí"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Uirlisí"
@@ -9030,6 +9459,9 @@ msgstr "Bailí"
 
 msgid "Valid from"
 msgstr "Bailí ó"
+
+msgid "Valid until"
+msgstr ""
 
 msgid "Validity"
 msgstr "Bailíocht"
@@ -9063,6 +9495,9 @@ msgstr "Athróga"
 msgid "Variance"
 msgstr "Athraitheas"
 
+msgid "Variant"
+msgstr "Leagan"
+
 msgid "Vector"
 msgstr "Veicteoir"
 
@@ -9089,6 +9524,9 @@ msgstr "Leagan %1"
 
 msgid "Vertical"
 msgstr "Ingearach"
+
+msgid "_Vertical"
+msgstr "_Ingearach"
 
 msgid "Very Large"
 msgstr "An-Mhór"
@@ -9122,6 +9560,9 @@ msgstr "&Amharc"
 
 msgid "_View"
 msgstr "_Amharc"
+
+msgid "View mode"
+msgstr "Mód amhairc"
 
 msgid "View Options"
 msgstr "Roghanna Amhairc"
@@ -9282,6 +9723,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "Vicipéid"
 
+msgid "Wind"
+msgstr "Gaoth"
+
 msgid "Window"
 msgstr "Fuinneog"
 
@@ -9324,11 +9768,17 @@ msgstr "Focal"
 msgid "Word Count"
 msgstr "Líon na bhFocal"
 
+msgid "Word wrap"
+msgstr ""
+
 msgid "Words"
 msgstr "Focail"
 
 msgid "Work"
 msgstr "Obair"
+
+msgid "Workspace"
+msgstr "Spás Oibre"
 
 msgid "World"
 msgstr "Domhan"
@@ -9368,6 +9818,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Bliain"
+
+msgid "&Year"
+msgstr "&Bliain"
 
 msgid "Yearly"
 msgstr "Bliantúil"
@@ -9428,6 +9881,9 @@ msgstr "&Súmáil"
 
 msgid "_Zoom"
 msgstr "_Súmáil"
+
+msgid "Zoom factor"
+msgstr "Fachtóir súmála"
 
 msgid "Zoom In"
 msgstr "Súmáil Isteach"

@@ -82,9 +82,6 @@ msgstr ""
 msgid " (default)"
 msgstr ""
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr "MB "
 
@@ -328,6 +325,9 @@ msgstr ""
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 
@@ -355,16 +355,19 @@ msgstr ""
 msgid "About %1"
 msgstr "Okwanjula %1"
 
-msgid "About KDE"
-msgstr "Ebifa ku KDE"
-
 msgid "Abstract"
+msgstr ""
+
+msgid "Acceleration"
 msgstr ""
 
 msgid "Accept"
 msgstr ""
 
 msgid "Accepted"
+msgstr ""
+
+msgid "Access"
 msgstr ""
 
 msgid "Accessed"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr ""
 msgid "Alt"
 msgstr ""
 
+msgid "Alternate"
+msgstr "Amalala"
+
 msgid "Alternative"
 msgstr ""
 
@@ -712,7 +721,13 @@ msgstr ""
 msgid "Anonymous"
 msgstr ""
 
+msgid "Answer"
+msgstr ""
+
 msgid "Antarctica"
+msgstr ""
+
+msgid "Antialiasing"
 msgstr ""
 
 msgid "Any"
@@ -883,6 +898,9 @@ msgstr ""
 msgid "Author"
 msgstr "Muwandisi"
 
+msgid "Author name"
+msgstr ""
+
 msgid "Authors"
 msgstr ""
 
@@ -928,6 +946,9 @@ msgstr "Luwazerebayijani"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr ""
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,7 +961,13 @@ msgstr "&Ddayo"
 msgid "_Back"
 msgstr ""
 
+msgid "Backend"
+msgstr ""
+
 msgid "Background"
+msgstr ""
+
+msgid "&Background"
 msgstr ""
 
 msgid "Background Color"
@@ -950,6 +977,9 @@ msgid "Background color"
 msgstr ""
 
 msgid "&Background color"
+msgstr ""
+
+msgid "Background image"
 msgstr ""
 
 msgid "Backspace"
@@ -971,6 +1001,9 @@ msgid "Balanced"
 msgstr ""
 
 msgid "Baltic"
+msgstr ""
+
+msgid "Bandwidth"
 msgstr ""
 
 msgid "Bangladesh"
@@ -998,6 +1031,9 @@ msgid "Bass"
 msgstr ""
 
 msgid "Battery"
+msgstr ""
+
+msgid "BCC"
 msgstr ""
 
 msgid "Bcc"
@@ -1156,23 +1192,8 @@ msgstr ""
 msgid "Brazil"
 msgstr ""
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr ""
-
-msgid "Breeze Dark"
-msgstr ""
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr ""
-
 msgid "Breton"
 msgstr "Luburetoni"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr ""
@@ -1309,18 +1330,6 @@ msgstr "S&azzamu"
 msgid "Canceled"
 msgstr ""
 
-msgid "Cancelled"
-msgstr "Gusazidwamu"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr ""
 
@@ -1339,13 +1348,13 @@ msgstr ""
 msgid "Caps Lock is on"
 msgstr ""
 
+msgid "Caption"
+msgstr ""
+
 msgid "Capture"
 msgstr ""
 
 msgid "Car"
-msgstr ""
-
-msgid "Carsten Pfeiffer"
 msgstr ""
 
 msgid "Cascade"
@@ -1435,6 +1444,9 @@ msgstr "Kyusa..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr ""
 
@@ -1451,6 +1463,9 @@ msgid "Chapters"
 msgstr ""
 
 msgid "Character"
+msgstr ""
+
+msgid "Character set"
 msgstr ""
 
 msgid "Characters"
@@ -1684,6 +1699,9 @@ msgstr ""
 msgid "Color Space"
 msgstr ""
 
+msgid "Color space"
+msgstr ""
+
 msgid "Color theme"
 msgstr ""
 
@@ -1705,13 +1723,7 @@ msgstr ""
 msgid "Comma"
 msgstr ""
 
-msgid "COMMAND"
-msgstr ""
-
 msgid "Command"
-msgstr ""
-
-msgid "command"
 msgstr ""
 
 msgid "Command Line"
@@ -1726,6 +1738,9 @@ msgstr ""
 msgid "Comment"
 msgstr ""
 
+msgid "comment"
+msgstr ""
+
 msgid "Comments"
 msgstr ""
 
@@ -1735,10 +1750,16 @@ msgstr ""
 msgid "Common"
 msgstr ""
 
+msgid "Common Name"
+msgstr ""
+
 msgid "Comoros"
 msgstr ""
 
 msgid "Compact"
+msgstr ""
+
+msgid "Company"
 msgstr ""
 
 msgid "Compare"
@@ -1777,6 +1798,9 @@ msgstr ""
 msgid "Condition"
 msgstr ""
 
+msgid "Conditions"
+msgstr ""
+
 msgid "Confidential"
 msgstr ""
 
@@ -1807,6 +1831,9 @@ msgstr "Teekateeka Nyunzi Ezinoonyesebwa…"
 msgid "Confirm"
 msgstr ""
 
+msgid "Confirm Password"
+msgstr "Ekyama Kikakase"
+
 msgid "Confirmation"
 msgstr "Kukakasa"
 
@@ -1819,6 +1846,9 @@ msgstr ""
 msgid "Conflict with Standard Application Shortcut"
 msgstr ""
 "Entegeka z'amapeesa ag'anguya ezikontana n'ezisangidwawo mu puloguramu"
+
+msgid "Conflicts"
+msgstr ""
 
 msgid "Connect"
 msgstr ""
@@ -1844,6 +1874,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr ""
 
+msgid "Connection type"
+msgstr ""
+
 msgid "Connections"
 msgstr ""
 
@@ -1851,9 +1884,6 @@ msgid "Console"
 msgstr ""
 
 msgid "Constant"
-msgstr ""
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
 msgstr ""
 
 msgid "Contact"
@@ -1868,13 +1898,13 @@ msgstr ""
 msgid "Contains"
 msgstr ""
 
-msgid "contains"
-msgstr ""
-
 msgid "Content"
 msgstr ""
 
 msgid "Content Type"
+msgstr ""
+
+msgid "Content type"
 msgstr ""
 
 msgid "Contents"
@@ -1898,10 +1928,16 @@ msgstr ""
 msgid "Contributor"
 msgstr ""
 
+msgid "Contributors"
+msgstr ""
+
 msgid "Control"
 msgstr ""
 
 msgid "Convert"
+msgstr ""
+
+msgid "Convert to"
 msgstr ""
 
 msgid "Convert to Path"
@@ -1921,9 +1957,6 @@ msgstr ""
 
 msgid "Copy"
 msgstr "Koppa"
-
-msgid "copy"
-msgstr ""
 
 msgid "&Copy"
 msgstr "K&oppa"
@@ -1976,6 +2009,9 @@ msgstr ""
 msgid "Copyright"
 msgstr "Olukusa lw'okukoppolola"
 
+msgid "Correct"
+msgstr ""
+
 msgid "Cost"
 msgstr ""
 
@@ -1998,6 +2034,9 @@ msgid "Country"
 msgstr "Nsi"
 
 msgid "CPU"
+msgstr ""
+
+msgid "CPU usage"
 msgstr ""
 
 msgid "Create"
@@ -2027,6 +2066,9 @@ msgstr ""
 msgid "Credentials"
 msgstr ""
 
+msgid "Credit"
+msgstr ""
+
 msgid "Credits"
 msgstr ""
 
@@ -2052,15 +2094,6 @@ msgid "Cross"
 msgstr ""
 
 msgid "CSV"
-msgstr ""
-
-msgid "Ctrl"
-msgstr ""
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
 msgstr ""
 
 msgid "Cuba"
@@ -2090,8 +2123,14 @@ msgstr ""
 msgid "Custom"
 msgstr "Kyeyiiyize"
 
+msgid "&Custom"
+msgstr ""
+
 msgid "Custom..."
 msgstr "Bye weyiiyiza..."
+
+msgid "Custom color"
+msgstr "Weyiyize langi"
 
 msgid "Custom Font"
 msgstr ""
@@ -2165,6 +2204,9 @@ msgstr "Data"
 msgid "Database"
 msgstr "Gwanika lya data"
 
+msgid "Database name"
+msgstr ""
+
 msgid "Date"
 msgstr "Nnaku"
 
@@ -2180,13 +2222,19 @@ msgstr ""
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr ""
+
 msgid "Date Modified"
 msgstr ""
 
-msgid "David Edmundson"
+msgid "Date/Time"
 msgstr ""
 
 msgid "Day"
+msgstr ""
+
+msgid "day"
 msgstr ""
 
 msgid "Days"
@@ -2235,6 +2283,9 @@ msgid "Default"
 msgstr "Ebya bulijjo"
 
 msgid "default"
+msgstr ""
+
+msgid "Default value"
 msgstr ""
 
 msgid "Defaults"
@@ -2312,6 +2363,9 @@ msgstr ""
 msgid "Deny"
 msgstr "Gaana"
 
+msgid "Department"
+msgstr ""
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2344,6 +2398,12 @@ msgstr "Awakolerwa"
 
 msgid "Destination"
 msgstr "Kigenderwa"
+
+msgid "Destination Folder"
+msgstr ""
+
+msgid "Destination folder"
+msgstr ""
 
 msgid "Detach"
 msgstr ""
@@ -2516,6 +2576,9 @@ msgstr ""
 msgid "Distance"
 msgstr ""
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr ""
 
@@ -2570,10 +2633,10 @@ msgstr "Ebiwandike"
 msgid "does not contain"
 msgstr ""
 
-msgid "Dolphin"
+msgid "Domain"
 msgstr ""
 
-msgid "Domain"
+msgid "_Domain"
 msgstr ""
 
 msgid "Dominica"
@@ -2678,6 +2741,9 @@ msgstr ""
 msgid "DVD-RW"
 msgstr ""
 
+msgid "Dynamic"
+msgstr ""
+
 msgid "E"
 msgstr "E"
 
@@ -2729,6 +2795,9 @@ msgstr ""
 msgid "Editing"
 msgstr ""
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr ""
 
@@ -2744,9 +2813,6 @@ msgstr ""
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr ""
-
 msgid "Eject"
 msgstr ""
 
@@ -2756,16 +2822,28 @@ msgstr ""
 msgid "El Salvador"
 msgstr ""
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr ""
 
 msgid "Element"
 msgstr ""
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr ""
 
+msgid "EMail"
+msgstr ""
+
 msgid "Email"
+msgstr ""
+
+msgid "E-Mail"
 msgstr ""
 
 msgid "E-mail"
@@ -2846,6 +2924,9 @@ msgstr ""
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr ""
+
 msgid "End Time"
 msgstr ""
 
@@ -2867,7 +2948,13 @@ msgstr ""
 msgid "Enter"
 msgstr "Kuyingira"
 
+msgid "Enter name"
+msgstr "Wandika linnya"
+
 msgid "Enter password"
+msgstr ""
+
+msgid "Entries"
 msgstr ""
 
 msgid "Entry"
@@ -2942,6 +3029,9 @@ msgstr ""
 msgid "Events"
 msgstr ""
 
+msgid "Every"
+msgstr ""
+
 msgid "Everyone"
 msgstr ""
 
@@ -2959,6 +3049,9 @@ msgstr ""
 
 msgid "Exception"
 msgstr ""
+
+msgid "Exceptions"
+msgstr "Nteekateeka Zino Gye Zitaakolere"
 
 msgid "Exclude"
 msgstr ""
@@ -2993,11 +3086,17 @@ msgstr "Byonna Birage Mu Bujjuvu"
 msgid "Experimental"
 msgstr ""
 
+msgid "Expiration"
+msgstr "Ka kwegyawo nga"
+
 msgid "Expired"
 msgstr ""
 
 msgid "Expires"
 msgstr ""
+
+msgid "Expires On"
+msgstr "Ekoma nga"
 
 msgid "Export"
 msgstr ""
@@ -3032,6 +3131,9 @@ msgstr ""
 msgid "Exposure"
 msgstr ""
 
+msgid "Exposure Time"
+msgstr ""
+
 msgid "Expression"
 msgstr ""
 
@@ -3051,6 +3153,9 @@ msgid "Extract"
 msgstr ""
 
 msgid "F"
+msgstr ""
+
+msgid "Fabric"
 msgstr ""
 
 msgid "Facebook"
@@ -3110,6 +3215,12 @@ msgstr ""
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
 msgid "Fiji"
 msgstr ""
 
@@ -3141,6 +3252,9 @@ msgid "File Exists"
 msgstr ""
 
 msgid "File Format"
+msgstr ""
+
+msgid "File format"
 msgstr ""
 
 msgid "File is not a valid .desktop file"
@@ -3202,6 +3316,9 @@ msgstr ""
 
 msgid "Filter"
 msgstr "Ekisunsuzibwa"
+
+msgid "&Filter"
+msgstr ""
 
 msgid "Filter..."
 msgstr ""
@@ -3266,6 +3383,9 @@ msgstr "Lufinilandi"
 msgid "First"
 msgstr ""
 
+msgid "First Name"
+msgstr "Linnya lya Ddiini"
+
 msgid "First Page"
 msgstr ""
 
@@ -3326,6 +3446,9 @@ msgstr ""
 msgid "Focal Length"
 msgstr ""
 
+msgid "Focal length"
+msgstr ""
+
 msgid "Focus"
 msgstr ""
 
@@ -3347,6 +3470,9 @@ msgstr ""
 msgid "&Font"
 msgstr ""
 
+msgid "_Font"
+msgstr ""
+
 msgid "Font Color"
 msgstr ""
 
@@ -3357,6 +3483,12 @@ msgid "Font Size"
 msgstr ""
 
 msgid "Font size"
+msgstr ""
+
+msgid "Font Style"
+msgstr ""
+
+msgid "Font style"
 msgstr ""
 
 msgid "Fonts"
@@ -3395,6 +3527,12 @@ msgstr "Foomu"
 msgid "Format"
 msgstr "Kika kya fayiro"
 
+msgid "&Format"
+msgstr ""
+
+msgid "_Format"
+msgstr ""
+
 msgid "Formatting"
 msgstr ""
 
@@ -3420,6 +3558,12 @@ msgid "Fraction"
 msgstr ""
 
 msgid "Frame"
+msgstr ""
+
+msgid "Frame Rate"
+msgstr ""
+
+msgid "Frame rate"
 msgstr ""
 
 msgid "Framerate"
@@ -3465,6 +3609,9 @@ msgid "Full"
 msgstr ""
 
 msgid "Full Name"
+msgstr ""
+
+msgid "Full name"
 msgstr ""
 
 msgid "Full Screen"
@@ -3531,6 +3678,9 @@ msgid "Gate"
 msgstr ""
 
 msgid "Gateway"
+msgstr ""
+
+msgid "_Gateway"
 msgstr ""
 
 msgid "Gaussian Blur"
@@ -3653,6 +3803,9 @@ msgstr "Dda ku lupapula olukulembera luno"
 msgid "Goa"
 msgstr ""
 
+msgid "Goal"
+msgstr ""
+
 msgid "Gold"
 msgstr ""
 
@@ -3707,6 +3860,9 @@ msgstr ""
 msgid "Grid"
 msgstr ""
 
+msgid "&Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Guluupu"
 
@@ -3752,6 +3908,9 @@ msgstr ""
 msgid "Hardware"
 msgstr ""
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr ""
 
@@ -3792,6 +3951,9 @@ msgid "Height"
 msgstr ""
 
 msgid "&Height"
+msgstr ""
+
+msgid "_Height"
 msgstr ""
 
 msgid "Help"
@@ -3837,6 +3999,9 @@ msgid "High"
 msgstr ""
 
 msgid "Highlight"
+msgstr ""
+
+msgid "Highlight color"
 msgstr ""
 
 msgid "Highlighter"
@@ -3890,7 +4055,16 @@ msgstr ""
 msgid "Horizontal"
 msgstr ""
 
+msgid "_Horizontal"
+msgstr ""
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
+msgstr ""
+
+msgid "Host Name"
 msgstr ""
 
 msgid "Hostname"
@@ -3971,6 +4145,9 @@ msgstr ""
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr ""
 
@@ -4023,6 +4200,12 @@ msgid "Image Settings"
 msgstr ""
 
 msgid "Image Size"
+msgstr ""
+
+msgid "Image size"
+msgstr ""
+
+msgid "Image type"
 msgstr ""
 
 msgid "Image Viewer"
@@ -4100,6 +4283,9 @@ msgstr ""
 msgid "Increase Volume"
 msgstr ""
 
+msgid "Increment"
+msgstr ""
+
 msgid "Incremental"
 msgstr ""
 
@@ -4110,6 +4296,9 @@ msgid "Index"
 msgstr ""
 
 msgid "Indexed"
+msgstr ""
+
+msgid "Indexing"
 msgstr ""
 
 msgid "India"
@@ -4173,6 +4362,9 @@ msgid "Installing"
 msgstr ""
 
 msgid "Instant"
+msgstr ""
+
+msgid "Instructions"
 msgstr ""
 
 msgid "Integer"
@@ -4262,11 +4454,17 @@ msgstr "Lugeyiliki olw'omu Ayalandi"
 msgid "is"
 msgstr ""
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr ""
 
 msgid "Issued By"
 msgstr ""
+
+msgid "Issued On"
+msgstr "Yagabwa nga"
 
 msgid "Issuer"
 msgstr "Mugabi wa mmatizo"
@@ -4364,9 +4562,6 @@ msgstr ""
 msgid "Kannada"
 msgstr "Lukannadda"
 
-msgid "Kate"
-msgstr ""
-
 msgid "Kazakh"
 msgstr "Lukazaka"
 
@@ -4374,18 +4569,6 @@ msgid "Kazakhstan"
 msgstr ""
 
 msgid "kB"
-msgstr ""
-
-msgid "KDE"
-msgstr ""
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
 msgstr ""
 
 msgid "Keep"
@@ -4451,25 +4634,10 @@ msgstr ""
 msgid "km"
 msgstr ""
 
-msgid "KMail"
-msgstr ""
-
-msgid "Konqueror"
-msgstr ""
-
-msgid "Konsole"
-msgstr ""
-
 msgid "Korean"
 msgstr "Lukoreya"
 
-msgid "KOrganizer"
-msgstr ""
-
 msgid "Kuwait"
-msgstr ""
-
-msgid "KWin"
 msgstr ""
 
 msgid "L"
@@ -4488,6 +4656,9 @@ msgid "Landscape"
 msgstr ""
 
 msgid "Language"
+msgstr ""
+
+msgid "&Language"
 msgstr ""
 
 msgid "_Language"
@@ -4510,6 +4681,12 @@ msgstr ""
 
 msgid "Last Modified"
 msgstr "Amakyusa Agaasemba"
+
+msgid "Last modified"
+msgstr ""
+
+msgid "Last Name"
+msgstr "Linnya Lya Kika"
 
 msgid "LaTeX"
 msgstr ""
@@ -4622,7 +4799,19 @@ msgstr ""
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr ""
+
 msgid "Line Numbers"
+msgstr ""
+
+msgid "Line spacing"
+msgstr ""
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
 msgstr ""
 
 msgid "Line Width"
@@ -4641,6 +4830,9 @@ msgid "Link"
 msgstr "Nyunzi"
 
 msgid "link"
+msgstr ""
+
+msgid "Link Text"
 msgstr ""
 
 msgid "Link URL"
@@ -4740,6 +4932,9 @@ msgid "Login"
 msgstr ""
 
 msgid "_Login"
+msgstr ""
+
+msgid "Logo"
 msgstr ""
 
 msgid "Logout"
@@ -4937,6 +5132,9 @@ msgstr ""
 msgid "Maximum"
 msgstr "Kkomo ly'obungi bw'ebiterekedwa mu gwanika"
 
+msgid "Maximum width"
+msgstr ""
+
 msgid "May"
 msgstr "Maayi"
 
@@ -4991,6 +5189,9 @@ msgstr ""
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr ""
+
 msgid "Messages"
 msgstr ""
 
@@ -5001,6 +5202,9 @@ msgid "Metadata"
 msgstr ""
 
 msgid "Metal"
+msgstr ""
+
+msgid "Metering Mode"
 msgstr ""
 
 msgid "meters"
@@ -5040,6 +5244,9 @@ msgid "Milliseconds"
 msgstr ""
 
 msgid "milliseconds"
+msgstr ""
+
+msgid "MIME type"
 msgstr ""
 
 msgid "Min"
@@ -5087,8 +5294,14 @@ msgstr ""
 msgid "Mobile"
 msgstr "Ssimu ya Mobbayiro"
 
+msgid "Mobile Phone"
+msgstr "Ssimu ya Mobbayiro"
+
 msgid "Mode"
 msgstr "Enkola"
+
+msgid "_Mode"
+msgstr ""
 
 msgid "Model"
 msgstr ""
@@ -5185,6 +5398,9 @@ msgstr ""
 
 msgid "Mount"
 msgstr "Wanga"
+
+msgid "Mount Point"
+msgstr ""
 
 msgid "Mount point"
 msgstr ""
@@ -5324,6 +5540,9 @@ msgstr ""
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr ""
+
 msgid "Namespace"
 msgstr ""
 
@@ -5352,6 +5571,9 @@ msgid "Nepali"
 msgstr "Lunepali"
 
 msgid "Netherlands"
+msgstr ""
+
+msgid "Netmask"
 msgstr ""
 
 msgid "Network"
@@ -5564,6 +5786,9 @@ msgstr ""
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr ""
+
 msgid "Noise"
 msgstr ""
 
@@ -5690,6 +5915,9 @@ msgstr ""
 msgid "Number of columns"
 msgstr ""
 
+msgid "Number of rows"
+msgstr ""
+
 msgid "Numbers"
 msgstr ""
 
@@ -5745,9 +5973,6 @@ msgid "&OK"
 msgstr ""
 
 msgid "_OK"
-msgstr ""
-
-msgid "Okular"
 msgstr ""
 
 msgid "Oman"
@@ -5900,6 +6125,9 @@ msgstr ""
 msgid "Opera"
 msgstr ""
 
+msgid "Operating System"
+msgstr ""
+
 msgid "Operation"
 msgstr ""
 
@@ -5910,6 +6138,9 @@ msgid "Operations"
 msgstr ""
 
 msgid "Operator"
+msgstr ""
+
+msgid "Operators"
 msgstr ""
 
 msgid "Optical Character Recognition"
@@ -5969,6 +6200,9 @@ msgstr ""
 msgid "Oriya"
 msgstr "Lu-Oriya"
 
+msgid "OS"
+msgstr "Kika kya sisitemu entabaganyi"
+
 msgid "Other"
 msgstr "Birala"
 
@@ -5982,6 +6216,9 @@ msgid "Other Application..."
 msgstr ""
 
 msgid "Other Options"
+msgstr ""
+
+msgid "Other options"
 msgstr ""
 
 msgid "Others"
@@ -6125,6 +6362,9 @@ msgstr ""
 msgid "Partition"
 msgstr ""
 
+msgid "Passphrase"
+msgstr ""
+
 msgid "Password"
 msgstr "Kyama"
 
@@ -6162,6 +6402,9 @@ msgid "Paths"
 msgstr "Makubo"
 
 msgid "Pattern"
+msgstr ""
+
+msgid "_Pattern"
 msgstr ""
 
 msgid "Patterns"
@@ -6248,7 +6491,13 @@ msgstr ""
 msgid "Phone"
 msgstr "Ssimu ya Wansi"
 
+msgid "Phone Numbers"
+msgstr ""
+
 msgid "Photo"
+msgstr ""
+
+msgid "Photos"
 msgstr ""
 
 msgid "PHP Documentation"
@@ -6270,6 +6519,9 @@ msgid "PID"
 msgstr ""
 
 msgid "Pie"
+msgstr ""
+
+msgid "PIN"
 msgstr ""
 
 msgid "Pin"
@@ -6299,9 +6551,6 @@ msgstr ""
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr ""
-
 msgid "Platform"
 msgstr "Kika kya sisitemu kw'ekolera"
 
@@ -6320,7 +6569,13 @@ msgstr ""
 msgid "Player"
 msgstr ""
 
+msgid "Player 1"
+msgstr ""
+
 msgid "Player %1"
+msgstr ""
+
+msgid "Player 2"
 msgstr ""
 
 msgid "Players"
@@ -6401,6 +6656,9 @@ msgstr "Pooti"
 msgid "&Port"
 msgstr ""
 
+msgid "_Port"
+msgstr ""
+
 msgid "Portrait"
 msgstr ""
 
@@ -6411,6 +6669,9 @@ msgid "Portuguese"
 msgstr "Lupotugesi"
 
 msgid "Position"
+msgstr ""
+
+msgid "Postal code"
 msgstr ""
 
 msgid "Posterize"
@@ -6453,6 +6714,9 @@ msgid "Preview"
 msgstr "Laba Bwe Binaafaanana"
 
 msgid "&Preview"
+msgstr ""
+
+msgid "_Preview"
 msgstr ""
 
 msgid "Previews"
@@ -6536,6 +6800,9 @@ msgstr "Kuuma Bibyo"
 msgid "Private"
 msgstr "Mmizzi"
 
+msgid "Private Key"
+msgstr ""
+
 msgid "Process"
 msgstr ""
 
@@ -6563,6 +6830,9 @@ msgstr ""
 msgid "Program"
 msgstr "Puloguramu"
 
+msgid "Programs"
+msgstr ""
+
 msgid "Progress"
 msgstr ""
 
@@ -6570,6 +6840,9 @@ msgid "Project"
 msgstr ""
 
 msgid "&Project"
+msgstr ""
+
+msgid "Project name"
 msgstr ""
 
 msgid "Projects"
@@ -6644,6 +6917,9 @@ msgstr ""
 msgid "Python"
 msgstr ""
 
+msgid "Q"
+msgstr ""
+
 msgid "Qatar"
 msgstr ""
 
@@ -6697,6 +6973,9 @@ msgstr ""
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr ""
+
 msgid "R"
 msgstr ""
 
@@ -6727,6 +7006,9 @@ msgstr ""
 msgid "Rating"
 msgstr ""
 
+msgid "Ratio"
+msgstr ""
+
 msgid "Raw"
 msgstr ""
 
@@ -6754,11 +7036,17 @@ msgstr ""
 msgid "Ready."
 msgstr ""
 
+msgid "Realm"
+msgstr ""
+
 msgid "Reason"
 msgstr ""
 
 msgid "Reassign"
 msgstr "Kyusa ntegeka"
+
+msgid "Received"
+msgstr ""
 
 msgid "Recent"
 msgstr "Bifo Ebyaakakeberwa"
@@ -6779,6 +7067,9 @@ msgid "Recording"
 msgstr ""
 
 msgid "Rectangle"
+msgstr ""
+
+msgid "Recurrence"
 msgstr ""
 
 msgid "Recursive"
@@ -6910,6 +7201,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr ""
+
 msgid "Rename"
 msgstr "Lukyuse Linnya"
 
@@ -6929,6 +7223,9 @@ msgid "Rename Bookmark"
 msgstr ""
 
 msgid "Rename File"
+msgstr ""
+
+msgid "Rendering intent"
 msgstr ""
 
 msgid "Repeat"
@@ -6952,10 +7249,19 @@ msgstr ""
 msgid "Replace an existing instance"
 msgstr ""
 
+msgid "Replace With"
+msgstr ""
+
+msgid "Replace with"
+msgstr ""
+
 msgid "Replacement"
 msgstr ""
 
 msgid "Reply"
+msgstr ""
+
+msgid "Reply-To"
 msgstr ""
 
 msgid "Report"
@@ -6974,6 +7280,9 @@ msgid "&Report Bug..."
 msgstr "&Sindika Obubaka ku Mpulunguse…"
 
 msgid "Reports"
+msgstr ""
+
+msgid "Repository"
 msgstr ""
 
 msgid "Required"
@@ -7087,6 +7396,9 @@ msgstr ""
 msgid "Right-click"
 msgstr ""
 
+msgid "Rights"
+msgstr ""
+
 msgid "River"
 msgstr ""
 
@@ -7141,6 +7453,9 @@ msgstr ""
 msgid "RSA"
 msgstr ""
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
@@ -7148,6 +7463,9 @@ msgid "Run"
 msgstr ""
 
 msgid "&Run"
+msgstr ""
+
+msgid "Run command"
 msgstr ""
 
 msgid "Run in terminal"
@@ -7285,6 +7603,9 @@ msgstr ""
 msgid "_Save Image As..."
 msgstr ""
 
+msgid "Save Location"
+msgstr ""
+
 msgid "Save Project"
 msgstr ""
 
@@ -7292,6 +7613,9 @@ msgid "Save Session"
 msgstr "Tereka Olutuula"
 
 msgid "Save Settings"
+msgstr ""
+
+msgid "Save to"
 msgstr ""
 
 msgid "Saved"
@@ -7324,10 +7648,16 @@ msgstr ""
 msgid "Scanner"
 msgstr ""
 
+msgid "Scanning"
+msgstr ""
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
+msgstr ""
+
+msgid "Scheduler"
 msgstr ""
 
 msgid "Scheduling"
@@ -7405,11 +7735,17 @@ msgstr "Noonya..."
 msgid "Search Bar"
 msgstr ""
 
+msgid "Search for"
+msgstr ""
+
 msgid "_Search for"
 msgstr ""
 
 msgid "Search for '%1' with"
 msgstr "Noonya '%1' ku"
+
+msgid "Search in"
+msgstr ""
 
 msgid "Search Options"
 msgstr ""
@@ -7513,6 +7849,9 @@ msgstr ""
 msgid "Selections"
 msgstr ""
 
+msgid "Self"
+msgstr ""
+
 msgid "Semicolon"
 msgstr ""
 
@@ -7552,6 +7891,9 @@ msgstr ""
 msgid "Serbian"
 msgstr "Luserebiya"
 
+msgid "Serial"
+msgstr ""
+
 msgid "Serial Number"
 msgstr "Namba ya Mmatizo"
 
@@ -7567,7 +7909,13 @@ msgstr "Serifu"
 msgid "Server"
 msgstr "Kompyuta ewereza"
 
+msgid "&Server"
+msgstr ""
+
 msgid "Server URL"
+msgstr ""
+
+msgid "Servers"
 msgstr ""
 
 msgid "Service"
@@ -7580,6 +7928,9 @@ msgid "Session"
 msgstr "Olutuula"
 
 msgid "Session management options"
+msgstr ""
+
+msgid "Session name"
 msgstr ""
 
 msgid "Sessions"
@@ -7611,6 +7962,12 @@ msgstr ""
 
 msgid "Seychelles"
 msgstr ""
+
+msgid "SHA1"
+msgstr "Ya kika kya SHA1"
+
+msgid "SHA256"
+msgstr "Ya kika kya SHA256"
 
 msgid "SHA-256"
 msgstr ""
@@ -7649,6 +8006,12 @@ msgid "Sharpness"
 msgstr ""
 
 msgid "Shear"
+msgstr ""
+
+msgid "Sheet"
+msgstr ""
+
+msgid "Sheets"
 msgstr ""
 
 msgid "Shell"
@@ -7771,6 +8134,9 @@ msgstr ""
 msgid "Sinhala"
 msgstr "Lusinala"
 
+msgid "Site"
+msgstr "Kifo"
+
 msgid "Size"
 msgstr "Bunene"
 
@@ -7778,6 +8144,9 @@ msgid "size"
 msgstr ""
 
 msgid "&Size"
+msgstr ""
+
+msgid "_Size"
 msgstr ""
 
 msgid "Size: %1"
@@ -7805,6 +8174,9 @@ msgid "Slider"
 msgstr ""
 
 msgid "Slideshow"
+msgstr ""
+
+msgid "Slope"
 msgstr ""
 
 msgid "Slovak"
@@ -7861,6 +8233,12 @@ msgstr ""
 msgid "Solomon Islands"
 msgstr ""
 
+msgid "Solution"
+msgstr ""
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr ""
 
@@ -7877,6 +8255,9 @@ msgid "Sorting"
 msgstr "Sengeka fayiro"
 
 msgid "Sound"
+msgstr ""
+
+msgid "Sounds"
 msgstr ""
 
 msgid "Soundtrack"
@@ -7946,6 +8327,9 @@ msgid "Spell Check"
 msgstr "Kugorola Mpandika y'Ebigambo"
 
 msgid "Spell Checking"
+msgstr ""
+
+msgid "Spellcheck"
 msgstr ""
 
 msgid "Spelling"
@@ -8185,6 +8569,9 @@ msgstr ""
 msgid "Sunday"
 msgstr ""
 
+msgid "Sunrise"
+msgstr ""
+
 msgid "Super"
 msgstr ""
 
@@ -8240,6 +8627,9 @@ msgid "Synchronization"
 msgstr ""
 
 msgid "Synchronize"
+msgstr ""
+
+msgid "Syntax"
 msgstr ""
 
 msgid "Syriac"
@@ -8303,6 +8693,9 @@ msgid "Tanzania"
 msgstr ""
 
 msgid "Target"
+msgstr ""
+
+msgid "Targets"
 msgstr ""
 
 msgid "Task"
@@ -8418,6 +8811,9 @@ msgstr ""
 msgid "Theme"
 msgstr "Lulyo lwa Ndabika"
 
+msgid "&Theme"
+msgstr ""
+
 msgid "Themes"
 msgstr "Ndyo z'endabika"
 
@@ -8435,6 +8831,9 @@ msgid ""
 msgstr ""
 
 msgid "Thomas Zander"
+msgstr ""
+
+msgid "Threads"
 msgstr ""
 
 msgid "Threshold"
@@ -8462,6 +8861,9 @@ msgid "Tile"
 msgstr ""
 
 msgid "Tiled"
+msgstr ""
+
+msgid "Tiles"
 msgstr ""
 
 msgid "Tilt"
@@ -8512,6 +8914,9 @@ msgstr ""
 msgid "_Title"
 msgstr ""
 
+msgid "Titles"
+msgstr ""
+
 msgid "TLS"
 msgstr ""
 
@@ -8534,6 +8939,9 @@ msgid "TODO"
 msgstr ""
 
 msgid "Todo"
+msgstr ""
+
+msgid "To-do"
 msgstr ""
 
 msgid "Toggle Fullscreen"
@@ -8566,6 +8974,9 @@ msgstr ""
 msgid "Tool Options"
 msgstr ""
 
+msgid "Toolbar"
+msgstr ""
+
 msgid "_Toolbar"
 msgstr ""
 
@@ -8585,6 +8996,9 @@ msgid "&Tools"
 msgstr "&Ebiyamba"
 
 msgid "_Tools"
+msgstr ""
+
+msgid "Tooltip"
 msgstr ""
 
 msgid "Top"
@@ -8737,10 +9151,16 @@ msgstr ""
 msgid "&Type"
 msgstr ""
 
+msgid "_Type"
+msgstr ""
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
+msgstr ""
+
+msgid "UID"
 msgstr ""
 
 msgid "Ukraine"
@@ -8974,6 +9394,9 @@ msgstr ""
 msgid "User"
 msgstr "Omukozesa"
 
+msgid "User Agent"
+msgstr "Falkon Kye Yeyita"
+
 msgid "User Certificate"
 msgstr ""
 
@@ -8998,10 +9421,16 @@ msgstr ""
 msgid "Username"
 msgstr "Linnya lya akawunti"
 
+msgid "&Username"
+msgstr ""
+
 msgid "_Username"
 msgstr ""
 
 msgid "Users"
+msgstr ""
+
+msgid "UTF-8"
 msgstr ""
 
 msgid "Utilities"
@@ -9023,6 +9452,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9057,6 +9489,9 @@ msgstr ""
 msgid "Variance"
 msgstr ""
 
+msgid "Variant"
+msgstr ""
+
 msgid "Vector"
 msgstr ""
 
@@ -9082,6 +9517,9 @@ msgid "Version %1"
 msgstr "Luwandika %1"
 
 msgid "Vertical"
+msgstr ""
+
+msgid "_Vertical"
 msgstr ""
 
 msgid "Very Large"
@@ -9115,6 +9553,9 @@ msgid "&View"
 msgstr "&Ndabika"
 
 msgid "_View"
+msgstr ""
+
+msgid "View mode"
 msgstr ""
 
 msgid "View Options"
@@ -9276,6 +9717,9 @@ msgstr ""
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
+msgid "Wind"
+msgstr ""
+
 msgid "Window"
 msgstr "Ddirisa"
 
@@ -9318,10 +9762,16 @@ msgstr ""
 msgid "Word Count"
 msgstr ""
 
+msgid "Word wrap"
+msgstr ""
+
 msgid "Words"
 msgstr ""
 
 msgid "Work"
+msgstr ""
+
+msgid "Workspace"
 msgstr ""
 
 msgid "World"
@@ -9361,6 +9811,9 @@ msgid "_Y"
 msgstr ""
 
 msgid "Year"
+msgstr ""
+
+msgid "&Year"
 msgstr ""
 
 msgid "Yearly"
@@ -9421,6 +9874,9 @@ msgid "&Zoom"
 msgstr ""
 
 msgid "_Zoom"
+msgstr ""
+
+msgid "Zoom factor"
 msgstr ""
 
 msgid "Zoom In"

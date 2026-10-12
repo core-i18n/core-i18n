@@ -82,9 +82,6 @@ msgstr " ja "
 msgid " (default)"
 msgstr " (oletus)"
 
-msgid "© KDE Community"
-msgstr "© KDE-yhteisö"
-
 msgid " MB"
 msgstr " Mt"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "Tiedosto ”%1” on jo olemassa. Haluatko varmasti korvata sen?"
 
@@ -355,17 +355,20 @@ msgstr "_Tietoja"
 msgid "About %1"
 msgstr "Tietoa – %1"
 
-msgid "About KDE"
-msgstr "Tietoa KDE:stä"
-
 msgid "Abstract"
 msgstr "Abstrakti"
+
+msgid "Acceleration"
+msgstr "Kiihdytys"
 
 msgid "Accept"
 msgstr "Hyväksy"
 
 msgid "Accepted"
 msgstr "Hyväksytty"
+
+msgid "Access"
+msgstr "Saanti"
 
 msgid "Accessed"
 msgstr "Avattu"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr "Tilin tiedot"
 
 msgid "Account Name"
+msgstr "Tilin nimi"
+
+msgid "Account name"
 msgstr "Tilin nimi"
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "Aakkosjärjestyksessä"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Vaihtoehtoinen"
+
 msgid "Alternative"
 msgstr "Vaihtoehtoinen"
 
@@ -712,8 +721,14 @@ msgstr "Merkinnät"
 msgid "Anonymous"
 msgstr "Nimetön"
 
+msgid "Answer"
+msgstr "Vastaus"
+
 msgid "Antarctica"
 msgstr "Antarktis"
+
+msgid "Antialiasing"
+msgstr "Antialiasointi"
 
 msgid "Any"
 msgstr "Mikä tahansa"
@@ -883,6 +898,9 @@ msgstr "Tunnistautumista vaaditaan"
 msgid "Author"
 msgstr "Tekijä"
 
+msgid "Author name"
+msgstr "Tekijän nimi"
+
 msgid "Authors"
 msgstr "Tekijät"
 
@@ -928,6 +946,9 @@ msgstr "azeri"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&Takaisin"
 msgid "_Back"
 msgstr "_Takaisin"
 
+msgid "Backend"
+msgstr "Taustaosa"
+
 msgid "Background"
 msgstr "Tausta"
+
+msgid "&Background"
+msgstr "&Tausta"
 
 msgid "Background Color"
 msgstr "Taustaväri"
@@ -951,6 +978,9 @@ msgstr "Taustaväri"
 
 msgid "&Background color"
 msgstr "&Taustaväri"
+
+msgid "Background image"
+msgstr "Taustakuva"
 
 msgid "Backspace"
 msgstr "Askelpalautin"
@@ -972,6 +1002,9 @@ msgstr "Tasapainoinen"
 
 msgid "Baltic"
 msgstr "Baltialainen"
+
+msgid "Bandwidth"
+msgstr "Kaistanleveys"
 
 msgid "Bangladesh"
 msgstr "Bangladesh"
@@ -999,6 +1032,9 @@ msgstr "Bass"
 
 msgid "Battery"
 msgstr "Akku"
+
+msgid "BCC"
+msgstr "Piilokopio"
 
 msgid "Bcc"
 msgstr "Piilokopio"
@@ -1156,23 +1192,8 @@ msgstr "Haara"
 msgid "Brazil"
 msgstr "Brasilia"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze KDE VDG:ltä"
-
-msgid "Breeze Dark"
-msgstr "Tumma Breeze"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Tumma Breeze KDE VDG:ltä"
-
 msgid "Breton"
 msgstr "bretoni"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Silta"
@@ -1309,18 +1330,6 @@ msgstr "&Peru"
 msgid "Canceled"
 msgstr "Peruttu"
 
-msgid "Cancelled"
-msgstr "Peruttu"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "Ei voida antaa asiakirjan URIa ”Type=Link”-työpöytätietueelle"
-
 msgid "Canvas"
 msgstr "Kangas"
 
@@ -1339,14 +1348,14 @@ msgstr "Käytä isoa alkukirjainta"
 msgid "Caps Lock is on"
 msgstr "Vaihtolukko on käytössä"
 
+msgid "Caption"
+msgstr "Kuvateksti"
+
 msgid "Capture"
 msgstr "Kaappaa"
 
 msgid "Car"
 msgstr "Auto"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Porrastus"
@@ -1435,6 +1444,9 @@ msgstr "Muuta…"
 msgid "Changed"
 msgstr "Muutettu"
 
+msgid "Changes"
+msgstr "Muutokset"
+
 msgid "Channel"
 msgstr "Kanava"
 
@@ -1452,6 +1464,9 @@ msgstr "Luvut"
 
 msgid "Character"
 msgstr "Merkki"
+
+msgid "Character set"
+msgstr "Merkistö"
 
 msgid "Characters"
 msgstr "Hahmot"
@@ -1684,6 +1699,9 @@ msgstr "Väriteema"
 msgid "Color Space"
 msgstr "Väriavaruus"
 
+msgid "Color space"
+msgstr "Väriavaruus"
+
 msgid "Color theme"
 msgstr "Väriteema"
 
@@ -1705,14 +1723,8 @@ msgstr "Sarakkeet"
 msgid "Comma"
 msgstr "Pilkku"
 
-msgid "COMMAND"
-msgstr "KOMENTO"
-
 msgid "Command"
 msgstr "Komento"
-
-msgid "command"
-msgstr "komento"
 
 msgid "Command Line"
 msgstr "Komentorivi"
@@ -1726,6 +1738,9 @@ msgstr "Komennot"
 msgid "Comment"
 msgstr "Kommentti"
 
+msgid "comment"
+msgstr "kommentti"
+
 msgid "Comments"
 msgstr "Kommentit"
 
@@ -1735,11 +1750,17 @@ msgstr "Toimita"
 msgid "Common"
 msgstr "Yleiset"
 
+msgid "Common Name"
+msgstr "Yleinen nimi"
+
 msgid "Comoros"
 msgstr "Komorit"
 
 msgid "Compact"
 msgstr "Tiivis"
+
+msgid "Company"
+msgstr "Yritys"
 
 msgid "Compare"
 msgstr "Vertaa"
@@ -1777,6 +1798,9 @@ msgstr "Tietokone"
 msgid "Condition"
 msgstr "Ehto"
 
+msgid "Conditions"
+msgstr "Ehdot"
+
 msgid "Confidential"
 msgstr "Luottamuksellinen"
 
@@ -1807,6 +1831,9 @@ msgstr "Verkkopikavalintojen asetukset…"
 msgid "Confirm"
 msgstr "Vahvista"
 
+msgid "Confirm Password"
+msgstr "Vahvista salasana"
+
 msgid "Confirmation"
 msgstr "Vahvistus"
 
@@ -1818,6 +1845,9 @@ msgstr "Vahvistettu"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Ristiriita sovelluksen vakiopikanäppäimen kanssa"
+
+msgid "Conflicts"
+msgstr "Ristiriidat"
 
 msgid "Connect"
 msgstr "Yhdistä"
@@ -1843,6 +1873,9 @@ msgstr "Yhdistäminen epäonnistui"
 msgid "Connection Settings"
 msgstr "Yhteysasetukset"
 
+msgid "Connection type"
+msgstr "Yhteyden tyyppi"
+
 msgid "Connections"
 msgstr "Yhteydet"
 
@@ -1851,9 +1884,6 @@ msgstr "Konsoli"
 
 msgid "Constant"
 msgstr "Vakio"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "Yhteystieto"
@@ -1867,13 +1897,13 @@ msgstr "Säiliö"
 msgid "Contains"
 msgstr "Sisältää"
 
-msgid "contains"
-msgstr "sisältää"
-
 msgid "Content"
 msgstr "Sisältö"
 
 msgid "Content Type"
+msgstr "Sisällön tyyppi"
+
+msgid "Content type"
 msgstr "Sisällön tyyppi"
 
 msgid "Contents"
@@ -1897,11 +1927,17 @@ msgstr "Kontrasti"
 msgid "Contributor"
 msgstr "Avustaja"
 
+msgid "Contributors"
+msgstr "Avustajat"
+
 msgid "Control"
 msgstr "Ctrl"
 
 msgid "Convert"
 msgstr "Muunna"
+
+msgid "Convert to"
+msgstr "Muunna muotoon"
 
 msgid "Convert to Path"
 msgstr "Muunna poluksi"
@@ -1920,9 +1956,6 @@ msgstr "Kopti"
 
 msgid "Copy"
 msgstr "Kopioi"
-
-msgid "copy"
-msgstr "kopio"
 
 msgid "&Copy"
 msgstr "&Kopioi"
@@ -1975,6 +2008,9 @@ msgstr "Kopioidaan tiedostoja"
 msgid "Copyright"
 msgstr "Tekijänoikeudet"
 
+msgid "Correct"
+msgstr "Oikein"
+
 msgid "Cost"
 msgstr "Kustannus"
 
@@ -1998,6 +2034,9 @@ msgstr "Maa"
 
 msgid "CPU"
 msgstr "Suoritin"
+
+msgid "CPU usage"
+msgstr "CPU käyttöaste"
 
 msgid "Create"
 msgstr "Luo"
@@ -2026,6 +2065,9 @@ msgstr "Luoja"
 msgid "Credentials"
 msgstr "Käyttäjätiedot"
 
+msgid "Credit"
+msgstr "Kiitokset"
+
 msgid "Credits"
 msgstr "Kiitokset"
 
@@ -2052,15 +2094,6 @@ msgstr "Ristiviite"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+O"
 
 msgid "Cuba"
 msgstr "Kuuba"
@@ -2089,8 +2122,14 @@ msgstr "Käyrät"
 msgid "Custom"
 msgstr "Mukautettu"
 
+msgid "&Custom"
+msgstr "&Mukautettu"
+
 msgid "Custom..."
 msgstr "Mukautettu…"
+
+msgid "Custom color"
+msgstr "Mukautettu väri"
 
 msgid "Custom Font"
 msgstr "Mukautettu fontti"
@@ -2164,6 +2203,9 @@ msgstr "Data"
 msgid "Database"
 msgstr "Tietokanta"
 
+msgid "Database name"
+msgstr "Tietokannan nimi"
+
 msgid "Date"
 msgstr "Päiväys"
 
@@ -2179,14 +2221,20 @@ msgstr "Aika ja päiväys"
 msgid "Date Format"
 msgstr "Päiväyksen muoto"
 
+msgid "Date format"
+msgstr "Päiväyksen muoto"
+
 msgid "Date Modified"
 msgstr "Muutospäivä"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "Aika ja päiväys"
 
 msgid "Day"
 msgstr "Päivä"
+
+msgid "day"
+msgstr "päivä"
 
 msgid "Days"
 msgstr "Päivät"
@@ -2235,6 +2283,9 @@ msgstr "Oletus"
 
 msgid "default"
 msgstr "oletus"
+
+msgid "Default value"
+msgstr "Oletusarvo"
 
 msgid "Defaults"
 msgstr "Oletukset"
@@ -2311,6 +2362,9 @@ msgstr "Tiheys"
 msgid "Deny"
 msgstr "Kiellä"
 
+msgid "Department"
+msgstr "Osasto"
+
 msgid "Dependencies"
 msgstr "Riippuvuudet"
 
@@ -2343,6 +2397,12 @@ msgstr "Työpöytä"
 
 msgid "Destination"
 msgstr "Kohde"
+
+msgid "Destination Folder"
+msgstr "Kohdekansio"
+
+msgid "Destination folder"
+msgstr "Kohdekansio"
 
 msgid "Detach"
 msgstr "Irrota"
@@ -2515,6 +2575,9 @@ msgstr "Häivytä"
 msgid "Distance"
 msgstr "Etäisyys"
 
+msgid "Distribution"
+msgstr "Jakauma"
+
 msgid "Divide"
 msgstr "Jaa"
 
@@ -2569,11 +2632,11 @@ msgstr "Tiedostot"
 msgid "does not contain"
 msgstr "ei sisällä"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Toimialue"
+
+msgid "_Domain"
+msgstr "_Toimialue"
 
 msgid "Dominica"
 msgstr "Dominica"
@@ -2677,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Dynaaminen"
+
 msgid "E"
 msgstr "I"
 
@@ -2728,6 +2794,9 @@ msgstr "Muokkaa kuvaa"
 msgid "Editing"
 msgstr "Muokkaus"
 
+msgid "Edition"
+msgstr "Laitos"
+
 msgid "Editor"
 msgstr "Muokkain"
 
@@ -2743,9 +2812,6 @@ msgstr "Egypti"
 msgid "Egyptian"
 msgstr "Egyptiläinen"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Poista levy asemasta"
 
@@ -2755,16 +2821,28 @@ msgstr "L_evy ulos"
 msgid "El Salvador"
 msgstr "El Salvador"
 
+msgid "Elapsed Time"
+msgstr "Kulunut aika"
+
 msgid "Electronic"
 msgstr "Elektroninen"
 
 msgid "Element"
 msgstr "Alkio"
 
+msgid "Elements"
+msgstr "Alkiot"
+
 msgid "Ellipse"
 msgstr "Ellipsi"
 
+msgid "EMail"
+msgstr "Sähköposti"
+
 msgid "Email"
+msgstr "Sähköposti"
+
+msgid "E-Mail"
 msgstr "Sähköposti"
 
 msgid "E-mail"
@@ -2845,6 +2923,9 @@ msgstr "loppu"
 msgid "End Date"
 msgstr "Päättymispäivä"
 
+msgid "End date"
+msgstr "Lopetuspäivä"
+
 msgid "End Time"
 msgstr "Päättymisaika"
 
@@ -2866,8 +2947,14 @@ msgstr "englanti"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "Anna nimi"
+
 msgid "Enter password"
 msgstr "Anna salasana"
+
+msgid "Entries"
+msgstr "Merkinnät"
 
 msgid "Entry"
 msgstr "Tietue"
@@ -2941,6 +3028,9 @@ msgstr "Tapahtuma"
 msgid "Events"
 msgstr "Tapahtumat"
 
+msgid "Every"
+msgstr "Joka"
+
 msgid "Everyone"
 msgstr "Kaikki"
 
@@ -2958,6 +3048,9 @@ msgstr "Esimerkkejä"
 
 msgid "Exception"
 msgstr "Poikkeus"
+
+msgid "Exceptions"
+msgstr "Poikkeukset"
 
 msgid "Exclude"
 msgstr "Jätä pois"
@@ -2992,10 +3085,16 @@ msgstr "Laajenna kaikki"
 msgid "Experimental"
 msgstr "Kokeellinen"
 
+msgid "Expiration"
+msgstr "Vanheneminen"
+
 msgid "Expired"
 msgstr "Vanhentunut"
 
 msgid "Expires"
+msgstr "Vanhenee"
+
+msgid "Expires On"
 msgstr "Vanhenee"
 
 msgid "Export"
@@ -3031,6 +3130,9 @@ msgstr "Vientiasetukset"
 msgid "Exposure"
 msgstr "Valotus"
 
+msgid "Exposure Time"
+msgstr "Valotusaika"
+
 msgid "Expression"
 msgstr "Lauseke"
 
@@ -3051,6 +3153,9 @@ msgstr "Pura"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Kangas"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3109,6 +3214,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Nouda"
 
+msgid "Field"
+msgstr "Kenttä"
+
+msgid "Fields"
+msgstr "Kentät"
+
 msgid "Fiji"
 msgstr "Fidži"
 
@@ -3140,6 +3251,9 @@ msgid "File Exists"
 msgstr "Tiedosto on olemassa"
 
 msgid "File Format"
+msgstr "Tiedostomuoto"
+
+msgid "File format"
 msgstr "Tiedostomuoto"
 
 msgid "File is not a valid .desktop file"
@@ -3201,6 +3315,9 @@ msgstr "Täyttöväri"
 
 msgid "Filter"
 msgstr "Suodatin"
+
+msgid "&Filter"
+msgstr "&Suodatin"
 
 msgid "Filter..."
 msgstr "Suodata…"
@@ -3265,6 +3382,9 @@ msgstr "suomi"
 msgid "First"
 msgstr "Ensimmäinen"
 
+msgid "First Name"
+msgstr "Etunimi"
+
 msgid "First Page"
 msgstr "Ensimmäinen sivu"
 
@@ -3325,6 +3445,9 @@ msgstr "kukka"
 msgid "Focal Length"
 msgstr "Polttoväli"
 
+msgid "Focal length"
+msgstr "Polttoväli"
+
 msgid "Focus"
 msgstr "Kohdistus"
 
@@ -3346,6 +3469,9 @@ msgstr "Fontti"
 msgid "&Font"
 msgstr "&Fontti"
 
+msgid "_Font"
+msgstr "_Fontti"
+
 msgid "Font Color"
 msgstr "Fonttiväri"
 
@@ -3357,6 +3483,12 @@ msgstr "Fonttikoko"
 
 msgid "Font size"
 msgstr "Fonttikoko"
+
+msgid "Font Style"
+msgstr "Fonttityyli"
+
+msgid "Font style"
+msgstr "Fonttityyli"
 
 msgid "Fonts"
 msgstr "Fontit"
@@ -3394,6 +3526,12 @@ msgstr "Lomake"
 msgid "Format"
 msgstr "Muoto"
 
+msgid "&Format"
+msgstr "&Muoto"
+
+msgid "_Format"
+msgstr "_Alusta"
+
 msgid "Formatting"
 msgstr "Muotoilu"
 
@@ -3420,6 +3558,12 @@ msgstr "Murtoluku"
 
 msgid "Frame"
 msgstr "Kehys"
+
+msgid "Frame Rate"
+msgstr "Kuvataajuus"
+
+msgid "Frame rate"
+msgstr "Kuvataajuus"
 
 msgid "Framerate"
 msgstr "Kuvanopeus"
@@ -3464,6 +3608,9 @@ msgid "Full"
 msgstr "Täysi"
 
 msgid "Full Name"
+msgstr "Koko nimi"
+
+msgid "Full name"
 msgstr "Koko nimi"
 
 msgid "Full Screen"
@@ -3531,6 +3678,9 @@ msgstr "Portti"
 
 msgid "Gateway"
 msgstr "Yhdyskäytävä"
+
+msgid "_Gateway"
+msgstr "_Yhdyskäytävä"
 
 msgid "Gaussian Blur"
 msgstr "Gauss-sumennus"
@@ -3652,6 +3802,9 @@ msgstr "Siirry edelliselle sivulle"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr "Tavoite"
+
 msgid "Gold"
 msgstr "Kulta"
 
@@ -3706,6 +3859,9 @@ msgstr "Harmaa"
 msgid "Grid"
 msgstr "Ruudukko"
 
+msgid "&Grid"
+msgstr "&Ruudukko"
+
 msgid "Group"
 msgstr "Ryhmä"
 
@@ -3751,6 +3907,9 @@ msgstr "Vaikea"
 msgid "Hardware"
 msgstr "Laitteisto"
 
+msgid "Hash"
+msgstr "Hash"
+
 msgid "Hawaiian"
 msgstr "havaiji"
 
@@ -3792,6 +3951,9 @@ msgstr "Korkeus"
 
 msgid "&Height"
 msgstr "&Korkeus"
+
+msgid "_Height"
+msgstr "_Korkeus"
 
 msgid "Help"
 msgstr "Ohje"
@@ -3837,6 +3999,9 @@ msgstr "Korkea"
 
 msgid "Highlight"
 msgstr "Korostus"
+
+msgid "Highlight color"
+msgstr "Korostusväri"
 
 msgid "Highlighter"
 msgstr "Korostus"
@@ -3889,8 +4054,17 @@ msgstr "Hongkong"
 msgid "Horizontal"
 msgstr "Vaaka"
 
+msgid "_Horizontal"
+msgstr "_Vaakasuuntaan"
+
+msgid "Horizontally"
+msgstr "Vaakasuunnassa"
+
 msgid "Host"
 msgstr "Palvelin"
+
+msgid "Host Name"
+msgstr "Konenimi"
 
 msgid "Hostname"
 msgstr "Konenimi"
@@ -3970,6 +4144,9 @@ msgstr "Tunniste"
 msgid "id"
 msgstr "id"
 
+msgid "Identification"
+msgstr "Tunnistus"
+
 msgid "Identifier"
 msgstr "Tunniste"
 
@@ -4023,6 +4200,12 @@ msgstr "Kuva-asetukset"
 
 msgid "Image Size"
 msgstr "Kuvan koko"
+
+msgid "Image size"
+msgstr "Kuvan koko"
+
+msgid "Image type"
+msgstr "Kuvan tyyppi"
 
 msgid "Image Viewer"
 msgstr "Kuvakatselin"
@@ -4099,6 +4282,9 @@ msgstr "Kasvata sisennystä"
 msgid "Increase Volume"
 msgstr "Lisää äänenvoimakkuutta"
 
+msgid "Increment"
+msgstr "Lisäys"
+
 msgid "Incremental"
 msgstr "Kasautuva"
 
@@ -4110,6 +4296,9 @@ msgstr "Indeksi"
 
 msgid "Indexed"
 msgstr "Indeksoitu"
+
+msgid "Indexing"
+msgstr "Indeksointi"
 
 msgid "India"
 msgstr "Intia"
@@ -4173,6 +4362,9 @@ msgstr "Asennetaan"
 
 msgid "Instant"
 msgstr "Välitön"
+
+msgid "Instructions"
+msgstr "Ohjeet"
 
 msgid "Integer"
 msgstr "Kokonaisluku"
@@ -4261,11 +4453,17 @@ msgstr "iiri"
 msgid "is"
 msgstr "on"
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "Israel"
 
 msgid "Issued By"
 msgstr "Myöntäjä"
+
+msgid "Issued On"
+msgstr "Julkaistu"
 
 msgid "Issuer"
 msgstr "Myöntäjä"
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "kazakki"
 
@@ -4374,18 +4569,6 @@ msgstr "Kazakstan"
 
 msgid "kB"
 msgstr "kt"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "KDE-yhteisö, Felipe Kinoshita"
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Säilytä"
@@ -4450,26 +4633,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Korealainen"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Kuwait"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4488,6 +4656,9 @@ msgstr "Vaaka"
 
 msgid "Language"
 msgstr "Kieli"
+
+msgid "&Language"
+msgstr "&Kieli"
 
 msgid "_Language"
 msgstr "_Kieli"
@@ -4509,6 +4680,12 @@ msgstr "Viimeinen"
 
 msgid "Last Modified"
 msgstr "Viimeksi muutettu"
+
+msgid "Last modified"
+msgstr "Viimeksi muutettu"
+
+msgid "Last Name"
+msgstr "Sukunimi"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4621,8 +4798,20 @@ msgstr "Rivinvaihto"
 msgid "Line Color"
 msgstr "Viivan väri"
 
+msgid "Line Count"
+msgstr "Rivimäärä"
+
 msgid "Line Numbers"
 msgstr "Rivinumerot"
+
+msgid "Line spacing"
+msgstr "Riviväli"
+
+msgid "Line Style"
+msgstr "Viivan tyyli"
+
+msgid "Line style"
+msgstr "Viivan tyyli"
 
 msgid "Line Width"
 msgstr "Viivan paksuus"
@@ -4641,6 +4830,9 @@ msgstr "Linkki"
 
 msgid "link"
 msgstr "linkki"
+
+msgid "Link Text"
+msgstr "Linkin teksti"
 
 msgid "Link URL"
 msgstr "Linkin osoite"
@@ -4740,6 +4932,9 @@ msgstr "Kirjaudu"
 
 msgid "_Login"
 msgstr "_Kirjaudu"
+
+msgid "Logo"
+msgstr "Logo"
 
 msgid "Logout"
 msgstr "Kirjaudu ulos"
@@ -4936,6 +5131,9 @@ msgstr "Suurenna"
 msgid "Maximum"
 msgstr "Maksimi"
 
+msgid "Maximum width"
+msgstr "Enimmäisleveys"
+
 msgid "May"
 msgstr "toukokuu"
 
@@ -4990,6 +5188,9 @@ msgstr "Viesti"
 msgid "message"
 msgstr "viesti"
 
+msgid "&Message"
+msgstr "&Viesti"
+
 msgid "Messages"
 msgstr "Viestit"
 
@@ -5001,6 +5202,9 @@ msgstr "Metatiedot"
 
 msgid "Metal"
 msgstr "Metalli"
+
+msgid "Metering Mode"
+msgstr "Mittaustapa"
 
 msgid "meters"
 msgstr "metriä"
@@ -5040,6 +5244,9 @@ msgstr "Millisekunnit"
 
 msgid "milliseconds"
 msgstr "millisekuntia"
+
+msgid "MIME type"
+msgstr "MIME-tyyppi"
 
 msgid "Min"
 msgstr "Minimi"
@@ -5086,8 +5293,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Mobiili"
 
+msgid "Mobile Phone"
+msgstr "Matkapuhelin"
+
 msgid "Mode"
 msgstr "Tila"
+
+msgid "_Mode"
+msgstr "_Tila"
 
 msgid "Model"
 msgstr "Malli"
@@ -5184,6 +5397,9 @@ msgstr "Marokko"
 
 msgid "Mount"
 msgstr "Liitä"
+
+msgid "Mount Point"
+msgstr "Liitospiste"
 
 msgid "Mount point"
 msgstr "Liitospiste"
@@ -5323,6 +5539,9 @@ msgstr "_Nimi"
 msgid "Name: %1"
 msgstr "Nimi: %1"
 
+msgid "Names"
+msgstr "Nimet"
+
 msgid "Namespace"
 msgstr "Nimiavaruus"
 
@@ -5352,6 +5571,9 @@ msgstr "nepali"
 
 msgid "Netherlands"
 msgstr "Alankomaat"
+
+msgid "Netmask"
+msgstr "Verkkopeite"
 
 msgid "Network"
 msgstr "Verkko"
@@ -5563,6 +5785,9 @@ msgstr "Ei aihetta"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "Solmu"
+
 msgid "Noise"
 msgstr "Kohina"
 
@@ -5689,6 +5914,9 @@ msgstr "luku"
 msgid "Number of columns"
 msgstr "Sarakkeiden määrä"
 
+msgid "Number of rows"
+msgstr "Rivien määrä"
+
 msgid "Numbers"
 msgstr "Numerot"
 
@@ -5745,9 +5973,6 @@ msgstr "&OK"
 
 msgid "_OK"
 msgstr "_OK"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Oman"
@@ -5899,6 +6124,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Ooppera"
 
+msgid "Operating System"
+msgstr "Käyttöjärjestelmä"
+
 msgid "Operation"
 msgstr "Toiminto"
 
@@ -5910,6 +6138,9 @@ msgstr "Toiminnot"
 
 msgid "Operator"
 msgstr "Operaattori"
+
+msgid "Operators"
+msgstr "Operaattorit"
 
 msgid "Optical Character Recognition"
 msgstr "OCR-merkkejä"
@@ -5968,6 +6199,9 @@ msgstr "Alkuperäinen koko"
 msgid "Oriya"
 msgstr "Orija"
 
+msgid "OS"
+msgstr "Käyttöjärjestelmä"
+
 msgid "Other"
 msgstr "Muu"
 
@@ -5982,6 +6216,9 @@ msgstr "Muu sovellus…"
 
 msgid "Other Options"
 msgstr "Muut asetukset"
+
+msgid "Other options"
+msgstr "Muut valinnat"
 
 msgid "Others"
 msgstr "Muut"
@@ -6124,6 +6361,9 @@ msgstr "Emo"
 msgid "Partition"
 msgstr "Osio"
 
+msgid "Passphrase"
+msgstr "Tunnuslause"
+
 msgid "Password"
 msgstr "Salasana"
 
@@ -6162,6 +6402,9 @@ msgstr "Sijainnit"
 
 msgid "Pattern"
 msgstr "Kuvio"
+
+msgid "_Pattern"
+msgstr "_Kuvio"
 
 msgid "Patterns"
 msgstr "Kuviot"
@@ -6247,8 +6490,14 @@ msgstr "Filippiinit"
 msgid "Phone"
 msgstr "Puhelin"
 
+msgid "Phone Numbers"
+msgstr "Puhelinnumerot"
+
 msgid "Photo"
 msgstr "Valokuva"
+
+msgid "Photos"
+msgstr "Kuvat"
 
 msgid "PHP Documentation"
 msgstr "PHP-dokumentaatio"
@@ -6270,6 +6519,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "Piirakka"
+
+msgid "PIN"
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "Kiinnitä"
@@ -6298,9 +6550,6 @@ msgstr "Muotoilematon teksti"
 msgid "Plan"
 msgstr "Plan"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Laituri"
 
@@ -6319,8 +6568,14 @@ msgstr "Toisto"
 msgid "Player"
 msgstr "Pelaaja"
 
+msgid "Player 1"
+msgstr "Pelaaja 1"
+
 msgid "Player %1"
 msgstr "Pelaaja %1"
+
+msgid "Player 2"
+msgstr "Pelaaja 2"
 
 msgid "Players"
 msgstr "Pelaajat"
@@ -6400,6 +6655,9 @@ msgstr "Portti"
 msgid "&Port"
 msgstr "&Portti"
 
+msgid "_Port"
+msgstr "_Portti"
+
 msgid "Portrait"
 msgstr "Pysty"
 
@@ -6411,6 +6669,9 @@ msgstr "portugali"
 
 msgid "Position"
 msgstr "Sijainti"
+
+msgid "Postal code"
+msgstr "Postinumero"
 
 msgid "Posterize"
 msgstr "Posterisaatio"
@@ -6453,6 +6714,9 @@ msgstr "Esikatselu"
 
 msgid "&Preview"
 msgstr "&Esikatselu"
+
+msgid "_Preview"
+msgstr "Esikatselu"
 
 msgid "Previews"
 msgstr "Esikatselut"
@@ -6535,6 +6799,9 @@ msgstr "Yksityisyys"
 msgid "Private"
 msgstr "Yksityinen"
 
+msgid "Private Key"
+msgstr "Yksityinen avain"
+
 msgid "Process"
 msgstr "Prosessi"
 
@@ -6562,6 +6829,9 @@ msgstr "Profiilit"
 msgid "Program"
 msgstr "Ohjelma"
 
+msgid "Programs"
+msgstr "Ohjelmat"
+
 msgid "Progress"
 msgstr "Edistyminen"
 
@@ -6570,6 +6840,9 @@ msgstr "Projekti"
 
 msgid "&Project"
 msgstr "&Projekti"
+
+msgid "Project name"
+msgstr "Projektin nimi"
 
 msgid "Projects"
 msgstr "Projektit"
@@ -6643,6 +6916,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "Qatar"
 
@@ -6698,6 +6974,9 @@ msgstr "Lopettaa ohjelman"
 msgid "Quote"
 msgstr "Lainaus"
 
+msgid "Quotes"
+msgstr "Lainaukset"
+
 msgid "R"
 msgstr "R"
 
@@ -6728,6 +7007,9 @@ msgstr "Määrä"
 msgid "Rating"
 msgstr "Arvostelu"
 
+msgid "Ratio"
+msgstr "Suhde"
+
 msgid "Raw"
 msgstr "Raaka"
 
@@ -6755,11 +7037,17 @@ msgstr "Valmis"
 msgid "Ready."
 msgstr "Valmis."
 
+msgid "Realm"
+msgstr "Alue"
+
 msgid "Reason"
 msgstr "Syy"
 
 msgid "Reassign"
 msgstr "Sijoita uudelleen"
+
+msgid "Received"
+msgstr "Vastaanotettu"
 
 msgid "Recent"
 msgstr "Viimeisimmät"
@@ -6781,6 +7069,9 @@ msgstr "Nauhoitus"
 
 msgid "Rectangle"
 msgstr "Suorakulmio"
+
+msgid "Recurrence"
+msgstr "Toisto"
 
 msgid "Recursive"
 msgstr "Rekursiivinen"
@@ -6911,6 +7202,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Poistetaan"
+
 msgid "Rename"
 msgstr "Muuta nimeä"
 
@@ -6931,6 +7225,9 @@ msgstr "Muuta kirjanmerkin nimeä"
 
 msgid "Rename File"
 msgstr "Muuta tiedoston nimeä"
+
+msgid "Rendering intent"
+msgstr "Rasterointiaie"
 
 msgid "Repeat"
 msgstr "Toista"
@@ -6953,11 +7250,20 @@ msgstr "Korvaa k_aikki"
 msgid "Replace an existing instance"
 msgstr "Korvaa aiempi instanssi"
 
+msgid "Replace With"
+msgstr "Korvaa"
+
+msgid "Replace with"
+msgstr "Korvaa"
+
 msgid "Replacement"
 msgstr "Korvaus"
 
 msgid "Reply"
 msgstr "Vastaa"
+
+msgid "Reply-To"
+msgstr "Vastausosoite"
 
 msgid "Report"
 msgstr "Ilmoita"
@@ -6976,6 +7282,9 @@ msgstr "&Ilmoita viasta…"
 
 msgid "Reports"
 msgstr "Raportit"
+
+msgid "Repository"
+msgstr "Tietovarasto"
 
 msgid "Required"
 msgstr "Pakollinen"
@@ -7088,6 +7397,9 @@ msgstr "Oikealta vasemmalle"
 msgid "Right-click"
 msgstr "Oikea napsautus"
 
+msgid "Rights"
+msgstr "Oikeudet"
+
 msgid "River"
 msgstr "Joki"
 
@@ -7142,6 +7454,9 @@ msgstr "riviä"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "Sääntö"
+
 msgid "Rules"
 msgstr "Säännöt"
 
@@ -7150,6 +7465,9 @@ msgstr "Suorita"
 
 msgid "&Run"
 msgstr "&Suorita"
+
+msgid "Run command"
+msgstr "Suorita komento"
 
 msgid "Run in terminal"
 msgstr "Suorita päätteessä"
@@ -7286,6 +7604,9 @@ msgstr "Tallenna kuva"
 msgid "_Save Image As..."
 msgstr "_Tallenna kuva nimellä…"
 
+msgid "Save Location"
+msgstr "Tallennuspaikka"
+
 msgid "Save Project"
 msgstr "Tallenna projekti"
 
@@ -7294,6 +7615,9 @@ msgstr "Tallenna istunto"
 
 msgid "Save Settings"
 msgstr "Tallenna asetukset"
+
+msgid "Save to"
+msgstr "Tallenna kohteeseen"
 
 msgid "Saved"
 msgstr "Tallennettu"
@@ -7325,11 +7649,17 @@ msgstr "Lue"
 msgid "Scanner"
 msgstr "Kuvanlukija"
 
+msgid "Scanning"
+msgstr "Kartoitus"
+
 msgid "Scanning..."
 msgstr "Etsitään…"
 
 msgid "Schedule"
 msgstr "Aikataulu"
+
+msgid "Scheduler"
+msgstr "Ajastin"
 
 msgid "Scheduling"
 msgstr "Ajastetaan"
@@ -7406,11 +7736,17 @@ msgstr "Etsi…"
 msgid "Search Bar"
 msgstr "Hakurivi"
 
+msgid "Search for"
+msgstr "Etsi"
+
 msgid "_Search for"
 msgstr "_Etsi"
 
 msgid "Search for '%1' with"
 msgstr "Etsi ”%1” hakukoneella"
+
+msgid "Search in"
+msgstr "Etsi"
 
 msgid "Search Options"
 msgstr "Hakuvalinnat"
@@ -7514,6 +7850,9 @@ msgstr "Valinta"
 msgid "Selections"
 msgstr "Valinnat"
 
+msgid "Self"
+msgstr "Itse"
+
 msgid "Semicolon"
 msgstr "Puolipiste"
 
@@ -7553,6 +7892,9 @@ msgstr "Serbia"
 msgid "Serbian"
 msgstr "serbia"
 
+msgid "Serial"
+msgstr "Sarja"
+
 msgid "Serial Number"
 msgstr "Sarjanumero"
 
@@ -7568,8 +7910,14 @@ msgstr "Antiikva"
 msgid "Server"
 msgstr "Palvelin"
 
+msgid "&Server"
+msgstr "&Palvelin"
+
 msgid "Server URL"
 msgstr "Palvelimen verkko-osoite"
+
+msgid "Servers"
+msgstr "Palvelimet"
 
 msgid "Service"
 msgstr "Palvelu"
@@ -7582,6 +7930,9 @@ msgstr "Istunto"
 
 msgid "Session management options"
 msgstr "Istunnonhallinnan valitsimet"
+
+msgid "Session name"
+msgstr "Istunnon nimi"
 
 msgid "Sessions"
 msgstr "Istunnot"
@@ -7612,6 +7963,12 @@ msgstr "Vakavuus"
 
 msgid "Seychelles"
 msgstr "Seychellit"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7651,6 +8008,12 @@ msgstr "Terävyys"
 
 msgid "Shear"
 msgstr "Viistota"
+
+msgid "Sheet"
+msgstr "Taulukko"
+
+msgid "Sheets"
+msgstr "Arkit"
 
 msgid "Shell"
 msgstr "Komentotulkki"
@@ -7772,6 +8135,9 @@ msgstr "Yksinkertainen"
 msgid "Sinhala"
 msgstr "Sinhala"
 
+msgid "Site"
+msgstr "Sivusto"
+
 msgid "Size"
 msgstr "Koko"
 
@@ -7780,6 +8146,9 @@ msgstr "koko"
 
 msgid "&Size"
 msgstr "K&oko"
+
+msgid "_Size"
+msgstr "_Koko"
 
 msgid "Size: %1"
 msgstr "Koko: %1"
@@ -7807,6 +8176,9 @@ msgstr "Liukusäädin"
 
 msgid "Slideshow"
 msgstr "Diaesitys"
+
+msgid "Slope"
+msgstr "Kaltevuus"
 
 msgid "Slovak"
 msgstr "slovakki"
@@ -7862,6 +8234,12 @@ msgstr "Kiinteä väri"
 msgid "Solomon Islands"
 msgstr "Salomonsaaret"
 
+msgid "Solution"
+msgstr "Ratkaisu"
+
+msgid "Solve"
+msgstr "Ratkaise"
+
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -7879,6 +8257,9 @@ msgstr "Lajittelu"
 
 msgid "Sound"
 msgstr "Ääni"
+
+msgid "Sounds"
+msgstr "Äänet"
 
 msgid "Soundtrack"
 msgstr "Ääniraita"
@@ -7948,6 +8329,9 @@ msgstr "Oikeinkirjoituksen tarkistus"
 
 msgid "Spell Checking"
 msgstr "Oikeinkirjoituksen tarkistus"
+
+msgid "Spellcheck"
+msgstr "Oikoluku"
 
 msgid "Spelling"
 msgstr "Oikeinkirjoitus"
@@ -8186,6 +8570,9 @@ msgstr "sunda"
 msgid "Sunday"
 msgstr "Sunnuntai"
 
+msgid "Sunrise"
+msgstr "Auringonnousu"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8242,6 +8629,9 @@ msgstr "Synkronointi"
 
 msgid "Synchronize"
 msgstr "Synkronoi"
+
+msgid "Syntax"
+msgstr "Syntaksi"
 
 msgid "Syriac"
 msgstr "Syyrialaisia merkkejä"
@@ -8305,6 +8695,9 @@ msgstr "Tansania"
 
 msgid "Target"
 msgstr "Kohde"
+
+msgid "Targets"
+msgstr "Kohteet"
 
 msgid "Task"
 msgstr "Tehtävä"
@@ -8421,6 +8814,9 @@ msgstr "NetworkManagerin kehittäjät"
 msgid "Theme"
 msgstr "Teema"
 
+msgid "&Theme"
+msgstr "&Teema"
+
 msgid "Themes"
 msgstr "Teemat"
 
@@ -8441,6 +8837,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "Säikeet"
 
 msgid "Threshold"
 msgstr "Kynnys"
@@ -8468,6 +8867,9 @@ msgstr "Asettele vierekkäin"
 
 msgid "Tiled"
 msgstr "Monistettu"
+
+msgid "Tiles"
+msgstr "Laatat"
 
 msgid "Tilt"
 msgstr "Kallistus"
@@ -8517,6 +8919,9 @@ msgstr "&Otsikko"
 msgid "_Title"
 msgstr "_Nimi"
 
+msgid "Titles"
+msgstr "Otsikot"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8539,6 +8944,9 @@ msgid "TODO"
 msgstr "TODO"
 
 msgid "Todo"
+msgstr "Tehtävä"
+
+msgid "To-do"
 msgstr "Tehtävä"
 
 msgid "Toggle Fullscreen"
@@ -8571,6 +8979,9 @@ msgstr "Työkalu"
 msgid "Tool Options"
 msgstr "Työkaluasetukset"
 
+msgid "Toolbar"
+msgstr "Työkalurivi"
+
 msgid "_Toolbar"
 msgstr "_Työkalupalkki"
 
@@ -8591,6 +9002,9 @@ msgstr "&Työkalut"
 
 msgid "_Tools"
 msgstr "_Työkalut"
+
+msgid "Tooltip"
+msgstr "Työkaluvihje"
 
 msgid "Top"
 msgstr "Ylhäällä"
@@ -8742,11 +9156,17 @@ msgstr "tyyppi"
 msgid "&Type"
 msgstr "&Tyyppi"
 
+msgid "_Type"
+msgstr "_Tyyppi"
+
 msgid "Type: %1"
 msgstr "Tyyppi: %1"
 
 msgid "Uganda"
 msgstr "Uganda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ukraina"
@@ -8979,6 +9399,9 @@ msgstr "käytössä"
 msgid "User"
 msgstr "Käyttäjä"
 
+msgid "User Agent"
+msgstr "Käyttäjäagentti"
+
 msgid "User Certificate"
 msgstr "Käyttäjän varmenne"
 
@@ -9003,11 +9426,17 @@ msgstr "Käyttäjän salasana"
 msgid "Username"
 msgstr "Käyttäjätunnus"
 
+msgid "&Username"
+msgstr "&Käyttäjätunnus"
+
 msgid "_Username"
 msgstr "K_äyttäjätunnus"
 
 msgid "Users"
 msgstr "Käyttäjät"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Apuohjelmat"
@@ -9029,6 +9458,9 @@ msgstr "Kelvollinen"
 
 msgid "Valid from"
 msgstr "Voimassa alkaen"
+
+msgid "Valid until"
+msgstr "Vanhenee"
 
 msgid "Validity"
 msgstr "Kelpoisuus"
@@ -9062,6 +9494,9 @@ msgstr "Muuttujat"
 msgid "Variance"
 msgstr "Varianssi"
 
+msgid "Variant"
+msgstr "Muunnelma"
+
 msgid "Vector"
 msgstr "Vektori"
 
@@ -9088,6 +9523,9 @@ msgstr "Versio %1"
 
 msgid "Vertical"
 msgstr "Pysty"
+
+msgid "_Vertical"
+msgstr "_Pystysuuntaan"
 
 msgid "Very Large"
 msgstr "Hyvin suuri"
@@ -9121,6 +9559,9 @@ msgstr "&Näytä"
 
 msgid "_View"
 msgstr "_Näytä"
+
+msgid "View mode"
+msgstr "Näkymä"
 
 msgid "View Options"
 msgstr "Näkymävalinnat"
@@ -9281,6 +9722,9 @@ msgstr "Langaton verkko"
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
+msgid "Wind"
+msgstr "Tuuli"
+
 msgid "Window"
 msgstr "Ikkuna"
 
@@ -9323,11 +9767,17 @@ msgstr "Sana"
 msgid "Word Count"
 msgstr "Sanamäärä"
 
+msgid "Word wrap"
+msgstr "Rivitys"
+
 msgid "Words"
 msgstr "Sanoja"
 
 msgid "Work"
 msgstr "Työ"
+
+msgid "Workspace"
+msgstr "Työtila"
 
 msgid "World"
 msgstr "Maailma"
@@ -9367,6 +9817,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Vuosi"
+
+msgid "&Year"
+msgstr "&Vuosi"
 
 msgid "Yearly"
 msgstr "Vuosittain"
@@ -9427,6 +9880,9 @@ msgstr "&Lähennä"
 
 msgid "_Zoom"
 msgstr "_Suurenna"
+
+msgid "Zoom factor"
+msgstr "Lähennyskerroin"
 
 msgid "Zoom In"
 msgstr "Lähennä"

@@ -82,9 +82,6 @@ msgstr " 및 "
 msgid " (default)"
 msgstr " (기본값)"
 
-msgid "© KDE Community"
-msgstr "© KDE Community"
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "파일 \"%1\"이(가) 이미 존재합니다. 덮어쓰시겠습니까?"
 
@@ -355,17 +355,20 @@ msgstr "정보(_A)"
 msgid "About %1"
 msgstr "%1 정보"
 
-msgid "About KDE"
-msgstr "KDE 정보"
-
 msgid "Abstract"
 msgstr "초록"
+
+msgid "Acceleration"
+msgstr "가속도"
 
 msgid "Accept"
 msgstr "수락"
 
 msgid "Accepted"
 msgstr "수락함"
+
+msgid "Access"
+msgstr "접근"
 
 msgid "Accessed"
 msgstr "접근함"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr "계정 정보"
 
 msgid "Account Name"
+msgstr "계정 이름"
+
+msgid "Account name"
 msgstr "계정 이름"
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "가나다순"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "대체"
+
 msgid "Alternative"
 msgstr "얼터너티브"
 
@@ -712,8 +721,14 @@ msgstr "주석"
 msgid "Anonymous"
 msgstr "익명"
 
+msgid "Answer"
+msgstr "답"
+
 msgid "Antarctica"
 msgstr "남극"
+
+msgid "Antialiasing"
+msgstr "부드럽게 하기"
 
 msgid "Any"
 msgstr "임의"
@@ -883,6 +898,9 @@ msgstr "인증 필요함"
 msgid "Author"
 msgstr "작성자"
 
+msgid "Author name"
+msgstr "작성자 이름"
+
 msgid "Authors"
 msgstr "작성자"
 
@@ -928,6 +946,9 @@ msgstr "아제르바이잔어"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "뒤로(&B)"
 msgid "_Back"
 msgstr "뒤로(_B)"
 
+msgid "Backend"
+msgstr "백엔드"
+
 msgid "Background"
 msgstr "배경"
+
+msgid "&Background"
+msgstr "배경(&B)"
 
 msgid "Background Color"
 msgstr "배경색"
@@ -951,6 +978,9 @@ msgstr "배경색"
 
 msgid "&Background color"
 msgstr "배경색(&B)"
+
+msgid "Background image"
+msgstr "배경 그림"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "균형 조정"
 
 msgid "Baltic"
 msgstr "발트어"
+
+msgid "Bandwidth"
+msgstr "대역폭"
 
 msgid "Bangladesh"
 msgstr "방글라데시"
@@ -999,6 +1032,9 @@ msgstr "바스"
 
 msgid "Battery"
 msgstr "배터리"
+
+msgid "BCC"
+msgstr "숨은 참조"
 
 msgid "Bcc"
 msgstr "숨은 참조"
@@ -1156,23 +1192,8 @@ msgstr "브랜치"
 msgid "Brazil"
 msgstr "브라질"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "KDE 시각 디자인 그룹에서 제작한 Breeze"
-
-msgid "Breeze Dark"
-msgstr "어두운 Breeze"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "KDE 시각 디자인 그룹에서 제작한 어두운 Breeze"
-
 msgid "Breton"
 msgstr "브르타뉴어"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "브리지"
@@ -1309,18 +1330,6 @@ msgstr "취소(&A)"
 msgid "Canceled"
 msgstr "취소됨"
 
-msgid "Cancelled"
-msgstr "취소됨"
-
-msgid "cannot load editor plugin: %s"
-msgstr "편집기 플러그인을 로딩할 수 없습니다: %s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "플러그인에서 %s 팩토리를 로드할 수 없습니다: %s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "문서 URI는 'Type=Link' desktop 항목에 넘길 수 없습니다"
-
 msgid "Canvas"
 msgstr "캔버스"
 
@@ -1339,14 +1348,14 @@ msgstr "대문자로"
 msgid "Caps Lock is on"
 msgstr "Caps Lock이 켜져 있음"
 
+msgid "Caption"
+msgstr "캡션"
+
 msgid "Capture"
 msgstr "캡처"
 
 msgid "Car"
 msgstr "자동차"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "계단식"
@@ -1435,6 +1444,9 @@ msgstr "변경..."
 msgid "Changed"
 msgstr "변경됨"
 
+msgid "Changes"
+msgstr "변경 사항"
+
 msgid "Channel"
 msgstr "채널"
 
@@ -1452,6 +1464,9 @@ msgstr "챕터"
 
 msgid "Character"
 msgstr "글자"
+
+msgid "Character set"
+msgstr "문자 인코딩"
 
 msgid "Characters"
 msgstr "글자"
@@ -1684,6 +1699,9 @@ msgstr "색 구성표"
 msgid "Color Space"
 msgstr "색 공간"
 
+msgid "Color space"
+msgstr "색 공간"
+
 msgid "Color theme"
 msgstr "색 테마"
 
@@ -1705,13 +1723,7 @@ msgstr "열"
 msgid "Comma"
 msgstr "쉼표"
 
-msgid "COMMAND"
-msgstr "<명령>"
-
 msgid "Command"
-msgstr "명령"
-
-msgid "command"
 msgstr "명령"
 
 msgid "Command Line"
@@ -1726,6 +1738,9 @@ msgstr "명령"
 msgid "Comment"
 msgstr "설명"
 
+msgid "comment"
+msgstr "설명"
+
 msgid "Comments"
 msgstr "설명"
 
@@ -1735,11 +1750,17 @@ msgstr "커밋"
 msgid "Common"
 msgstr "공통"
 
+msgid "Common Name"
+msgstr "일반 이름"
+
 msgid "Comoros"
 msgstr "코모로"
 
 msgid "Compact"
 msgstr "축소됨"
+
+msgid "Company"
+msgstr "회사"
 
 msgid "Compare"
 msgstr "비교"
@@ -1777,6 +1798,9 @@ msgstr "컴퓨터"
 msgid "Condition"
 msgstr "조건"
 
+msgid "Conditions"
+msgstr "조건"
+
 msgid "Confidential"
 msgstr "기밀"
 
@@ -1807,6 +1831,9 @@ msgstr "웹 바로 가기 설정..."
 msgid "Confirm"
 msgstr "확인"
 
+msgid "Confirm Password"
+msgstr "암호 확인"
+
 msgid "Confirmation"
 msgstr "확인"
 
@@ -1818,6 +1845,9 @@ msgstr "확인됨"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "표준 앱 단축키와 충돌"
+
+msgid "Conflicts"
+msgstr "충돌"
 
 msgid "Connect"
 msgstr "연결"
@@ -1843,6 +1873,9 @@ msgstr "연결 실패"
 msgid "Connection Settings"
 msgstr "연결 설정"
 
+msgid "Connection type"
+msgstr "연결 방식"
+
 msgid "Connections"
 msgstr "연결"
 
@@ -1851,9 +1884,6 @@ msgstr "콘솔"
 
 msgid "Constant"
 msgstr "상수"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr "구성 후에는 개체 '%s'의 구성 속성 ''%s''을(를) 설정할 수 없습니다"
 
 msgid "Contact"
 msgstr "연락처"
@@ -1867,13 +1897,13 @@ msgstr "컨테이너"
 msgid "Contains"
 msgstr "포함함"
 
-msgid "contains"
-msgstr "다음이 들어 있음"
-
 msgid "Content"
 msgstr "내용"
 
 msgid "Content Type"
+msgstr "콘텐츠 형식"
+
+msgid "Content type"
 msgstr "콘텐츠 형식"
 
 msgid "Contents"
@@ -1897,11 +1927,17 @@ msgstr "명암"
 msgid "Contributor"
 msgstr "기여자"
 
+msgid "Contributors"
+msgstr "공헌자"
+
 msgid "Control"
 msgstr "Control"
 
 msgid "Convert"
 msgstr "변환"
+
+msgid "Convert to"
+msgstr "다음으로 변환"
 
 msgid "Convert to Path"
 msgstr "경로로 변환"
@@ -1919,9 +1955,6 @@ msgid "Coptic"
 msgstr "콥트 문자"
 
 msgid "Copy"
-msgstr "복사"
-
-msgid "copy"
 msgstr "복사"
 
 msgid "&Copy"
@@ -1975,6 +2008,9 @@ msgstr "파일 복사"
 msgid "Copyright"
 msgstr "저작권"
 
+msgid "Correct"
+msgstr "맞음"
+
 msgid "Cost"
 msgstr "비용"
 
@@ -1998,6 +2034,9 @@ msgstr "국가"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "CPU 사용량"
 
 msgid "Create"
 msgstr "만들기"
@@ -2026,6 +2065,9 @@ msgstr "개발자"
 msgid "Credentials"
 msgstr "자격 증명"
 
+msgid "Credit"
+msgstr "대변"
+
 msgid "Credits"
 msgstr "제작진"
 
@@ -2052,15 +2094,6 @@ msgstr "엑스표"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+O"
 
 msgid "Cuba"
 msgstr "쿠바"
@@ -2089,8 +2122,14 @@ msgstr "커브"
 msgid "Custom"
 msgstr "사용자 정의"
 
+msgid "&Custom"
+msgstr "사용자 정의(&C)"
+
 msgid "Custom..."
 msgstr "사용자 정의..."
+
+msgid "Custom color"
+msgstr "사용자 정의 색상"
 
 msgid "Custom Font"
 msgstr "사용자 정의 글꼴"
@@ -2164,6 +2203,9 @@ msgstr "데이터"
 msgid "Database"
 msgstr "데이터베이스"
 
+msgid "Database name"
+msgstr "데이터베이스 이름"
+
 msgid "Date"
 msgstr "날짜"
 
@@ -2179,14 +2221,20 @@ msgstr "날짜와 시간"
 msgid "Date Format"
 msgstr "날짜 형식"
 
+msgid "Date format"
+msgstr "날짜 형식"
+
 msgid "Date Modified"
 msgstr "수정한 날짜"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "날짜와 시간"
 
 msgid "Day"
 msgstr "일"
+
+msgid "day"
+msgstr "기간"
 
 msgid "Days"
 msgstr "일"
@@ -2234,6 +2282,9 @@ msgid "Default"
 msgstr "기본값"
 
 msgid "default"
+msgstr "기본값"
+
+msgid "Default value"
 msgstr "기본값"
 
 msgid "Defaults"
@@ -2311,6 +2362,9 @@ msgstr "밀도"
 msgid "Deny"
 msgstr "거부"
 
+msgid "Department"
+msgstr "부서"
+
 msgid "Dependencies"
 msgstr "의존성"
 
@@ -2343,6 +2397,12 @@ msgstr "바탕 화면"
 
 msgid "Destination"
 msgstr "대상"
+
+msgid "Destination Folder"
+msgstr "대상 폴더"
+
+msgid "Destination folder"
+msgstr "대상 폴더"
 
 msgid "Detach"
 msgstr "떼내기"
@@ -2515,6 +2575,9 @@ msgstr "디졸브"
 msgid "Distance"
 msgstr "거리"
 
+msgid "Distribution"
+msgstr "배포"
+
 msgid "Divide"
 msgstr "나누기"
 
@@ -2569,11 +2632,11 @@ msgstr "문서"
 msgid "does not contain"
 msgstr "포함하지 않음"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "도메인"
+
+msgid "_Domain"
+msgstr "도메인(_D)"
 
 msgid "Dominica"
 msgstr "도미니카"
@@ -2677,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "동적"
+
 msgid "E"
 msgstr "E"
 
@@ -2728,6 +2794,9 @@ msgstr "그림 편집"
 msgid "Editing"
 msgstr "편집"
 
+msgid "Edition"
+msgstr "판"
+
 msgid "Editor"
 msgstr "편집기"
 
@@ -2743,9 +2812,6 @@ msgstr "이집트"
 msgid "Egyptian"
 msgstr "이집트"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "꺼내기"
 
@@ -2755,16 +2821,28 @@ msgstr "꺼내기(_E)"
 msgid "El Salvador"
 msgstr "엘살바도르"
 
+msgid "Elapsed Time"
+msgstr "경과 시간"
+
 msgid "Electronic"
 msgstr "일렉트로닉"
 
 msgid "Element"
 msgstr "요소"
 
+msgid "Elements"
+msgstr "요소"
+
 msgid "Ellipse"
 msgstr "타원"
 
+msgid "EMail"
+msgstr "이메일"
+
 msgid "Email"
+msgstr "이메일"
+
+msgid "E-Mail"
 msgstr "이메일"
 
 msgid "E-mail"
@@ -2845,6 +2923,9 @@ msgstr "끝"
 msgid "End Date"
 msgstr "종료 날짜"
 
+msgid "End date"
+msgstr "종료 날짜"
+
 msgid "End Time"
 msgstr "종료 시간"
 
@@ -2866,8 +2947,14 @@ msgstr "영어"
 msgid "Enter"
 msgstr "입력"
 
+msgid "Enter name"
+msgstr "이름 입력"
+
 msgid "Enter password"
 msgstr "비밀번호 입력"
+
+msgid "Entries"
+msgstr "항목"
 
 msgid "Entry"
 msgstr "항목"
@@ -2941,6 +3028,9 @@ msgstr "이벤트"
 msgid "Events"
 msgstr "이벤트"
 
+msgid "Every"
+msgstr "매"
+
 msgid "Everyone"
 msgstr "모두"
 
@@ -2957,6 +3047,9 @@ msgid "Examples"
 msgstr "예제"
 
 msgid "Exception"
+msgstr "예외"
+
+msgid "Exceptions"
 msgstr "예외"
 
 msgid "Exclude"
@@ -2992,10 +3085,16 @@ msgstr "모두 펴기"
 msgid "Experimental"
 msgstr "실험적"
 
+msgid "Expiration"
+msgstr "만료 날짜"
+
 msgid "Expired"
 msgstr "만료됨"
 
 msgid "Expires"
+msgstr "만료 시간"
+
+msgid "Expires On"
 msgstr "만료 시간"
 
 msgid "Export"
@@ -3031,6 +3130,9 @@ msgstr "내보내기 옵션"
 msgid "Exposure"
 msgstr "노출"
 
+msgid "Exposure Time"
+msgstr "노출 시간"
+
 msgid "Expression"
 msgstr "표현"
 
@@ -3051,6 +3153,9 @@ msgstr "압축 풀기"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "구조"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3109,6 +3214,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "가져오기"
 
+msgid "Field"
+msgstr "필드"
+
+msgid "Fields"
+msgstr "필드"
+
 msgid "Fiji"
 msgstr "피지"
 
@@ -3140,6 +3251,9 @@ msgid "File Exists"
 msgstr "파일이 존재함"
 
 msgid "File Format"
+msgstr "파일 형식"
+
+msgid "File format"
 msgstr "파일 형식"
 
 msgid "File is not a valid .desktop file"
@@ -3201,6 +3315,9 @@ msgstr "채우기 색상"
 
 msgid "Filter"
 msgstr "필터"
+
+msgid "&Filter"
+msgstr "필터(&F)"
 
 msgid "Filter..."
 msgstr "필터..."
@@ -3265,6 +3382,9 @@ msgstr "핀란드어"
 msgid "First"
 msgstr "처음"
 
+msgid "First Name"
+msgstr "이름"
+
 msgid "First Page"
 msgstr "첫 쪽"
 
@@ -3325,6 +3445,9 @@ msgstr "꽃"
 msgid "Focal Length"
 msgstr "초점 거리"
 
+msgid "Focal length"
+msgstr "초점 거리"
+
 msgid "Focus"
 msgstr "포커스"
 
@@ -3346,6 +3469,9 @@ msgstr "글꼴"
 msgid "&Font"
 msgstr "글꼴(&F)"
 
+msgid "_Font"
+msgstr "글꼴(_F)"
+
 msgid "Font Color"
 msgstr "글꼴 색상"
 
@@ -3357,6 +3483,12 @@ msgstr "글꼴 크기"
 
 msgid "Font size"
 msgstr "글꼴 크기"
+
+msgid "Font Style"
+msgstr "글꼴 모양"
+
+msgid "Font style"
+msgstr "글꼴 스타일"
 
 msgid "Fonts"
 msgstr "글꼴"
@@ -3394,6 +3526,12 @@ msgstr "폼"
 msgid "Format"
 msgstr "형식"
 
+msgid "&Format"
+msgstr "형식(&F)"
+
+msgid "_Format"
+msgstr "형식(_F)"
+
 msgid "Formatting"
 msgstr "형식 지정"
 
@@ -3420,6 +3558,12 @@ msgstr "분수"
 
 msgid "Frame"
 msgstr "프레임"
+
+msgid "Frame Rate"
+msgstr "초당 프레임 수"
+
+msgid "Frame rate"
+msgstr "프레임 레이트"
 
 msgid "Framerate"
 msgstr "프레임 속도"
@@ -3464,6 +3608,9 @@ msgid "Full"
 msgstr "전체"
 
 msgid "Full Name"
+msgstr "전체 이름"
+
+msgid "Full name"
 msgstr "전체 이름"
 
 msgid "Full Screen"
@@ -3531,6 +3678,9 @@ msgstr "탑승구"
 
 msgid "Gateway"
 msgstr "게이트웨이"
+
+msgid "_Gateway"
+msgstr "게이트웨이(_G)"
 
 msgid "Gaussian Blur"
 msgstr "가우시안 흐림"
@@ -3652,6 +3802,9 @@ msgstr "이전 쪽으로 이동"
 msgid "Goa"
 msgstr "고아"
 
+msgid "Goal"
+msgstr "목표"
+
 msgid "Gold"
 msgstr "금"
 
@@ -3706,6 +3859,9 @@ msgstr "회색"
 msgid "Grid"
 msgstr "격자"
 
+msgid "&Grid"
+msgstr "격자(&G)"
+
 msgid "Group"
 msgstr "그룹"
 
@@ -3751,6 +3907,9 @@ msgstr "어려움"
 msgid "Hardware"
 msgstr "하드웨어"
 
+msgid "Hash"
+msgstr "해시"
+
 msgid "Hawaiian"
 msgstr "하와이식"
 
@@ -3792,6 +3951,9 @@ msgstr "높이"
 
 msgid "&Height"
 msgstr "높이(&H)"
+
+msgid "_Height"
+msgstr "높이(_H)"
 
 msgid "Help"
 msgstr "도움말"
@@ -3837,6 +3999,9 @@ msgstr "높음"
 
 msgid "Highlight"
 msgstr "강조"
+
+msgid "Highlight color"
+msgstr "강조색"
 
 msgid "Highlighter"
 msgstr "강조 도구"
@@ -3889,8 +4054,17 @@ msgstr "홍콩"
 msgid "Horizontal"
 msgstr "수평"
 
+msgid "_Horizontal"
+msgstr "가로(_H)"
+
+msgid "Horizontally"
+msgstr "수평으로"
+
 msgid "Host"
 msgstr "호스트"
+
+msgid "Host Name"
+msgstr "호스트 이름"
 
 msgid "Hostname"
 msgstr "호스트 이름"
@@ -3970,6 +4144,9 @@ msgstr "ID"
 msgid "id"
 msgstr "id"
 
+msgid "Identification"
+msgstr "식별"
+
 msgid "Identifier"
 msgstr "식별자"
 
@@ -4023,6 +4200,12 @@ msgstr "그림 설정"
 
 msgid "Image Size"
 msgstr "그림 크기"
+
+msgid "Image size"
+msgstr "그림 크기"
+
+msgid "Image type"
+msgstr "이미지 형식"
 
 msgid "Image Viewer"
 msgstr "그림 뷰어"
@@ -4099,6 +4282,9 @@ msgstr "들어쓰기 증가"
 msgid "Increase Volume"
 msgstr "음량 증가"
 
+msgid "Increment"
+msgstr "증가"
+
 msgid "Incremental"
 msgstr "증분"
 
@@ -4110,6 +4296,9 @@ msgstr "Index"
 
 msgid "Indexed"
 msgstr "색인에 포함됨"
+
+msgid "Indexing"
+msgstr "색인"
 
 msgid "India"
 msgstr "인도"
@@ -4173,6 +4362,9 @@ msgstr "설치 중"
 
 msgid "Instant"
 msgstr "즉시"
+
+msgid "Instructions"
+msgstr "명령"
 
 msgid "Integer"
 msgstr "정수"
@@ -4261,11 +4453,17 @@ msgstr "아일랜드어"
 msgid "is"
 msgstr "맞음"
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "이스라엘"
 
 msgid "Issued By"
 msgstr "발급자"
+
+msgid "Issued On"
+msgstr "발급 시간"
 
 msgid "Issuer"
 msgstr "발급자"
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "칸나다 문자"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "카자흐어"
 
@@ -4374,18 +4569,6 @@ msgstr "카자흐스탄"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "KDE 커뮤니티, Felipe Kinoshita"
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "유지"
@@ -4450,26 +4633,11 @@ msgstr "키리바시"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "한국어"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "쿠웨이트"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4488,6 +4656,9 @@ msgstr "가로"
 
 msgid "Language"
 msgstr "언어"
+
+msgid "&Language"
+msgstr "언어(&L)"
 
 msgid "_Language"
 msgstr "언어(_L)"
@@ -4509,6 +4680,12 @@ msgstr "마지막"
 
 msgid "Last Modified"
 msgstr "수정한 날짜"
+
+msgid "Last modified"
+msgstr "수정한 날짜"
+
+msgid "Last Name"
+msgstr "성"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4621,8 +4798,20 @@ msgstr "줄 바꿈"
 msgid "Line Color"
 msgstr "선 색상"
 
+msgid "Line Count"
+msgstr "줄 수"
+
 msgid "Line Numbers"
 msgstr "줄 번호"
+
+msgid "Line spacing"
+msgstr "줄 간격"
+
+msgid "Line Style"
+msgstr "선 스타일"
+
+msgid "Line style"
+msgstr "선 스타일"
 
 msgid "Line Width"
 msgstr "선 넓이"
@@ -4641,6 +4830,9 @@ msgstr "링크"
 
 msgid "link"
 msgstr "링크"
+
+msgid "Link Text"
+msgstr "링크 텍스트"
 
 msgid "Link URL"
 msgstr "링크 URL"
@@ -4740,6 +4932,9 @@ msgstr "로그인"
 
 msgid "_Login"
 msgstr "로그인(_L)"
+
+msgid "Logo"
+msgstr "로고"
 
 msgid "Logout"
 msgstr "로그아웃"
@@ -4936,6 +5131,9 @@ msgstr "최대화"
 msgid "Maximum"
 msgstr "최대"
 
+msgid "Maximum width"
+msgstr "최대 너비"
+
 msgid "May"
 msgstr "5월"
 
@@ -4990,6 +5188,9 @@ msgstr "메시지"
 msgid "message"
 msgstr "메시지"
 
+msgid "&Message"
+msgstr "메시지(&M)"
+
 msgid "Messages"
 msgstr "메시지"
 
@@ -5001,6 +5202,9 @@ msgstr "메타데이터"
 
 msgid "Metal"
 msgstr "메탈"
+
+msgid "Metering Mode"
+msgstr "메터 모드"
 
 msgid "meters"
 msgstr "미터"
@@ -5040,6 +5244,9 @@ msgstr "밀리초"
 
 msgid "milliseconds"
 msgstr "밀리초"
+
+msgid "MIME type"
+msgstr "MIME 형식"
 
 msgid "Min"
 msgstr "최소"
@@ -5086,8 +5293,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "모바일"
 
+msgid "Mobile Phone"
+msgstr "휴대 전화"
+
 msgid "Mode"
 msgstr "모드"
+
+msgid "_Mode"
+msgstr "모드(_M)"
 
 msgid "Model"
 msgstr "모델"
@@ -5184,6 +5397,9 @@ msgstr "모로코"
 
 msgid "Mount"
 msgstr "마운트"
+
+msgid "Mount Point"
+msgstr "마운트 지점"
 
 msgid "Mount point"
 msgstr "마운트 지점"
@@ -5323,6 +5539,9 @@ msgstr "이름(_N)"
 msgid "Name: %1"
 msgstr "이름: %1"
 
+msgid "Names"
+msgstr "이름"
+
 msgid "Namespace"
 msgstr "네임스페이스"
 
@@ -5352,6 +5571,9 @@ msgstr "네팔어"
 
 msgid "Netherlands"
 msgstr "네덜란드"
+
+msgid "Netmask"
+msgstr "네트워크 마스크"
 
 msgid "Network"
 msgstr "네트워크"
@@ -5563,6 +5785,9 @@ msgstr "제목 없음"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "노드"
+
 msgid "Noise"
 msgstr "잡음"
 
@@ -5689,6 +5914,9 @@ msgstr "숫자"
 msgid "Number of columns"
 msgstr "열 개수"
 
+msgid "Number of rows"
+msgstr "행 개수"
+
 msgid "Numbers"
 msgstr "숫자"
 
@@ -5745,9 +5973,6 @@ msgstr "확인(&O)"
 
 msgid "_OK"
 msgstr "확인(_O)"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "오만"
@@ -5899,6 +6124,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "오페라"
 
+msgid "Operating System"
+msgstr "운영 체제"
+
 msgid "Operation"
 msgstr "작업"
 
@@ -5910,6 +6138,9 @@ msgstr "작업"
 
 msgid "Operator"
 msgstr "운영자"
+
+msgid "Operators"
+msgstr "연산자"
 
 msgid "Optical Character Recognition"
 msgstr "광학 문자 인식(OCR)"
@@ -5968,6 +6199,9 @@ msgstr "원본 크기"
 msgid "Oriya"
 msgstr "오리야 문자"
 
+msgid "OS"
+msgstr "OS"
+
 msgid "Other"
 msgstr "기타"
 
@@ -5981,6 +6215,9 @@ msgid "Other Application..."
 msgstr "기타 앱..."
 
 msgid "Other Options"
+msgstr "기타 옵션"
+
+msgid "Other options"
 msgstr "기타 옵션"
 
 msgid "Others"
@@ -6124,6 +6361,9 @@ msgstr "부모"
 msgid "Partition"
 msgstr "파티션"
 
+msgid "Passphrase"
+msgstr "암구호"
+
 msgid "Password"
 msgstr "암호"
 
@@ -6162,6 +6402,9 @@ msgstr "경로"
 
 msgid "Pattern"
 msgstr "패턴"
+
+msgid "_Pattern"
+msgstr "무늬(_P)"
 
 msgid "Patterns"
 msgstr "패턴"
@@ -6247,7 +6490,13 @@ msgstr "필리핀"
 msgid "Phone"
 msgstr "전화"
 
+msgid "Phone Numbers"
+msgstr "전화번호"
+
 msgid "Photo"
+msgstr "사진"
+
+msgid "Photos"
 msgstr "사진"
 
 msgid "PHP Documentation"
@@ -6270,6 +6519,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "파이"
+
+msgid "PIN"
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "고정"
@@ -6298,9 +6550,6 @@ msgstr "일반 텍스트"
 msgid "Plan"
 msgstr "Plan"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "플랫폼"
 
@@ -6319,8 +6568,14 @@ msgstr "재생"
 msgid "Player"
 msgstr "플레이어"
 
+msgid "Player 1"
+msgstr "플레이어 1"
+
 msgid "Player %1"
 msgstr "플레이어 %1"
+
+msgid "Player 2"
+msgstr "플레이어 2"
 
 msgid "Players"
 msgstr "플레이어"
@@ -6400,6 +6655,9 @@ msgstr "포트"
 msgid "&Port"
 msgstr "포트(&P)"
 
+msgid "_Port"
+msgstr "포트(_P)"
+
 msgid "Portrait"
 msgstr "세로"
 
@@ -6411,6 +6669,9 @@ msgstr "포르투갈어"
 
 msgid "Position"
 msgstr "위치"
+
+msgid "Postal code"
+msgstr "우편 번호"
 
 msgid "Posterize"
 msgstr "포스터화"
@@ -6453,6 +6714,9 @@ msgstr "미리 보기"
 
 msgid "&Preview"
 msgstr "미리 보기(&P)"
+
+msgid "_Preview"
+msgstr "미리 보기(_P)"
 
 msgid "Previews"
 msgstr "미리 보기"
@@ -6535,6 +6799,9 @@ msgstr "개인 정보"
 msgid "Private"
 msgstr "개인"
 
+msgid "Private Key"
+msgstr "개인 키"
+
 msgid "Process"
 msgstr "프로세스"
 
@@ -6562,6 +6829,9 @@ msgstr "프로필"
 msgid "Program"
 msgstr "프로그램"
 
+msgid "Programs"
+msgstr "프로그램"
+
 msgid "Progress"
 msgstr "진행"
 
@@ -6570,6 +6840,9 @@ msgstr "프로젝트"
 
 msgid "&Project"
 msgstr "프로젝트(&P)"
+
+msgid "Project name"
+msgstr "프로젝트 이름"
 
 msgid "Projects"
 msgstr "프로젝트"
@@ -6643,6 +6916,9 @@ msgstr "픽셀"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "카타르"
 
@@ -6696,6 +6972,9 @@ msgstr "앱 종료"
 msgid "Quote"
 msgstr "인용문"
 
+msgid "Quotes"
+msgstr "인용"
+
 msgid "R"
 msgstr "R"
 
@@ -6726,6 +7005,9 @@ msgstr "비율"
 msgid "Rating"
 msgstr "별점"
 
+msgid "Ratio"
+msgstr "비율"
+
 msgid "Raw"
 msgstr "원본"
 
@@ -6753,11 +7035,17 @@ msgstr "준비"
 msgid "Ready."
 msgstr "준비."
 
+msgid "Realm"
+msgstr "영역"
+
 msgid "Reason"
 msgstr "이유"
 
 msgid "Reassign"
 msgstr "재할당"
+
+msgid "Received"
+msgstr "받음"
 
 msgid "Recent"
 msgstr "최근"
@@ -6779,6 +7067,9 @@ msgstr "녹음"
 
 msgid "Rectangle"
 msgstr "직사각형"
+
+msgid "Recurrence"
+msgstr "반복"
 
 msgid "Recursive"
 msgstr "재귀적"
@@ -6909,6 +7200,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "삭제 중"
+
 msgid "Rename"
 msgstr "이름 바꾸기"
 
@@ -6929,6 +7223,9 @@ msgstr "책갈피 이름 바꾸기"
 
 msgid "Rename File"
 msgstr "파일 이름 바꾸기"
+
+msgid "Rendering intent"
+msgstr "렌더링 의도"
 
 msgid "Repeat"
 msgstr "반복"
@@ -6951,11 +7248,20 @@ msgstr "모두 바꾸기(_A)"
 msgid "Replace an existing instance"
 msgstr "실행 중인 인스턴스 대체"
 
+msgid "Replace With"
+msgstr "다음으로 바꾸기"
+
+msgid "Replace with"
+msgstr "바꿀 문자열"
+
 msgid "Replacement"
 msgstr "대체"
 
 msgid "Reply"
 msgstr "답장"
+
+msgid "Reply-To"
+msgstr "답장 받을 주소"
 
 msgid "Report"
 msgstr "보고서"
@@ -6974,6 +7280,9 @@ msgstr "버그 보고(&R)..."
 
 msgid "Reports"
 msgstr "보고서"
+
+msgid "Repository"
+msgstr "저장소"
 
 msgid "Required"
 msgstr "필요함"
@@ -7086,6 +7395,9 @@ msgstr "오른쪽에서 왼쪽으로"
 msgid "Right-click"
 msgstr "오른쪽 클릭"
 
+msgid "Rights"
+msgstr "권한"
+
 msgid "River"
 msgstr "강"
 
@@ -7140,6 +7452,9 @@ msgstr "행"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "규칙"
+
 msgid "Rules"
 msgstr "규칙"
 
@@ -7148,6 +7463,9 @@ msgstr "실행"
 
 msgid "&Run"
 msgstr "실행(&R)"
+
+msgid "Run command"
+msgstr "명령 실행"
 
 msgid "Run in terminal"
 msgstr "터미널에서 실행"
@@ -7284,6 +7602,9 @@ msgstr "그림 저장"
 msgid "_Save Image As..."
 msgstr "다른 이름으로 그림 저장(_S)…"
 
+msgid "Save Location"
+msgstr "저장 위치"
+
 msgid "Save Project"
 msgstr "프로젝트 저장"
 
@@ -7292,6 +7613,9 @@ msgstr "세션 저장"
 
 msgid "Save Settings"
 msgstr "설정 저장"
+
+msgid "Save to"
+msgstr "다음으로 저장"
 
 msgid "Saved"
 msgstr "저장됨"
@@ -7323,11 +7647,17 @@ msgstr "스캔"
 msgid "Scanner"
 msgstr "스캐너"
 
+msgid "Scanning"
+msgstr "검사"
+
 msgid "Scanning..."
 msgstr "검색 중..."
 
 msgid "Schedule"
 msgstr "일정"
+
+msgid "Scheduler"
+msgstr "스케줄러"
 
 msgid "Scheduling"
 msgstr "스케줄링"
@@ -7404,11 +7734,17 @@ msgstr "검색..."
 msgid "Search Bar"
 msgstr "검색 도구 모음"
 
+msgid "Search for"
+msgstr "찾을 항목"
+
 msgid "_Search for"
 msgstr "찾기(_S)"
 
 msgid "Search for '%1' with"
 msgstr "다음에서 '%1' 검색"
+
+msgid "Search in"
+msgstr "다음에서 찾기"
 
 msgid "Search Options"
 msgstr "검색 옵션"
@@ -7512,6 +7848,9 @@ msgstr "선택"
 msgid "Selections"
 msgstr "선택"
 
+msgid "Self"
+msgstr "자체"
+
 msgid "Semicolon"
 msgstr "쌍반점"
 
@@ -7551,6 +7890,9 @@ msgstr "세르비아"
 msgid "Serbian"
 msgstr "세르비아어"
 
+msgid "Serial"
+msgstr "직렬"
+
 msgid "Serial Number"
 msgstr "일련 번호"
 
@@ -7566,8 +7908,14 @@ msgstr "세리프"
 msgid "Server"
 msgstr "서버"
 
+msgid "&Server"
+msgstr "서버(&S)"
+
 msgid "Server URL"
 msgstr "서버 URL"
+
+msgid "Servers"
+msgstr "서버"
 
 msgid "Service"
 msgstr "서비스"
@@ -7580,6 +7928,9 @@ msgstr "세션"
 
 msgid "Session management options"
 msgstr "세션 관리 옵션"
+
+msgid "Session name"
+msgstr "세션 이름"
 
 msgid "Sessions"
 msgstr "세션"
@@ -7610,6 +7961,12 @@ msgstr "심각도"
 
 msgid "Seychelles"
 msgstr "세이셸"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7649,6 +8006,12 @@ msgstr "선명도"
 
 msgid "Shear"
 msgstr "기울이기"
+
+msgid "Sheet"
+msgstr "시트"
+
+msgid "Sheets"
+msgstr "시트"
 
 msgid "Shell"
 msgstr "셸"
@@ -7770,6 +8133,9 @@ msgstr "싱글"
 msgid "Sinhala"
 msgstr "신할라 문자"
 
+msgid "Site"
+msgstr "사이트"
+
 msgid "Size"
 msgstr "크기"
 
@@ -7778,6 +8144,9 @@ msgstr "크기"
 
 msgid "&Size"
 msgstr "크기(&S)"
+
+msgid "_Size"
+msgstr "크기(_S)"
 
 msgid "Size: %1"
 msgstr "크기: %1"
@@ -7805,6 +8174,9 @@ msgstr "슬라이더"
 
 msgid "Slideshow"
 msgstr "슬라이드 쇼"
+
+msgid "Slope"
+msgstr "경사"
 
 msgid "Slovak"
 msgstr "슬로바키아어"
@@ -7860,6 +8232,12 @@ msgstr "단색"
 msgid "Solomon Islands"
 msgstr "솔로몬 제도"
 
+msgid "Solution"
+msgstr "용액"
+
+msgid "Solve"
+msgstr "풀기"
+
 msgid "Somalia"
 msgstr "소말리아"
 
@@ -7876,6 +8254,9 @@ msgid "Sorting"
 msgstr "정렬"
 
 msgid "Sound"
+msgstr "소리"
+
+msgid "Sounds"
 msgstr "소리"
 
 msgid "Soundtrack"
@@ -7945,6 +8326,9 @@ msgid "Spell Check"
 msgstr "맞춤법 검사"
 
 msgid "Spell Checking"
+msgstr "맞춤법 검사"
+
+msgid "Spellcheck"
 msgstr "맞춤법 검사"
 
 msgid "Spelling"
@@ -8184,6 +8568,9 @@ msgstr "수단 문자"
 msgid "Sunday"
 msgstr "일요일"
 
+msgid "Sunrise"
+msgstr "일출"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8240,6 +8627,9 @@ msgstr "동기화"
 
 msgid "Synchronize"
 msgstr "동기화"
+
+msgid "Syntax"
+msgstr "문법"
 
 msgid "Syriac"
 msgstr "시리아 문자"
@@ -8302,6 +8692,9 @@ msgid "Tanzania"
 msgstr "탄자니아"
 
 msgid "Target"
+msgstr "대상"
+
+msgid "Targets"
 msgstr "대상"
 
 msgid "Task"
@@ -8417,6 +8810,9 @@ msgstr "NetworkManager 개발자 "
 msgid "Theme"
 msgstr "테마"
 
+msgid "&Theme"
+msgstr "테마(&T)"
+
 msgid "Themes"
 msgstr "테마"
 
@@ -8435,6 +8831,9 @@ msgstr "메뉴 표시줄을 완전히 숨깁니다. %1 키를 눌러서 다시 �
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "스레드"
 
 msgid "Threshold"
 msgstr "임곗값"
@@ -8462,6 +8861,9 @@ msgstr "바둑판식 배열"
 
 msgid "Tiled"
 msgstr "바둑판식 배열"
+
+msgid "Tiles"
+msgstr "타일"
 
 msgid "Tilt"
 msgstr "기울기"
@@ -8511,6 +8913,9 @@ msgstr "제목(&T)"
 msgid "_Title"
 msgstr "제목(_T)"
 
+msgid "Titles"
+msgstr "제목"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8533,6 +8938,9 @@ msgid "TODO"
 msgstr "TODO"
 
 msgid "Todo"
+msgstr "할 일"
+
+msgid "To-do"
 msgstr "할 일"
 
 msgid "Toggle Fullscreen"
@@ -8565,6 +8973,9 @@ msgstr "도구"
 msgid "Tool Options"
 msgstr "도구 옵션"
 
+msgid "Toolbar"
+msgstr "도구 모음"
+
 msgid "_Toolbar"
 msgstr "도구 모음(_T)"
 
@@ -8585,6 +8996,9 @@ msgstr "도구(&T)"
 
 msgid "_Tools"
 msgstr "도구(_T)"
+
+msgid "Tooltip"
+msgstr "풍선 도움말"
 
 msgid "Top"
 msgstr "위"
@@ -8738,11 +9152,17 @@ msgstr "형식"
 msgid "&Type"
 msgstr "형식(&T)"
 
+msgid "_Type"
+msgstr "형식(_T)"
+
 msgid "Type: %1"
 msgstr "형식: %1"
 
 msgid "Uganda"
 msgstr "우간다"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "우크라이나"
@@ -8975,6 +9395,9 @@ msgstr "사용함"
 msgid "User"
 msgstr "사용자"
 
+msgid "User Agent"
+msgstr "사용자 에이전트"
+
 msgid "User Certificate"
 msgstr "사용자 인증서"
 
@@ -8999,11 +9422,17 @@ msgstr "사용자 암호"
 msgid "Username"
 msgstr "사용자 이름"
 
+msgid "&Username"
+msgstr "사용자 이름(&U)"
+
 msgid "_Username"
 msgstr "사용자 이름(_U)"
 
 msgid "Users"
 msgstr "사용자"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "유틸리티"
@@ -9025,6 +9454,9 @@ msgstr "유효함"
 
 msgid "Valid from"
 msgstr "유효 기간 시작"
+
+msgid "Valid until"
+msgstr "유효 기간 끝"
 
 msgid "Validity"
 msgstr "유효성"
@@ -9058,6 +9490,9 @@ msgstr "변수"
 msgid "Variance"
 msgstr "분산"
 
+msgid "Variant"
+msgstr "베리언트"
+
 msgid "Vector"
 msgstr "벡터"
 
@@ -9084,6 +9519,9 @@ msgstr "버전 %1"
 
 msgid "Vertical"
 msgstr "수직"
+
+msgid "_Vertical"
+msgstr "세로(_V)"
 
 msgid "Very Large"
 msgstr "매우 크게"
@@ -9117,6 +9555,9 @@ msgstr "보기(&V)"
 
 msgid "_View"
 msgstr "보기(_V)"
+
+msgid "View mode"
+msgstr "보기 모드"
 
 msgid "View Options"
 msgstr "보기 옵션"
@@ -9277,6 +9718,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "위키백과"
 
+msgid "Wind"
+msgstr "바람"
+
 msgid "Window"
 msgstr "창"
 
@@ -9319,11 +9763,17 @@ msgstr "단어"
 msgid "Word Count"
 msgstr "단어 개수"
 
+msgid "Word wrap"
+msgstr "자동 줄 바꿈"
+
 msgid "Words"
 msgstr "단어"
 
 msgid "Work"
 msgstr "직장"
+
+msgid "Workspace"
+msgstr "작업 공간"
 
 msgid "World"
 msgstr "세계"
@@ -9363,6 +9813,9 @@ msgstr "Y(_Y)"
 
 msgid "Year"
 msgstr "연도"
+
+msgid "&Year"
+msgstr "연도(&Y)"
 
 msgid "Yearly"
 msgstr "매년"
@@ -9423,6 +9876,9 @@ msgstr "확대/축소(&Z)"
 
 msgid "_Zoom"
 msgstr "확대(_Z)"
+
+msgid "Zoom factor"
+msgstr "확대/축소 배율"
 
 msgid "Zoom In"
 msgstr "확대"

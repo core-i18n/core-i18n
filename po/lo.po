@@ -82,9 +82,6 @@ msgstr " ແລະ "
 msgid " (default)"
 msgstr " (ເລີ່ມຕົ້ນ)"
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "ມີໄຟລ໌ຊື່ \"%1\" ຢູ່ແລ້ວ. ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການຂຽນທັບມັນ?"
 
@@ -355,17 +355,20 @@ msgstr "_ກ່ຽວກັບ"
 msgid "About %1"
 msgstr "ກ່ຽວກັບ %1"
 
-msgid "About KDE"
-msgstr "ກ່ຽວກັບ KDE"
-
 msgid "Abstract"
 msgstr "ນາມມະທຳ (Abstract)"
+
+msgid "Acceleration"
+msgstr "ຄວາມເລັ່ງ"
 
 msgid "Accept"
 msgstr "ຍອມຮັບ"
 
 msgid "Accepted"
 msgstr "ຍອມຮັບແລ້ວ"
+
+msgid "Access"
+msgstr ""
 
 msgid "Accessed"
 msgstr "ເຂົ້າເຖິງ"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr "ຂໍ້ມູນບັນຊີ"
 
 msgid "Account Name"
+msgstr "ຊື່ບັນຊີ"
+
+msgid "Account name"
 msgstr "ຊື່ບັນຊີ"
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr ""
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "ທາງເລືອກ"
+
 msgid "Alternative"
 msgstr ""
 
@@ -712,8 +721,14 @@ msgstr ""
 msgid "Anonymous"
 msgstr "ບໍ່ລະບຸຕົວຕົນ"
 
+msgid "Answer"
+msgstr ""
+
 msgid "Antarctica"
 msgstr "ອັງຕາກຕິກາ"
+
+msgid "Antialiasing"
+msgstr "ການລົບຂອບຫຍັກ"
 
 msgid "Any"
 msgstr "ໃດໆ"
@@ -883,6 +898,9 @@ msgstr ""
 msgid "Author"
 msgstr "ຜູ້ຂຽນ"
 
+msgid "Author name"
+msgstr ""
+
 msgid "Authors"
 msgstr "ຜູ້ພັດທະນາ"
 
@@ -928,6 +946,9 @@ msgstr "Azerbaijani"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&ກັບຄືນ"
 msgid "_Back"
 msgstr "_ກັບຄືນ"
 
+msgid "Backend"
+msgstr "Backend"
+
 msgid "Background"
 msgstr "ພື້ນຫຼັງ"
+
+msgid "&Background"
+msgstr "&ພື້ນຫຼັງ"
 
 msgid "Background Color"
 msgstr "ສີພື້ນຫຼັງ"
@@ -951,6 +978,9 @@ msgstr "ສີພື້ນ"
 
 msgid "&Background color"
 msgstr "&ສີພື້ນຫຼັງ"
+
+msgid "Background image"
+msgstr "ຮູບພື້ນຫຼັງ"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "ສົມດຸນ"
 
 msgid "Baltic"
 msgstr "ບອລຕິກ"
+
+msgid "Bandwidth"
+msgstr ""
 
 msgid "Bangladesh"
 msgstr "ບັງກະລາເທດ"
@@ -998,6 +1031,9 @@ msgid "Bass"
 msgstr "Bass"
 
 msgid "Battery"
+msgstr ""
+
+msgid "BCC"
 msgstr ""
 
 msgid "Bcc"
@@ -1156,23 +1192,8 @@ msgstr "ສາຂາ"
 msgid "Brazil"
 msgstr "ບຣາຊິນ"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "ບຣີສ ໂດຍ KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Breeze Dark"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "ບຣີສ ສີເຂັ້ມ ໂດຍ KDE VDG"
-
 msgid "Breton"
 msgstr "Breton"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "ຂົວ"
@@ -1309,18 +1330,6 @@ msgstr "&ຍົກເລີກ"
 msgid "Canceled"
 msgstr ""
 
-msgid "Cancelled"
-msgstr "ຍົກເລີກແລ້ວ"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "ຜ້າໃບ"
 
@@ -1339,14 +1348,14 @@ msgstr "ຂຶ້ນຕົ້ນດ້ວຍຕົວພິມໃຫຍ່"
 msgid "Caps Lock is on"
 msgstr ""
 
+msgid "Caption"
+msgstr "ຄຳບັນຍາຍ"
+
 msgid "Capture"
 msgstr "ຖ່າຍຮູບ"
 
 msgid "Car"
 msgstr ""
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "ຄາສເຄດ"
@@ -1435,6 +1444,9 @@ msgstr "ປ່ຽນ…"
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "ຊ່ອງ"
 
@@ -1452,6 +1464,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "ຕົວອັກສອນ"
+
+msgid "Character set"
+msgstr ""
 
 msgid "Characters"
 msgstr "ຕົວອັກສອນ"
@@ -1684,6 +1699,9 @@ msgstr "ຊຸດສີ"
 msgid "Color Space"
 msgstr "Color Space"
 
+msgid "Color space"
+msgstr "ພື້ນທີ່ສີ"
+
 msgid "Color theme"
 msgstr "ຮູບແບບສີ"
 
@@ -1705,13 +1723,7 @@ msgstr "ຖັນ"
 msgid "Comma"
 msgstr ""
 
-msgid "COMMAND"
-msgstr "ຄຳສັ່ງ"
-
 msgid "Command"
-msgstr "ຄຳສັ່ງ"
-
-msgid "command"
 msgstr "ຄຳສັ່ງ"
 
 msgid "Command Line"
@@ -1726,6 +1738,9 @@ msgstr "ຄຳສັ່ງ"
 msgid "Comment"
 msgstr "ຄຳເຫັນ"
 
+msgid "comment"
+msgstr "ຄຳເຫັນ"
+
 msgid "Comments"
 msgstr "ຄວາມຄິດເຫັນ"
 
@@ -1735,11 +1750,17 @@ msgstr "ສົ່ງຂໍ້ມູນ (Commit)"
 msgid "Common"
 msgstr "ທົ່ວໄປ"
 
+msgid "Common Name"
+msgstr "ຊື່ທົ່ວໄປ"
+
 msgid "Comoros"
 msgstr "ໂຄໂມໂຣສ"
 
 msgid "Compact"
 msgstr "ກະທັດຮັດ"
+
+msgid "Company"
+msgstr ""
 
 msgid "Compare"
 msgstr ""
@@ -1777,6 +1798,9 @@ msgstr "ຄອມພິວເຕີ"
 msgid "Condition"
 msgstr "ເງື່ອນໄຂ"
 
+msgid "Conditions"
+msgstr ""
+
 msgid "Confidential"
 msgstr ""
 
@@ -1807,6 +1831,9 @@ msgstr ""
 msgid "Confirm"
 msgstr "ຢືນຢັນ"
 
+msgid "Confirm Password"
+msgstr ""
+
 msgid "Confirmation"
 msgstr "ການຢືນຢັນ"
 
@@ -1818,6 +1845,9 @@ msgstr ""
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "ຂັດແຍ່ງກັບທາງລັດແອັບພລິເຄຊັນມາດຕະຖານ"
+
+msgid "Conflicts"
+msgstr ""
 
 msgid "Connect"
 msgstr "ເຊື່ອມຕໍ່"
@@ -1843,6 +1873,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr "ການຕັ້ງຄ່າການເຊື່ອມຕໍ່"
 
+msgid "Connection type"
+msgstr "ປະເພດການເຊື່ອມຕໍ່"
+
 msgid "Connections"
 msgstr "ການເຊື່ອມຕໍ່"
 
@@ -1851,9 +1884,6 @@ msgstr "ຄອນໂຊນ"
 
 msgid "Constant"
 msgstr "ຄ່າຄົງທີ່"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "ຂໍ້ມູນຕິດຕໍ່"
@@ -1867,13 +1897,13 @@ msgstr ""
 msgid "Contains"
 msgstr "ມີຄຳວ່າ"
 
-msgid "contains"
-msgstr "ມີຄຳວ່າ"
-
 msgid "Content"
 msgstr "ເນື້ອຫາ"
 
 msgid "Content Type"
+msgstr "ປະເພດເນື້ອຫາ"
+
+msgid "Content type"
 msgstr "ປະເພດເນື້ອຫາ"
 
 msgid "Contents"
@@ -1897,11 +1927,17 @@ msgstr "ຄວາມຄົມຊັດ"
 msgid "Contributor"
 msgstr "ຜູ້ປະກອບສ່ວນ"
 
+msgid "Contributors"
+msgstr ""
+
 msgid "Control"
 msgstr ""
 
 msgid "Convert"
 msgstr "ແປງ"
+
+msgid "Convert to"
+msgstr "ແປງເປັນ"
 
 msgid "Convert to Path"
 msgstr ""
@@ -1919,9 +1955,6 @@ msgid "Coptic"
 msgstr ""
 
 msgid "Copy"
-msgstr "ສຳເນົາ"
-
-msgid "copy"
 msgstr "ສຳເນົາ"
 
 msgid "&Copy"
@@ -1975,6 +2008,9 @@ msgstr ""
 msgid "Copyright"
 msgstr "ລິຂະສິດ"
 
+msgid "Correct"
+msgstr ""
+
 msgid "Cost"
 msgstr ""
 
@@ -1998,6 +2034,9 @@ msgstr "ປະເທດ"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "ການໃຊ້ງານ CPU"
 
 msgid "Create"
 msgstr "ສ້າງ"
@@ -2026,6 +2065,9 @@ msgstr "ຜູ້ສ້າງ"
 msgid "Credentials"
 msgstr "ຂໍ້ມູນປະຈຳຕົວ"
 
+msgid "Credit"
+msgstr "ເຄຣດິດ"
+
 msgid "Credits"
 msgstr "ເຄຣດິດ"
 
@@ -2052,15 +2094,6 @@ msgstr ""
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr ""
 
 msgid "Cuba"
 msgstr "ກູບາ"
@@ -2089,8 +2122,14 @@ msgstr "ເສັ້ນໂຄ້ງ"
 msgid "Custom"
 msgstr "ກຳນົດເອງ"
 
+msgid "&Custom"
+msgstr ""
+
 msgid "Custom..."
 msgstr "ກຳນົດເອງ..."
+
+msgid "Custom color"
+msgstr "ສີກຳນົດເອງ"
 
 msgid "Custom Font"
 msgstr "ຟອນກຳນົດເອງ"
@@ -2164,6 +2203,9 @@ msgstr "ຂໍ້ມູນ"
 msgid "Database"
 msgstr "ຖານຂໍ້ມູນ"
 
+msgid "Database name"
+msgstr "ຊື່ຖານຂໍ້ມູນ"
+
 msgid "Date"
 msgstr "ວັນທີ"
 
@@ -2179,14 +2221,20 @@ msgstr ""
 msgid "Date Format"
 msgstr "ຮູບແບບວັນທີ"
 
+msgid "Date format"
+msgstr "ຮູບແບບວັນທີ"
+
 msgid "Date Modified"
 msgstr ""
 
-msgid "David Edmundson"
+msgid "Date/Time"
 msgstr ""
 
 msgid "Day"
 msgstr "ວັນ"
+
+msgid "day"
+msgstr ""
 
 msgid "Days"
 msgstr "ວັນ"
@@ -2235,6 +2283,9 @@ msgstr "ຄ່າເລີ່ມຕົ້ນ"
 
 msgid "default"
 msgstr ""
+
+msgid "Default value"
+msgstr "ຄ່າເລີ່ມຕົ້ນ"
 
 msgid "Defaults"
 msgstr "ຄ່າເລີ່ມຕົ້ນ"
@@ -2311,6 +2362,9 @@ msgstr "ຄວາມໜາແໜ້ນ"
 msgid "Deny"
 msgstr "ປະຕິເສດ"
 
+msgid "Department"
+msgstr ""
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2343,6 +2397,12 @@ msgstr "ໜ້າຈໍ"
 
 msgid "Destination"
 msgstr "ປາຍທາງ"
+
+msgid "Destination Folder"
+msgstr "ໂຟນເດີປາຍທາງ"
+
+msgid "Destination folder"
+msgstr "ໂຟນເດີປາຍທາງ"
 
 msgid "Detach"
 msgstr ""
@@ -2515,6 +2575,9 @@ msgstr "Dissolve"
 msgid "Distance"
 msgstr "ໄລຍະຫ່າງ"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "Divide"
 
@@ -2569,11 +2632,11 @@ msgstr "ເອກະສານ"
 msgid "does not contain"
 msgstr ""
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "ໂດເມນ"
+
+msgid "_Domain"
+msgstr "_ໂດເມນ"
 
 msgid "Dominica"
 msgstr "ໂດມິນິກາ"
@@ -2677,6 +2740,9 @@ msgstr ""
 msgid "DVD-RW"
 msgstr ""
 
+msgid "Dynamic"
+msgstr "ເຄື່ອນໄຫວ"
+
 msgid "E"
 msgstr "E"
 
@@ -2728,6 +2794,9 @@ msgstr ""
 msgid "Editing"
 msgstr "ການແກ້ໄຂ"
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "ຕົວແກ້ໄຂ"
 
@@ -2743,9 +2812,6 @@ msgstr "ເອຢິບ"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr ""
-
 msgid "Eject"
 msgstr ""
 
@@ -2755,16 +2821,28 @@ msgstr ""
 msgid "El Salvador"
 msgstr "ເອລ ຊັນວາດໍ"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr ""
 
 msgid "Element"
 msgstr "ທາດ"
 
+msgid "Elements"
+msgstr "ທາດ"
+
 msgid "Ellipse"
 msgstr "ເອລິບ"
 
+msgid "EMail"
+msgstr ""
+
 msgid "Email"
+msgstr "ອີເມວ"
+
+msgid "E-Mail"
 msgstr "ອີເມວ"
 
 msgid "E-mail"
@@ -2845,6 +2923,9 @@ msgstr "ສິ້ນສຸດ"
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr ""
+
 msgid "End Time"
 msgstr "ເວລາສິ້ນສຸດ"
 
@@ -2866,7 +2947,13 @@ msgstr "ອັງກິດ"
 msgid "Enter"
 msgstr "ປ້ອນ"
 
+msgid "Enter name"
+msgstr ""
+
 msgid "Enter password"
+msgstr ""
+
+msgid "Entries"
 msgstr ""
 
 msgid "Entry"
@@ -2941,6 +3028,9 @@ msgstr "ເຫດການ"
 msgid "Events"
 msgstr ""
 
+msgid "Every"
+msgstr "ທຸກໆ"
+
 msgid "Everyone"
 msgstr "ທຸກຄົນ"
 
@@ -2957,6 +3047,9 @@ msgid "Examples"
 msgstr ""
 
 msgid "Exception"
+msgstr ""
+
+msgid "Exceptions"
 msgstr ""
 
 msgid "Exclude"
@@ -2992,11 +3085,17 @@ msgstr "ຂະຫຍາຍທັງໝົດ"
 msgid "Experimental"
 msgstr "ທົດລອງ"
 
+msgid "Expiration"
+msgstr ""
+
 msgid "Expired"
 msgstr ""
 
 msgid "Expires"
 msgstr "ໝົດອາຍຸ"
+
+msgid "Expires On"
+msgstr ""
 
 msgid "Export"
 msgstr "ສົ່ງອອກ"
@@ -3031,6 +3130,9 @@ msgstr ""
 msgid "Exposure"
 msgstr "ການຮັບແສງ"
 
+msgid "Exposure Time"
+msgstr "ເວລາຮັບແສງ"
+
 msgid "Expression"
 msgstr ""
 
@@ -3051,6 +3153,9 @@ msgstr "ແຍກອອກ"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "ຜ້າ"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3109,6 +3214,12 @@ msgstr ""
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr "ຟິນ"
+
+msgid "Fields"
+msgstr ""
+
 msgid "Fiji"
 msgstr "ຟິຈິ"
 
@@ -3141,6 +3252,9 @@ msgstr "ມີໄຟລ໌ຢູ່ແລ້ວ"
 
 msgid "File Format"
 msgstr "ຮູບແບບໄຟລ໌"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3201,6 +3315,9 @@ msgstr "ສີຕື່ມ"
 
 msgid "Filter"
 msgstr "ກັ່ນຕອງ"
+
+msgid "&Filter"
+msgstr "&ຕົວກອງ"
 
 msgid "Filter..."
 msgstr "ກັ່ນຕອງ…"
@@ -3265,6 +3382,9 @@ msgstr "ຟິນແລນ"
 msgid "First"
 msgstr "ກ່ອນໝູ່"
 
+msgid "First Name"
+msgstr "ຊື່ແທ້"
+
 msgid "First Page"
 msgstr ""
 
@@ -3325,6 +3445,9 @@ msgstr ""
 msgid "Focal Length"
 msgstr "ຄວາມຍາວໂຟກັສ"
 
+msgid "Focal length"
+msgstr "ຄວາມຍາວໂຟກັສ"
+
 msgid "Focus"
 msgstr "ໂຟກັສ"
 
@@ -3346,6 +3469,9 @@ msgstr "ຟອນ"
 msgid "&Font"
 msgstr ""
 
+msgid "_Font"
+msgstr ""
+
 msgid "Font Color"
 msgstr ""
 
@@ -3357,6 +3483,12 @@ msgstr "ຂະໜາດຟອນ"
 
 msgid "Font size"
 msgstr "ຂະໜາດຕົວອັກສອນ"
+
+msgid "Font Style"
+msgstr "ຮູບແບບຕົວອັກສອນ"
+
+msgid "Font style"
+msgstr "ຮູບແບບຟອນ"
 
 msgid "Fonts"
 msgstr "ຟອນ"
@@ -3394,6 +3526,12 @@ msgstr "ຟອມ"
 msgid "Format"
 msgstr "ຮູບແບບ"
 
+msgid "&Format"
+msgstr "&ຮູບແບບ"
+
+msgid "_Format"
+msgstr ""
+
 msgid "Formatting"
 msgstr "ການຈັດຮູບແບບ"
 
@@ -3420,6 +3558,12 @@ msgstr "ເສດສ່ວນ"
 
 msgid "Frame"
 msgstr "ເຟຣມ"
+
+msgid "Frame Rate"
+msgstr "ເຟຣມເຣດ"
+
+msgid "Frame rate"
+msgstr "ອັດຕາເຟຣມ"
 
 msgid "Framerate"
 msgstr ""
@@ -3465,6 +3609,9 @@ msgstr ""
 
 msgid "Full Name"
 msgstr "ຊື່ ແລະ ນາມສະກຸນ"
+
+msgid "Full name"
+msgstr "ຊື່ເຕັມ"
 
 msgid "Full Screen"
 msgstr "ເຕັມໜ້າຈໍ"
@@ -3530,6 +3677,9 @@ msgid "Gate"
 msgstr "ປະຕູ"
 
 msgid "Gateway"
+msgstr ""
+
+msgid "_Gateway"
 msgstr ""
 
 msgid "Gaussian Blur"
@@ -3652,6 +3802,9 @@ msgstr ""
 msgid "Goa"
 msgstr "ໂກອາ"
 
+msgid "Goal"
+msgstr ""
+
 msgid "Gold"
 msgstr "ຄຳ"
 
@@ -3706,6 +3859,9 @@ msgstr "ເທົາ"
 msgid "Grid"
 msgstr "ຕາຕະລາງ"
 
+msgid "&Grid"
+msgstr "&ຕາຕະລາງ"
+
 msgid "Group"
 msgstr "ກຸ່ມ"
 
@@ -3751,6 +3907,9 @@ msgstr "ແຂງ"
 msgid "Hardware"
 msgstr "ຮາດແວ"
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr "Hawaiian"
 
@@ -3791,6 +3950,9 @@ msgid "Height"
 msgstr "ຄວາມສູງ"
 
 msgid "&Height"
+msgstr ""
+
+msgid "_Height"
 msgstr ""
 
 msgid "Help"
@@ -3837,6 +3999,9 @@ msgstr "ສູງ"
 
 msgid "Highlight"
 msgstr "ເນັ້ນ"
+
+msgid "Highlight color"
+msgstr ""
 
 msgid "Highlighter"
 msgstr ""
@@ -3889,8 +4054,17 @@ msgstr "ຮ່ອງກົງ"
 msgid "Horizontal"
 msgstr "ແນວນອນ"
 
+msgid "_Horizontal"
+msgstr "_ແນວນອນ"
+
+msgid "Horizontally"
+msgstr "ຕາມລວງນອນ"
+
 msgid "Host"
 msgstr ""
+
+msgid "Host Name"
+msgstr "ຊື່ໂຮດ"
 
 msgid "Hostname"
 msgstr "Hostname"
@@ -3970,6 +4144,9 @@ msgstr "Id"
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr "ຕົວລະບຸ"
 
@@ -4023,6 +4200,12 @@ msgstr "ການ​ຕັ້ງ​ຄ່າ​ຮູບ​ພາບ"
 
 msgid "Image Size"
 msgstr "ຂະໜາດຮູບພາບ"
+
+msgid "Image size"
+msgstr "ຂະໜາດຮູບພາບ"
+
+msgid "Image type"
+msgstr "ປະເພດຮູບພາບ"
 
 msgid "Image Viewer"
 msgstr ""
@@ -4099,6 +4282,9 @@ msgstr ""
 msgid "Increase Volume"
 msgstr "ເພີ່ມລະດັບສຽງ"
 
+msgid "Increment"
+msgstr ""
+
 msgid "Incremental"
 msgstr "ເພີ່ມຂຶ້ນເທື່ອລະນ້ອຍ"
 
@@ -4110,6 +4296,9 @@ msgstr "ດັດຊະນີ"
 
 msgid "Indexed"
 msgstr "Indexed"
+
+msgid "Indexing"
+msgstr ""
 
 msgid "India"
 msgstr "ອິນເດຍ"
@@ -4173,6 +4362,9 @@ msgstr "ກຳລັງຕິດຕັ້ງ"
 
 msgid "Instant"
 msgstr "Instant"
+
+msgid "Instructions"
+msgstr "ຄຳແນະນຳ"
 
 msgid "Integer"
 msgstr "ຈຳນວນເຕັມ"
@@ -4261,10 +4453,16 @@ msgstr "ໄອຣິຊ"
 msgid "is"
 msgstr ""
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "ອິດສະຣາແອນ"
 
 msgid "Issued By"
+msgstr ""
+
+msgid "Issued On"
 msgstr ""
 
 msgid "Issuer"
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr ""
-
 msgid "Kazakh"
 msgstr "Kazakh"
 
@@ -4374,18 +4569,6 @@ msgstr "ຄາຊັກສະຖານ"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
-msgstr ""
 
 msgid "Keep"
 msgstr ""
@@ -4450,26 +4633,11 @@ msgstr "ກິຣິບາສ"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr ""
-
-msgid "Konqueror"
-msgstr ""
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "ເກົາຫຼີ"
 
-msgid "KOrganizer"
-msgstr ""
-
 msgid "Kuwait"
 msgstr "ຄູເວດ"
-
-msgid "KWin"
-msgstr ""
 
 msgid "L"
 msgstr "L"
@@ -4488,6 +4656,9 @@ msgstr "ທິວທັດ"
 
 msgid "Language"
 msgstr "ພາສາ"
+
+msgid "&Language"
+msgstr "&ພາສາ"
 
 msgid "_Language"
 msgstr "_ພາສາ"
@@ -4509,6 +4680,12 @@ msgstr "ທ້າຍໝູ່"
 
 msgid "Last Modified"
 msgstr "ແກ້ໄຂລ່າສຸດ"
+
+msgid "Last modified"
+msgstr "ແກ້ໄຂລ້າສຸດ"
+
+msgid "Last Name"
+msgstr "ນາມສະກຸນ"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4621,8 +4798,20 @@ msgstr "ຕັດແຖວ"
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr "ຈຳນວນແຖວ"
+
 msgid "Line Numbers"
 msgstr "ເລກແຖວ"
+
+msgid "Line spacing"
+msgstr "ໄລຍະຫ່າງແຖວ"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "ຮູບແບບເສັ້ນ"
 
 msgid "Line Width"
 msgstr ""
@@ -4641,6 +4830,9 @@ msgstr "ລິ້ງ"
 
 msgid "link"
 msgstr "ລິ້ງ"
+
+msgid "Link Text"
+msgstr ""
 
 msgid "Link URL"
 msgstr ""
@@ -4740,6 +4932,9 @@ msgstr "ເຂົ້າສູ່ລະບົບ"
 
 msgid "_Login"
 msgstr "ເຂົ້າສູ່ລະບົບ"
+
+msgid "Logo"
+msgstr "ໂລໂກ້"
 
 msgid "Logout"
 msgstr ""
@@ -4936,6 +5131,9 @@ msgstr ""
 msgid "Maximum"
 msgstr "ສູງສຸດ"
 
+msgid "Maximum width"
+msgstr "ຄວາມກວ້າງສູງສຸດ"
+
 msgid "May"
 msgstr "ພຶດສະພາ"
 
@@ -4990,6 +5188,9 @@ msgstr "ຂໍ້ຄວາມ"
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr ""
+
 msgid "Messages"
 msgstr "ຂໍ້ຄວາມ"
 
@@ -5001,6 +5202,9 @@ msgstr "Metadata"
 
 msgid "Metal"
 msgstr ""
+
+msgid "Metering Mode"
+msgstr "ໂຫມດວັດແທກແສງ"
 
 msgid "meters"
 msgstr "ແມັດ"
@@ -5040,6 +5244,9 @@ msgstr "ມິນລິວິນາທີ"
 
 msgid "milliseconds"
 msgstr "milliseconds"
+
+msgid "MIME type"
+msgstr ""
 
 msgid "Min"
 msgstr "ຕ່ຳສຸດ"
@@ -5086,8 +5293,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "ມືຖື"
 
+msgid "Mobile Phone"
+msgstr ""
+
 msgid "Mode"
 msgstr "ໂໝດ"
+
+msgid "_Mode"
+msgstr "_ໂໝດ"
 
 msgid "Model"
 msgstr "ລຸ້ນ"
@@ -5184,6 +5397,9 @@ msgstr "ໂມຣັອກໂຄ"
 
 msgid "Mount"
 msgstr "ເຊື່ອມຕໍ່"
+
+msgid "Mount Point"
+msgstr "ຈຸດເຊື່ອມຕໍ່"
 
 msgid "Mount point"
 msgstr ""
@@ -5323,6 +5539,9 @@ msgstr "_ຊື່"
 msgid "Name: %1"
 msgstr "ຊື່: %1"
 
+msgid "Names"
+msgstr "ຊື່"
+
 msgid "Namespace"
 msgstr ""
 
@@ -5352,6 +5571,9 @@ msgstr "ເນປານ"
 
 msgid "Netherlands"
 msgstr "ເນເທີແລນ"
+
+msgid "Netmask"
+msgstr ""
 
 msgid "Network"
 msgstr "ເຄືອຂ່າຍ"
@@ -5563,6 +5785,9 @@ msgstr ""
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "Node"
+
 msgid "Noise"
 msgstr "ສັນຍານລົບກວນ"
 
@@ -5689,6 +5914,9 @@ msgstr ""
 msgid "Number of columns"
 msgstr "ຈຳນວນຖັນ"
 
+msgid "Number of rows"
+msgstr "ຈຳນວນແຖວ"
+
 msgid "Numbers"
 msgstr "ຕົວເລກ"
 
@@ -5745,9 +5973,6 @@ msgstr "&ຕົກລົງ"
 
 msgid "_OK"
 msgstr "_ຕົກລົງ"
-
-msgid "Okular"
-msgstr ""
 
 msgid "Oman"
 msgstr "ໂອມານ"
@@ -5899,6 +6124,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr ""
 
+msgid "Operating System"
+msgstr ""
+
 msgid "Operation"
 msgstr "ການດຳເນີນການ"
 
@@ -5909,6 +6137,9 @@ msgid "Operations"
 msgstr ""
 
 msgid "Operator"
+msgstr "ຕົວດຳເນີນການ"
+
+msgid "Operators"
 msgstr "ຕົວດຳເນີນການ"
 
 msgid "Optical Character Recognition"
@@ -5968,6 +6199,9 @@ msgstr "ຂະໜາດຕົ້ນສະບັບ"
 msgid "Oriya"
 msgstr "ໂອຣິຢາ"
 
+msgid "OS"
+msgstr "ລະບົບປະຕິບັດການ"
+
 msgid "Other"
 msgstr "ອື່ນໆ"
 
@@ -5982,6 +6216,9 @@ msgstr ""
 
 msgid "Other Options"
 msgstr "ຕົວເລືອກອື່ນໆ"
+
+msgid "Other options"
+msgstr ""
 
 msgid "Others"
 msgstr "ອື່ນໆ"
@@ -6124,6 +6361,9 @@ msgstr "ປາຣັງ"
 msgid "Partition"
 msgstr "ພາກສ່ວນ"
 
+msgid "Passphrase"
+msgstr ""
+
 msgid "Password"
 msgstr "ລະຫັດຜ່ານ"
 
@@ -6162,6 +6402,9 @@ msgstr "ເສັ້ນທາງ"
 
 msgid "Pattern"
 msgstr "ລວດລາຍ"
+
+msgid "_Pattern"
+msgstr "_ລວດລາຍ"
 
 msgid "Patterns"
 msgstr "ລວດລາຍ"
@@ -6247,7 +6490,13 @@ msgstr "ຟິລິບປິນ"
 msgid "Phone"
 msgstr "ໂທລະສັບ"
 
+msgid "Phone Numbers"
+msgstr ""
+
 msgid "Photo"
+msgstr "ຮູບພາບ"
+
+msgid "Photos"
 msgstr "ຮູບພາບ"
 
 msgid "PHP Documentation"
@@ -6270,6 +6519,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "ວົງມົນ"
+
+msgid "PIN"
+msgstr ""
 
 msgid "Pin"
 msgstr ""
@@ -6298,9 +6550,6 @@ msgstr ""
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr ""
-
 msgid "Platform"
 msgstr "ຊານຊະລາ"
 
@@ -6319,7 +6568,13 @@ msgstr "ການຫຼິ້ນ"
 msgid "Player"
 msgstr "ເຄື່ອງຫຼິ້ນ"
 
+msgid "Player 1"
+msgstr ""
+
 msgid "Player %1"
+msgstr ""
+
+msgid "Player 2"
 msgstr ""
 
 msgid "Players"
@@ -6400,6 +6655,9 @@ msgstr "ພອດ"
 msgid "&Port"
 msgstr ""
 
+msgid "_Port"
+msgstr ""
+
 msgid "Portrait"
 msgstr "ບຸກຄົນ"
 
@@ -6411,6 +6669,9 @@ msgstr "Portuguese"
 
 msgid "Position"
 msgstr "ຕຳແໜ່ງ"
+
+msgid "Postal code"
+msgstr "ລະຫັດໄປສະນີ"
 
 msgid "Posterize"
 msgstr "Posterize"
@@ -6453,6 +6714,9 @@ msgstr "ສະແດງຕົວຢ່າງ"
 
 msgid "&Preview"
 msgstr "&ສະແດງຕົວຢ່າງ"
+
+msgid "_Preview"
+msgstr "ສະແດງຕົວ_ຢ່າງ"
 
 msgid "Previews"
 msgstr "ການສະແດງຕົວຢ່າງ"
@@ -6535,6 +6799,9 @@ msgstr "ຄວາມເປັນສ່ວນຕົວ"
 msgid "Private"
 msgstr "ສ່ວນຕົວ"
 
+msgid "Private Key"
+msgstr "ກຸນແຈສ່ວນຕົວ"
+
 msgid "Process"
 msgstr "ປະມວນຜົນ"
 
@@ -6562,6 +6829,9 @@ msgstr "ໂປຣໄຟລ໌"
 msgid "Program"
 msgstr ""
 
+msgid "Programs"
+msgstr ""
+
 msgid "Progress"
 msgstr "ຄວາມຄືບໜ້າ"
 
@@ -6569,6 +6839,9 @@ msgid "Project"
 msgstr "ໂຄງການ"
 
 msgid "&Project"
+msgstr ""
+
+msgid "Project name"
 msgstr ""
 
 msgid "Projects"
@@ -6643,6 +6916,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "ກາຕາ"
 
@@ -6696,6 +6972,9 @@ msgstr ""
 msgid "Quote"
 msgstr "ຄຳອ້າງອີງສັ້ນ"
 
+msgid "Quotes"
+msgstr ""
+
 msgid "R"
 msgstr "R"
 
@@ -6726,6 +7005,9 @@ msgstr "ອັດຕາ"
 msgid "Rating"
 msgstr "ການໃຫ້ຄະແນນ"
 
+msgid "Ratio"
+msgstr "ອັດຕາສ່ວນ"
+
 msgid "Raw"
 msgstr ""
 
@@ -6753,11 +7035,17 @@ msgstr "ພ້ອມແລ້ວ"
 msgid "Ready."
 msgstr "ພ້ອມ."
 
+msgid "Realm"
+msgstr ""
+
 msgid "Reason"
 msgstr "ເຫດຜົນ"
 
 msgid "Reassign"
 msgstr "ກຳນົດໃໝ່"
+
+msgid "Received"
+msgstr "ໄດ້ຮັບ"
 
 msgid "Recent"
 msgstr "ລາຍການຫຼ້າສຸດ"
@@ -6779,6 +7067,9 @@ msgstr "ກຳລັງບັນທຶກ"
 
 msgid "Rectangle"
 msgstr "ສີ່ແຈສາກ"
+
+msgid "Recurrence"
+msgstr ""
 
 msgid "Recursive"
 msgstr "ຕໍ່ເນື່ອງ"
@@ -6909,6 +7200,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr ""
+
 msgid "Rename"
 msgstr "ປ່ຽນຊື່"
 
@@ -6929,6 +7223,9 @@ msgstr ""
 
 msgid "Rename File"
 msgstr ""
+
+msgid "Rendering intent"
+msgstr "ຈຸດປະສົງການສະແດງຜົນ"
 
 msgid "Repeat"
 msgstr "ເຮັດຊ້ຳ"
@@ -6951,11 +7248,20 @@ msgstr ""
 msgid "Replace an existing instance"
 msgstr ""
 
+msgid "Replace With"
+msgstr ""
+
+msgid "Replace with"
+msgstr "ແທນທີ່ດ້ວຍ"
+
 msgid "Replacement"
 msgstr "ການແທນທີ່"
 
 msgid "Reply"
 msgstr "ຕອບກັບ"
+
+msgid "Reply-To"
+msgstr ""
 
 msgid "Report"
 msgstr "ລາຍງານ"
@@ -6974,6 +7280,9 @@ msgstr "&ລາຍງານຂໍ້ຜິດພາດ..."
 
 msgid "Reports"
 msgstr "ລາຍງານ"
+
+msgid "Repository"
+msgstr ""
 
 msgid "Required"
 msgstr "ຈຳເປັນ"
@@ -7086,6 +7395,9 @@ msgstr ""
 msgid "Right-click"
 msgstr ""
 
+msgid "Rights"
+msgstr "ສິດທິ"
+
 msgid "River"
 msgstr "ແມ່ນ້ຳ"
 
@@ -7140,6 +7452,9 @@ msgstr ""
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "ກົດເກນ"
+
 msgid "Rules"
 msgstr ""
 
@@ -7147,6 +7462,9 @@ msgid "Run"
 msgstr "ແລ່ນ"
 
 msgid "&Run"
+msgstr ""
+
+msgid "Run command"
 msgstr ""
 
 msgid "Run in terminal"
@@ -7284,6 +7602,9 @@ msgstr "ບັນທຶກຮູບ"
 msgid "_Save Image As..."
 msgstr "_ບັນທຶກຮູບພາບເປັນ…"
 
+msgid "Save Location"
+msgstr "ຕຳແໜ່ງບັນທຶກ"
+
 msgid "Save Project"
 msgstr "ບັນທຶກໂຄງການ"
 
@@ -7292,6 +7613,9 @@ msgstr ""
 
 msgid "Save Settings"
 msgstr "ການຕັ້ງຄ່າການບັນທຶກ"
+
+msgid "Save to"
+msgstr "ບັນທຶກໄວ້ທີ່"
 
 msgid "Saved"
 msgstr ""
@@ -7323,11 +7647,17 @@ msgstr "ສະແກນ"
 msgid "Scanner"
 msgstr "ເຄື່ອງສະແກນ"
 
+msgid "Scanning"
+msgstr "ການສະແກນ"
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
 msgstr "ຕາຕະລາງ"
+
+msgid "Scheduler"
+msgstr "ຕົວຈັດຕາຕະລາງ"
 
 msgid "Scheduling"
 msgstr ""
@@ -7404,11 +7734,17 @@ msgstr "ຄົ້ນຫາ..."
 msgid "Search Bar"
 msgstr ""
 
+msgid "Search for"
+msgstr ""
+
 msgid "_Search for"
 msgstr ""
 
 msgid "Search for '%1' with"
 msgstr ""
+
+msgid "Search in"
+msgstr "ຄົ້ນຫາໃນ"
 
 msgid "Search Options"
 msgstr "ຕົວເລືອກການຄົ້ນຫາ"
@@ -7512,6 +7848,9 @@ msgstr "ການເລືອກ"
 msgid "Selections"
 msgstr ""
 
+msgid "Self"
+msgstr "ຕົນເອງ"
+
 msgid "Semicolon"
 msgstr ""
 
@@ -7551,6 +7890,9 @@ msgstr "ເຊີເບຍ"
 msgid "Serbian"
 msgstr "Serbian"
 
+msgid "Serial"
+msgstr "Serial"
+
 msgid "Serial Number"
 msgstr "ເລກປະຈຳເຄື່ອງ"
 
@@ -7566,7 +7908,13 @@ msgstr "Serif"
 msgid "Server"
 msgstr "ເຊີບເວີ"
 
+msgid "&Server"
+msgstr "ເຊີບ&ເວີ"
+
 msgid "Server URL"
+msgstr ""
+
+msgid "Servers"
 msgstr ""
 
 msgid "Service"
@@ -7579,6 +7927,9 @@ msgid "Session"
 msgstr "ເຊດຊັນ"
 
 msgid "Session management options"
+msgstr ""
+
+msgid "Session name"
 msgstr ""
 
 msgid "Sessions"
@@ -7610,6 +7961,12 @@ msgstr "ລະດັບຄວາມຮຸນແຮງ"
 
 msgid "Seychelles"
 msgstr "ເຊເຊລ"
+
+msgid "SHA1"
+msgstr ""
+
+msgid "SHA256"
+msgstr ""
 
 msgid "SHA-256"
 msgstr ""
@@ -7649,6 +8006,12 @@ msgstr "ຄວາມຄົມຊັດ"
 
 msgid "Shear"
 msgstr "ບິດ"
+
+msgid "Sheet"
+msgstr ""
+
+msgid "Sheets"
+msgstr "ແຜ່ນ"
 
 msgid "Shell"
 msgstr ""
@@ -7770,6 +8133,9 @@ msgstr "ດ່ຽວ"
 msgid "Sinhala"
 msgstr "Sinhala"
 
+msgid "Site"
+msgstr ""
+
 msgid "Size"
 msgstr "ຂະໜາດ"
 
@@ -7778,6 +8144,9 @@ msgstr ""
 
 msgid "&Size"
 msgstr "&ຂະໜາດ"
+
+msgid "_Size"
+msgstr ""
 
 msgid "Size: %1"
 msgstr "ຂະໜາດ: %1"
@@ -7805,6 +8174,9 @@ msgstr "ແຖບເລື່ອນ"
 
 msgid "Slideshow"
 msgstr "ສະໄລໂຊ"
+
+msgid "Slope"
+msgstr "ຄວາມຊັນ"
 
 msgid "Slovak"
 msgstr "ສະໂລວັກ"
@@ -7860,6 +8232,12 @@ msgstr "ສີດຽວ"
 msgid "Solomon Islands"
 msgstr "ໝູ່ເກາະໂຊໂລມອນ"
 
+msgid "Solution"
+msgstr "ທາດລະລາຍ"
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "ໂຊມາເລຍ"
 
@@ -7877,6 +8255,9 @@ msgstr "ການຈັດລຽງ"
 
 msgid "Sound"
 msgstr "ສຽງ"
+
+msgid "Sounds"
+msgstr ""
 
 msgid "Soundtrack"
 msgstr "ສຽງປະກອບ"
@@ -7946,6 +8327,9 @@ msgstr ""
 
 msgid "Spell Checking"
 msgstr ""
+
+msgid "Spellcheck"
+msgstr "ກວດການສະກົດຄຳ"
 
 msgid "Spelling"
 msgstr "ການສະກົດຄຳ"
@@ -8184,6 +8568,9 @@ msgstr "Sundanese"
 msgid "Sunday"
 msgstr ""
 
+msgid "Sunrise"
+msgstr "ຕາເວັນຂຶ້ນ"
+
 msgid "Super"
 msgstr ""
 
@@ -8240,6 +8627,9 @@ msgstr ""
 
 msgid "Synchronize"
 msgstr "ຊິງຄ໌"
+
+msgid "Syntax"
+msgstr ""
 
 msgid "Syriac"
 msgstr ""
@@ -8302,6 +8692,9 @@ msgid "Tanzania"
 msgstr "ຕັງຊານີ"
 
 msgid "Target"
+msgstr "ເປົ້າໝາຍ"
+
+msgid "Targets"
 msgstr "ເປົ້າໝາຍ"
 
 msgid "Task"
@@ -8417,6 +8810,9 @@ msgstr ""
 msgid "Theme"
 msgstr "ຮູບແບບ"
 
+msgid "&Theme"
+msgstr "&ຮູບແບບ"
+
 msgid "Themes"
 msgstr "ຮູບແບບສີສັນ"
 
@@ -8436,6 +8832,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr ""
+
+msgid "Threads"
+msgstr "ເທຣດ"
 
 msgid "Threshold"
 msgstr "ເກນ"
@@ -8462,6 +8861,9 @@ msgid "Tile"
 msgstr "ກະ​ເບື້ອງ"
 
 msgid "Tiled"
+msgstr ""
+
+msgid "Tiles"
 msgstr ""
 
 msgid "Tilt"
@@ -8512,6 +8914,9 @@ msgstr "&ຫົວຂໍ້"
 msgid "_Title"
 msgstr ""
 
+msgid "Titles"
+msgstr "ຫົວຂໍ້"
+
 msgid "TLS"
 msgstr ""
 
@@ -8535,6 +8940,9 @@ msgstr "TODO"
 
 msgid "Todo"
 msgstr "ສິ່ງທີ່ຕ້ອງເຮັດ"
+
+msgid "To-do"
+msgstr ""
 
 msgid "Toggle Fullscreen"
 msgstr "ສະລັບເຕັມຈໍ"
@@ -8566,6 +8974,9 @@ msgstr "ເຄື່ອງມື"
 msgid "Tool Options"
 msgstr "ຕົວເລືອກເຄື່ອງມື"
 
+msgid "Toolbar"
+msgstr ""
+
 msgid "_Toolbar"
 msgstr ""
 
@@ -8586,6 +8997,9 @@ msgstr "&ເຄື່ອງມື"
 
 msgid "_Tools"
 msgstr "_ເຄື່ອງມື"
+
+msgid "Tooltip"
+msgstr ""
 
 msgid "Top"
 msgstr "ເທິງ"
@@ -8737,11 +9151,17 @@ msgstr ""
 msgid "&Type"
 msgstr "ປະເພດ (&T)"
 
+msgid "_Type"
+msgstr ""
+
 msgid "Type: %1"
 msgstr "ປະເພດ: %1"
 
 msgid "Uganda"
 msgstr "ອູການດາ"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "ຢູເຄຣນ"
@@ -8974,6 +9394,9 @@ msgstr "ໃຊ້ແລ້ວ"
 msgid "User"
 msgstr "ຜູ້ໃຊ້"
 
+msgid "User Agent"
+msgstr "User Agent"
+
 msgid "User Certificate"
 msgstr ""
 
@@ -8998,10 +9421,16 @@ msgstr ""
 msgid "Username"
 msgstr "ຊື່ຜູ້ໃຊ້"
 
+msgid "&Username"
+msgstr "&ຊື່ຜູ້ໃຊ້"
+
 msgid "_Username"
 msgstr ""
 
 msgid "Users"
+msgstr ""
+
+msgid "UTF-8"
 msgstr ""
 
 msgid "Utilities"
@@ -9024,6 +9453,9 @@ msgstr ""
 
 msgid "Valid from"
 msgstr "ມີຜົນຕັ້ງແຕ່"
+
+msgid "Valid until"
+msgstr ""
 
 msgid "Validity"
 msgstr "ຄວາມຖືກຕ້ອງ"
@@ -9057,6 +9489,9 @@ msgstr "ຕົວປ່ຽນ"
 msgid "Variance"
 msgstr "ຄວາມຜັນປ່ຽນ"
 
+msgid "Variant"
+msgstr "ຕົວແປ"
+
 msgid "Vector"
 msgstr "ເວັກເຕີ"
 
@@ -9083,6 +9518,9 @@ msgstr "ເວີຊັນ %1"
 
 msgid "Vertical"
 msgstr "ແນວຕັ້ງ"
+
+msgid "_Vertical"
+msgstr "_ແນວຕັ້ງ"
 
 msgid "Very Large"
 msgstr ""
@@ -9116,6 +9554,9 @@ msgstr "&ມຸມມອງ"
 
 msgid "_View"
 msgstr "_ມຸມມອງ"
+
+msgid "View mode"
+msgstr "ມຸມມອງ"
 
 msgid "View Options"
 msgstr "ຕົວເລືອກມຸມມອງ"
@@ -9276,6 +9717,9 @@ msgstr ""
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
+msgid "Wind"
+msgstr ""
+
 msgid "Window"
 msgstr "ໜ້າຕ່າງ"
 
@@ -9318,11 +9762,17 @@ msgstr ""
 msgid "Word Count"
 msgstr "ຈຳນວນຄຳ"
 
+msgid "Word wrap"
+msgstr "ຕັດແຖວຄຳ"
+
 msgid "Words"
 msgstr "ຄຳສັບ"
 
 msgid "Work"
 msgstr ""
+
+msgid "Workspace"
+msgstr "ພື້ນທີ່ເຮັດວຽກ"
 
 msgid "World"
 msgstr "ໂລກ"
@@ -9362,6 +9812,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "ປີ"
+
+msgid "&Year"
+msgstr "&ປີ"
 
 msgid "Yearly"
 msgstr "ລາຍປີ"
@@ -9422,6 +9875,9 @@ msgstr "&ຂະຫຍາຍ"
 
 msgid "_Zoom"
 msgstr "_ຊູມ"
+
+msgid "Zoom factor"
+msgstr "ອັດຕາການຊູມ"
 
 msgid "Zoom In"
 msgstr "ຂະຫຍາຍເຂົ້າ"

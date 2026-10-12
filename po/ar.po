@@ -82,9 +82,6 @@ msgstr " و "
 msgid " (default)"
 msgstr " (المبدئيّ)"
 
-msgid "© KDE Community"
-msgstr "© مجتمع كِيدِي"
-
 msgid " MB"
 msgstr " م.بايت"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "آ"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "الملفّ بالاسم \"%1\" موجود فعلًا. أمتأكّد من الكتابة فوقه؟"
 
@@ -355,17 +355,20 @@ msgstr "_عن"
 msgid "About %1"
 msgstr "حول %1"
 
-msgid "About KDE"
-msgstr "عن كِيدِي"
-
 msgid "Abstract"
 msgstr "تخيل"
+
+msgid "Acceleration"
+msgstr "التسارع"
 
 msgid "Accept"
 msgstr "اقبل"
 
 msgid "Accepted"
 msgstr "قُبلت"
+
+msgid "Access"
+msgstr "الوصول"
 
 msgid "Accessed"
 msgstr "وُصِل إليه"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr "معلومات الحساب"
 
 msgid "Account Name"
+msgstr "اسم الحساب"
+
+msgid "Account name"
 msgstr "اسم الحساب"
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "أبجديًا"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "البديل"
+
 msgid "Alternative"
 msgstr "بديل"
 
@@ -712,8 +721,14 @@ msgstr "الشروح"
 msgid "Anonymous"
 msgstr "مجهّل"
 
+msgid "Answer"
+msgstr "الإجابة"
+
 msgid "Antarctica"
 msgstr "أنتاركتيكا"
+
+msgid "Antialiasing"
+msgstr "التنعيم"
 
 msgid "Any"
 msgstr "أيّ"
@@ -883,6 +898,9 @@ msgstr "الاستيثاق مطلوب"
 msgid "Author"
 msgstr "المؤلف"
 
+msgid "Author name"
+msgstr "اسم المؤلف"
+
 msgid "Authors"
 msgstr "المؤلفون"
 
@@ -928,6 +946,9 @@ msgstr "الأذربيجانية"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&عُد"
 msgid "_Back"
 msgstr "_خلف"
 
+msgid "Backend"
+msgstr "التتبّع الخلفي"
+
 msgid "Background"
 msgstr "الخلفية"
+
+msgid "&Background"
+msgstr "ال&خلفية"
 
 msgid "Background Color"
 msgstr "لون الخلفيّة"
@@ -951,6 +978,9 @@ msgstr "لون الخلفية"
 
 msgid "&Background color"
 msgstr "لون ال&خلفية"
+
+msgid "Background image"
+msgstr "صورة الخلفية"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "متوازن"
 
 msgid "Baltic"
 msgstr "بلطيقي"
+
+msgid "Bandwidth"
+msgstr "عرض النطاق"
 
 msgid "Bangladesh"
 msgstr "بنجلاديش"
@@ -999,6 +1032,9 @@ msgstr "الجهير"
 
 msgid "Battery"
 msgstr "البطارية"
+
+msgid "BCC"
+msgstr "ن‌ك‌ع"
 
 msgid "Bcc"
 msgstr "ن‌ك‌ع"
@@ -1156,23 +1192,8 @@ msgstr "الفرع"
 msgid "Brazil"
 msgstr "البرازيل"
 
-msgid "Breeze"
-msgstr "نسيم"
-
-msgid "Breeze by the KDE VDG"
-msgstr "نسيم من مجموعة تصميم كِيدِي"
-
-msgid "Breeze Dark"
-msgstr "نسيم داكن"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "نسيم داكن من من مجموعة تصميم كِيدِي"
-
 msgid "Breton"
 msgstr "البروطونية"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "جسر"
@@ -1309,18 +1330,6 @@ msgstr "أ&لغِ"
 msgid "Canceled"
 msgstr "أُلغي"
 
-msgid "Cancelled"
-msgstr "أُلغيت"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "تعذّر تمرير مسار المستند إلى مُدخلة سطح مكتب من نوع 'Type=Link'1"
-
 msgid "Canvas"
 msgstr "الرقع"
 
@@ -1339,14 +1348,14 @@ msgstr "كبّر أوّل حرف"
 msgid "Caps Lock is on"
 msgstr "مفتاح Caps Lock مفعّل"
 
+msgid "Caption"
+msgstr "الوصف"
+
 msgid "Capture"
 msgstr "التقط"
 
 msgid "Car"
 msgstr "سيارة"
-
-msgid "Carsten Pfeiffer"
-msgstr "كارستن فايفر"
 
 msgid "Cascade"
 msgstr "تتالي"
@@ -1435,6 +1444,9 @@ msgstr "غيّر..."
 msgid "Changed"
 msgstr "مُغير"
 
+msgid "Changes"
+msgstr "التغييرات"
+
 msgid "Channel"
 msgstr "القناة"
 
@@ -1452,6 +1464,9 @@ msgstr "الفصول"
 
 msgid "Character"
 msgstr "المحارف"
+
+msgid "Character set"
+msgstr "طقم المحارف"
 
 msgid "Characters"
 msgstr "الحروف"
@@ -1684,6 +1699,9 @@ msgstr "مخطّط الألوان"
 msgid "Color Space"
 msgstr "الفضاء اللونيّ"
 
+msgid "Color space"
+msgstr "الفضاء اللونيّ"
+
 msgid "Color theme"
 msgstr "سمة الألوان"
 
@@ -1705,14 +1723,8 @@ msgstr "الأعمدة"
 msgid "Comma"
 msgstr "فاصلة"
 
-msgid "COMMAND"
-msgstr "أمر"
-
 msgid "Command"
 msgstr "الأمر"
-
-msgid "command"
-msgstr "أمر"
 
 msgid "Command Line"
 msgstr "سطر الأوامر"
@@ -1726,6 +1738,9 @@ msgstr "الأوامر"
 msgid "Comment"
 msgstr "تعليق"
 
+msgid "comment"
+msgstr "التعليق"
+
 msgid "Comments"
 msgstr "تعليقات"
 
@@ -1735,11 +1750,17 @@ msgstr "أوْدِعْ"
 msgid "Common"
 msgstr "شائع"
 
+msgid "Common Name"
+msgstr "الاسم الشائع"
+
 msgid "Comoros"
 msgstr "جزر القمر"
 
 msgid "Compact"
 msgstr "مُدمج"
+
+msgid "Company"
+msgstr "الشركة"
 
 msgid "Compare"
 msgstr "قارن"
@@ -1777,6 +1798,9 @@ msgstr "الحاسوب"
 msgid "Condition"
 msgstr "الشّرط"
 
+msgid "Conditions"
+msgstr "الشروط"
+
 msgid "Confidential"
 msgstr "سري"
 
@@ -1807,6 +1831,9 @@ msgstr "اضبط اختصارات الوبّ…"
 msgid "Confirm"
 msgstr "أكد"
 
+msgid "Confirm Password"
+msgstr "اكتبها ثانية"
+
 msgid "Confirmation"
 msgstr "تأكيد"
 
@@ -1818,6 +1845,9 @@ msgstr "أُكّد"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "تضارب مع اختصار تطبيق قياسي"
+
+msgid "Conflicts"
+msgstr "التعارضات"
 
 msgid "Connect"
 msgstr "اتّصل"
@@ -1843,6 +1873,9 @@ msgstr "فشل الاتّصال"
 msgid "Connection Settings"
 msgstr "إعدادات الاتّصال"
 
+msgid "Connection type"
+msgstr "نوع الاتصال"
+
 msgid "Connections"
 msgstr "الاتصالات"
 
@@ -1851,9 +1884,6 @@ msgstr "الطرفية"
 
 msgid "Constant"
 msgstr "ثابت"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "المتراسل"
@@ -1867,13 +1897,13 @@ msgstr "الحاوية"
 msgid "Contains"
 msgstr "يحتوي"
 
-msgid "contains"
-msgstr "يحتوي"
-
 msgid "Content"
 msgstr "المحتوى"
 
 msgid "Content Type"
+msgstr "نوع المحتوى"
+
+msgid "Content type"
 msgstr "نوع المحتوى"
 
 msgid "Contents"
@@ -1897,11 +1927,17 @@ msgstr "التباين"
 msgid "Contributor"
 msgstr "مساهم"
 
+msgid "Contributors"
+msgstr "المساهمون"
+
 msgid "Control"
 msgstr "Control"
 
 msgid "Convert"
 msgstr "حوّل"
+
+msgid "Convert to"
+msgstr "حوّل إلى"
 
 msgid "Convert to Path"
 msgstr "حوّل إلى المسار"
@@ -1919,9 +1955,6 @@ msgid "Coptic"
 msgstr "قبطي"
 
 msgid "Copy"
-msgstr "انسخ"
-
-msgid "copy"
 msgstr "انسخ"
 
 msgid "&Copy"
@@ -1975,6 +2008,9 @@ msgstr "ينسخ الملفّات"
 msgid "Copyright"
 msgstr "حقوق النسخ"
 
+msgid "Correct"
+msgstr "الصح"
+
 msgid "Cost"
 msgstr "كلفة"
 
@@ -1998,6 +2034,9 @@ msgstr "البلد"
 
 msgid "CPU"
 msgstr "المعالج"
+
+msgid "CPU usage"
+msgstr "استخدام المعالج"
 
 msgid "Create"
 msgstr "أنشئ"
@@ -2026,6 +2065,9 @@ msgstr "المُنشئ"
 msgid "Credentials"
 msgstr "المؤهّلات"
 
+msgid "Credit"
+msgstr "إشادات"
+
 msgid "Credits"
 msgstr "إشادات"
 
@@ -2052,15 +2094,6 @@ msgstr "صليب"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+O"
 
 msgid "Cuba"
 msgstr "كوبا"
@@ -2089,8 +2122,14 @@ msgstr "منحنيات"
 msgid "Custom"
 msgstr "مخصّص"
 
+msgid "&Custom"
+msgstr "م&خصّص"
+
 msgid "Custom..."
 msgstr "مخصّص..."
+
+msgid "Custom color"
+msgstr "لون مخصّص"
 
 msgid "Custom Font"
 msgstr "خط مخصّص"
@@ -2164,6 +2203,9 @@ msgstr "البيانات"
 msgid "Database"
 msgstr "قاعدة بيانات"
 
+msgid "Database name"
+msgstr "اسم قاعدة البيانات"
+
 msgid "Date"
 msgstr "التاريخ"
 
@@ -2179,14 +2221,20 @@ msgstr "التاريخ والوقت"
 msgid "Date Format"
 msgstr "نسق التّاريخ"
 
+msgid "Date format"
+msgstr "نسق التّاريخ"
+
 msgid "Date Modified"
 msgstr "تاريخ التعديل"
 
-msgid "David Edmundson"
-msgstr "ديفيد إدموندسون"
+msgid "Date/Time"
+msgstr "التّاريخ والوقت"
 
 msgid "Day"
 msgstr "اليوم"
+
+msgid "day"
+msgstr "يوم"
 
 msgid "Days"
 msgstr "الأيام"
@@ -2235,6 +2283,9 @@ msgstr "المبدئيّ"
 
 msgid "default"
 msgstr "مبدئي"
+
+msgid "Default value"
+msgstr "القيمة المبدئية"
 
 msgid "Defaults"
 msgstr "المبدئيات"
@@ -2311,6 +2362,9 @@ msgstr "الكثافة"
 msgid "Deny"
 msgstr "امنع"
 
+msgid "Department"
+msgstr "القسم"
+
 msgid "Dependencies"
 msgstr "الاعتماديّات"
 
@@ -2343,6 +2397,12 @@ msgstr "سطح المكتب"
 
 msgid "Destination"
 msgstr "المقصد"
+
+msgid "Destination Folder"
+msgstr "المجلّد المقصد"
+
+msgid "Destination folder"
+msgstr "المجلّد المقصد"
 
 msgid "Detach"
 msgstr "افصل"
@@ -2515,6 +2575,9 @@ msgstr "إذابة"
 msgid "Distance"
 msgstr "المسافة"
 
+msgid "Distribution"
+msgstr "التوزيع"
+
 msgid "Divide"
 msgstr "قسمة"
 
@@ -2569,11 +2632,11 @@ msgstr "المستندات"
 msgid "does not contain"
 msgstr "لا يحتوي"
 
-msgid "Dolphin"
-msgstr "دولفين"
-
 msgid "Domain"
 msgstr "المجال"
+
+msgid "_Domain"
+msgstr "ال_نطاق"
 
 msgid "Dominica"
 msgstr "دومينيكا"
@@ -2677,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "حركي"
+
 msgid "E"
 msgstr "شر"
 
@@ -2728,6 +2794,9 @@ msgstr "حرّر الصورة"
 msgid "Editing"
 msgstr "التّحرير"
 
+msgid "Edition"
+msgstr "الإصدارة"
+
 msgid "Editor"
 msgstr "المحرّر"
 
@@ -2743,9 +2812,6 @@ msgstr "مصر"
 msgid "Egyptian"
 msgstr "مصري"
 
-msgid "Eike Hein"
-msgstr "إيكي هين"
-
 msgid "Eject"
 msgstr "أخرِج"
 
@@ -2755,17 +2821,29 @@ msgstr "أ_خرج"
 msgid "El Salvador"
 msgstr "السلفادور"
 
+msgid "Elapsed Time"
+msgstr "الوقت المنقضي"
+
 msgid "Electronic"
 msgstr "إلكتروني"
 
 msgid "Element"
 msgstr "عنصر"
 
+msgid "Elements"
+msgstr "العناصر"
+
 msgid "Ellipse"
 msgstr "بيضاوي"
 
+msgid "EMail"
+msgstr "البريد الإلكترونيّ"
+
 msgid "Email"
 msgstr "البريد الإلكترونيّ"
+
+msgid "E-Mail"
+msgstr "البريد الإلكتروني"
 
 msgid "E-mail"
 msgstr "البريد الإلكتروني"
@@ -2845,6 +2923,9 @@ msgstr "النهاية"
 msgid "End Date"
 msgstr "تاريخ الانتهاء"
 
+msgid "End date"
+msgstr "تاريخ النهاية"
+
 msgid "End Time"
 msgstr "وقت النهاية"
 
@@ -2866,8 +2947,14 @@ msgstr "الإنجليزية"
 msgid "Enter"
 msgstr "أدخل"
 
+msgid "Enter name"
+msgstr "أدخل الاسم"
+
 msgid "Enter password"
 msgstr "أدخل كلمة السر"
+
+msgid "Entries"
+msgstr "المدخلات"
 
 msgid "Entry"
 msgstr "المدخلة"
@@ -2941,6 +3028,9 @@ msgstr "الحدث"
 msgid "Events"
 msgstr "الأحداث"
 
+msgid "Every"
+msgstr "كل"
+
 msgid "Everyone"
 msgstr "الكلّ"
 
@@ -2958,6 +3048,9 @@ msgstr "أمثلة"
 
 msgid "Exception"
 msgstr "استثناء"
+
+msgid "Exceptions"
+msgstr "الاستثناءات"
 
 msgid "Exclude"
 msgstr "استثنِ"
@@ -2992,11 +3085,17 @@ msgstr "وسّع الكل"
 msgid "Experimental"
 msgstr "تجريبي"
 
+msgid "Expiration"
+msgstr "انتهاء الصلاحية"
+
 msgid "Expired"
 msgstr "منتهي"
 
 msgid "Expires"
 msgstr "تاريخ انتهاء الصلاحية"
+
+msgid "Expires On"
+msgstr "تنتهي يوم"
 
 msgid "Export"
 msgstr "صدّر"
@@ -3031,6 +3130,9 @@ msgstr "خيارات التّصدير"
 msgid "Exposure"
 msgstr "التّعريض"
 
+msgid "Exposure Time"
+msgstr "زمن التعرض"
+
 msgid "Expression"
 msgstr "عبارة"
 
@@ -3051,6 +3153,9 @@ msgstr "استخرج"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "نسج"
 
 msgid "Facebook"
 msgstr "فيسبوك"
@@ -3109,6 +3214,12 @@ msgstr "فيليبي كينوشيتا"
 msgid "Fetch"
 msgstr "اجلب"
 
+msgid "Field"
+msgstr "الحقل"
+
+msgid "Fields"
+msgstr "الحقول"
+
 msgid "Fiji"
 msgstr "فيجي"
 
@@ -3141,6 +3252,9 @@ msgstr "الملف موجود"
 
 msgid "File Format"
 msgstr "نسق الملفّ"
+
+msgid "File format"
+msgstr "تنسيق الملف"
 
 msgid "File is not a valid .desktop file"
 msgstr "الملف ليس ملف .desktop صالح"
@@ -3201,6 +3315,9 @@ msgstr "لون التعبئة"
 
 msgid "Filter"
 msgstr "المرشّح"
+
+msgid "&Filter"
+msgstr "المر&شّح"
 
 msgid "Filter..."
 msgstr "رشّح..."
@@ -3265,6 +3382,9 @@ msgstr "الفنلنديّة"
 msgid "First"
 msgstr "الأول"
 
+msgid "First Name"
+msgstr "الاسم الأول"
+
 msgid "First Page"
 msgstr "الصفحة الأولى"
 
@@ -3325,6 +3445,9 @@ msgstr "زهرة"
 msgid "Focal Length"
 msgstr "طول البؤرة"
 
+msgid "Focal length"
+msgstr "الطّول البؤريّ"
+
 msgid "Focus"
 msgstr "التركيز"
 
@@ -3346,6 +3469,9 @@ msgstr "الخط"
 msgid "&Font"
 msgstr "ال&خط"
 
+msgid "_Font"
+msgstr "ال_خط"
+
 msgid "Font Color"
 msgstr "لون الخط"
 
@@ -3357,6 +3483,12 @@ msgstr "حجم الخط"
 
 msgid "Font size"
 msgstr "حجم الخط"
+
+msgid "Font Style"
+msgstr "نمط الخط"
+
+msgid "Font style"
+msgstr "نمط الخطّ"
 
 msgid "Fonts"
 msgstr "الخطوط"
@@ -3394,6 +3526,12 @@ msgstr "استمارة"
 msgid "Format"
 msgstr "التنسيق"
 
+msgid "&Format"
+msgstr "ال&تنسيق"
+
+msgid "_Format"
+msgstr "_هيّء"
+
 msgid "Formatting"
 msgstr "التنسيق"
 
@@ -3420,6 +3558,12 @@ msgstr "كسر"
 
 msgid "Frame"
 msgstr "إطار"
+
+msgid "Frame Rate"
+msgstr "معدل الإطارات"
+
+msgid "Frame rate"
+msgstr "معدّل الإطارات"
 
 msgid "Framerate"
 msgstr "معدّل الإطارات"
@@ -3464,6 +3608,9 @@ msgid "Full"
 msgstr "كامل"
 
 msgid "Full Name"
+msgstr "الاسم الكامل"
+
+msgid "Full name"
 msgstr "الاسم الكامل"
 
 msgid "Full Screen"
@@ -3531,6 +3678,9 @@ msgstr "بوابة"
 
 msgid "Gateway"
 msgstr "البوّابة"
+
+msgid "_Gateway"
+msgstr "ال_بوّابة"
 
 msgid "Gaussian Blur"
 msgstr "غشاوة غوسية"
@@ -3652,6 +3802,9 @@ msgstr "اذهب إلى الصفحة السابقة"
 msgid "Goa"
 msgstr "غوا"
 
+msgid "Goal"
+msgstr "الهدف"
+
 msgid "Gold"
 msgstr "الذهب"
 
@@ -3706,6 +3859,9 @@ msgstr "رمادي"
 msgid "Grid"
 msgstr "الشبكة"
 
+msgid "&Grid"
+msgstr "&شبكة"
+
 msgid "Group"
 msgstr "المجموعة"
 
@@ -3751,6 +3907,9 @@ msgstr "صعب"
 msgid "Hardware"
 msgstr "العتاد"
 
+msgid "Hash"
+msgstr "التلبيدة"
+
 msgid "Hawaiian"
 msgstr "الهاواي"
 
@@ -3792,6 +3951,9 @@ msgstr "الارتفاع"
 
 msgid "&Height"
 msgstr "الار&تفاع"
+
+msgid "_Height"
+msgstr "الا_رتفاع"
 
 msgid "Help"
 msgstr "مساعدة"
@@ -3837,6 +3999,9 @@ msgstr "عالي"
 
 msgid "Highlight"
 msgstr "إبراز"
+
+msgid "Highlight color"
+msgstr "لون الإبراز"
 
 msgid "Highlighter"
 msgstr "قلم التحديد"
@@ -3889,8 +4054,17 @@ msgstr "هونغ كونغ"
 msgid "Horizontal"
 msgstr "أفقي"
 
+msgid "_Horizontal"
+msgstr "أ_فقي"
+
+msgid "Horizontally"
+msgstr "أفقيًّا"
+
 msgid "Host"
 msgstr "المضيف"
+
+msgid "Host Name"
+msgstr "اسم المضيف"
 
 msgid "Hostname"
 msgstr "اسم المضيف"
@@ -3970,6 +4144,9 @@ msgstr "المعرّف"
 msgid "id"
 msgstr "المعرّف"
 
+msgid "Identification"
+msgstr "التعريف"
+
 msgid "Identifier"
 msgstr "المعرف"
 
@@ -4023,6 +4200,12 @@ msgstr "إعدادات الصورة"
 
 msgid "Image Size"
 msgstr "حجم الصورة"
+
+msgid "Image size"
+msgstr "حجم الصورة"
+
+msgid "Image type"
+msgstr "نوع الصورة"
 
 msgid "Image Viewer"
 msgstr "عارض الصّور"
@@ -4099,6 +4282,9 @@ msgstr "زد الإزاحة"
 msgid "Increase Volume"
 msgstr "زد الصوت"
 
+msgid "Increment"
+msgstr "الزيادة"
+
 msgid "Incremental"
 msgstr "تزايدي"
 
@@ -4110,6 +4296,9 @@ msgstr "الدليل"
 
 msgid "Indexed"
 msgstr "مفهرس"
+
+msgid "Indexing"
+msgstr "الفهرسة"
 
 msgid "India"
 msgstr "الهند"
@@ -4173,6 +4362,9 @@ msgstr "يثبّت"
 
 msgid "Instant"
 msgstr "فوري"
+
+msgid "Instructions"
+msgstr "التعليمات"
 
 msgid "Integer"
 msgstr "عدد صحيح"
@@ -4261,11 +4453,17 @@ msgstr "الإيرلنديّة"
 msgid "is"
 msgstr "هو"
 
+msgid "ISBN"
+msgstr "ردمك"
+
 msgid "Israel"
 msgstr "إسرائيل"
 
 msgid "Issued By"
 msgstr "المانح"
+
+msgid "Issued On"
+msgstr "مُنحت يوم"
 
 msgid "Issuer"
 msgstr "المُصدِر"
@@ -4363,9 +4561,6 @@ msgstr "ك"
 msgid "Kannada"
 msgstr "الكنادا"
 
-msgid "Kate"
-msgstr "كيت"
-
 msgid "Kazakh"
 msgstr "الكازاخستانية"
 
@@ -4374,18 +4569,6 @@ msgstr "كازاخستان"
 
 msgid "kB"
 msgstr "ك.بايت"
-
-msgid "KDE"
-msgstr "كِيدِي"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "فيليبي كينوشيتا، مجتمع كيدي"
-
-msgid "KDE Connect"
-msgstr "جسر كِيدِي"
-
-msgid "KDevelop"
-msgstr "مطوّرك"
 
 msgid "Keep"
 msgstr "أبقِ"
@@ -4450,26 +4633,11 @@ msgstr "كيريباتي"
 msgid "km"
 msgstr "كم"
 
-msgid "KMail"
-msgstr "بريدك"
-
-msgid "Konqueror"
-msgstr "كنكر"
-
-msgid "Konsole"
-msgstr "كونسول"
-
 msgid "Korean"
 msgstr "الكورية"
 
-msgid "KOrganizer"
-msgstr "منظّمك"
-
 msgid "Kuwait"
 msgstr "الكويت"
-
-msgid "KWin"
-msgstr "كوين"
 
 msgid "L"
 msgstr "L"
@@ -4488,6 +4656,9 @@ msgstr "عرضي"
 
 msgid "Language"
 msgstr "اللغة"
+
+msgid "&Language"
+msgstr "الل&غة"
 
 msgid "_Language"
 msgstr "ال_لغة"
@@ -4509,6 +4680,12 @@ msgstr "الأخير"
 
 msgid "Last Modified"
 msgstr "آخر تعديل"
+
+msgid "Last modified"
+msgstr "آخر تعديل"
+
+msgid "Last Name"
+msgstr "الاسم الأخير"
 
 msgid "LaTeX"
 msgstr "لاتخ"
@@ -4621,8 +4798,20 @@ msgstr "كاسر أسطر"
 msgid "Line Color"
 msgstr "لون الخطّ"
 
+msgid "Line Count"
+msgstr "عدد الأسطر"
+
 msgid "Line Numbers"
 msgstr "أرقام الأسطر"
+
+msgid "Line spacing"
+msgstr "تباعد الأسطر"
+
+msgid "Line Style"
+msgstr "نمط الخطّ"
+
+msgid "Line style"
+msgstr "نمط الخط"
 
 msgid "Line Width"
 msgstr "عرض الخطّ"
@@ -4641,6 +4830,9 @@ msgstr "رابط"
 
 msgid "link"
 msgstr "رابط"
+
+msgid "Link Text"
+msgstr "نصّ الرّابط"
 
 msgid "Link URL"
 msgstr "مسار الرّابط"
@@ -4740,6 +4932,9 @@ msgstr "ولوج"
 
 msgid "_Login"
 msgstr "و_لوج"
+
+msgid "Logo"
+msgstr "الشّعار"
 
 msgid "Logout"
 msgstr "اخرج"
@@ -4936,6 +5131,9 @@ msgstr "كبّر"
 msgid "Maximum"
 msgstr "الحد الأعلى"
 
+msgid "Maximum width"
+msgstr "أقصى عرض"
+
 msgid "May"
 msgstr "مايو"
 
@@ -4990,6 +5188,9 @@ msgstr "الرسالة"
 msgid "message"
 msgstr "رسالة"
 
+msgid "&Message"
+msgstr "ر&سالة"
+
 msgid "Messages"
 msgstr "الرسائل"
 
@@ -5001,6 +5202,9 @@ msgstr "البيانات الوصفيّة"
 
 msgid "Metal"
 msgstr "معدن"
+
+msgid "Metering Mode"
+msgstr "نمط القياس"
 
 msgid "meters"
 msgstr "أمتار"
@@ -5040,6 +5244,9 @@ msgstr "ملي ثانية"
 
 msgid "milliseconds"
 msgstr "ميلي ثانية"
+
+msgid "MIME type"
+msgstr "نوع MIME"
 
 msgid "Min"
 msgstr "الأدنى"
@@ -5086,8 +5293,14 @@ msgstr "مم"
 msgid "Mobile"
 msgstr "المحمول"
 
+msgid "Mobile Phone"
+msgstr "هاتف محمول"
+
 msgid "Mode"
 msgstr "الوضع"
+
+msgid "_Mode"
+msgstr "ال_طور"
 
 msgid "Model"
 msgstr "الطّراز"
@@ -5184,6 +5397,9 @@ msgstr "المغرب"
 
 msgid "Mount"
 msgstr "صِل"
+
+msgid "Mount Point"
+msgstr "نقطة الوصل"
 
 msgid "Mount point"
 msgstr "نقطة الضم"
@@ -5323,6 +5539,9 @@ msgstr "الإ_سم"
 msgid "Name: %1"
 msgstr "الاسم: %1"
 
+msgid "Names"
+msgstr "الأسماء"
+
 msgid "Namespace"
 msgstr "نطاق الأسماء"
 
@@ -5352,6 +5571,9 @@ msgstr "النيبالية"
 
 msgid "Netherlands"
 msgstr "هولندا"
+
+msgid "Netmask"
+msgstr "قناع الشّبكة"
 
 msgid "Network"
 msgstr "الشبكة"
@@ -5563,6 +5785,9 @@ msgstr "لا موضوع"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "عقدة"
+
 msgid "Noise"
 msgstr "الضجيج"
 
@@ -5689,6 +5914,9 @@ msgstr "رقم"
 msgid "Number of columns"
 msgstr "عدد الأعمدة"
 
+msgid "Number of rows"
+msgstr "عدد الصفوف"
+
 msgid "Numbers"
 msgstr "الأرقام"
 
@@ -5745,9 +5973,6 @@ msgstr "&موافق"
 
 msgid "_OK"
 msgstr "_موافق"
-
-msgid "Okular"
-msgstr "اوكلار"
 
 msgid "Oman"
 msgstr "سلطنة عمان"
@@ -5899,6 +6124,9 @@ msgstr "خريطة الشّوارع المفتوحة"
 msgid "Opera"
 msgstr "أوبرا"
 
+msgid "Operating System"
+msgstr "نظام التشغيل"
+
 msgid "Operation"
 msgstr "العملية"
 
@@ -5910,6 +6138,9 @@ msgstr "العمليات"
 
 msgid "Operator"
 msgstr "المشغّل"
+
+msgid "Operators"
+msgstr "العمليات"
 
 msgid "Optical Character Recognition"
 msgstr "تعرّف بصري على المحارف"
@@ -5968,6 +6199,9 @@ msgstr "الحجم الأصليّ"
 msgid "Oriya"
 msgstr "الأوريا"
 
+msgid "OS"
+msgstr "نظام التشغيل"
+
 msgid "Other"
 msgstr "أخرى"
 
@@ -5981,6 +6215,9 @@ msgid "Other Application..."
 msgstr "تطبيق آخر..."
 
 msgid "Other Options"
+msgstr "خيارات أخرى"
+
+msgid "Other options"
 msgstr "خيارات أخرى"
 
 msgid "Others"
@@ -6124,6 +6361,9 @@ msgstr "والدان"
 msgid "Partition"
 msgstr "القسم"
 
+msgid "Passphrase"
+msgstr "عبارة السر"
+
 msgid "Password"
 msgstr "كلمة السّر"
 
@@ -6162,6 +6402,9 @@ msgstr "المسارات"
 
 msgid "Pattern"
 msgstr "النمط"
+
+msgid "_Pattern"
+msgstr "ال_نمط"
 
 msgid "Patterns"
 msgstr "النّقوش"
@@ -6247,8 +6490,14 @@ msgstr "الفلبين"
 msgid "Phone"
 msgstr "الهاتف"
 
+msgid "Phone Numbers"
+msgstr "أرقام الهاتف"
+
 msgid "Photo"
 msgstr "صورة"
+
+msgid "Photos"
+msgstr "صور"
 
 msgid "PHP Documentation"
 msgstr "توثيق بي اتش بي"
@@ -6270,6 +6519,9 @@ msgstr "المعرف"
 
 msgid "Pie"
 msgstr "فطيرة"
+
+msgid "PIN"
+msgstr "الرمز"
 
 msgid "Pin"
 msgstr "دبوس"
@@ -6298,9 +6550,6 @@ msgstr "نصّ صِرف"
 msgid "Plan"
 msgstr "المُخطِط"
 
-msgid "Plasma"
-msgstr "بلازما"
-
 msgid "Platform"
 msgstr "المنصّة"
 
@@ -6319,8 +6568,14 @@ msgstr "تشغيل"
 msgid "Player"
 msgstr "اللاعب"
 
+msgid "Player 1"
+msgstr "اللاعب 1"
+
 msgid "Player %1"
 msgstr "اللاعب %1"
+
+msgid "Player 2"
+msgstr "اللاعب 2"
 
 msgid "Players"
 msgstr "اللاعبون"
@@ -6400,6 +6655,9 @@ msgstr "المنفذ"
 msgid "&Port"
 msgstr "ال&منفذ"
 
+msgid "_Port"
+msgstr "المنفذ"
+
 msgid "Portrait"
 msgstr "طولي"
 
@@ -6411,6 +6669,9 @@ msgstr "البرتغالية"
 
 msgid "Position"
 msgstr "الموضع"
+
+msgid "Postal code"
+msgstr "الرمز البريدي"
 
 msgid "Posterize"
 msgstr "قلل الألوان"
@@ -6453,6 +6714,9 @@ msgstr "معاينة"
 
 msgid "&Preview"
 msgstr "&عاين"
+
+msgid "_Preview"
+msgstr "م_عاينة"
 
 msgid "Previews"
 msgstr "المعاينات"
@@ -6535,6 +6799,9 @@ msgstr "الخصوصية"
 msgid "Private"
 msgstr "خاص"
 
+msgid "Private Key"
+msgstr "المفتاح الخاصّ"
+
 msgid "Process"
 msgstr "العمليّة"
 
@@ -6562,6 +6829,9 @@ msgstr "التّشكيلات"
 msgid "Program"
 msgstr "البرنامج"
 
+msgid "Programs"
+msgstr "البرامج"
+
 msgid "Progress"
 msgstr "التّقدّم"
 
@@ -6570,6 +6840,9 @@ msgstr "المشروع"
 
 msgid "&Project"
 msgstr "م&شروع"
+
+msgid "Project name"
+msgstr "اسم المشروع"
 
 msgid "Projects"
 msgstr "المشاريع"
@@ -6643,6 +6916,9 @@ msgstr "بكسل"
 msgid "Python"
 msgstr "بيثون"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "قطر"
 
@@ -6697,6 +6973,9 @@ msgstr "ينهي التَّطبيق"
 msgid "Quote"
 msgstr "اقتباس"
 
+msgid "Quotes"
+msgstr "علامات الاقتباس"
+
 msgid "R"
 msgstr "R"
 
@@ -6727,6 +7006,9 @@ msgstr "المعدل"
 msgid "Rating"
 msgstr "التّقييم"
 
+msgid "Ratio"
+msgstr "النسبة"
+
 msgid "Raw"
 msgstr "خام"
 
@@ -6754,11 +7036,17 @@ msgstr "جاهز"
 msgid "Ready."
 msgstr "جاهز."
 
+msgid "Realm"
+msgstr "المجال"
+
 msgid "Reason"
 msgstr "السبب"
 
 msgid "Reassign"
 msgstr "أعد التعيين"
+
+msgid "Received"
+msgstr "المُستلَم"
 
 msgid "Recent"
 msgstr "الحديثة"
@@ -6780,6 +7068,9 @@ msgstr "يسجّل"
 
 msgid "Rectangle"
 msgstr "مستطيل"
+
+msgid "Recurrence"
+msgstr "التكرار"
 
 msgid "Recursive"
 msgstr "تكراريّ"
@@ -6910,6 +7201,9 @@ msgstr "احذف العنصر المحدد من شريط الأدوات"
 msgid "Remove the selected toolbar"
 msgstr "احذف شريط الأدوات المحدد"
 
+msgid "Removing"
+msgstr "يزيل"
+
 msgid "Rename"
 msgstr "غيّر الاسم"
 
@@ -6930,6 +7224,9 @@ msgstr "غير اسم العلامة"
 
 msgid "Rename File"
 msgstr "أعِد تسمية الملف"
+
+msgid "Rendering intent"
+msgstr "تجسيد اللون"
 
 msgid "Repeat"
 msgstr "التكرار"
@@ -6952,11 +7249,20 @@ msgstr "استبدل ال_كل"
 msgid "Replace an existing instance"
 msgstr "استبدل نسخة موجودة"
 
+msgid "Replace With"
+msgstr "استبدل بـ"
+
+msgid "Replace with"
+msgstr "استبدل بـ"
+
 msgid "Replacement"
 msgstr "الاستبدال"
 
 msgid "Reply"
 msgstr "ردّ"
+
+msgid "Reply-To"
+msgstr "ردّ على: "
 
 msgid "Report"
 msgstr "بلّغ"
@@ -6975,6 +7281,9 @@ msgstr "أ&بلغ عن علّة…"
 
 msgid "Reports"
 msgstr "التقارير"
+
+msgid "Repository"
+msgstr "المستودع"
 
 msgid "Required"
 msgstr "مطلوب"
@@ -7087,6 +7396,9 @@ msgstr "من اليمين إلى اليسار"
 msgid "Right-click"
 msgstr "النقر باليمين"
 
+msgid "Rights"
+msgstr "الحقوق"
+
 msgid "River"
 msgstr "نهر"
 
@@ -7141,6 +7453,9 @@ msgstr "الصفوف"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "القاعدة"
+
 msgid "Rules"
 msgstr "القواعد"
 
@@ -7149,6 +7464,9 @@ msgstr "شغّل"
 
 msgid "&Run"
 msgstr "&شغّل"
+
+msgid "Run command"
+msgstr "نفّذ أمرًا"
 
 msgid "Run in terminal"
 msgstr "شغّل في الطرفية"
@@ -7285,6 +7603,9 @@ msgstr "احفظ الصّورة"
 msgid "_Save Image As..."
 msgstr "ا_حفظ الصورة ك‍…"
 
+msgid "Save Location"
+msgstr "مكان الحفظ"
+
 msgid "Save Project"
 msgstr "احفظ المشروع"
 
@@ -7293,6 +7614,9 @@ msgstr "احفظ الجلسة"
 
 msgid "Save Settings"
 msgstr "احفظ اﻹعدادات"
+
+msgid "Save to"
+msgstr "احفظ في"
 
 msgid "Saved"
 msgstr "محفوظ"
@@ -7324,11 +7648,17 @@ msgstr "امسح"
 msgid "Scanner"
 msgstr "ماسح ضوئي"
 
+msgid "Scanning"
+msgstr "يفحص"
+
 msgid "Scanning..."
 msgstr "يكتشف..."
 
 msgid "Schedule"
 msgstr "الجدولة"
+
+msgid "Scheduler"
+msgstr "المجدول"
 
 msgid "Scheduling"
 msgstr "الجدولة"
@@ -7405,11 +7735,17 @@ msgstr "ابحث..."
 msgid "Search Bar"
 msgstr "شريط البحث"
 
+msgid "Search for"
+msgstr "ابحث عن"
+
 msgid "_Search for"
 msgstr "ا_بحث عن"
 
 msgid "Search for '%1' with"
 msgstr "ابحث عن '%1' بـ"
+
+msgid "Search in"
+msgstr "ابحث في"
 
 msgid "Search Options"
 msgstr "خيارات البحث"
@@ -7513,6 +7849,9 @@ msgstr "التحديد"
 msgid "Selections"
 msgstr "التحديدات"
 
+msgid "Self"
+msgstr "ذاتية"
+
 msgid "Semicolon"
 msgstr "فاصلة منقوطة"
 
@@ -7552,6 +7891,9 @@ msgstr "صربيا"
 msgid "Serbian"
 msgstr "الصّربيّة"
 
+msgid "Serial"
+msgstr "تسلسلي"
+
 msgid "Serial Number"
 msgstr "الرّقم التّسلسليّ"
 
@@ -7567,8 +7909,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "الخادم"
 
+msgid "&Server"
+msgstr "ال&خادم"
+
 msgid "Server URL"
 msgstr "مسار الخادم"
+
+msgid "Servers"
+msgstr "الخوادم"
 
 msgid "Service"
 msgstr "خدمة"
@@ -7581,6 +7929,9 @@ msgstr "الجلسة"
 
 msgid "Session management options"
 msgstr "خيارات إدارة الجلسات"
+
+msgid "Session name"
+msgstr "اسم الجلسة"
 
 msgid "Sessions"
 msgstr "الجلسات"
@@ -7611,6 +7962,12 @@ msgstr "الخطورة"
 
 msgid "Seychelles"
 msgstr "سيشيل"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7650,6 +8007,12 @@ msgstr "الوضوح"
 
 msgid "Shear"
 msgstr "قص"
+
+msgid "Sheet"
+msgstr "الورقة"
+
+msgid "Sheets"
+msgstr "أوراق"
 
 msgid "Shell"
 msgstr "الصدَفة"
@@ -7771,6 +8134,9 @@ msgstr "مفرد"
 msgid "Sinhala"
 msgstr "السنهالية"
 
+msgid "Site"
+msgstr "الموقع"
+
 msgid "Size"
 msgstr "الحجم"
 
@@ -7779,6 +8145,9 @@ msgstr "الحجم"
 
 msgid "&Size"
 msgstr "ال&حجم"
+
+msgid "_Size"
+msgstr "ال_حجم"
 
 msgid "Size: %1"
 msgstr "الحجم: %1"
@@ -7806,6 +8175,9 @@ msgstr "مزلق"
 
 msgid "Slideshow"
 msgstr "عرض الشرائح"
+
+msgid "Slope"
+msgstr "انحدار"
 
 msgid "Slovak"
 msgstr "السلوفاكية"
@@ -7861,6 +8233,12 @@ msgstr "لون سادة"
 msgid "Solomon Islands"
 msgstr "جزر سليمان"
 
+msgid "Solution"
+msgstr "الحل"
+
+msgid "Solve"
+msgstr "حل"
+
 msgid "Somalia"
 msgstr "الصومال"
 
@@ -7878,6 +8256,9 @@ msgstr "الفرز"
 
 msgid "Sound"
 msgstr "الصوت"
+
+msgid "Sounds"
+msgstr "أصوات"
 
 msgid "Soundtrack"
 msgstr "معزوفة موسيقية"
@@ -7946,6 +8327,9 @@ msgid "Spell Check"
 msgstr "تدقيق الإملاء"
 
 msgid "Spell Checking"
+msgstr "التدقيق الإملائي"
+
+msgid "Spellcheck"
 msgstr "التدقيق الإملائي"
 
 msgid "Spelling"
@@ -8185,6 +8569,9 @@ msgstr "سُنداني"
 msgid "Sunday"
 msgstr "الأحد"
 
+msgid "Sunrise"
+msgstr "الشروق"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8241,6 +8628,9 @@ msgstr "المزامنة"
 
 msgid "Synchronize"
 msgstr "زامِن"
+
+msgid "Syntax"
+msgstr "صياغة"
 
 msgid "Syriac"
 msgstr "السريانية"
@@ -8304,6 +8694,9 @@ msgstr "تنزانيا"
 
 msgid "Target"
 msgstr "الهدف"
+
+msgid "Targets"
+msgstr "الأهداف"
 
 msgid "Task"
 msgstr "المهمّة"
@@ -8420,6 +8813,9 @@ msgstr ""
 msgid "Theme"
 msgstr "السمة"
 
+msgid "&Theme"
+msgstr "ال&سمة"
+
 msgid "Themes"
 msgstr "السّمات"
 
@@ -8438,6 +8834,9 @@ msgstr "سيُخفي هذا شريط القوائم بالكامل. يمكنك �
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "الخطوط"
 
 msgid "Threshold"
 msgstr "العتبة"
@@ -8465,6 +8864,9 @@ msgstr "بلاط"
 
 msgid "Tiled"
 msgstr "مكرّرة"
+
+msgid "Tiles"
+msgstr "القطع"
 
 msgid "Tilt"
 msgstr "الإمالة"
@@ -8514,6 +8916,9 @@ msgstr "ال&عنوان"
 msgid "_Title"
 msgstr "ال_عنوان"
 
+msgid "Titles"
+msgstr "العناوين"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8537,6 +8942,9 @@ msgstr "مَهمّة"
 
 msgid "Todo"
 msgstr "المهام"
+
+msgid "To-do"
+msgstr "المهمّة"
 
 msgid "Toggle Fullscreen"
 msgstr "بدّل ملء الشاشة"
@@ -8568,6 +8976,9 @@ msgstr "أداة"
 msgid "Tool Options"
 msgstr "خيارات الأداة"
 
+msgid "Toolbar"
+msgstr "شريط الأدوات"
+
 msgid "_Toolbar"
 msgstr "شريط الأ_دوات"
 
@@ -8588,6 +8999,9 @@ msgstr "أ&دوات"
 
 msgid "_Tools"
 msgstr "أد_وات"
+
+msgid "Tooltip"
+msgstr "التلميحة"
 
 msgid "Top"
 msgstr "أعلى"
@@ -8745,11 +9159,17 @@ msgstr "النوع"
 msgid "&Type"
 msgstr "ال&نّوع"
 
+msgid "_Type"
+msgstr "_نوع"
+
 msgid "Type: %1"
 msgstr "النوع: %1"
 
 msgid "Uganda"
 msgstr "أوغندا"
+
+msgid "UID"
+msgstr "المعرّف الفريد"
 
 msgid "Ukraine"
 msgstr "أوكرانيا"
@@ -8982,6 +9402,9 @@ msgstr "المستخدم"
 msgid "User"
 msgstr "المستخدم"
 
+msgid "User Agent"
+msgstr "وكيل المستخدم"
+
 msgid "User Certificate"
 msgstr "شهادة المستخدِم"
 
@@ -9006,11 +9429,17 @@ msgstr "كلمة سر المستخدم"
 msgid "Username"
 msgstr "اسم المستخدم"
 
+msgid "&Username"
+msgstr "ا&سم المستخدم"
+
 msgid "_Username"
 msgstr "اسم المست_خدم"
 
 msgid "Users"
 msgstr "المستخدمين"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "الأدوات"
@@ -9032,6 +9461,9 @@ msgstr "صالح"
 
 msgid "Valid from"
 msgstr "صالح من"
+
+msgid "Valid until"
+msgstr "صالحة حتى"
 
 msgid "Validity"
 msgstr "الصّلاحية"
@@ -9065,6 +9497,9 @@ msgstr "المتغيّرات"
 msgid "Variance"
 msgstr "تباين"
 
+msgid "Variant"
+msgstr "التّنويعة"
+
 msgid "Vector"
 msgstr "متجه"
 
@@ -9091,6 +9526,9 @@ msgstr "الإصدار %1"
 
 msgid "Vertical"
 msgstr "عمودي"
+
+msgid "_Vertical"
+msgstr "رأ_سي"
 
 msgid "Very Large"
 msgstr "كبير جدًّا"
@@ -9124,6 +9562,9 @@ msgstr "&عرض"
 
 msgid "_View"
 msgstr "_عرض"
+
+msgid "View mode"
+msgstr "وضع العرض"
 
 msgid "View Options"
 msgstr "خيارات العرض"
@@ -9284,6 +9725,9 @@ msgstr "واي فاي"
 msgid "Wikipedia"
 msgstr "ويكيبيديا"
 
+msgid "Wind"
+msgstr "رياح"
+
 msgid "Window"
 msgstr "النافذة"
 
@@ -9326,11 +9770,17 @@ msgstr "Word"
 msgid "Word Count"
 msgstr "عدد الكلمات"
 
+msgid "Word wrap"
+msgstr "لفّ الكلمات"
+
 msgid "Words"
 msgstr "الكلمات"
 
 msgid "Work"
 msgstr "العمل"
+
+msgid "Workspace"
+msgstr "مساحة العمل"
 
 msgid "World"
 msgstr "العالم"
@@ -9370,6 +9820,9 @@ msgstr "_ص"
 
 msgid "Year"
 msgstr "السنة"
+
+msgid "&Year"
+msgstr "ال&سنة"
 
 msgid "Yearly"
 msgstr "سنويًا"
@@ -9430,6 +9883,9 @@ msgstr "&كبر"
 
 msgid "_Zoom"
 msgstr "_قرّب"
+
+msgid "Zoom factor"
+msgstr "معامل التّقريب"
 
 msgid "Zoom In"
 msgstr "قرّب"

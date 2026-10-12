@@ -82,9 +82,6 @@ msgstr " и "
 msgid " (default)"
 msgstr " (основно)"
 
-msgid "© KDE Community"
-msgstr "© заједница КДЕ‑а"
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "Фајл по имену ‘%1’ већ постоји. Желите ли да га пребришете?"
 
@@ -355,17 +355,20 @@ msgstr "_О програму"
 msgid "About %1"
 msgstr "О %1|/|О $[дат %1]"
 
-msgid "About KDE"
-msgstr "О КДЕ‑у"
-
 msgid "Abstract"
 msgstr "Апстракт"
+
+msgid "Acceleration"
+msgstr "Убрзање"
 
 msgid "Accept"
 msgstr "Прихвати"
 
 msgid "Accepted"
 msgstr "прихваћено"
+
+msgid "Access"
+msgstr "приступ"
 
 msgid "Accessed"
 msgstr "Приступљено"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr "Подаци о налогу"
 
 msgid "Account Name"
+msgstr "Име налога"
+
+msgid "Account name"
 msgstr "Име налога"
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "азбучно"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Алтернативна"
+
 msgid "Alternative"
 msgstr "Алтернатива"
 
@@ -712,8 +721,14 @@ msgstr "Забелешке"
 msgid "Anonymous"
 msgstr "анонимно"
 
+msgid "Answer"
+msgstr "Одговор"
+
 msgid "Antarctica"
 msgstr "Антарктик"
+
+msgid "Antialiasing"
+msgstr "Умекшавање"
 
 msgid "Any"
 msgstr "било која"
@@ -883,6 +898,9 @@ msgstr "Неопходна аутентификација"
 msgid "Author"
 msgstr "Аутор"
 
+msgid "Author name"
+msgstr "Име аутора"
+
 msgid "Authors"
 msgstr "Аутори"
 
@@ -928,6 +946,9 @@ msgstr "азербејџански"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "На&зад"
 msgid "_Back"
 msgstr "_Назад"
 
+msgid "Backend"
+msgstr "Позадина"
+
 msgid "Background"
 msgstr "Позадина"
+
+msgid "&Background"
+msgstr "&Позадина"
 
 msgid "Background Color"
 msgstr "Боја позадине"
@@ -951,6 +978,9 @@ msgstr "Боја позадине"
 
 msgid "&Background color"
 msgstr "&Боја позадине"
+
+msgid "Background image"
+msgstr "Позадинска слика"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "Балансирано"
 
 msgid "Baltic"
 msgstr "балтички"
+
+msgid "Bandwidth"
+msgstr "Опсег"
 
 msgid "Bangladesh"
 msgstr "Бангладеш"
@@ -999,6 +1032,9 @@ msgstr "бас"
 
 msgid "Battery"
 msgstr "Батерија"
+
+msgid "BCC"
+msgstr "БЦЦ"
 
 msgid "Bcc"
 msgstr "БЦЦ"
@@ -1156,23 +1192,8 @@ msgstr "Грана"
 msgid "Brazil"
 msgstr "Бразил"
 
-msgid "Breeze"
-msgstr "Поветарац"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Поветарац од КДЕ‑ВДГ‑а"
-
-msgid "Breeze Dark"
-msgstr "Поветарац тамни"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Поветарац тамни од КДЕ‑ВДГ‑а"
-
 msgid "Breton"
 msgstr "бретонски"
-
-msgid "Brian Croom"
-msgstr "Брајан Крум"
 
 msgid "Bridge"
 msgstr "Мост"
@@ -1309,18 +1330,6 @@ msgstr "&Одустани"
 msgid "Canceled"
 msgstr "Отказано"
 
-msgid "Cancelled"
-msgstr "Отказано"
-
-msgid "cannot load editor plugin: %s"
-msgstr "не могу да учитам прикључак уређивача: %s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "не могу да учитам погон „%s“ из прикључка: %s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Платно"
 
@@ -1339,14 +1348,14 @@ msgstr "Велико прво слово"
 msgid "Caps Lock is on"
 msgstr "CapsLock укључен"
 
+msgid "Caption"
+msgstr "Наслов"
+
 msgid "Capture"
 msgstr "Сними"
 
 msgid "Car"
 msgstr "Ауто"
-
-msgid "Carsten Pfeiffer"
-msgstr "Карстен Пфајфер"
 
 msgid "Cascade"
 msgstr "Каскада"
@@ -1435,6 +1444,9 @@ msgstr "Измени..."
 msgid "Changed"
 msgstr "Измењено"
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "Канал"
 
@@ -1452,6 +1464,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Знак"
+
+msgid "Character set"
+msgstr "Скуп знакова"
 
 msgid "Characters"
 msgstr ""
@@ -1684,6 +1699,9 @@ msgstr "Боја програма"
 msgid "Color Space"
 msgstr "простор боја"
 
+msgid "Color space"
+msgstr "Простор боја"
+
 msgid "Color theme"
 msgstr "Тема боја"
 
@@ -1705,14 +1723,8 @@ msgstr "Колоне"
 msgid "Comma"
 msgstr "запета"
 
-msgid "COMMAND"
-msgstr "НАРЕДБА"
-
 msgid "Command"
 msgstr "Наредба"
-
-msgid "command"
-msgstr "наредба"
 
 msgid "Command Line"
 msgstr "Линија наредби"
@@ -1726,6 +1738,9 @@ msgstr "Наредбе"
 msgid "Comment"
 msgstr "Напомена"
 
+msgid "comment"
+msgstr "коментар"
+
 msgid "Comments"
 msgstr "Напомене"
 
@@ -1735,11 +1750,17 @@ msgstr "Предај"
 msgid "Common"
 msgstr "Опште"
 
+msgid "Common Name"
+msgstr "Средње име"
+
 msgid "Comoros"
 msgstr "Комори"
 
 msgid "Compact"
 msgstr "Сажето"
+
+msgid "Company"
+msgstr "Предузеће"
 
 msgid "Compare"
 msgstr "Упореди"
@@ -1777,6 +1798,9 @@ msgstr "Рачунар"
 msgid "Condition"
 msgstr "Услов"
 
+msgid "Conditions"
+msgstr "Услови"
+
 msgid "Confidential"
 msgstr "поверљиво"
 
@@ -1807,6 +1831,9 @@ msgstr "Подеси веб пречице..."
 msgid "Confirm"
 msgstr "Потврди"
 
+msgid "Confirm Password"
+msgstr "Потврди лозинку"
+
 msgid "Confirmation"
 msgstr "Потврда"
 
@@ -1818,6 +1845,9 @@ msgstr "потврђено"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Сукоб са стандардном програмском пречицом"
+
+msgid "Conflicts"
+msgstr "Сукоби"
 
 msgid "Connect"
 msgstr "Повежи се"
@@ -1843,6 +1873,9 @@ msgstr "Повезивање није успело"
 msgid "Connection Settings"
 msgstr "Поставке повезивања"
 
+msgid "Connection type"
+msgstr "Тип везе"
+
 msgid "Connections"
 msgstr "Везе"
 
@@ -1851,10 +1884,6 @@ msgstr "Конзола"
 
 msgid "Constant"
 msgstr "Константа"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
-"својство творбе „%s“ за објекат „%s“ се не може поставити након творбе"
 
 msgid "Contact"
 msgstr "Контакт"
@@ -1868,13 +1897,13 @@ msgstr "Садржалац"
 msgid "Contains"
 msgstr "садржи"
 
-msgid "contains"
-msgstr "садржи"
-
 msgid "Content"
 msgstr "Садржај"
 
 msgid "Content Type"
+msgstr "Врста садржаја"
+
+msgid "Content type"
 msgstr "Врста садржаја"
 
 msgid "Contents"
@@ -1898,11 +1927,17 @@ msgstr "Контраст"
 msgid "Contributor"
 msgstr "Доприносилац"
 
+msgid "Contributors"
+msgstr "Доприносиоци"
+
 msgid "Control"
 msgstr "Control"
 
 msgid "Convert"
 msgstr "Претвори"
+
+msgid "Convert to"
+msgstr "Претвори у"
 
 msgid "Convert to Path"
 msgstr "Претвори у путању"
@@ -1921,9 +1956,6 @@ msgstr "Копски"
 
 msgid "Copy"
 msgstr "Копирај"
-
-msgid "copy"
-msgstr "копија"
 
 msgid "&Copy"
 msgstr "&Копирај"
@@ -1976,6 +2008,9 @@ msgstr "Копирам фајлове"
 msgid "Copyright"
 msgstr "Ауторска права"
 
+msgid "Correct"
+msgstr "Исправно"
+
 msgid "Cost"
 msgstr ""
 
@@ -1999,6 +2034,9 @@ msgstr "Држава"
 
 msgid "CPU"
 msgstr "ЦПУ"
+
+msgid "CPU usage"
+msgstr "Искоришћеност процесора"
 
 msgid "Create"
 msgstr "Направи"
@@ -2027,6 +2065,9 @@ msgstr "Стваралац"
 msgid "Credentials"
 msgstr "Акредитиви"
 
+msgid "Credit"
+msgstr "Заслуге"
+
 msgid "Credits"
 msgstr "Заслуге"
 
@@ -2053,15 +2094,6 @@ msgstr "Крстић"
 
 msgid "CSV"
 msgstr "ЗРВ"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr ""
 
 msgid "Cuba"
 msgstr "Куба"
@@ -2090,8 +2122,14 @@ msgstr "Кривуље"
 msgid "Custom"
 msgstr "Произвољно"
 
+msgid "&Custom"
+msgstr "&Посебно"
+
 msgid "Custom..."
 msgstr "Посебна..."
+
+msgid "Custom color"
+msgstr "Произвољна боја"
 
 msgid "Custom Font"
 msgstr "Произвољни фонт"
@@ -2165,6 +2203,9 @@ msgstr "Подаци"
 msgid "Database"
 msgstr "База података"
 
+msgid "Database name"
+msgstr "Име базе"
+
 msgid "Date"
 msgstr "датум"
 
@@ -2180,14 +2221,20 @@ msgstr "Датум и време"
 msgid "Date Format"
 msgstr "Формат датума"
 
+msgid "Date format"
+msgstr "Формат датума"
+
 msgid "Date Modified"
 msgstr "Датум измене"
 
-msgid "David Edmundson"
-msgstr "Дејвид Едмундсон"
+msgid "Date/Time"
+msgstr "Датум/Време"
 
 msgid "Day"
 msgstr "Дан"
+
+msgid "day"
+msgstr "дан"
 
 msgid "Days"
 msgstr "дана"
@@ -2236,6 +2283,9 @@ msgstr "Подразумевано"
 
 msgid "default"
 msgstr "подразумевано"
+
+msgid "Default value"
+msgstr "Основна вредност"
 
 msgid "Defaults"
 msgstr "Подразумевано"
@@ -2312,6 +2362,9 @@ msgstr "Густина"
 msgid "Deny"
 msgstr "Одбиј"
 
+msgid "Department"
+msgstr "одељење"
+
 msgid "Dependencies"
 msgstr "Зависности"
 
@@ -2344,6 +2397,12 @@ msgstr "Површ"
 
 msgid "Destination"
 msgstr "Одредиште"
+
+msgid "Destination Folder"
+msgstr "Одредишна фасцикла"
+
+msgid "Destination folder"
+msgstr "Одредишна фасцикла"
 
 msgid "Detach"
 msgstr "Одвој"
@@ -2516,6 +2575,9 @@ msgstr "Утапање"
 msgid "Distance"
 msgstr "Растојање"
 
+msgid "Distribution"
+msgstr "Расподела"
+
 msgid "Divide"
 msgstr "Подели"
 
@@ -2570,11 +2632,11 @@ msgstr "Документи"
 msgid "does not contain"
 msgstr "не садржи"
 
-msgid "Dolphin"
-msgstr "Делфин"
-
 msgid "Domain"
 msgstr "Домен"
+
+msgid "_Domain"
+msgstr "_Домен"
 
 msgid "Dominica"
 msgstr "Доминика"
@@ -2678,6 +2740,9 @@ msgstr "ДВД+РВ"
 msgid "DVD-RW"
 msgstr "ДВД‑РВ"
 
+msgid "Dynamic"
+msgstr "Динамика"
+
 msgid "E"
 msgstr "И"
 
@@ -2729,6 +2794,9 @@ msgstr "Уреди слику"
 msgid "Editing"
 msgstr "Уређивање"
 
+msgid "Edition"
+msgstr "Издање"
+
 msgid "Editor"
 msgstr "Уређивач"
 
@@ -2744,9 +2812,6 @@ msgstr "Египат"
 msgid "Egyptian"
 msgstr "Египатски"
 
-msgid "Eike Hein"
-msgstr "Ајке Хајн"
-
 msgid "Eject"
 msgstr "Избаци"
 
@@ -2756,17 +2821,29 @@ msgstr "_Избаци"
 msgid "El Salvador"
 msgstr "Ел Салвадор"
 
+msgid "Elapsed Time"
+msgstr "Протекло време"
+
 msgid "Electronic"
 msgstr "Електроника"
 
 msgid "Element"
 msgstr ""
 
+msgid "Elements"
+msgstr "Елементи"
+
 msgid "Ellipse"
 msgstr "Елипса"
 
+msgid "EMail"
+msgstr "е‑пошта"
+
 msgid "Email"
 msgstr "Е-пошта"
+
+msgid "E-Mail"
+msgstr "Е‑пошта"
 
 msgid "E-mail"
 msgstr "Е-адресу"
@@ -2848,6 +2925,9 @@ msgstr "крај"
 msgid "End Date"
 msgstr "Датум краја"
 
+msgid "End date"
+msgstr "Крајњи датум"
+
 msgid "End Time"
 msgstr ""
 
@@ -2869,8 +2949,14 @@ msgstr "енглески"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "Упишите назив"
+
 msgid "Enter password"
 msgstr "Унесите лозинку"
+
+msgid "Entries"
+msgstr "Уноси"
 
 msgid "Entry"
 msgstr "Унос"
@@ -2944,6 +3030,9 @@ msgstr "Догађај"
 msgid "Events"
 msgstr "Догађаји"
 
+msgid "Every"
+msgstr "Сваких"
+
 msgid "Everyone"
 msgstr "Сви"
 
@@ -2961,6 +3050,9 @@ msgstr "Примери"
 
 msgid "Exception"
 msgstr "Изузетак"
+
+msgid "Exceptions"
+msgstr "Изузеци"
 
 msgid "Exclude"
 msgstr "Искључи"
@@ -2995,11 +3087,17 @@ msgstr "Рашири све"
 msgid "Experimental"
 msgstr "Експериментално"
 
+msgid "Expiration"
+msgstr "Истиче"
+
 msgid "Expired"
 msgstr "истекао"
 
 msgid "Expires"
 msgstr "Истиче"
+
+msgid "Expires On"
+msgstr "Датум истека"
 
 msgid "Export"
 msgstr "Извези"
@@ -3034,6 +3132,9 @@ msgstr "Опције извоза"
 msgid "Exposure"
 msgstr "Изложеност"
 
+msgid "Exposure Time"
+msgstr "Време излагања"
+
 msgid "Expression"
 msgstr "Израз"
 
@@ -3054,6 +3155,9 @@ msgstr "Распакивање"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Састав"
 
 msgid "Facebook"
 msgstr "Фејсбук"
@@ -3112,6 +3216,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Добави"
 
+msgid "Field"
+msgstr "Поље"
+
+msgid "Fields"
+msgstr "Поља"
+
 msgid "Fiji"
 msgstr "Фиџи"
 
@@ -3144,6 +3254,9 @@ msgstr "Фајл постоји"
 
 msgid "File Format"
 msgstr "Формат фајла"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3204,6 +3317,9 @@ msgstr "Боја попуне"
 
 msgid "Filter"
 msgstr "Филтер"
+
+msgid "&Filter"
+msgstr "&Филтер"
 
 msgid "Filter..."
 msgstr "Филтер..."
@@ -3268,6 +3384,9 @@ msgstr "Фински"
 msgid "First"
 msgstr "прво"
 
+msgid "First Name"
+msgstr "Име"
+
 msgid "First Page"
 msgstr "Прва страница"
 
@@ -3328,6 +3447,9 @@ msgstr "цвет"
 msgid "Focal Length"
 msgstr "Жижна даљина"
 
+msgid "Focal length"
+msgstr "Жижна дужина"
+
 msgid "Focus"
 msgstr "Фокус"
 
@@ -3349,6 +3471,9 @@ msgstr "Фонт"
 msgid "&Font"
 msgstr "&Фонт"
 
+msgid "_Font"
+msgstr "_Слова"
+
 msgid "Font Color"
 msgstr "Боја словног лика"
 
@@ -3360,6 +3485,12 @@ msgstr "Величина фонта"
 
 msgid "Font size"
 msgstr "Величина фонта"
+
+msgid "Font Style"
+msgstr "Изглед писма"
+
+msgid "Font style"
+msgstr "Стил"
 
 msgid "Fonts"
 msgstr "Фонтови"
@@ -3397,6 +3528,12 @@ msgstr "Формулар"
 msgid "Format"
 msgstr "Формат"
 
+msgid "&Format"
+msgstr "&Формат"
+
+msgid "_Format"
+msgstr "_Запис"
+
 msgid "Formatting"
 msgstr "Форматирање"
 
@@ -3423,6 +3560,12 @@ msgstr "Одломак"
 
 msgid "Frame"
 msgstr "Кадар"
+
+msgid "Frame Rate"
+msgstr "број кадрова"
+
+msgid "Frame rate"
+msgstr ""
 
 msgid "Framerate"
 msgstr "Проток кадрова"
@@ -3468,6 +3611,9 @@ msgstr "Потпуно"
 
 msgid "Full Name"
 msgstr "Име и презиме"
+
+msgid "Full name"
+msgstr "Пуно име"
 
 msgid "Full Screen"
 msgstr "Цео екран"
@@ -3534,6 +3680,9 @@ msgstr ""
 
 msgid "Gateway"
 msgstr "Мрежни излаз"
+
+msgid "_Gateway"
+msgstr "_Мрежни пролаз"
 
 msgid "Gaussian Blur"
 msgstr "Гаусово замућење"
@@ -3655,6 +3804,9 @@ msgstr "Иди на претходну страницу"
 msgid "Goa"
 msgstr "Гоа"
 
+msgid "Goal"
+msgstr "Циљ"
+
 msgid "Gold"
 msgstr "Злато"
 
@@ -3709,6 +3861,9 @@ msgstr "Сива"
 msgid "Grid"
 msgstr "Мрежа"
 
+msgid "&Grid"
+msgstr "&Мрежа"
+
 msgid "Group"
 msgstr "Група"
 
@@ -3754,6 +3909,9 @@ msgstr "тешко"
 msgid "Hardware"
 msgstr "Хардвер"
 
+msgid "Hash"
+msgstr "Дисперзија"
+
 msgid "Hawaiian"
 msgstr "Хавајски"
 
@@ -3795,6 +3953,9 @@ msgstr "Висина"
 
 msgid "&Height"
 msgstr "&Висина"
+
+msgid "_Height"
+msgstr "_Висина"
 
 msgid "Help"
 msgstr "Помоћ"
@@ -3840,6 +4001,9 @@ msgstr "Висок"
 
 msgid "Highlight"
 msgstr "Истицање"
+
+msgid "Highlight color"
+msgstr "Боја истицања"
 
 msgid "Highlighter"
 msgstr "Истицач"
@@ -3892,8 +4056,17 @@ msgstr "Хонг Конг"
 msgid "Horizontal"
 msgstr "Водоравно"
 
+msgid "_Horizontal"
+msgstr "_Водоравно"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "домаћин"
+
+msgid "Host Name"
+msgstr "Адреса рачунара"
 
 msgid "Hostname"
 msgstr "Име домаћина"
@@ -3973,6 +4146,9 @@ msgstr "ИД"
 msgid "id"
 msgstr "ИД"
 
+msgid "Identification"
+msgstr "Идентификација"
+
 msgid "Identifier"
 msgstr "Идентификатор"
 
@@ -4026,6 +4202,12 @@ msgstr "Подешавања слике"
 
 msgid "Image Size"
 msgstr "Величина слике"
+
+msgid "Image size"
+msgstr "Величина слике"
+
+msgid "Image type"
+msgstr "Врста слике"
 
 msgid "Image Viewer"
 msgstr "Приказивач слика"
@@ -4102,6 +4284,9 @@ msgstr "Повећај увлачење"
 msgid "Increase Volume"
 msgstr "Повећај јачину"
 
+msgid "Increment"
+msgstr "Корак"
+
 msgid "Incremental"
 msgstr "Растуће"
 
@@ -4113,6 +4298,9 @@ msgstr "Регистар"
 
 msgid "Indexed"
 msgstr "Индексирано"
+
+msgid "Indexing"
+msgstr ""
 
 msgid "India"
 msgstr "Индија"
@@ -4176,6 +4364,9 @@ msgstr "Инсталирам"
 
 msgid "Instant"
 msgstr "одмах"
+
+msgid "Instructions"
+msgstr "Инструкције"
 
 msgid "Integer"
 msgstr "Цео број"
@@ -4264,11 +4455,17 @@ msgstr "ирски"
 msgid "is"
 msgstr "је"
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "Израел"
 
 msgid "Issued By"
 msgstr "Издаје га"
+
+msgid "Issued On"
+msgstr "Датум издавања"
 
 msgid "Issuer"
 msgstr "Издавач"
@@ -4366,9 +4563,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Канада"
 
-msgid "Kate"
-msgstr "Кејт"
-
 msgid "Kazakh"
 msgstr "Казашки"
 
@@ -4377,18 +4571,6 @@ msgstr "Казакистан"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "КДЕ"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr "КДЕ‑конекција"
-
-msgid "KDevelop"
-msgstr ""
 
 msgid "Keep"
 msgstr "Задржи"
@@ -4453,26 +4635,11 @@ msgstr "Кирибати"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "К‑пошта"
-
-msgid "Konqueror"
-msgstr "К‑освајач"
-
-msgid "Konsole"
-msgstr "Конзола"
-
 msgid "Korean"
 msgstr "корејски"
 
-msgid "KOrganizer"
-msgstr "К‑организатор"
-
 msgid "Kuwait"
 msgstr "Кувајт"
-
-msgid "KWin"
-msgstr "К‑вин"
 
 msgid "L"
 msgstr "L"
@@ -4491,6 +4658,9 @@ msgstr "пејзаж"
 
 msgid "Language"
 msgstr "Језик"
+
+msgid "&Language"
+msgstr "&Језик"
 
 msgid "_Language"
 msgstr "_Језик"
@@ -4512,6 +4682,12 @@ msgstr "последње"
 
 msgid "Last Modified"
 msgstr "Последња измена"
+
+msgid "Last modified"
+msgstr "Последња измена"
+
+msgid "Last Name"
+msgstr "Презиме"
 
 msgid "LaTeX"
 msgstr "ЛаТеКс"
@@ -4624,8 +4800,20 @@ msgstr "Прелом линије"
 msgid "Line Color"
 msgstr "Боја линије"
 
+msgid "Line Count"
+msgstr "Број редова"
+
 msgid "Line Numbers"
 msgstr "бројеви редова"
+
+msgid "Line spacing"
+msgstr "Размак линија"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "Стил линије"
 
 msgid "Line Width"
 msgstr "Ширина линије"
@@ -4644,6 +4832,9 @@ msgstr "Веза"
 
 msgid "link"
 msgstr "веза"
+
+msgid "Link Text"
+msgstr "Текст везе"
 
 msgid "Link URL"
 msgstr "УРЛ везе"
@@ -4743,6 +4934,9 @@ msgstr "Пријава"
 
 msgid "_Login"
 msgstr "_Пријава"
+
+msgid "Logo"
+msgstr "Логотип"
 
 msgid "Logout"
 msgstr "Одјава"
@@ -4939,6 +5133,9 @@ msgstr "Увећај"
 msgid "Maximum"
 msgstr "Највише"
 
+msgid "Maximum width"
+msgstr "Највећа ширина"
+
 msgid "May"
 msgstr "Мај"
 
@@ -4993,6 +5190,9 @@ msgstr "Порука"
 msgid "message"
 msgstr "порука"
 
+msgid "&Message"
+msgstr "&Порука"
+
 msgid "Messages"
 msgstr "Поруке"
 
@@ -5004,6 +5204,9 @@ msgstr "Метаподаци"
 
 msgid "Metal"
 msgstr "Метал"
+
+msgid "Metering Mode"
+msgstr "Начин мерења"
 
 msgid "meters"
 msgstr "метар"
@@ -5043,6 +5246,9 @@ msgstr "Милисекунди"
 
 msgid "milliseconds"
 msgstr "милисекунди"
+
+msgid "MIME type"
+msgstr "МИМЕ врста"
 
 msgid "Min"
 msgstr "Најмање"
@@ -5089,8 +5295,14 @@ msgstr "мм"
 msgid "Mobile"
 msgstr "Мобилни"
 
+msgid "Mobile Phone"
+msgstr "Мобилни телефон"
+
 msgid "Mode"
 msgstr "Режим"
+
+msgid "_Mode"
+msgstr "_Режим"
 
 msgid "Model"
 msgstr "Модел"
@@ -5187,6 +5399,9 @@ msgstr "Мароко"
 
 msgid "Mount"
 msgstr "Монтирај"
+
+msgid "Mount Point"
+msgstr "тачка монтирања"
 
 msgid "Mount point"
 msgstr "Тачка монтирања"
@@ -5326,6 +5541,9 @@ msgstr "_Назив"
 msgid "Name: %1"
 msgstr "Име: %1"
 
+msgid "Names"
+msgstr "Имена"
+
 msgid "Namespace"
 msgstr "Именски простор"
 
@@ -5355,6 +5573,9 @@ msgstr "Непалски"
 
 msgid "Netherlands"
 msgstr "Холандија"
+
+msgid "Netmask"
+msgstr "Мрежна маска"
 
 msgid "Network"
 msgstr "Мрежа"
@@ -5566,6 +5787,9 @@ msgstr "(без теме)"
 msgid "No VPN configuration options."
 msgstr "Нема опција за ВПН подешавање."
 
+msgid "Node"
+msgstr "Чвор"
+
 msgid "Noise"
 msgstr "Шум"
 
@@ -5692,6 +5916,9 @@ msgstr "број"
 msgid "Number of columns"
 msgstr "Број колона"
 
+msgid "Number of rows"
+msgstr "Број редова"
+
 msgid "Numbers"
 msgstr "Бројеви"
 
@@ -5748,9 +5975,6 @@ msgstr "&У реду"
 
 msgid "_OK"
 msgstr "У _реду"
-
-msgid "Okular"
-msgstr "Окулар"
 
 msgid "Oman"
 msgstr "Оман"
@@ -5902,6 +6126,9 @@ msgstr "Опенстритмап"
 msgid "Opera"
 msgstr "Опера"
 
+msgid "Operating System"
+msgstr "Оперативни систем"
+
 msgid "Operation"
 msgstr "Рад"
 
@@ -5913,6 +6140,9 @@ msgstr "Радње"
 
 msgid "Operator"
 msgstr "Оператер"
+
+msgid "Operators"
+msgstr ""
 
 msgid "Optical Character Recognition"
 msgstr "оптичко препознавање знакова"
@@ -5971,6 +6201,9 @@ msgstr "Изворна величина"
 msgid "Oriya"
 msgstr "Орија"
 
+msgid "OS"
+msgstr "ОС"
+
 msgid "Other"
 msgstr "Остало"
 
@@ -5985,6 +6218,9 @@ msgstr "Други програм..."
 
 msgid "Other Options"
 msgstr "Остале опције"
+
+msgid "Other options"
+msgstr "Остали избори"
 
 msgid "Others"
 msgstr "Остали"
@@ -6127,6 +6363,9 @@ msgstr "Родитељ"
 msgid "Partition"
 msgstr "Партиција"
 
+msgid "Passphrase"
+msgstr "Лозинка"
+
 msgid "Password"
 msgstr "Лозинка"
 
@@ -6165,6 +6404,9 @@ msgstr "Путање"
 
 msgid "Pattern"
 msgstr "Шара"
+
+msgid "_Pattern"
+msgstr "_Шара"
 
 msgid "Patterns"
 msgstr "Шаре"
@@ -6250,8 +6492,14 @@ msgstr "Филипини"
 msgid "Phone"
 msgstr "Телефон"
 
+msgid "Phone Numbers"
+msgstr "Бројеви телефона"
+
 msgid "Photo"
 msgstr "Слика"
+
+msgid "Photos"
+msgstr "Фотографије"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6273,6 +6521,9 @@ msgstr "ПИД"
 
 msgid "Pie"
 msgstr "Пита"
+
+msgid "PIN"
+msgstr "ПИН"
 
 msgid "Pin"
 msgstr "Прикачи"
@@ -6301,9 +6552,6 @@ msgstr "Обичан текст"
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "Плазма"
-
 msgid "Platform"
 msgstr "платформа"
 
@@ -6322,8 +6570,14 @@ msgstr "Пуштање"
 msgid "Player"
 msgstr "играч"
 
+msgid "Player 1"
+msgstr "Играч 1"
+
 msgid "Player %1"
 msgstr "Играч %1"
+
+msgid "Player 2"
+msgstr "Играч 2"
 
 msgid "Players"
 msgstr "Играчи"
@@ -6403,6 +6657,9 @@ msgstr "Порт"
 msgid "&Port"
 msgstr "&Порт"
 
+msgid "_Port"
+msgstr "_Прикључник"
+
 msgid "Portrait"
 msgstr "портрет"
 
@@ -6414,6 +6671,9 @@ msgstr "португалски"
 
 msgid "Position"
 msgstr "Положај"
+
+msgid "Postal code"
+msgstr "Поштански број"
 
 msgid "Posterize"
 msgstr "Смањи број боја"
@@ -6456,6 +6716,9 @@ msgstr "Преглед"
 
 msgid "&Preview"
 msgstr "&Преглед"
+
+msgid "_Preview"
+msgstr "_Преглед"
 
 msgid "Previews"
 msgstr "Прегледи"
@@ -6538,6 +6801,9 @@ msgstr "Приватност"
 msgid "Private"
 msgstr "Приватно"
 
+msgid "Private Key"
+msgstr "Приватни кључ"
+
 msgid "Process"
 msgstr "Процес"
 
@@ -6565,6 +6831,9 @@ msgstr "Профили"
 msgid "Program"
 msgstr "програм"
 
+msgid "Programs"
+msgstr "Програми"
+
 msgid "Progress"
 msgstr "Напредак"
 
@@ -6573,6 +6842,9 @@ msgstr "Пројекат"
 
 msgid "&Project"
 msgstr "&Пројекат"
+
+msgid "Project name"
+msgstr ""
 
 msgid "Projects"
 msgstr "Пројекти"
@@ -6646,6 +6918,9 @@ msgstr "пикс."
 msgid "Python"
 msgstr "питон"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "Катар"
 
@@ -6701,6 +6976,9 @@ msgstr "Напушта апликацију"
 msgid "Quote"
 msgstr "Цитат"
 
+msgid "Quotes"
+msgstr "Наводници"
+
 msgid "R"
 msgstr "R"
 
@@ -6731,6 +7009,9 @@ msgstr "Проток"
 msgid "Rating"
 msgstr "Оцена"
 
+msgid "Ratio"
+msgstr "Однос"
+
 msgid "Raw"
 msgstr "Сирово"
 
@@ -6758,11 +7039,17 @@ msgstr "Спреман"
 msgid "Ready."
 msgstr "Спреман."
 
+msgid "Realm"
+msgstr "Царство"
+
 msgid "Reason"
 msgstr "Разлог"
 
 msgid "Reassign"
 msgstr "Поново додели"
+
+msgid "Received"
+msgstr "Примљено"
 
 msgid "Recent"
 msgstr "Недавно"
@@ -6784,6 +7071,9 @@ msgstr "Снимање"
 
 msgid "Rectangle"
 msgstr "Правоугаоник"
+
+msgid "Recurrence"
+msgstr "Понављање"
 
 msgid "Recursive"
 msgstr "Рекурзивно"
@@ -6914,6 +7204,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Уклањам"
+
 msgid "Rename"
 msgstr "Преименуј"
 
@@ -6934,6 +7227,9 @@ msgstr "Преименуј обележивач"
 
 msgid "Rename File"
 msgstr "Преименуј датотеку"
+
+msgid "Rendering intent"
+msgstr "Намера исцртавања"
 
 msgid "Repeat"
 msgstr "Понављај"
@@ -6956,10 +7252,19 @@ msgstr "Замени _све"
 msgid "Replace an existing instance"
 msgstr "Замени постојећи примерак"
 
+msgid "Replace With"
+msgstr "Замени са"
+
+msgid "Replace with"
+msgstr "Замени са"
+
 msgid "Replacement"
 msgstr "замена"
 
 msgid "Reply"
+msgstr "Одговори"
+
+msgid "Reply-To"
 msgstr "Одговори"
 
 msgid "Report"
@@ -6979,6 +7284,9 @@ msgstr "Пријави &грешку…"
 
 msgid "Reports"
 msgstr "Извештаји"
+
+msgid "Repository"
+msgstr "Ризница"
 
 msgid "Required"
 msgstr "Захтева се"
@@ -7091,6 +7399,9 @@ msgstr "здесна улево"
 msgid "Right-click"
 msgstr "Десни клик"
 
+msgid "Rights"
+msgstr "Права"
+
 msgid "River"
 msgstr "Река"
 
@@ -7145,6 +7456,9 @@ msgstr "реда"
 msgid "RSA"
 msgstr "РСА"
 
+msgid "Rule"
+msgstr "Правило"
+
 msgid "Rules"
 msgstr "Правила"
 
@@ -7153,6 +7467,9 @@ msgstr "Изврши"
 
 msgid "&Run"
 msgstr ""
+
+msgid "Run command"
+msgstr "Изврши наредбу"
 
 msgid "Run in terminal"
 msgstr "Покрени у терминалу"
@@ -7289,6 +7606,9 @@ msgstr "Сачувај слику"
 msgid "_Save Image As..."
 msgstr "Сачувај слику _као…"
 
+msgid "Save Location"
+msgstr "Локација уписивања"
+
 msgid "Save Project"
 msgstr ""
 
@@ -7297,6 +7617,9 @@ msgstr "Сачувај сесију"
 
 msgid "Save Settings"
 msgstr "Сачувај поставке"
+
+msgid "Save to"
+msgstr ""
 
 msgid "Saved"
 msgstr "Сачувано"
@@ -7328,11 +7651,17 @@ msgstr "Скенирај"
 msgid "Scanner"
 msgstr "Прегледач"
 
+msgid "Scanning"
+msgstr "Прегледам"
+
 msgid "Scanning..."
 msgstr "Скенирам…"
 
 msgid "Schedule"
 msgstr "Распоред"
+
+msgid "Scheduler"
+msgstr "Распоређивач"
 
 msgid "Scheduling"
 msgstr "распоред"
@@ -7409,11 +7738,17 @@ msgstr "Тражи..."
 msgid "Search Bar"
 msgstr "Трака претраге"
 
+msgid "Search for"
+msgstr "Потражи"
+
 msgid "_Search for"
 msgstr "_Потражи"
 
 msgid "Search for '%1' with"
 msgstr "Потражи „%1“ помоћу"
+
+msgid "Search in"
+msgstr "Претражи"
 
 msgid "Search Options"
 msgstr "Могућности претраживања"
@@ -7517,6 +7852,9 @@ msgstr "Избор"
 msgid "Selections"
 msgstr "Избори"
 
+msgid "Self"
+msgstr "Ја"
+
 msgid "Semicolon"
 msgstr "тачка-запета"
 
@@ -7556,6 +7894,9 @@ msgstr "Србија"
 msgid "Serbian"
 msgstr "Српски"
 
+msgid "Serial"
+msgstr "Серијски број"
+
 msgid "Serial Number"
 msgstr "Серијски број"
 
@@ -7571,8 +7912,14 @@ msgstr "Серифни"
 msgid "Server"
 msgstr "Сервер"
 
+msgid "&Server"
+msgstr "&Сервер"
+
 msgid "Server URL"
 msgstr "Адреса сервера"
+
+msgid "Servers"
+msgstr "Сервери"
 
 msgid "Service"
 msgstr "Услуга"
@@ -7585,6 +7932,9 @@ msgstr "Сесија"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Име сесије"
 
 msgid "Sessions"
 msgstr "Сесије"
@@ -7615,6 +7965,12 @@ msgstr "Озбиљност"
 
 msgid "Seychelles"
 msgstr "Сејшели"
+
+msgid "SHA1"
+msgstr "СХА1"
+
+msgid "SHA256"
+msgstr "СХА256"
 
 msgid "SHA-256"
 msgstr "СХА‑256"
@@ -7654,6 +8010,12 @@ msgstr "Оштрина"
 
 msgid "Shear"
 msgstr "Острижи"
+
+msgid "Sheet"
+msgstr "Лист"
+
+msgid "Sheets"
+msgstr "Листови"
 
 msgid "Shell"
 msgstr "Шкољка"
@@ -7775,6 +8137,9 @@ msgstr "Једноструко"
 msgid "Sinhala"
 msgstr "синхалески"
 
+msgid "Site"
+msgstr "Сајт"
+
 msgid "Size"
 msgstr "Величина"
 
@@ -7783,6 +8148,9 @@ msgstr "величина"
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "_Величина"
 
 msgid "Size: %1"
 msgstr "Величина: %1"
@@ -7810,6 +8178,9 @@ msgstr "Клизач"
 
 msgid "Slideshow"
 msgstr "Покретни приказ"
+
+msgid "Slope"
+msgstr "Падина"
 
 msgid "Slovak"
 msgstr "Словачки"
@@ -7865,6 +8236,12 @@ msgstr "Једнобојно"
 msgid "Solomon Islands"
 msgstr "Соломонска острва"
 
+msgid "Solution"
+msgstr "Решење"
+
+msgid "Solve"
+msgstr "Реши"
+
 msgid "Somalia"
 msgstr "Сомалија"
 
@@ -7882,6 +8259,9 @@ msgstr "Ређање"
 
 msgid "Sound"
 msgstr "Звук"
+
+msgid "Sounds"
+msgstr "Звуци"
 
 msgid "Soundtrack"
 msgstr "филмска"
@@ -7951,6 +8331,9 @@ msgstr "Провера правописа"
 
 msgid "Spell Checking"
 msgstr "Провера правописа"
+
+msgid "Spellcheck"
+msgstr "Правопис"
 
 msgid "Spelling"
 msgstr "Правопис"
@@ -8189,6 +8572,9 @@ msgstr "Судански"
 msgid "Sunday"
 msgstr "недеља"
 
+msgid "Sunrise"
+msgstr "Излазак сунца"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8245,6 +8631,9 @@ msgstr "Усклађивање"
 
 msgid "Synchronize"
 msgstr "Синхронизуј"
+
+msgid "Syntax"
+msgstr "Синтакса"
 
 msgid "Syriac"
 msgstr "Сиријски"
@@ -8308,6 +8697,9 @@ msgstr "Танзанија"
 
 msgid "Target"
 msgstr "превод"
+
+msgid "Targets"
+msgstr "Циљеви"
 
 msgid "Task"
 msgstr "Задатак"
@@ -8422,6 +8814,9 @@ msgstr "Програмери Управника мреже"
 msgid "Theme"
 msgstr "Тема"
 
+msgid "&Theme"
+msgstr "&Тема"
+
 msgid "Themes"
 msgstr "Теме"
 
@@ -8441,6 +8836,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr ""
+
+msgid "Threads"
+msgstr "Нити"
 
 msgid "Threshold"
 msgstr "Праг"
@@ -8468,6 +8866,9 @@ msgstr "Поплочај"
 
 msgid "Tiled"
 msgstr "Поплочано"
+
+msgid "Tiles"
+msgstr "Плочице"
 
 msgid "Tilt"
 msgstr "Нагиб"
@@ -8517,6 +8918,9 @@ msgstr "&Наслов"
 msgid "_Title"
 msgstr "_Наслов"
 
+msgid "Titles"
+msgstr "Наслови"
+
 msgid "TLS"
 msgstr "ТЛС"
 
@@ -8540,6 +8944,9 @@ msgstr "ДАСЕУРАДИ"
 
 msgid "Todo"
 msgstr "Обавеза"
+
+msgid "To-do"
+msgstr ""
 
 msgid "Toggle Fullscreen"
 msgstr "Окини цео екран"
@@ -8571,6 +8978,9 @@ msgstr "алатка"
 msgid "Tool Options"
 msgstr "Могућности алата"
 
+msgid "Toolbar"
+msgstr "Трака алатки"
+
 msgid "_Toolbar"
 msgstr "_Палета алата"
 
@@ -8591,6 +9001,9 @@ msgstr "&Алатке"
 
 msgid "_Tools"
 msgstr "_Алати"
+
+msgid "Tooltip"
+msgstr "Облачић"
 
 msgid "Top"
 msgstr "Врх"
@@ -8745,11 +9158,17 @@ msgstr "тип"
 msgid "&Type"
 msgstr "&Тип"
 
+msgid "_Type"
+msgstr "_Врста"
+
 msgid "Type: %1"
 msgstr "Тип: %1"
 
 msgid "Uganda"
 msgstr "Уганда"
+
+msgid "UID"
+msgstr "УИД"
 
 msgid "Ukraine"
 msgstr "Украјина"
@@ -8982,6 +9401,9 @@ msgstr "Заузето"
 msgid "User"
 msgstr "Корисник"
 
+msgid "User Agent"
+msgstr "Кориснички агент"
+
 msgid "User Certificate"
 msgstr "Кориснички сертификат"
 
@@ -9006,11 +9428,17 @@ msgstr "Корисничка лозинка"
 msgid "Username"
 msgstr "Корисничко име"
 
+msgid "&Username"
+msgstr "&Корисник"
+
 msgid "_Username"
 msgstr "_Корисничко име"
 
 msgid "Users"
 msgstr "Корисници"
+
+msgid "UTF-8"
+msgstr "УТФ‑8"
 
 msgid "Utilities"
 msgstr "Алатке"
@@ -9031,6 +9459,9 @@ msgid "Valid"
 msgstr "Потврдан"
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9067,6 +9498,9 @@ msgstr "Променљиве"
 msgid "Variance"
 msgstr "Варијанса"
 
+msgid "Variant"
+msgstr "Варијанта"
+
 msgid "Vector"
 msgstr "Вектор"
 
@@ -9093,6 +9527,9 @@ msgstr "Издање %1"
 
 msgid "Vertical"
 msgstr "Усправно"
+
+msgid "_Vertical"
+msgstr "_Усправно"
 
 msgid "Very Large"
 msgstr "врло велика"
@@ -9126,6 +9563,9 @@ msgstr "&Приказ"
 
 msgid "_View"
 msgstr "_Преглед"
+
+msgid "View mode"
+msgstr "Режим приказа"
 
 msgid "View Options"
 msgstr "Опције за приказ"
@@ -9286,6 +9726,9 @@ msgstr "Вај‑фај"
 msgid "Wikipedia"
 msgstr "Википедија"
 
+msgid "Wind"
+msgstr "Ветар"
+
 msgid "Window"
 msgstr "Прозор"
 
@@ -9328,11 +9771,17 @@ msgstr "Реч"
 msgid "Word Count"
 msgstr "Број речи"
 
+msgid "Word wrap"
+msgstr "Прелом речи"
+
 msgid "Words"
 msgstr "Речи"
 
 msgid "Work"
 msgstr "Посао"
+
+msgid "Workspace"
+msgstr "Радни простор"
 
 msgid "World"
 msgstr ""
@@ -9372,6 +9821,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Година"
+
+msgid "&Year"
+msgstr "&Година"
 
 msgid "Yearly"
 msgstr "годишње"
@@ -9434,6 +9886,9 @@ msgstr "&Увеличање"
 
 msgid "_Zoom"
 msgstr "_Увећање"
+
+msgid "Zoom factor"
+msgstr "Фактор увеличања"
 
 msgid "Zoom In"
 msgstr "Увећај"

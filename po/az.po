@@ -82,9 +82,6 @@ msgstr " və "
 msgid " (default)"
 msgstr " (standart)"
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 
@@ -355,17 +355,20 @@ msgstr "_Haqqında"
 msgid "About %1"
 msgstr "%1 haqqında"
 
-msgid "About KDE"
-msgstr "KDE haqqında"
-
 msgid "Abstract"
 msgstr "Abstrakt"
+
+msgid "Acceleration"
+msgstr "Sürətləndirmə"
 
 msgid "Accept"
 msgstr "Qəbul etmək"
 
 msgid "Accepted"
 msgstr "Qəbul edildi"
+
+msgid "Access"
+msgstr ""
 
 msgid "Accessed"
 msgstr "Giriş tarixi"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "Əlifba sırası ilə"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Alternativ"
+
 msgid "Alternative"
 msgstr "Alternativ"
 
@@ -712,8 +721,14 @@ msgstr "Şərhlər"
 msgid "Anonymous"
 msgstr "Anonim"
 
+msgid "Answer"
+msgstr "Cavab"
+
 msgid "Antarctica"
 msgstr "Antarktika"
+
+msgid "Antialiasing"
+msgstr "Kənar düzəltməsi"
 
 msgid "Any"
 msgstr "İstənilən"
@@ -883,6 +898,9 @@ msgstr "Kimlik doğrulaması tələb olunur"
 msgid "Author"
 msgstr "Müəllif"
 
+msgid "Author name"
+msgstr "Müəllifin adı"
+
 msgid "Authors"
 msgstr "Müəlliflər"
 
@@ -928,6 +946,9 @@ msgstr "Azərbaycanca"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr ""
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&Geriyə"
 msgid "_Back"
 msgstr "_Geri"
 
+msgid "Backend"
+msgstr "Modul"
+
 msgid "Background"
 msgstr "Arxa plan"
+
+msgid "&Background"
+msgstr "Arxa &Fonu"
 
 msgid "Background Color"
 msgstr "Arxa fon rəngi"
@@ -951,6 +978,9 @@ msgstr "Arxa plan rəngi"
 
 msgid "&Background color"
 msgstr ""
+
+msgid "Background image"
+msgstr "Arxa plan rəsmi"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "Tarazlaşdırılmış"
 
 msgid "Baltic"
 msgstr "Baltik dillər"
+
+msgid "Bandwidth"
+msgstr ""
 
 msgid "Bangladesh"
 msgstr "Banqladeş"
@@ -999,6 +1032,9 @@ msgstr "Bas"
 
 msgid "Battery"
 msgstr "Batareya"
+
+msgid "BCC"
+msgstr ""
 
 msgid "Bcc"
 msgstr "Gizli Surəti (Bcc)"
@@ -1156,23 +1192,8 @@ msgstr "Şöbə"
 msgid "Brazil"
 msgstr "Braziliya"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "KDE VDG tərəfindən Breeze İş mühiti görünüşü"
-
-msgid "Breeze Dark"
-msgstr "Breeze Qara"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "KDE VDG tərəfindən Breeze Qara"
-
 msgid "Breton"
 msgstr "Breton dili"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "Körpü"
@@ -1309,18 +1330,6 @@ msgstr "İmtina &etmək"
 msgid "Canceled"
 msgstr "İmtina edildi"
 
-msgid "Cancelled"
-msgstr "Ləğv Edildi"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr ""
 
@@ -1339,14 +1348,14 @@ msgstr "Cümləni Böyük hərflə başladın"
 msgid "Caps Lock is on"
 msgstr "Caps Lock açıq"
 
+msgid "Caption"
+msgstr "Başlıq"
+
 msgid "Capture"
 msgstr "Yaxala"
 
 msgid "Car"
 msgstr "Avtomobil"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Kaskad"
@@ -1435,6 +1444,9 @@ msgstr "Dəyişdir..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "Kanal"
 
@@ -1452,6 +1464,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Hərf"
+
+msgid "Character set"
+msgstr ""
 
 msgid "Characters"
 msgstr ""
@@ -1684,6 +1699,9 @@ msgstr "Rəng sxemi"
 msgid "Color Space"
 msgstr "Rəng sahəsi"
 
+msgid "Color space"
+msgstr "Rəng sahəsi"
+
 msgid "Color theme"
 msgstr "Rəng sxemi"
 
@@ -1705,14 +1723,8 @@ msgstr "Sütunlar"
 msgid "Comma"
 msgstr "Vergül"
 
-msgid "COMMAND"
-msgstr "ƏMR"
-
 msgid "Command"
 msgstr "Əmr"
-
-msgid "command"
-msgstr "command"
 
 msgid "Command Line"
 msgstr "Əmr Sətiri"
@@ -1726,6 +1738,9 @@ msgstr "Əmrlər"
 msgid "Comment"
 msgstr "Şərh"
 
+msgid "comment"
+msgstr "şərh"
+
 msgid "Comments"
 msgstr "Şərhlər"
 
@@ -1735,11 +1750,17 @@ msgstr "Göndərmək"
 msgid "Common"
 msgstr "Ümumi"
 
+msgid "Common Name"
+msgstr "Tanınmış adı"
+
 msgid "Comoros"
 msgstr "Komor"
 
 msgid "Compact"
 msgstr "Yığcam"
+
+msgid "Company"
+msgstr "Şirkət"
 
 msgid "Compare"
 msgstr "Tutuşdurmaq"
@@ -1777,6 +1798,9 @@ msgstr "Kompyuter"
 msgid "Condition"
 msgstr "Vəziyyət"
 
+msgid "Conditions"
+msgstr "Şərtlər"
+
 msgid "Confidential"
 msgstr "Məxfi"
 
@@ -1807,6 +1831,9 @@ msgstr "Veb Qısaltmalarını Tənzimləmək..."
 msgid "Confirm"
 msgstr "Təsdiq etmək"
 
+msgid "Confirm Password"
+msgstr "Şifrənin Təsdiqi"
+
 msgid "Confirmation"
 msgstr "Təsdiqləmə"
 
@@ -1818,6 +1845,9 @@ msgstr "Təsdiqləndi"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Standart Tətbiq Qısayolları ilə ziddiyyət"
+
+msgid "Conflicts"
+msgstr ""
 
 msgid "Connect"
 msgstr "Qoşmaq"
@@ -1843,6 +1873,9 @@ msgstr "Bağlantı xətası"
 msgid "Connection Settings"
 msgstr "Bağlantı ayarları"
 
+msgid "Connection type"
+msgstr "Bağlantı Növü"
+
 msgid "Connections"
 msgstr "Bağlantılar"
 
@@ -1851,9 +1884,6 @@ msgstr "Konsol"
 
 msgid "Constant"
 msgstr "Sabit"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "Əlaqə"
@@ -1867,14 +1897,14 @@ msgstr ""
 msgid "Contains"
 msgstr "İbarətdir"
 
-msgid "contains"
-msgstr "bunu daxil edirsə"
-
 msgid "Content"
 msgstr "Tərkibi"
 
 msgid "Content Type"
 msgstr ""
+
+msgid "Content type"
+msgstr "Məzmun növü"
 
 msgid "Contents"
 msgstr "Məzmun"
@@ -1897,11 +1927,17 @@ msgstr "Kontrast"
 msgid "Contributor"
 msgstr "Bu işə töhvə verənlər"
 
+msgid "Contributors"
+msgstr "Dəstəkçilər"
+
 msgid "Control"
 msgstr "Control"
 
 msgid "Convert"
 msgstr "Dönüşdür"
+
+msgid "Convert to"
+msgstr "Çevirmək"
 
 msgid "Convert to Path"
 msgstr ""
@@ -1920,9 +1956,6 @@ msgstr "Kopt"
 
 msgid "Copy"
 msgstr "Kopyalamaq"
-
-msgid "copy"
-msgstr "köçürt"
 
 msgid "&Copy"
 msgstr "&Kopyalamaq"
@@ -1975,6 +2008,9 @@ msgstr ""
 msgid "Copyright"
 msgstr "Müəllif Hüquqları"
 
+msgid "Correct"
+msgstr "Düzgündür"
+
 msgid "Cost"
 msgstr ""
 
@@ -1998,6 +2034,9 @@ msgstr "Ölkə"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "CPU istifadəsi"
 
 msgid "Create"
 msgstr "Yaratmaq"
@@ -2026,6 +2065,9 @@ msgstr "Yaradıcı"
 msgid "Credentials"
 msgstr "İstifadəçi hesabları"
 
+msgid "Credit"
+msgstr "Hazırlayanlar"
+
 msgid "Credits"
 msgstr "Minnətdarlıq"
 
@@ -2052,15 +2094,6 @@ msgstr ""
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr ""
 
 msgid "Cuba"
 msgstr "Kuba"
@@ -2089,8 +2122,14 @@ msgstr "Qövslər"
 msgid "Custom"
 msgstr "Xüsusi"
 
+msgid "&Custom"
+msgstr ""
+
 msgid "Custom..."
 msgstr "Xüsusi..."
+
+msgid "Custom color"
+msgstr "Başqa rəng"
 
 msgid "Custom Font"
 msgstr "Fərdi şrift"
@@ -2164,6 +2203,9 @@ msgstr "Verilənlər"
 msgid "Database"
 msgstr "Varilənlər Bazası"
 
+msgid "Database name"
+msgstr "Verilənlər bazasının adı"
+
 msgid "Date"
 msgstr "Tarix"
 
@@ -2179,14 +2221,20 @@ msgstr "Tarix və Vaxt"
 msgid "Date Format"
 msgstr "Tarix formatı"
 
+msgid "Date format"
+msgstr "Tarix formatı"
+
 msgid "Date Modified"
 msgstr "Dəyişiklik tarixi"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr ""
 
 msgid "Day"
 msgstr "Gün"
+
+msgid "day"
+msgstr "gün"
 
 msgid "Days"
 msgstr "Günlər"
@@ -2235,6 +2283,9 @@ msgstr "Standart"
 
 msgid "default"
 msgstr "standart"
+
+msgid "Default value"
+msgstr "Susmaya görə ölçü"
 
 msgid "Defaults"
 msgstr "Standart"
@@ -2311,6 +2362,9 @@ msgstr "Sıxlıq"
 msgid "Deny"
 msgstr "Qadağan etmək"
 
+msgid "Department"
+msgstr "Şöbə"
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2343,6 +2397,12 @@ msgstr "İş masası"
 
 msgid "Destination"
 msgstr "Təyinat"
+
+msgid "Destination Folder"
+msgstr "Təyinat qovluğu"
+
+msgid "Destination folder"
+msgstr "Təyinat qovluğu"
 
 msgid "Detach"
 msgstr "Qopart"
@@ -2515,6 +2575,9 @@ msgstr "Həll etmə"
 msgid "Distance"
 msgstr "Məsafə"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "Böl"
 
@@ -2569,11 +2632,11 @@ msgstr "Sənədlər"
 msgid "does not contain"
 msgstr "bunu daxil etmirsə"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Domen"
+
+msgid "_Domain"
+msgstr "_Domen"
 
 msgid "Dominica"
 msgstr "Dominika"
@@ -2677,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Dinamik"
+
 msgid "E"
 msgstr "E"
 
@@ -2728,6 +2794,9 @@ msgstr ""
 msgid "Editing"
 msgstr "Düzəliş"
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "Redaktor"
 
@@ -2743,9 +2812,6 @@ msgstr "Misir"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Çıxart"
 
@@ -2755,17 +2821,29 @@ msgstr "Çı_xart"
 msgid "El Salvador"
 msgstr "El-Salvador"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr ""
 
 msgid "Element"
 msgstr "Element"
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "Ellips"
 
+msgid "EMail"
+msgstr "E-Poçt"
+
 msgid "Email"
 msgstr "E-poçt"
+
+msgid "E-Mail"
+msgstr "E-Mail"
 
 msgid "E-mail"
 msgstr "E-poçt"
@@ -2845,6 +2923,9 @@ msgstr "son"
 msgid "End Date"
 msgstr "Bitmə tarixi"
 
+msgid "End date"
+msgstr "Son tarix"
+
 msgid "End Time"
 msgstr ""
 
@@ -2866,8 +2947,14 @@ msgstr "İngiliscə"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "Ad göstərin"
+
 msgid "Enter password"
 msgstr ""
+
+msgid "Entries"
+msgstr "Elementlər"
 
 msgid "Entry"
 msgstr "Giriş"
@@ -2941,6 +3028,9 @@ msgstr "Hadisə"
 msgid "Events"
 msgstr "Tədbirlər"
 
+msgid "Every"
+msgstr "Hər"
+
 msgid "Everyone"
 msgstr "Hamısı"
 
@@ -2958,6 +3048,9 @@ msgstr "Nümunələr"
 
 msgid "Exception"
 msgstr "İstisna"
+
+msgid "Exceptions"
+msgstr "İstisnalar"
 
 msgid "Exclude"
 msgstr ""
@@ -2992,11 +3085,17 @@ msgstr "Hamısını açmaq"
 msgid "Experimental"
 msgstr "Təcrübi"
 
+msgid "Expiration"
+msgstr "Bitmə Tarixi"
+
 msgid "Expired"
 msgstr "Vaxtı Bitib"
 
 msgid "Expires"
 msgstr ""
+
+msgid "Expires On"
+msgstr "Bitmə tarixi"
 
 msgid "Export"
 msgstr "İxrac etmək"
@@ -3031,6 +3130,9 @@ msgstr "İtxal seçənəkləri"
 msgid "Exposure"
 msgstr ""
 
+msgid "Exposure Time"
+msgstr "Ekspozisiya Müddəti"
+
 msgid "Expression"
 msgstr "İfadə"
 
@@ -3051,6 +3153,9 @@ msgstr "Çıxartmaq"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr ""
 
 msgid "Facebook"
 msgstr "FAcebook"
@@ -3109,6 +3214,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr "Sahə"
+
+msgid "Fields"
+msgstr "Sahələr"
+
 msgid "Fiji"
 msgstr "Fici"
 
@@ -3141,6 +3252,9 @@ msgstr "Fayl mövcuddur"
 
 msgid "File Format"
 msgstr "Fayl formatı"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3201,6 +3315,9 @@ msgstr "Doldurma rəngi"
 
 msgid "Filter"
 msgstr "Süzgəc"
+
+msgid "&Filter"
+msgstr "&Süzgəc"
 
 msgid "Filter..."
 msgstr "Süzgəc..."
@@ -3265,6 +3382,9 @@ msgstr "Fin Dili"
 msgid "First"
 msgstr "Birinci"
 
+msgid "First Name"
+msgstr "Adı"
+
 msgid "First Page"
 msgstr "Birinci Səhifə"
 
@@ -3325,6 +3445,9 @@ msgstr "çiçək"
 msgid "Focal Length"
 msgstr "Fokus Məsafəsi"
 
+msgid "Focal length"
+msgstr "Fokal uzunluq"
+
 msgid "Focus"
 msgstr "Fokus"
 
@@ -3346,6 +3469,9 @@ msgstr "Şrift"
 msgid "&Font"
 msgstr "&Şrift"
 
+msgid "_Font"
+msgstr "_Yazı növü"
+
 msgid "Font Color"
 msgstr "Şrift rəngi"
 
@@ -3357,6 +3483,12 @@ msgstr "Yazı Növü Böyüklüyü"
 
 msgid "Font size"
 msgstr "Yazı növü böyüklüyü"
+
+msgid "Font Style"
+msgstr ""
+
+msgid "Font style"
+msgstr "Şrift tərzi"
 
 msgid "Fonts"
 msgstr "Şriftlər"
@@ -3394,6 +3526,12 @@ msgstr "Form"
 msgid "Format"
 msgstr "Format"
 
+msgid "&Format"
+msgstr "&Format"
+
+msgid "_Format"
+msgstr "_Şəkilləndirmə"
+
 msgid "Formatting"
 msgstr "Formatlama"
 
@@ -3420,6 +3558,12 @@ msgstr "Fraksiya"
 
 msgid "Frame"
 msgstr "Çərçivə"
+
+msgid "Frame Rate"
+msgstr "Kadr tezliyi"
+
+msgid "Frame rate"
+msgstr "Kadrın tezliyi"
 
 msgid "Framerate"
 msgstr ""
@@ -3465,6 +3609,9 @@ msgstr "Tam"
 
 msgid "Full Name"
 msgstr "Tam Ad"
+
+msgid "Full name"
+msgstr "Tam ad"
 
 msgid "Full Screen"
 msgstr "Tam ekran"
@@ -3531,6 +3678,9 @@ msgstr ""
 
 msgid "Gateway"
 msgstr "Şəbəkə keçidi"
+
+msgid "_Gateway"
+msgstr ""
 
 msgid "Gaussian Blur"
 msgstr ""
@@ -3652,6 +3802,9 @@ msgstr "Əvvəlki səhifəyə keç"
 msgid "Goa"
 msgstr "Qoa"
 
+msgid "Goal"
+msgstr "Məqsəd"
+
 msgid "Gold"
 msgstr ""
 
@@ -3706,6 +3859,9 @@ msgstr "Boz"
 msgid "Grid"
 msgstr "Tor"
 
+msgid "&Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Qrup"
 
@@ -3751,6 +3907,9 @@ msgstr ""
 msgid "Hardware"
 msgstr "Avadanlıq"
 
+msgid "Hash"
+msgstr "Heş"
+
 msgid "Hawaiian"
 msgstr "Havay"
 
@@ -3792,6 +3951,9 @@ msgstr "Hündürlük"
 
 msgid "&Height"
 msgstr ""
+
+msgid "_Height"
+msgstr "_Hündürlük"
 
 msgid "Help"
 msgstr "Kömək"
@@ -3837,6 +3999,9 @@ msgstr "Yüksək"
 
 msgid "Highlight"
 msgstr "Vurğulama"
+
+msgid "Highlight color"
+msgstr "İşıqlandırma rəngi"
 
 msgid "Highlighter"
 msgstr "Vurğulamaq"
@@ -3889,8 +4054,17 @@ msgstr "Honq Konq"
 msgid "Horizontal"
 msgstr "Üfüqi"
 
+msgid "_Horizontal"
+msgstr "Ü_füqi"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "Host"
+
+msgid "Host Name"
+msgstr "Host adı"
 
 msgid "Hostname"
 msgstr "Host adı"
@@ -3970,6 +4144,9 @@ msgstr "Id"
 msgid "id"
 msgstr "id"
 
+msgid "Identification"
+msgstr "Kimlik tanıması"
+
 msgid "Identifier"
 msgstr "Kimlik"
 
@@ -4023,6 +4200,12 @@ msgstr "Şəkil ayarları"
 
 msgid "Image Size"
 msgstr "Şəkilin ölçüsü"
+
+msgid "Image size"
+msgstr "Şəkil ölçüsü"
+
+msgid "Image type"
+msgstr "Rəsm növü"
 
 msgid "Image Viewer"
 msgstr "Rəsm Nümayişcisi"
@@ -4099,6 +4282,9 @@ msgstr "Abzası böyütmək"
 msgid "Increase Volume"
 msgstr "Səsi Artır"
 
+msgid "Increment"
+msgstr "Artım"
+
 msgid "Incremental"
 msgstr "Artan"
 
@@ -4110,6 +4296,9 @@ msgstr "İndeks"
 
 msgid "Indexed"
 msgstr ""
+
+msgid "Indexing"
+msgstr "İndekslənir"
 
 msgid "India"
 msgstr "Hindistan"
@@ -4173,6 +4362,9 @@ msgstr "Quraşdırılır"
 
 msgid "Instant"
 msgstr "Ani"
+
+msgid "Instructions"
+msgstr ""
 
 msgid "Integer"
 msgstr ""
@@ -4261,11 +4453,17 @@ msgstr "İrland dilində"
 msgid "is"
 msgstr "bərabərdir"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "İsrail"
 
 msgid "Issued By"
 msgstr "Təhciz edən"
+
+msgid "Issued On"
+msgstr "Buraxılma tarixi"
 
 msgid "Issuer"
 msgstr "Təhcizatçı"
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Qazaxca"
 
@@ -4374,18 +4569,6 @@ msgstr "Qazaxıstan"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Saxlayın"
@@ -4450,26 +4633,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Koreya dili"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Küveyt"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4488,6 +4656,9 @@ msgstr "Albom"
 
 msgid "Language"
 msgstr "Dil"
+
+msgid "&Language"
+msgstr "Di&l"
 
 msgid "_Language"
 msgstr "_Dil"
@@ -4509,6 +4680,12 @@ msgstr "Sonuncu"
 
 msgid "Last Modified"
 msgstr "Son Dəyişdirilən"
+
+msgid "Last modified"
+msgstr "Son dəyişiklik"
+
+msgid "Last Name"
+msgstr "Soyadı"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4621,8 +4798,20 @@ msgstr ""
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr "Sətirlərin sayı"
+
 msgid "Line Numbers"
 msgstr "Sətir Nömrələri"
+
+msgid "Line spacing"
+msgstr "Sətirarası boşluq"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "Sətər tərzi"
 
 msgid "Line Width"
 msgstr ""
@@ -4641,6 +4830,9 @@ msgstr "Keçid"
 
 msgid "link"
 msgstr "keçid"
+
+msgid "Link Text"
+msgstr "Keçid Mətni"
 
 msgid "Link URL"
 msgstr "URL linki"
@@ -4740,6 +4932,9 @@ msgstr "Giriş"
 
 msgid "_Login"
 msgstr ""
+
+msgid "Logo"
+msgstr "Loqo"
 
 msgid "Logout"
 msgstr "Sistemdən Çıxış"
@@ -4936,6 +5131,9 @@ msgstr "Genişləndirmək"
 msgid "Maximum"
 msgstr "Ən çox"
 
+msgid "Maximum width"
+msgstr "Maksimum en"
+
 msgid "May"
 msgstr "May"
 
@@ -4990,6 +5188,9 @@ msgstr "İsmarıc"
 msgid "message"
 msgstr "ismarıc"
 
+msgid "&Message"
+msgstr "&Məktub"
+
 msgid "Messages"
 msgstr ""
 
@@ -5001,6 +5202,9 @@ msgstr "Meta məlumatları"
 
 msgid "Metal"
 msgstr ""
+
+msgid "Metering Mode"
+msgstr "Ölçmə Rejimi"
 
 msgid "meters"
 msgstr "metr"
@@ -5040,6 +5244,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "millisaniyə"
+
+msgid "MIME type"
+msgstr "MİME növü"
 
 msgid "Min"
 msgstr "Min"
@@ -5086,8 +5293,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Mobil"
 
+msgid "Mobile Phone"
+msgstr "Mobil Telefon"
+
 msgid "Mode"
 msgstr "Rejim"
+
+msgid "_Mode"
+msgstr ""
 
 msgid "Model"
 msgstr "Model"
@@ -5184,6 +5397,9 @@ msgstr "Marokko"
 
 msgid "Mount"
 msgstr "Qoşmaq"
+
+msgid "Mount Point"
+msgstr "Qoşulma nöqtəsi"
 
 msgid "Mount point"
 msgstr "Qoşulma nöqtəsi"
@@ -5323,6 +5539,9 @@ msgstr "_Ad"
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr ""
+
 msgid "Namespace"
 msgstr "Ad boşluğu"
 
@@ -5352,6 +5571,9 @@ msgstr "Nepalca"
 
 msgid "Netherlands"
 msgstr "Hollandiya"
+
+msgid "Netmask"
+msgstr "Şəbəkə maskası"
 
 msgid "Network"
 msgstr "Şəbəkə"
@@ -5563,6 +5785,9 @@ msgstr "Başlıq yoxdur"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr ""
+
 msgid "Noise"
 msgstr "Küy"
 
@@ -5689,6 +5914,9 @@ msgstr "say"
 msgid "Number of columns"
 msgstr "Sütunların sayı"
 
+msgid "Number of rows"
+msgstr ""
+
 msgid "Numbers"
 msgstr "Saylar"
 
@@ -5745,9 +5973,6 @@ msgstr "&Hazır"
 
 msgid "_OK"
 msgstr "_Tamam"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Oman"
@@ -5899,6 +6124,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr ""
 
+msgid "Operating System"
+msgstr "Əməliyyat Sistemi"
+
 msgid "Operation"
 msgstr "Əməliyyat"
 
@@ -5910,6 +6138,9 @@ msgstr "Əməliyyatlar"
 
 msgid "Operator"
 msgstr "Operator"
+
+msgid "Operators"
+msgstr "Operatorlar"
 
 msgid "Optical Character Recognition"
 msgstr "Optik Hərf Tanınması (OCR)"
@@ -5968,6 +6199,9 @@ msgstr "Orijinal ölçüsü"
 msgid "Oriya"
 msgstr "Oriya"
 
+msgid "OS"
+msgstr "ƏS"
+
 msgid "Other"
 msgstr "Digər"
 
@@ -5982,6 +6216,9 @@ msgstr "Digər Tətbiq..."
 
 msgid "Other Options"
 msgstr "Digər seçimlər"
+
+msgid "Other options"
+msgstr ""
 
 msgid "Others"
 msgstr "Digəriləri"
@@ -6124,6 +6361,9 @@ msgstr "Ana obyekt"
 msgid "Partition"
 msgstr "Bölmə"
 
+msgid "Passphrase"
+msgstr ""
+
 msgid "Password"
 msgstr "Şifrə"
 
@@ -6162,6 +6402,9 @@ msgstr "Yollar"
 
 msgid "Pattern"
 msgstr "Nümünə"
+
+msgid "_Pattern"
+msgstr "_Naxış"
 
 msgid "Patterns"
 msgstr "Naxış"
@@ -6247,8 +6490,14 @@ msgstr "Filippin"
 msgid "Phone"
 msgstr "Telefon"
 
+msgid "Phone Numbers"
+msgstr "Telefon nömrələri"
+
 msgid "Photo"
 msgstr "Foto"
+
+msgid "Photos"
+msgstr ""
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6270,6 +6519,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr ""
+
+msgid "PIN"
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "Sancaqla"
@@ -6298,9 +6550,6 @@ msgstr "Adi mətn"
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Platforma"
 
@@ -6319,7 +6568,13 @@ msgstr "Oxutma"
 msgid "Player"
 msgstr ""
 
+msgid "Player 1"
+msgstr ""
+
 msgid "Player %1"
+msgstr ""
+
+msgid "Player 2"
 msgstr ""
 
 msgid "Players"
@@ -6400,6 +6655,9 @@ msgstr "Port"
 msgid "&Port"
 msgstr "&Port"
 
+msgid "_Port"
+msgstr ""
+
 msgid "Portrait"
 msgstr "Portret"
 
@@ -6411,6 +6669,9 @@ msgstr "Portuqal Dili"
 
 msgid "Position"
 msgstr "Mövqe"
+
+msgid "Postal code"
+msgstr ""
 
 msgid "Posterize"
 msgstr "Posterlə"
@@ -6453,6 +6714,9 @@ msgstr "Öncədən baxış"
 
 msgid "&Preview"
 msgstr "&Öncədən Baxış"
+
+msgid "_Preview"
+msgstr "Nü_mayiş"
 
 msgid "Previews"
 msgstr "Miniatür"
@@ -6535,6 +6799,9 @@ msgstr "Gizlilik"
 msgid "Private"
 msgstr "Fərdi"
 
+msgid "Private Key"
+msgstr "Məxfi açar"
+
 msgid "Process"
 msgstr "Proses"
 
@@ -6562,6 +6829,9 @@ msgstr "Profillər"
 msgid "Program"
 msgstr "Proqram"
 
+msgid "Programs"
+msgstr "Proqramlar"
+
 msgid "Progress"
 msgstr "İnkişaf"
 
@@ -6570,6 +6840,9 @@ msgstr "Layihə"
 
 msgid "&Project"
 msgstr "&Layihə"
+
+msgid "Project name"
+msgstr "Layihə adı"
 
 msgid "Projects"
 msgstr "Layihələr"
@@ -6643,6 +6916,9 @@ msgstr "piksel"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "D"
+
 msgid "Qatar"
 msgstr "Katar"
 
@@ -6698,6 +6974,9 @@ msgstr ""
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr "Sitatlar"
+
 msgid "R"
 msgstr "R"
 
@@ -6728,6 +7007,9 @@ msgstr "Dərəcəsi"
 msgid "Rating"
 msgstr "Reytinq"
 
+msgid "Ratio"
+msgstr ""
+
 msgid "Raw"
 msgstr "İşlənməmiş"
 
@@ -6755,11 +7037,17 @@ msgstr "Hazırdır"
 msgid "Ready."
 msgstr ""
 
+msgid "Realm"
+msgstr "Sahə"
+
 msgid "Reason"
 msgstr "Səbəb"
 
 msgid "Reassign"
 msgstr "Yeni təyinat"
+
+msgid "Received"
+msgstr "Qəbul olundu"
 
 msgid "Recent"
 msgstr "Sonuncu"
@@ -6781,6 +7069,9 @@ msgstr "Yazılır"
 
 msgid "Rectangle"
 msgstr "Düzbucaqlı"
+
+msgid "Recurrence"
+msgstr "Təkrarlanma"
 
 msgid "Recursive"
 msgstr "Rekursiv"
@@ -6911,6 +7202,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Silinir"
+
 msgid "Rename"
 msgstr "Adını dəyişin"
 
@@ -6931,6 +7225,9 @@ msgstr "Əlfəcinin adını dəyişmək"
 
 msgid "Rename File"
 msgstr ""
+
+msgid "Rendering intent"
+msgstr "Vizuallaşdırma məqsədi"
 
 msgid "Repeat"
 msgstr "Təkrar"
@@ -6953,11 +7250,20 @@ msgstr "_Hamsını Dəyişdir"
 msgid "Replace an existing instance"
 msgstr "Mövcud nümunə ilə əvəzləmək"
 
+msgid "Replace With"
+msgstr "Əvəzləmək"
+
+msgid "Replace with"
+msgstr "Bununla dəyişdirin"
+
 msgid "Replacement"
 msgstr "Əvəzləmə"
 
 msgid "Reply"
 msgstr "Cavab"
+
+msgid "Reply-To"
+msgstr "Cavab verin"
 
 msgid "Report"
 msgstr ""
@@ -6976,6 +7282,9 @@ msgstr ""
 
 msgid "Reports"
 msgstr ""
+
+msgid "Repository"
+msgstr "Repozitoriya"
 
 msgid "Required"
 msgstr "Tələb olunur"
@@ -7088,6 +7397,9 @@ msgstr "Sağdan sola"
 msgid "Right-click"
 msgstr "Sağ klik"
 
+msgid "Rights"
+msgstr "İmtiyazlar"
+
 msgid "River"
 msgstr ""
 
@@ -7142,6 +7454,9 @@ msgstr "sətir"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
@@ -7150,6 +7465,9 @@ msgstr "Başladın"
 
 msgid "&Run"
 msgstr "&Başladın"
+
+msgid "Run command"
+msgstr "Əmri başlatmaq"
 
 msgid "Run in terminal"
 msgstr "Terminalda başladın"
@@ -7286,6 +7604,9 @@ msgstr "Rəsmi Qeyd Et"
 msgid "_Save Image As..."
 msgstr "Rəsmi Fərqli _Qeyd Et..."
 
+msgid "Save Location"
+msgstr "Saxlama yeri"
+
 msgid "Save Project"
 msgstr ""
 
@@ -7294,6 +7615,9 @@ msgstr "Sesiyanı saxlamaq"
 
 msgid "Save Settings"
 msgstr "Ayarları Saxlayın"
+
+msgid "Save to"
+msgstr "Belə saxlamaq"
 
 msgid "Saved"
 msgstr ""
@@ -7325,11 +7649,17 @@ msgstr "Oxudun"
 msgid "Scanner"
 msgstr "Skaner"
 
+msgid "Scanning"
+msgstr "Skan edilir"
+
 msgid "Scanning..."
 msgstr "Axtarılır..."
 
 msgid "Schedule"
 msgstr "Planlaşdırma"
+
+msgid "Scheduler"
+msgstr "Planlama"
 
 msgid "Scheduling"
 msgstr ""
@@ -7406,11 +7736,17 @@ msgstr "Axtarış..."
 msgid "Search Bar"
 msgstr ""
 
+msgid "Search for"
+msgstr ""
+
 msgid "_Search for"
 msgstr "_Axtar"
 
 msgid "Search for '%1' with"
 msgstr "\"%1\" ifadəsini bununla axtar"
+
+msgid "Search in"
+msgstr ""
 
 msgid "Search Options"
 msgstr "Axtarış seçimləri"
@@ -7514,6 +7850,9 @@ msgstr "Seçim"
 msgid "Selections"
 msgstr "Seçilmişlər"
 
+msgid "Self"
+msgstr "Özü"
+
 msgid "Semicolon"
 msgstr "Nöqtəli vergül"
 
@@ -7553,6 +7892,9 @@ msgstr "Serbiya"
 msgid "Serbian"
 msgstr "Serbcə"
 
+msgid "Serial"
+msgstr "Serial"
+
 msgid "Serial Number"
 msgstr "Seriya nömrəsi"
 
@@ -7568,8 +7910,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "Server"
 
+msgid "&Server"
+msgstr ""
+
 msgid "Server URL"
 msgstr "Serverin URL ünvanı"
+
+msgid "Servers"
+msgstr "Vericilər"
 
 msgid "Service"
 msgstr "Xidmət"
@@ -7582,6 +7930,9 @@ msgstr "Sesiya"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Sesiyanın adı"
 
 msgid "Sessions"
 msgstr "Sesiyalar"
@@ -7612,6 +7963,12 @@ msgstr "Vaciblik"
 
 msgid "Seychelles"
 msgstr "Seyşel adaları"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7651,6 +8008,12 @@ msgstr "Kəskinlik"
 
 msgid "Shear"
 msgstr "Doğra"
+
+msgid "Sheet"
+msgstr "Vərəq"
+
+msgid "Sheets"
+msgstr ""
 
 msgid "Shell"
 msgstr "Balıqqulağı"
@@ -7772,6 +8135,9 @@ msgstr ""
 msgid "Sinhala"
 msgstr "Sinhala"
 
+msgid "Site"
+msgstr "Sayt"
+
 msgid "Size"
 msgstr "Ölçü"
 
@@ -7780,6 +8146,9 @@ msgstr ""
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "_Böyüklük"
 
 msgid "Size: %1"
 msgstr "Ölçü: %1"
@@ -7807,6 +8176,9 @@ msgstr ""
 
 msgid "Slideshow"
 msgstr "Dəyişən Şəkillər"
+
+msgid "Slope"
+msgstr "Eniş"
 
 msgid "Slovak"
 msgstr "Slovak dili"
@@ -7862,6 +8234,12 @@ msgstr "Bütöv rəng"
 msgid "Solomon Islands"
 msgstr "Solomon adaları"
 
+msgid "Solution"
+msgstr ""
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "Somali"
 
@@ -7879,6 +8257,9 @@ msgstr "Sıralama"
 
 msgid "Sound"
 msgstr "Səs"
+
+msgid "Sounds"
+msgstr ""
 
 msgid "Soundtrack"
 msgstr ""
@@ -7947,6 +8328,9 @@ msgid "Spell Check"
 msgstr "Orfoqrafiya yoxlaması"
 
 msgid "Spell Checking"
+msgstr "Orfoqrafiya yoxlaması"
+
+msgid "Spellcheck"
 msgstr "Orfoqrafiya yoxlaması"
 
 msgid "Spelling"
@@ -8186,6 +8570,9 @@ msgstr "Sudanc"
 msgid "Sunday"
 msgstr "Bazar"
 
+msgid "Sunrise"
+msgstr "Gün çıxır"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8242,6 +8629,9 @@ msgstr ""
 
 msgid "Synchronize"
 msgstr "Eyniləşdirmə"
+
+msgid "Syntax"
+msgstr "Sintaksis"
 
 msgid "Syriac"
 msgstr "Suriya əlifbası"
@@ -8305,6 +8695,9 @@ msgstr "Tanzaniya"
 
 msgid "Target"
 msgstr "Hədəf"
+
+msgid "Targets"
+msgstr "Hədəflər"
 
 msgid "Task"
 msgstr "Tapşırıq"
@@ -8419,6 +8812,9 @@ msgstr ""
 msgid "Theme"
 msgstr "Görünüş"
 
+msgid "&Theme"
+msgstr "&Mövzu"
+
 msgid "Themes"
 msgstr "Mövzular"
 
@@ -8439,6 +8835,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr ""
+
+msgid "Threads"
+msgstr "Axınlar"
 
 msgid "Threshold"
 msgstr "Aralıq"
@@ -8466,6 +8865,9 @@ msgstr "Yan-yana"
 
 msgid "Tiled"
 msgstr "Yan-yana"
+
+msgid "Tiles"
+msgstr "Kirəmitlər"
 
 msgid "Tilt"
 msgstr "Meyillk"
@@ -8515,6 +8917,9 @@ msgstr "&Başlıq"
 msgid "_Title"
 msgstr "_Başlıq"
 
+msgid "Titles"
+msgstr ""
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8537,6 +8942,9 @@ msgid "TODO"
 msgstr ""
 
 msgid "Todo"
+msgstr "Tapşırıq"
+
+msgid "To-do"
 msgstr "Tapşırıq"
 
 msgid "Toggle Fullscreen"
@@ -8569,6 +8977,9 @@ msgstr "Alət"
 msgid "Tool Options"
 msgstr "Vasitə Seçənəkləri"
 
+msgid "Toolbar"
+msgstr "Alətlər paneli"
+
 msgid "_Toolbar"
 msgstr "_Vasitə Çubuğu"
 
@@ -8589,6 +9000,9 @@ msgstr "&Alətlər"
 
 msgid "_Tools"
 msgstr "V_asitələr"
+
+msgid "Tooltip"
+msgstr "İp ucları"
 
 msgid "Top"
 msgstr "Yuxarı"
@@ -8749,11 +9163,17 @@ msgstr "növ"
 msgid "&Type"
 msgstr "&Növ"
 
+msgid "_Type"
+msgstr "_Növ"
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "Uqanda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ukrayna"
@@ -8986,6 +9406,9 @@ msgstr "İstifadə olunan"
 msgid "User"
 msgstr "İstifadəçi"
 
+msgid "User Agent"
+msgstr "İstifadəçi Agenti"
+
 msgid "User Certificate"
 msgstr "İstifadəçi sertifikatı"
 
@@ -9010,11 +9433,17 @@ msgstr "İstifadəçi şifrəsi"
 msgid "Username"
 msgstr "İstifadəçi adı"
 
+msgid "&Username"
+msgstr "&İstifadəçi adı"
+
 msgid "_Username"
 msgstr "_İstifadəçi Adı"
 
 msgid "Users"
 msgstr "İstifadəçilər"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Vasitələr"
@@ -9036,6 +9465,9 @@ msgstr "Keçərli"
 
 msgid "Valid from"
 msgstr ""
+
+msgid "Valid until"
+msgstr "Qüvvədən düşür"
 
 msgid "Validity"
 msgstr "Etibarlılıq"
@@ -9069,6 +9501,9 @@ msgstr "Dəyişənlər"
 msgid "Variance"
 msgstr "Yayınma"
 
+msgid "Variant"
+msgstr "Variant"
+
 msgid "Vector"
 msgstr ""
 
@@ -9095,6 +9530,9 @@ msgstr "Versiya %1"
 
 msgid "Vertical"
 msgstr "Şaquli"
+
+msgid "_Vertical"
+msgstr "Ş_aquli"
 
 msgid "Very Large"
 msgstr "Çox geniş"
@@ -9128,6 +9566,9 @@ msgstr "&Baxış"
 
 msgid "_View"
 msgstr "_Görünüş"
+
+msgid "View mode"
+msgstr "Baxış rejimi"
 
 msgid "View Options"
 msgstr ""
@@ -9288,6 +9729,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "Vikipedia"
 
+msgid "Wind"
+msgstr "Külək"
+
 msgid "Window"
 msgstr "Pəncərə"
 
@@ -9330,11 +9774,17 @@ msgstr "Söz"
 msgid "Word Count"
 msgstr "Sözlərin sayı"
 
+msgid "Word wrap"
+msgstr "Sətirdən sətirə keçmə"
+
 msgid "Words"
 msgstr "Sözlər"
 
 msgid "Work"
 msgstr "İş Ünvanı"
+
+msgid "Workspace"
+msgstr "İş sahəsi"
 
 msgid "World"
 msgstr ""
@@ -9374,6 +9824,9 @@ msgstr ""
 
 msgid "Year"
 msgstr "İl"
+
+msgid "&Year"
+msgstr "&İl"
 
 msgid "Yearly"
 msgstr "Hər il"
@@ -9434,6 +9887,9 @@ msgstr "&Miqyas"
 
 msgid "_Zoom"
 msgstr "_Yaxınlıq"
+
+msgid "Zoom factor"
+msgstr "Miqyas əmsalı"
 
 msgid "Zoom In"
 msgstr "Miqyası böyüdün"

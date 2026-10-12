@@ -82,9 +82,6 @@ msgstr "和"
 msgid " (default)"
 msgstr " (默认)"
 
-msgid "© KDE Community"
-msgstr "© KDE Community"
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "已经存在同名的文件“%1”，您确定要覆盖它吗？"
 
@@ -355,17 +355,20 @@ msgstr "关于(_A)"
 msgid "About %1"
 msgstr "关于 %1"
 
-msgid "About KDE"
-msgstr "关于 KDE"
-
 msgid "Abstract"
 msgstr "摘要"
+
+msgid "Acceleration"
+msgstr "加速度"
 
 msgid "Accept"
 msgstr "接受"
 
 msgid "Accepted"
 msgstr "已接受"
+
+msgid "Access"
+msgstr "访问"
 
 msgid "Accessed"
 msgstr "访问时间"
@@ -384,6 +387,9 @@ msgstr "账户信息"
 
 msgid "Account Name"
 msgstr "账户名称"
+
+msgid "Account name"
+msgstr "账户名称："
 
 msgid "Accounts"
 msgstr "账户"
@@ -637,6 +643,9 @@ msgstr "按字母顺序"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "备选："
+
 msgid "Alternative"
 msgstr "另类"
 
@@ -712,8 +721,14 @@ msgstr "批注"
 msgid "Anonymous"
 msgstr "匿名"
 
+msgid "Answer"
+msgstr "回复"
+
 msgid "Antarctica"
 msgstr "南极洲"
+
+msgid "Antialiasing"
+msgstr "抗锯齿"
 
 msgid "Any"
 msgstr "任意"
@@ -883,6 +898,9 @@ msgstr "需要进行身份认证"
 msgid "Author"
 msgstr "作者"
 
+msgid "Author name"
+msgstr "作者姓名"
+
 msgid "Authors"
 msgstr "作者"
 
@@ -928,6 +946,9 @@ msgstr "阿塞拜疆语"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "后退(&B)"
 msgid "_Back"
 msgstr "后退(_B)"
 
+msgid "Backend"
+msgstr "后端"
+
 msgid "Background"
 msgstr "背景"
+
+msgid "&Background"
+msgstr "背景(&B)"
 
 msgid "Background Color"
 msgstr "背景颜色"
@@ -951,6 +978,9 @@ msgstr "背景色"
 
 msgid "&Background color"
 msgstr "背景颜色(&B)："
+
+msgid "Background image"
+msgstr "背景图像"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "平衡"
 
 msgid "Baltic"
 msgstr "波罗的语"
+
+msgid "Bandwidth"
+msgstr "带宽"
 
 msgid "Bangladesh"
 msgstr "孟加拉"
@@ -999,6 +1032,9 @@ msgstr "低音"
 
 msgid "Battery"
 msgstr "电池"
+
+msgid "BCC"
+msgstr "密送"
 
 msgid "Bcc"
 msgstr "密送"
@@ -1156,23 +1192,8 @@ msgstr "分支"
 msgid "Brazil"
 msgstr "巴西"
 
-msgid "Breeze"
-msgstr "Breeze 微风"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze 微风主题，由 KDE VDG (视觉设计团队) 设计制作"
-
-msgid "Breeze Dark"
-msgstr "Breeze 微风深色"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze 微风深色主题，由 KDE VDG (视觉设计团队) 设计制作"
-
 msgid "Breton"
 msgstr "布列塔尼语"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "桥梁"
@@ -1256,7 +1277,7 @@ msgid "C"
 msgstr "C"
 
 msgid "CA Certificate"
-msgstr "CA 证书："
+msgstr "CA 证书"
 
 msgid "Cache"
 msgstr "缓存"
@@ -1309,18 +1330,6 @@ msgstr "取消(&A)"
 msgid "Canceled"
 msgstr "已取消"
 
-msgid "Cancelled"
-msgstr "已取消"
-
-msgid "cannot load editor plugin: %s"
-msgstr "无法加载编辑器插件：%s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "无法加载工厂（factory）%s，来自插件：%s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "画布"
 
@@ -1339,14 +1348,14 @@ msgstr "字首大写"
 msgid "Caps Lock is on"
 msgstr "大写锁定已打开"
 
+msgid "Caption"
+msgstr "说明文字"
+
 msgid "Capture"
 msgstr "捕获"
 
 msgid "Car"
 msgstr "汽车"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascade 飞瀑"
@@ -1435,6 +1444,9 @@ msgstr "更改..."
 msgid "Changed"
 msgstr "已更改"
 
+msgid "Changes"
+msgstr "更改："
+
 msgid "Channel"
 msgstr "通道"
 
@@ -1452,6 +1464,9 @@ msgstr "章节"
 
 msgid "Character"
 msgstr "字符"
+
+msgid "Character set"
+msgstr "字符集"
 
 msgid "Characters"
 msgstr "字符"
@@ -1562,7 +1577,7 @@ msgid "Client"
 msgstr "客户端"
 
 msgid "Clip"
-msgstr "Clip"
+msgstr "剪切"
 
 msgid "Clipboard"
 msgstr "剪贴板"
@@ -1684,6 +1699,9 @@ msgstr "配色方案"
 msgid "Color Space"
 msgstr "色彩空间"
 
+msgid "Color space"
+msgstr "色彩空间："
+
 msgid "Color theme"
 msgstr "颜色主题"
 
@@ -1705,13 +1723,7 @@ msgstr "列"
 msgid "Comma"
 msgstr "逗号"
 
-msgid "COMMAND"
-msgstr "命令"
-
 msgid "Command"
-msgstr "命令"
-
-msgid "command"
 msgstr "命令"
 
 msgid "Command Line"
@@ -1726,6 +1738,9 @@ msgstr "命令"
 msgid "Comment"
 msgstr "注释"
 
+msgid "comment"
+msgstr "附注"
+
 msgid "Comments"
 msgstr "注释"
 
@@ -1735,11 +1750,17 @@ msgstr "提交"
 msgid "Common"
 msgstr "普通"
 
+msgid "Common Name"
+msgstr "常用名"
+
 msgid "Comoros"
 msgstr "科摩罗"
 
 msgid "Compact"
 msgstr "紧凑"
+
+msgid "Company"
+msgstr "公司："
 
 msgid "Compare"
 msgstr "比较"
@@ -1777,6 +1798,9 @@ msgstr "计算机"
 msgid "Condition"
 msgstr "条件"
 
+msgid "Conditions"
+msgstr "条件"
+
 msgid "Confidential"
 msgstr "机密"
 
@@ -1807,6 +1831,9 @@ msgstr "配置网页快捷方式..."
 msgid "Confirm"
 msgstr "确认"
 
+msgid "Confirm Password"
+msgstr "确认密码"
+
 msgid "Confirmation"
 msgstr "确认"
 
@@ -1818,6 +1845,9 @@ msgstr "已确认"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "与标准应用程序快捷键冲突"
+
+msgid "Conflicts"
+msgstr "冲突"
 
 msgid "Connect"
 msgstr "连接"
@@ -1843,6 +1873,9 @@ msgstr "连接失败"
 msgid "Connection Settings"
 msgstr "连接设置"
 
+msgid "Connection type"
+msgstr "连接类型："
+
 msgid "Connections"
 msgstr "连接"
 
@@ -1851,9 +1884,6 @@ msgstr "控制台"
 
 msgid "Constant"
 msgstr "常量"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr "对象 \"%2$s\" 的构造属性 \"%1$s\" 在构造后不能被设定"
 
 msgid "Contact"
 msgstr "联系人"
@@ -1867,13 +1897,13 @@ msgstr "容器"
 msgid "Contains"
 msgstr "包含"
 
-msgid "contains"
-msgstr "包含"
-
 msgid "Content"
 msgstr "内容"
 
 msgid "Content Type"
+msgstr "内容类型"
+
+msgid "Content type"
 msgstr "内容类型"
 
 msgid "Contents"
@@ -1897,11 +1927,17 @@ msgstr "对比度"
 msgid "Contributor"
 msgstr "贡献者"
 
+msgid "Contributors"
+msgstr "贡献者："
+
 msgid "Control"
 msgstr "Ctrl"
 
 msgid "Convert"
 msgstr "转换"
+
+msgid "Convert to"
+msgstr "转换为"
 
 msgid "Convert to Path"
 msgstr "转换为路径"
@@ -1919,9 +1955,6 @@ msgid "Coptic"
 msgstr "科普特字母"
 
 msgid "Copy"
-msgstr "复制"
-
-msgid "copy"
 msgstr "复制"
 
 msgid "&Copy"
@@ -1975,6 +2008,9 @@ msgstr "正在复制文件"
 msgid "Copyright"
 msgstr "版权"
 
+msgid "Correct"
+msgstr "正确"
+
 msgid "Cost"
 msgstr "成本"
 
@@ -1998,6 +2034,9 @@ msgstr "国家"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "处理器占用"
 
 msgid "Create"
 msgstr "创建"
@@ -2026,6 +2065,9 @@ msgstr "创建者"
 msgid "Credentials"
 msgstr "身份验证信息"
 
+msgid "Credit"
+msgstr "权益"
+
 msgid "Credits"
 msgstr "致谢"
 
@@ -2052,15 +2094,6 @@ msgstr "交叉"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+O"
 
 msgid "Cuba"
 msgstr "古巴"
@@ -2089,8 +2122,14 @@ msgstr "曲线"
 msgid "Custom"
 msgstr "自定义"
 
+msgid "&Custom"
+msgstr "自定义(&C)："
+
 msgid "Custom..."
 msgstr "自定义..."
+
+msgid "Custom color"
+msgstr "自定义颜色"
 
 msgid "Custom Font"
 msgstr "自定义字体"
@@ -2164,6 +2203,9 @@ msgstr "数据"
 msgid "Database"
 msgstr "数据库"
 
+msgid "Database name"
+msgstr "数据库名称："
+
 msgid "Date"
 msgstr "日期"
 
@@ -2179,14 +2221,20 @@ msgstr "日期和时间"
 msgid "Date Format"
 msgstr "日期格式"
 
+msgid "Date format"
+msgstr "日期格式"
+
 msgid "Date Modified"
 msgstr "修改日期"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "日期/时间"
 
 msgid "Day"
 msgstr "日"
+
+msgid "day"
+msgstr "天"
 
 msgid "Days"
 msgstr "天"
@@ -2235,6 +2283,9 @@ msgstr "默认"
 
 msgid "default"
 msgstr "默认"
+
+msgid "Default value"
+msgstr "默认值"
 
 msgid "Defaults"
 msgstr "默认"
@@ -2311,6 +2362,9 @@ msgstr "密度"
 msgid "Deny"
 msgstr "拒绝"
 
+msgid "Department"
+msgstr "部门"
+
 msgid "Dependencies"
 msgstr "依赖"
 
@@ -2343,6 +2397,12 @@ msgstr "桌面"
 
 msgid "Destination"
 msgstr "目标"
+
+msgid "Destination Folder"
+msgstr "目标文件夹"
+
+msgid "Destination folder"
+msgstr "目标文件夹："
 
 msgid "Detach"
 msgstr "分离"
@@ -2515,6 +2575,9 @@ msgstr "溶解"
 msgid "Distance"
 msgstr "距离"
 
+msgid "Distribution"
+msgstr "分布"
+
 msgid "Divide"
 msgstr "划分 = 除去"
 
@@ -2569,11 +2632,11 @@ msgstr "文档"
 msgid "does not contain"
 msgstr "不包含"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "域"
+
+msgid "_Domain"
+msgstr "域(_D)"
 
 msgid "Dominica"
 msgstr "多米尼加"
@@ -2677,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "动态"
+
 msgid "E"
 msgstr "东"
 
@@ -2728,6 +2794,9 @@ msgstr "编辑图像"
 msgid "Editing"
 msgstr "编辑"
 
+msgid "Edition"
+msgstr "版本"
+
 msgid "Editor"
 msgstr "编辑器"
 
@@ -2743,9 +2812,6 @@ msgstr "埃及"
 msgid "Egyptian"
 msgstr "埃及"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "弹出"
 
@@ -2755,17 +2821,29 @@ msgstr "弹出(_E)"
 msgid "El Salvador"
 msgstr "萨尔瓦多"
 
+msgid "Elapsed Time"
+msgstr "已用时间"
+
 msgid "Electronic"
 msgstr "电子乐"
 
 msgid "Element"
 msgstr "元素"
 
+msgid "Elements"
+msgstr "元素"
+
 msgid "Ellipse"
 msgstr "椭圆形"
 
+msgid "EMail"
+msgstr "电子邮件"
+
 msgid "Email"
 msgstr "电子邮件"
+
+msgid "E-Mail"
+msgstr "电子邮件："
 
 msgid "E-mail"
 msgstr "电子邮件"
@@ -2845,6 +2923,9 @@ msgstr "结束"
 msgid "End Date"
 msgstr "结束日期"
 
+msgid "End date"
+msgstr "结束日期"
+
 msgid "End Time"
 msgstr "结束时间"
 
@@ -2866,8 +2947,14 @@ msgstr "英语"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "输入名称："
+
 msgid "Enter password"
 msgstr "输入密码"
+
+msgid "Entries"
+msgstr "条目"
 
 msgid "Entry"
 msgstr "条目"
@@ -2941,6 +3028,9 @@ msgstr "事件"
 msgid "Events"
 msgstr "事件"
 
+msgid "Every"
+msgstr "每隔："
+
 msgid "Everyone"
 msgstr "所有人"
 
@@ -2958,6 +3048,9 @@ msgstr "示例"
 
 msgid "Exception"
 msgstr "异常"
+
+msgid "Exceptions"
+msgstr "例外"
 
 msgid "Exclude"
 msgstr "排除"
@@ -2992,11 +3085,17 @@ msgstr "全部展开"
 msgid "Experimental"
 msgstr "实验"
 
+msgid "Expiration"
+msgstr "过期时间："
+
 msgid "Expired"
 msgstr "已过期"
 
 msgid "Expires"
 msgstr "过期"
+
+msgid "Expires On"
+msgstr "有效期至："
 
 msgid "Export"
 msgstr "导出"
@@ -3031,6 +3130,9 @@ msgstr "导出选项"
 msgid "Exposure"
 msgstr "曝光"
 
+msgid "Exposure Time"
+msgstr "曝光时间"
+
 msgid "Expression"
 msgstr "表达式"
 
@@ -3051,6 +3153,9 @@ msgstr "解压"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "光纤"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3109,6 +3214,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "获取"
 
+msgid "Field"
+msgstr "字段"
+
+msgid "Fields"
+msgstr "字段"
+
 msgid "Fiji"
 msgstr "斐济"
 
@@ -3141,6 +3252,9 @@ msgstr "文件已存在"
 
 msgid "File Format"
 msgstr "文件格式"
+
+msgid "File format"
+msgstr "文件格式："
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3201,6 +3315,9 @@ msgstr "填充颜色"
 
 msgid "Filter"
 msgstr "过滤"
+
+msgid "&Filter"
+msgstr "平滑算法(&F)："
 
 msgid "Filter..."
 msgstr "过滤..."
@@ -3265,6 +3382,9 @@ msgstr "芬兰语"
 msgid "First"
 msgstr "最先"
 
+msgid "First Name"
+msgstr "名"
+
 msgid "First Page"
 msgstr "第一页"
 
@@ -3325,6 +3445,9 @@ msgstr "花"
 msgid "Focal Length"
 msgstr "焦距"
 
+msgid "Focal length"
+msgstr "焦距"
+
 msgid "Focus"
 msgstr "焦点"
 
@@ -3346,6 +3469,9 @@ msgstr "字体"
 msgid "&Font"
 msgstr "字体(&F)"
 
+msgid "_Font"
+msgstr "字体(_F)"
+
 msgid "Font Color"
 msgstr "字体颜色"
 
@@ -3357,6 +3483,12 @@ msgstr "字体大小"
 
 msgid "Font size"
 msgstr "字体大小"
+
+msgid "Font Style"
+msgstr "字体样式"
+
+msgid "Font style"
+msgstr "字体样式："
 
 msgid "Fonts"
 msgstr "字体"
@@ -3394,6 +3526,12 @@ msgstr "表单"
 msgid "Format"
 msgstr "格式"
 
+msgid "&Format"
+msgstr "格式(&F)："
+
+msgid "_Format"
+msgstr "格式(_F)："
+
 msgid "Formatting"
 msgstr "格式"
 
@@ -3420,6 +3558,12 @@ msgstr "分数"
 
 msgid "Frame"
 msgstr "帧"
+
+msgid "Frame Rate"
+msgstr "帧速率"
+
+msgid "Frame rate"
+msgstr "帧速率"
 
 msgid "Framerate"
 msgstr "帧率"
@@ -3464,6 +3608,9 @@ msgid "Full"
 msgstr "完全"
 
 msgid "Full Name"
+msgstr "全名"
+
+msgid "Full name"
 msgstr "全名"
 
 msgid "Full Screen"
@@ -3531,6 +3678,9 @@ msgstr "大门"
 
 msgid "Gateway"
 msgstr "网关"
+
+msgid "_Gateway"
+msgstr "网关(_G)"
 
 msgid "Gaussian Blur"
 msgstr "高斯模糊"
@@ -3652,6 +3802,9 @@ msgstr "转到上一页"
 msgid "Goa"
 msgstr "果阿"
 
+msgid "Goal"
+msgstr "目的"
+
 msgid "Gold"
 msgstr "金币"
 
@@ -3706,6 +3859,9 @@ msgstr "灰"
 msgid "Grid"
 msgstr "网格"
 
+msgid "&Grid"
+msgstr "网格(&G)："
+
 msgid "Group"
 msgstr "分组"
 
@@ -3751,6 +3907,9 @@ msgstr "困难"
 msgid "Hardware"
 msgstr "硬件"
 
+msgid "Hash"
+msgstr "Hash"
+
 msgid "Hawaiian"
 msgstr "夏威夷语"
 
@@ -3792,6 +3951,9 @@ msgstr "高度"
 
 msgid "&Height"
 msgstr "高度(&H)："
+
+msgid "_Height"
+msgstr "高度(_H)："
 
 msgid "Help"
 msgstr "帮助"
@@ -3837,6 +3999,9 @@ msgstr "高"
 
 msgid "Highlight"
 msgstr "高亮"
+
+msgid "Highlight color"
+msgstr "突出显示颜色："
 
 msgid "Highlighter"
 msgstr "高亮"
@@ -3889,8 +4054,17 @@ msgstr "中国香港"
 msgid "Horizontal"
 msgstr "水平"
 
+msgid "_Horizontal"
+msgstr "水平(_H)"
+
+msgid "Horizontally"
+msgstr "水平"
+
 msgid "Host"
 msgstr "主机"
+
+msgid "Host Name"
+msgstr "主机名"
 
 msgid "Hostname"
 msgstr "主机名"
@@ -3970,6 +4144,9 @@ msgstr "ID"
 msgid "id"
 msgstr "id"
 
+msgid "Identification"
+msgstr "标识"
+
 msgid "Identifier"
 msgstr "标识符"
 
@@ -4023,6 +4200,12 @@ msgstr "图像设置"
 
 msgid "Image Size"
 msgstr "图像尺寸"
+
+msgid "Image size"
+msgstr "图像大小"
+
+msgid "Image type"
+msgstr "图像类型"
 
 msgid "Image Viewer"
 msgstr "图像查看器"
@@ -4099,6 +4282,9 @@ msgstr "增加缩进"
 msgid "Increase Volume"
 msgstr "增大音量"
 
+msgid "Increment"
+msgstr "增量："
+
 msgid "Incremental"
 msgstr "递增的"
 
@@ -4110,6 +4296,9 @@ msgstr "索引"
 
 msgid "Indexed"
 msgstr "索引"
+
+msgid "Indexing"
+msgstr "正在索引"
 
 msgid "India"
 msgstr "印度"
@@ -4173,6 +4362,9 @@ msgstr "正在安装"
 
 msgid "Instant"
 msgstr "即时"
+
+msgid "Instructions"
+msgstr "指令"
 
 msgid "Integer"
 msgstr "整数"
@@ -4261,11 +4453,17 @@ msgstr "爱尔兰语"
 msgid "is"
 msgstr "是"
 
+msgid "ISBN"
+msgstr "ISBN："
+
 msgid "Israel"
 msgstr "以色列"
 
 msgid "Issued By"
 msgstr "颁发者"
+
+msgid "Issued On"
+msgstr "颁发时间："
 
 msgid "Issuer"
 msgstr "颁发者"
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "坎那达语"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "哈萨克语"
 
@@ -4374,18 +4569,6 @@ msgstr "哈萨克斯坦"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "KDE 社区，Felipe Kinoshita"
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "不压缩"
@@ -4450,26 +4633,11 @@ msgstr "基里巴斯"
 msgid "km"
 msgstr "千米"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "朝鲜语"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "科威特"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "左"
@@ -4488,6 +4656,9 @@ msgstr "横向"
 
 msgid "Language"
 msgstr "语言"
+
+msgid "&Language"
+msgstr "语言(&L)："
 
 msgid "_Language"
 msgstr "语言(_L)"
@@ -4509,6 +4680,12 @@ msgstr "上次执行"
 
 msgid "Last Modified"
 msgstr "最后更新"
+
+msgid "Last modified"
+msgstr "最后修改于："
+
+msgid "Last Name"
+msgstr "姓氏："
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4621,8 +4798,20 @@ msgstr "换行"
 msgid "Line Color"
 msgstr "线条颜色"
 
+msgid "Line Count"
+msgstr "行数"
+
 msgid "Line Numbers"
 msgstr "行号"
+
+msgid "Line spacing"
+msgstr "线的间距"
+
+msgid "Line Style"
+msgstr "线条样式"
+
+msgid "Line style"
+msgstr "线条样式"
 
 msgid "Line Width"
 msgstr "线条宽度"
@@ -4641,6 +4830,9 @@ msgstr "链接"
 
 msgid "link"
 msgstr "链接"
+
+msgid "Link Text"
+msgstr "链接文本："
 
 msgid "Link URL"
 msgstr "链接 URL："
@@ -4740,6 +4932,9 @@ msgstr "登录"
 
 msgid "_Login"
 msgstr "登录(_L)"
+
+msgid "Logo"
+msgstr "徽标"
 
 msgid "Logout"
 msgstr "注销"
@@ -4936,6 +5131,9 @@ msgstr "最大化"
 msgid "Maximum"
 msgstr "最大"
 
+msgid "Maximum width"
+msgstr "最大宽度："
+
 msgid "May"
 msgstr "五月"
 
@@ -4990,6 +5188,9 @@ msgstr "消息"
 msgid "message"
 msgstr "消息"
 
+msgid "&Message"
+msgstr "信息(&M)："
+
 msgid "Messages"
 msgstr "消息"
 
@@ -5001,6 +5202,9 @@ msgstr "元数据"
 
 msgid "Metal"
 msgstr "重金属"
+
+msgid "Metering Mode"
+msgstr "测光模式"
 
 msgid "meters"
 msgstr "米"
@@ -5040,6 +5244,9 @@ msgstr "毫秒"
 
 msgid "milliseconds"
 msgstr "毫秒"
+
+msgid "MIME type"
+msgstr "MIME 类型"
 
 msgid "Min"
 msgstr "最小"
@@ -5086,8 +5293,14 @@ msgstr "毫米"
 msgid "Mobile"
 msgstr "手机"
 
+msgid "Mobile Phone"
+msgstr "移动电话"
+
 msgid "Mode"
 msgstr "模式"
+
+msgid "_Mode"
+msgstr "模式(_M)"
 
 msgid "Model"
 msgstr "型号"
@@ -5184,6 +5397,9 @@ msgstr "摩洛哥"
 
 msgid "Mount"
 msgstr "挂载"
+
+msgid "Mount Point"
+msgstr "挂载点"
 
 msgid "Mount point"
 msgstr "挂载点："
@@ -5323,6 +5539,9 @@ msgstr "名称(_N)"
 msgid "Name: %1"
 msgstr "名称：%1"
 
+msgid "Names"
+msgstr "名称"
+
 msgid "Namespace"
 msgstr "命名空间"
 
@@ -5352,6 +5571,9 @@ msgstr "尼泊尔语"
 
 msgid "Netherlands"
 msgstr "荷兰"
+
+msgid "Netmask"
+msgstr "网络掩码"
 
 msgid "Network"
 msgstr "网络"
@@ -5563,6 +5785,9 @@ msgstr "无主题"
 msgid "No VPN configuration options."
 msgstr "没有 VPN 配置选项。"
 
+msgid "Node"
+msgstr "节点"
+
 msgid "Noise"
 msgstr "噪声"
 
@@ -5689,6 +5914,9 @@ msgstr "数字"
 msgid "Number of columns"
 msgstr "列数"
 
+msgid "Number of rows"
+msgstr "行数"
+
 msgid "Numbers"
 msgstr "数字"
 
@@ -5745,9 +5973,6 @@ msgstr "确定(&O)"
 
 msgid "_OK"
 msgstr "确定(_O)"
-
-msgid "Okular"
-msgstr "Okular 文档查看器"
 
 msgid "Oman"
 msgstr "阿曼"
@@ -5899,6 +6124,9 @@ msgstr "开放街道地图 (OSM)"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr "操作系统"
+
 msgid "Operation"
 msgstr "操作"
 
@@ -5910,6 +6138,9 @@ msgstr "操作"
 
 msgid "Operator"
 msgstr "操作员"
+
+msgid "Operators"
+msgstr "运算符号"
 
 msgid "Optical Character Recognition"
 msgstr "光学识别符"
@@ -5968,6 +6199,9 @@ msgstr "原始大小"
 msgid "Oriya"
 msgstr "奥里亚文"
 
+msgid "OS"
+msgstr "操作系统："
+
 msgid "Other"
 msgstr "其他"
 
@@ -5981,6 +6215,9 @@ msgid "Other Application..."
 msgstr "其他应用程序..."
 
 msgid "Other Options"
+msgstr "其他选项"
+
+msgid "Other options"
 msgstr "其他选项"
 
 msgid "Others"
@@ -6124,6 +6361,9 @@ msgstr "总部"
 msgid "Partition"
 msgstr "分区"
 
+msgid "Passphrase"
+msgstr "密码"
+
 msgid "Password"
 msgstr "密码"
 
@@ -6162,6 +6402,9 @@ msgstr "路径"
 
 msgid "Pattern"
 msgstr "图案"
+
+msgid "_Pattern"
+msgstr "图案(_P)"
 
 msgid "Patterns"
 msgstr "图案"
@@ -6247,7 +6490,13 @@ msgstr "菲律宾"
 msgid "Phone"
 msgstr "电话"
 
+msgid "Phone Numbers"
+msgstr "电话号码"
+
 msgid "Photo"
+msgstr "照片"
+
+msgid "Photos"
 msgstr "照片"
 
 msgid "PHP Documentation"
@@ -6270,6 +6519,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "饼图"
+
+msgid "PIN"
+msgstr "PIN："
 
 msgid "Pin"
 msgstr "固定"
@@ -6298,9 +6550,6 @@ msgstr "纯文本"
 msgid "Plan"
 msgstr "Plan"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "站台"
 
@@ -6319,8 +6568,14 @@ msgstr "播放"
 msgid "Player"
 msgstr "玩家"
 
+msgid "Player 1"
+msgstr "玩家甲"
+
 msgid "Player %1"
 msgstr "玩家 %1"
+
+msgid "Player 2"
+msgstr "玩家乙"
 
 msgid "Players"
 msgstr "玩家"
@@ -6400,6 +6655,9 @@ msgstr "端口"
 msgid "&Port"
 msgstr "端口(&P)："
 
+msgid "_Port"
+msgstr "端口(_P)"
+
 msgid "Portrait"
 msgstr "纵向"
 
@@ -6411,6 +6669,9 @@ msgstr "葡萄牙语"
 
 msgid "Position"
 msgstr "位置"
+
+msgid "Postal code"
+msgstr "邮政编码："
 
 msgid "Posterize"
 msgstr "色相分离"
@@ -6453,6 +6714,9 @@ msgstr "预览"
 
 msgid "&Preview"
 msgstr "预览(&P)"
+
+msgid "_Preview"
+msgstr "预览(_P)"
 
 msgid "Previews"
 msgstr "预览"
@@ -6535,6 +6799,9 @@ msgstr "隐私"
 msgid "Private"
 msgstr "私有"
 
+msgid "Private Key"
+msgstr "私钥"
+
 msgid "Process"
 msgstr "处理"
 
@@ -6562,6 +6829,9 @@ msgstr "配置文件"
 msgid "Program"
 msgstr "程序"
 
+msgid "Programs"
+msgstr "程序"
+
 msgid "Progress"
 msgstr "进度"
 
@@ -6570,6 +6840,9 @@ msgstr "工程"
 
 msgid "&Project"
 msgstr "项目(&P)"
+
+msgid "Project name"
+msgstr "项目名称："
 
 msgid "Projects"
 msgstr "工程"
@@ -6643,6 +6916,9 @@ msgstr "像素"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "卡塔尔"
 
@@ -6696,6 +6972,9 @@ msgstr "退出应用程序"
 msgid "Quote"
 msgstr "引用"
 
+msgid "Quotes"
+msgstr "引号"
+
 msgid "R"
 msgstr "R"
 
@@ -6726,6 +7005,9 @@ msgstr "速率"
 msgid "Rating"
 msgstr "评分"
 
+msgid "Ratio"
+msgstr "宽高比"
+
 msgid "Raw"
 msgstr "Raw"
 
@@ -6753,11 +7035,17 @@ msgstr "就绪"
 msgid "Ready."
 msgstr "就绪。"
 
+msgid "Realm"
+msgstr "域："
+
 msgid "Reason"
 msgstr "原因"
 
 msgid "Reassign"
 msgstr "重新分配"
+
+msgid "Received"
+msgstr "已接收"
 
 msgid "Recent"
 msgstr "最近"
@@ -6779,6 +7067,9 @@ msgstr "屏幕录像"
 
 msgid "Rectangle"
 msgstr "矩形"
+
+msgid "Recurrence"
+msgstr "重复："
 
 msgid "Recursive"
 msgstr "递归"
@@ -6909,6 +7200,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "正在移除"
+
 msgid "Rename"
 msgstr "重命名"
 
@@ -6929,6 +7223,9 @@ msgstr "重命名书签"
 
 msgid "Rename File"
 msgstr "重命名文件"
+
+msgid "Rendering intent"
+msgstr "渲染意图："
 
 msgid "Repeat"
 msgstr "重复"
@@ -6951,11 +7248,20 @@ msgstr "全部替换(_A)"
 msgid "Replace an existing instance"
 msgstr "替换已有实例"
 
+msgid "Replace With"
+msgstr "替换为"
+
+msgid "Replace with"
+msgstr "替换为："
+
 msgid "Replacement"
 msgstr "替换"
 
 msgid "Reply"
 msgstr "回复"
+
+msgid "Reply-To"
+msgstr "回复地址（Reply-To）"
 
 msgid "Report"
 msgstr "报表"
@@ -6974,6 +7280,9 @@ msgstr "报告程序缺陷(&R)..."
 
 msgid "Reports"
 msgstr "报告"
+
+msgid "Repository"
+msgstr "仓库："
 
 msgid "Required"
 msgstr "必需"
@@ -7086,6 +7395,9 @@ msgstr "从右到左"
 msgid "Right-click"
 msgstr "右键点击"
 
+msgid "Rights"
+msgstr "版权信息"
+
 msgid "River"
 msgstr "河流"
 
@@ -7140,6 +7452,9 @@ msgstr "行"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "规则"
+
 msgid "Rules"
 msgstr "规则"
 
@@ -7148,6 +7463,9 @@ msgstr "运行"
 
 msgid "&Run"
 msgstr "运行(&R)"
+
+msgid "Run command"
+msgstr "运行命令"
 
 msgid "Run in terminal"
 msgstr "在终端中运行"
@@ -7284,6 +7602,9 @@ msgstr "保存图像"
 msgid "_Save Image As..."
 msgstr "图像另存为(_S)…"
 
+msgid "Save Location"
+msgstr "保存位置："
+
 msgid "Save Project"
 msgstr "保存工程"
 
@@ -7292,6 +7613,9 @@ msgstr "保存会话"
 
 msgid "Save Settings"
 msgstr "保存设置"
+
+msgid "Save to"
+msgstr "保存到"
 
 msgid "Saved"
 msgstr "已保存"
@@ -7323,11 +7647,17 @@ msgstr "扫描"
 msgid "Scanner"
 msgstr "扫描仪"
 
+msgid "Scanning"
+msgstr "扫描方式："
+
 msgid "Scanning..."
 msgstr "正在扫描..."
 
 msgid "Schedule"
 msgstr "日程"
+
+msgid "Scheduler"
+msgstr "调度器"
 
 msgid "Scheduling"
 msgstr "任务计划"
@@ -7404,11 +7734,17 @@ msgstr "搜索..."
 msgid "Search Bar"
 msgstr "搜索栏"
 
+msgid "Search for"
+msgstr "搜索："
+
 msgid "_Search for"
 msgstr "搜索(_S)："
 
 msgid "Search for '%1' with"
 msgstr "搜索“%1”于"
+
+msgid "Search in"
+msgstr "搜索范围："
 
 msgid "Search Options"
 msgstr "搜索选项"
@@ -7512,6 +7848,9 @@ msgstr "选择"
 msgid "Selections"
 msgstr "选区"
 
+msgid "Self"
+msgstr "自身"
+
 msgid "Semicolon"
 msgstr "分号"
 
@@ -7551,6 +7890,9 @@ msgstr "塞尔维亚"
 msgid "Serbian"
 msgstr "塞尔维亚语"
 
+msgid "Serial"
+msgstr "串口"
+
 msgid "Serial Number"
 msgstr "序列号"
 
@@ -7566,8 +7908,14 @@ msgstr "衬线"
 msgid "Server"
 msgstr "服务器"
 
+msgid "&Server"
+msgstr "服务器(&S)："
+
 msgid "Server URL"
 msgstr "服务器 URL"
+
+msgid "Servers"
+msgstr "服务器"
 
 msgid "Service"
 msgstr "服务"
@@ -7580,6 +7928,9 @@ msgstr "会话"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "会话名称："
 
 msgid "Sessions"
 msgstr "会话"
@@ -7610,6 +7961,12 @@ msgstr "严重程度"
 
 msgid "Seychelles"
 msgstr "塞舌尔"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7649,6 +8006,12 @@ msgstr "锐度"
 
 msgid "Shear"
 msgstr "切变"
+
+msgid "Sheet"
+msgstr "工作表"
+
+msgid "Sheets"
+msgstr "工作表"
 
 msgid "Shell"
 msgstr "Shell"
@@ -7770,6 +8133,9 @@ msgstr "单线"
 msgid "Sinhala"
 msgstr "僧伽罗文"
 
+msgid "Site"
+msgstr "站点"
+
 msgid "Size"
 msgstr "大小"
 
@@ -7778,6 +8144,9 @@ msgstr "大小"
 
 msgid "&Size"
 msgstr "大小(&S)："
+
+msgid "_Size"
+msgstr "大小(_S)："
 
 msgid "Size: %1"
 msgstr "大小：%1"
@@ -7805,6 +8174,9 @@ msgstr "滑块"
 
 msgid "Slideshow"
 msgstr "幻灯片放映"
+
+msgid "Slope"
+msgstr "斜率"
 
 msgid "Slovak"
 msgstr "斯洛伐克语"
@@ -7860,6 +8232,12 @@ msgstr "纯色"
 msgid "Solomon Islands"
 msgstr "所罗门群岛"
 
+msgid "Solution"
+msgstr "溶液"
+
+msgid "Solve"
+msgstr "解答"
+
 msgid "Somalia"
 msgstr "索马里"
 
@@ -7876,6 +8254,9 @@ msgid "Sorting"
 msgstr "排序"
 
 msgid "Sound"
+msgstr "声音"
+
+msgid "Sounds"
 msgstr "声音"
 
 msgid "Soundtrack"
@@ -7945,6 +8326,9 @@ msgid "Spell Check"
 msgstr "拼写检查"
 
 msgid "Spell Checking"
+msgstr "拼写检查"
+
+msgid "Spellcheck"
 msgstr "拼写检查"
 
 msgid "Spelling"
@@ -8184,6 +8568,9 @@ msgstr "巽他语"
 msgid "Sunday"
 msgstr "星期日"
 
+msgid "Sunrise"
+msgstr "日出"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8240,6 +8627,9 @@ msgstr "同步"
 
 msgid "Synchronize"
 msgstr "同步"
+
+msgid "Syntax"
+msgstr "语法"
 
 msgid "Syriac"
 msgstr "叙利亚字母"
@@ -8302,6 +8692,9 @@ msgid "Tanzania"
 msgstr "坦桑尼亚"
 
 msgid "Target"
+msgstr "目标"
+
+msgid "Targets"
 msgstr "目标"
 
 msgid "Task"
@@ -8417,6 +8810,9 @@ msgstr "NetworkManager 开发者"
 msgid "Theme"
 msgstr "主题"
 
+msgid "&Theme"
+msgstr "主题(&T)"
+
 msgid "Themes"
 msgstr "主题"
 
@@ -8435,6 +8831,9 @@ msgstr "这将完全隐藏菜单栏。按 %1 可以重新显示。"
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "线程"
 
 msgid "Threshold"
 msgstr "阈值"
@@ -8462,6 +8861,9 @@ msgstr "平铺"
 
 msgid "Tiled"
 msgstr "平铺"
+
+msgid "Tiles"
+msgstr "牌面"
 
 msgid "Tilt"
 msgstr "倾斜"
@@ -8511,6 +8913,9 @@ msgstr "标题(&T)："
 msgid "_Title"
 msgstr "标题(_T)："
 
+msgid "Titles"
+msgstr "标题"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8533,6 +8938,9 @@ msgid "TODO"
 msgstr "待办事项"
 
 msgid "Todo"
+msgstr "待办事项"
+
+msgid "To-do"
 msgstr "待办事项"
 
 msgid "Toggle Fullscreen"
@@ -8565,6 +8973,9 @@ msgstr "工具"
 msgid "Tool Options"
 msgstr "工具选项"
 
+msgid "Toolbar"
+msgstr "工具栏"
+
 msgid "_Toolbar"
 msgstr "工具栏(_T)"
 
@@ -8585,6 +8996,9 @@ msgstr "工具(&T)"
 
 msgid "_Tools"
 msgstr "工具(_T)"
+
+msgid "Tooltip"
+msgstr "工具提示"
 
 msgid "Top"
 msgstr "顶部"
@@ -8739,11 +9153,17 @@ msgstr "类型"
 msgid "&Type"
 msgstr "类型(&T)："
 
+msgid "_Type"
+msgstr "类型(_T)："
+
 msgid "Type: %1"
 msgstr "类型：%1"
 
 msgid "Uganda"
 msgstr "乌干达"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "乌克兰"
@@ -8976,6 +9396,9 @@ msgstr "已用"
 msgid "User"
 msgstr "用户"
 
+msgid "User Agent"
+msgstr "用户代理"
+
 msgid "User Certificate"
 msgstr "用户证书："
 
@@ -9000,11 +9423,17 @@ msgstr "用户密码："
 msgid "Username"
 msgstr "用户名"
 
+msgid "&Username"
+msgstr "用户名(&U)"
+
 msgid "_Username"
 msgstr "用户名(_U)"
 
 msgid "Users"
 msgstr "用户"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "工具"
@@ -9026,6 +9455,9 @@ msgstr "有效"
 
 msgid "Valid from"
 msgstr "生效日期："
+
+msgid "Valid until"
+msgstr "失效日期："
 
 msgid "Validity"
 msgstr "有效期"
@@ -9059,6 +9491,9 @@ msgstr "变量"
 msgid "Variance"
 msgstr "方差"
 
+msgid "Variant"
+msgstr "变体："
+
 msgid "Vector"
 msgstr "矢量"
 
@@ -9085,6 +9520,9 @@ msgstr "版本 %1"
 
 msgid "Vertical"
 msgstr "垂直"
+
+msgid "_Vertical"
+msgstr "竖直(_V)："
 
 msgid "Very Large"
 msgstr "特大"
@@ -9118,6 +9556,9 @@ msgstr "视图(&V)"
 
 msgid "_View"
 msgstr "查看(_V)"
+
+msgid "View mode"
+msgstr "视图模式："
 
 msgid "View Options"
 msgstr "查看选项"
@@ -9278,6 +9719,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "维基百科"
 
+msgid "Wind"
+msgstr "风"
+
 msgid "Window"
 msgstr "窗口"
 
@@ -9320,11 +9764,17 @@ msgstr "单词"
 msgid "Word Count"
 msgstr "单词计数"
 
+msgid "Word wrap"
+msgstr "自动换行："
+
 msgid "Words"
 msgstr "单词"
 
 msgid "Work"
 msgstr "工作"
+
+msgid "Workspace"
+msgstr "工作区"
 
 msgid "World"
 msgstr "对象列表"
@@ -9364,6 +9814,9 @@ msgstr "_Y："
 
 msgid "Year"
 msgstr "年份"
+
+msgid "&Year"
+msgstr "年份(&Y)："
 
 msgid "Yearly"
 msgstr "每年"
@@ -9424,6 +9877,9 @@ msgstr "缩放(&Z)"
 
 msgid "_Zoom"
 msgstr "缩放(_Z)"
+
+msgid "Zoom factor"
+msgstr "缩放倍数"
 
 msgid "Zoom In"
 msgstr "放大"

@@ -82,9 +82,6 @@ msgstr " 和 "
 msgid " (default)"
 msgstr ""
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr ""
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 
@@ -355,16 +355,19 @@ msgstr "關於(_A)"
 msgid "About %1"
 msgstr ""
 
-msgid "About KDE"
-msgstr ""
-
 msgid "Abstract"
 msgstr "抽象"
+
+msgid "Acceleration"
+msgstr ""
 
 msgid "Accept"
 msgstr "接受"
 
 msgid "Accepted"
+msgstr ""
+
+msgid "Access"
 msgstr ""
 
 msgid "Accessed"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr ""
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "備選"
+
 msgid "Alternative"
 msgstr ""
 
@@ -712,8 +721,14 @@ msgstr "註解"
 msgid "Anonymous"
 msgstr "匿名"
 
+msgid "Answer"
+msgstr ""
+
 msgid "Antarctica"
 msgstr "南極洲"
+
+msgid "Antialiasing"
+msgstr "反鋸齒"
 
 msgid "Any"
 msgstr "任何值"
@@ -883,6 +898,9 @@ msgstr "要求核對"
 msgid "Author"
 msgstr "作者"
 
+msgid "Author name"
+msgstr ""
+
 msgid "Authors"
 msgstr ""
 
@@ -928,6 +946,9 @@ msgstr "阿塞拜疆語"
 msgid "B"
 msgstr ""
 
+msgid "b*"
+msgstr ""
+
 msgid "<b>%1</b>"
 msgstr ""
 
@@ -940,8 +961,14 @@ msgstr "上一頁（&B）"
 msgid "_Back"
 msgstr ""
 
+msgid "Backend"
+msgstr ""
+
 msgid "Background"
 msgstr "背景"
+
+msgid "&Background"
+msgstr ""
 
 msgid "Background Color"
 msgstr "背景色彩"
@@ -951,6 +978,9 @@ msgstr "背景顏色"
 
 msgid "&Background color"
 msgstr ""
+
+msgid "Background image"
+msgstr "背景圖片"
 
 msgid "Backspace"
 msgstr ""
@@ -972,6 +1002,9 @@ msgstr ""
 
 msgid "Baltic"
 msgstr "波羅的海語系"
+
+msgid "Bandwidth"
+msgstr ""
 
 msgid "Bangladesh"
 msgstr "孟加拉"
@@ -998,6 +1031,9 @@ msgid "Bass"
 msgstr "低音"
 
 msgid "Battery"
+msgstr ""
+
+msgid "BCC"
 msgstr ""
 
 msgid "Bcc"
@@ -1156,23 +1192,8 @@ msgstr "分支"
 msgid "Brazil"
 msgstr "巴西"
 
-msgid "Breeze"
-msgstr ""
-
-msgid "Breeze by the KDE VDG"
-msgstr ""
-
-msgid "Breeze Dark"
-msgstr ""
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr ""
-
 msgid "Breton"
 msgstr "不列塔尼語"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "橋接"
@@ -1309,18 +1330,6 @@ msgstr ""
 msgid "Canceled"
 msgstr "已取消"
 
-msgid "Cancelled"
-msgstr "已取消"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "不能傳送文件 URI 至「Type=Link」桌面項目"
-
 msgid "Canvas"
 msgstr "畫布"
 
@@ -1339,14 +1348,14 @@ msgstr ""
 msgid "Caps Lock is on"
 msgstr ""
 
+msgid "Caption"
+msgstr "標題："
+
 msgid "Capture"
 msgstr "擷取"
 
 msgid "Car"
 msgstr "車"
-
-msgid "Carsten Pfeiffer"
-msgstr ""
 
 msgid "Cascade"
 msgstr "喀斯開"
@@ -1435,6 +1444,9 @@ msgstr "更改..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "色版"
 
@@ -1452,6 +1464,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "字符"
+
+msgid "Character set"
+msgstr "字符集"
 
 msgid "Characters"
 msgstr ""
@@ -1684,6 +1699,9 @@ msgstr "色彩配套"
 msgid "Color Space"
 msgstr ""
 
+msgid "Color space"
+msgstr "色彩空間"
+
 msgid "Color theme"
 msgstr ""
 
@@ -1705,13 +1723,7 @@ msgstr "欄"
 msgid "Comma"
 msgstr ""
 
-msgid "COMMAND"
-msgstr "指令"
-
 msgid "Command"
-msgstr "指令"
-
-msgid "command"
 msgstr "指令"
 
 msgid "Command Line"
@@ -1726,6 +1738,9 @@ msgstr "命令"
 msgid "Comment"
 msgstr "備註"
 
+msgid "comment"
+msgstr "註解"
+
 msgid "Comments"
 msgstr "註解："
 
@@ -1735,11 +1750,17 @@ msgstr "提交"
 msgid "Common"
 msgstr "一般字符"
 
+msgid "Common Name"
+msgstr "普通名稱"
+
 msgid "Comoros"
 msgstr "科摩羅"
 
 msgid "Compact"
 msgstr "簡潔"
+
+msgid "Company"
+msgstr "公司："
 
 msgid "Compare"
 msgstr ""
@@ -1777,6 +1798,9 @@ msgstr "電腦"
 msgid "Condition"
 msgstr "條件"
 
+msgid "Conditions"
+msgstr "情況："
+
 msgid "Confidential"
 msgstr ""
 
@@ -1807,6 +1831,9 @@ msgstr ""
 msgid "Confirm"
 msgstr "確認"
 
+msgid "Confirm Password"
+msgstr "確認密碼："
+
 msgid "Confirmation"
 msgstr "確認"
 
@@ -1818,6 +1845,9 @@ msgstr ""
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "與標準的應用程式快速鍵定義衝突"
+
+msgid "Conflicts"
+msgstr "衝突"
 
 msgid "Connect"
 msgstr "連接"
@@ -1843,6 +1873,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr "連線設定值"
 
+msgid "Connection type"
+msgstr "連線類型"
+
 msgid "Connections"
 msgstr ""
 
@@ -1851,9 +1884,6 @@ msgstr ""
 
 msgid "Constant"
 msgstr "常數"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr ""
@@ -1867,14 +1897,14 @@ msgstr "容器"
 msgid "Contains"
 msgstr ""
 
-msgid "contains"
-msgstr "包含"
-
 msgid "Content"
 msgstr "內容"
 
 msgid "Content Type"
 msgstr ""
+
+msgid "Content type"
+msgstr "內容類型"
 
 msgid "Contents"
 msgstr "內容"
@@ -1897,11 +1927,17 @@ msgstr ""
 msgid "Contributor"
 msgstr ""
 
+msgid "Contributors"
+msgstr "貢獻者："
+
 msgid "Control"
 msgstr "控制"
 
 msgid "Convert"
 msgstr "轉換"
+
+msgid "Convert to"
+msgstr ""
 
 msgid "Convert to Path"
 msgstr "轉換至路徑"
@@ -1920,9 +1956,6 @@ msgstr "科普特文"
 
 msgid "Copy"
 msgstr "複製"
-
-msgid "copy"
-msgstr "複本"
 
 msgid "&Copy"
 msgstr "複製（&C）"
@@ -1975,6 +2008,9 @@ msgstr "正在複製檔案"
 msgid "Copyright"
 msgstr "版權"
 
+msgid "Correct"
+msgstr ""
+
 msgid "Cost"
 msgstr ""
 
@@ -1997,6 +2033,9 @@ msgid "Country"
 msgstr "國家"
 
 msgid "CPU"
+msgstr ""
+
+msgid "CPU usage"
 msgstr ""
 
 msgid "Create"
@@ -2026,6 +2065,9 @@ msgstr ""
 msgid "Credentials"
 msgstr ""
 
+msgid "Credit"
+msgstr ""
+
 msgid "Credits"
 msgstr ""
 
@@ -2052,15 +2094,6 @@ msgstr "十字"
 
 msgid "CSV"
 msgstr "以逗號分隔(CSV)"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
-msgstr ""
 
 msgid "Cuba"
 msgstr "古巴"
@@ -2089,8 +2122,14 @@ msgstr "曲線"
 msgid "Custom"
 msgstr "自選"
 
+msgid "&Custom"
+msgstr ""
+
 msgid "Custom..."
 msgstr "自訂..."
+
+msgid "Custom color"
+msgstr "自選顏色"
 
 msgid "Custom Font"
 msgstr ""
@@ -2164,6 +2203,9 @@ msgstr "資料"
 msgid "Database"
 msgstr "資料庫"
 
+msgid "Database name"
+msgstr ""
+
 msgid "Date"
 msgstr "日期"
 
@@ -2179,14 +2221,20 @@ msgstr ""
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr ""
+
 msgid "Date Modified"
 msgstr ""
 
-msgid "David Edmundson"
-msgstr ""
+msgid "Date/Time"
+msgstr "日期/時刻："
 
 msgid "Day"
 msgstr "天"
+
+msgid "day"
+msgstr ""
 
 msgid "Days"
 msgstr ""
@@ -2235,6 +2283,9 @@ msgstr "預設"
 
 msgid "default"
 msgstr "預設"
+
+msgid "Default value"
+msgstr "預設值"
 
 msgid "Defaults"
 msgstr "預設"
@@ -2311,6 +2362,9 @@ msgstr ""
 msgid "Deny"
 msgstr "拒絕"
 
+msgid "Department"
+msgstr ""
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2343,6 +2397,12 @@ msgstr "桌面"
 
 msgid "Destination"
 msgstr "目的地"
+
+msgid "Destination Folder"
+msgstr ""
+
+msgid "Destination folder"
+msgstr ""
 
 msgid "Detach"
 msgstr "分開"
@@ -2515,6 +2575,9 @@ msgstr "溶解"
 msgid "Distance"
 msgstr "距離"
 
+msgid "Distribution"
+msgstr "描述"
+
 msgid "Divide"
 msgstr "除號 [/]"
 
@@ -2569,11 +2632,11 @@ msgstr "文件"
 msgid "does not contain"
 msgstr "不包含"
 
-msgid "Dolphin"
-msgstr ""
-
 msgid "Domain"
 msgstr "網域"
+
+msgid "_Domain"
+msgstr "網域(_D)"
 
 msgid "Dominica"
 msgstr "多明尼克"
@@ -2677,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "動態的"
+
 msgid "E"
 msgstr ""
 
@@ -2728,6 +2794,9 @@ msgstr "編輯影像"
 msgid "Editing"
 msgstr ""
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "編輯器"
 
@@ -2743,9 +2812,6 @@ msgstr "埃及"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr ""
-
 msgid "Eject"
 msgstr "退出"
 
@@ -2755,17 +2821,29 @@ msgstr "退出(_E)"
 msgid "El Salvador"
 msgstr "薩爾瓦多"
 
+msgid "Elapsed Time"
+msgstr "花費時間："
+
 msgid "Electronic"
 msgstr ""
 
 msgid "Element"
 msgstr "元件"
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "橢圓"
 
+msgid "EMail"
+msgstr ""
+
 msgid "Email"
 msgstr "電子郵件"
+
+msgid "E-Mail"
+msgstr ""
 
 msgid "E-mail"
 msgstr "電子郵件"
@@ -2845,6 +2923,9 @@ msgstr "結束"
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr ""
+
 msgid "End Time"
 msgstr "結束時刻"
 
@@ -2866,8 +2947,14 @@ msgstr "英語"
 msgid "Enter"
 msgstr ""
 
+msgid "Enter name"
+msgstr ""
+
 msgid "Enter password"
 msgstr "輸入密碼"
+
+msgid "Entries"
+msgstr "項目"
 
 msgid "Entry"
 msgstr ""
@@ -2941,6 +3028,9 @@ msgstr "事件"
 msgid "Events"
 msgstr "事件"
 
+msgid "Every"
+msgstr ""
+
 msgid "Everyone"
 msgstr "每個人"
 
@@ -2958,6 +3048,9 @@ msgstr ""
 
 msgid "Exception"
 msgstr ""
+
+msgid "Exceptions"
+msgstr "例外"
 
 msgid "Exclude"
 msgstr ""
@@ -2992,11 +3085,17 @@ msgstr ""
 msgid "Experimental"
 msgstr ""
 
+msgid "Expiration"
+msgstr "到期："
+
 msgid "Expired"
 msgstr "已過期"
 
 msgid "Expires"
 msgstr "到期"
+
+msgid "Expires On"
+msgstr "到期："
 
 msgid "Export"
 msgstr "匯出"
@@ -3031,6 +3130,9 @@ msgstr "匯出選項"
 msgid "Exposure"
 msgstr "曝光"
 
+msgid "Exposure Time"
+msgstr "曝光時間："
+
 msgid "Expression"
 msgstr "算式"
 
@@ -3051,6 +3153,9 @@ msgstr "解開"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "光纖"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3109,6 +3214,12 @@ msgstr ""
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr "欄位"
+
+msgid "Fields"
+msgstr ""
+
 msgid "Fiji"
 msgstr "斐濟羣島"
 
@@ -3140,6 +3251,9 @@ msgid "File Exists"
 msgstr "檔案已存在"
 
 msgid "File Format"
+msgstr ""
+
+msgid "File format"
 msgstr ""
 
 msgid "File is not a valid .desktop file"
@@ -3201,6 +3315,9 @@ msgstr "填入色彩"
 
 msgid "Filter"
 msgstr "過濾條件"
+
+msgid "&Filter"
+msgstr ""
 
 msgid "Filter..."
 msgstr ""
@@ -3265,6 +3382,9 @@ msgstr "芬蘭語"
 msgid "First"
 msgstr ""
 
+msgid "First Name"
+msgstr "名"
+
 msgid "First Page"
 msgstr "第一頁"
 
@@ -3325,6 +3445,9 @@ msgstr ""
 msgid "Focal Length"
 msgstr ""
 
+msgid "Focal length"
+msgstr "焦距："
+
 msgid "Focus"
 msgstr "焦點"
 
@@ -3346,6 +3469,9 @@ msgstr "字型"
 msgid "&Font"
 msgstr ""
 
+msgid "_Font"
+msgstr "字型(_F)"
+
 msgid "Font Color"
 msgstr ""
 
@@ -3357,6 +3483,12 @@ msgstr "字型大小"
 
 msgid "Font size"
 msgstr "字型大小"
+
+msgid "Font Style"
+msgstr "字體樣式："
+
+msgid "Font style"
+msgstr "字型樣式："
 
 msgid "Fonts"
 msgstr "字型"
@@ -3394,6 +3526,12 @@ msgstr "成形"
 msgid "Format"
 msgstr "格式"
 
+msgid "&Format"
+msgstr ""
+
+msgid "_Format"
+msgstr "格式(_F)："
+
 msgid "Formatting"
 msgstr "格式"
 
@@ -3420,6 +3558,12 @@ msgstr "分數"
 
 msgid "Frame"
 msgstr "影格"
+
+msgid "Frame Rate"
+msgstr ""
+
+msgid "Frame rate"
+msgstr "影格率："
 
 msgid "Framerate"
 msgstr "畫面更新率："
@@ -3465,6 +3609,9 @@ msgstr "完全"
 
 msgid "Full Name"
 msgstr "全名"
+
+msgid "Full name"
+msgstr ""
 
 msgid "Full Screen"
 msgstr "全螢幕"
@@ -3531,6 +3678,9 @@ msgstr "邏輯閘"
 
 msgid "Gateway"
 msgstr "通訊閘"
+
+msgid "_Gateway"
+msgstr "通訊閘(_G)"
 
 msgid "Gaussian Blur"
 msgstr ""
@@ -3652,6 +3802,9 @@ msgstr "回到上一頁"
 msgid "Goa"
 msgstr ""
 
+msgid "Goal"
+msgstr "目標"
+
 msgid "Gold"
 msgstr ""
 
@@ -3706,6 +3859,9 @@ msgstr ""
 msgid "Grid"
 msgstr "格線"
 
+msgid "&Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "羣組"
 
@@ -3751,6 +3907,9 @@ msgstr ""
 msgid "Hardware"
 msgstr "硬件"
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr ""
 
@@ -3792,6 +3951,9 @@ msgstr "高度"
 
 msgid "&Height"
 msgstr ""
+
+msgid "_Height"
+msgstr "高度(_H)："
 
 msgid "Help"
 msgstr "求助"
@@ -3837,6 +3999,9 @@ msgstr "高"
 
 msgid "Highlight"
 msgstr "突顯"
+
+msgid "Highlight color"
+msgstr ""
 
 msgid "Highlighter"
 msgstr ""
@@ -3889,8 +4054,17 @@ msgstr "香港"
 msgid "Horizontal"
 msgstr "水平"
 
+msgid "_Horizontal"
+msgstr "水平(_H)"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "主機"
+
+msgid "Host Name"
+msgstr "主機名稱"
 
 msgid "Hostname"
 msgstr "主機名稱"
@@ -3970,6 +4144,9 @@ msgstr ""
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr "識別子"
 
@@ -4023,6 +4200,12 @@ msgstr "影像設定"
 
 msgid "Image Size"
 msgstr "圖片尺寸"
+
+msgid "Image size"
+msgstr "圖片大小"
+
+msgid "Image type"
+msgstr "圖片類型"
 
 msgid "Image Viewer"
 msgstr "圖片檢視工具"
@@ -4099,6 +4282,9 @@ msgstr "增加縮排"
 msgid "Increase Volume"
 msgstr ""
 
+msgid "Increment"
+msgstr "增量："
+
 msgid "Incremental"
 msgstr "遞增模式"
 
@@ -4110,6 +4296,9 @@ msgstr "索引"
 
 msgid "Indexed"
 msgstr "已索引"
+
+msgid "Indexing"
+msgstr "索引"
 
 msgid "India"
 msgstr "印度"
@@ -4172,6 +4361,9 @@ msgid "Installing"
 msgstr "正在安裝"
 
 msgid "Instant"
+msgstr ""
+
+msgid "Instructions"
 msgstr ""
 
 msgid "Integer"
@@ -4261,11 +4453,17 @@ msgstr "愛爾蘭語"
 msgid "is"
 msgstr "是"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "以色列"
 
 msgid "Issued By"
 msgstr "發照者"
+
+msgid "Issued On"
+msgstr "簽發於："
 
 msgid "Issuer"
 msgstr ""
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "德拉威 Kannada 文"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "哈薩克語"
 
@@ -4374,18 +4569,6 @@ msgstr "哈薩克"
 
 msgid "kB"
 msgstr "KB"
-
-msgid "KDE"
-msgstr ""
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
-msgstr ""
 
 msgid "Keep"
 msgstr ""
@@ -4450,26 +4633,11 @@ msgstr "基里巴斯"
 msgid "km"
 msgstr "公里"
 
-msgid "KMail"
-msgstr ""
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr ""
-
 msgid "Korean"
 msgstr "韓文"
 
-msgid "KOrganizer"
-msgstr ""
-
 msgid "Kuwait"
 msgstr "科威特"
-
-msgid "KWin"
-msgstr ""
 
 msgid "L"
 msgstr ""
@@ -4488,6 +4656,9 @@ msgstr "橫向"
 
 msgid "Language"
 msgstr "語言"
+
+msgid "&Language"
+msgstr ""
 
 msgid "_Language"
 msgstr "語言(_L)"
@@ -4509,6 +4680,12 @@ msgstr "最後"
 
 msgid "Last Modified"
 msgstr ""
+
+msgid "Last modified"
+msgstr "修改日期："
+
+msgid "Last Name"
+msgstr "姓"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4621,8 +4798,20 @@ msgstr "換列"
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr ""
+
 msgid "Line Numbers"
 msgstr ""
+
+msgid "Line spacing"
+msgstr ""
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "線段樣式"
 
 msgid "Line Width"
 msgstr "線段闊度"
@@ -4641,6 +4830,9 @@ msgstr "連結"
 
 msgid "link"
 msgstr "連結"
+
+msgid "Link Text"
+msgstr "連結文字"
 
 msgid "Link URL"
 msgstr ""
@@ -4740,6 +4932,9 @@ msgstr "登入"
 
 msgid "_Login"
 msgstr "登入(_L)"
+
+msgid "Logo"
+msgstr "標誌"
 
 msgid "Logout"
 msgstr "登出"
@@ -4936,6 +5131,9 @@ msgstr "最大化"
 msgid "Maximum"
 msgstr "最大值"
 
+msgid "Maximum width"
+msgstr ""
+
 msgid "May"
 msgstr "五月"
 
@@ -4990,6 +5188,9 @@ msgstr "訊息"
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr ""
+
 msgid "Messages"
 msgstr ""
 
@@ -5001,6 +5202,9 @@ msgstr "中介資料"
 
 msgid "Metal"
 msgstr ""
+
+msgid "Metering Mode"
+msgstr "測光模式："
 
 msgid "meters"
 msgstr "米"
@@ -5040,6 +5244,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "亳秒"
+
+msgid "MIME type"
+msgstr "MIME 類型"
 
 msgid "Min"
 msgstr "最小值"
@@ -5086,8 +5293,14 @@ msgstr "毫米(mm)"
 msgid "Mobile"
 msgstr "流動電話"
 
+msgid "Mobile Phone"
+msgstr "流動電話"
+
 msgid "Mode"
 msgstr "Mode 眾數"
+
+msgid "_Mode"
+msgstr "模式(_M)"
 
 msgid "Model"
 msgstr "型號"
@@ -5184,6 +5397,9 @@ msgstr "摩洛哥"
 
 msgid "Mount"
 msgstr "掛載"
+
+msgid "Mount Point"
+msgstr "掛載點"
 
 msgid "Mount point"
 msgstr "掛載點："
@@ -5323,6 +5539,9 @@ msgstr "名稱(_N)"
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr ""
+
 msgid "Namespace"
 msgstr "命名空間"
 
@@ -5352,6 +5571,9 @@ msgstr ""
 
 msgid "Netherlands"
 msgstr "荷蘭"
+
+msgid "Netmask"
+msgstr "網絡遮罩"
 
 msgid "Network"
 msgstr "網絡"
@@ -5563,6 +5785,9 @@ msgstr ""
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "節點"
+
 msgid "Noise"
 msgstr ""
 
@@ -5689,6 +5914,9 @@ msgstr "井字號"
 msgid "Number of columns"
 msgstr "欄數"
 
+msgid "Number of rows"
+msgstr "列數"
+
 msgid "Numbers"
 msgstr "數字"
 
@@ -5745,9 +5973,6 @@ msgstr ""
 
 msgid "_OK"
 msgstr "確定(_O)"
-
-msgid "Okular"
-msgstr ""
 
 msgid "Oman"
 msgstr "阿曼"
@@ -5899,6 +6124,9 @@ msgstr ""
 msgid "Opera"
 msgstr ""
 
+msgid "Operating System"
+msgstr ""
+
 msgid "Operation"
 msgstr "操作"
 
@@ -5910,6 +6138,9 @@ msgstr "運作"
 
 msgid "Operator"
 msgstr "運算符號"
+
+msgid "Operators"
+msgstr ""
 
 msgid "Optical Character Recognition"
 msgstr "光學字符識別"
@@ -5968,6 +6199,9 @@ msgstr "原始比例"
 msgid "Oriya"
 msgstr "印度 Oriya 文"
 
+msgid "OS"
+msgstr "作業系統："
+
 msgid "Other"
 msgstr "其他"
 
@@ -5982,6 +6216,9 @@ msgstr ""
 
 msgid "Other Options"
 msgstr "其它選項"
+
+msgid "Other options"
+msgstr ""
 
 msgid "Others"
 msgstr "其他"
@@ -6124,6 +6361,9 @@ msgstr "帕倫特"
 msgid "Partition"
 msgstr "分割區"
 
+msgid "Passphrase"
+msgstr "密語"
+
 msgid "Password"
 msgstr "密碼"
 
@@ -6162,6 +6402,9 @@ msgstr "路徑"
 
 msgid "Pattern"
 msgstr "圖樣"
+
+msgid "_Pattern"
+msgstr "圖樣(_P)"
 
 msgid "Patterns"
 msgstr "圖樣"
@@ -6247,7 +6490,13 @@ msgstr "菲律賓"
 msgid "Phone"
 msgstr "電話"
 
+msgid "Phone Numbers"
+msgstr ""
+
 msgid "Photo"
+msgstr "相片"
+
+msgid "Photos"
 msgstr "相片"
 
 msgid "PHP Documentation"
@@ -6270,6 +6519,9 @@ msgstr ""
 
 msgid "Pie"
 msgstr "餅形圖"
+
+msgid "PIN"
+msgstr ""
 
 msgid "Pin"
 msgstr "釘選"
@@ -6298,9 +6550,6 @@ msgstr ""
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "等離子"
-
 msgid "Platform"
 msgstr ""
 
@@ -6319,7 +6568,13 @@ msgstr "播放"
 msgid "Player"
 msgstr ""
 
+msgid "Player 1"
+msgstr ""
+
 msgid "Player %1"
+msgstr ""
+
+msgid "Player 2"
 msgstr ""
 
 msgid "Players"
@@ -6400,6 +6655,9 @@ msgstr "連接埠"
 msgid "&Port"
 msgstr ""
 
+msgid "_Port"
+msgstr ""
+
 msgid "Portrait"
 msgstr "直向"
 
@@ -6411,6 +6669,9 @@ msgstr "葡萄牙語"
 
 msgid "Position"
 msgstr "位置"
+
+msgid "Postal code"
+msgstr ""
 
 msgid "Posterize"
 msgstr "色調分離"
@@ -6453,6 +6714,9 @@ msgstr "預覽"
 
 msgid "&Preview"
 msgstr "預覽(&P)"
+
+msgid "_Preview"
+msgstr "預覽(_P)"
 
 msgid "Previews"
 msgstr "預覽"
@@ -6535,6 +6799,9 @@ msgstr "私隱"
 msgid "Private"
 msgstr "私人"
 
+msgid "Private Key"
+msgstr "私人密碼匙"
+
 msgid "Process"
 msgstr "處理"
 
@@ -6562,6 +6829,9 @@ msgstr "設定組合"
 msgid "Program"
 msgstr "程式"
 
+msgid "Programs"
+msgstr ""
+
 msgid "Progress"
 msgstr "進度"
 
@@ -6569,6 +6839,9 @@ msgid "Project"
 msgstr "專案"
 
 msgid "&Project"
+msgstr ""
+
+msgid "Project name"
 msgstr ""
 
 msgid "Projects"
@@ -6643,6 +6916,9 @@ msgstr "像素"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "卡塔爾"
 
@@ -6696,6 +6972,9 @@ msgstr ""
 msgid "Quote"
 msgstr "引號"
 
+msgid "Quotes"
+msgstr ""
+
 msgid "R"
 msgstr "R"
 
@@ -6726,6 +7005,9 @@ msgstr "比率"
 msgid "Rating"
 msgstr "評等"
 
+msgid "Ratio"
+msgstr ""
+
 msgid "Raw"
 msgstr "原始"
 
@@ -6753,10 +7035,16 @@ msgstr "就緒"
 msgid "Ready."
 msgstr ""
 
+msgid "Realm"
+msgstr ""
+
 msgid "Reason"
 msgstr "原因"
 
 msgid "Reassign"
+msgstr ""
+
+msgid "Received"
 msgstr ""
 
 msgid "Recent"
@@ -6779,6 +7067,9 @@ msgstr ""
 
 msgid "Rectangle"
 msgstr "長方形"
+
+msgid "Recurrence"
+msgstr ""
 
 msgid "Recursive"
 msgstr "循環"
@@ -6909,6 +7200,9 @@ msgstr "從工具列移除所選的項目"
 msgid "Remove the selected toolbar"
 msgstr "移除所選的工具列"
 
+msgid "Removing"
+msgstr "正在移除"
+
 msgid "Rename"
 msgstr "重新命名"
 
@@ -6928,6 +7222,9 @@ msgid "Rename Bookmark"
 msgstr ""
 
 msgid "Rename File"
+msgstr ""
+
+msgid "Rendering intent"
 msgstr ""
 
 msgid "Repeat"
@@ -6951,11 +7248,20 @@ msgstr "全部取代(_A)"
 msgid "Replace an existing instance"
 msgstr ""
 
+msgid "Replace With"
+msgstr "取代為"
+
+msgid "Replace with"
+msgstr "以此取代"
+
 msgid "Replacement"
 msgstr ""
 
 msgid "Reply"
 msgstr "回覆"
+
+msgid "Reply-To"
+msgstr "回郵地址："
 
 msgid "Report"
 msgstr "報告"
@@ -6974,6 +7280,9 @@ msgstr ""
 
 msgid "Reports"
 msgstr "報告"
+
+msgid "Repository"
+msgstr ""
 
 msgid "Required"
 msgstr "必須"
@@ -7086,6 +7395,9 @@ msgstr "右至左"
 msgid "Right-click"
 msgstr ""
 
+msgid "Rights"
+msgstr ""
+
 msgid "River"
 msgstr "河川"
 
@@ -7140,6 +7452,9 @@ msgstr "列"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
@@ -7147,6 +7462,9 @@ msgid "Run"
 msgstr ""
 
 msgid "&Run"
+msgstr ""
+
+msgid "Run command"
 msgstr ""
 
 msgid "Run in terminal"
@@ -7284,6 +7602,9 @@ msgstr "儲存圖片"
 msgid "_Save Image As..."
 msgstr "另存圖片(_S)…"
 
+msgid "Save Location"
+msgstr ""
+
 msgid "Save Project"
 msgstr ""
 
@@ -7291,6 +7612,9 @@ msgid "Save Session"
 msgstr ""
 
 msgid "Save Settings"
+msgstr ""
+
+msgid "Save to"
 msgstr ""
 
 msgid "Saved"
@@ -7323,10 +7647,16 @@ msgstr ""
 msgid "Scanner"
 msgstr "掃描器"
 
+msgid "Scanning"
+msgstr "正在掃描"
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
+msgstr ""
+
+msgid "Scheduler"
 msgstr ""
 
 msgid "Scheduling"
@@ -7404,10 +7734,16 @@ msgstr "搜尋…"
 msgid "Search Bar"
 msgstr ""
 
+msgid "Search for"
+msgstr "搜尋："
+
 msgid "_Search for"
 msgstr "搜尋(_S)"
 
 msgid "Search for '%1' with"
+msgstr ""
+
+msgid "Search in"
 msgstr ""
 
 msgid "Search Options"
@@ -7512,6 +7848,9 @@ msgstr "選取區域"
 msgid "Selections"
 msgstr "選取"
 
+msgid "Self"
+msgstr "自己"
+
 msgid "Semicolon"
 msgstr ""
 
@@ -7551,6 +7890,9 @@ msgstr "塞爾維亞"
 msgid "Serbian"
 msgstr "塞爾維亞語"
 
+msgid "Serial"
+msgstr "序列"
+
 msgid "Serial Number"
 msgstr "序號"
 
@@ -7566,8 +7908,14 @@ msgstr "襯線"
 msgid "Server"
 msgstr "伺服器"
 
+msgid "&Server"
+msgstr ""
+
 msgid "Server URL"
 msgstr ""
+
+msgid "Servers"
+msgstr "伺服器"
 
 msgid "Service"
 msgstr ""
@@ -7580,6 +7928,9 @@ msgstr ""
 
 msgid "Session management options"
 msgstr "作業階段管理選項："
+
+msgid "Session name"
+msgstr ""
 
 msgid "Sessions"
 msgstr ""
@@ -7610,6 +7961,12 @@ msgstr ""
 
 msgid "Seychelles"
 msgstr "塞舌爾"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7649,6 +8006,12 @@ msgstr ""
 
 msgid "Shear"
 msgstr "推移"
+
+msgid "Sheet"
+msgstr "工作表"
+
+msgid "Sheets"
+msgstr "工作表"
 
 msgid "Shell"
 msgstr ""
@@ -7770,6 +8133,9 @@ msgstr "單"
 msgid "Sinhala"
 msgstr "斯里蘭卡文"
 
+msgid "Site"
+msgstr "網站"
+
 msgid "Size"
 msgstr "大小"
 
@@ -7778,6 +8144,9 @@ msgstr "大小"
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "大小(_S)："
 
 msgid "Size: %1"
 msgstr ""
@@ -7805,6 +8174,9 @@ msgstr "捲動條"
 
 msgid "Slideshow"
 msgstr "幻燈片顯示"
+
+msgid "Slope"
+msgstr ""
 
 msgid "Slovak"
 msgstr "斯洛伐克語"
@@ -7860,6 +8232,12 @@ msgstr "單一色彩"
 msgid "Solomon Islands"
 msgstr "所羅門羣島"
 
+msgid "Solution"
+msgstr "解決計劃："
+
+msgid "Solve"
+msgstr "解"
+
 msgid "Somalia"
 msgstr "索馬里"
 
@@ -7877,6 +8255,9 @@ msgstr "排序"
 
 msgid "Sound"
 msgstr "音效"
+
+msgid "Sounds"
+msgstr ""
 
 msgid "Soundtrack"
 msgstr ""
@@ -7945,6 +8326,9 @@ msgid "Spell Check"
 msgstr "拼字檢查"
 
 msgid "Spell Checking"
+msgstr ""
+
+msgid "Spellcheck"
 msgstr ""
 
 msgid "Spelling"
@@ -8184,6 +8568,9 @@ msgstr "選他語"
 msgid "Sunday"
 msgstr ""
 
+msgid "Sunrise"
+msgstr "日出"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8239,6 +8626,9 @@ msgid "Synchronization"
 msgstr "同步"
 
 msgid "Synchronize"
+msgstr ""
+
+msgid "Syntax"
 msgstr ""
 
 msgid "Syriac"
@@ -8303,6 +8693,9 @@ msgstr "坦桑尼亞"
 
 msgid "Target"
 msgstr "目標"
+
+msgid "Targets"
+msgstr ""
 
 msgid "Task"
 msgstr "工作"
@@ -8417,6 +8810,9 @@ msgstr ""
 msgid "Theme"
 msgstr "主題"
 
+msgid "&Theme"
+msgstr ""
+
 msgid "Themes"
 msgstr "主題"
 
@@ -8434,6 +8830,9 @@ msgid ""
 msgstr ""
 
 msgid "Thomas Zander"
+msgstr ""
+
+msgid "Threads"
 msgstr ""
 
 msgid "Threshold"
@@ -8462,6 +8861,9 @@ msgstr ""
 
 msgid "Tiled"
 msgstr "拼貼"
+
+msgid "Tiles"
+msgstr "牌面"
 
 msgid "Tilt"
 msgstr "傾斜"
@@ -8511,6 +8913,9 @@ msgstr ""
 msgid "_Title"
 msgstr "標題(_T)："
 
+msgid "Titles"
+msgstr "標題"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8533,6 +8938,9 @@ msgid "TODO"
 msgstr ""
 
 msgid "Todo"
+msgstr ""
+
+msgid "To-do"
 msgstr ""
 
 msgid "Toggle Fullscreen"
@@ -8565,6 +8973,9 @@ msgstr ""
 msgid "Tool Options"
 msgstr "工具選項"
 
+msgid "Toolbar"
+msgstr ""
+
 msgid "_Toolbar"
 msgstr "工具列(_T)"
 
@@ -8585,6 +8996,9 @@ msgstr "工具(&T)"
 
 msgid "_Tools"
 msgstr "工具(_T)"
+
+msgid "Tooltip"
+msgstr ""
 
 msgid "Top"
 msgstr "上"
@@ -8746,11 +9160,17 @@ msgstr ""
 msgid "&Type"
 msgstr ""
 
+msgid "_Type"
+msgstr "類型(_T)"
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "烏干達"
+
+msgid "UID"
+msgstr ""
 
 msgid "Ukraine"
 msgstr "烏克蘭"
@@ -8983,6 +9403,9 @@ msgstr "已使用空間"
 msgid "User"
 msgstr ""
 
+msgid "User Agent"
+msgstr "用戶代理"
+
 msgid "User Certificate"
 msgstr ""
 
@@ -9007,11 +9430,17 @@ msgstr ""
 msgid "Username"
 msgstr "使用者名稱"
 
+msgid "&Username"
+msgstr ""
+
 msgid "_Username"
 msgstr "使用者名稱(_U)"
 
 msgid "Users"
 msgstr ""
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "公用程式"
@@ -9032,6 +9461,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9066,6 +9498,9 @@ msgstr "變數"
 msgid "Variance"
 msgstr "Variance 變異數"
 
+msgid "Variant"
+msgstr ""
+
 msgid "Vector"
 msgstr ""
 
@@ -9092,6 +9527,9 @@ msgstr ""
 
 msgid "Vertical"
 msgstr "垂直"
+
+msgid "_Vertical"
+msgstr "垂直(_V)"
 
 msgid "Very Large"
 msgstr "特大"
@@ -9125,6 +9563,9 @@ msgstr "檢視(&V)"
 
 msgid "_View"
 msgstr "檢視(_V)"
+
+msgid "View mode"
+msgstr ""
 
 msgid "View Options"
 msgstr ""
@@ -9285,6 +9726,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr ""
 
+msgid "Wind"
+msgstr "風向："
+
 msgid "Window"
 msgstr "視窗"
 
@@ -9327,11 +9771,17 @@ msgstr "文字"
 msgid "Word Count"
 msgstr ""
 
+msgid "Word wrap"
+msgstr ""
+
 msgid "Words"
 msgstr ""
 
 msgid "Work"
 msgstr "工作"
+
+msgid "Workspace"
+msgstr ""
 
 msgid "World"
 msgstr "世界"
@@ -9371,6 +9821,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "年份"
+
+msgid "&Year"
+msgstr ""
 
 msgid "Yearly"
 msgstr ""
@@ -9431,6 +9884,9 @@ msgstr ""
 
 msgid "_Zoom"
 msgstr "縮放(_Z)"
+
+msgid "Zoom factor"
+msgstr ""
 
 msgid "Zoom In"
 msgstr "拉近"

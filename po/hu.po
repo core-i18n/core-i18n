@@ -82,9 +82,6 @@ msgstr " és "
 msgid " (default)"
 msgstr " (alapértelmezett)"
 
-msgid "© KDE Community"
-msgstr "© A KDE közösség"
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "Már létezik \"%1\" nevű fájl. Biztosan felül szeretné írni?"
 
@@ -355,17 +355,20 @@ msgstr "_Névjegy"
 msgid "About %1"
 msgstr "Névjegy: %1"
 
-msgid "About KDE"
-msgstr "A KDE névjegye"
-
 msgid "Abstract"
 msgstr "Absztrakt"
+
+msgid "Acceleration"
+msgstr "Gyorsulás"
 
 msgid "Accept"
 msgstr "Elfogadás"
 
 msgid "Accepted"
 msgstr "Elfogadva"
+
+msgid "Access"
+msgstr "Hozzáférés"
 
 msgid "Accessed"
 msgstr "Hozzáférés"
@@ -384,6 +387,9 @@ msgstr "Fiókinformációk"
 
 msgid "Account Name"
 msgstr "Fiók neve"
+
+msgid "Account name"
+msgstr "Fióknév"
 
 msgid "Accounts"
 msgstr "Fiókok"
@@ -637,6 +643,9 @@ msgstr "Betűrendben"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Alternatív"
+
 msgid "Alternative"
 msgstr "Alternatív"
 
@@ -712,8 +721,14 @@ msgstr "Jegyzetek"
 msgid "Anonymous"
 msgstr "Névtelen"
 
+msgid "Answer"
+msgstr "Válasz"
+
 msgid "Antarctica"
 msgstr "Antarktisz"
+
+msgid "Antialiasing"
+msgstr "Élsimítás"
 
 msgid "Any"
 msgstr "Bármely"
@@ -883,6 +898,9 @@ msgstr "Hitelesítés szükséges"
 msgid "Author"
 msgstr "Szerző"
 
+msgid "Author name"
+msgstr "Szerző neve"
+
 msgid "Authors"
 msgstr "Szerzők"
 
@@ -928,6 +946,9 @@ msgstr "Azerbajdzsán"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&Vissza"
 msgid "_Back"
 msgstr "_Vissza"
 
+msgid "Backend"
+msgstr "Modul"
+
 msgid "Background"
 msgstr "Háttér"
+
+msgid "&Background"
+msgstr "&Háttér"
 
 msgid "Background Color"
 msgstr "Háttérszín"
@@ -951,6 +978,9 @@ msgstr "Háttérszín"
 
 msgid "&Background color"
 msgstr "&Háttérszín"
+
+msgid "Background image"
+msgstr "Háttérkép"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "Kiegyensúlyozott"
 
 msgid "Baltic"
 msgstr "Balti"
+
+msgid "Bandwidth"
+msgstr "Sávszélesség"
 
 msgid "Bangladesh"
 msgstr "Banglades"
@@ -999,6 +1032,9 @@ msgstr "Basszus"
 
 msgid "Battery"
 msgstr "Akkumulátor"
+
+msgid "BCC"
+msgstr "Titkos másolat"
 
 msgid "Bcc"
 msgstr "Titkos másolat"
@@ -1156,23 +1192,8 @@ msgstr "Ág"
 msgid "Brazil"
 msgstr "Brazília"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze a KDE VDG-től"
-
-msgid "Breeze Dark"
-msgstr "Breeze Dark"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze Dark a KDE VDG-től"
-
 msgid "Breton"
 msgstr "Breton"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Híd"
@@ -1309,18 +1330,6 @@ msgstr "&Mégse"
 msgid "Canceled"
 msgstr "Lemondva"
 
-msgid "Cancelled"
-msgstr "Megszakítva"
-
-msgid "cannot load editor plugin: %s"
-msgstr "nem tölthető be a szerkesztő bővítmény: %s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "nem tölthető be a(z) %s factory a bővítményből: %s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Vászon"
 
@@ -1339,14 +1348,14 @@ msgstr "Nagy kezdőbetűk"
 msgid "Caps Lock is on"
 msgstr "A Caps Lock be van kapcsolva"
 
+msgid "Caption"
+msgstr "Felirat"
+
 msgid "Capture"
 msgstr "Felvétel"
 
 msgid "Car"
 msgstr "Autó"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascade"
@@ -1435,6 +1444,9 @@ msgstr "Módosítás…"
 msgid "Changed"
 msgstr "Módosítva"
 
+msgid "Changes"
+msgstr "Változások"
+
 msgid "Channel"
 msgstr "Csatorna"
 
@@ -1452,6 +1464,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Karakter"
+
+msgid "Character set"
+msgstr "Karakterkészlet"
 
 msgid "Characters"
 msgstr "Karakterek"
@@ -1684,6 +1699,9 @@ msgstr "Színséma"
 msgid "Color Space"
 msgstr "Színtér"
 
+msgid "Color space"
+msgstr "Színtér"
+
 msgid "Color theme"
 msgstr "Színtéma"
 
@@ -1705,14 +1723,8 @@ msgstr "Oszlopok"
 msgid "Comma"
 msgstr "Vessző"
 
-msgid "COMMAND"
-msgstr "PARANCS"
-
 msgid "Command"
 msgstr "Parancs"
-
-msgid "command"
-msgstr "parancs"
 
 msgid "Command Line"
 msgstr "Parancssor"
@@ -1726,6 +1738,9 @@ msgstr "Parancsok"
 msgid "Comment"
 msgstr "Megjegyzés"
 
+msgid "comment"
+msgstr "megjegyzés"
+
 msgid "Comments"
 msgstr "Megjegyzések"
 
@@ -1735,11 +1750,17 @@ msgstr "Véglegesítés"
 msgid "Common"
 msgstr "Közös"
 
+msgid "Common Name"
+msgstr "Általános név"
+
 msgid "Comoros"
 msgstr "Comore-szigetek"
 
 msgid "Compact"
 msgstr "Kompakt"
+
+msgid "Company"
+msgstr "Cég"
 
 msgid "Compare"
 msgstr "Összehasonlítás"
@@ -1777,6 +1798,9 @@ msgstr "Számítógép"
 msgid "Condition"
 msgstr "Feltétel"
 
+msgid "Conditions"
+msgstr "Feltételek"
+
 msgid "Confidential"
 msgstr "Bizalmas"
 
@@ -1807,6 +1831,9 @@ msgstr "Keresőazonosítók beállítása…"
 msgid "Confirm"
 msgstr "Megerősítés"
 
+msgid "Confirm Password"
+msgstr "Jelszó megerősítése"
+
 msgid "Confirmation"
 msgstr "Megerősítés"
 
@@ -1818,6 +1845,9 @@ msgstr "Megerősítve"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Ütközés egy alkalmazásbeli billentyűkombinációval"
+
+msgid "Conflicts"
+msgstr "Ütközések"
 
 msgid "Connect"
 msgstr "Kapcsolódás"
@@ -1843,6 +1873,9 @@ msgstr "A kapcsolódás meghiúsult"
 msgid "Connection Settings"
 msgstr "Kapcsolódási beállítások"
 
+msgid "Connection type"
+msgstr "Kapcsolat típusa"
+
 msgid "Connections"
 msgstr "Kapcsolatok"
 
@@ -1851,11 +1884,6 @@ msgstr "Konzol"
 
 msgid "Constant"
 msgstr "Konstans"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
-"„%2$s” objektum „%1$s” konstuktortulajdonsága nem állítható be a létrehozás "
-"után"
 
 msgid "Contact"
 msgstr "Névjegy"
@@ -1869,14 +1897,14 @@ msgstr "Konténer"
 msgid "Contains"
 msgstr "Tartalmazza"
 
-msgid "contains"
-msgstr "tartalmazza"
-
 msgid "Content"
 msgstr "Tartalom"
 
 msgid "Content Type"
 msgstr "Tartalom típusa"
+
+msgid "Content type"
+msgstr "Tartalomtípus"
 
 msgid "Contents"
 msgstr "Tartalom"
@@ -1899,11 +1927,17 @@ msgstr "Kontraszt"
 msgid "Contributor"
 msgstr "Közreműködő"
 
+msgid "Contributors"
+msgstr "Hozzájárultak"
+
 msgid "Control"
 msgstr "Control"
 
 msgid "Convert"
 msgstr "Konvertálás"
+
+msgid "Convert to"
+msgstr "Átalakítás erre:"
 
 msgid "Convert to Path"
 msgstr "Átalakítás útvonallá"
@@ -1922,9 +1956,6 @@ msgstr "Kopt"
 
 msgid "Copy"
 msgstr "Másolás"
-
-msgid "copy"
-msgstr "másolás"
 
 msgid "&Copy"
 msgstr "&Másolás"
@@ -1977,6 +2008,9 @@ msgstr "Fájlok másolása"
 msgid "Copyright"
 msgstr "Copyright"
 
+msgid "Correct"
+msgstr "Helyes"
+
 msgid "Cost"
 msgstr "Költség"
 
@@ -2000,6 +2034,9 @@ msgstr "Ország"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "CPU-használat"
 
 msgid "Create"
 msgstr "Létrehozás"
@@ -2028,6 +2065,9 @@ msgstr "Létrehozó"
 msgid "Credentials"
 msgstr "Hitelesítési adatok"
 
+msgid "Credit"
+msgstr "Köszönet"
+
 msgid "Credits"
 msgstr "Köszönetnyilvánítás"
 
@@ -2054,15 +2094,6 @@ msgstr "Kereszt"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+O"
 
 msgid "Cuba"
 msgstr "Kuba"
@@ -2091,8 +2122,14 @@ msgstr "Görbék"
 msgid "Custom"
 msgstr "Egyéni"
 
+msgid "&Custom"
+msgstr "&Egyéni"
+
 msgid "Custom..."
 msgstr "Egyéni…"
+
+msgid "Custom color"
+msgstr "Egyéni szín"
 
 msgid "Custom Font"
 msgstr "Egyéni betűkészlet"
@@ -2166,6 +2203,9 @@ msgstr "Adat"
 msgid "Database"
 msgstr "Adatbázis"
 
+msgid "Database name"
+msgstr "Adatbázisnév"
+
 msgid "Date"
 msgstr "Dátum"
 
@@ -2181,14 +2221,20 @@ msgstr "Dátum és idő"
 msgid "Date Format"
 msgstr "Dátumformátum"
 
+msgid "Date format"
+msgstr "Dátumformátum"
+
 msgid "Date Modified"
 msgstr "Utolsó módosítás dátuma"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "Dátum/Idő"
 
 msgid "Day"
 msgstr "Nap"
+
+msgid "day"
+msgstr "nap"
 
 msgid "Days"
 msgstr "nap"
@@ -2237,6 +2283,9 @@ msgstr "Alapértelmezett"
 
 msgid "default"
 msgstr "alapértelmezett"
+
+msgid "Default value"
+msgstr "Alapértelmezett érték"
 
 msgid "Defaults"
 msgstr "Alapértelmezések"
@@ -2313,6 +2362,9 @@ msgstr "Sűrűség"
 msgid "Deny"
 msgstr "Tiltás"
 
+msgid "Department"
+msgstr "Osztály"
+
 msgid "Dependencies"
 msgstr "Függőségek"
 
@@ -2345,6 +2397,12 @@ msgstr "Asztal"
 
 msgid "Destination"
 msgstr "Cél"
+
+msgid "Destination Folder"
+msgstr "Célkönyvtár"
+
+msgid "Destination folder"
+msgstr "Célmappa"
 
 msgid "Detach"
 msgstr "Leválasztás"
@@ -2517,6 +2575,9 @@ msgstr "Feloldás"
 msgid "Distance"
 msgstr "Távolság"
 
+msgid "Distribution"
+msgstr "Elosztás"
+
 msgid "Divide"
 msgstr "Osztás"
 
@@ -2571,11 +2632,11 @@ msgstr "Dokumentumok"
 msgid "does not contain"
 msgstr "nem tartalmazza"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Tartomány"
+
+msgid "_Domain"
+msgstr "_Tartomány"
 
 msgid "Dominica"
 msgstr "Dominika"
@@ -2679,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Dinamikus"
+
 msgid "E"
 msgstr "K"
 
@@ -2730,6 +2794,9 @@ msgstr "Kép szerkesztése"
 msgid "Editing"
 msgstr "Szerkesztés"
 
+msgid "Edition"
+msgstr "Kiadás"
+
 msgid "Editor"
 msgstr "Szerkesztő"
 
@@ -2745,9 +2812,6 @@ msgstr "Egyiptom"
 msgid "Egyptian"
 msgstr "Egyiptomi"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Kiadás"
 
@@ -2757,16 +2821,28 @@ msgstr "_Kiadás"
 msgid "El Salvador"
 msgstr "El Salvador"
 
+msgid "Elapsed Time"
+msgstr "Eltelt idő"
+
 msgid "Electronic"
 msgstr "Elektronikus"
 
 msgid "Element"
 msgstr "Elem"
 
+msgid "Elements"
+msgstr "Elemek"
+
 msgid "Ellipse"
 msgstr "Ellipszis"
 
+msgid "EMail"
+msgstr "E-mail"
+
 msgid "Email"
+msgstr "E-mail"
+
+msgid "E-Mail"
 msgstr "E-mail"
 
 msgid "E-mail"
@@ -2849,6 +2925,9 @@ msgstr "end"
 msgid "End Date"
 msgstr "Befejezési dátum"
 
+msgid "End date"
+msgstr "Záródátum"
+
 msgid "End Time"
 msgstr "Befejezési idő"
 
@@ -2870,8 +2949,14 @@ msgstr "Angol"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "Név"
+
 msgid "Enter password"
 msgstr "Adja meg a jelszót"
+
+msgid "Entries"
+msgstr "Bejegyzések"
 
 msgid "Entry"
 msgstr "Bejegyzés"
@@ -2945,6 +3030,9 @@ msgstr "Esemény"
 msgid "Events"
 msgstr "Események"
 
+msgid "Every"
+msgstr "Minden"
+
 msgid "Everyone"
 msgstr "Mindenki"
 
@@ -2962,6 +3050,9 @@ msgstr "Példák"
 
 msgid "Exception"
 msgstr "Kivétel"
+
+msgid "Exceptions"
+msgstr "Kivételek"
 
 msgid "Exclude"
 msgstr "Kihagyás"
@@ -2996,11 +3087,17 @@ msgstr "Összes kibontása"
 msgid "Experimental"
 msgstr "Kísérleti"
 
+msgid "Expiration"
+msgstr "Lejárat"
+
 msgid "Expired"
 msgstr "Lejárt"
 
 msgid "Expires"
 msgstr "Lejár"
+
+msgid "Expires On"
+msgstr "Lejárat"
 
 msgid "Export"
 msgstr "Exportálás"
@@ -3035,6 +3132,9 @@ msgstr "Exportálás beállításai"
 msgid "Exposure"
 msgstr "Expozíció"
 
+msgid "Exposure Time"
+msgstr "Expozíciós idő"
+
 msgid "Expression"
 msgstr "Kifejezés"
 
@@ -3055,6 +3155,9 @@ msgstr "Kibontás"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Szövet"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3113,6 +3216,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Lekérdezés"
 
+msgid "Field"
+msgstr "Mező"
+
+msgid "Fields"
+msgstr "Mezők"
+
 msgid "Fiji"
 msgstr "Fidzsi-szigetek"
 
@@ -3144,6 +3253,9 @@ msgid "File Exists"
 msgstr "A fájl létezik"
 
 msgid "File Format"
+msgstr "Fájlformátum"
+
+msgid "File format"
 msgstr "Fájlformátum"
 
 msgid "File is not a valid .desktop file"
@@ -3205,6 +3317,9 @@ msgstr "Kitöltőszín"
 
 msgid "Filter"
 msgstr "Szűrő"
+
+msgid "&Filter"
+msgstr "&Szűrő"
 
 msgid "Filter..."
 msgstr "Szűrő…"
@@ -3269,6 +3384,9 @@ msgstr "Finn"
 msgid "First"
 msgstr "Első"
 
+msgid "First Name"
+msgstr "Keresztnév"
+
 msgid "First Page"
 msgstr "Első oldal"
 
@@ -3329,6 +3447,9 @@ msgstr "virág"
 msgid "Focal Length"
 msgstr "Gyújtótávolság"
 
+msgid "Focal length"
+msgstr "Fókusztávolság"
+
 msgid "Focus"
 msgstr "Fókusz"
 
@@ -3350,6 +3471,9 @@ msgstr "Betűtípus"
 msgid "&Font"
 msgstr "B&etűtípus"
 
+msgid "_Font"
+msgstr "_Betűkészlet"
+
 msgid "Font Color"
 msgstr "Betűszín"
 
@@ -3361,6 +3485,12 @@ msgstr "Betűméret"
 
 msgid "Font size"
 msgstr "Betűméret"
+
+msgid "Font Style"
+msgstr "Betűkészlet stílusa"
+
+msgid "Font style"
+msgstr "Betűstílus"
 
 msgid "Fonts"
 msgstr "Betűtípusok"
@@ -3398,6 +3528,12 @@ msgstr "Űrlap"
 msgid "Format"
 msgstr "Formátum"
 
+msgid "&Format"
+msgstr "F&ormátum"
+
+msgid "_Format"
+msgstr "_Formátum"
+
 msgid "Formatting"
 msgstr "Formázás"
 
@@ -3424,6 +3560,12 @@ msgstr "Tört"
 
 msgid "Frame"
 msgstr "Keret"
+
+msgid "Frame Rate"
+msgstr "Képkockaszám"
+
+msgid "Frame rate"
+msgstr "Képkockasebesség"
 
 msgid "Framerate"
 msgstr "Képkockasebesség"
@@ -3468,6 +3610,9 @@ msgid "Full"
 msgstr "Teljes"
 
 msgid "Full Name"
+msgstr "Teljes név"
+
+msgid "Full name"
 msgstr "Teljes név"
 
 msgid "Full Screen"
@@ -3535,6 +3680,9 @@ msgstr "Kapu"
 
 msgid "Gateway"
 msgstr "Átjáró"
+
+msgid "_Gateway"
+msgstr "Á_tjáró"
 
 msgid "Gaussian Blur"
 msgstr "Gauss-elmosás"
@@ -3656,6 +3804,9 @@ msgstr "Ugrás az előző oldalra"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr "Cél"
+
 msgid "Gold"
 msgstr "Arany"
 
@@ -3710,6 +3861,9 @@ msgstr "Szürkeség"
 msgid "Grid"
 msgstr "Rács"
 
+msgid "&Grid"
+msgstr "&Rács"
+
 msgid "Group"
 msgstr "Csoport"
 
@@ -3755,6 +3909,9 @@ msgstr "Kemény"
 msgid "Hardware"
 msgstr "Hardver"
 
+msgid "Hash"
+msgstr "Ellenőrzőösszeg"
+
 msgid "Hawaiian"
 msgstr "Hawaii"
 
@@ -3796,6 +3953,9 @@ msgstr "Magasság"
 
 msgid "&Height"
 msgstr "Ma&gasság"
+
+msgid "_Height"
+msgstr "_Magasság"
 
 msgid "Help"
 msgstr "Súgó"
@@ -3841,6 +4001,9 @@ msgstr "Magas"
 
 msgid "Highlight"
 msgstr "Kiemelés"
+
+msgid "Highlight color"
+msgstr "Kiemelési szín"
 
 msgid "Highlighter"
 msgstr "Kiemelő"
@@ -3893,7 +4056,16 @@ msgstr "Hongkong"
 msgid "Horizontal"
 msgstr "Vízszintes"
 
+msgid "_Horizontal"
+msgstr "_Vízszintes"
+
+msgid "Horizontally"
+msgstr "Vízszintesen"
+
 msgid "Host"
+msgstr "Gépnév"
+
+msgid "Host Name"
 msgstr "Gépnév"
 
 msgid "Hostname"
@@ -3974,6 +4146,9 @@ msgstr "Azonosító"
 msgid "id"
 msgstr "azonosító"
 
+msgid "Identification"
+msgstr "Azonosítás"
+
 msgid "Identifier"
 msgstr "Azonosító"
 
@@ -4027,6 +4202,12 @@ msgstr "Képbeállítások"
 
 msgid "Image Size"
 msgstr "Képméret"
+
+msgid "Image size"
+msgstr "Képméret"
+
+msgid "Image type"
+msgstr "Képtípus"
 
 msgid "Image Viewer"
 msgstr "Képmegjelenítő"
@@ -4103,6 +4284,9 @@ msgstr "Behúzás növelése"
 msgid "Increase Volume"
 msgstr "Hangerő növelése"
 
+msgid "Increment"
+msgstr "Növelés"
+
 msgid "Incremental"
 msgstr "Összeadódó"
 
@@ -4114,6 +4298,9 @@ msgstr "Index"
 
 msgid "Indexed"
 msgstr "Indexelt"
+
+msgid "Indexing"
+msgstr "Indexelés"
 
 msgid "India"
 msgstr "India"
@@ -4177,6 +4364,9 @@ msgstr "Telepítés"
 
 msgid "Instant"
 msgstr "Azonnali"
+
+msgid "Instructions"
+msgstr "Utasítások"
 
 msgid "Integer"
 msgstr "Egész"
@@ -4265,11 +4455,17 @@ msgstr "Ír"
 msgid "is"
 msgstr "="
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "Izrael"
 
 msgid "Issued By"
 msgstr "Kibocsátó"
+
+msgid "Issued On"
+msgstr "Kibocsátva"
 
 msgid "Issuer"
 msgstr "Kibocsátó"
@@ -4367,9 +4563,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Kazah"
 
@@ -4378,18 +4571,6 @@ msgstr "Kazahsztán"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "KDE Közösség, Felipe Kinoshita"
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Megtartás"
@@ -4454,26 +4635,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Koreai"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Kuvait"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "B"
@@ -4492,6 +4658,9 @@ msgstr "Fekvő"
 
 msgid "Language"
 msgstr "Nyelv"
+
+msgid "&Language"
+msgstr "Nyel&v"
 
 msgid "_Language"
 msgstr "_Nyelv"
@@ -4513,6 +4682,12 @@ msgstr "Utolsó"
 
 msgid "Last Modified"
 msgstr "Utoljára módosítva"
+
+msgid "Last modified"
+msgstr "Utoljára módosítva"
+
+msgid "Last Name"
+msgstr "Vezetéknév"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4625,8 +4800,20 @@ msgstr "Sortörés"
 msgid "Line Color"
 msgstr "Vonalszín"
 
+msgid "Line Count"
+msgstr "Sorok száma"
+
 msgid "Line Numbers"
 msgstr "Sorszámok"
+
+msgid "Line spacing"
+msgstr "Sorköz"
+
+msgid "Line Style"
+msgstr "Vonalstílus"
+
+msgid "Line style"
+msgstr "Vonalstílus"
 
 msgid "Line Width"
 msgstr "Vonalvastagság"
@@ -4645,6 +4832,9 @@ msgstr "Hivatkozás"
 
 msgid "link"
 msgstr "hivatkozás"
+
+msgid "Link Text"
+msgstr "A link szövege"
 
 msgid "Link URL"
 msgstr "Hivatkozás URL-je"
@@ -4744,6 +4934,9 @@ msgstr "Bejelentkezés"
 
 msgid "_Login"
 msgstr "_Bejelentkezés"
+
+msgid "Logo"
+msgstr "Logó"
 
 msgid "Logout"
 msgstr "Kijelentkezés"
@@ -4940,6 +5133,9 @@ msgstr "Maximalizálás"
 msgid "Maximum"
 msgstr "Maximum"
 
+msgid "Maximum width"
+msgstr "Maximális szélesség"
+
 msgid "May"
 msgstr "május"
 
@@ -4994,6 +5190,9 @@ msgstr "Üzenet"
 msgid "message"
 msgstr "üzenet"
 
+msgid "&Message"
+msgstr "Üzene&t"
+
 msgid "Messages"
 msgstr "Üzenetek"
 
@@ -5005,6 +5204,9 @@ msgstr "Metaadat"
 
 msgid "Metal"
 msgstr "Fémes"
+
+msgid "Metering Mode"
+msgstr "Mérési mód"
 
 msgid "meters"
 msgstr "méter"
@@ -5044,6 +5246,9 @@ msgstr "Ezredmásodperc"
 
 msgid "milliseconds"
 msgstr "ezredmásodperc"
+
+msgid "MIME type"
+msgstr "MIME-típus"
 
 msgid "Min"
 msgstr "Min"
@@ -5090,8 +5295,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Mobil"
 
+msgid "Mobile Phone"
+msgstr "Mobil"
+
 msgid "Mode"
 msgstr "Mód"
+
+msgid "_Mode"
+msgstr "_Mód"
 
 msgid "Model"
 msgstr "Modell"
@@ -5188,6 +5399,9 @@ msgstr "Marokkó"
 
 msgid "Mount"
 msgstr "Csatolás"
+
+msgid "Mount Point"
+msgstr "Csatolási pont"
 
 msgid "Mount point"
 msgstr "Csatolási pont"
@@ -5327,6 +5541,9 @@ msgstr "_Név"
 msgid "Name: %1"
 msgstr "Név: %1"
 
+msgid "Names"
+msgstr "Nevek"
+
 msgid "Namespace"
 msgstr "Névtér"
 
@@ -5356,6 +5573,9 @@ msgstr "Nepáli"
 
 msgid "Netherlands"
 msgstr "Hollandia"
+
+msgid "Netmask"
+msgstr "Hálózati maszk"
 
 msgid "Network"
 msgstr "Hálózat"
@@ -5567,6 +5787,9 @@ msgstr "Nincs tárgy"
 msgid "No VPN configuration options."
 msgstr "Nincsenek VPN-beállítások."
 
+msgid "Node"
+msgstr "Csomópont"
+
 msgid "Noise"
 msgstr "Zaj"
 
@@ -5693,6 +5916,9 @@ msgstr "szám"
 msgid "Number of columns"
 msgstr "Oszlopok száma"
 
+msgid "Number of rows"
+msgstr "Sorok száma"
+
 msgid "Numbers"
 msgstr "Számok"
 
@@ -5749,9 +5975,6 @@ msgstr "&OK"
 
 msgid "_OK"
 msgstr "_OK"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Omán"
@@ -5903,6 +6126,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr "Operációs rendszer"
+
 msgid "Operation"
 msgstr "Művelet"
 
@@ -5914,6 +6140,9 @@ msgstr "Műveletek"
 
 msgid "Operator"
 msgstr "Operátor"
+
+msgid "Operators"
+msgstr "Operátorok"
 
 msgid "Optical Character Recognition"
 msgstr "Optikai karakterfelismerés"
@@ -5972,6 +6201,9 @@ msgstr "Eredeti méret"
 msgid "Oriya"
 msgstr "Orija"
 
+msgid "OS"
+msgstr "Operációs rendszer"
+
 msgid "Other"
 msgstr "Egyéb"
 
@@ -5985,6 +6217,9 @@ msgid "Other Application..."
 msgstr "Egyéb alkalmazás…"
 
 msgid "Other Options"
+msgstr "Egyéb beállítások"
+
+msgid "Other options"
 msgstr "Egyéb beállítások"
 
 msgid "Others"
@@ -6128,6 +6363,9 @@ msgstr "Szülő"
 msgid "Partition"
 msgstr "Partíció"
 
+msgid "Passphrase"
+msgstr "Jelmondat"
+
 msgid "Password"
 msgstr "Jelszó"
 
@@ -6166,6 +6404,9 @@ msgstr "Útvonalak"
 
 msgid "Pattern"
 msgstr "Minta"
+
+msgid "_Pattern"
+msgstr "Min_ta"
 
 msgid "Patterns"
 msgstr "Minták"
@@ -6251,8 +6492,14 @@ msgstr "Fülöp-szigetek"
 msgid "Phone"
 msgstr "Telefon"
 
+msgid "Phone Numbers"
+msgstr "Telefonszámok"
+
 msgid "Photo"
 msgstr "Fénykép"
+
+msgid "Photos"
+msgstr "Fényképek"
 
 msgid "PHP Documentation"
 msgstr "PHP dokumentáció"
@@ -6274,6 +6521,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "Torta"
+
+msgid "PIN"
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "Kitűzés"
@@ -6302,9 +6552,6 @@ msgstr "Egyszerű szöveg"
 msgid "Plan"
 msgstr "Plan"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Platform"
 
@@ -6323,8 +6570,14 @@ msgstr "Lejátszás"
 msgid "Player"
 msgstr "Játékos"
 
+msgid "Player 1"
+msgstr "1. játékos"
+
 msgid "Player %1"
 msgstr "%1. játékos"
+
+msgid "Player 2"
+msgstr "2. játékos"
 
 msgid "Players"
 msgstr "Játékosok"
@@ -6404,6 +6657,9 @@ msgstr "Port"
 msgid "&Port"
 msgstr "&Port"
 
+msgid "_Port"
+msgstr "_Port"
+
 msgid "Portrait"
 msgstr "Álló"
 
@@ -6415,6 +6671,9 @@ msgstr "Portugál"
 
 msgid "Position"
 msgstr "Pozíció"
+
+msgid "Postal code"
+msgstr "Irányítószám"
 
 msgid "Posterize"
 msgstr "Poszter"
@@ -6457,6 +6716,9 @@ msgstr "Előnézet"
 
 msgid "&Preview"
 msgstr "&Előnézet"
+
+msgid "_Preview"
+msgstr "Előké_p"
 
 msgid "Previews"
 msgstr "Előnézetek"
@@ -6539,6 +6801,9 @@ msgstr "Adatvédelem"
 msgid "Private"
 msgstr "Privát"
 
+msgid "Private Key"
+msgstr "Privát kulcs"
+
 msgid "Process"
 msgstr "Folyamat"
 
@@ -6566,6 +6831,9 @@ msgstr "Profilok"
 msgid "Program"
 msgstr "Program"
 
+msgid "Programs"
+msgstr "Programok"
+
 msgid "Progress"
 msgstr "Folyamat"
 
@@ -6574,6 +6842,9 @@ msgstr "Projekt"
 
 msgid "&Project"
 msgstr "&Projekt"
+
+msgid "Project name"
+msgstr "Projektnév"
 
 msgid "Projects"
 msgstr "Projektek"
@@ -6647,6 +6918,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "Katar"
 
@@ -6702,6 +6976,9 @@ msgstr "Kilépés a programból"
 msgid "Quote"
 msgstr "Idézet"
 
+msgid "Quotes"
+msgstr "Idézőjelek"
+
 msgid "R"
 msgstr "R"
 
@@ -6732,6 +7009,9 @@ msgstr "Mérték"
 msgid "Rating"
 msgstr "Értékelés"
 
+msgid "Ratio"
+msgstr "Arány"
+
 msgid "Raw"
 msgstr "Nyers"
 
@@ -6759,11 +7039,17 @@ msgstr "Kész"
 msgid "Ready."
 msgstr "Kész."
 
+msgid "Realm"
+msgstr "Tartomány"
+
 msgid "Reason"
 msgstr "Indok"
 
 msgid "Reassign"
 msgstr "Igen, az új"
+
+msgid "Received"
+msgstr "Fogadott"
 
 msgid "Recent"
 msgstr "Legutóbbiak"
@@ -6785,6 +7071,9 @@ msgstr "Felvétel"
 
 msgid "Rectangle"
 msgstr "Téglalap"
+
+msgid "Recurrence"
+msgstr "Ismétlődés"
 
 msgid "Recursive"
 msgstr "Rekurzív"
@@ -6915,6 +7204,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Eltávolítás"
+
 msgid "Rename"
 msgstr "Átnevezés"
 
@@ -6935,6 +7227,9 @@ msgstr "Könyvjelző átnevezése"
 
 msgid "Rename File"
 msgstr "Fájl átnevezése"
+
+msgid "Rendering intent"
+msgstr "Megjelenítési cél"
 
 msgid "Repeat"
 msgstr "Ismétlés"
@@ -6957,11 +7252,20 @@ msgstr "Öss_zes cseréje"
 msgid "Replace an existing instance"
 msgstr "Meglévő példány cseréje"
 
+msgid "Replace With"
+msgstr "Csere erre:"
+
+msgid "Replace with"
+msgstr "Csere ezzel"
+
 msgid "Replacement"
 msgstr "Csere"
 
 msgid "Reply"
 msgstr "Válasz"
+
+msgid "Reply-To"
+msgstr "Válaszcím"
 
 msgid "Report"
 msgstr "Jelentés"
@@ -6980,6 +7284,9 @@ msgstr "Hiba&bejelentés…"
 
 msgid "Reports"
 msgstr "Jelentések"
+
+msgid "Repository"
+msgstr "Tároló"
 
 msgid "Required"
 msgstr "Kötelező"
@@ -7092,6 +7399,9 @@ msgstr "Jobbról balra"
 msgid "Right-click"
 msgstr "Jobb gombbal kattintásra"
 
+msgid "Rights"
+msgstr "Jogok"
+
 msgid "River"
 msgstr "Folyó"
 
@@ -7146,6 +7456,9 @@ msgstr "sor"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "Szabály"
+
 msgid "Rules"
 msgstr "Szabályok"
 
@@ -7154,6 +7467,9 @@ msgstr "Futtatás"
 
 msgid "&Run"
 msgstr "&Futtatás"
+
+msgid "Run command"
+msgstr "Parancs végrehajtása"
 
 msgid "Run in terminal"
 msgstr "Futtatás terminálban"
@@ -7290,6 +7606,9 @@ msgstr "Kép mentése"
 msgid "_Save Image As..."
 msgstr "Ké_p mentése másként…"
 
+msgid "Save Location"
+msgstr "Mentés helye"
+
 msgid "Save Project"
 msgstr "Projekt mentése"
 
@@ -7298,6 +7617,9 @@ msgstr "Munkamenet mentése"
 
 msgid "Save Settings"
 msgstr "Beállítások mentése"
+
+msgid "Save to"
+msgstr "Mentés ide"
 
 msgid "Saved"
 msgstr "Elmentve"
@@ -7329,11 +7651,17 @@ msgstr "Beolvasás"
 msgid "Scanner"
 msgstr "Lapolvasó"
 
+msgid "Scanning"
+msgstr "Vizsgálat"
+
 msgid "Scanning..."
 msgstr "Keresés…"
 
 msgid "Schedule"
 msgstr "Ütemezés"
+
+msgid "Scheduler"
+msgstr "Ütemező"
 
 msgid "Scheduling"
 msgstr "Ütemezés"
@@ -7410,11 +7738,17 @@ msgstr "Keresés…"
 msgid "Search Bar"
 msgstr "Keresési sáv"
 
+msgid "Search for"
+msgstr "Keresendő"
+
 msgid "_Search for"
 msgstr "_Keresés erre"
 
 msgid "Search for '%1' with"
 msgstr "„%1” keresése ezzel:"
+
+msgid "Search in"
+msgstr "Keresés itt"
 
 msgid "Search Options"
 msgstr "Keresési beállítások"
@@ -7518,6 +7852,9 @@ msgstr "Kijelölés"
 msgid "Selections"
 msgstr "Kijelölések"
 
+msgid "Self"
+msgstr "Önmaga"
+
 msgid "Semicolon"
 msgstr "Pontosvessző"
 
@@ -7557,6 +7894,9 @@ msgstr "Szerbia"
 msgid "Serbian"
 msgstr "Szerb"
 
+msgid "Serial"
+msgstr "Sorozatszám"
+
 msgid "Serial Number"
 msgstr "Sorozatszám"
 
@@ -7572,8 +7912,14 @@ msgstr "Talpas"
 msgid "Server"
 msgstr "Kiszolgáló"
 
+msgid "&Server"
+msgstr "&Kiszolgáló"
+
 msgid "Server URL"
 msgstr "A kiszolgáló címe"
+
+msgid "Servers"
+msgstr "Kiszolgálók"
 
 msgid "Service"
 msgstr "Szolgáltatás"
@@ -7586,6 +7932,9 @@ msgstr "Munkamenet"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Munkamenet neve"
 
 msgid "Sessions"
 msgstr "Munkamenetek"
@@ -7616,6 +7965,12 @@ msgstr "Súlyosság"
 
 msgid "Seychelles"
 msgstr "Seychelle-szigetek"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7655,6 +8010,12 @@ msgstr "Élesség"
 
 msgid "Shear"
 msgstr "Nyírás"
+
+msgid "Sheet"
+msgstr "Munkalap"
+
+msgid "Sheets"
+msgstr "Munkalapok"
 
 msgid "Shell"
 msgstr "Parancsértelmező"
@@ -7776,6 +8137,9 @@ msgstr "Egyszeres"
 msgid "Sinhala"
 msgstr "Szingaléz"
 
+msgid "Site"
+msgstr "Oldal"
+
 msgid "Size"
 msgstr "Méret"
 
@@ -7784,6 +8148,9 @@ msgstr "méret"
 
 msgid "&Size"
 msgstr "&Méret"
+
+msgid "_Size"
+msgstr "_Méret"
 
 msgid "Size: %1"
 msgstr "Méret: %1"
@@ -7811,6 +8178,9 @@ msgstr "Csúszka"
 
 msgid "Slideshow"
 msgstr "Diavetítés"
+
+msgid "Slope"
+msgstr "Lejtő"
 
 msgid "Slovak"
 msgstr "Szlovák"
@@ -7866,6 +8236,12 @@ msgstr "Homogén szín"
 msgid "Solomon Islands"
 msgstr "Salamon-szigetek"
 
+msgid "Solution"
+msgstr "Megoldás"
+
+msgid "Solve"
+msgstr "Megoldás"
+
 msgid "Somalia"
 msgstr "Szomália"
 
@@ -7883,6 +8259,9 @@ msgstr "Rendezés"
 
 msgid "Sound"
 msgstr "Hang"
+
+msgid "Sounds"
+msgstr "Hangok"
 
 msgid "Soundtrack"
 msgstr "Filmzene"
@@ -7951,6 +8330,9 @@ msgid "Spell Check"
 msgstr "Helyesírás-ellenőrzés"
 
 msgid "Spell Checking"
+msgstr "Helyesírás-ellenőrzés"
+
+msgid "Spellcheck"
 msgstr "Helyesírás-ellenőrzés"
 
 msgid "Spelling"
@@ -8190,6 +8572,9 @@ msgstr "Sundanese"
 msgid "Sunday"
 msgstr "vasárnap"
 
+msgid "Sunrise"
+msgstr "Napkelte"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8246,6 +8631,9 @@ msgstr "Szinkronizálás"
 
 msgid "Synchronize"
 msgstr "Szinkronizálás"
+
+msgid "Syntax"
+msgstr "Szintaxis"
 
 msgid "Syriac"
 msgstr "Szír"
@@ -8309,6 +8697,9 @@ msgstr "Tanzánia"
 
 msgid "Target"
 msgstr "Cél"
+
+msgid "Targets"
+msgstr "Célok"
 
 msgid "Task"
 msgstr "Feladat"
@@ -8423,6 +8814,9 @@ msgstr "A Hálózatkezelő fejlesztői"
 msgid "Theme"
 msgstr "Téma"
 
+msgid "&Theme"
+msgstr "&Téma"
+
 msgid "Themes"
 msgstr "Témák"
 
@@ -8442,6 +8836,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "Szálak"
 
 msgid "Threshold"
 msgstr "Küszöbszint"
@@ -8469,6 +8866,9 @@ msgstr "Csempe"
 
 msgid "Tiled"
 msgstr "Mozaik"
+
+msgid "Tiles"
+msgstr "Elemek"
 
 msgid "Tilt"
 msgstr "Döntés"
@@ -8518,6 +8918,9 @@ msgstr "&Cím"
 msgid "_Title"
 msgstr "_Cím"
 
+msgid "Titles"
+msgstr "Címek"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8541,6 +8944,9 @@ msgstr "TODO"
 
 msgid "Todo"
 msgstr "Teendő"
+
+msgid "To-do"
+msgstr "Feladat"
 
 msgid "Toggle Fullscreen"
 msgstr "Teljes képernyő be- és kikapcsolása"
@@ -8572,6 +8978,9 @@ msgstr "Eszköz"
 msgid "Tool Options"
 msgstr "Eszközbeállítások"
 
+msgid "Toolbar"
+msgstr "Eszköztár"
+
 msgid "_Toolbar"
 msgstr "Eszköz_tár"
 
@@ -8592,6 +9001,9 @@ msgstr "&Eszközök"
 
 msgid "_Tools"
 msgstr "_Eszközök"
+
+msgid "Tooltip"
+msgstr "Buboréksúgó"
 
 msgid "Top"
 msgstr "Fent"
@@ -8745,11 +9157,17 @@ msgstr "típus"
 msgid "&Type"
 msgstr "&Típus"
 
+msgid "_Type"
+msgstr "_Típus"
+
 msgid "Type: %1"
 msgstr "Típus: %1"
 
 msgid "Uganda"
 msgstr "Uganda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ukrajna"
@@ -8983,6 +9401,9 @@ msgstr "Használt"
 msgid "User"
 msgstr "Felhasználó"
 
+msgid "User Agent"
+msgstr "Böngészőazonosító"
+
 msgid "User Certificate"
 msgstr "Felhasználói tanúsítvány"
 
@@ -9007,11 +9428,17 @@ msgstr "Felhasználó jelszava"
 msgid "Username"
 msgstr "Felhasználónév"
 
+msgid "&Username"
+msgstr "&Felhasználónév"
+
 msgid "_Username"
 msgstr "_Felhasználónév"
 
 msgid "Users"
 msgstr "Felhasználók"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Segédprogramok"
@@ -9033,6 +9460,9 @@ msgstr "Érvényes"
 
 msgid "Valid from"
 msgstr "Mikortól érvényes"
+
+msgid "Valid until"
+msgstr "Érvényesség vége"
 
 msgid "Validity"
 msgstr "Érvényesség"
@@ -9068,6 +9498,9 @@ msgstr "Változók"
 msgid "Variance"
 msgstr "Variancia"
 
+msgid "Variant"
+msgstr "Variáns"
+
 msgid "Vector"
 msgstr "Vektor"
 
@@ -9094,6 +9527,9 @@ msgstr "%1 verzió"
 
 msgid "Vertical"
 msgstr "Függőleges"
+
+msgid "_Vertical"
+msgstr "_Függőleges"
 
 msgid "Very Large"
 msgstr "Nagyon nagy"
@@ -9127,6 +9563,9 @@ msgstr "Né&zet"
 
 msgid "_View"
 msgstr "_Nézet"
+
+msgid "View mode"
+msgstr "Nézetmód"
 
 msgid "View Options"
 msgstr "Nézetbeállítások"
@@ -9287,6 +9726,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "Wikipédia"
 
+msgid "Wind"
+msgstr "Szél"
+
 msgid "Window"
 msgstr "Ablak"
 
@@ -9329,11 +9771,17 @@ msgstr "Szavanként"
 msgid "Word Count"
 msgstr "Szavak száma"
 
+msgid "Word wrap"
+msgstr "Szavak tördelése"
+
 msgid "Words"
 msgstr "Szavak"
 
 msgid "Work"
 msgstr "Munkahelyi"
+
+msgid "Workspace"
+msgstr "Munkaterület"
 
 msgid "World"
 msgstr "Világ"
@@ -9373,6 +9821,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Év"
+
+msgid "&Year"
+msgstr "É&v"
 
 msgid "Yearly"
 msgstr "Évente"
@@ -9433,6 +9884,9 @@ msgstr "Na&gyítás"
 
 msgid "_Zoom"
 msgstr "_Nagyítás"
+
+msgid "Zoom factor"
+msgstr "Nagyítás mértéke"
 
 msgid "Zoom In"
 msgstr "Nagyítás"

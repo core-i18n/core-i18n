@@ -82,9 +82,6 @@ msgstr " і "
 msgid " (default)"
 msgstr " (прадвызначана)"
 
-msgid "© KDE Community"
-msgstr "© KDE Community"
-
 msgid " MB"
 msgstr " Мб"
 
@@ -328,6 +325,9 @@ msgstr "А"
 msgid "a"
 msgstr "а"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "Файл з назвай \"%1\" ужо існуе. Сапраўды хочаце перазапісаць яго?"
 
@@ -355,17 +355,20 @@ msgstr "_Аб праграме"
 msgid "About %1"
 msgstr "Пра %1"
 
-msgid "About KDE"
-msgstr "Пра KDE"
-
 msgid "Abstract"
 msgstr "Абстрактна"
+
+msgid "Acceleration"
+msgstr "Паскарэнне"
 
 msgid "Accept"
 msgstr "Прыняць"
 
 msgid "Accepted"
 msgstr "Ухвалена"
+
+msgid "Access"
+msgstr ""
 
 msgid "Accessed"
 msgstr "Апошні доступ"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr "Назва акаўнта"
+
+msgid "Account name"
 msgstr "Назва акаўнта"
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "Па алфавіце"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Дадатковае"
+
 msgid "Alternative"
 msgstr "Альтэрнатыўны"
 
@@ -712,8 +721,14 @@ msgstr "Нататкі"
 msgid "Anonymous"
 msgstr "Ананімна"
 
+msgid "Answer"
+msgstr "Адказ"
+
 msgid "Antarctica"
 msgstr "Антарктыка"
+
+msgid "Antialiasing"
+msgstr "Згладжванне"
 
 msgid "Any"
 msgstr "Любы"
@@ -883,6 +898,9 @@ msgstr "Патрабуецца аўтэнтыфікацыя"
 msgid "Author"
 msgstr "Аўтар"
 
+msgid "Author name"
+msgstr "Імя аўтара"
+
 msgid "Authors"
 msgstr "Аўтары"
 
@@ -928,6 +946,9 @@ msgstr "Азербайджанская"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&Назад"
 msgid "_Back"
 msgstr "_Назад"
 
+msgid "Backend"
+msgstr "Рухавік"
+
 msgid "Background"
 msgstr "Фон"
+
+msgid "&Background"
+msgstr "&Фон"
 
 msgid "Background Color"
 msgstr "Колер тла"
@@ -951,6 +978,9 @@ msgstr "Колер фону"
 
 msgid "&Background color"
 msgstr "&Колер фону"
+
+msgid "Background image"
+msgstr "Фонавая выява"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "Збалансаваны"
 
 msgid "Baltic"
 msgstr "Балтыйскае"
+
+msgid "Bandwidth"
+msgstr "Паласа прапускання"
 
 msgid "Bangladesh"
 msgstr "Бангладэш"
@@ -999,6 +1032,9 @@ msgstr "Бас"
 
 msgid "Battery"
 msgstr "Батарэя"
+
+msgid "BCC"
+msgstr ""
 
 msgid "Bcc"
 msgstr ""
@@ -1156,23 +1192,8 @@ msgstr "Галіна"
 msgid "Brazil"
 msgstr "Бразілія"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze ад KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Breeze Dark"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze Dark ад KDE VDG"
-
 msgid "Breton"
 msgstr "Брэтонская"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "Мост"
@@ -1309,18 +1330,6 @@ msgstr "&Скасаваць"
 msgid "Canceled"
 msgstr "Скасавана"
 
-msgid "Cancelled"
-msgstr "Скасавана"
-
-msgid "cannot load editor plugin: %s"
-msgstr "немагчыма загрузіць убудову рэдактара: %s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "немагчыма загрузіць фабрыку %s з убудовы: %s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Палатно"
 
@@ -1339,14 +1348,14 @@ msgstr ""
 msgid "Caps Lock is on"
 msgstr "Caps Lock уключаны"
 
+msgid "Caption"
+msgstr "Подпіс"
+
 msgid "Capture"
 msgstr "Захоп"
 
 msgid "Car"
 msgstr ""
-
-msgid "Carsten Pfeiffer"
-msgstr "Карстэн Пфіффер"
 
 msgid "Cascade"
 msgstr "Каскад"
@@ -1435,6 +1444,9 @@ msgstr "Змяніць..."
 msgid "Changed"
 msgstr "Зменены"
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "Канал"
 
@@ -1452,6 +1464,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Сімвал"
+
+msgid "Character set"
+msgstr "Набор сімвалаў"
 
 msgid "Characters"
 msgstr ""
@@ -1684,6 +1699,9 @@ msgstr "Схема колераў"
 msgid "Color Space"
 msgstr "Колеравая прастора"
 
+msgid "Color space"
+msgstr "Колеравая прастора"
+
 msgid "Color theme"
 msgstr "Колеравая тэма"
 
@@ -1705,14 +1723,8 @@ msgstr "Слупкі"
 msgid "Comma"
 msgstr "Коска"
 
-msgid "COMMAND"
-msgstr "КАМАНДА"
-
 msgid "Command"
 msgstr "Каманда"
-
-msgid "command"
-msgstr "каманда"
 
 msgid "Command Line"
 msgstr "Камандны радок"
@@ -1726,6 +1738,9 @@ msgstr "Каманды"
 msgid "Comment"
 msgstr "Каментар"
 
+msgid "comment"
+msgstr "каментарый"
+
 msgid "Comments"
 msgstr "Каментары"
 
@@ -1735,11 +1750,17 @@ msgstr ""
 msgid "Common"
 msgstr "Асноўныя"
 
+msgid "Common Name"
+msgstr "Агульнае імя"
+
 msgid "Comoros"
 msgstr "Каморскія астравы"
 
 msgid "Compact"
 msgstr "Сціслы выгляд"
+
+msgid "Company"
+msgstr ""
 
 msgid "Compare"
 msgstr "Параўнаць"
@@ -1777,6 +1798,9 @@ msgstr "Камп'ютар"
 msgid "Condition"
 msgstr "Умова"
 
+msgid "Conditions"
+msgstr "Умовы"
+
 msgid "Confidential"
 msgstr "Канфідэнцыйна"
 
@@ -1807,6 +1831,9 @@ msgstr "Наладжванне сеціўных скаротаў..."
 msgid "Confirm"
 msgstr "Пацвердзіць"
 
+msgid "Confirm Password"
+msgstr "Пацвердзіце пароль"
+
 msgid "Confirmation"
 msgstr "Пацвярджэнне"
 
@@ -1818,6 +1845,9 @@ msgstr "Пацведжаныя"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Канфліктуе са стандартным спалучэннем клавіш праграмы"
+
+msgid "Conflicts"
+msgstr ""
 
 msgid "Connect"
 msgstr "Падлучыцца"
@@ -1843,6 +1873,9 @@ msgstr "Не ўдалося падлучыцца"
 msgid "Connection Settings"
 msgstr ""
 
+msgid "Connection type"
+msgstr "Тып злучэння"
+
 msgid "Connections"
 msgstr "Злучэнні"
 
@@ -1851,10 +1884,6 @@ msgstr "Кансоль"
 
 msgid "Constant"
 msgstr "Канстанта"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
-"немагчыма задаць уласцівасць пабудовы «%s» для аб'екта «%s» пасля пабудовы"
 
 msgid "Contact"
 msgstr "Кантактныя звесткі"
@@ -1868,13 +1897,13 @@ msgstr "Кантэйнер"
 msgid "Contains"
 msgstr "Змяшчае"
 
-msgid "contains"
-msgstr "змяшчае"
-
 msgid "Content"
 msgstr "Змесціва"
 
 msgid "Content Type"
+msgstr "Тып змесціва"
+
+msgid "Content type"
 msgstr "Тып змесціва"
 
 msgid "Contents"
@@ -1898,11 +1927,17 @@ msgstr "Кантраснасць"
 msgid "Contributor"
 msgstr "Дапамога"
 
+msgid "Contributors"
+msgstr "Удзельнікі"
+
 msgid "Control"
 msgstr "Ctrl"
 
 msgid "Convert"
 msgstr "Пераўтварыць"
+
+msgid "Convert to"
+msgstr "Пераўтварыць у"
 
 msgid "Convert to Path"
 msgstr ""
@@ -1921,9 +1956,6 @@ msgstr "Копцкае пісьмо"
 
 msgid "Copy"
 msgstr "Капіяваць"
-
-msgid "copy"
-msgstr "копія"
 
 msgid "&Copy"
 msgstr "&Скапіяваць"
@@ -1976,6 +2008,9 @@ msgstr "Капіраванне файлаў"
 msgid "Copyright"
 msgstr "Аўтарскія правы"
 
+msgid "Correct"
+msgstr ""
+
 msgid "Cost"
 msgstr ""
 
@@ -1999,6 +2034,9 @@ msgstr "Краіна"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "Выкарыстанне працэсара"
 
 msgid "Create"
 msgstr "Стварыць"
@@ -2027,6 +2065,9 @@ msgstr "Стваральнік"
 msgid "Credentials"
 msgstr "Уліковыя даныя"
 
+msgid "Credit"
+msgstr "Інфармацыя"
+
 msgid "Credits"
 msgstr "Падзякі"
 
@@ -2053,15 +2094,6 @@ msgstr "Крыжык"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
-msgstr ""
 
 msgid "Cuba"
 msgstr "Куба"
@@ -2090,8 +2122,14 @@ msgstr "Крывыя"
 msgid "Custom"
 msgstr "Адвольны"
 
+msgid "&Custom"
+msgstr "&Карыстальніцкі"
+
 msgid "Custom..."
 msgstr "Іншае..."
+
+msgid "Custom color"
+msgstr "Карыстальніцкі колер"
 
 msgid "Custom Font"
 msgstr "Уласны шрыфт"
@@ -2165,6 +2203,9 @@ msgstr "Даныя"
 msgid "Database"
 msgstr "База даных"
 
+msgid "Database name"
+msgstr ""
+
 msgid "Date"
 msgstr "Дата"
 
@@ -2180,14 +2221,20 @@ msgstr "Дата і час"
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr "Фармат даты"
+
 msgid "Date Modified"
 msgstr "Дата змены"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr ""
 
 msgid "Day"
 msgstr "Дзень"
+
+msgid "day"
+msgstr "дзень"
 
 msgid "Days"
 msgstr "Дні"
@@ -2236,6 +2283,9 @@ msgstr "Прадвызначана"
 
 msgid "default"
 msgstr "прадвызначана"
+
+msgid "Default value"
+msgstr "Прадвызначанае значэнне"
 
 msgid "Defaults"
 msgstr "Прадвызначана"
@@ -2312,6 +2362,9 @@ msgstr "Шчыльнасць"
 msgid "Deny"
 msgstr "Забараніць"
 
+msgid "Department"
+msgstr ""
+
 msgid "Dependencies"
 msgstr "Залежнасці"
 
@@ -2344,6 +2397,12 @@ msgstr "Працоўны стол"
 
 msgid "Destination"
 msgstr "Месца прызначэння"
+
+msgid "Destination Folder"
+msgstr ""
+
+msgid "Destination folder"
+msgstr "Каталог прызначэння"
 
 msgid "Detach"
 msgstr "Адлучаць"
@@ -2516,6 +2575,9 @@ msgstr "Растварэнне"
 msgid "Distance"
 msgstr "Адлегласць"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "Дзяленне"
 
@@ -2570,11 +2632,11 @@ msgstr "Дакументы"
 msgid "does not contain"
 msgstr "не змяшчае"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Дамен"
+
+msgid "_Domain"
+msgstr "_Дамен"
 
 msgid "Dominica"
 msgstr "Дамініка"
@@ -2678,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Дынамічная"
+
 msgid "E"
 msgstr "У"
 
@@ -2729,6 +2794,9 @@ msgstr "Змяніць відарыс"
 msgid "Editing"
 msgstr "Рэдагаванне"
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "Рэдактар"
 
@@ -2744,9 +2812,6 @@ msgstr "Егіпет"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Выняць"
 
@@ -2756,16 +2821,28 @@ msgstr "_Выняць"
 msgid "El Salvador"
 msgstr "Сальвадор"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr ""
 
 msgid "Element"
 msgstr ""
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "Эліпс"
 
+msgid "EMail"
+msgstr "Электронная пошта"
+
 msgid "Email"
+msgstr "Электронная пошта"
+
+msgid "E-Mail"
 msgstr "Электронная пошта"
 
 msgid "E-mail"
@@ -2847,6 +2924,9 @@ msgstr "end"
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr ""
+
 msgid "End Time"
 msgstr ""
 
@@ -2868,8 +2948,14 @@ msgstr "Англійская"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr ""
+
 msgid "Enter password"
 msgstr "Увядзіце пароль"
+
+msgid "Entries"
+msgstr "Элементы"
 
 msgid "Entry"
 msgstr "Запіс"
@@ -2943,6 +3029,9 @@ msgstr "Падзея"
 msgid "Events"
 msgstr "Падзеі"
 
+msgid "Every"
+msgstr ""
+
 msgid "Everyone"
 msgstr "Усе"
 
@@ -2960,6 +3049,9 @@ msgstr "Прыклады"
 
 msgid "Exception"
 msgstr ""
+
+msgid "Exceptions"
+msgstr "Выключэнні"
 
 msgid "Exclude"
 msgstr "Выключыць"
@@ -2994,11 +3086,17 @@ msgstr "Разгарнуць усё"
 msgid "Experimental"
 msgstr "Эксперыментальнае"
 
+msgid "Expiration"
+msgstr "Тэрмін дзеяння"
+
 msgid "Expired"
 msgstr "Састарэла"
 
 msgid "Expires"
 msgstr "Тэрмін дзеяння"
+
+msgid "Expires On"
+msgstr "Сканчэнне тэрміну дзеяння"
 
 msgid "Export"
 msgstr "Экспартаваць"
@@ -3033,6 +3131,9 @@ msgstr "Выбары экспартаваньня"
 msgid "Exposure"
 msgstr "Экспазіцыя"
 
+msgid "Exposure Time"
+msgstr "Час экспазіцыі"
+
 msgid "Expression"
 msgstr ""
 
@@ -3053,6 +3154,9 @@ msgstr "Распакаваць"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Структура"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3111,6 +3215,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr ""
+
+msgid "Fields"
+msgstr "Палі"
+
 msgid "Fiji"
 msgstr "Фіджы"
 
@@ -3143,6 +3253,9 @@ msgstr "Файл існуе"
 
 msgid "File Format"
 msgstr "Фармат файла"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3203,6 +3316,9 @@ msgstr "Колер залівання"
 
 msgid "Filter"
 msgstr "Фільтр"
+
+msgid "&Filter"
+msgstr "&Фільтр"
 
 msgid "Filter..."
 msgstr "Фільтр..."
@@ -3267,6 +3383,9 @@ msgstr "Фінская"
 msgid "First"
 msgstr "Першы"
 
+msgid "First Name"
+msgstr "Імя"
+
 msgid "First Page"
 msgstr "Да першай старонкі"
 
@@ -3327,6 +3446,9 @@ msgstr "кветка"
 msgid "Focal Length"
 msgstr "Фокусная адлегласць"
 
+msgid "Focal length"
+msgstr "Фокусная адлегласць"
+
 msgid "Focus"
 msgstr "Фокус"
 
@@ -3348,6 +3470,9 @@ msgstr "Шрыфт"
 msgid "&Font"
 msgstr "&Шрыфт"
 
+msgid "_Font"
+msgstr "_Шрыфт"
+
 msgid "Font Color"
 msgstr ""
 
@@ -3359,6 +3484,12 @@ msgstr "Памер шрыфта"
 
 msgid "Font size"
 msgstr "Памер шрыфту"
+
+msgid "Font Style"
+msgstr "Стыль шрыфту"
+
+msgid "Font style"
+msgstr "Стыль шрыфту"
 
 msgid "Fonts"
 msgstr "Шрыфты"
@@ -3396,6 +3527,12 @@ msgstr "Фармаваць"
 msgid "Format"
 msgstr "Фармат"
 
+msgid "&Format"
+msgstr "&Фармат"
+
+msgid "_Format"
+msgstr "_Фарматаваць"
+
 msgid "Formatting"
 msgstr "Фарматаванне"
 
@@ -3422,6 +3559,12 @@ msgstr "Дроб"
 
 msgid "Frame"
 msgstr "Фрэйм"
+
+msgid "Frame Rate"
+msgstr "Частата кадраў"
+
+msgid "Frame rate"
+msgstr "Частата кадраў"
 
 msgid "Framerate"
 msgstr "Частата кадраў"
@@ -3467,6 +3610,9 @@ msgstr "Поўны"
 
 msgid "Full Name"
 msgstr "Поўнае імя"
+
+msgid "Full name"
+msgstr "Поўная назва"
 
 msgid "Full Screen"
 msgstr "На ўвесь экран"
@@ -3533,6 +3679,9 @@ msgstr "Брама"
 
 msgid "Gateway"
 msgstr "Шлюз"
+
+msgid "_Gateway"
+msgstr "Сеткавая _брама"
 
 msgid "Gaussian Blur"
 msgstr "Размыццё Гаўса"
@@ -3654,6 +3803,9 @@ msgstr "Перайсці да папярэдняй старонкі"
 msgid "Goa"
 msgstr "Гоа"
 
+msgid "Goal"
+msgstr "Мэта"
+
 msgid "Gold"
 msgstr ""
 
@@ -3708,6 +3860,9 @@ msgstr "Шэры"
 msgid "Grid"
 msgstr "Сетка"
 
+msgid "&Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Група"
 
@@ -3753,6 +3908,9 @@ msgstr "Жорсткая"
 msgid "Hardware"
 msgstr "Абсталяванне"
 
+msgid "Hash"
+msgstr "Хэш"
+
 msgid "Hawaiian"
 msgstr "Гавайская"
 
@@ -3794,6 +3952,9 @@ msgstr "Вышыня"
 
 msgid "&Height"
 msgstr "&Вышыня"
+
+msgid "_Height"
+msgstr "В_ышыня"
 
 msgid "Help"
 msgstr "Даведка"
@@ -3839,6 +4000,9 @@ msgstr "Высокі"
 
 msgid "Highlight"
 msgstr "Маркіраваць"
+
+msgid "Highlight color"
+msgstr "Колер падсвятлення"
 
 msgid "Highlighter"
 msgstr "Падсвятленне"
@@ -3891,8 +4055,17 @@ msgstr "Ганконг"
 msgid "Horizontal"
 msgstr "Гарызантальная"
 
+msgid "_Horizontal"
+msgstr "_Гарызантальная"
+
+msgid "Horizontally"
+msgstr "Гарызантальна"
+
 msgid "Host"
 msgstr "Хост"
+
+msgid "Host Name"
+msgstr "Назва хоста"
 
 msgid "Hostname"
 msgstr "Імя хоста"
@@ -3972,6 +4145,9 @@ msgstr ""
 msgid "id"
 msgstr "ідэнтыфікатар"
 
+msgid "Identification"
+msgstr "Пасведчанне"
+
 msgid "Identifier"
 msgstr "Ідэнтыфікатар"
 
@@ -4025,6 +4201,12 @@ msgstr "Налады выявы"
 
 msgid "Image Size"
 msgstr "Памер відарыса"
+
+msgid "Image size"
+msgstr "Памер відарыса"
+
+msgid "Image type"
+msgstr "Тып відарыса"
 
 msgid "Image Viewer"
 msgstr "Праглядальнік відарысаў"
@@ -4101,6 +4283,9 @@ msgstr "Павялічыць водступ"
 msgid "Increase Volume"
 msgstr "Гучней"
 
+msgid "Increment"
+msgstr ""
+
 msgid "Incremental"
 msgstr "Інкрэментны"
 
@@ -4112,6 +4297,9 @@ msgstr "Індэкс"
 
 msgid "Indexed"
 msgstr "Індэксаванае"
+
+msgid "Indexing"
+msgstr ""
 
 msgid "India"
 msgstr "Індыя"
@@ -4175,6 +4363,9 @@ msgstr "Усталяванне"
 
 msgid "Instant"
 msgstr "Імгненна"
+
+msgid "Instructions"
+msgstr "Інструкцыі"
 
 msgid "Integer"
 msgstr "Цэлы лік"
@@ -4263,11 +4454,17 @@ msgstr "Ірландская"
 msgid "is"
 msgstr "is"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "Ізраіль"
 
 msgid "Issued By"
 msgstr "Выдавец"
+
+msgid "Issued On"
+msgstr "Выдадзена"
 
 msgid "Issuer"
 msgstr "Выдавец"
@@ -4365,9 +4562,6 @@ msgstr "К"
 msgid "Kannada"
 msgstr "Канада"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Казахская"
 
@@ -4376,18 +4570,6 @@ msgstr "Казахстан"
 
 msgid "kB"
 msgstr "КБ"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr ""
 
 msgid "Keep"
 msgstr "Пакінуць"
@@ -4452,26 +4634,11 @@ msgstr "Кірыбаці"
 msgid "km"
 msgstr "км"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Карэйскае"
 
-msgid "KOrganizer"
-msgstr "K Арганізатар"
-
 msgid "Kuwait"
 msgstr "Кувейт"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4490,6 +4657,9 @@ msgstr "Альбомная"
 
 msgid "Language"
 msgstr "Мова"
+
+msgid "&Language"
+msgstr "&Мова"
 
 msgid "_Language"
 msgstr "_Мова"
@@ -4511,6 +4681,12 @@ msgstr "Апошняя"
 
 msgid "Last Modified"
 msgstr "Апошняе змяненне"
+
+msgid "Last modified"
+msgstr "Апошнія змены"
+
+msgid "Last Name"
+msgstr "Прозвішча"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4623,8 +4799,20 @@ msgstr "Рыса мяжы"
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr "Колькасць радкоў"
+
 msgid "Line Numbers"
 msgstr ""
+
+msgid "Line spacing"
+msgstr "Міжрадковы інтэрвал"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "Стыль лініі"
 
 msgid "Line Width"
 msgstr ""
@@ -4643,6 +4831,9 @@ msgstr "Спасылка"
 
 msgid "link"
 msgstr "спасылка"
+
+msgid "Link Text"
+msgstr "Тэкст спасылкі"
 
 msgid "Link URL"
 msgstr "URL-спасылка"
@@ -4742,6 +4933,9 @@ msgstr "Лагін"
 
 msgid "_Login"
 msgstr "_Уваход"
+
+msgid "Logo"
+msgstr "Лагатып"
 
 msgid "Logout"
 msgstr "Выйсці"
@@ -4938,6 +5132,9 @@ msgstr "Разгарнуць"
 msgid "Maximum"
 msgstr "Максімум"
 
+msgid "Maximum width"
+msgstr "Максімальная шырыня"
+
 msgid "May"
 msgstr "Тра"
 
@@ -4992,6 +5189,9 @@ msgstr "Паведамленне"
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr "&Паведамленне"
+
 msgid "Messages"
 msgstr ""
 
@@ -5003,6 +5203,9 @@ msgstr "Метаданыя"
 
 msgid "Metal"
 msgstr "Метал"
+
+msgid "Metering Mode"
+msgstr "Рэжым вымярэння"
 
 msgid "meters"
 msgstr "метры над узроўнем мора"
@@ -5042,6 +5245,9 @@ msgstr "Мілісекунд"
 
 msgid "milliseconds"
 msgstr "мілісекунды"
+
+msgid "MIME type"
+msgstr ""
 
 msgid "Min"
 msgstr "Мін"
@@ -5088,8 +5294,14 @@ msgstr "мм"
 msgid "Mobile"
 msgstr "Мабіл"
 
+msgid "Mobile Phone"
+msgstr "Мабільны тэлефон"
+
 msgid "Mode"
 msgstr "Рэжым"
+
+msgid "_Mode"
+msgstr "_Рэжым"
 
 msgid "Model"
 msgstr "Мадэль"
@@ -5186,6 +5398,9 @@ msgstr "Марока"
 
 msgid "Mount"
 msgstr "Прымантаваць"
+
+msgid "Mount Point"
+msgstr "Пункт мантавання"
 
 msgid "Mount point"
 msgstr "Пункт мантавання"
@@ -5325,6 +5540,9 @@ msgstr "_Назва"
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr "Назвы"
+
 msgid "Namespace"
 msgstr ""
 
@@ -5354,6 +5572,9 @@ msgstr "Непальская"
 
 msgid "Netherlands"
 msgstr "Нідэрланды"
+
+msgid "Netmask"
+msgstr "Сеткавая маска"
 
 msgid "Network"
 msgstr "Сетка"
@@ -5565,6 +5786,9 @@ msgstr "Без тэмы"
 msgid "No VPN configuration options."
 msgstr "Няма параметраў канфігурацыі VPN."
 
+msgid "Node"
+msgstr ""
+
 msgid "Noise"
 msgstr ""
 
@@ -5691,6 +5915,9 @@ msgstr "лік"
 msgid "Number of columns"
 msgstr "Колькасць слупкоў"
 
+msgid "Number of rows"
+msgstr "Колькасць радкоў"
+
 msgid "Numbers"
 msgstr "Лікі"
 
@@ -5747,9 +5974,6 @@ msgstr "&Добра"
 
 msgid "_OK"
 msgstr "_Добра"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Аман"
@@ -5901,6 +6125,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr "Аперацыйная сістэма"
+
 msgid "Operation"
 msgstr "Аперацыя"
 
@@ -5912,6 +6139,9 @@ msgstr "Аперацыі"
 
 msgid "Operator"
 msgstr "Аператар"
+
+msgid "Operators"
+msgstr "Аператары"
 
 msgid "Optical Character Recognition"
 msgstr "Знакі для аўтаматычнага распазнавання"
@@ -5970,6 +6200,9 @@ msgstr "Зыходны памер"
 msgid "Oriya"
 msgstr "Орыя"
 
+msgid "OS"
+msgstr "АС"
+
 msgid "Other"
 msgstr "Іншае"
 
@@ -5984,6 +6217,9 @@ msgstr "Іншая праграма..."
 
 msgid "Other Options"
 msgstr "Іншыя параметры"
+
+msgid "Other options"
+msgstr ""
 
 msgid "Others"
 msgstr "Іншае"
@@ -6126,6 +6362,9 @@ msgstr "Бацькоўскі"
 msgid "Partition"
 msgstr "Раздзел"
 
+msgid "Passphrase"
+msgstr "Парольная фраза"
+
 msgid "Password"
 msgstr "Пароль"
 
@@ -6164,6 +6403,9 @@ msgstr "Шляхі"
 
 msgid "Pattern"
 msgstr "Узор"
+
+msgid "_Pattern"
+msgstr "_Узор"
 
 msgid "Patterns"
 msgstr "Узоры"
@@ -6249,8 +6491,14 @@ msgstr "Філіпіны"
 msgid "Phone"
 msgstr "Тэлефон"
 
+msgid "Phone Numbers"
+msgstr "Тэлефонныя нумары"
+
 msgid "Photo"
 msgstr "Фатаграфія"
+
+msgid "Photos"
+msgstr "Фатаграфіі"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6272,6 +6520,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr ""
+
+msgid "PIN"
+msgstr "PIN-код"
 
 msgid "Pin"
 msgstr "Замацаваць"
@@ -6300,9 +6551,6 @@ msgstr "Звычайны тэкст"
 msgid "Plan"
 msgstr "План"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Платформа"
 
@@ -6321,7 +6569,13 @@ msgstr "Прайграванне"
 msgid "Player"
 msgstr "Гулец"
 
+msgid "Player 1"
+msgstr ""
+
 msgid "Player %1"
+msgstr ""
+
+msgid "Player 2"
 msgstr ""
 
 msgid "Players"
@@ -6402,6 +6656,9 @@ msgstr "Порт"
 msgid "&Port"
 msgstr "&Порт"
 
+msgid "_Port"
+msgstr "_Порт"
+
 msgid "Portrait"
 msgstr "Кніжная"
 
@@ -6413,6 +6670,9 @@ msgstr "Партугальская"
 
 msgid "Position"
 msgstr "Пазіцыя"
+
+msgid "Postal code"
+msgstr "Паштовы індэкс"
 
 msgid "Posterize"
 msgstr "Пастэрызацыя"
@@ -6455,6 +6715,9 @@ msgstr "Папярэдні прагляд"
 
 msgid "&Preview"
 msgstr "&Папярэдні прагляд"
+
+msgid "_Preview"
+msgstr "_Агляд"
 
 msgid "Previews"
 msgstr "Папярэдні прагляд"
@@ -6537,6 +6800,9 @@ msgstr "Прыватнасць"
 msgid "Private"
 msgstr "Прыватны (Private)"
 
+msgid "Private Key"
+msgstr "Прыватны ключ"
+
 msgid "Process"
 msgstr "Працэс"
 
@@ -6564,6 +6830,9 @@ msgstr "Профілі"
 msgid "Program"
 msgstr "Праграма"
 
+msgid "Programs"
+msgstr "Праграмы"
+
 msgid "Progress"
 msgstr "Працэс"
 
@@ -6572,6 +6841,9 @@ msgstr "Праект"
 
 msgid "&Project"
 msgstr "&Праект"
+
+msgid "Project name"
+msgstr ""
 
 msgid "Projects"
 msgstr "Праекты"
@@ -6645,6 +6917,9 @@ msgstr "пікс."
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Д"
+
 msgid "Qatar"
 msgstr "Катар"
 
@@ -6698,6 +6973,9 @@ msgstr "Выходзіць з праграмы"
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr ""
+
 msgid "R"
 msgstr "R"
 
@@ -6728,6 +7006,9 @@ msgstr "Частата"
 msgid "Rating"
 msgstr "Рэйтынг"
 
+msgid "Ratio"
+msgstr ""
+
 msgid "Raw"
 msgstr "Не апрацавана"
 
@@ -6755,11 +7036,17 @@ msgstr "Гатова"
 msgid "Ready."
 msgstr "Гатова."
 
+msgid "Realm"
+msgstr "Сфера"
+
 msgid "Reason"
 msgstr "Прычына"
 
 msgid "Reassign"
 msgstr "Прызначыць нанова"
+
+msgid "Received"
+msgstr "Атрымана"
 
 msgid "Recent"
 msgstr "Нядаўнія"
@@ -6781,6 +7068,9 @@ msgstr ""
 
 msgid "Rectangle"
 msgstr "Прамавугольнік"
+
+msgid "Recurrence"
+msgstr ""
 
 msgid "Recursive"
 msgstr "Рэкурсыўна"
@@ -6911,6 +7201,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Выдаленне"
+
 msgid "Rename"
 msgstr "Змяніць назву"
 
@@ -6931,6 +7224,9 @@ msgstr "Змяніць назву закладкі"
 
 msgid "Rename File"
 msgstr "Перайменаваць файл"
+
+msgid "Rendering intent"
+msgstr "Значэнне рэндэрынгу"
 
 msgid "Repeat"
 msgstr "Паўтор"
@@ -6953,11 +7249,20 @@ msgstr "Замяніць _усе"
 msgid "Replace an existing instance"
 msgstr "Замяніць наяўны асобнік"
 
+msgid "Replace With"
+msgstr "Замяніць на"
+
+msgid "Replace with"
+msgstr "Замяніць на"
+
 msgid "Replacement"
 msgstr ""
 
 msgid "Reply"
 msgstr "Адказаць"
+
+msgid "Reply-To"
+msgstr ""
 
 msgid "Report"
 msgstr ""
@@ -6975,6 +7280,9 @@ msgid "&Report Bug..."
 msgstr "&Паведаміць пра хібу…"
 
 msgid "Reports"
+msgstr ""
+
+msgid "Repository"
 msgstr ""
 
 msgid "Required"
@@ -7088,6 +7396,9 @@ msgstr "Справа ўлева"
 msgid "Right-click"
 msgstr "Пстрыканне правай кнопкай мышы"
 
+msgid "Rights"
+msgstr "Правы доступу"
+
 msgid "River"
 msgstr "Рака"
 
@@ -7142,6 +7453,9 @@ msgstr "радкоў"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr "Правілы"
 
@@ -7150,6 +7464,9 @@ msgstr "Запусціць"
 
 msgid "&Run"
 msgstr "&Выканаць"
+
+msgid "Run command"
+msgstr ""
 
 msgid "Run in terminal"
 msgstr "Запуск у тэрмінале"
@@ -7286,6 +7603,9 @@ msgstr "Захаваць відарыс"
 msgid "_Save Image As..."
 msgstr "_Захаваць відарыс як…"
 
+msgid "Save Location"
+msgstr "Месца захавання"
+
 msgid "Save Project"
 msgstr ""
 
@@ -7294,6 +7614,9 @@ msgstr "Захаваць сеанс"
 
 msgid "Save Settings"
 msgstr "Захаваць налады"
+
+msgid "Save to"
+msgstr ""
 
 msgid "Saved"
 msgstr "Захавана"
@@ -7325,11 +7648,17 @@ msgstr "Сканаваць"
 msgid "Scanner"
 msgstr "Сканер"
 
+msgid "Scanning"
+msgstr "Даследаванне"
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
 msgstr "Расклад"
+
+msgid "Scheduler"
+msgstr ""
 
 msgid "Scheduling"
 msgstr "Расклад"
@@ -7406,11 +7735,17 @@ msgstr "Пошук..."
 msgid "Search Bar"
 msgstr "Панель пошуку"
 
+msgid "Search for"
+msgstr "Шукаць"
+
 msgid "_Search for"
 msgstr "_Шукаць"
 
 msgid "Search for '%1' with"
 msgstr "Пошук \"%1\" з дапамогай"
+
+msgid "Search in"
+msgstr "Шукаць у"
 
 msgid "Search Options"
 msgstr "Параметры пошуку"
@@ -7514,6 +7849,9 @@ msgstr "Вылучэнне"
 msgid "Selections"
 msgstr "Выбранае"
 
+msgid "Self"
+msgstr "Уласнае"
+
 msgid "Semicolon"
 msgstr "Кропка з коскай"
 
@@ -7553,6 +7891,9 @@ msgstr "Сербія"
 msgid "Serbian"
 msgstr "Сербская"
 
+msgid "Serial"
+msgstr "Серыйны нумар"
+
 msgid "Serial Number"
 msgstr "Серыйны нумар"
 
@@ -7568,8 +7909,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "Сервер"
 
+msgid "&Server"
+msgstr ""
+
 msgid "Server URL"
 msgstr "URL-адрас сервера"
+
+msgid "Servers"
+msgstr "Серверы"
 
 msgid "Service"
 msgstr ""
@@ -7582,6 +7929,9 @@ msgstr "Сеанс"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Назва сеанса"
 
 msgid "Sessions"
 msgstr ""
@@ -7612,6 +7962,12 @@ msgstr "Узровень складанасці"
 
 msgid "Seychelles"
 msgstr "Сейшэльскія астравы"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7651,6 +8007,12 @@ msgstr ""
 
 msgid "Shear"
 msgstr "Нахіл"
+
+msgid "Sheet"
+msgstr "Табліца"
+
+msgid "Sheets"
+msgstr "Аркушаў"
 
 msgid "Shell"
 msgstr "Абалонка"
@@ -7772,6 +8134,9 @@ msgstr "Адзін"
 msgid "Sinhala"
 msgstr "Сінгальская"
 
+msgid "Site"
+msgstr "Сайт"
+
 msgid "Size"
 msgstr "Памер"
 
@@ -7780,6 +8145,9 @@ msgstr "памер"
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "_Памер"
 
 msgid "Size: %1"
 msgstr "Памер: %1"
@@ -7807,6 +8175,9 @@ msgstr "Паўзунок"
 
 msgid "Slideshow"
 msgstr "Слайд-шоу"
+
+msgid "Slope"
+msgstr ""
 
 msgid "Slovak"
 msgstr "Славацкая"
@@ -7862,6 +8233,12 @@ msgstr "Суцэльны колер"
 msgid "Solomon Islands"
 msgstr "Саламонавы астравы"
 
+msgid "Solution"
+msgstr "Рашэнне"
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "Самалі"
 
@@ -7879,6 +8256,9 @@ msgstr "Сартаванне"
 
 msgid "Sound"
 msgstr "Гук"
+
+msgid "Sounds"
+msgstr "Гукі"
 
 msgid "Soundtrack"
 msgstr "Мелодыя"
@@ -7947,6 +8327,9 @@ msgid "Spell Check"
 msgstr "Праверка правапісу"
 
 msgid "Spell Checking"
+msgstr "Праверка правапісу"
+
+msgid "Spellcheck"
 msgstr "Праверка правапісу"
 
 msgid "Spelling"
@@ -8188,6 +8571,9 @@ msgstr "Сунданская"
 msgid "Sunday"
 msgstr "Нядзеля"
 
+msgid "Sunrise"
+msgstr "Узыход сонца"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8244,6 +8630,9 @@ msgstr ""
 
 msgid "Synchronize"
 msgstr "Сінхранізаваць"
+
+msgid "Syntax"
+msgstr ""
 
 msgid "Syriac"
 msgstr "Сірыйскае пісьмо"
@@ -8307,6 +8696,9 @@ msgstr "Танзанія"
 
 msgid "Target"
 msgstr "Мэта"
+
+msgid "Targets"
+msgstr ""
 
 msgid "Task"
 msgstr "Задача"
@@ -8421,6 +8813,9 @@ msgstr "Распрацоўшчыкі NetworkManager"
 msgid "Theme"
 msgstr "Тэма"
 
+msgid "&Theme"
+msgstr ""
+
 msgid "Themes"
 msgstr "Тэмы"
 
@@ -8441,6 +8836,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr ""
+
+msgid "Threads"
+msgstr "Патокі"
 
 msgid "Threshold"
 msgstr "Парог"
@@ -8468,6 +8866,9 @@ msgstr "Плітка"
 
 msgid "Tiled"
 msgstr "Закафляваны"
+
+msgid "Tiles"
+msgstr ""
 
 msgid "Tilt"
 msgstr "Нахіл"
@@ -8517,6 +8918,9 @@ msgstr "&Назва"
 msgid "_Title"
 msgstr "_Назва"
 
+msgid "Titles"
+msgstr "Назвы"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8540,6 +8944,9 @@ msgstr "Спіс задач"
 
 msgid "Todo"
 msgstr "Да выканання"
+
+msgid "To-do"
+msgstr ""
 
 msgid "Toggle Fullscreen"
 msgstr "Пераключыць поўнаэкранны рэжым"
@@ -8571,6 +8978,9 @@ msgstr "Інструмент"
 msgid "Tool Options"
 msgstr "Параметры інструмента"
 
+msgid "Toolbar"
+msgstr "Панэль інструментаў"
+
 msgid "_Toolbar"
 msgstr "Панэль _інструментаў"
 
@@ -8591,6 +9001,9 @@ msgstr "Н&ачынне"
 
 msgid "_Tools"
 msgstr "_Інструменты"
+
+msgid "Tooltip"
+msgstr "Падказка"
 
 msgid "Top"
 msgstr "Зверху"
@@ -8742,11 +9155,17 @@ msgstr "тып"
 msgid "&Type"
 msgstr "&Тып"
 
+msgid "_Type"
+msgstr "_Тып"
+
 msgid "Type: %1"
 msgstr "Тып: %1"
 
 msgid "Uganda"
 msgstr "Уганда"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Украіна"
@@ -8979,6 +9398,9 @@ msgstr "Выкарыстана"
 msgid "User"
 msgstr "Карыстальнік"
 
+msgid "User Agent"
+msgstr "Новы агент"
+
 msgid "User Certificate"
 msgstr "Сертыфікат карыстальніка"
 
@@ -9003,11 +9425,17 @@ msgstr "Пароль карыстальніка"
 msgid "Username"
 msgstr "Імя карыстальніка"
 
+msgid "&Username"
+msgstr "&Імя карыстальніка"
+
 msgid "_Username"
 msgstr "І_мя карыстальніка"
 
 msgid "Users"
 msgstr "Карыстальнікі"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Утыліты"
@@ -9028,6 +9456,9 @@ msgid "Valid"
 msgstr "Сапраўдны"
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9064,6 +9495,9 @@ msgstr "Пераменныя"
 msgid "Variance"
 msgstr ""
 
+msgid "Variant"
+msgstr "Варыянт"
+
 msgid "Vector"
 msgstr ""
 
@@ -9090,6 +9524,9 @@ msgstr "Версія %1"
 
 msgid "Vertical"
 msgstr "Вертыкальны"
+
+msgid "_Vertical"
+msgstr "_Вертыкальная"
 
 msgid "Very Large"
 msgstr "Вялізны"
@@ -9123,6 +9560,9 @@ msgstr "&Выгляд"
 
 msgid "_View"
 msgstr "_Выгляд"
+
+msgid "View mode"
+msgstr "Рэжым выгляду"
 
 msgid "View Options"
 msgstr "Параметры выгляду"
@@ -9283,6 +9723,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "Вікіпедыя"
 
+msgid "Wind"
+msgstr "Вецер"
+
 msgid "Window"
 msgstr "Акно"
 
@@ -9325,11 +9768,17 @@ msgstr "Слова"
 msgid "Word Count"
 msgstr "Колькасць слоў"
 
+msgid "Word wrap"
+msgstr "Перанос слоў"
+
 msgid "Words"
 msgstr "Словы"
 
 msgid "Work"
 msgstr "Праца"
+
+msgid "Workspace"
+msgstr "Працоўная прастора"
 
 msgid "World"
 msgstr ""
@@ -9369,6 +9818,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Год"
+
+msgid "&Year"
+msgstr ""
 
 msgid "Yearly"
 msgstr ""
@@ -9431,6 +9883,9 @@ msgstr "&Маштабаванне"
 
 msgid "_Zoom"
 msgstr "_Маштаб"
+
+msgid "Zoom factor"
+msgstr ""
 
 msgid "Zoom In"
 msgstr "Павялічыць"

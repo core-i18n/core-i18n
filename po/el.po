@@ -82,9 +82,6 @@ msgstr " και "
 msgid " (default)"
 msgstr " (προκαθορισμένο)"
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "Ένα αρχείο με όνομα \"%1\" υπάρχει ήδη. Σίγουρα θέλετε να αντικατασταθεί;"
 
@@ -355,17 +355,20 @@ msgstr "_Περί"
 msgid "About %1"
 msgstr "Σχετικά με το %1"
 
-msgid "About KDE"
-msgstr "Σχετικά με το KDE"
-
 msgid "Abstract"
 msgstr "Περίληψη"
+
+msgid "Acceleration"
+msgstr "Επιτάχυνση"
 
 msgid "Accept"
 msgstr "Αποδοχή"
 
 msgid "Accepted"
 msgstr "Αποδεκτό"
+
+msgid "Access"
+msgstr "Πρόσβαση"
 
 msgid "Accessed"
 msgstr "Προσπελάστηκε"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr "Πληροφορίες λογαριασμού"
 
 msgid "Account Name"
+msgstr "Όνομα λογαριασμού"
+
+msgid "Account name"
 msgstr "Όνομα λογαριασμού"
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "Αλφαβητικά"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Εναλλακτικό"
+
 msgid "Alternative"
 msgstr "Εναλλακτική"
 
@@ -712,8 +721,14 @@ msgstr "Σημειώσεις"
 msgid "Anonymous"
 msgstr "Ανώνυμος"
 
+msgid "Answer"
+msgstr "Απάντηση"
+
 msgid "Antarctica"
 msgstr "Ανταρκτική"
+
+msgid "Antialiasing"
+msgstr "Εξομάλυνση"
 
 msgid "Any"
 msgstr "Οποιαδήποτε"
@@ -883,6 +898,9 @@ msgstr "Απαιτείται ταυτοποίηση"
 msgid "Author"
 msgstr "Συγγραφέας"
 
+msgid "Author name"
+msgstr "Όνομα συγγραφέα"
+
 msgid "Authors"
 msgstr "Συγγραφείς"
 
@@ -928,6 +946,9 @@ msgstr "Αζερικά"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&Πίσω"
 msgid "_Back"
 msgstr "_Πίσω"
 
+msgid "Backend"
+msgstr "Σύστημα υποστήριξης"
+
 msgid "Background"
 msgstr "Φόντο"
+
+msgid "&Background"
+msgstr "&Φόντο"
 
 msgid "Background Color"
 msgstr "Χρώμα φόντου"
@@ -951,6 +978,9 @@ msgstr "Χρώμα παρασκηνίου"
 
 msgid "&Background color"
 msgstr "Χρώμα &φόντου"
+
+msgid "Background image"
+msgstr "Εικόνα παρασκηνίου"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "Ισορροπημένο"
 
 msgid "Baltic"
 msgstr "Βαλτικά"
+
+msgid "Bandwidth"
+msgstr "Εύρος ζώνης"
 
 msgid "Bangladesh"
 msgstr "Μπανγκλαντές"
@@ -999,6 +1032,9 @@ msgstr "Bass"
 
 msgid "Battery"
 msgstr "Μπαταρία"
+
+msgid "BCC"
+msgstr "Κρυφή κοιν."
 
 msgid "Bcc"
 msgstr "Κρυφ.Κοιν"
@@ -1156,23 +1192,8 @@ msgstr "Κλάδος"
 msgid "Brazil"
 msgstr "Βραζιλία"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze από το KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Breeze σκούρο"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze σκοτεινό από το KDE VDG"
-
 msgid "Breton"
 msgstr "Βρετονικά"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Γέφυρα"
@@ -1309,18 +1330,6 @@ msgstr "&Ακύρωση"
 msgid "Canceled"
 msgstr "Ακυρώθηκε"
 
-msgid "Cancelled"
-msgstr "Ακυρώθηκε"
-
-msgid "cannot load editor plugin: %s"
-msgstr "αδυναμία φόρτωσης πρόσθετου επεξεργαστή: %s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "αδυναμία φόρτωσης εργοστασίου %s από το πρόσθετο: %s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Καμβάς"
 
@@ -1339,14 +1348,14 @@ msgstr "Μετατροπή σε κεφαλαία"
 msgid "Caps Lock is on"
 msgstr "Είναι πατημένο το Caps Lock"
 
+msgid "Caption"
+msgstr "Τίτλος"
+
 msgid "Capture"
 msgstr "Σύλληψη"
 
 msgid "Car"
 msgstr "Αυτοκίνητο"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascade"
@@ -1435,6 +1444,9 @@ msgstr "Αλλαγή..."
 msgid "Changed"
 msgstr "Άλλαξε"
 
+msgid "Changes"
+msgstr "Αλλαγές"
+
 msgid "Channel"
 msgstr "Κανάλι"
 
@@ -1452,6 +1464,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Χαρακτήρας"
+
+msgid "Character set"
+msgstr "Κωδικοποίηση χαρακτήρων"
 
 msgid "Characters"
 msgstr "Χαρακτήρες"
@@ -1684,6 +1699,9 @@ msgstr "Σχήμα χρωμάτων"
 msgid "Color Space"
 msgstr "Χρωματικός χώρος"
 
+msgid "Color space"
+msgstr "Χρωματικός χώρος"
+
 msgid "Color theme"
 msgstr "Θέμα χρώματος"
 
@@ -1705,14 +1723,8 @@ msgstr "Στήλες"
 msgid "Comma"
 msgstr "Κόμμα"
 
-msgid "COMMAND"
-msgstr "ΕΝΤΟΛΗ"
-
 msgid "Command"
 msgstr "Εντολή"
-
-msgid "command"
-msgstr "εντολή"
 
 msgid "Command Line"
 msgstr "Γραμμή εντολών"
@@ -1726,6 +1738,9 @@ msgstr "Εντολές"
 msgid "Comment"
 msgstr "Σχόλιο"
 
+msgid "comment"
+msgstr "σχόλιο"
+
 msgid "Comments"
 msgstr "Σχόλια"
 
@@ -1735,11 +1750,17 @@ msgstr "Υποβολή"
 msgid "Common"
 msgstr "Κοινά"
 
+msgid "Common Name"
+msgstr "Κοινό όνομα"
+
 msgid "Comoros"
 msgstr "Κομόρες"
 
 msgid "Compact"
 msgstr "Σύμπτυξη"
+
+msgid "Company"
+msgstr "Εταιρεία"
 
 msgid "Compare"
 msgstr "Σύγκριση"
@@ -1777,6 +1798,9 @@ msgstr "Υπολογιστής"
 msgid "Condition"
 msgstr "Συνθήκη"
 
+msgid "Conditions"
+msgstr "Συνθήκες"
+
 msgid "Confidential"
 msgstr "Εμπιστευτικό"
 
@@ -1807,6 +1831,9 @@ msgstr "Διαμόρφωση συντομεύσεων ιστού..."
 msgid "Confirm"
 msgstr "Επιβεβαίωση"
 
+msgid "Confirm Password"
+msgstr "Επιβεβαίωση κωδικού"
+
 msgid "Confirmation"
 msgstr "Επιβεβαίωση"
 
@@ -1818,6 +1845,9 @@ msgstr "Επιβεβαιωμένο"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Σύγκρουση με πρότυπη συντόμευση εφαρμογής"
+
+msgid "Conflicts"
+msgstr "Συγκρούεται"
 
 msgid "Connect"
 msgstr "Σύνδεση"
@@ -1843,6 +1873,9 @@ msgstr "Αποτυχία σύνδεσης"
 msgid "Connection Settings"
 msgstr "Ρυθμίσεις σύνδεσης"
 
+msgid "Connection type"
+msgstr "Τύπος σύνδεσης"
+
 msgid "Connections"
 msgstr "Συνδέσεις"
 
@@ -1851,11 +1884,6 @@ msgstr "Κονσόλα"
 
 msgid "Constant"
 msgstr "Σταθερά"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
-"η ιδιότητα κατασκευής \"%s\" για το αντικείμενο '%s' δεν μπορεί να οριστεί "
-"μετά την κατασκευή"
 
 msgid "Contact"
 msgstr "Επαφή"
@@ -1869,13 +1897,13 @@ msgstr "Δοχείο"
 msgid "Contains"
 msgstr "Περιέχει"
 
-msgid "contains"
-msgstr "περιέχει"
-
 msgid "Content"
 msgstr "Περιεχόμενο"
 
 msgid "Content Type"
+msgstr "Τύπος περιεχομένου"
+
+msgid "Content type"
 msgstr "Τύπος περιεχομένου"
 
 msgid "Contents"
@@ -1899,11 +1927,17 @@ msgstr "Αντίθεση"
 msgid "Contributor"
 msgstr "Συντελεστής"
 
+msgid "Contributors"
+msgstr "Συντελεστές"
+
 msgid "Control"
 msgstr "Control"
 
 msgid "Convert"
 msgstr "Μετατροπή"
+
+msgid "Convert to"
+msgstr "Μετατροπή σε"
 
 msgid "Convert to Path"
 msgstr "Μετατροπή σε διαδρομή"
@@ -1922,9 +1956,6 @@ msgstr "Κοπτικά"
 
 msgid "Copy"
 msgstr "Αντιγραφή"
-
-msgid "copy"
-msgstr "αντιγραφή"
 
 msgid "&Copy"
 msgstr "&Αντιγραφή"
@@ -1977,6 +2008,9 @@ msgstr "Αντιγραφή αρχείων"
 msgid "Copyright"
 msgstr "Πνευματικά δικαιώματα"
 
+msgid "Correct"
+msgstr "Σωστές"
+
 msgid "Cost"
 msgstr "Κόστος"
 
@@ -2000,6 +2034,9 @@ msgstr "Χώρα"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "Χρήση CPU"
 
 msgid "Create"
 msgstr "Δημιουργία"
@@ -2028,6 +2065,9 @@ msgstr "Δημιουργός"
 msgid "Credentials"
 msgstr "Διαπιστευτήρια"
 
+msgid "Credit"
+msgstr "Μνεία"
+
 msgid "Credits"
 msgstr "Εύσημα"
 
@@ -2054,15 +2094,6 @@ msgstr "Σταυρός"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr "Ctrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ctrl+O"
 
 msgid "Cuba"
 msgstr "Κούβα"
@@ -2091,8 +2122,14 @@ msgstr "Καμπύλες"
 msgid "Custom"
 msgstr "Προσαρμοσμένο"
 
+msgid "&Custom"
+msgstr "&Προσαρμοσμένο"
+
 msgid "Custom..."
 msgstr "Προσαρμογή..."
+
+msgid "Custom color"
+msgstr "Προσαρμοσμένο χρώμα"
 
 msgid "Custom Font"
 msgstr "Προσαρμοσμένη γραμματοσειρά"
@@ -2166,6 +2203,9 @@ msgstr "Δεδομένα"
 msgid "Database"
 msgstr "Βάση δεδομένων"
 
+msgid "Database name"
+msgstr "Όνομα βάσης δεδομένων"
+
 msgid "Date"
 msgstr "Ημερομηνία"
 
@@ -2181,14 +2221,20 @@ msgstr "Ημερομηνία και ώρα"
 msgid "Date Format"
 msgstr "Μορφή ημερομηνίας"
 
+msgid "Date format"
+msgstr "Μορφή ημερομηνίας"
+
 msgid "Date Modified"
 msgstr "Ημερομηνία τροποποίησης"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "Ημερομηνία/Ώρα"
 
 msgid "Day"
 msgstr "Ημέρα"
+
+msgid "day"
+msgstr "ημέρα"
 
 msgid "Days"
 msgstr "Ημέρες"
@@ -2237,6 +2283,9 @@ msgstr "Προκαθορισμένο"
 
 msgid "default"
 msgstr "προκαθορισμένο"
+
+msgid "Default value"
+msgstr "Προεπιλεγμένη τιμή"
 
 msgid "Defaults"
 msgstr "Προεπιλεγμένα"
@@ -2313,6 +2362,9 @@ msgstr "Πυκνότητα"
 msgid "Deny"
 msgstr "Άρνηση"
 
+msgid "Department"
+msgstr "Τμήμα"
+
 msgid "Dependencies"
 msgstr "Εξαρτήσεις"
 
@@ -2345,6 +2397,12 @@ msgstr "Επιφάνεια εργασίας"
 
 msgid "Destination"
 msgstr "Προορισμός"
+
+msgid "Destination Folder"
+msgstr "Φάκελος προορισμού"
+
+msgid "Destination folder"
+msgstr "Φάκελος προορισμού"
 
 msgid "Detach"
 msgstr "Αποδέσμευση"
@@ -2517,6 +2575,9 @@ msgstr "Διάλυση"
 msgid "Distance"
 msgstr "Απόσταση"
 
+msgid "Distribution"
+msgstr "Κατανομή"
+
 msgid "Divide"
 msgstr "Διαίρεση"
 
@@ -2571,11 +2632,11 @@ msgstr "Έγγραφα"
 msgid "does not contain"
 msgstr "δεν περιέχει"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Τομέας"
+
+msgid "_Domain"
+msgstr "_Τομέας"
 
 msgid "Dominica"
 msgstr "Ντομίνικα"
@@ -2679,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Δυναμικό"
+
 msgid "E"
 msgstr "Α"
 
@@ -2730,6 +2794,9 @@ msgstr "Επεξεργασία εικόνας"
 msgid "Editing"
 msgstr "Επεξεργασία"
 
+msgid "Edition"
+msgstr "Έκδοση"
+
 msgid "Editor"
 msgstr "Επεξεργαστής"
 
@@ -2745,9 +2812,6 @@ msgstr "Αίγυπτος"
 msgid "Egyptian"
 msgstr "Αιγύπτιο"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Εξαγωγή"
 
@@ -2757,16 +2821,28 @@ msgstr "Ε_ξαγωγή"
 msgid "El Salvador"
 msgstr "Ελ Σαλβαδόρ"
 
+msgid "Elapsed Time"
+msgstr "Παρελθοντικός χρόνος"
+
 msgid "Electronic"
 msgstr "Ηλεκτρονικό"
 
 msgid "Element"
 msgstr "Στοιχείο"
 
+msgid "Elements"
+msgstr "Στοιχεία"
+
 msgid "Ellipse"
 msgstr "Έλλειψη"
 
+msgid "EMail"
+msgstr "Ηλ. αλληλογραφία"
+
 msgid "Email"
+msgstr "Email"
+
+msgid "E-Mail"
 msgstr "Email"
 
 msgid "E-mail"
@@ -2849,6 +2925,9 @@ msgstr "τέλος"
 msgid "End Date"
 msgstr "Ημερομηνία λήξης"
 
+msgid "End date"
+msgstr "Ημερομηνία τέλους"
+
 msgid "End Time"
 msgstr "Χρόνος πέρατος"
 
@@ -2870,8 +2949,14 @@ msgstr "Αγγλικά"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "Εισάγετε όνομα"
+
 msgid "Enter password"
 msgstr "Εισαγωγή κωδικού"
+
+msgid "Entries"
+msgstr "Καταχωρίσεις"
 
 msgid "Entry"
 msgstr "Καταχώρηση"
@@ -2945,6 +3030,9 @@ msgstr "Γεγονός"
 msgid "Events"
 msgstr "Γεγονότα"
 
+msgid "Every"
+msgstr "Κάθε"
+
 msgid "Everyone"
 msgstr "Όλοι"
 
@@ -2962,6 +3050,9 @@ msgstr "Παραδείγματα"
 
 msgid "Exception"
 msgstr "Εξαίρεση"
+
+msgid "Exceptions"
+msgstr "Εξαιρέσεις"
 
 msgid "Exclude"
 msgstr "Εξαίρεση"
@@ -2996,11 +3087,17 @@ msgstr "Ανάπτυξη όλων"
 msgid "Experimental"
 msgstr "Πειραματικό"
 
+msgid "Expiration"
+msgstr "Λήξη"
+
 msgid "Expired"
 msgstr "Έληξε"
 
 msgid "Expires"
 msgstr "Λήγει"
+
+msgid "Expires On"
+msgstr "Λήγει στις"
 
 msgid "Export"
 msgstr "Εξαγωγή"
@@ -3035,6 +3132,9 @@ msgstr "Επιλογές εξαγωγής"
 msgid "Exposure"
 msgstr "Έκθεση"
 
+msgid "Exposure Time"
+msgstr "Χρόνος έκθεσης"
+
 msgid "Expression"
 msgstr "Έκφραση"
 
@@ -3055,6 +3155,9 @@ msgstr "Εξαγωγή"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Fabric"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3113,6 +3216,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Ανάκτηση"
 
+msgid "Field"
+msgstr "Πεδίο"
+
+msgid "Fields"
+msgstr "Πεδία"
+
 msgid "Fiji"
 msgstr "Φίτζι"
 
@@ -3145,6 +3254,9 @@ msgstr "Το αρχείο υπάρχει"
 
 msgid "File Format"
 msgstr "Μορφή αρχείου"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr ""
@@ -3205,6 +3317,9 @@ msgstr "Χρώμα γεμίσματος"
 
 msgid "Filter"
 msgstr "Φίλτρο"
+
+msgid "&Filter"
+msgstr "&Φίλτρο"
 
 msgid "Filter..."
 msgstr "Φίλτρο..."
@@ -3269,6 +3384,9 @@ msgstr "Φινλανδικά"
 msgid "First"
 msgstr "Πρώτο"
 
+msgid "First Name"
+msgstr "Όνομα"
+
 msgid "First Page"
 msgstr "Πρώτη σελίδα"
 
@@ -3329,6 +3447,9 @@ msgstr "λουλούδι"
 msgid "Focal Length"
 msgstr "Εστιακή απόσταση"
 
+msgid "Focal length"
+msgstr "Εστιακή απόσταση"
+
 msgid "Focus"
 msgstr "Εστίαση"
 
@@ -3350,6 +3471,9 @@ msgstr "Γραμματοσειρά"
 msgid "&Font"
 msgstr "&Γραμματοσειρά"
 
+msgid "_Font"
+msgstr "_Γραμματοσειρά"
+
 msgid "Font Color"
 msgstr "Χρώμα γραμματοσειράς"
 
@@ -3361,6 +3485,12 @@ msgstr "Μέγεθος γραμματοσειράς"
 
 msgid "Font size"
 msgstr "Μέγεθος γραμματοσειράς"
+
+msgid "Font Style"
+msgstr "Στυλ γραμματοσειράς"
+
+msgid "Font style"
+msgstr "Στιλ γραμματοσειράς"
 
 msgid "Fonts"
 msgstr "Γραμματοσειρές"
@@ -3398,6 +3528,12 @@ msgstr "Φόρμα"
 msgid "Format"
 msgstr "Μορφή"
 
+msgid "&Format"
+msgstr "&Τύπος"
+
+msgid "_Format"
+msgstr "_Μορφή"
+
 msgid "Formatting"
 msgstr "Μορφοποίηση"
 
@@ -3424,6 +3560,12 @@ msgstr "Κλάσμα"
 
 msgid "Frame"
 msgstr "Πλαίσιο"
+
+msgid "Frame Rate"
+msgstr "Ρυθμός καρέ"
+
+msgid "Frame rate"
+msgstr "Ρυθμός καρέ"
 
 msgid "Framerate"
 msgstr "Ρυθμός καρέ"
@@ -3468,6 +3610,9 @@ msgid "Full"
 msgstr "Πλήρης"
 
 msgid "Full Name"
+msgstr "Πλήρες όνομα"
+
+msgid "Full name"
 msgstr "Πλήρες όνομα"
 
 msgid "Full Screen"
@@ -3535,6 +3680,9 @@ msgstr "Πύλη"
 
 msgid "Gateway"
 msgstr "Δικτυακή πύλη"
+
+msgid "_Gateway"
+msgstr "_Πύλη"
 
 msgid "Gaussian Blur"
 msgstr "Gaussian Θάμπωμα"
@@ -3656,6 +3804,9 @@ msgstr "Μετάβαση στην προηγούμενη σελίδα"
 msgid "Goa"
 msgstr "Γκόα"
 
+msgid "Goal"
+msgstr "Στόχος"
+
 msgid "Gold"
 msgstr "Χρυσός"
 
@@ -3710,6 +3861,9 @@ msgstr "Γκρι"
 msgid "Grid"
 msgstr "Πλέγμα"
 
+msgid "&Grid"
+msgstr "&Κάνναβος"
+
 msgid "Group"
 msgstr "Ομάδα"
 
@@ -3755,6 +3909,9 @@ msgstr "Δύσκολο"
 msgid "Hardware"
 msgstr "Υλικό"
 
+msgid "Hash"
+msgstr "Τιμή κατατεμαχισμού"
+
 msgid "Hawaiian"
 msgstr "Xαβαϊκά"
 
@@ -3796,6 +3953,9 @@ msgstr "Ύψος"
 
 msgid "&Height"
 msgstr "Ύ&ψος"
+
+msgid "_Height"
+msgstr "Ύ_ψος"
 
 msgid "Help"
 msgstr "Βοήθεια"
@@ -3841,6 +4001,9 @@ msgstr "Υψηλή"
 
 msgid "Highlight"
 msgstr "Τονισμός"
+
+msgid "Highlight color"
+msgstr "Χρώμα τονισμού"
 
 msgid "Highlighter"
 msgstr "Τονισμός"
@@ -3893,8 +4056,17 @@ msgstr "Χονγκ Κονγκ"
 msgid "Horizontal"
 msgstr "Οριζόντια"
 
+msgid "_Horizontal"
+msgstr "_Οριζόντια"
+
+msgid "Horizontally"
+msgstr "Οριζόντια"
+
 msgid "Host"
 msgstr "Υπολογιστής"
+
+msgid "Host Name"
+msgstr "Όνομα υπολογιστή"
 
 msgid "Hostname"
 msgstr "Όνομα κεντρικού υπολογιστή"
@@ -3974,6 +4146,9 @@ msgstr "Id"
 msgid "id"
 msgstr "id"
 
+msgid "Identification"
+msgstr "Ταυτοποίηση"
+
 msgid "Identifier"
 msgstr "Αναγνωριστικό"
 
@@ -4027,6 +4202,12 @@ msgstr "Ρυθμίσεις εικόνας"
 
 msgid "Image Size"
 msgstr "Μέγεθος εικόνας"
+
+msgid "Image size"
+msgstr "Μέγεθος εικόνας"
+
+msgid "Image type"
+msgstr "Τύπος εικόνας"
 
 msgid "Image Viewer"
 msgstr "Προβολέας εικόνων"
@@ -4103,6 +4284,9 @@ msgstr "Αύξηση εσοχής"
 msgid "Increase Volume"
 msgstr "Αύξηση έντασης"
 
+msgid "Increment"
+msgstr "Αύξηση"
+
 msgid "Incremental"
 msgstr "Βηματική αύξηση"
 
@@ -4114,6 +4298,9 @@ msgstr "Ευρετήριο"
 
 msgid "Indexed"
 msgstr "Από ευρετήριο"
+
+msgid "Indexing"
+msgstr "Ευρετήριο"
 
 msgid "India"
 msgstr "Ινδία"
@@ -4177,6 +4364,9 @@ msgstr "Εγκατάσταση"
 
 msgid "Instant"
 msgstr "Άμεση"
+
+msgid "Instructions"
+msgstr "Οδηγίες"
 
 msgid "Integer"
 msgstr "Ακέραιος"
@@ -4265,11 +4455,17 @@ msgstr "Ιρλανδικά"
 msgid "is"
 msgstr "είναι"
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "Ισραήλ"
 
 msgid "Issued By"
 msgstr "Εκδόθηκε από"
+
+msgid "Issued On"
+msgstr "Εκδόθηκε στις"
 
 msgid "Issuer"
 msgstr "Εκδότης"
@@ -4367,9 +4563,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Κανάντα"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Καζακικά"
 
@@ -4378,18 +4571,6 @@ msgstr "Καζακστάν"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Διατήρηση"
@@ -4454,26 +4635,11 @@ msgstr "Κιριμπάτι"
 msgid "km"
 msgstr "χλμ"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Κορεάτικα"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Κουβέιτ"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4492,6 +4658,9 @@ msgstr "Τοπίο"
 
 msgid "Language"
 msgstr "Γλώσσα"
+
+msgid "&Language"
+msgstr "&Γλώσσα"
 
 msgid "_Language"
 msgstr "_Γλώσσα"
@@ -4513,6 +4682,12 @@ msgstr "Τελευταία"
 
 msgid "Last Modified"
 msgstr "Τελευταία τροποποίηση"
+
+msgid "Last modified"
+msgstr "Τελευταία τροποποίηση"
+
+msgid "Last Name"
+msgstr "Επώνυμο"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4625,8 +4800,20 @@ msgstr "Αλλαγή γραμμής"
 msgid "Line Color"
 msgstr "Χρώμα γραμμής"
 
+msgid "Line Count"
+msgstr "Καταμέτρηση γραμμών"
+
 msgid "Line Numbers"
 msgstr "Αρίθμηση γραμμών"
+
+msgid "Line spacing"
+msgstr "Διάκενο"
+
+msgid "Line Style"
+msgstr "Στιλ γραμμής"
+
+msgid "Line style"
+msgstr "Τεχνοτροπία γραμμής"
 
 msgid "Line Width"
 msgstr "Πλάτος γραμμής"
@@ -4645,6 +4832,9 @@ msgstr "Σύνδεσμος"
 
 msgid "link"
 msgstr "σύνδεσμος"
+
+msgid "Link Text"
+msgstr "Κείμενο συνδέσμου"
 
 msgid "Link URL"
 msgstr "URL συνδέσμου"
@@ -4745,6 +4935,9 @@ msgstr "Σύνδεση"
 
 msgid "_Login"
 msgstr "_Σύνδεση"
+
+msgid "Logo"
+msgstr "Λογότυπο"
 
 msgid "Logout"
 msgstr "Αποσύνδεση"
@@ -4941,6 +5134,9 @@ msgstr "Μεγιστοποίηση"
 msgid "Maximum"
 msgstr "Μέγιστο"
 
+msgid "Maximum width"
+msgstr "Μέγιστο πλάτος"
+
 msgid "May"
 msgstr "Μάιος"
 
@@ -4995,6 +5191,9 @@ msgstr "Μήνυμα"
 msgid "message"
 msgstr "μήνυμα"
 
+msgid "&Message"
+msgstr "&Μήνυμα"
+
 msgid "Messages"
 msgstr "Μηνύματα"
 
@@ -5006,6 +5205,9 @@ msgstr "Μεταδεδομένα"
 
 msgid "Metal"
 msgstr "Metal"
+
+msgid "Metering Mode"
+msgstr "Λειτουργία μέτρησης"
 
 msgid "meters"
 msgstr "μέτρα"
@@ -5045,6 +5247,9 @@ msgstr "Χιλιοστά δευτερολέπτου"
 
 msgid "milliseconds"
 msgstr "χιλιοστά δευτερολέπτου"
+
+msgid "MIME type"
+msgstr "Τύπος MIME"
 
 msgid "Min"
 msgstr "Ελάχιστο"
@@ -5091,8 +5296,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Κινητό"
 
+msgid "Mobile Phone"
+msgstr "Κινητό τηλέφωνο"
+
 msgid "Mode"
 msgstr "Λειτουργία"
+
+msgid "_Mode"
+msgstr "_Κατάσταση"
 
 msgid "Model"
 msgstr "Μοντέλο"
@@ -5189,6 +5400,9 @@ msgstr "Μαρόκο"
 
 msgid "Mount"
 msgstr "Προσάρτηση"
+
+msgid "Mount Point"
+msgstr "Σημείο προσάρτησης"
 
 msgid "Mount point"
 msgstr "Σημείο προσάρτησης"
@@ -5328,6 +5542,9 @@ msgstr "Ό_νομα"
 msgid "Name: %1"
 msgstr "Όνομα: %1"
 
+msgid "Names"
+msgstr "Ονόματα"
+
 msgid "Namespace"
 msgstr "Πεδίο ορισμού"
 
@@ -5357,6 +5574,9 @@ msgstr "Νεπάλι"
 
 msgid "Netherlands"
 msgstr "Ολλανδία"
+
+msgid "Netmask"
+msgstr "Μάσκα δικτύου"
 
 msgid "Network"
 msgstr "Δίκτυο"
@@ -5568,6 +5788,9 @@ msgstr "Κανένα θέμα"
 msgid "No VPN configuration options."
 msgstr "Χωρίς επιλογές διαμόρφωσης VPN."
 
+msgid "Node"
+msgstr "Κόμβος"
+
 msgid "Noise"
 msgstr "Θόρυβος"
 
@@ -5694,6 +5917,9 @@ msgstr "αριθμός"
 msgid "Number of columns"
 msgstr "Αριθμός στηλών"
 
+msgid "Number of rows"
+msgstr "Αριθμός γραμμών"
+
 msgid "Numbers"
 msgstr "Αριθμοί"
 
@@ -5750,9 +5976,6 @@ msgstr "&Εντάξει"
 
 msgid "_OK"
 msgstr "_Εντάξει"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Ομάν"
@@ -5904,6 +6127,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr "Λειτουργικό σύστημα"
+
 msgid "Operation"
 msgstr "Λειτουργία"
 
@@ -5915,6 +6141,9 @@ msgstr "Λειτουργίες"
 
 msgid "Operator"
 msgstr "Operator"
+
+msgid "Operators"
+msgstr "Τελεστές"
 
 msgid "Optical Character Recognition"
 msgstr "Οπτική αναγνώριση χαρακτήρων"
@@ -5973,6 +6202,9 @@ msgstr "Αρχικό μέγεθος"
 msgid "Oriya"
 msgstr "Ορίγια"
 
+msgid "OS"
+msgstr "Λειτουργικό σύστημα"
+
 msgid "Other"
 msgstr "Άλλο"
 
@@ -5986,6 +6218,9 @@ msgid "Other Application..."
 msgstr "Άλλη εφαρμογή..."
 
 msgid "Other Options"
+msgstr "Άλλες επιλογές"
+
+msgid "Other options"
 msgstr "Άλλες επιλογές"
 
 msgid "Others"
@@ -6129,6 +6364,9 @@ msgstr "Γονέας"
 msgid "Partition"
 msgstr "Κατάτμηση"
 
+msgid "Passphrase"
+msgstr "Συνθηματικό"
+
 msgid "Password"
 msgstr "Κωδικός πρόσβασης"
 
@@ -6167,6 +6405,9 @@ msgstr "Διαδρομές"
 
 msgid "Pattern"
 msgstr "Μοτίβο"
+
+msgid "_Pattern"
+msgstr "_Μοτίβο"
 
 msgid "Patterns"
 msgstr "Μοτίβα"
@@ -6252,8 +6493,14 @@ msgstr "Φιλιππίνες"
 msgid "Phone"
 msgstr "Τηλέφωνο"
 
+msgid "Phone Numbers"
+msgstr "Αριθμοί τηλεφώνου"
+
 msgid "Photo"
 msgstr "Φωτογραφία"
+
+msgid "Photos"
+msgstr "Φωτογραφίες"
 
 msgid "PHP Documentation"
 msgstr "PHP τεκμηρίωση"
@@ -6275,6 +6522,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "Πίτα"
+
+msgid "PIN"
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "Pin"
@@ -6303,9 +6553,6 @@ msgstr "Απλό κείμενο"
 msgid "Plan"
 msgstr "Plan"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Πλατφόρμα"
 
@@ -6324,8 +6571,14 @@ msgstr "Αναπαραγωγή"
 msgid "Player"
 msgstr "Παίκτης"
 
+msgid "Player 1"
+msgstr "Παίκτης 1"
+
 msgid "Player %1"
 msgstr "Παίκτης %1"
+
+msgid "Player 2"
+msgstr "Παίκτης 2"
 
 msgid "Players"
 msgstr "Παίκτες"
@@ -6405,6 +6658,9 @@ msgstr "Θύρα"
 msgid "&Port"
 msgstr "&Θύρα"
 
+msgid "_Port"
+msgstr "_Θύρα"
+
 msgid "Portrait"
 msgstr "Πορτραίτο"
 
@@ -6416,6 +6672,9 @@ msgstr "Πορτογαλικά"
 
 msgid "Position"
 msgstr "Θέση"
+
+msgid "Postal code"
+msgstr "Ταχυδρομικός κώδικας"
 
 msgid "Posterize"
 msgstr "Δημιουργία αφίσας"
@@ -6458,6 +6717,9 @@ msgstr "Προεπισκόπηση"
 
 msgid "&Preview"
 msgstr "&Προεπισκόπηση"
+
+msgid "_Preview"
+msgstr "_Προεπισκόπηση"
 
 msgid "Previews"
 msgstr "Προεπισκοπήσεις"
@@ -6540,6 +6802,9 @@ msgstr "Ιδιωτικό απόρρητο"
 msgid "Private"
 msgstr "Ιδιωτικό"
 
+msgid "Private Key"
+msgstr "Ιδιωτικό κλειδί"
+
 msgid "Process"
 msgstr "Διεργασία"
 
@@ -6567,6 +6832,9 @@ msgstr "Προφίλ"
 msgid "Program"
 msgstr "Πρόγραμμα"
 
+msgid "Programs"
+msgstr "Προγράμματα"
+
 msgid "Progress"
 msgstr "Πρόοδος"
 
@@ -6575,6 +6843,9 @@ msgstr "Έργο"
 
 msgid "&Project"
 msgstr "Έ&ργο"
+
+msgid "Project name"
+msgstr "Όνομα έργου"
 
 msgid "Projects"
 msgstr "Έργα"
@@ -6648,6 +6919,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "Κατάρ"
 
@@ -6703,6 +6977,9 @@ msgstr "Έξοδος από την εφαρμογή"
 msgid "Quote"
 msgstr "Παράθεση"
 
+msgid "Quotes"
+msgstr "Εισαγωγικά"
+
 msgid "R"
 msgstr "R"
 
@@ -6733,6 +7010,9 @@ msgstr "Ρυθμός"
 msgid "Rating"
 msgstr "Αξιολόγηση"
 
+msgid "Ratio"
+msgstr "Αναλογία"
+
 msgid "Raw"
 msgstr "Ακατέργαστο"
 
@@ -6760,11 +7040,17 @@ msgstr "Έτοιμο"
 msgid "Ready."
 msgstr "Έτοιμο."
 
+msgid "Realm"
+msgstr "Realm"
+
 msgid "Reason"
 msgstr "Αιτία"
 
 msgid "Reassign"
 msgstr "Ανάθεση ξανά"
+
+msgid "Received"
+msgstr "Ελήφθη"
 
 msgid "Recent"
 msgstr "Πρόσφατα"
@@ -6786,6 +7072,9 @@ msgstr "Εγγραφή"
 
 msgid "Rectangle"
 msgstr "Ορθογώνιο"
+
+msgid "Recurrence"
+msgstr "Επανάληψη"
 
 msgid "Recursive"
 msgstr "Αναδρομικά"
@@ -6916,6 +7205,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Αφαίρεση"
+
 msgid "Rename"
 msgstr "Μετονομασία"
 
@@ -6936,6 +7228,9 @@ msgstr "Μετονομασία σελιδοδείκτη"
 
 msgid "Rename File"
 msgstr "Μετονομασία αρχείου"
+
+msgid "Rendering intent"
+msgstr "Στόχος χρωματικής απόδοσης"
 
 msgid "Repeat"
 msgstr "Επανάληψη"
@@ -6958,11 +7253,20 @@ msgstr "Αντικατάσταση ό_λων"
 msgid "Replace an existing instance"
 msgstr "Αντικατάσταση μιας υπάρχουσας διεργασίας"
 
+msgid "Replace With"
+msgstr "Αντικατάσταση με"
+
+msgid "Replace with"
+msgstr "Αντικατάσταση με"
+
 msgid "Replacement"
 msgstr "Αντικατάσταση"
 
 msgid "Reply"
 msgstr "Απάντηση"
+
+msgid "Reply-To"
+msgstr "Απάντηση σε"
 
 msgid "Report"
 msgstr "Αναφορά"
@@ -6981,6 +7285,9 @@ msgstr "&Αναφορά σφάλματος..."
 
 msgid "Reports"
 msgstr "Αναφορές"
+
+msgid "Repository"
+msgstr "Αποθετήριο"
 
 msgid "Required"
 msgstr "Απαιτείται"
@@ -7093,6 +7400,9 @@ msgstr "Δεξιά προς αριστερά"
 msgid "Right-click"
 msgstr "Δεξί κλικ"
 
+msgid "Rights"
+msgstr "Δικαιώματα"
+
 msgid "River"
 msgstr "Ποτάμι"
 
@@ -7147,6 +7457,9 @@ msgstr "γραμμές"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "Κανόνας"
+
 msgid "Rules"
 msgstr "Κανόνες"
 
@@ -7155,6 +7468,9 @@ msgstr "Εκτέλεση"
 
 msgid "&Run"
 msgstr "&Εκτέλεση"
+
+msgid "Run command"
+msgstr "Εκτέλεση εντολής"
 
 msgid "Run in terminal"
 msgstr "Εκτέλεση σε τερματικό"
@@ -7291,6 +7607,9 @@ msgstr "Αποθήκευση εικόνας"
 msgid "_Save Image As..."
 msgstr "Απο_θήκευση εικόνας ως…"
 
+msgid "Save Location"
+msgstr "Τοποθεσία αποθήκευσης"
+
 msgid "Save Project"
 msgstr "Αποθήκευση έργου"
 
@@ -7299,6 +7618,9 @@ msgstr "Αποθήκευση συνεδρίας"
 
 msgid "Save Settings"
 msgstr "Αποθήκευση ρυθμίσεων"
+
+msgid "Save to"
+msgstr "Αποθήκευση σε"
 
 msgid "Saved"
 msgstr "Αποθηκεύτηκε"
@@ -7330,11 +7652,17 @@ msgstr "Σάρωση"
 msgid "Scanner"
 msgstr "Σαρωτής"
 
+msgid "Scanning"
+msgstr "Σάρωση"
+
 msgid "Scanning..."
 msgstr "Σάρωση…"
 
 msgid "Schedule"
 msgstr "Προγραμματισμός"
+
+msgid "Scheduler"
+msgstr "Χρονοπρογραμματιστής"
 
 msgid "Scheduling"
 msgstr "Προγραμματισμός"
@@ -7411,11 +7739,17 @@ msgstr "Αναζήτηση..."
 msgid "Search Bar"
 msgstr "Γραμμή αναζήτησης"
 
+msgid "Search for"
+msgstr "Αναζήτηση για"
+
 msgid "_Search for"
 msgstr "_Αναζήτηση για"
 
 msgid "Search for '%1' with"
 msgstr "Αναζήτηση για '%1' με"
+
+msgid "Search in"
+msgstr "Αναζήτηση σε"
 
 msgid "Search Options"
 msgstr "Επιλογές αναζήτησης"
@@ -7519,6 +7853,9 @@ msgstr "Επιλογή"
 msgid "Selections"
 msgstr "Επιλογές"
 
+msgid "Self"
+msgstr "Ίδιο"
+
 msgid "Semicolon"
 msgstr "Άνω τελεία"
 
@@ -7558,6 +7895,9 @@ msgstr "Σερβία"
 msgid "Serbian"
 msgstr "Σερβικά"
 
+msgid "Serial"
+msgstr "Σειριακός"
+
 msgid "Serial Number"
 msgstr "Σειριακός αριθμός"
 
@@ -7573,8 +7913,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "Διακομιστής"
 
+msgid "&Server"
+msgstr "Ε&ξυπηρετητής"
+
 msgid "Server URL"
 msgstr "URL εξυπηρετητή"
+
+msgid "Servers"
+msgstr "Διακομιστές"
 
 msgid "Service"
 msgstr "Υπηρεσία"
@@ -7587,6 +7933,9 @@ msgstr "Συνεδρία"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Όνομα συνεδρίας"
 
 msgid "Sessions"
 msgstr "Συνεδρίες"
@@ -7617,6 +7966,12 @@ msgstr "Σοβαρότητα"
 
 msgid "Seychelles"
 msgstr "Σεϋχέλλες"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7656,6 +8011,12 @@ msgstr "Οξύτητα"
 
 msgid "Shear"
 msgstr "Διάτμηση"
+
+msgid "Sheet"
+msgstr "Φύλλο"
+
+msgid "Sheets"
+msgstr "Φύλλα"
 
 msgid "Shell"
 msgstr "Κέλυφος"
@@ -7777,6 +8138,9 @@ msgstr "Απλή"
 msgid "Sinhala"
 msgstr "Σινχάλα"
 
+msgid "Site"
+msgstr "Ιστότοπος"
+
 msgid "Size"
 msgstr "Μέγεθος"
 
@@ -7785,6 +8149,9 @@ msgstr "μέγεθος"
 
 msgid "&Size"
 msgstr "&Μέγεθος"
+
+msgid "_Size"
+msgstr "_Μέγεθος"
 
 msgid "Size: %1"
 msgstr "Μέγεθος: %1"
@@ -7812,6 +8179,9 @@ msgstr "Ολισθητής"
 
 msgid "Slideshow"
 msgstr "Παρουσίαση διαφανειών"
+
+msgid "Slope"
+msgstr "Κλίση"
 
 msgid "Slovak"
 msgstr "Σλοβακικά"
@@ -7867,6 +8237,12 @@ msgstr "Συμπαγές χρώμα"
 msgid "Solomon Islands"
 msgstr "Νήσοι Σολομώντος"
 
+msgid "Solution"
+msgstr "Λύση"
+
+msgid "Solve"
+msgstr "Επίλυση"
+
 msgid "Somalia"
 msgstr "Σομαλία"
 
@@ -7884,6 +8260,9 @@ msgstr "Ταξινόμηση"
 
 msgid "Sound"
 msgstr "Ήχος"
+
+msgid "Sounds"
+msgstr "Ήχοι"
 
 msgid "Soundtrack"
 msgstr "Soundtrack"
@@ -7952,6 +8331,9 @@ msgid "Spell Check"
 msgstr "Ορθογραφικός έλεγχος"
 
 msgid "Spell Checking"
+msgstr "Ορθογραφικός έλεγχος"
+
+msgid "Spellcheck"
 msgstr "Ορθογραφικός έλεγχος"
 
 msgid "Spelling"
@@ -8193,6 +8575,9 @@ msgstr "Σουνδανέζικα"
 msgid "Sunday"
 msgstr "Κυριακή"
 
+msgid "Sunrise"
+msgstr "Ανατολή"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8249,6 +8634,9 @@ msgstr "Συγχρονισμός"
 
 msgid "Synchronize"
 msgstr "Συγχρονισμός"
+
+msgid "Syntax"
+msgstr "Σύνταξη"
 
 msgid "Syriac"
 msgstr "Συριακά"
@@ -8312,6 +8700,9 @@ msgstr "Τανζανία"
 
 msgid "Target"
 msgstr "Προορισμός"
+
+msgid "Targets"
+msgstr "Προορισμοί"
 
 msgid "Task"
 msgstr "Εργασία"
@@ -8426,6 +8817,9 @@ msgstr "Οι προγραμματιστές του NetworkManager"
 msgid "Theme"
 msgstr "Θέμα"
 
+msgid "&Theme"
+msgstr "&Θέμα"
+
 msgid "Themes"
 msgstr "Θέματα"
 
@@ -8446,6 +8840,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "Νήματα"
 
 msgid "Threshold"
 msgstr "Κατώφλι"
@@ -8473,6 +8870,9 @@ msgstr "Παράθεση"
 
 msgid "Tiled"
 msgstr "Σε παράθεση"
+
+msgid "Tiles"
+msgstr "Κομμάτια"
 
 msgid "Tilt"
 msgstr "Κλίση"
@@ -8522,6 +8922,9 @@ msgstr "&Τίτλος"
 msgid "_Title"
 msgstr "_Τίτλος"
 
+msgid "Titles"
+msgstr "Τίτλοι"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8545,6 +8948,9 @@ msgstr "TODO"
 
 msgid "Todo"
 msgstr "Εργασίες"
+
+msgid "To-do"
+msgstr "Προς υλοποίηση"
 
 msgid "Toggle Fullscreen"
 msgstr "Εναλλαγή πλήρους οθόνης"
@@ -8576,6 +8982,9 @@ msgstr "Εργαλείο"
 msgid "Tool Options"
 msgstr "Επιλογές εργαλείων"
 
+msgid "Toolbar"
+msgstr "Γραμμή εργαλείων"
+
 msgid "_Toolbar"
 msgstr "_Γραμμή εργαλείων"
 
@@ -8596,6 +9005,9 @@ msgstr "Ερ&γαλεία"
 
 msgid "_Tools"
 msgstr "_Εργαλεία"
+
+msgid "Tooltip"
+msgstr "Υπόδειξη"
 
 msgid "Top"
 msgstr "Κορυφή"
@@ -8752,11 +9164,17 @@ msgstr "τύπος"
 msgid "&Type"
 msgstr "&Τύπος"
 
+msgid "_Type"
+msgstr "_Τύπος"
+
 msgid "Type: %1"
 msgstr "Τύπος: %1"
 
 msgid "Uganda"
 msgstr "Ουγκάντα"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ουκρανία"
@@ -8989,6 +9407,9 @@ msgstr "Που χρησιμοποιούνται"
 msgid "User"
 msgstr "Χρήστης"
 
+msgid "User Agent"
+msgstr "Πράκτορας χρήστη"
+
 msgid "User Certificate"
 msgstr "Πιστοποιητικό χρήστη"
 
@@ -9013,11 +9434,17 @@ msgstr "Κωδικός πρόσβασης χρήστη"
 msgid "Username"
 msgstr "Όνομα χρήστη"
 
+msgid "&Username"
+msgstr "Ό&νομα χρήστη"
+
 msgid "_Username"
 msgstr "Ό_νομα χρήστη"
 
 msgid "Users"
 msgstr "Χρήστες"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Εργαλεία"
@@ -9039,6 +9466,9 @@ msgstr "Έγκυρο"
 
 msgid "Valid from"
 msgstr "Έγκυρο από"
+
+msgid "Valid until"
+msgstr "Έγκυρο έως"
 
 msgid "Validity"
 msgstr "Εγκυρότητα"
@@ -9074,6 +9504,9 @@ msgstr "Μεταβλητές"
 msgid "Variance"
 msgstr "Διακύμανση"
 
+msgid "Variant"
+msgstr "Παραλλαγή"
+
 msgid "Vector"
 msgstr "Διάνυσμα"
 
@@ -9100,6 +9533,9 @@ msgstr "Έκδοση %1"
 
 msgid "Vertical"
 msgstr "Κατακόρυφα"
+
+msgid "_Vertical"
+msgstr "_Κάθετα"
 
 msgid "Very Large"
 msgstr "Πολύ μεγάλο"
@@ -9133,6 +9569,9 @@ msgstr "Π&ροβολή"
 
 msgid "_View"
 msgstr "_Προβολή"
+
+msgid "View mode"
+msgstr "Λειτουργία προβολής"
 
 msgid "View Options"
 msgstr "Εμφάνιση επιλογών"
@@ -9293,6 +9732,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
+msgid "Wind"
+msgstr "Άνεμος"
+
 msgid "Window"
 msgstr "Παράθυρο"
 
@@ -9335,11 +9777,17 @@ msgstr "Λέξη"
 msgid "Word Count"
 msgstr "Καταμέτρηση λέξεων"
 
+msgid "Word wrap"
+msgstr "Αναδίπλωση λέξεων"
+
 msgid "Words"
 msgstr "Λέξεις"
 
 msgid "Work"
 msgstr "Εργασία"
+
+msgid "Workspace"
+msgstr "Χώρος εργασίας"
 
 msgid "World"
 msgstr "Κόσμος"
@@ -9379,6 +9827,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Έτος"
+
+msgid "&Year"
+msgstr "Έ&τος"
 
 msgid "Yearly"
 msgstr "Ετήσια"
@@ -9441,6 +9892,9 @@ msgstr "&Εστίαση"
 
 msgid "_Zoom"
 msgstr "_Εστίαση"
+
+msgid "Zoom factor"
+msgstr "Βαθμός μεγέθυνσης"
 
 msgid "Zoom In"
 msgstr "Μεγέθυνση"

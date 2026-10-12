@@ -82,9 +82,6 @@ msgstr " و "
 msgid " (default)"
 msgstr ""
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr " مگابایت"
 
@@ -328,6 +325,9 @@ msgstr "آ"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "پرونده‌ای با نام »%1« در حال حاضر موجود است. مطمئن هستید می‌خواهید آن را "
@@ -357,16 +357,19 @@ msgstr "_درباره"
 msgid "About %1"
 msgstr "درباره %1"
 
-msgid "About KDE"
-msgstr "درباره KDE"
-
 msgid "Abstract"
 msgstr "انتزاعی"
+
+msgid "Acceleration"
+msgstr "شتاب‌دهی"
 
 msgid "Accept"
 msgstr "قبول"
 
 msgid "Accepted"
+msgstr ""
+
+msgid "Access"
 msgstr ""
 
 msgid "Accessed"
@@ -385,6 +388,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr "نام حساب"
+
+msgid "Account name"
 msgstr "نام حساب"
 
 msgid "Accounts"
@@ -639,6 +645,9 @@ msgstr "الفبایی"
 msgid "Alt"
 msgstr "دگرساز"
 
+msgid "Alternate"
+msgstr "تغییر"
+
 msgid "Alternative"
 msgstr "متناوب"
 
@@ -714,8 +723,14 @@ msgstr "حاشیه‌نویسی‌ها"
 msgid "Anonymous"
 msgstr "ناشناس"
 
+msgid "Answer"
+msgstr "پاسخ"
+
 msgid "Antarctica"
 msgstr "آنتارتیکا"
+
+msgid "Antialiasing"
+msgstr "حذف لبه‌های ناصاف"
 
 msgid "Any"
 msgstr "هر"
@@ -885,6 +900,9 @@ msgstr "نیازمند هویت‌سنجی"
 msgid "Author"
 msgstr "نویسنده"
 
+msgid "Author name"
+msgstr ""
+
 msgid "Authors"
 msgstr "نگارندگان"
 
@@ -930,6 +948,9 @@ msgstr ""
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "‪b*‬"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -942,8 +963,14 @@ msgstr "&پس‌سو‌"
 msgid "_Back"
 msgstr "_بازگشت"
 
+msgid "Backend"
+msgstr ""
+
 msgid "Background"
 msgstr "پس‌زمینه"
+
+msgid "&Background"
+msgstr "&زمینه:‌"
 
 msgid "Background Color"
 msgstr "رنگ پس‌زمینه"
@@ -953,6 +980,9 @@ msgstr "رنگ پس‌زمینه"
 
 msgid "&Background color"
 msgstr "رنگ &زمینه:‌"
+
+msgid "Background image"
+msgstr "تصویر پس‌زمینه"
 
 msgid "Backspace"
 msgstr "پس‌بر"
@@ -974,6 +1004,9 @@ msgstr "متعادل"
 
 msgid "Baltic"
 msgstr "بالتیک"
+
+msgid "Bandwidth"
+msgstr "پهنای باند"
 
 msgid "Bangladesh"
 msgstr "بنگلادش"
@@ -1001,6 +1034,9 @@ msgstr "صدای بم"
 
 msgid "Battery"
 msgstr "باتری"
+
+msgid "BCC"
+msgstr ""
 
 msgid "Bcc"
 msgstr ""
@@ -1158,23 +1194,8 @@ msgstr "شاخه"
 msgid "Brazil"
 msgstr "برزیل"
 
-msgid "Breeze"
-msgstr "نسیم"
-
-msgid "Breeze by the KDE VDG"
-msgstr "نسیم از گروه طراحی بصری کی‌دی‌ای"
-
-msgid "Breeze Dark"
-msgstr "نسیم تیره"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "نسیم تیره از گروه طراحی بصری کی‌دی‌ای"
-
 msgid "Breton"
 msgstr "برتونی"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "پل"
@@ -1311,18 +1332,6 @@ msgstr "&لغو‌"
 msgid "Canceled"
 msgstr "رد شد"
 
-msgid "Cancelled"
-msgstr "رد شد"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr ""
 
@@ -1341,14 +1350,14 @@ msgstr "با حروف درشت نوشتن"
 msgid "Caps Lock is on"
 msgstr "قفل تبدیل روشن است"
 
+msgid "Caption"
+msgstr "عنوان"
+
 msgid "Capture"
 msgstr "گرفتن"
 
 msgid "Car"
 msgstr "ماشین"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascade"
@@ -1437,6 +1446,9 @@ msgstr "تغییر..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "کانال"
 
@@ -1454,6 +1466,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "نویسه"
+
+msgid "Character set"
+msgstr "مجموعهٔ نویسه"
 
 msgid "Characters"
 msgstr ""
@@ -1686,6 +1701,9 @@ msgstr "شمای رنگی"
 msgid "Color Space"
 msgstr ""
 
+msgid "Color space"
+msgstr "فضای رنگی"
+
 msgid "Color theme"
 msgstr ""
 
@@ -1707,13 +1725,7 @@ msgstr "ستون‌ها"
 msgid "Comma"
 msgstr "کاما"
 
-msgid "COMMAND"
-msgstr "COMMAND"
-
 msgid "Command"
-msgstr "فرمان"
-
-msgid "command"
 msgstr "فرمان"
 
 msgid "Command Line"
@@ -1728,6 +1740,9 @@ msgstr "فرمان‌ها"
 msgid "Comment"
 msgstr "توضیح"
 
+msgid "comment"
+msgstr "توضیح"
+
 msgid "Comments"
 msgstr "توضیحات"
 
@@ -1737,11 +1752,17 @@ msgstr ""
 msgid "Common"
 msgstr "معمول"
 
+msgid "Common Name"
+msgstr "نام متعارف"
+
 msgid "Comoros"
 msgstr "کوموروز"
 
 msgid "Compact"
 msgstr "فشرده"
+
+msgid "Company"
+msgstr "شرکت"
 
 msgid "Compare"
 msgstr "مقایسه"
@@ -1779,6 +1800,9 @@ msgstr "رایانه"
 msgid "Condition"
 msgstr ""
 
+msgid "Conditions"
+msgstr "شرایط"
+
 msgid "Confidential"
 msgstr "محرمانه"
 
@@ -1809,6 +1833,9 @@ msgstr ""
 msgid "Confirm"
 msgstr ""
 
+msgid "Confirm Password"
+msgstr "تأیید گذرواژه"
+
 msgid "Confirmation"
 msgstr "تایید"
 
@@ -1820,6 +1847,9 @@ msgstr ""
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "ناسازگاری با میان‌بر استاندارد برنامه"
+
+msgid "Conflicts"
+msgstr ""
 
 msgid "Connect"
 msgstr "اتّصال"
@@ -1845,6 +1875,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr "تنظیمات اتصال"
 
+msgid "Connection type"
+msgstr "نوع ارتباط"
+
 msgid "Connections"
 msgstr "دوردست‌ها"
 
@@ -1853,9 +1886,6 @@ msgstr "کنسول"
 
 msgid "Constant"
 msgstr "ثابت"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "تماس"
@@ -1869,14 +1899,14 @@ msgstr "بارگنج"
 msgid "Contains"
 msgstr ""
 
-msgid "contains"
-msgstr "دربر دارد"
-
 msgid "Content"
 msgstr "محتوا"
 
 msgid "Content Type"
 msgstr "نوع محتوا"
+
+msgid "Content type"
+msgstr ""
 
 msgid "Contents"
 msgstr "محتویات"
@@ -1899,11 +1929,17 @@ msgstr "تضاد"
 msgid "Contributor"
 msgstr "شرکت‌کننده"
 
+msgid "Contributors"
+msgstr "مشارکت‌کنندگان"
+
 msgid "Control"
 msgstr "مهار"
 
 msgid "Convert"
 msgstr ""
+
+msgid "Convert to"
+msgstr "تبدیل به"
 
 msgid "Convert to Path"
 msgstr ""
@@ -1922,9 +1958,6 @@ msgstr "قبطی"
 
 msgid "Copy"
 msgstr "رونوشت"
-
-msgid "copy"
-msgstr "نگارش"
 
 msgid "&Copy"
 msgstr "&رونوشت‌"
@@ -1977,6 +2010,9 @@ msgstr "درحال نسخه‌برداری از پرونده‌ها"
 msgid "Copyright"
 msgstr "حق رونوشت"
 
+msgid "Correct"
+msgstr "درست"
+
 msgid "Cost"
 msgstr ""
 
@@ -2000,6 +2036,9 @@ msgstr "کشور"
 
 msgid "CPU"
 msgstr "پردازنده"
+
+msgid "CPU usage"
+msgstr "استفاده ازا پردازنده"
 
 msgid "Create"
 msgstr "ایجاد"
@@ -2028,6 +2067,9 @@ msgstr "ایجادکننده"
 msgid "Credentials"
 msgstr "اعتبارنامه‌ها"
 
+msgid "Credit"
+msgstr "اعتبار"
+
 msgid "Credits"
 msgstr "دست‌اندرکاران"
 
@@ -2053,15 +2095,6 @@ msgid "Cross"
 msgstr "ضربدر"
 
 msgid "CSV"
-msgstr ""
-
-msgid "Ctrl"
-msgstr "مهار"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
 msgstr ""
 
 msgid "Cuba"
@@ -2091,8 +2124,14 @@ msgstr "منحنی‌ها"
 msgid "Custom"
 msgstr "سفارشی"
 
+msgid "&Custom"
+msgstr "&سفارشی:‌"
+
 msgid "Custom..."
 msgstr "سفارشی..."
+
+msgid "Custom color"
+msgstr "رنگ سفارشی"
 
 msgid "Custom Font"
 msgstr "قلم سفارشی"
@@ -2166,6 +2205,9 @@ msgstr "داده"
 msgid "Database"
 msgstr "پایگاه داده"
 
+msgid "Database name"
+msgstr ""
+
 msgid "Date"
 msgstr "تاریخ"
 
@@ -2181,14 +2223,20 @@ msgstr "تاریخ و زمان"
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr ""
+
 msgid "Date Modified"
 msgstr ""
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr ""
 
 msgid "Day"
 msgstr "روز"
+
+msgid "day"
+msgstr ""
 
 msgid "Days"
 msgstr "روز"
@@ -2237,6 +2285,9 @@ msgstr "پیش‌فرض"
 
 msgid "default"
 msgstr "پیش‌فرض"
+
+msgid "Default value"
+msgstr "مقدار پیش‌گزیده"
 
 msgid "Defaults"
 msgstr "پیش‌فرض‌ها"
@@ -2313,6 +2364,9 @@ msgstr "چگالی"
 msgid "Deny"
 msgstr "رد"
 
+msgid "Department"
+msgstr ""
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2345,6 +2399,12 @@ msgstr "رومیزی"
 
 msgid "Destination"
 msgstr "مقصد"
+
+msgid "Destination Folder"
+msgstr ""
+
+msgid "Destination folder"
+msgstr ""
 
 msgid "Detach"
 msgstr "جدا کردن"
@@ -2517,6 +2577,9 @@ msgstr ""
 msgid "Distance"
 msgstr "فاصله"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr ""
 
@@ -2571,11 +2634,11 @@ msgstr "سندها"
 msgid "does not contain"
 msgstr "شامل نباشد"
 
-msgid "Dolphin"
-msgstr "دلفین"
-
 msgid "Domain"
 msgstr "دامنه"
+
+msgid "_Domain"
+msgstr "_دامنه"
 
 msgid "Dominica"
 msgstr "دومینیکا"
@@ -2679,6 +2742,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "پویا"
+
 msgid "E"
 msgstr "E"
 
@@ -2730,6 +2796,9 @@ msgstr "ویرایش تصویر"
 msgid "Editing"
 msgstr "ویراستن"
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "ویرایشگر"
 
@@ -2745,9 +2814,6 @@ msgstr "مصر"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr ""
-
 msgid "Eject"
 msgstr "بیرون دادن"
 
@@ -2757,16 +2823,28 @@ msgstr "_بیرون دادن"
 msgid "El Salvador"
 msgstr "السالوادور"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr "الکترونیک"
 
 msgid "Element"
 msgstr ""
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "بیضی"
 
+msgid "EMail"
+msgstr ""
+
 msgid "Email"
+msgstr "رایانامه"
+
+msgid "E-Mail"
 msgstr "رایانامه"
 
 msgid "E-mail"
@@ -2847,6 +2925,9 @@ msgstr "پایان"
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr "تاریخ پایان"
+
 msgid "End Time"
 msgstr ""
 
@@ -2868,8 +2949,14 @@ msgstr "انگلیسی"
 msgid "Enter"
 msgstr "وارد کردن"
 
+msgid "Enter name"
+msgstr "وارد کردن نام"
+
 msgid "Enter password"
 msgstr "گذرواژه را وارد کنید"
+
+msgid "Entries"
+msgstr "مدخل"
 
 msgid "Entry"
 msgstr "ورودی"
@@ -2943,6 +3030,9 @@ msgstr "رویداد"
 msgid "Events"
 msgstr "رویدادها"
 
+msgid "Every"
+msgstr "هر"
+
 msgid "Everyone"
 msgstr "همه"
 
@@ -2960,6 +3050,9 @@ msgstr ""
 
 msgid "Exception"
 msgstr "استثناء"
+
+msgid "Exceptions"
+msgstr "&استثناها‌"
 
 msgid "Exclude"
 msgstr ""
@@ -2994,11 +3087,17 @@ msgstr "بسط همه"
 msgid "Experimental"
 msgstr "آزمایشی"
 
+msgid "Expiration"
+msgstr "انقضا"
+
 msgid "Expired"
 msgstr ""
 
 msgid "Expires"
 msgstr "انقضا"
+
+msgid "Expires On"
+msgstr "منقضی شدن در"
 
 msgid "Export"
 msgstr "برون‌ریزی"
@@ -3033,6 +3132,9 @@ msgstr "گزینه‌ّای برون‌ریزی"
 msgid "Exposure"
 msgstr "نوردهی"
 
+msgid "Exposure Time"
+msgstr ""
+
 msgid "Expression"
 msgstr "اصطلاح"
 
@@ -3053,6 +3155,9 @@ msgstr "استخراج"
 
 msgid "F"
 msgstr "آ"
+
+msgid "Fabric"
+msgstr "Fabric"
 
 msgid "Facebook"
 msgstr "فیس‌بوک"
@@ -3111,6 +3216,12 @@ msgstr ""
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr "حوزه"
+
+msgid "Fields"
+msgstr "حوزه‌ها"
+
 msgid "Fiji"
 msgstr "فیجی"
 
@@ -3142,6 +3253,9 @@ msgid "File Exists"
 msgstr "پرونده وجود دارد"
 
 msgid "File Format"
+msgstr "قالب پرونده"
+
+msgid "File format"
 msgstr "قالب پرونده"
 
 msgid "File is not a valid .desktop file"
@@ -3203,6 +3317,9 @@ msgstr ""
 
 msgid "Filter"
 msgstr "پالایش"
+
+msgid "&Filter"
+msgstr "&پالایه:‌"
 
 msgid "Filter..."
 msgstr "پالایش…"
@@ -3267,6 +3384,9 @@ msgstr "فنلاندی"
 msgid "First"
 msgstr "اول"
 
+msgid "First Name"
+msgstr "نام"
+
 msgid "First Page"
 msgstr "صفحه اول"
 
@@ -3327,6 +3447,9 @@ msgstr "گل"
 msgid "Focal Length"
 msgstr "طول کانونی"
 
+msgid "Focal length"
+msgstr "طول کانونی"
+
 msgid "Focus"
 msgstr "تمرکز"
 
@@ -3348,6 +3471,9 @@ msgstr "قلم"
 msgid "&Font"
 msgstr "قلم"
 
+msgid "_Font"
+msgstr "_قلم"
+
 msgid "Font Color"
 msgstr ""
 
@@ -3359,6 +3485,12 @@ msgstr "اندازه قلم"
 
 msgid "Font size"
 msgstr "اندازهٔ قلم"
+
+msgid "Font Style"
+msgstr "سبک قلم‌ها"
+
+msgid "Font style"
+msgstr ""
 
 msgid "Fonts"
 msgstr "قلم‌ها"
@@ -3396,6 +3528,12 @@ msgstr "فرم"
 msgid "Format"
 msgstr "قالب"
 
+msgid "&Format"
+msgstr "&قالب:‌"
+
+msgid "_Format"
+msgstr "_قالب‌بندی"
+
 msgid "Formatting"
 msgstr "قالب‌بندی"
 
@@ -3422,6 +3560,12 @@ msgstr "کسر"
 
 msgid "Frame"
 msgstr "قاب"
+
+msgid "Frame Rate"
+msgstr ""
+
+msgid "Frame rate"
+msgstr ""
 
 msgid "Framerate"
 msgstr "سرعت قاب"
@@ -3467,6 +3611,9 @@ msgstr "تمام"
 
 msgid "Full Name"
 msgstr "نام کامل"
+
+msgid "Full name"
+msgstr ""
 
 msgid "Full Screen"
 msgstr "تمام‌صفحه"
@@ -3533,6 +3680,9 @@ msgstr ""
 
 msgid "Gateway"
 msgstr "دروازه"
+
+msgid "_Gateway"
+msgstr "_دروازه"
 
 msgid "Gaussian Blur"
 msgstr "لکه گاوسی"
@@ -3654,6 +3804,9 @@ msgstr "رفتن به صفحهٔ پیشین"
 msgid "Goa"
 msgstr "گوا"
 
+msgid "Goal"
+msgstr "هدف"
+
 msgid "Gold"
 msgstr ""
 
@@ -3708,6 +3861,9 @@ msgstr ""
 msgid "Grid"
 msgstr "توری"
 
+msgid "&Grid"
+msgstr "&توری"
+
 msgid "Group"
 msgstr "گروه"
 
@@ -3753,6 +3909,9 @@ msgstr "سخت"
 msgid "Hardware"
 msgstr "سخت‌افزار"
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr "هاواییایی"
 
@@ -3794,6 +3953,9 @@ msgstr "ارتفاع"
 
 msgid "&Height"
 msgstr "&ارتفاع:‌"
+
+msgid "_Height"
+msgstr "_ارتفاع"
 
 msgid "Help"
 msgstr "راهنما"
@@ -3839,6 +4001,9 @@ msgstr "بالا"
 
 msgid "Highlight"
 msgstr "پررنگ"
+
+msgid "Highlight color"
+msgstr ""
 
 msgid "Highlighter"
 msgstr ""
@@ -3891,8 +4056,17 @@ msgstr "هنگ کنگ"
 msgid "Horizontal"
 msgstr "افقی"
 
+msgid "_Horizontal"
+msgstr "_افقی"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "میزبان"
+
+msgid "Host Name"
+msgstr ""
 
 msgid "Hostname"
 msgstr "نام میزبان"
@@ -3972,6 +4146,9 @@ msgstr ""
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr "شناساگر"
 
@@ -4025,6 +4202,12 @@ msgstr "تنظیمات تصویر"
 
 msgid "Image Size"
 msgstr "اندازهٔ تصویر"
+
+msgid "Image size"
+msgstr "اندازهٔ تصویر"
+
+msgid "Image type"
+msgstr "نوع تصویر"
 
 msgid "Image Viewer"
 msgstr "نمایشگر تصویر"
@@ -4101,6 +4284,9 @@ msgstr "افزایش تورفتگی"
 msgid "Increase Volume"
 msgstr "افزایش حجم صدا"
 
+msgid "Increment"
+msgstr ""
+
 msgid "Incremental"
 msgstr "فزاینده"
 
@@ -4112,6 +4298,9 @@ msgstr "فهرست"
 
 msgid "Indexed"
 msgstr "نمونه‌رنگی"
+
+msgid "Indexing"
+msgstr "نمایه‌گذاری"
 
 msgid "India"
 msgstr "هند"
@@ -4175,6 +4364,9 @@ msgstr "در حال نصب"
 
 msgid "Instant"
 msgstr ""
+
+msgid "Instructions"
+msgstr "دستورالعملها"
 
 msgid "Integer"
 msgstr "عدد صحیح"
@@ -4263,11 +4455,17 @@ msgstr "ایرلندی"
 msgid "is"
 msgstr "is"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "اسرائیل"
 
 msgid "Issued By"
 msgstr ""
+
+msgid "Issued On"
+msgstr "صادر شده در"
 
 msgid "Issuer"
 msgstr "صادرکننده"
@@ -4365,9 +4563,6 @@ msgstr "ش"
 msgid "Kannada"
 msgstr "کانادا"
 
-msgid "Kate"
-msgstr ""
-
 msgid "Kazakh"
 msgstr "قزاق"
 
@@ -4376,18 +4571,6 @@ msgstr "قزاقستان"
 
 msgid "kB"
 msgstr "کیلوبایت"
-
-msgid "KDE"
-msgstr ""
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
-msgstr ""
 
 msgid "Keep"
 msgstr ""
@@ -4452,26 +4635,11 @@ msgstr "کیریباتی"
 msgid "km"
 msgstr "کیلومتر"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "کنسول"
-
 msgid "Korean"
 msgstr "کره‌ای"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "کویت"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "باخت"
@@ -4490,6 +4658,9 @@ msgstr "منظره‌‌ای"
 
 msgid "Language"
 msgstr "زبان"
+
+msgid "&Language"
+msgstr "&زبان:‌"
 
 msgid "_Language"
 msgstr "_زبان"
@@ -4511,6 +4682,12 @@ msgstr "آخرین"
 
 msgid "Last Modified"
 msgstr "آخرین تغییر"
+
+msgid "Last modified"
+msgstr "آخرین تغییر"
+
+msgid "Last Name"
+msgstr "نام خانوادگی"
 
 msgid "LaTeX"
 msgstr ""
@@ -4623,8 +4800,20 @@ msgstr ""
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr "شمارش خط"
+
 msgid "Line Numbers"
 msgstr ""
+
+msgid "Line spacing"
+msgstr "فاصله گذاری خط"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "سبک خط"
 
 msgid "Line Width"
 msgstr ""
@@ -4643,6 +4832,9 @@ msgstr "پیوند"
 
 msgid "link"
 msgstr "پیوند"
+
+msgid "Link Text"
+msgstr "متن پیوند"
 
 msgid "Link URL"
 msgstr "پیوند نشانی"
@@ -4742,6 +4934,9 @@ msgstr "ورود"
 
 msgid "_Login"
 msgstr "_ورود"
+
+msgid "Logo"
+msgstr "نشان"
 
 msgid "Logout"
 msgstr "خروج از سیستم"
@@ -4938,6 +5133,9 @@ msgstr "بیشینه"
 msgid "Maximum"
 msgstr "بیشینه"
 
+msgid "Maximum width"
+msgstr "بیشینه عرض"
+
 msgid "May"
 msgstr "مه"
 
@@ -4992,6 +5190,9 @@ msgstr "پیام"
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr "&پیام‌"
+
 msgid "Messages"
 msgstr "پیامها"
 
@@ -5003,6 +5204,9 @@ msgstr "فراداده"
 
 msgid "Metal"
 msgstr "متال"
+
+msgid "Metering Mode"
+msgstr ""
 
 msgid "meters"
 msgstr "متر"
@@ -5042,6 +5246,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "میلی‌ثانیه"
+
+msgid "MIME type"
+msgstr ""
 
 msgid "Min"
 msgstr "دقیقه"
@@ -5088,8 +5295,14 @@ msgstr "میلی‌متر"
 msgid "Mobile"
 msgstr "تلفن همراه"
 
+msgid "Mobile Phone"
+msgstr "تلفن همراه"
+
 msgid "Mode"
 msgstr "حالت"
+
+msgid "_Mode"
+msgstr "_حالت"
 
 msgid "Model"
 msgstr "مدل"
@@ -5186,6 +5399,9 @@ msgstr "مراکش"
 
 msgid "Mount"
 msgstr "سوار کردن"
+
+msgid "Mount Point"
+msgstr "نقطه سوار شدن"
 
 msgid "Mount point"
 msgstr "نقطهٔ سوارکردن"
@@ -5325,6 +5541,9 @@ msgstr "_نام"
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr "نامها"
+
 msgid "Namespace"
 msgstr ""
 
@@ -5354,6 +5573,9 @@ msgstr "نپالی"
 
 msgid "Netherlands"
 msgstr "هلند"
+
+msgid "Netmask"
+msgstr "نقاب شبکه"
 
 msgid "Network"
 msgstr "شبکه"
@@ -5565,6 +5787,9 @@ msgstr "بدون موضوع"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "گره"
+
 msgid "Noise"
 msgstr "سروصدا"
 
@@ -5691,6 +5916,9 @@ msgstr "شماره"
 msgid "Number of columns"
 msgstr "تعداد ستون‌ها"
 
+msgid "Number of rows"
+msgstr "تعداد ردیف‌ها"
+
 msgid "Numbers"
 msgstr "اعداد"
 
@@ -5747,9 +5975,6 @@ msgstr ""
 
 msgid "_OK"
 msgstr "_تأیید"
-
-msgid "Okular"
-msgstr ""
 
 msgid "Oman"
 msgstr "عمان"
@@ -5901,6 +6126,9 @@ msgstr ""
 msgid "Opera"
 msgstr "اپرا"
 
+msgid "Operating System"
+msgstr "سامانه عامل"
+
 msgid "Operation"
 msgstr "عمل"
 
@@ -5912,6 +6140,9 @@ msgstr "عملیات"
 
 msgid "Operator"
 msgstr ""
+
+msgid "Operators"
+msgstr "عملگرها"
 
 msgid "Optical Character Recognition"
 msgstr "بازشناخت نویسه نوری"
@@ -5970,6 +6201,9 @@ msgstr "اندازه اصلی"
 msgid "Oriya"
 msgstr "اوریا"
 
+msgid "OS"
+msgstr "سیستم‌عامل"
+
 msgid "Other"
 msgstr "دیگر"
 
@@ -5983,6 +6217,9 @@ msgid "Other Application..."
 msgstr ""
 
 msgid "Other Options"
+msgstr ""
+
+msgid "Other options"
 msgstr ""
 
 msgid "Others"
@@ -6126,6 +6363,9 @@ msgstr "والد"
 msgid "Partition"
 msgstr "افراز"
 
+msgid "Passphrase"
+msgstr "عبارت عبور"
+
 msgid "Password"
 msgstr "گذرواژه"
 
@@ -6164,6 +6404,9 @@ msgstr "مسیرها"
 
 msgid "Pattern"
 msgstr "الگو"
+
+msgid "_Pattern"
+msgstr "ا_لگو"
 
 msgid "Patterns"
 msgstr "الگوها"
@@ -6249,8 +6492,14 @@ msgstr "فیلیپین"
 msgid "Phone"
 msgstr "تلفن"
 
+msgid "Phone Numbers"
+msgstr "شماره‌های تلفن"
+
 msgid "Photo"
 msgstr "عکس"
+
+msgid "Photos"
+msgstr "عکسها"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6272,6 +6521,9 @@ msgstr "شناسهٔ فرایند"
 
 msgid "Pie"
 msgstr ""
+
+msgid "PIN"
+msgstr "پین"
 
 msgid "Pin"
 msgstr ""
@@ -6300,9 +6552,6 @@ msgstr "متن خام"
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "پلاسما"
-
 msgid "Platform"
 msgstr ""
 
@@ -6321,8 +6570,14 @@ msgstr "پخش"
 msgid "Player"
 msgstr "پخش‌کننده"
 
+msgid "Player 1"
+msgstr "بازیکن ۱"
+
 msgid "Player %1"
 msgstr "بازیکن %1"
+
+msgid "Player 2"
+msgstr "بازیکن ۲"
 
 msgid "Players"
 msgstr "بازیکنان"
@@ -6402,6 +6657,9 @@ msgstr "درگاه"
 msgid "&Port"
 msgstr "&درگاه:‌"
 
+msgid "_Port"
+msgstr "_درگاه"
+
 msgid "Portrait"
 msgstr "عرضی"
 
@@ -6413,6 +6671,9 @@ msgstr "پرتغالی"
 
 msgid "Position"
 msgstr "موقعیت"
+
+msgid "Postal code"
+msgstr "کد پستی"
 
 msgid "Posterize"
 msgstr "پوسترسازی"
@@ -6455,6 +6716,9 @@ msgstr "پیش‌نمایش"
 
 msgid "&Preview"
 msgstr "&پیش‌نمایش‌"
+
+msgid "_Preview"
+msgstr "_پیش‌نمایش"
 
 msgid "Previews"
 msgstr "پیش‌نمایش‌ها"
@@ -6537,6 +6801,9 @@ msgstr "حریم خصوصی"
 msgid "Private"
 msgstr "خصوصی"
 
+msgid "Private Key"
+msgstr "کلید خصوصی"
+
 msgid "Process"
 msgstr "فرایند"
 
@@ -6564,6 +6831,9 @@ msgstr "نماگرها"
 msgid "Program"
 msgstr "برنامه"
 
+msgid "Programs"
+msgstr "برنامه‌ها"
+
 msgid "Progress"
 msgstr "پیشرفت"
 
@@ -6572,6 +6842,9 @@ msgstr "پروژه"
 
 msgid "&Project"
 msgstr "&پروژه‌"
+
+msgid "Project name"
+msgstr ""
 
 msgid "Projects"
 msgstr "پروژه‌ها"
@@ -6645,6 +6918,9 @@ msgstr "تد"
 msgid "Python"
 msgstr "پایتون"
 
+msgid "Q"
+msgstr "ب"
+
 msgid "Qatar"
 msgstr "قطر"
 
@@ -6698,6 +6974,9 @@ msgstr "از کاربرد خارج می‌شود"
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr "نقل قولها"
+
 msgid "R"
 msgstr "ر"
 
@@ -6728,6 +7007,9 @@ msgstr "نرخ"
 msgid "Rating"
 msgstr "امتیاز"
 
+msgid "Ratio"
+msgstr "نسبت"
+
 msgid "Raw"
 msgstr ""
 
@@ -6755,11 +7037,17 @@ msgstr "آماده"
 msgid "Ready."
 msgstr ""
 
+msgid "Realm"
+msgstr ""
+
 msgid "Reason"
 msgstr "دلیل"
 
 msgid "Reassign"
 msgstr "انتساب دوباره"
+
+msgid "Received"
+msgstr "دریافت شد"
 
 msgid "Recent"
 msgstr "اخیر"
@@ -6781,6 +7069,9 @@ msgstr ""
 
 msgid "Rectangle"
 msgstr "مستطیل"
+
+msgid "Recurrence"
+msgstr "تکرار"
 
 msgid "Recursive"
 msgstr "بازگشتی"
@@ -6911,6 +7202,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "در حال برداشتن"
+
 msgid "Rename"
 msgstr "تغییر نام"
 
@@ -6930,6 +7224,9 @@ msgid "Rename Bookmark"
 msgstr "تغییر نام چوب الف"
 
 msgid "Rename File"
+msgstr ""
+
+msgid "Rendering intent"
 msgstr ""
 
 msgid "Repeat"
@@ -6953,11 +7250,20 @@ msgstr "جایگزینی _همه"
 msgid "Replace an existing instance"
 msgstr "جایگزینی یک نمونه موجود"
 
+msgid "Replace With"
+msgstr "جایگزینی با"
+
+msgid "Replace with"
+msgstr "جایگزین با"
+
 msgid "Replacement"
 msgstr "جایگزینی"
 
 msgid "Reply"
 msgstr "پاسخ"
+
+msgid "Reply-To"
+msgstr ""
 
 msgid "Report"
 msgstr "گزارش"
@@ -6975,6 +7281,9 @@ msgid "&Report Bug..."
 msgstr "&گزارش اشکال...‌"
 
 msgid "Reports"
+msgstr ""
+
+msgid "Repository"
 msgstr ""
 
 msgid "Required"
@@ -7088,6 +7397,9 @@ msgstr "راست به چپ"
 msgid "Right-click"
 msgstr ""
 
+msgid "Rights"
+msgstr "حقوق"
+
 msgid "River"
 msgstr ""
 
@@ -7142,6 +7454,9 @@ msgstr "ردیف"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "قاعده"
+
 msgid "Rules"
 msgstr ""
 
@@ -7150,6 +7465,9 @@ msgstr "اجرا"
 
 msgid "&Run"
 msgstr "&اجرا‌"
+
+msgid "Run command"
+msgstr ""
 
 msgid "Run in terminal"
 msgstr "اجرا در پایانه‌"
@@ -7286,6 +7604,9 @@ msgstr "ذخیرهٔ تصویر"
 msgid "_Save Image As..."
 msgstr "_ذخیرهٔ تصویر به نام…"
 
+msgid "Save Location"
+msgstr ""
+
 msgid "Save Project"
 msgstr ""
 
@@ -7293,6 +7614,9 @@ msgid "Save Session"
 msgstr "ذخیرهٔ نشست"
 
 msgid "Save Settings"
+msgstr ""
+
+msgid "Save to"
 msgstr ""
 
 msgid "Saved"
@@ -7325,11 +7649,17 @@ msgstr "پویش"
 msgid "Scanner"
 msgstr "پویشگر"
 
+msgid "Scanning"
+msgstr "پوییدن"
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
 msgstr "زمان‌بندی"
+
+msgid "Scheduler"
+msgstr ""
 
 msgid "Scheduling"
 msgstr ""
@@ -7406,11 +7736,17 @@ msgstr "یافتن..."
 msgid "Search Bar"
 msgstr "میله جستجو"
 
+msgid "Search for"
+msgstr ""
+
 msgid "_Search for"
 msgstr "_جست‌وجو برای"
 
 msgid "Search for '%1' with"
 msgstr "جستجوی »%1« با"
+
+msgid "Search in"
+msgstr "جستجو در"
 
 msgid "Search Options"
 msgstr "گزینه‌های جست‌وجو"
@@ -7514,6 +7850,9 @@ msgstr "گزینش"
 msgid "Selections"
 msgstr "گزینش‌ها"
 
+msgid "Self"
+msgstr "شخصی"
+
 msgid "Semicolon"
 msgstr "نقطه واوک"
 
@@ -7553,6 +7892,9 @@ msgstr "صربستان"
 msgid "Serbian"
 msgstr "صربستانی"
 
+msgid "Serial"
+msgstr "سریال"
+
 msgid "Serial Number"
 msgstr "شمارهٔ سریال"
 
@@ -7568,8 +7910,14 @@ msgstr "سریف"
 msgid "Server"
 msgstr "خادم"
 
+msgid "&Server"
+msgstr "کارساز"
+
 msgid "Server URL"
 msgstr "نشانی کارساز"
+
+msgid "Servers"
+msgstr "کارگزارها"
 
 msgid "Service"
 msgstr ""
@@ -7582,6 +7930,9 @@ msgstr "نشست"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "نام نشست"
 
 msgid "Sessions"
 msgstr "نشست‌ها"
@@ -7612,6 +7963,12 @@ msgstr "شدّت"
 
 msgid "Seychelles"
 msgstr "سِی‌چِلِس"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7651,6 +8008,12 @@ msgstr ""
 
 msgid "Shear"
 msgstr "برش"
+
+msgid "Sheet"
+msgstr "برگه"
+
+msgid "Sheets"
+msgstr "صفحات"
 
 msgid "Shell"
 msgstr "پوسته"
@@ -7772,6 +8135,9 @@ msgstr "تک"
 msgid "Sinhala"
 msgstr "سینهالا"
 
+msgid "Site"
+msgstr "پایگاه"
+
 msgid "Size"
 msgstr "اندازه"
 
@@ -7780,6 +8146,9 @@ msgstr "اندازه"
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "ا_ندازه"
 
 msgid "Size: %1"
 msgstr "اندازه: %1"
@@ -7807,6 +8176,9 @@ msgstr "لغزان"
 
 msgid "Slideshow"
 msgstr "نمایش اسلاید"
+
+msgid "Slope"
+msgstr "شیب"
 
 msgid "Slovak"
 msgstr "اسلواک"
@@ -7862,6 +8234,12 @@ msgstr "رنگ خالص"
 msgid "Solomon Islands"
 msgstr "جزایر سلیمان"
 
+msgid "Solution"
+msgstr ""
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "سومالی"
 
@@ -7879,6 +8257,9 @@ msgstr "مرتب کردن"
 
 msgid "Sound"
 msgstr "صدا"
+
+msgid "Sounds"
+msgstr "صداها"
 
 msgid "Soundtrack"
 msgstr "شیار صوتی"
@@ -7948,6 +8329,9 @@ msgstr "بررسی نوشتار"
 
 msgid "Spell Checking"
 msgstr "غلط یابی"
+
+msgid "Spellcheck"
+msgstr "غلط‌یاب"
 
 msgid "Spelling"
 msgstr "هجی"
@@ -8186,6 +8570,9 @@ msgstr "سوندایی"
 msgid "Sunday"
 msgstr "یکشنبه"
 
+msgid "Sunrise"
+msgstr "طلوع"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8242,6 +8629,9 @@ msgstr ""
 
 msgid "Synchronize"
 msgstr "همگام‌سازی"
+
+msgid "Syntax"
+msgstr ""
 
 msgid "Syriac"
 msgstr "سریانی"
@@ -8305,6 +8695,9 @@ msgstr "تانزانیا"
 
 msgid "Target"
 msgstr "هدف"
+
+msgid "Targets"
+msgstr ""
 
 msgid "Task"
 msgstr "تکلیف"
@@ -8419,6 +8812,9 @@ msgstr "توسعه‌دهندگان مدیر شبکه"
 msgid "Theme"
 msgstr "زمینه"
 
+msgid "&Theme"
+msgstr ""
+
 msgid "Themes"
 msgstr "تم‌ها"
 
@@ -8437,6 +8833,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr ""
+
+msgid "Threads"
+msgstr "رشته‌ها"
 
 msgid "Threshold"
 msgstr "آستانه"
@@ -8464,6 +8863,9 @@ msgstr "کاشی"
 
 msgid "Tiled"
 msgstr "کاشی شده"
+
+msgid "Tiles"
+msgstr ""
 
 msgid "Tilt"
 msgstr ""
@@ -8513,6 +8915,9 @@ msgstr "&عنوان:‌"
 msgid "_Title"
 msgstr "_عنوان"
 
+msgid "Titles"
+msgstr "عناوین"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8535,6 +8940,9 @@ msgid "TODO"
 msgstr ""
 
 msgid "Todo"
+msgstr ""
+
+msgid "To-do"
 msgstr ""
 
 msgid "Toggle Fullscreen"
@@ -8567,6 +8975,9 @@ msgstr ""
 msgid "Tool Options"
 msgstr "گزینه‌های ابزار"
 
+msgid "Toolbar"
+msgstr "میله ابزار"
+
 msgid "_Toolbar"
 msgstr "_نوار ابزار"
 
@@ -8587,6 +8998,9 @@ msgstr "&ابزارها‌"
 
 msgid "_Tools"
 msgstr "_ابزارها"
+
+msgid "Tooltip"
+msgstr "راهنمای درون‌برنامه‌ای"
 
 msgid "Top"
 msgstr "بالا"
@@ -8743,11 +9157,17 @@ msgstr "نوع"
 msgid "&Type"
 msgstr "&نوع:‌"
 
+msgid "_Type"
+msgstr "_نوع"
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "اوگاندا"
+
+msgid "UID"
+msgstr "شناسه کاربر"
 
 msgid "Ukraine"
 msgstr "اکراین"
@@ -8980,6 +9400,9 @@ msgstr "استفاده شده"
 msgid "User"
 msgstr "کاربر"
 
+msgid "User Agent"
+msgstr "پیشکار کاربر"
+
 msgid "User Certificate"
 msgstr ""
 
@@ -9004,11 +9427,17 @@ msgstr ""
 msgid "Username"
 msgstr "نام کاربری"
 
+msgid "&Username"
+msgstr "&نام کاربر:‌"
+
 msgid "_Username"
 msgstr "_نام‌کاربری"
 
 msgid "Users"
 msgstr "کاربران"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "ابزارها"
@@ -9029,6 +9458,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9063,6 +9495,9 @@ msgstr "متغیرها"
 msgid "Variance"
 msgstr "واریانس"
 
+msgid "Variant"
+msgstr "دگرگونه"
+
 msgid "Vector"
 msgstr "بردار"
 
@@ -9089,6 +9524,9 @@ msgstr "نگارش %1"
 
 msgid "Vertical"
 msgstr "عمودی"
+
+msgid "_Vertical"
+msgstr "_عمودی"
 
 msgid "Very Large"
 msgstr "خیلی بزرگ"
@@ -9122,6 +9560,9 @@ msgstr "&نما‌"
 
 msgid "_View"
 msgstr "_نما"
+
+msgid "View mode"
+msgstr "حالت نما"
 
 msgid "View Options"
 msgstr "گزینه‌های نما"
@@ -9282,6 +9723,9 @@ msgstr "وای‌فای"
 msgid "Wikipedia"
 msgstr "ویکی‌پدیا"
 
+msgid "Wind"
+msgstr "باد"
+
 msgid "Window"
 msgstr "پنجره"
 
@@ -9324,11 +9768,17 @@ msgstr "واژه"
 msgid "Word Count"
 msgstr "شمارش کلمه"
 
+msgid "Word wrap"
+msgstr "شکستن واژه"
+
 msgid "Words"
 msgstr "واژه"
 
 msgid "Work"
 msgstr ""
+
+msgid "Workspace"
+msgstr "محیط‌کار"
 
 msgid "World"
 msgstr "جهان"
@@ -9368,6 +9818,9 @@ msgstr "‏Y (_پهنا)"
 
 msgid "Year"
 msgstr "سال"
+
+msgid "&Year"
+msgstr "&سال:‌"
 
 msgid "Yearly"
 msgstr ""
@@ -9428,6 +9881,9 @@ msgstr "&بزرگ‌نمایی‌"
 
 msgid "_Zoom"
 msgstr "_بزرگ‌نمایی"
+
+msgid "Zoom factor"
+msgstr "عامل بزرگ‌نمایی"
 
 msgid "Zoom In"
 msgstr "بزرگ‌نمایی"

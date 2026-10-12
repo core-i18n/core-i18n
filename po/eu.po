@@ -82,9 +82,6 @@ msgstr " eta "
 msgid " (default)"
 msgstr " (lehenetsia)"
 
-msgid "© KDE Community"
-msgstr "© KDE Komunitatea"
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Jada badago \"%1\" izeneko fitxategi bat. Ziur zaude gainidatzi nahi duzula?"
@@ -356,17 +356,20 @@ msgstr "Honi _buruz"
 msgid "About %1"
 msgstr "%1(e)ri buruz"
 
-msgid "About KDE"
-msgstr "KDEri buruz"
-
 msgid "Abstract"
 msgstr "Abstraktua"
+
+msgid "Acceleration"
+msgstr "Azelerazioa"
 
 msgid "Accept"
 msgstr "Onartu"
 
 msgid "Accepted"
 msgstr "Onartuta"
+
+msgid "Access"
+msgstr "Sarbidea"
 
 msgid "Accessed"
 msgstr "Atzitua"
@@ -384,6 +387,9 @@ msgid "Account Information"
 msgstr "Kontuaren informazioa"
 
 msgid "Account Name"
+msgstr "Kontuaren izena"
+
+msgid "Account name"
 msgstr "Kontuaren izena"
 
 msgid "Accounts"
@@ -638,6 +644,9 @@ msgstr "Alfabetikoki"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Txandakatu"
+
 msgid "Alternative"
 msgstr "Alternatiboa"
 
@@ -713,8 +722,14 @@ msgstr "Idatzoharrak"
 msgid "Anonymous"
 msgstr "Anonimoa"
 
+msgid "Answer"
+msgstr "Erantzuna"
+
 msgid "Antarctica"
 msgstr "Antartika"
+
+msgid "Antialiasing"
+msgstr "Antialiasing-a"
 
 msgid "Any"
 msgstr "Edozein"
@@ -884,6 +899,9 @@ msgstr "Autentifikatzea beharrezkoa da"
 msgid "Author"
 msgstr "Egilea"
 
+msgid "Author name"
+msgstr "Egilearen izena"
+
 msgid "Authors"
 msgstr "Egileak"
 
@@ -929,6 +947,9 @@ msgstr "Azerbaijanera"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -941,8 +962,14 @@ msgstr "&Atzera"
 msgid "_Back"
 msgstr "At_zera"
 
+msgid "Backend"
+msgstr "Bizkarraldekoa"
+
 msgid "Background"
 msgstr "Atzeko planoa"
+
+msgid "&Background"
+msgstr "&Atzeko planoa"
 
 msgid "Background Color"
 msgstr "Atzeko planoaren kolorea"
@@ -952,6 +979,9 @@ msgstr "Atzeko planoaren kolorea"
 
 msgid "&Background color"
 msgstr "&Atzeko planoaren kolorea"
+
+msgid "Background image"
+msgstr "Atzeko planoko irudia"
 
 msgid "Backspace"
 msgstr "Atzera-tekla"
@@ -973,6 +1003,9 @@ msgstr "Orekatua"
 
 msgid "Baltic"
 msgstr "Baltikoa"
+
+msgid "Bandwidth"
+msgstr "Banda-zabalera"
 
 msgid "Bangladesh"
 msgstr "Bangladesh"
@@ -1000,6 +1033,9 @@ msgstr "Baxua"
 
 msgid "Battery"
 msgstr "Bateria"
+
+msgid "BCC"
+msgstr "BCC"
 
 msgid "Bcc"
 msgstr "Bcc"
@@ -1157,23 +1193,8 @@ msgstr "Adarra"
 msgid "Brazil"
 msgstr "Brasil"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze, KDE VDGk egina"
-
-msgid "Breeze Dark"
-msgstr "Breeze iluna"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze iluna, KDE VDGk egina"
-
 msgid "Breton"
 msgstr "Bretoiera"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Zubia"
@@ -1310,18 +1331,6 @@ msgstr "&Utzi"
 msgid "Canceled"
 msgstr "Ezeztatuta"
 
-msgid "Cancelled"
-msgstr "Bertan behera utzita"
-
-msgid "cannot load editor plugin: %s"
-msgstr "ezin da editore-plugina kargatu: %s"
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr "ezin da %s fabrika kargatu pluginetik: %s"
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr ""
-
 msgid "Canvas"
 msgstr "Mihisea"
 
@@ -1340,14 +1349,14 @@ msgstr "Hitzeko aurreneko letra letra-larriz ipintzea"
 msgid "Caps Lock is on"
 msgstr "Blok Maius aktibatuta dago"
 
+msgid "Caption"
+msgstr "Epigrafea"
+
 msgid "Capture"
 msgstr "Atzeman"
 
 msgid "Car"
 msgstr "Autoa"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascade"
@@ -1436,6 +1445,9 @@ msgstr "Aldatu..."
 msgid "Changed"
 msgstr "Aldatua"
 
+msgid "Changes"
+msgstr "Aldaketak"
+
 msgid "Channel"
 msgstr "Kanala"
 
@@ -1453,6 +1465,9 @@ msgstr "Atalak"
 
 msgid "Character"
 msgstr "Karakterea"
+
+msgid "Character set"
+msgstr "Karaktere multzoa"
 
 msgid "Characters"
 msgstr "Pertsonaiak"
@@ -1685,6 +1700,9 @@ msgstr "Kolore-antolaera"
 msgid "Color Space"
 msgstr "Kolore-eremua"
 
+msgid "Color space"
+msgstr "Kolore-eremua"
+
 msgid "Color theme"
 msgstr "Kolore-gaia"
 
@@ -1706,14 +1724,8 @@ msgstr "Zutabeak"
 msgid "Comma"
 msgstr "Koma"
 
-msgid "COMMAND"
-msgstr "KOMANDOA"
-
 msgid "Command"
 msgstr "Komandoa"
-
-msgid "command"
-msgstr "komandoa"
 
 msgid "Command Line"
 msgstr "Komando-lerroa"
@@ -1727,6 +1739,9 @@ msgstr "Komandoak"
 msgid "Comment"
 msgstr "Iruzkina"
 
+msgid "comment"
+msgstr "iruzkina"
+
 msgid "Comments"
 msgstr "Iruzkinak"
 
@@ -1736,11 +1751,17 @@ msgstr "Baliozkotu"
 msgid "Common"
 msgstr "Arrunta"
 
+msgid "Common Name"
+msgstr "Izen arrunta"
+
 msgid "Comoros"
 msgstr "Komoreak"
 
 msgid "Compact"
 msgstr "Trinkoa"
+
+msgid "Company"
+msgstr "Enpresa"
 
 msgid "Compare"
 msgstr "Alderatu"
@@ -1778,6 +1799,9 @@ msgstr "Ordenagailua"
 msgid "Condition"
 msgstr "Baldintza"
 
+msgid "Conditions"
+msgstr "Baldintzak"
+
 msgid "Confidential"
 msgstr "Isilpekoa"
 
@@ -1808,6 +1832,9 @@ msgstr "Konfiguratu web-lasterbideak..."
 msgid "Confirm"
 msgstr "Baieztatu"
 
+msgid "Confirm Password"
+msgstr "Baieztatu pasahitza"
+
 msgid "Confirmation"
 msgstr "Baieztapena"
 
@@ -1819,6 +1846,9 @@ msgstr "Berretsita"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Aplikazio-lasterbide estandar batekin gatazka"
+
+msgid "Conflicts"
+msgstr "Gatazkak"
 
 msgid "Connect"
 msgstr "Konektatu"
@@ -1844,6 +1874,9 @@ msgstr "Konexikoak huts egin du"
 msgid "Connection Settings"
 msgstr "Konexioaren ezarpenak"
 
+msgid "Connection type"
+msgstr "Konexio mota"
+
 msgid "Connections"
 msgstr "Konexioak"
 
@@ -1852,9 +1885,6 @@ msgstr "Kontsola"
 
 msgid "Constant"
 msgstr "Konstantea"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr "eraiki ondoren ezin da \"% s\" eraikitzeko jabetza \"% s\" objekturako aldatu"
 
 msgid "Contact"
 msgstr "Kontaktua"
@@ -1868,13 +1898,13 @@ msgstr "Edukiontzia"
 msgid "Contains"
 msgstr "Hau du:"
 
-msgid "contains"
-msgstr "hau daukana"
-
 msgid "Content"
 msgstr "Edukia"
 
 msgid "Content Type"
+msgstr "Eduki mota"
+
+msgid "Content type"
 msgstr "Eduki mota"
 
 msgid "Contents"
@@ -1898,11 +1928,17 @@ msgstr "Kontrastea"
 msgid "Contributor"
 msgstr "Kolaboratzailea"
 
+msgid "Contributors"
+msgstr "Laguntzaileak"
+
 msgid "Control"
 msgstr "Kontrola"
 
 msgid "Convert"
 msgstr "Bihurtu"
+
+msgid "Convert to"
+msgstr "Bihurtu hona"
 
 msgid "Convert to Path"
 msgstr "Bihurtu bide"
@@ -1921,9 +1957,6 @@ msgstr "Koptoera"
 
 msgid "Copy"
 msgstr "Kopiatu"
-
-msgid "copy"
-msgstr "kopiatu"
 
 msgid "&Copy"
 msgstr "&Kopiatu"
@@ -1976,6 +2009,9 @@ msgstr "Fitxategiak kopiatzea"
 msgid "Copyright"
 msgstr "Copyright"
 
+msgid "Correct"
+msgstr "Zuzena"
+
 msgid "Cost"
 msgstr "Kostua"
 
@@ -1999,6 +2035,9 @@ msgstr "Herrialdea"
 
 msgid "CPU"
 msgstr "PUZ"
+
+msgid "CPU usage"
+msgstr "CPU erabilera"
 
 msgid "Create"
 msgstr "Sortu"
@@ -2027,6 +2066,9 @@ msgstr "Sortzailea"
 msgid "Credentials"
 msgstr "Egiaztagiriak"
 
+msgid "Credit"
+msgstr "Hartzekoa"
+
 msgid "Credits"
 msgstr "Merituak"
 
@@ -2053,15 +2095,6 @@ msgstr "Gurutzea"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ktrl"
-
-msgid "Ctrl+C"
-msgstr "Ktrl+C"
-
-msgid "Ctrl+O"
-msgstr "Ktrl+O"
 
 msgid "Cuba"
 msgstr "Kuba"
@@ -2090,8 +2123,14 @@ msgstr "Kurbak"
 msgid "Custom"
 msgstr "Pertsonalizatua"
 
+msgid "&Custom"
+msgstr "&Norberak finkatua"
+
 msgid "Custom..."
 msgstr "Norberak finkatua..."
+
+msgid "Custom color"
+msgstr "Norberak finkatutako kolorea"
 
 msgid "Custom Font"
 msgstr "Letra-tipo pertsonalizatua"
@@ -2165,6 +2204,9 @@ msgstr "Datuak"
 msgid "Database"
 msgstr "Datu-basea"
 
+msgid "Database name"
+msgstr "Datu-basearen izena"
+
 msgid "Date"
 msgstr "Data"
 
@@ -2180,14 +2222,20 @@ msgstr "Data eta ordua"
 msgid "Date Format"
 msgstr "Data-formatua"
 
+msgid "Date format"
+msgstr "Data-formatua"
+
 msgid "Date Modified"
 msgstr "Aldatze data"
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "Data/Ordua"
 
 msgid "Day"
 msgstr "Eguna"
+
+msgid "day"
+msgstr "egun"
 
 msgid "Days"
 msgstr "Egun"
@@ -2236,6 +2284,9 @@ msgstr "Lehenetsia"
 
 msgid "default"
 msgstr "lehenetsia"
+
+msgid "Default value"
+msgstr "Balio lehenetsia"
 
 msgid "Defaults"
 msgstr "Lehenespenak"
@@ -2312,6 +2363,9 @@ msgstr "Dentsitatea"
 msgid "Deny"
 msgstr "Ukatu"
 
+msgid "Department"
+msgstr "Saila"
+
 msgid "Dependencies"
 msgstr "Mendekotasunak"
 
@@ -2344,6 +2398,12 @@ msgstr "Mahaigaina"
 
 msgid "Destination"
 msgstr "Helburua"
+
+msgid "Destination Folder"
+msgstr "Helburuko karpeta"
+
+msgid "Destination folder"
+msgstr "Helburuko karpeta"
 
 msgid "Detach"
 msgstr "Bereizi"
@@ -2516,6 +2576,9 @@ msgstr "Disolbatu"
 msgid "Distance"
 msgstr "Distantzia"
 
+msgid "Distribution"
+msgstr "Banaketa"
+
 msgid "Divide"
 msgstr "Zatitu"
 
@@ -2570,11 +2633,11 @@ msgstr "Dokumentuak"
 msgid "does not contain"
 msgstr "hau ez daukana"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Domeinua"
+
+msgid "_Domain"
+msgstr "_Domeinua"
 
 msgid "Dominica"
 msgstr "Dominika"
@@ -2678,6 +2741,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Dinamikoa"
+
 msgid "E"
 msgstr "E"
 
@@ -2729,6 +2795,9 @@ msgstr "Editatu irudia"
 msgid "Editing"
 msgstr "Edizioa"
 
+msgid "Edition"
+msgstr "Argitalpena"
+
 msgid "Editor"
 msgstr "Editorea"
 
@@ -2744,9 +2813,6 @@ msgstr "Egipto"
 msgid "Egyptian"
 msgstr "Egiptokoa"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Egotzi"
 
@@ -2756,16 +2822,28 @@ msgstr "E_gotzi"
 msgid "El Salvador"
 msgstr "El Salvador"
 
+msgid "Elapsed Time"
+msgstr "Igarotako denbora"
+
 msgid "Electronic"
 msgstr "Elektronika"
 
 msgid "Element"
 msgstr "Elementua"
 
+msgid "Elements"
+msgstr "Elementuak"
+
 msgid "Ellipse"
 msgstr "Elipsea"
 
+msgid "EMail"
+msgstr "E-posta"
+
 msgid "Email"
+msgstr "E-posta"
+
+msgid "E-Mail"
 msgstr "E-posta"
 
 msgid "E-mail"
@@ -2846,6 +2924,9 @@ msgstr "amaiera"
 msgid "End Date"
 msgstr "Amaierako data"
 
+msgid "End date"
+msgstr "Amaiera-data"
+
 msgid "End Time"
 msgstr "Amaierako ordua"
 
@@ -2867,8 +2948,14 @@ msgstr "Ingelesa"
 msgid "Enter"
 msgstr "Sartu"
 
+msgid "Enter name"
+msgstr "Sartu izena"
+
 msgid "Enter password"
 msgstr "Idatzi pasahitza"
+
+msgid "Entries"
+msgstr "Sarrerak"
 
 msgid "Entry"
 msgstr "Sarrera"
@@ -2942,6 +3029,9 @@ msgstr "Gertaera"
 msgid "Events"
 msgstr "Gertaerak"
 
+msgid "Every"
+msgstr "Hainbestero"
+
 msgid "Everyone"
 msgstr "Edonor"
 
@@ -2959,6 +3049,9 @@ msgstr "Adibideak"
 
 msgid "Exception"
 msgstr "Salbuespena"
+
+msgid "Exceptions"
+msgstr "Salbuespenak"
 
 msgid "Exclude"
 msgstr "Kanporatu"
@@ -2993,11 +3086,17 @@ msgstr "Zabaldu dena"
 msgid "Experimental"
 msgstr "Esperimentala"
 
+msgid "Expiration"
+msgstr "Iraungitze-data"
+
 msgid "Expired"
 msgstr "Iraungita"
 
 msgid "Expires"
 msgstr "Iraungi"
+
+msgid "Expires On"
+msgstr "Epemuga"
 
 msgid "Export"
 msgstr "Esportatu"
@@ -3032,6 +3131,9 @@ msgstr "Esportatzeko aukerak"
 msgid "Exposure"
 msgstr "Esposizioa"
 
+msgid "Exposure Time"
+msgstr "Esposizio denbora"
+
 msgid "Expression"
 msgstr "Adierazpena"
 
@@ -3052,6 +3154,9 @@ msgstr "Erauzi"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Ehuna"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3110,6 +3215,12 @@ msgstr "Felipe Kinoshita"
 msgid "Fetch"
 msgstr "Ekarri"
 
+msgid "Field"
+msgstr "Eremua"
+
+msgid "Fields"
+msgstr "Eremuak"
+
 msgid "Fiji"
 msgstr "Fiji"
 
@@ -3141,6 +3252,9 @@ msgid "File Exists"
 msgstr "Fitxategia badago lehendik"
 
 msgid "File Format"
+msgstr "Fitxategi-formatua"
+
+msgid "File format"
 msgstr "Fitxategi-formatua"
 
 msgid "File is not a valid .desktop file"
@@ -3202,6 +3316,9 @@ msgstr "Betegarriaren kolorea"
 
 msgid "Filter"
 msgstr "Iragazi"
+
+msgid "&Filter"
+msgstr "&Iragazkia"
 
 msgid "Filter..."
 msgstr "Iragazi..."
@@ -3266,6 +3383,9 @@ msgstr "Finlandiera"
 msgid "First"
 msgstr "Lehena"
 
+msgid "First Name"
+msgstr "Izena"
+
 msgid "First Page"
 msgstr "Aurreneko orrialdea"
 
@@ -3326,6 +3446,9 @@ msgstr "lorea"
 msgid "Focal Length"
 msgstr "Fokuaren luzera"
 
+msgid "Focal length"
+msgstr "Foku-luzera"
+
 msgid "Focus"
 msgstr "Fokua"
 
@@ -3347,6 +3470,9 @@ msgstr "Letra-tipoa"
 msgid "&Font"
 msgstr "&Letra-tipoa"
 
+msgid "_Font"
+msgstr "_Letra-tipoa"
+
 msgid "Font Color"
 msgstr "Letra-tipoaren kolorea"
 
@@ -3358,6 +3484,12 @@ msgstr "Letra-tipoaren neurria"
 
 msgid "Font size"
 msgstr "Letra-tipoaren neurria"
+
+msgid "Font Style"
+msgstr "Letra-estiloa"
+
+msgid "Font style"
+msgstr "Letra-tipoaren estiloa"
 
 msgid "Fonts"
 msgstr "Letra-tipoak"
@@ -3395,6 +3527,12 @@ msgstr "Inprimakia"
 msgid "Format"
 msgstr "Formatua"
 
+msgid "&Format"
+msgstr "&Formatua"
+
+msgid "_Format"
+msgstr "_Formateatu"
+
 msgid "Formatting"
 msgstr "Formateatzea"
 
@@ -3421,6 +3559,12 @@ msgstr "Zatikia"
 
 msgid "Frame"
 msgstr "Markoa"
+
+msgid "Frame Rate"
+msgstr "Fotograma-abiadura"
+
+msgid "Frame rate"
+msgstr "Fotograma emaria"
 
 msgid "Framerate"
 msgstr "Fotograma-emaria"
@@ -3466,6 +3610,9 @@ msgstr "Osoa"
 
 msgid "Full Name"
 msgstr "Izen osoa"
+
+msgid "Full name"
+msgstr "Izen-abizenak"
 
 msgid "Full Screen"
 msgstr "Pantaila-betea"
@@ -3532,6 +3679,9 @@ msgstr "Atea"
 
 msgid "Gateway"
 msgstr "Atebidea"
+
+msgid "_Gateway"
+msgstr "_Atebidea"
 
 msgid "Gaussian Blur"
 msgstr "Gaussen lausotzea"
@@ -3653,6 +3803,9 @@ msgstr "Joan aurreko orrialdera"
 msgid "Goa"
 msgstr "Goa"
 
+msgid "Goal"
+msgstr "Helburua"
+
 msgid "Gold"
 msgstr "Urrea"
 
@@ -3707,6 +3860,9 @@ msgstr "Grisa"
 msgid "Grid"
 msgstr "Sareta"
 
+msgid "&Grid"
+msgstr "&Sareta"
+
 msgid "Group"
 msgstr "Taldea"
 
@@ -3752,6 +3908,9 @@ msgstr "Gogorra"
 msgid "Hardware"
 msgstr "Hardwarea"
 
+msgid "Hash"
+msgstr "Hash"
+
 msgid "Hawaiian"
 msgstr "Hawaiiera"
 
@@ -3793,6 +3952,9 @@ msgstr "Altuera"
 
 msgid "&Height"
 msgstr "&Altuera"
+
+msgid "_Height"
+msgstr "_Altuera"
 
 msgid "Help"
 msgstr "Laguntza"
@@ -3838,6 +4000,9 @@ msgstr "Altua"
 
 msgid "Highlight"
 msgstr "Nabarmendu"
+
+msgid "Highlight color"
+msgstr "Nabarmentzeko kolorea"
 
 msgid "Highlighter"
 msgstr "Nabarmentzailea"
@@ -3890,8 +4055,17 @@ msgstr "Hong Kong"
 msgid "Horizontal"
 msgstr "Horizontala"
 
+msgid "_Horizontal"
+msgstr "_Horizontala"
+
+msgid "Horizontally"
+msgstr "Horizontalki"
+
 msgid "Host"
 msgstr "Ostalaria"
+
+msgid "Host Name"
+msgstr "Ostalari izena"
 
 msgid "Hostname"
 msgstr "Ostalari-izena"
@@ -3971,6 +4145,9 @@ msgstr "ID"
 msgid "id"
 msgstr "IDa"
 
+msgid "Identification"
+msgstr "Identifikazioa"
+
 msgid "Identifier"
 msgstr "Identifikatzailea"
 
@@ -4024,6 +4201,12 @@ msgstr "Irudiaren ezarpenak"
 
 msgid "Image Size"
 msgstr "Irudi-tamaina"
+
+msgid "Image size"
+msgstr "Irudiaren tamaina"
+
+msgid "Image type"
+msgstr "Irudi mota"
 
 msgid "Image Viewer"
 msgstr "Irudi erakuslea"
@@ -4100,6 +4283,9 @@ msgstr "Handiagotu koska"
 msgid "Increase Volume"
 msgstr "Igo bolumena"
 
+msgid "Increment"
+msgstr "Gehikuntza"
+
 msgid "Incremental"
 msgstr "Inkrementala"
 
@@ -4111,6 +4297,9 @@ msgstr "Indizea"
 
 msgid "Indexed"
 msgstr "Indexatuta"
+
+msgid "Indexing"
+msgstr "Indexatzea"
 
 msgid "India"
 msgstr "India"
@@ -4174,6 +4363,9 @@ msgstr "Instalatzen"
 
 msgid "Instant"
 msgstr "Bat-batekoa"
+
+msgid "Instructions"
+msgstr "Instrukzioak"
 
 msgid "Integer"
 msgstr "Osokoa"
@@ -4262,11 +4454,17 @@ msgstr "Irlandera"
 msgid "is"
 msgstr "da"
 
+msgid "ISBN"
+msgstr "ISBN"
+
 msgid "Israel"
 msgstr "Israel"
 
 msgid "Issued By"
 msgstr "Nork jaukia"
+
+msgid "Issued On"
+msgstr "Jaulkitze Eguna"
 
 msgid "Issuer"
 msgstr "Jaulkitzailea"
@@ -4364,9 +4562,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Kazakhera"
 
@@ -4375,18 +4570,6 @@ msgstr "Kazakhstan"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr "KDE Komunitatea, Felipe Kinoshita"
-
-msgid "KDE Connect"
-msgstr "KDE Connect"
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "Mantendu"
@@ -4451,26 +4634,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "km"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Koreera"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Kuwait"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4489,6 +4657,9 @@ msgstr "Paisaia"
 
 msgid "Language"
 msgstr "Hizkuntza"
+
+msgid "&Language"
+msgstr "&Hizkuntza"
 
 msgid "_Language"
 msgstr "_Hizkuntza"
@@ -4510,6 +4681,12 @@ msgstr "Azkena"
 
 msgid "Last Modified"
 msgstr "Azken aldaketa"
+
+msgid "Last modified"
+msgstr "Azken aldaketa"
+
+msgid "Last Name"
+msgstr "Abizena"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4622,8 +4799,20 @@ msgstr "Lerro-jauzia"
 msgid "Line Color"
 msgstr "Lerroaren kolorea"
 
+msgid "Line Count"
+msgstr "Lerro kopurua"
+
 msgid "Line Numbers"
 msgstr "Lerro zenbakiak"
+
+msgid "Line spacing"
+msgstr "Sareta-marren tartea"
+
+msgid "Line Style"
+msgstr "Lerroaren estiloa"
+
+msgid "Line style"
+msgstr "Lerroaren estiloa"
 
 msgid "Line Width"
 msgstr "Lerro-zabalera"
@@ -4642,6 +4831,9 @@ msgstr "Esteka"
 
 msgid "link"
 msgstr "esteka"
+
+msgid "Link Text"
+msgstr "Estekaren testua"
 
 msgid "Link URL"
 msgstr "Estekaren URL"
@@ -4742,6 +4934,9 @@ msgstr "Saio-hasiera"
 
 msgid "_Login"
 msgstr "_Saio-hasiera"
+
+msgid "Logo"
+msgstr "Logoa"
 
 msgid "Logout"
 msgstr "Amaitu saioa"
@@ -4938,6 +5133,9 @@ msgstr "Maximizatu"
 msgid "Maximum"
 msgstr "Gehienekoa"
 
+msgid "Maximum width"
+msgstr "Gehienezko zabalera"
+
 msgid "May"
 msgstr "Maiatza"
 
@@ -4992,6 +5190,9 @@ msgstr "Mezua"
 msgid "message"
 msgstr "mezua"
 
+msgid "&Message"
+msgstr "&Mezua"
+
 msgid "Messages"
 msgstr "Mezuak"
 
@@ -5003,6 +5204,9 @@ msgstr "Metadatuak"
 
 msgid "Metal"
 msgstr "Metala"
+
+msgid "Metering Mode"
+msgstr "Neurtze modua"
 
 msgid "meters"
 msgstr "metroak"
@@ -5042,6 +5246,9 @@ msgstr "Milisegundo"
 
 msgid "milliseconds"
 msgstr "milisegundo"
+
+msgid "MIME type"
+msgstr "MIME mota"
 
 msgid "Min"
 msgstr "Min"
@@ -5088,8 +5295,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Mugikorra"
 
+msgid "Mobile Phone"
+msgstr "Telefono mugikorra"
+
 msgid "Mode"
 msgstr "Modua"
+
+msgid "_Mode"
+msgstr "_Modua"
 
 msgid "Model"
 msgstr "Eredua"
@@ -5186,6 +5399,9 @@ msgstr "Maroko"
 
 msgid "Mount"
 msgstr "Muntatu"
+
+msgid "Mount Point"
+msgstr "Muntatze-puntua"
 
 msgid "Mount point"
 msgstr "Muntatze-puntua"
@@ -5325,6 +5541,9 @@ msgstr "_Izena"
 msgid "Name: %1"
 msgstr "Izena: %1"
 
+msgid "Names"
+msgstr "Izenak"
+
 msgid "Namespace"
 msgstr "Izen-lekua"
 
@@ -5354,6 +5573,9 @@ msgstr "Nepalera"
 
 msgid "Netherlands"
 msgstr "Herbehereak"
+
+msgid "Netmask"
+msgstr "Sare-maskara"
 
 msgid "Network"
 msgstr "Sarea"
@@ -5565,6 +5787,9 @@ msgstr "Gairik ez"
 msgid "No VPN configuration options."
 msgstr "Ez dago VPNaren konfigurazioaren aukerarik."
 
+msgid "Node"
+msgstr "Nodoa"
+
 msgid "Noise"
 msgstr "Zarata"
 
@@ -5691,6 +5916,9 @@ msgstr "zenbakia"
 msgid "Number of columns"
 msgstr "Zutabe kopurua"
 
+msgid "Number of rows"
+msgstr "Errenkada kopurua"
+
 msgid "Numbers"
 msgstr "Zenbakiak"
 
@@ -5747,9 +5975,6 @@ msgstr "&Ados"
 
 msgid "_OK"
 msgstr "_Ados"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Oman"
@@ -5901,6 +6126,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr "Sistema eragilea"
+
 msgid "Operation"
 msgstr "Eragiketa"
 
@@ -5912,6 +6140,9 @@ msgstr "Eragiketak"
 
 msgid "Operator"
 msgstr "Operadorea"
+
+msgid "Operators"
+msgstr "Eragileak"
 
 msgid "Optical Character Recognition"
 msgstr "Karaktere-ezagutza optikoa"
@@ -5970,6 +6201,9 @@ msgstr "Jatorrizko neurria"
 msgid "Oriya"
 msgstr "Oriya"
 
+msgid "OS"
+msgstr "SE"
+
 msgid "Other"
 msgstr "Bestelakoa"
 
@@ -5983,6 +6217,9 @@ msgid "Other Application..."
 msgstr "Beste aplikazio bat..."
 
 msgid "Other Options"
+msgstr "Beste aukera batzuk"
+
+msgid "Other options"
 msgstr "Beste aukera batzuk"
 
 msgid "Others"
@@ -6126,6 +6363,9 @@ msgstr "Gurasoa"
 msgid "Partition"
 msgstr "Partizioa"
 
+msgid "Passphrase"
+msgstr "Pasaesaldia"
+
 msgid "Password"
 msgstr "Pasahitza"
 
@@ -6164,6 +6404,9 @@ msgstr "Bide-izenak"
 
 msgid "Pattern"
 msgstr "Eredua"
+
+msgid "_Pattern"
+msgstr "_Eredua"
 
 msgid "Patterns"
 msgstr "Ereduak"
@@ -6249,8 +6492,14 @@ msgstr "Filipinak"
 msgid "Phone"
 msgstr "Telefonoa"
 
+msgid "Phone Numbers"
+msgstr "Telefono zenbakiak"
+
 msgid "Photo"
 msgstr "Argazkia"
+
+msgid "Photos"
+msgstr "Argazkiak"
 
 msgid "PHP Documentation"
 msgstr "PHP dokumentazioa"
@@ -6272,6 +6521,9 @@ msgstr "PID"
 
 msgid "Pie"
 msgstr "Zirkularra"
+
+msgid "PIN"
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "Iltzatu"
@@ -6300,9 +6552,6 @@ msgstr "Testu arrunta"
 msgid "Plan"
 msgstr "Plan"
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Plataforma"
 
@@ -6321,8 +6570,14 @@ msgstr "Atzera-jo"
 msgid "Player"
 msgstr "Jokalaria"
 
+msgid "Player 1"
+msgstr "1. jokalaria"
+
 msgid "Player %1"
 msgstr "%1 jokalaria"
+
+msgid "Player 2"
+msgstr "2. jokalaria"
 
 msgid "Players"
 msgstr "Jokalariak"
@@ -6402,6 +6657,9 @@ msgstr "Ataka"
 msgid "&Port"
 msgstr "A&taka"
 
+msgid "_Port"
+msgstr "_Ataka"
+
 msgid "Portrait"
 msgstr "Erretratua"
 
@@ -6413,6 +6671,9 @@ msgstr "Portugesa"
 
 msgid "Position"
 msgstr "Kokapena"
+
+msgid "Postal code"
+msgstr "Posta-kodea"
 
 msgid "Posterize"
 msgstr "Posterizatu"
@@ -6455,6 +6716,9 @@ msgstr "Aurrebista"
 
 msgid "&Preview"
 msgstr "&Aurrebista"
+
+msgid "_Preview"
+msgstr "_Aurrebista"
 
 msgid "Previews"
 msgstr "Aurrebistak"
@@ -6537,6 +6801,9 @@ msgstr "Pribatutasuna"
 msgid "Private"
 msgstr "Pribatua"
 
+msgid "Private Key"
+msgstr "Gako pribatua"
+
 msgid "Process"
 msgstr "Prozesua"
 
@@ -6564,6 +6831,9 @@ msgstr "Profilak"
 msgid "Program"
 msgstr "Programa"
 
+msgid "Programs"
+msgstr "Programak"
+
 msgid "Progress"
 msgstr "Aurrerapena"
 
@@ -6572,6 +6842,9 @@ msgstr "Proiektua"
 
 msgid "&Project"
 msgstr "&Proiektua"
+
+msgid "Project name"
+msgstr "Proiektuaren izena"
 
 msgid "Projects"
 msgstr "Proiektuak"
@@ -6645,6 +6918,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "Qatar"
 
@@ -6700,6 +6976,9 @@ msgstr "Aplikazioa ixten du"
 msgid "Quote"
 msgstr "Aipua"
 
+msgid "Quotes"
+msgstr "Aipuak"
+
 msgid "R"
 msgstr "R"
 
@@ -6730,6 +7009,9 @@ msgstr "Tasa"
 msgid "Rating"
 msgstr "Balorazioa"
 
+msgid "Ratio"
+msgstr "Erlazioa"
+
 msgid "Raw"
 msgstr "Gordina"
 
@@ -6757,11 +7039,17 @@ msgstr "Prest"
 msgid "Ready."
 msgstr "Prest."
 
+msgid "Realm"
+msgstr "Esparrua"
+
 msgid "Reason"
 msgstr "Arrazoia"
 
 msgid "Reassign"
 msgstr "Berresleitu"
+
+msgid "Received"
+msgstr "Jasota"
 
 msgid "Recent"
 msgstr "Azken aldikoa"
@@ -6783,6 +7071,9 @@ msgstr "Grabatzea"
 
 msgid "Rectangle"
 msgstr "Laukizuzena"
+
+msgid "Recurrence"
+msgstr "Errepikapena"
 
 msgid "Recursive"
 msgstr "Errekurtsiboa"
@@ -6913,6 +7204,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Kentzen"
+
 msgid "Rename"
 msgstr "Berrizendatu"
 
@@ -6933,6 +7227,9 @@ msgstr "Berrizendatu laster-marka"
 
 msgid "Rename File"
 msgstr "Aldatu fitxategiaren izena"
+
+msgid "Rendering intent"
+msgstr "Errendatze-saiakera"
 
 msgid "Repeat"
 msgstr "Errepikatu"
@@ -6955,11 +7252,20 @@ msgstr "Ordeztu _denak"
 msgid "Replace an existing instance"
 msgstr "Ordezkatu aurrez dagoen instantzia bat"
 
+msgid "Replace With"
+msgstr "Ordeztu honekin"
+
+msgid "Replace with"
+msgstr "Ordeztu honekin"
+
 msgid "Replacement"
 msgstr "Ordezkapena"
 
 msgid "Reply"
 msgstr "Erantzun"
+
+msgid "Reply-To"
+msgstr "Erantzun honi"
 
 msgid "Report"
 msgstr "Txostena"
@@ -6978,6 +7284,9 @@ msgstr "&Akatsen berri eman..."
 
 msgid "Reports"
 msgstr "Txostenak"
+
+msgid "Repository"
+msgstr "Gordetegia"
 
 msgid "Required"
 msgstr "Beharrezkoa"
@@ -7090,6 +7399,9 @@ msgstr "Eskuinetik ezkerrera"
 msgid "Right-click"
 msgstr "Eskuineko klik"
 
+msgid "Rights"
+msgstr "Eskubideak"
+
 msgid "River"
 msgstr "Ibaia"
 
@@ -7144,6 +7456,9 @@ msgstr "errenkadak"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "Araua"
+
 msgid "Rules"
 msgstr "Arauak"
 
@@ -7152,6 +7467,9 @@ msgstr "Exekutatu"
 
 msgid "&Run"
 msgstr "&Exekutatu"
+
+msgid "Run command"
+msgstr "Exekutatu komandoa"
 
 msgid "Run in terminal"
 msgstr "Exekutatu terminalean"
@@ -7288,6 +7606,9 @@ msgstr "Gorde irudia"
 msgid "_Save Image As..."
 msgstr "Gorde _irudia honela…"
 
+msgid "Save Location"
+msgstr "Gorde kokalekua"
+
 msgid "Save Project"
 msgstr "Gorde proiektua"
 
@@ -7296,6 +7617,9 @@ msgstr "Gorde saioa"
 
 msgid "Save Settings"
 msgstr "Gorde ezarpenak"
+
+msgid "Save to"
+msgstr "Gorde hemen"
 
 msgid "Saved"
 msgstr "Gordeta"
@@ -7327,11 +7651,17 @@ msgstr "Eskaneatu"
 msgid "Scanner"
 msgstr "Eskanerra"
 
+msgid "Scanning"
+msgstr "Eskaneatzea"
+
 msgid "Scanning..."
 msgstr "Aztertzen..."
 
 msgid "Schedule"
 msgstr "Antolaketa"
+
+msgid "Scheduler"
+msgstr "Antolatzailea"
 
 msgid "Scheduling"
 msgstr "Antolaketa"
@@ -7408,11 +7738,17 @@ msgstr "Bilatu..."
 msgid "Search Bar"
 msgstr "Bilaketa-barra"
 
+msgid "Search for"
+msgstr "Bilatu"
+
 msgid "_Search for"
 msgstr "_Bilatu hau"
 
 msgid "Search for '%1' with"
 msgstr "Bilatu '%1' honekin"
+
+msgid "Search in"
+msgstr "Bilatu hemen"
 
 msgid "Search Options"
 msgstr "Bilaketaren aukerak"
@@ -7516,6 +7852,9 @@ msgstr "Hautapena"
 msgid "Selections"
 msgstr "Hautapenak"
 
+msgid "Self"
+msgstr "Propioa"
+
 msgid "Semicolon"
 msgstr "Puntu eta koma"
 
@@ -7555,6 +7894,9 @@ msgstr "Serbia"
 msgid "Serbian"
 msgstr "Serbiera"
 
+msgid "Serial"
+msgstr "Seriekoa"
+
 msgid "Serial Number"
 msgstr "Serie-zenbakia"
 
@@ -7570,8 +7912,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "Zerbitzaria"
 
+msgid "&Server"
+msgstr "&Zerbitzaria"
+
 msgid "Server URL"
 msgstr "Zerbitzariaren URLa"
+
+msgid "Servers"
+msgstr "Zerbitzariak"
 
 msgid "Service"
 msgstr "Zerbitzua"
@@ -7584,6 +7932,9 @@ msgstr "Saioa"
 
 msgid "Session management options"
 msgstr ""
+
+msgid "Session name"
+msgstr "Saioaren izena"
 
 msgid "Sessions"
 msgstr "Saioak"
@@ -7614,6 +7965,12 @@ msgstr "Larritasuna"
 
 msgid "Seychelles"
 msgstr "Seychelleak"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr "SHA-256"
@@ -7653,6 +8010,12 @@ msgstr "Araztasuna"
 
 msgid "Shear"
 msgstr "Zizailatu"
+
+msgid "Sheet"
+msgstr "Orria"
+
+msgid "Sheets"
+msgstr "Orriak"
 
 msgid "Shell"
 msgstr "Oskola"
@@ -7774,6 +8137,9 @@ msgstr "Bakuna"
 msgid "Sinhala"
 msgstr "Sinhala"
 
+msgid "Site"
+msgstr "Gunea"
+
 msgid "Size"
 msgstr "Neurria"
 
@@ -7782,6 +8148,9 @@ msgstr "tamaina"
 
 msgid "&Size"
 msgstr "&Neurria"
+
+msgid "_Size"
+msgstr "_Tamaina"
 
 msgid "Size: %1"
 msgstr "Neurria: %1"
@@ -7809,6 +8178,9 @@ msgstr "Graduatzailea"
 
 msgid "Slideshow"
 msgstr "Diapositiba emanaldia"
+
+msgid "Slope"
+msgstr "Malda"
 
 msgid "Slovak"
 msgstr "Eslovakiera"
@@ -7864,6 +8236,12 @@ msgstr "Kolore lisoa"
 msgid "Solomon Islands"
 msgstr "Salomon Uharteak"
 
+msgid "Solution"
+msgstr "Soluzioa"
+
+msgid "Solve"
+msgstr "Ebatzi"
+
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -7881,6 +8259,9 @@ msgstr "Sailkatzea"
 
 msgid "Sound"
 msgstr "Soinua"
+
+msgid "Sounds"
+msgstr "Soinuak"
 
 msgid "Soundtrack"
 msgstr "Soinu-banda"
@@ -7950,6 +8331,9 @@ msgstr "Ortografia zuzenketa"
 
 msgid "Spell Checking"
 msgstr "Ortografia-azterketa"
+
+msgid "Spellcheck"
+msgstr "Ortografia-egiaztapena"
 
 msgid "Spelling"
 msgstr "Ortografia"
@@ -8188,6 +8572,9 @@ msgstr "Sundanera"
 msgid "Sunday"
 msgstr "Igandea"
 
+msgid "Sunrise"
+msgstr "Egunsentia"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8244,6 +8631,9 @@ msgstr "Sinkronizatzea"
 
 msgid "Synchronize"
 msgstr "Sinkronizatu"
+
+msgid "Syntax"
+msgstr "Sintaxia"
 
 msgid "Syriac"
 msgstr "Siriera"
@@ -8307,6 +8697,9 @@ msgstr "Tanzania"
 
 msgid "Target"
 msgstr "Jomuga"
+
+msgid "Targets"
+msgstr "Helburuak"
 
 msgid "Task"
 msgstr "Ataza"
@@ -8421,6 +8814,9 @@ msgstr "NetworkManager aplikazioaren garatzaileak"
 msgid "Theme"
 msgstr "Gaia"
 
+msgid "&Theme"
+msgstr "&Gaia"
+
 msgid "Themes"
 msgstr "Gaiak"
 
@@ -8441,6 +8837,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "Hariak"
 
 msgid "Threshold"
 msgstr "Atalasea"
@@ -8468,6 +8867,9 @@ msgstr "Lauza"
 
 msgid "Tiled"
 msgstr "Teilakatuta"
+
+msgid "Tiles"
+msgstr "Fitxak"
 
 msgid "Tilt"
 msgstr "Okerdura"
@@ -8517,6 +8919,9 @@ msgstr "&Titulua"
 msgid "_Title"
 msgstr "_Titulua"
 
+msgid "Titles"
+msgstr "Tituluak"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8539,6 +8944,9 @@ msgid "TODO"
 msgstr "EGITEKO"
 
 msgid "Todo"
+msgstr "Zeregina"
+
+msgid "To-do"
 msgstr "Zeregina"
 
 msgid "Toggle Fullscreen"
@@ -8571,6 +8979,9 @@ msgstr "Tresna"
 msgid "Tool Options"
 msgstr "Tresna-aukerak"
 
+msgid "Toolbar"
+msgstr "Tresna-barra"
+
 msgid "_Toolbar"
 msgstr "_Tresna-barra"
 
@@ -8591,6 +9002,9 @@ msgstr "&Tresnak"
 
 msgid "_Tools"
 msgstr "_Tresnak"
+
+msgid "Tooltip"
+msgstr "Argibidea"
 
 msgid "Top"
 msgstr "Goian"
@@ -8742,11 +9156,17 @@ msgstr "mota"
 msgid "&Type"
 msgstr "&Mota"
 
+msgid "_Type"
+msgstr "_Mota"
+
 msgid "Type: %1"
 msgstr "Mota: %1"
 
 msgid "Uganda"
 msgstr "Uganda"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "Ukraina"
@@ -8979,6 +9399,9 @@ msgstr "Erabilita"
 msgid "User"
 msgstr "Erabiltzailea"
 
+msgid "User Agent"
+msgstr "Erabiltzaile-agentea"
+
 msgid "User Certificate"
 msgstr "Erabiltzaile-ziurtagiria"
 
@@ -9003,11 +9426,17 @@ msgstr "Erabiltzailearen pasahitza"
 msgid "Username"
 msgstr "Erabiltzaile-izena"
 
+msgid "&Username"
+msgstr "&Erabiltzaile-izena"
+
 msgid "_Username"
 msgstr "_Erabiltzaile-izena:"
 
 msgid "Users"
 msgstr "Erabiltzaileak"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Baliagarritasunak"
@@ -9029,6 +9458,9 @@ msgstr "Balioduna"
 
 msgid "Valid from"
 msgstr "Noiztik balio du"
+
+msgid "Valid until"
+msgstr "Baliotasun-aldiaren amaiera"
 
 msgid "Validity"
 msgstr "Baliozkotasuna"
@@ -9064,6 +9496,9 @@ msgstr "Aldagaiak"
 msgid "Variance"
 msgstr "Bariantza"
 
+msgid "Variant"
+msgstr "Aldaera"
+
 msgid "Vector"
 msgstr "Bektorea"
 
@@ -9090,6 +9525,9 @@ msgstr "%1 bertsioa"
 
 msgid "Vertical"
 msgstr "Bertikala"
+
+msgid "_Vertical"
+msgstr "_Bertikala"
 
 msgid "Very Large"
 msgstr "Oso handia"
@@ -9123,6 +9561,9 @@ msgstr "&Ikuspegia"
 
 msgid "_View"
 msgstr "_Ikusi"
+
+msgid "View mode"
+msgstr "Ikuspegi modua"
 
 msgid "View Options"
 msgstr "Ikuspegi aukerak"
@@ -9283,6 +9724,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
+msgid "Wind"
+msgstr "Haizea"
+
 msgid "Window"
 msgstr "Leihoa"
 
@@ -9325,11 +9769,17 @@ msgstr "Hitza"
 msgid "Word Count"
 msgstr "Hitz zenbaketa"
 
+msgid "Word wrap"
+msgstr "Itzulbira"
+
 msgid "Words"
 msgstr "Hitzak"
 
 msgid "Work"
 msgstr "Lana"
+
+msgid "Workspace"
+msgstr "Langunea"
 
 msgid "World"
 msgstr "Mundua"
@@ -9369,6 +9819,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Urtea"
+
+msgid "&Year"
+msgstr "&Urtea"
 
 msgid "Yearly"
 msgstr "Urtero"
@@ -9429,6 +9882,9 @@ msgstr "&Zooma"
 
 msgid "_Zoom"
 msgstr "_Zooma"
+
+msgid "Zoom factor"
+msgstr "Zoom-faktorea"
 
 msgid "Zoom In"
 msgstr "Zooma gerturatu"

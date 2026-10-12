@@ -82,9 +82,6 @@ msgstr " và "
 msgid " (default)"
 msgstr ""
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr " MB"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr "a*"
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "Tệp tên « %1 » đã có. Bạn có chắc muốn ghi đè lên nó không?"
 
@@ -355,16 +355,19 @@ msgstr "_Giới thiệu"
 msgid "About %1"
 msgstr "Về %1"
 
-msgid "About KDE"
-msgstr "Về KDE"
-
 msgid "Abstract"
 msgstr "Trích yếu"
+
+msgid "Acceleration"
+msgstr ""
 
 msgid "Accept"
 msgstr "Chấp nhận"
 
 msgid "Accepted"
+msgstr ""
+
+msgid "Access"
 msgstr ""
 
 msgid "Accessed"
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr ""
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "Theo bảng chữ cái"
 msgid "Alt"
 msgstr "Alt"
 
+msgid "Alternate"
+msgstr "Thay thế"
+
 msgid "Alternative"
 msgstr "Thay thế"
 
@@ -712,8 +721,14 @@ msgstr "Chú thích"
 msgid "Anonymous"
 msgstr "Vô danh"
 
+msgid "Answer"
+msgstr ""
+
 msgid "Antarctica"
 msgstr "Nam Cực"
+
+msgid "Antialiasing"
+msgstr "Khử răng cưa"
 
 msgid "Any"
 msgstr "Bất kỳ"
@@ -883,6 +898,9 @@ msgstr "Cần xác thực"
 msgid "Author"
 msgstr "Tác giả"
 
+msgid "Author name"
+msgstr "Tên tác giả"
+
 msgid "Authors"
 msgstr "Tác giả"
 
@@ -928,6 +946,9 @@ msgstr "Tiếng Azerbaijan"
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr "b*"
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "&Lùi"
 msgid "_Back"
 msgstr "Kế t_rước"
 
+msgid "Backend"
+msgstr ""
+
 msgid "Background"
 msgstr "Nền"
+
+msgid "&Background"
+msgstr "Nền (&b)"
 
 msgid "Background Color"
 msgstr "Màu nền"
@@ -951,6 +978,9 @@ msgstr "Màu nền"
 
 msgid "&Background color"
 msgstr "Mà&u nền"
+
+msgid "Background image"
+msgstr "Ảnh nền"
 
 msgid "Backspace"
 msgstr "Backspace"
@@ -972,6 +1002,9 @@ msgstr "Cân bằng"
 
 msgid "Baltic"
 msgstr "Ban-tích"
+
+msgid "Bandwidth"
+msgstr "Băng thông"
 
 msgid "Bangladesh"
 msgstr "Băng-la-đét"
@@ -999,6 +1032,9 @@ msgstr ""
 
 msgid "Battery"
 msgstr "Pin"
+
+msgid "BCC"
+msgstr ""
 
 msgid "Bcc"
 msgstr ""
@@ -1156,23 +1192,8 @@ msgstr "Nhánh"
 msgid "Brazil"
 msgstr "Bra-xin"
 
-msgid "Breeze"
-msgstr "Breeze"
-
-msgid "Breeze by the KDE VDG"
-msgstr "Breeze, do KDE VDG"
-
-msgid "Breeze Dark"
-msgstr "Breeze Tối"
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr "Breeze Tối, do KDE VDG"
-
 msgid "Breton"
 msgstr "Tiếng Breton"
-
-msgid "Brian Croom"
-msgstr ""
 
 msgid "Bridge"
 msgstr "Bridge"
@@ -1309,18 +1330,6 @@ msgstr "H&uỷ"
 msgid "Canceled"
 msgstr "Bị thôi"
 
-msgid "Cancelled"
-msgstr "Đã hủy"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "Không thể chuyển URI tài liệu cho mục desktop 'Type=Link'"
-
 msgid "Canvas"
 msgstr "Vùng vẽ"
 
@@ -1339,14 +1348,14 @@ msgstr "Viết hoa đầu"
 msgid "Caps Lock is on"
 msgstr ""
 
+msgid "Caption"
+msgstr "Phụ đề"
+
 msgid "Capture"
 msgstr "Bắt"
 
 msgid "Car"
 msgstr "Xe"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "Cascade"
@@ -1435,6 +1444,9 @@ msgstr "Đổi..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "Kênh"
 
@@ -1452,6 +1464,9 @@ msgstr ""
 
 msgid "Character"
 msgstr "Kí tự"
+
+msgid "Character set"
+msgstr "Bộ ký tự"
 
 msgid "Characters"
 msgstr ""
@@ -1684,6 +1699,9 @@ msgstr "Lược đồ màu"
 msgid "Color Space"
 msgstr ""
 
+msgid "Color space"
+msgstr "Miền màu"
+
 msgid "Color theme"
 msgstr "Chủ đề màu"
 
@@ -1705,14 +1723,8 @@ msgstr "Cột"
 msgid "Comma"
 msgstr "Dấu phẩy"
 
-msgid "COMMAND"
-msgstr "LỆNH"
-
 msgid "Command"
 msgstr "Lệnh"
-
-msgid "command"
-msgstr "lệnh"
 
 msgid "Command Line"
 msgstr "Dòng lệnh"
@@ -1726,6 +1738,9 @@ msgstr "Lệnh"
 msgid "Comment"
 msgstr "Chú thích"
 
+msgid "comment"
+msgstr "bình luận"
+
 msgid "Comments"
 msgstr "Ghi chú "
 
@@ -1735,11 +1750,17 @@ msgstr "Chuyển giao"
 msgid "Common"
 msgstr "Chung"
 
+msgid "Common Name"
+msgstr "Tên chung"
+
 msgid "Comoros"
 msgstr "Comoros"
 
 msgid "Compact"
 msgstr "Gọn"
+
+msgid "Company"
+msgstr "Công ty"
 
 msgid "Compare"
 msgstr "So sánh"
@@ -1777,6 +1798,9 @@ msgstr "Máy tính"
 msgid "Condition"
 msgstr "Điều kiện"
 
+msgid "Conditions"
+msgstr "Hoàn cảnh"
+
 msgid "Confidential"
 msgstr "Mật"
 
@@ -1807,6 +1831,9 @@ msgstr ""
 msgid "Confirm"
 msgstr "Xác nhận"
 
+msgid "Confirm Password"
+msgstr ""
+
 msgid "Confirmation"
 msgstr "Xác nhận"
 
@@ -1818,6 +1845,9 @@ msgstr ""
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Xung đột với phím tắt ứng dụng tiêu chuẩn"
+
+msgid "Conflicts"
+msgstr "Xung đột"
 
 msgid "Connect"
 msgstr "Kết nối"
@@ -1843,6 +1873,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr ""
 
+msgid "Connection type"
+msgstr "Loại kết nối"
+
 msgid "Connections"
 msgstr "Kết nối"
 
@@ -1851,9 +1884,6 @@ msgstr "Hộp Lệnh"
 
 msgid "Constant"
 msgstr "Hằng"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr ""
@@ -1867,14 +1897,14 @@ msgstr "Thùng chứa"
 msgid "Contains"
 msgstr "Chứa"
 
-msgid "contains"
-msgstr "chứa"
-
 msgid "Content"
 msgstr "Nội dung"
 
 msgid "Content Type"
 msgstr ""
+
+msgid "Content type"
+msgstr "Kiểu nội dung"
 
 msgid "Contents"
 msgstr "Nội dung"
@@ -1897,11 +1927,17 @@ msgstr "Độ tương phản"
 msgid "Contributor"
 msgstr "Người đóng góp"
 
+msgid "Contributors"
+msgstr "Người đóng góp"
+
 msgid "Control"
 msgstr "Điều khiển"
 
 msgid "Convert"
 msgstr "Chuyển đổi"
+
+msgid "Convert to"
+msgstr "Chuyển đổi sang"
 
 msgid "Convert to Path"
 msgstr ""
@@ -1920,9 +1956,6 @@ msgstr "Chữ Copt"
 
 msgid "Copy"
 msgstr "Chép"
-
-msgid "copy"
-msgstr "bản sao"
 
 msgid "&Copy"
 msgstr "&Chép"
@@ -1975,6 +2008,9 @@ msgstr "Đang chép tập tin"
 msgid "Copyright"
 msgstr "Bản quyền"
 
+msgid "Correct"
+msgstr "Đúng"
+
 msgid "Cost"
 msgstr ""
 
@@ -1998,6 +2034,9 @@ msgstr "Quốc gia"
 
 msgid "CPU"
 msgstr "CPU"
+
+msgid "CPU usage"
+msgstr "Dùng CPU"
 
 msgid "Create"
 msgstr "Tạo"
@@ -2026,6 +2065,9 @@ msgstr "Người tạo"
 msgid "Credentials"
 msgstr ""
 
+msgid "Credit"
+msgstr "Công trạng"
+
 msgid "Credits"
 msgstr "Ghi nhận"
 
@@ -2052,15 +2094,6 @@ msgstr "Chữ thập"
 
 msgid "CSV"
 msgstr "CSV"
-
-msgid "Ctrl"
-msgstr "Ctrl"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
-msgstr ""
 
 msgid "Cuba"
 msgstr "Cuba"
@@ -2089,8 +2122,14 @@ msgstr "Đường cong màu"
 msgid "Custom"
 msgstr "Tự chọn"
 
+msgid "&Custom"
+msgstr "&Tự đặt"
+
 msgid "Custom..."
 msgstr "Tự chọn..."
+
+msgid "Custom color"
+msgstr "Màu tự chọn"
 
 msgid "Custom Font"
 msgstr "Phông chữ tự chọn"
@@ -2164,6 +2203,9 @@ msgstr "Dữ liệu"
 msgid "Database"
 msgstr "Cơ sở dữ liệu"
 
+msgid "Database name"
+msgstr "Tên cơ sở dữ liệu"
+
 msgid "Date"
 msgstr "Ngày"
 
@@ -2179,14 +2221,20 @@ msgstr "Ngày giờ"
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr "Dạng ngày"
+
 msgid "Date Modified"
 msgstr ""
 
-msgid "David Edmundson"
-msgstr "David Edmundson"
+msgid "Date/Time"
+msgstr "Ngày/Giờ"
 
 msgid "Day"
 msgstr "Ngày"
+
+msgid "day"
+msgstr "ngày"
 
 msgid "Days"
 msgstr ""
@@ -2235,6 +2283,9 @@ msgstr "Mặc định"
 
 msgid "default"
 msgstr "mặc định"
+
+msgid "Default value"
+msgstr "Giá trị mặc định"
 
 msgid "Defaults"
 msgstr "Mặc định"
@@ -2311,6 +2362,9 @@ msgstr "Mật độ"
 msgid "Deny"
 msgstr "Từ chối"
 
+msgid "Department"
+msgstr ""
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2343,6 +2397,12 @@ msgstr "Bàn làm việc"
 
 msgid "Destination"
 msgstr "Đích"
+
+msgid "Destination Folder"
+msgstr ""
+
+msgid "Destination folder"
+msgstr ""
 
 msgid "Detach"
 msgstr "Tách rời"
@@ -2515,6 +2575,9 @@ msgstr "Phân rã"
 msgid "Distance"
 msgstr "Khoảng cách"
 
+msgid "Distribution"
+msgstr ""
+
 msgid "Divide"
 msgstr "Chia"
 
@@ -2569,11 +2632,11 @@ msgstr "Tài liệu"
 msgid "does not contain"
 msgstr "không chứa"
 
-msgid "Dolphin"
-msgstr "Dolphin"
-
 msgid "Domain"
 msgstr "Miền"
+
+msgid "_Domain"
+msgstr "_Miền"
 
 msgid "Dominica"
 msgstr "Dominica"
@@ -2677,6 +2740,9 @@ msgstr "DVD+RW"
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
+msgid "Dynamic"
+msgstr "Động"
+
 msgid "E"
 msgstr "Đ"
 
@@ -2728,6 +2794,9 @@ msgstr "Chỉnh sửa Ảnh"
 msgid "Editing"
 msgstr "Sửa"
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "Biên tập"
 
@@ -2743,9 +2812,6 @@ msgstr "Ai Cập"
 msgid "Egyptian"
 msgstr ""
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "Đẩy ra"
 
@@ -2755,17 +2821,29 @@ msgstr "Đẩy _ra"
 msgid "El Salvador"
 msgstr "El Salvador"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr ""
 
 msgid "Element"
 msgstr "Phần tử"
 
+msgid "Elements"
+msgstr ""
+
 msgid "Ellipse"
 msgstr "Hình bầu dục"
 
+msgid "EMail"
+msgstr "Thư điện tử"
+
 msgid "Email"
 msgstr "Thư điện tử"
+
+msgid "E-Mail"
+msgstr "Thư"
 
 msgid "E-mail"
 msgstr "Thư"
@@ -2845,6 +2923,9 @@ msgstr "end"
 msgid "End Date"
 msgstr ""
 
+msgid "End date"
+msgstr ""
+
 msgid "End Time"
 msgstr ""
 
@@ -2866,8 +2947,14 @@ msgstr "Tiếng Anh"
 msgid "Enter"
 msgstr "Enter"
 
+msgid "Enter name"
+msgstr "Nhập tên"
+
 msgid "Enter password"
 msgstr "Nhập mật khẩu"
+
+msgid "Entries"
+msgstr "Mục"
 
 msgid "Entry"
 msgstr "Mục"
@@ -2941,6 +3028,9 @@ msgstr "Sự kiện"
 msgid "Events"
 msgstr "Sự kiện"
 
+msgid "Every"
+msgstr ""
+
 msgid "Everyone"
 msgstr "Mọi người"
 
@@ -2957,6 +3047,9 @@ msgid "Examples"
 msgstr ""
 
 msgid "Exception"
+msgstr ""
+
+msgid "Exceptions"
 msgstr ""
 
 msgid "Exclude"
@@ -2992,11 +3085,17 @@ msgstr "Mở rộng tất cả"
 msgid "Experimental"
 msgstr "Thử nghiệm"
 
+msgid "Expiration"
+msgstr ""
+
 msgid "Expired"
 msgstr "Hết hạn"
 
 msgid "Expires"
 msgstr "Hết hạn"
+
+msgid "Expires On"
+msgstr "Hết hạn vào"
 
 msgid "Export"
 msgstr "Xuất"
@@ -3031,6 +3130,9 @@ msgstr "Tùy chọn xuất"
 msgid "Exposure"
 msgstr "Phơi sáng"
 
+msgid "Exposure Time"
+msgstr ""
+
 msgid "Expression"
 msgstr "Biểu thức"
 
@@ -3051,6 +3153,9 @@ msgstr "Giải nén"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "Fabric"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3109,6 +3214,12 @@ msgstr ""
 msgid "Fetch"
 msgstr ""
 
+msgid "Field"
+msgstr "Trường"
+
+msgid "Fields"
+msgstr ""
+
 msgid "Fiji"
 msgstr "Fiji"
 
@@ -3141,6 +3252,9 @@ msgstr "Tập tin đã có"
 
 msgid "File Format"
 msgstr "Định dạng tệp"
+
+msgid "File format"
+msgstr ""
 
 msgid "File is not a valid .desktop file"
 msgstr "Không phải tập tin .desktop hợp lệ"
@@ -3201,6 +3315,9 @@ msgstr "Màu lấp đầy"
 
 msgid "Filter"
 msgstr "Lọc"
+
+msgid "&Filter"
+msgstr "&Lọc"
 
 msgid "Filter..."
 msgstr "Lọc..."
@@ -3265,6 +3382,9 @@ msgstr "Tiếng Phần Lan"
 msgid "First"
 msgstr ""
 
+msgid "First Name"
+msgstr "Tên"
+
 msgid "First Page"
 msgstr "Trang đầu"
 
@@ -3325,6 +3445,9 @@ msgstr ""
 msgid "Focal Length"
 msgstr "Tiêu cự"
 
+msgid "Focal length"
+msgstr "Chiều dài tiêu cự"
+
 msgid "Focus"
 msgstr "Nhắm"
 
@@ -3346,6 +3469,9 @@ msgstr "Phông chữ"
 msgid "&Font"
 msgstr "&Phông chữ"
 
+msgid "_Font"
+msgstr "_Phông"
+
 msgid "Font Color"
 msgstr ""
 
@@ -3357,6 +3483,12 @@ msgstr "Cỡ chữ"
 
 msgid "Font size"
 msgstr "Cỡ phông"
+
+msgid "Font Style"
+msgstr ""
+
+msgid "Font style"
+msgstr "Kiểu cách phông chữ"
 
 msgid "Fonts"
 msgstr "Phông chữ"
@@ -3394,6 +3526,12 @@ msgstr "Mẫu"
 msgid "Format"
 msgstr "Định dạng"
 
+msgid "&Format"
+msgstr "Định &dạng"
+
+msgid "_Format"
+msgstr "Định _dạng"
+
 msgid "Formatting"
 msgstr "Định dạng"
 
@@ -3420,6 +3558,12 @@ msgstr "Phân số"
 
 msgid "Frame"
 msgstr "Khung"
+
+msgid "Frame Rate"
+msgstr "Tốc độ khung hình"
+
+msgid "Frame rate"
+msgstr ""
 
 msgid "Framerate"
 msgstr "Tốc độ hình"
@@ -3465,6 +3609,9 @@ msgstr "Đầy đủ"
 
 msgid "Full Name"
 msgstr "Tên đầy đủ"
+
+msgid "Full name"
+msgstr "Họ tên"
 
 msgid "Full Screen"
 msgstr "Toàn màn hình"
@@ -3531,6 +3678,9 @@ msgstr "Cổng"
 
 msgid "Gateway"
 msgstr "Cổng ra"
+
+msgid "_Gateway"
+msgstr "Cổn_g ra"
 
 msgid "Gaussian Blur"
 msgstr "Cảnh mờ kiểu Gauss"
@@ -3652,6 +3802,9 @@ msgstr "Quay về trang kế trước"
 msgid "Goa"
 msgstr ""
 
+msgid "Goal"
+msgstr "Mục đích"
+
 msgid "Gold"
 msgstr ""
 
@@ -3706,6 +3859,9 @@ msgstr ""
 msgid "Grid"
 msgstr "Lưới"
 
+msgid "&Grid"
+msgstr "&Lưới"
+
 msgid "Group"
 msgstr "Nhóm"
 
@@ -3751,6 +3907,9 @@ msgstr "Cứng"
 msgid "Hardware"
 msgstr "Phần cứng"
 
+msgid "Hash"
+msgstr ""
+
 msgid "Hawaiian"
 msgstr ""
 
@@ -3792,6 +3951,9 @@ msgstr "Cao"
 
 msgid "&Height"
 msgstr "&Cao "
+
+msgid "_Height"
+msgstr "_Cao"
 
 msgid "Help"
 msgstr "Trợ giúp"
@@ -3837,6 +3999,9 @@ msgstr "Cao"
 
 msgid "Highlight"
 msgstr "Tô sáng"
+
+msgid "Highlight color"
+msgstr ""
 
 msgid "Highlighter"
 msgstr "Tô sáng"
@@ -3889,8 +4054,17 @@ msgstr "Hồng Công"
 msgid "Horizontal"
 msgstr "Ngang"
 
+msgid "_Horizontal"
+msgstr "_Ngang"
+
+msgid "Horizontally"
+msgstr ""
+
 msgid "Host"
 msgstr "Máy"
+
+msgid "Host Name"
+msgstr ""
 
 msgid "Hostname"
 msgstr "Tên máy"
@@ -3970,6 +4144,9 @@ msgstr ""
 msgid "id"
 msgstr "id"
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr "Định danh"
 
@@ -4023,6 +4200,12 @@ msgstr "Cài đặt ảnh"
 
 msgid "Image Size"
 msgstr "Cỡ ảnh"
+
+msgid "Image size"
+msgstr "Cỡ ảnh"
+
+msgid "Image type"
+msgstr "Kiểu ảnh"
 
 msgid "Image Viewer"
 msgstr "Bộ xem ảnh"
@@ -4099,6 +4282,9 @@ msgstr "Tăng thụt lề"
 msgid "Increase Volume"
 msgstr "Tăng Âm lượng"
 
+msgid "Increment"
+msgstr "Tăng"
+
 msgid "Incremental"
 msgstr "Tăng dần"
 
@@ -4110,6 +4296,9 @@ msgstr "Chỉ mục"
 
 msgid "Indexed"
 msgstr "Đánh chỉ số"
+
+msgid "Indexing"
+msgstr "Lập chỉ mục"
 
 msgid "India"
 msgstr "Ấn Độ"
@@ -4173,6 +4362,9 @@ msgstr "Đang cài đặt"
 
 msgid "Instant"
 msgstr "Lập tức"
+
+msgid "Instructions"
+msgstr ""
 
 msgid "Integer"
 msgstr "Số nguyên"
@@ -4261,11 +4453,17 @@ msgstr "Tiếng Ai-len"
 msgid "is"
 msgstr "là"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "Israel"
 
 msgid "Issued By"
 msgstr "Cấp bởi"
+
+msgid "Issued On"
+msgstr "Cấp vào"
 
 msgid "Issuer"
 msgstr "Bên cấp"
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "Chữ Kannada"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "Tiếng Kazakh"
 
@@ -4374,18 +4569,6 @@ msgstr "Ka-da-ki-x-thăn"
 
 msgid "kB"
 msgstr "kB"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
-msgstr ""
 
 msgid "Keep"
 msgstr ""
@@ -4450,26 +4633,11 @@ msgstr "Kiribati"
 msgid "km"
 msgstr "cây số"
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "Tiếng Hàn Quốc"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "Cu-ouai-th"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr ""
@@ -4488,6 +4656,9 @@ msgstr "Nằm ngang"
 
 msgid "Language"
 msgstr "Ngôn ngữ"
+
+msgid "&Language"
+msgstr "&Ngôn ngữ"
 
 msgid "_Language"
 msgstr "_Ngôn ngữ"
@@ -4509,6 +4680,12 @@ msgstr "Cuối"
 
 msgid "Last Modified"
 msgstr "Sửa đổi cuối cùng"
+
+msgid "Last modified"
+msgstr "Lần sửa cuối"
+
+msgid "Last Name"
+msgstr "Họ"
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4621,8 +4798,20 @@ msgstr "Ngắt dòng"
 msgid "Line Color"
 msgstr ""
 
+msgid "Line Count"
+msgstr "Số dòng"
+
 msgid "Line Numbers"
 msgstr "Số thứ tự dòng"
+
+msgid "Line spacing"
+msgstr "Khoảng cách giữa các dòng"
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "Kiểu dòng"
 
 msgid "Line Width"
 msgstr ""
@@ -4641,6 +4830,9 @@ msgstr "Liên kết"
 
 msgid "link"
 msgstr "liên kết"
+
+msgid "Link Text"
+msgstr "Chữ của liên kết"
 
 msgid "Link URL"
 msgstr "URL của liên kết"
@@ -4740,6 +4932,9 @@ msgstr "Đăng nhập"
 
 msgid "_Login"
 msgstr "Đăn_g nhập"
+
+msgid "Logo"
+msgstr "Biểu hình"
 
 msgid "Logout"
 msgstr "Đăng xuất"
@@ -4936,6 +5131,9 @@ msgstr "Phóng to"
 msgid "Maximum"
 msgstr "Tối đa"
 
+msgid "Maximum width"
+msgstr "Độ rộng tối đa"
+
 msgid "May"
 msgstr "Tháng Năm"
 
@@ -4990,6 +5188,9 @@ msgstr "Thông điệp"
 msgid "message"
 msgstr ""
 
+msgid "&Message"
+msgstr ""
+
 msgid "Messages"
 msgstr "Thư"
 
@@ -5001,6 +5202,9 @@ msgstr "Siêu dữ liệu"
 
 msgid "Metal"
 msgstr ""
+
+msgid "Metering Mode"
+msgstr "Chế độ đo"
 
 msgid "meters"
 msgstr "mét"
@@ -5040,6 +5244,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr "mili giây"
+
+msgid "MIME type"
+msgstr "Kiểu MIME"
 
 msgid "Min"
 msgstr "Cực"
@@ -5086,8 +5293,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "Mobile"
 
+msgid "Mobile Phone"
+msgstr "Điện thoại di động"
+
 msgid "Mode"
 msgstr "Chế độ"
+
+msgid "_Mode"
+msgstr "_Chế độ"
 
 msgid "Model"
 msgstr "Mô hình"
@@ -5184,6 +5397,9 @@ msgstr "Ma Rốc"
 
 msgid "Mount"
 msgstr "Gắn kết"
+
+msgid "Mount Point"
+msgstr "Điểm gắn kết"
 
 msgid "Mount point"
 msgstr "Điểm gắn"
@@ -5323,6 +5539,9 @@ msgstr "_Tên"
 msgid "Name: %1"
 msgstr ""
 
+msgid "Names"
+msgstr ""
+
 msgid "Namespace"
 msgstr "Miền tên"
 
@@ -5352,6 +5571,9 @@ msgstr "Tiếng Nê-pan"
 
 msgid "Netherlands"
 msgstr "Hà Lan"
+
+msgid "Netmask"
+msgstr "Mặt nạ mạng"
 
 msgid "Network"
 msgstr "Mạng"
@@ -5563,6 +5785,9 @@ msgstr ""
 msgid "No VPN configuration options."
 msgstr "Không có các tùy chỉnh cấu hình VPN."
 
+msgid "Node"
+msgstr "Nút"
+
 msgid "Noise"
 msgstr "Nhiễu"
 
@@ -5689,6 +5914,9 @@ msgstr "số"
 msgid "Number of columns"
 msgstr "Số cột"
 
+msgid "Number of rows"
+msgstr ""
+
 msgid "Numbers"
 msgstr "Số"
 
@@ -5745,9 +5973,6 @@ msgstr "&OK"
 
 msgid "_OK"
 msgstr "Đồn_g ý"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "Ô-man"
@@ -5899,6 +6124,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr "Hệ điều hành"
+
 msgid "Operation"
 msgstr ""
 
@@ -5910,6 +6138,9 @@ msgstr "Thao tác"
 
 msgid "Operator"
 msgstr "Toán tử"
+
+msgid "Operators"
+msgstr ""
 
 msgid "Optical Character Recognition"
 msgstr "Nhận dạng kí tự quang học"
@@ -5968,6 +6199,9 @@ msgstr "Kích thước ban đầu"
 msgid "Oriya"
 msgstr "Chữ Oriya"
 
+msgid "OS"
+msgstr "HĐH"
+
 msgid "Other"
 msgstr "Khác"
 
@@ -5982,6 +6216,9 @@ msgstr ""
 
 msgid "Other Options"
 msgstr "Các tùy chọn khác"
+
+msgid "Other options"
+msgstr ""
 
 msgid "Others"
 msgstr "Khác"
@@ -6124,6 +6361,9 @@ msgstr "Cha"
 msgid "Partition"
 msgstr "Phân vùng"
 
+msgid "Passphrase"
+msgstr "Cụm từ mật khẩu"
+
 msgid "Password"
 msgstr "Mật khẩu"
 
@@ -6162,6 +6402,9 @@ msgstr "Đường dẫn"
 
 msgid "Pattern"
 msgstr "Mẫu"
+
+msgid "_Pattern"
+msgstr "_Mẫu"
 
 msgid "Patterns"
 msgstr "Dạng mẫu"
@@ -6247,7 +6490,13 @@ msgstr "Phi-li-pin"
 msgid "Phone"
 msgstr "Điện thoại"
 
+msgid "Phone Numbers"
+msgstr "Số điện thoại"
+
 msgid "Photo"
+msgstr "Ảnh"
+
+msgid "Photos"
 msgstr "Ảnh"
 
 msgid "PHP Documentation"
@@ -6270,6 +6519,9 @@ msgstr ""
 
 msgid "Pie"
 msgstr "Bánh"
+
+msgid "PIN"
+msgstr ""
 
 msgid "Pin"
 msgstr "Ghim"
@@ -6298,9 +6550,6 @@ msgstr "Văn bản Thường"
 msgid "Plan"
 msgstr ""
 
-msgid "Plasma"
-msgstr "Plasma"
-
 msgid "Platform"
 msgstr "Nền tảng"
 
@@ -6319,7 +6568,13 @@ msgstr "Phát lại"
 msgid "Player"
 msgstr "Trình phát"
 
+msgid "Player 1"
+msgstr ""
+
 msgid "Player %1"
+msgstr ""
+
+msgid "Player 2"
 msgstr ""
 
 msgid "Players"
@@ -6400,6 +6655,9 @@ msgstr "Cổng"
 msgid "&Port"
 msgstr "&Cổng"
 
+msgid "_Port"
+msgstr "_Cổng"
+
 msgid "Portrait"
 msgstr "Thẳng đứng"
 
@@ -6411,6 +6669,9 @@ msgstr "Tiếng Bồ Đào Nha"
 
 msgid "Position"
 msgstr "Vị trí"
+
+msgid "Postal code"
+msgstr "Mã bưu điện"
 
 msgid "Posterize"
 msgstr "Bích chương hóa"
@@ -6453,6 +6714,9 @@ msgstr "Xem thử"
 
 msgid "&Preview"
 msgstr "&Xem thử"
+
+msgid "_Preview"
+msgstr "_Xem thử"
 
 msgid "Previews"
 msgstr "Xem thử"
@@ -6535,6 +6799,9 @@ msgstr "Riêng tư"
 msgid "Private"
 msgstr "Riêng tư"
 
+msgid "Private Key"
+msgstr "Khóa cá nhân"
+
 msgid "Process"
 msgstr "Tiến Trình"
 
@@ -6562,6 +6829,9 @@ msgstr "Hồ sơ"
 msgid "Program"
 msgstr "Chương trình"
 
+msgid "Programs"
+msgstr "Chương trình"
+
 msgid "Progress"
 msgstr "Tiến hành"
 
@@ -6570,6 +6840,9 @@ msgstr "Dự án"
 
 msgid "&Project"
 msgstr "&Dự án"
+
+msgid "Project name"
+msgstr ""
 
 msgid "Projects"
 msgstr "Dự án"
@@ -6643,6 +6916,9 @@ msgstr "px"
 msgid "Python"
 msgstr "Python"
 
+msgid "Q"
+msgstr "H"
+
 msgid "Qatar"
 msgstr "Ca-ta"
 
@@ -6696,6 +6972,9 @@ msgstr "Thoát khỏi ứng dụng"
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr "Dấu nháy"
+
 msgid "R"
 msgstr "R"
 
@@ -6726,6 +7005,9 @@ msgstr "Tỷ lệ"
 msgid "Rating"
 msgstr "Đánh giá"
 
+msgid "Ratio"
+msgstr "Tỉ lệ"
+
 msgid "Raw"
 msgstr "Thô"
 
@@ -6753,11 +7035,17 @@ msgstr "Sẵn sàng"
 msgid "Ready."
 msgstr ""
 
+msgid "Realm"
+msgstr ""
+
 msgid "Reason"
 msgstr "Lý do"
 
 msgid "Reassign"
 msgstr "Gán lại"
+
+msgid "Received"
+msgstr ""
 
 msgid "Recent"
 msgstr "Gần đây"
@@ -6779,6 +7067,9 @@ msgstr ""
 
 msgid "Rectangle"
 msgstr "Hình chữ nhật"
+
+msgid "Recurrence"
+msgstr ""
 
 msgid "Recursive"
 msgstr "Đệ quy"
@@ -6909,6 +7200,9 @@ msgstr ""
 msgid "Remove the selected toolbar"
 msgstr ""
 
+msgid "Removing"
+msgstr "Đang gỡ bỏ"
+
 msgid "Rename"
 msgstr "Đổi tên"
 
@@ -6929,6 +7223,9 @@ msgstr "Đổi tên dấu nhớ"
 
 msgid "Rename File"
 msgstr ""
+
+msgid "Rendering intent"
+msgstr "Mục đích dựng hình"
 
 msgid "Repeat"
 msgstr "Lặp lại"
@@ -6951,11 +7248,20 @@ msgstr "Tha_y thế hết"
 msgid "Replace an existing instance"
 msgstr "Thay thế một hiện thể đã có"
 
+msgid "Replace With"
+msgstr "Thay thế bằng"
+
+msgid "Replace with"
+msgstr "Thay thế bằng"
+
 msgid "Replacement"
 msgstr "Thay thế"
 
 msgid "Reply"
 msgstr "Hồi đáp"
+
+msgid "Reply-To"
+msgstr "Trả lời"
 
 msgid "Report"
 msgstr "Báo cáo"
@@ -6974,6 +7280,9 @@ msgstr ""
 
 msgid "Reports"
 msgstr "Báo cáo"
+
+msgid "Repository"
+msgstr ""
 
 msgid "Required"
 msgstr "Cần thiết"
@@ -7086,6 +7395,9 @@ msgstr "Phải qua trái"
 msgid "Right-click"
 msgstr ""
 
+msgid "Rights"
+msgstr "Quyền"
+
 msgid "River"
 msgstr "Sông"
 
@@ -7140,6 +7452,9 @@ msgstr "dòng"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
@@ -7147,6 +7462,9 @@ msgid "Run"
 msgstr "Chạy"
 
 msgid "&Run"
+msgstr ""
+
+msgid "Run command"
 msgstr ""
 
 msgid "Run in terminal"
@@ -7284,6 +7602,9 @@ msgstr "Lưu ảnh"
 msgid "_Save Image As..."
 msgstr "_Lưu ảnh dạng…"
 
+msgid "Save Location"
+msgstr ""
+
 msgid "Save Project"
 msgstr ""
 
@@ -7291,6 +7612,9 @@ msgid "Save Session"
 msgstr "Lưu phiên"
 
 msgid "Save Settings"
+msgstr ""
+
+msgid "Save to"
 msgstr ""
 
 msgid "Saved"
@@ -7323,10 +7647,16 @@ msgstr ""
 msgid "Scanner"
 msgstr "Máy quét"
 
+msgid "Scanning"
+msgstr "Đang quét"
+
 msgid "Scanning..."
 msgstr ""
 
 msgid "Schedule"
+msgstr ""
+
+msgid "Scheduler"
 msgstr ""
 
 msgid "Scheduling"
@@ -7404,11 +7734,17 @@ msgstr "Tìm kiếm..."
 msgid "Search Bar"
 msgstr "Thanh tìm kiếm"
 
+msgid "Search for"
+msgstr "Tìm"
+
 msgid "_Search for"
 msgstr "Tìm _kiếm"
 
 msgid "Search for '%1' with"
 msgstr "Tìm '%1' bằng"
+
+msgid "Search in"
+msgstr ""
 
 msgid "Search Options"
 msgstr "Lựa chọn tìm kiếm"
@@ -7512,6 +7848,9 @@ msgstr "Vùng chọn"
 msgid "Selections"
 msgstr "Chọn"
 
+msgid "Self"
+msgstr "Bản thân"
+
 msgid "Semicolon"
 msgstr "Dấu chấm phẩy"
 
@@ -7551,6 +7890,9 @@ msgstr "Serbia"
 msgid "Serbian"
 msgstr "Tiếng Serbia"
 
+msgid "Serial"
+msgstr "Nối tiếp"
+
 msgid "Serial Number"
 msgstr "Số loạt"
 
@@ -7566,8 +7908,14 @@ msgstr "Có chân"
 msgid "Server"
 msgstr "Máy Chủ"
 
+msgid "&Server"
+msgstr ""
+
 msgid "Server URL"
 msgstr ""
+
+msgid "Servers"
+msgstr "Máy chủ"
 
 msgid "Service"
 msgstr ""
@@ -7580,6 +7928,9 @@ msgstr "Phiên"
 
 msgid "Session management options"
 msgstr "Tuỳ chọn quản lí phiên làm việc"
+
+msgid "Session name"
+msgstr "Tên phiên"
 
 msgid "Sessions"
 msgstr ""
@@ -7610,6 +7961,12 @@ msgstr ""
 
 msgid "Seychelles"
 msgstr "Xê-sen"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr ""
@@ -7649,6 +8006,12 @@ msgstr "Sắc"
 
 msgid "Shear"
 msgstr "Làm nghiêng"
+
+msgid "Sheet"
+msgstr "Tờ"
+
+msgid "Sheets"
+msgstr "Các tờ"
 
 msgid "Shell"
 msgstr ""
@@ -7770,6 +8133,9 @@ msgstr "Đơn"
 msgid "Sinhala"
 msgstr "Chữ Sinhala"
 
+msgid "Site"
+msgstr "Địa điểm"
+
 msgid "Size"
 msgstr "Cỡ"
 
@@ -7778,6 +8144,9 @@ msgstr "cỡ"
 
 msgid "&Size"
 msgstr ""
+
+msgid "_Size"
+msgstr "_Cỡ"
 
 msgid "Size: %1"
 msgstr "Cỡ : %1"
@@ -7805,6 +8174,9 @@ msgstr "Con trượt"
 
 msgid "Slideshow"
 msgstr "Chuỗi trình chiếu"
+
+msgid "Slope"
+msgstr ""
 
 msgid "Slovak"
 msgstr "Tiếng Slovak"
@@ -7860,6 +8232,12 @@ msgstr "Màu đặc"
 msgid "Solomon Islands"
 msgstr "Quần đảo Xô-lô-mon"
 
+msgid "Solution"
+msgstr "Lời giải"
+
+msgid "Solve"
+msgstr "Giải"
+
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -7876,6 +8254,9 @@ msgid "Sorting"
 msgstr "Sắp xếp"
 
 msgid "Sound"
+msgstr "Âm thanh"
+
+msgid "Sounds"
 msgstr "Âm thanh"
 
 msgid "Soundtrack"
@@ -7945,6 +8326,9 @@ msgid "Spell Check"
 msgstr "Kiểm tra đánh vần"
 
 msgid "Spell Checking"
+msgstr "Kiểm tra đánh vần"
+
+msgid "Spellcheck"
 msgstr "Kiểm tra đánh vần"
 
 msgid "Spelling"
@@ -8184,6 +8568,9 @@ msgstr "Chữ Sunda"
 msgid "Sunday"
 msgstr "Chủ Nhật"
 
+msgid "Sunrise"
+msgstr "Bình minh"
+
 msgid "Super"
 msgstr "Super"
 
@@ -8240,6 +8627,9 @@ msgstr ""
 
 msgid "Synchronize"
 msgstr ""
+
+msgid "Syntax"
+msgstr "Cú pháp"
 
 msgid "Syriac"
 msgstr "Chữ Xi-ri cổ"
@@ -8303,6 +8693,9 @@ msgstr "Than-dă-ni-a"
 
 msgid "Target"
 msgstr "Đích"
+
+msgid "Targets"
+msgstr "Mục tiêu"
 
 msgid "Task"
 msgstr "Tác vụ"
@@ -8417,6 +8810,9 @@ msgstr ""
 msgid "Theme"
 msgstr "Sắc thái"
 
+msgid "&Theme"
+msgstr "&Chủ đề"
+
 msgid "Themes"
 msgstr "Sắc thái"
 
@@ -8437,6 +8833,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr ""
 
 msgid "Threshold"
 msgstr "Ngưỡng"
@@ -8464,6 +8863,9 @@ msgstr "Xếp lát"
 
 msgid "Tiled"
 msgstr "Lát gạch"
+
+msgid "Tiles"
+msgstr "Đá lát"
 
 msgid "Tilt"
 msgstr "Nghiêng"
@@ -8513,6 +8915,9 @@ msgstr ""
 msgid "_Title"
 msgstr "_Tựa"
 
+msgid "Titles"
+msgstr "Tựa đề"
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8536,6 +8941,9 @@ msgstr "TODO"
 
 msgid "Todo"
 msgstr "Cần làm"
+
+msgid "To-do"
+msgstr ""
 
 msgid "Toggle Fullscreen"
 msgstr "Bật/tắt chế độ toàn màn hình"
@@ -8567,6 +8975,9 @@ msgstr "Công cụ"
 msgid "Tool Options"
 msgstr "Tùy chọn công cụ"
 
+msgid "Toolbar"
+msgstr "Thanh công cụ"
+
 msgid "_Toolbar"
 msgstr "_Thanh công cụ"
 
@@ -8587,6 +8998,9 @@ msgstr "&Công cụ"
 
 msgid "_Tools"
 msgstr "_Công cụ"
+
+msgid "Tooltip"
+msgstr "Chú giải"
 
 msgid "Top"
 msgstr "Trên"
@@ -8738,11 +9152,17 @@ msgstr "kiểu"
 msgid "&Type"
 msgstr ""
 
+msgid "_Type"
+msgstr "_Kiểu "
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "U-gan-đa"
+
+msgid "UID"
+msgstr ""
 
 msgid "Ukraine"
 msgstr "U-cợ-rainh"
@@ -8975,6 +9395,9 @@ msgstr "Đã dùng"
 msgid "User"
 msgstr "Người dùng"
 
+msgid "User Agent"
+msgstr ""
+
 msgid "User Certificate"
 msgstr ""
 
@@ -8999,11 +9422,17 @@ msgstr ""
 msgid "Username"
 msgstr "Tên người dùng"
 
+msgid "&Username"
+msgstr "Tên ngườ&i dùng"
+
 msgid "_Username"
 msgstr "Tên người _dùng"
 
 msgid "Users"
 msgstr "Người dùng"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "Tiện ích"
@@ -9024,6 +9453,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9058,6 +9490,9 @@ msgstr "Biến"
 msgid "Variance"
 msgstr "Phương sai"
 
+msgid "Variant"
+msgstr ""
+
 msgid "Vector"
 msgstr "Véc tơ"
 
@@ -9084,6 +9519,9 @@ msgstr "Phiên bản %1"
 
 msgid "Vertical"
 msgstr "Dọc"
+
+msgid "_Vertical"
+msgstr "_Dọc"
 
 msgid "Very Large"
 msgstr "Rất lớn"
@@ -9117,6 +9555,9 @@ msgstr "&Xem"
 
 msgid "_View"
 msgstr "_Xem"
+
+msgid "View mode"
+msgstr "Chế độ xem"
 
 msgid "View Options"
 msgstr ""
@@ -9277,6 +9718,9 @@ msgstr "Wi-Fi"
 msgid "Wikipedia"
 msgstr ""
 
+msgid "Wind"
+msgstr "Gió"
+
 msgid "Window"
 msgstr "Cửa sổ"
 
@@ -9319,11 +9763,17 @@ msgstr "Từ"
 msgid "Word Count"
 msgstr "Số lượng từ"
 
+msgid "Word wrap"
+msgstr "Bọc từ"
+
 msgid "Words"
 msgstr "Từ"
 
 msgid "Work"
 msgstr "Việc làm"
+
+msgid "Workspace"
+msgstr "Không gian làm việc"
 
 msgid "World"
 msgstr "Thế giới"
@@ -9363,6 +9813,9 @@ msgstr "_Y"
 
 msgid "Year"
 msgstr "Năm"
+
+msgid "&Year"
+msgstr ""
 
 msgid "Yearly"
 msgstr ""
@@ -9423,6 +9876,9 @@ msgstr "&Thu phóng"
 
 msgid "_Zoom"
 msgstr "Thu _phóng"
+
+msgid "Zoom factor"
+msgstr "Hệ số thu phóng"
 
 msgid "Zoom In"
 msgstr "Phóng to"

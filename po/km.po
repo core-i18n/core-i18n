@@ -82,9 +82,6 @@ msgstr " និង "
 msgid " (default)"
 msgstr ""
 
-msgid "© KDE Community"
-msgstr ""
-
 msgid " MB"
 msgstr "មេកាបៃ"
 
@@ -328,6 +325,9 @@ msgstr "A"
 msgid "a"
 msgstr "a"
 
+msgid "a*"
+msgstr ""
+
 msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "មាន​ឯកសារឈ្មោះ \"%1\" រួច​ហើយ ។ តើ​អ្នក​ពិត​ជា​ចង់​សរសេរ​ជាន់​លើ​វា​ឬ ?"
 
@@ -355,17 +355,20 @@ msgstr "អំពី"
 msgid "About %1"
 msgstr "អំពី %1"
 
-msgid "About KDE"
-msgstr "អំពី KDE"
-
 msgid "Abstract"
 msgstr ""
+
+msgid "Acceleration"
+msgstr "បង្កើន​ល្បឿន ៖"
 
 msgid "Accept"
 msgstr "ទទួលយក"
 
 msgid "Accepted"
 msgstr "ព្រមទទួល"
+
+msgid "Access"
+msgstr "ចូល​ដំណើរ​ការ"
 
 msgid "Accessed"
 msgstr ""
@@ -383,6 +386,9 @@ msgid "Account Information"
 msgstr "ព័ត៌មាន​គណនី"
 
 msgid "Account Name"
+msgstr ""
+
+msgid "Account name"
 msgstr ""
 
 msgid "Accounts"
@@ -637,6 +643,9 @@ msgstr "តាម​លំដាប់​អក្ខរ​ក្រម"
 msgid "Alt"
 msgstr "ជំនួស (Alt)"
 
+msgid "Alternate"
+msgstr "ជំនួស"
+
 msgid "Alternative"
 msgstr "ឆ្លាស់គ្នា"
 
@@ -712,8 +721,14 @@ msgstr "ចំណារ​ពន្យល់"
 msgid "Anonymous"
 msgstr "អនាមិក"
 
+msgid "Answer"
+msgstr "ចម្លើយ"
+
 msgid "Antarctica"
 msgstr "អង់តាកទិក"
+
+msgid "Antialiasing"
+msgstr "ប្រឆាំង​រឆេតរឆូត"
 
 msgid "Any"
 msgstr "ណា​មួយ"
@@ -883,6 +898,9 @@ msgstr "ទាមទារ​ការ​ផ្ទៀងផ្ទាត់​ភ
 msgid "Author"
 msgstr "អ្នក​និពន្ធ"
 
+msgid "Author name"
+msgstr ""
+
 msgid "Authors"
 msgstr ""
 
@@ -928,6 +946,9 @@ msgstr ""
 msgid "B"
 msgstr "B"
 
+msgid "b*"
+msgstr ""
+
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
@@ -940,8 +961,14 @@ msgstr "ថយ​ក្រោយ"
 msgid "_Back"
 msgstr "ថយក្រោយ"
 
+msgid "Backend"
+msgstr "កម្ម​វិធី​ខាង​ក្រោយ"
+
 msgid "Background"
 msgstr "ផ្ទៃ​ខាង​ក្រោយ"
+
+msgid "&Background"
+msgstr "ផ្ទៃ​ខាង​ក្រោយ ៖"
 
 msgid "Background Color"
 msgstr "ពណ៌​ផ្ទៃខាងក្រោយ"
@@ -951,6 +978,9 @@ msgstr "ពណ៌​ផ្ទៃ​ខាងក្រោយ"
 
 msgid "&Background color"
 msgstr "ពណ៌​ផ្ទៃ​ខាង​ក្រោយ ៖"
+
+msgid "Background image"
+msgstr "រូបភាព​ផ្ទៃខាងក្រោយ"
 
 msgid "Backspace"
 msgstr "លុប​ថយក្រោយ (Backspace)"
@@ -972,6 +1002,9 @@ msgstr ""
 
 msgid "Baltic"
 msgstr "បាល់ទិក"
+
+msgid "Bandwidth"
+msgstr "កម្រិត​បញ្ជូន ៖"
 
 msgid "Bangladesh"
 msgstr "បង់ក្លាដែស"
@@ -999,6 +1032,9 @@ msgstr "បាស"
 
 msgid "Battery"
 msgstr "ថាមពល"
+
+msgid "BCC"
+msgstr ""
 
 msgid "Bcc"
 msgstr ""
@@ -1156,23 +1192,8 @@ msgstr ""
 msgid "Brazil"
 msgstr "​ប្រេស៊ីល"
 
-msgid "Breeze"
-msgstr ""
-
-msgid "Breeze by the KDE VDG"
-msgstr ""
-
-msgid "Breeze Dark"
-msgstr ""
-
-msgid "Breeze Dark by the KDE VDG"
-msgstr ""
-
 msgid "Breton"
 msgstr "ប្រេតុង"
-
-msgid "Brian Croom"
-msgstr "Brian Croom"
 
 msgid "Bridge"
 msgstr "Bridge"
@@ -1309,18 +1330,6 @@ msgstr "បោះបង់"
 msgid "Canceled"
 msgstr "បាន​បោះបង់"
 
-msgid "Cancelled"
-msgstr "បាន​បោះបង់"
-
-msgid "cannot load editor plugin: %s"
-msgstr ""
-
-msgid "cannot load factory %s from plugin: %s"
-msgstr ""
-
-msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "មិន​អាច​បញ្ជូនឯកសារ URIs ទៅកាន់​ធាតុ​ផ្ទៃតុ 'Type=Link' បាន​ទេ"
-
 msgid "Canvas"
 msgstr ""
 
@@ -1339,14 +1348,14 @@ msgstr "សរសេរ​ជា​អក្សរពុម្ព"
 msgid "Caps Lock is on"
 msgstr ""
 
+msgid "Caption"
+msgstr "ចំណងជើង ៖"
+
 msgid "Capture"
 msgstr "ចាប់យក"
 
 msgid "Car"
 msgstr "រថយន្ត"
-
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
 
 msgid "Cascade"
 msgstr "ល្បាក់"
@@ -1435,6 +1444,9 @@ msgstr "ផ្លាស់ប្ដូរ..."
 msgid "Changed"
 msgstr ""
 
+msgid "Changes"
+msgstr ""
+
 msgid "Channel"
 msgstr "ឆានែល​"
 
@@ -1452,6 +1464,9 @@ msgstr "ជំពូក"
 
 msgid "Character"
 msgstr "តួអក្សរ"
+
+msgid "Character set"
+msgstr "សំណុំ​តួអក្សរ ៖"
 
 msgid "Characters"
 msgstr "តួអក្សរ"
@@ -1684,6 +1699,9 @@ msgstr ""
 msgid "Color Space"
 msgstr ""
 
+msgid "Color space"
+msgstr "ប្រភេទ​ពណ៌ ៖"
+
 msgid "Color theme"
 msgstr ""
 
@@ -1705,13 +1723,7 @@ msgstr "ជួរឈរ"
 msgid "Comma"
 msgstr "សញ្ញា(,)"
 
-msgid "COMMAND"
-msgstr "COMMAND"
-
 msgid "Command"
-msgstr "ពាក្យ​បញ្ជា"
-
-msgid "command"
 msgstr "ពាក្យ​បញ្ជា"
 
 msgid "Command Line"
@@ -1726,6 +1738,9 @@ msgstr ""
 msgid "Comment"
 msgstr "មតិយោបល់"
 
+msgid "comment"
+msgstr "មតិយោបល់"
+
 msgid "Comments"
 msgstr "មតិយោបល់ ៖"
 
@@ -1735,11 +1750,17 @@ msgstr ""
 msgid "Common"
 msgstr "ទូទៅ"
 
+msgid "Common Name"
+msgstr "ឈ្មោះ​ទូទៅ ៖"
+
 msgid "Comoros"
 msgstr "កូម័រ"
 
 msgid "Compact"
 msgstr "តូច​ល្មម"
+
+msgid "Company"
+msgstr "ក្រុមហ៊ុន​"
 
 msgid "Compare"
 msgstr "ប្រៀបធៀប​"
@@ -1777,6 +1798,9 @@ msgstr "កុំព្យូទ័រ"
 msgid "Condition"
 msgstr ""
 
+msgid "Conditions"
+msgstr ""
+
 msgid "Confidential"
 msgstr "សម្ងាត់"
 
@@ -1807,6 +1831,9 @@ msgstr "កំណត់​រចនាសម្ព័ន្ធ​ផ្លូវ
 msgid "Confirm"
 msgstr ""
 
+msgid "Confirm Password"
+msgstr ""
+
 msgid "Confirmation"
 msgstr "ការ​អះអាង"
 
@@ -1818,6 +1845,9 @@ msgstr "បាន​អះអាង"
 
 msgid "Conflict with Standard Application Shortcut"
 msgstr "ប៉ះទង្គិច​ជាមួយ​នឹង​ផ្លូវកាត់​កម្មវិធី​ស្តង់ដា"
+
+msgid "Conflicts"
+msgstr ""
 
 msgid "Connect"
 msgstr "តភ្ជាប់"
@@ -1843,6 +1873,9 @@ msgstr ""
 msgid "Connection Settings"
 msgstr "កំណត់​ការ​តភ្ជាប់"
 
+msgid "Connection type"
+msgstr ""
+
 msgid "Connections"
 msgstr "ការ​ត​ភ្ជាប់"
 
@@ -1851,9 +1884,6 @@ msgstr "កុងសូល"
 
 msgid "Constant"
 msgstr "ថេរ​"
-
-msgid "construct property \"%s\" for object '%s' can't be set after construction"
-msgstr ""
 
 msgid "Contact"
 msgstr "ទាក់ទង​"
@@ -1867,13 +1897,13 @@ msgstr ""
 msgid "Contains"
 msgstr "មាន"
 
-msgid "contains"
-msgstr "មាន"
-
 msgid "Content"
 msgstr "ខ្លឹមសារ"
 
 msgid "Content Type"
+msgstr ""
+
+msgid "Content type"
 msgstr ""
 
 msgid "Contents"
@@ -1897,11 +1927,17 @@ msgstr "កម្រិត​ពណ៌​"
 msgid "Contributor"
 msgstr "អ្នក​ចូល​រួម​"
 
+msgid "Contributors"
+msgstr "អ្នក​ចូលរួម៖"
+
 msgid "Control"
 msgstr "បញ្ជា"
 
 msgid "Convert"
 msgstr "បម្លែង"
+
+msgid "Convert to"
+msgstr "បម្លែង​​ទៅ​ជា ៖"
 
 msgid "Convert to Path"
 msgstr ""
@@ -1919,9 +1955,6 @@ msgid "Coptic"
 msgstr "ខប់ធិក​​"
 
 msgid "Copy"
-msgstr "ចម្លង"
-
-msgid "copy"
 msgstr "ចម្លង"
 
 msgid "&Copy"
@@ -1975,6 +2008,9 @@ msgstr ""
 msgid "Copyright"
 msgstr "រក្សាសិទ្ធិ"
 
+msgid "Correct"
+msgstr "ត្រឹមត្រូវ​ ៖"
+
 msgid "Cost"
 msgstr "ថ្លៃ​ចំណាយ​"
 
@@ -1998,6 +2034,9 @@ msgstr "ប្រទេស"
 
 msgid "CPU"
 msgstr ""
+
+msgid "CPU usage"
+msgstr "ការ​ប្រើប្រាស់​ស៊ីភីយូ"
 
 msgid "Create"
 msgstr "បង្កើត"
@@ -2026,6 +2065,9 @@ msgstr "អ្នក​បង្កើត"
 msgid "Credentials"
 msgstr "លិខិត​សម្គាល់"
 
+msgid "Credit"
+msgstr "បញ្ជី​អ្នក​ចូល​​​រួម​ ៖​​"
+
 msgid "Credits"
 msgstr ""
 
@@ -2051,15 +2093,6 @@ msgid "Cross"
 msgstr "ខ្វែង"
 
 msgid "CSV"
-msgstr ""
-
-msgid "Ctrl"
-msgstr "បញ្ជា (Ctrl)"
-
-msgid "Ctrl+C"
-msgstr ""
-
-msgid "Ctrl+O"
 msgstr ""
 
 msgid "Cuba"
@@ -2089,8 +2122,14 @@ msgstr "ខ្សែកោង​"
 msgid "Custom"
 msgstr "ផ្ទាល់ខ្លួន"
 
+msgid "&Custom"
+msgstr "ផ្ទាល់ខ្លួន ៖"
+
 msgid "Custom..."
 msgstr "ផ្ទាល់ខ្លួន..."
+
+msgid "Custom color"
+msgstr ""
 
 msgid "Custom Font"
 msgstr "ពុម្ពអក្សរ​ផ្ទាល់ខ្លួន"
@@ -2164,6 +2203,9 @@ msgstr "ទិន្នន័យ"
 msgid "Database"
 msgstr "មូលដ្ឋាន​ទិន្នន័យ"
 
+msgid "Database name"
+msgstr "ឈ្មោះ​មូលដ្ឋាន​ទិន្នន័យ​ ៖​"
+
 msgid "Date"
 msgstr "កាលបរិច្ឆេទ"
 
@@ -2179,13 +2221,19 @@ msgstr "កាលបរិច្ឆេទ និង​ពេលវេលា"
 msgid "Date Format"
 msgstr ""
 
+msgid "Date format"
+msgstr "ទ្រង់ទ្រាយ​កាលបរិច្ឆេទ ៖"
+
 msgid "Date Modified"
 msgstr "កាលបរិច្ឆេទ​បាន​កែប្រ"
 
-msgid "David Edmundson"
-msgstr ""
+msgid "Date/Time"
+msgstr "កាលបរិច្ឆេទ/ពេលវេលា ៖"
 
 msgid "Day"
+msgstr "ថ្ងៃ"
+
+msgid "day"
 msgstr "ថ្ងៃ"
 
 msgid "Days"
@@ -2235,6 +2283,9 @@ msgstr "លំនាំដើម"
 
 msgid "default"
 msgstr "លំនាំដើម"
+
+msgid "Default value"
+msgstr ""
 
 msgid "Defaults"
 msgstr ""
@@ -2311,6 +2362,9 @@ msgstr "កម្លាំង"
 msgid "Deny"
 msgstr "បដិសេធ"
 
+msgid "Department"
+msgstr "នាយកដ្ឋាន"
+
 msgid "Dependencies"
 msgstr ""
 
@@ -2343,6 +2397,12 @@ msgstr "ផ្ទៃតុ"
 
 msgid "Destination"
 msgstr "ទិសដៅ"
+
+msgid "Destination Folder"
+msgstr "ថត​ទិសដៅ"
+
+msgid "Destination folder"
+msgstr "ថត​ទិសដៅ ៖"
 
 msgid "Detach"
 msgstr "ផ្ដាច់​"
@@ -2515,6 +2575,9 @@ msgstr ""
 msgid "Distance"
 msgstr "ចម្ងាយ"
 
+msgid "Distribution"
+msgstr "ការចែក​ចាយ​"
+
 msgid "Divide"
 msgstr ""
 
@@ -2569,10 +2632,10 @@ msgstr "ឯកសារ"
 msgid "does not contain"
 msgstr ""
 
-msgid "Dolphin"
-msgstr ""
-
 msgid "Domain"
+msgstr "ដែន"
+
+msgid "_Domain"
 msgstr "ដែន"
 
 msgid "Dominica"
@@ -2677,6 +2740,9 @@ msgstr "ឌីវីឌី+អាន​សរសេរ"
 msgid "DVD-RW"
 msgstr "ឌីវីឌី-អាន​សរសេរ"
 
+msgid "Dynamic"
+msgstr "ថាមវន្ត ៖"
+
 msgid "E"
 msgstr "E"
 
@@ -2728,6 +2794,9 @@ msgstr "កែសម្រួល​រូបភាព"
 msgid "Editing"
 msgstr "ការកែសម្រួល​"
 
+msgid "Edition"
+msgstr ""
+
 msgid "Editor"
 msgstr "កម្មវិធី​និពន្ធ"
 
@@ -2743,9 +2812,6 @@ msgstr "​អេហ្ស៊ីប"
 msgid "Egyptian"
 msgstr "អេហ្ស៊ីប"
 
-msgid "Eike Hein"
-msgstr "Eike Hein"
-
 msgid "Eject"
 msgstr "ច្រានចេញ​"
 
@@ -2755,17 +2821,29 @@ msgstr "ច្រានចេញ"
 msgid "El Salvador"
 msgstr "​អែលសាល់វ៉ាឌ័រ"
 
+msgid "Elapsed Time"
+msgstr ""
+
 msgid "Electronic"
 msgstr "អេឡិចត្រូនិក"
 
 msgid "Element"
 msgstr "ធាតុ"
 
+msgid "Elements"
+msgstr "ធាតុ"
+
 msgid "Ellipse"
 msgstr "ពង​ក្រពើ"
 
+msgid "EMail"
+msgstr "អ៊ីមែល​"
+
 msgid "Email"
 msgstr "អ៊ីមែល"
+
+msgid "E-Mail"
+msgstr "អ៊ីមែល ៖"
 
 msgid "E-mail"
 msgstr "អ៊ីមែល"
@@ -2845,6 +2923,9 @@ msgstr ""
 msgid "End Date"
 msgstr "កាលបរិច្ឆេទ​បញ្ចប់"
 
+msgid "End date"
+msgstr "កាល​បរិច្ឆេទ​បញ្ចប់​"
+
 msgid "End Time"
 msgstr "ពេល​វេលា​បញ្ចប់"
 
@@ -2866,8 +2947,14 @@ msgstr "អង់គ្លេស"
 msgid "Enter"
 msgstr "ចូល"
 
+msgid "Enter name"
+msgstr "បញ្ចូល​ឈ្មោះ ៖"
+
 msgid "Enter password"
 msgstr "បញ្ចូល​ពាក្យសម្ងាត់"
+
+msgid "Entries"
+msgstr ""
 
 msgid "Entry"
 msgstr "ធាតុ​​​"
@@ -2941,6 +3028,9 @@ msgstr "ព្រឹត្តិការណ៍"
 msgid "Events"
 msgstr "ព្រឹត្តិការណ៍"
 
+msgid "Every"
+msgstr "រៀងរាល់"
+
 msgid "Everyone"
 msgstr ""
 
@@ -2958,6 +3048,9 @@ msgstr ""
 
 msgid "Exception"
 msgstr "ករណី​​លើកលែង"
+
+msgid "Exceptions"
+msgstr "ករណី​លើកលែង"
 
 msgid "Exclude"
 msgstr "មិន​រាប់បញ្ចូល"
@@ -2992,11 +3085,17 @@ msgstr "ពង្រីក​ទាំងអស់"
 msgid "Experimental"
 msgstr "សាកល្បង"
 
+msgid "Expiration"
+msgstr "កា​រផុត​កំណត់ ៖"
+
 msgid "Expired"
 msgstr "ផុត​កំណត់"
 
 msgid "Expires"
 msgstr ""
+
+msgid "Expires On"
+msgstr "ការ​ផុត​កំណត់​នៅ​ពេល ៖"
 
 msgid "Export"
 msgstr "នាំចេញ"
@@ -3031,6 +3130,9 @@ msgstr ""
 msgid "Exposure"
 msgstr ""
 
+msgid "Exposure Time"
+msgstr "ពេលវេលា​បង្ហាញ ៖"
+
 msgid "Expression"
 msgstr "កន្សោម"
 
@@ -3051,6 +3153,9 @@ msgstr "ស្រង់​ចេញ"
 
 msgid "F"
 msgstr "F"
+
+msgid "Fabric"
+msgstr "កំណាត់"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -3109,6 +3214,12 @@ msgstr ""
 msgid "Fetch"
 msgstr "ទៅយក"
 
+msgid "Field"
+msgstr "វាល​ ៖"
+
+msgid "Fields"
+msgstr "វាល"
+
 msgid "Fiji"
 msgstr "​ហ្វីហ្ស៊ី"
 
@@ -3141,6 +3252,9 @@ msgstr "មាន​ឯកសារ​រួច​ហើយ"
 
 msgid "File Format"
 msgstr "ទ្រង់ទ្រាយ​ឯកសារ"
+
+msgid "File format"
+msgstr "ទ្រង់ទ្រាយ​ឯកសារ ៖"
 
 msgid "File is not a valid .desktop file"
 msgstr "ឯកសារ​មិន​មែន​ជា​ឯកសារ .desktop ត្រឹម​ត្រូវ​ទេ"
@@ -3200,6 +3314,9 @@ msgid "Fill Color"
 msgstr ""
 
 msgid "Filter"
+msgstr "តម្រង"
+
+msgid "&Filter"
 msgstr "តម្រង"
 
 msgid "Filter..."
@@ -3265,6 +3382,9 @@ msgstr "ហ្វាំងឡង់"
 msgid "First"
 msgstr "ដំបូង"
 
+msgid "First Name"
+msgstr ""
+
 msgid "First Page"
 msgstr "ទំព័រ​ទីមួយ"
 
@@ -3325,6 +3445,9 @@ msgstr "ផ្កា"
 msgid "Focal Length"
 msgstr "ប្រវែង​ប្រសព្វគ្នា"
 
+msgid "Focal length"
+msgstr ""
+
 msgid "Focus"
 msgstr "ផ្ដោត"
 
@@ -3346,6 +3469,9 @@ msgstr "ពុម្ពអក្សរ"
 msgid "&Font"
 msgstr "ពុម្ពអក្សរ"
 
+msgid "_Font"
+msgstr "ពុម្ពអក្សរ ៖"
+
 msgid "Font Color"
 msgstr ""
 
@@ -3356,6 +3482,12 @@ msgid "Font Size"
 msgstr "ទំហំ​ពុម្ពអក្សរ"
 
 msgid "Font size"
+msgstr ""
+
+msgid "Font Style"
+msgstr ""
+
+msgid "Font style"
 msgstr ""
 
 msgid "Fonts"
@@ -3394,6 +3526,12 @@ msgstr ""
 msgid "Format"
 msgstr "ទ្រង់ទ្រាយ"
 
+msgid "&Format"
+msgstr "ទ្រង់ទ្រាយ ៖"
+
+msgid "_Format"
+msgstr "ធ្វើ​ទ្រង់ទ្រាយ"
+
 msgid "Formatting"
 msgstr "ធ្វើ​​ទ្រង់ទ្រាយ"
 
@@ -3420,6 +3558,12 @@ msgstr ""
 
 msgid "Frame"
 msgstr "ស៊ុម"
+
+msgid "Frame Rate"
+msgstr ""
+
+msgid "Frame rate"
+msgstr ""
 
 msgid "Framerate"
 msgstr "អត្រា​ស៊ុម"
@@ -3465,6 +3609,9 @@ msgstr "ពេញ"
 
 msgid "Full Name"
 msgstr "ឈ្មោះ​ពេញ"
+
+msgid "Full name"
+msgstr ""
 
 msgid "Full Screen"
 msgstr "ពេញ​អេក្រង់"
@@ -3531,6 +3678,9 @@ msgstr ""
 
 msgid "Gateway"
 msgstr "ផ្លូវចេញចូល"
+
+msgid "_Gateway"
+msgstr ""
 
 msgid "Gaussian Blur"
 msgstr "Gaussian Blur"
@@ -3652,6 +3802,9 @@ msgstr "ទៅកាន់​ទំព័រ​មុន"
 msgid "Goa"
 msgstr "ហ្កោ"
 
+msgid "Goal"
+msgstr "គោល​ដៅ"
+
 msgid "Gold"
 msgstr "មាស"
 
@@ -3706,6 +3859,9 @@ msgstr ""
 msgid "Grid"
 msgstr "ក្រឡាចត្រង្គ"
 
+msgid "&Grid"
+msgstr "ក្រឡា​ចត្រង្គ"
+
 msgid "Group"
 msgstr "ក្រុម"
 
@@ -3751,6 +3907,9 @@ msgstr "ពិបាក"
 msgid "Hardware"
 msgstr "ផ្នែក​រឹង"
 
+msgid "Hash"
+msgstr "Hash"
+
 msgid "Hawaiian"
 msgstr ""
 
@@ -3792,6 +3951,9 @@ msgstr "កម្ពស់​"
 
 msgid "&Height"
 msgstr "កម្ពស់ ៖"
+
+msgid "_Height"
+msgstr "កម្ពស់ ៖"
 
 msgid "Help"
 msgstr "ជំនួយ"
@@ -3837,6 +3999,9 @@ msgstr "ខ្ពស់"
 
 msgid "Highlight"
 msgstr "បន្លិច"
+
+msgid "Highlight color"
+msgstr "ពណ៌​បន្លិច ៖"
 
 msgid "Highlighter"
 msgstr ""
@@ -3889,8 +4054,17 @@ msgstr "ហុងកុង​"
 msgid "Horizontal"
 msgstr "ផ្ដេក"
 
+msgid "_Horizontal"
+msgstr "​ផ្តេក ៖"
+
+msgid "Horizontally"
+msgstr "ផ្ដេក"
+
 msgid "Host"
 msgstr "ម៉ាស៊ីន"
+
+msgid "Host Name"
+msgstr ""
 
 msgid "Hostname"
 msgstr "ឈ្មោះ​ម៉ាស៊ីន"
@@ -3970,6 +4144,9 @@ msgstr ""
 msgid "id"
 msgstr ""
 
+msgid "Identification"
+msgstr ""
+
 msgid "Identifier"
 msgstr "ឧបករណ៍​សម្គាល់ ៖"
 
@@ -4023,6 +4200,12 @@ msgstr "ការ​កំណត់​រូបភាព"
 
 msgid "Image Size"
 msgstr "ទំហំ​រូបភាព"
+
+msgid "Image size"
+msgstr ""
+
+msgid "Image type"
+msgstr "ប្រភេទ​រូបភាព ៖"
 
 msgid "Image Viewer"
 msgstr "កម្មវិធី​មើល​រូបភាព"
@@ -4099,6 +4282,9 @@ msgstr "បង្កើន​ការ​ចូល​បន្ទាត់"
 msgid "Increase Volume"
 msgstr "បង្កើន​កម្រិត​សំឡេង"
 
+msgid "Increment"
+msgstr "ចំនួន​បន្ថែម"
+
 msgid "Incremental"
 msgstr "ចំនួន​បន្ថែម​"
 
@@ -4110,6 +4296,9 @@ msgstr "លិបិក្រម"
 
 msgid "Indexed"
 msgstr "ដាក់​តាម​លិបិក្រម"
+
+msgid "Indexing"
+msgstr ""
 
 msgid "India"
 msgstr "​ឥណ្ឌា​"
@@ -4173,6 +4362,9 @@ msgstr "ដំឡើង"
 
 msgid "Instant"
 msgstr ""
+
+msgid "Instructions"
+msgstr "ការ​បង្ហាត់​បង្រៀន​"
 
 msgid "Integer"
 msgstr ""
@@ -4261,11 +4453,17 @@ msgstr "អៀរឡង់"
 msgid "is"
 msgstr "គឺ​"
 
+msgid "ISBN"
+msgstr ""
+
 msgid "Israel"
 msgstr "​អ៊ីស្រាអែល"
 
 msgid "Issued By"
 msgstr "បាន​ចេញ​​ផ្សាយ​ដោយ"
+
+msgid "Issued On"
+msgstr "បាន​ចេញ​ផ្សាយ​នូវ ៖"
 
 msgid "Issuer"
 msgstr "អ្នក​ចេញផ្សាយ"
@@ -4363,9 +4561,6 @@ msgstr "K"
 msgid "Kannada"
 msgstr "កាណាដា"
 
-msgid "Kate"
-msgstr "Kate"
-
 msgid "Kazakh"
 msgstr "កាហ្សាក់ស្ថាន"
 
@@ -4374,18 +4569,6 @@ msgstr "កាហ្សាក់ស្ថាន"
 
 msgid "kB"
 msgstr "គីឡូបៃ"
-
-msgid "KDE"
-msgstr "KDE"
-
-msgid "KDE Community, Felipe Kinoshita"
-msgstr ""
-
-msgid "KDE Connect"
-msgstr ""
-
-msgid "KDevelop"
-msgstr "KDevelop"
 
 msgid "Keep"
 msgstr "រក្សា​ទុក"
@@ -4450,26 +4633,11 @@ msgstr "គីរីបាទី"
 msgid "km"
 msgstr ""
 
-msgid "KMail"
-msgstr "KMail"
-
-msgid "Konqueror"
-msgstr "Konqueror"
-
-msgid "Konsole"
-msgstr "Konsole"
-
 msgid "Korean"
 msgstr "កូរ៉េ"
 
-msgid "KOrganizer"
-msgstr "KOrganizer"
-
 msgid "Kuwait"
 msgstr "​គុយវ៉ែត"
-
-msgid "KWin"
-msgstr "KWin"
 
 msgid "L"
 msgstr "L"
@@ -4487,6 +4655,9 @@ msgid "Landscape"
 msgstr "ទេសភាព​"
 
 msgid "Language"
+msgstr "ភាសា"
+
+msgid "&Language"
 msgstr "ភាសា"
 
 msgid "_Language"
@@ -4509,6 +4680,12 @@ msgstr "ចុង​ក្រោយ"
 
 msgid "Last Modified"
 msgstr "បាន​កែប្រែ​ចុង​ក្រោយ"
+
+msgid "Last modified"
+msgstr "បាន​កែប្រែ​ចុងក្រោយ ៖"
+
+msgid "Last Name"
+msgstr ""
 
 msgid "LaTeX"
 msgstr "LaTeX"
@@ -4621,8 +4798,20 @@ msgstr ""
 msgid "Line Color"
 msgstr "ពណ៌​​បន្ទាត់"
 
+msgid "Line Count"
+msgstr "ចំនួន​ជួរ"
+
 msgid "Line Numbers"
 msgstr "លេខ​បន្ទាត់"
+
+msgid "Line spacing"
+msgstr ""
+
+msgid "Line Style"
+msgstr ""
+
+msgid "Line style"
+msgstr "រចនាប័ទ្ម​បន្ទាត់ ៖"
 
 msgid "Line Width"
 msgstr ""
@@ -4641,6 +4830,9 @@ msgstr "តំណ"
 
 msgid "link"
 msgstr "តំណ"
+
+msgid "Link Text"
+msgstr "អត្ថបទ​តំណ"
 
 msgid "Link URL"
 msgstr "URL តំណ ៖"
@@ -4740,6 +4932,9 @@ msgstr "ចូល"
 
 msgid "_Login"
 msgstr ""
+
+msgid "Logo"
+msgstr "រូបសញ្ញា"
 
 msgid "Logout"
 msgstr "ចេញ"
@@ -4936,6 +5131,9 @@ msgstr "ពង្រីក​អតិបរមា"
 msgid "Maximum"
 msgstr "អតិបរមា"
 
+msgid "Maximum width"
+msgstr "ទទឹង​អតិបរមា ៖"
+
 msgid "May"
 msgstr ""
 
@@ -4990,6 +5188,9 @@ msgstr "សារ"
 msgid "message"
 msgstr "សារ​"
 
+msgid "&Message"
+msgstr "សារ"
+
 msgid "Messages"
 msgstr "សារ​"
 
@@ -5001,6 +5202,9 @@ msgstr "ទិន្នន័យ​មេតា"
 
 msgid "Metal"
 msgstr "មេតាល់"
+
+msgid "Metering Mode"
+msgstr "របៀបវាស់"
 
 msgid "meters"
 msgstr ""
@@ -5040,6 +5244,9 @@ msgstr ""
 
 msgid "milliseconds"
 msgstr ""
+
+msgid "MIME type"
+msgstr "ប្រភេទ MIME"
 
 msgid "Min"
 msgstr "អប្ប."
@@ -5086,8 +5293,14 @@ msgstr "mm"
 msgid "Mobile"
 msgstr "ចល័ត"
 
+msgid "Mobile Phone"
+msgstr "ទូរស័ព្ទ​ចល័ត"
+
 msgid "Mode"
 msgstr "របៀប"
+
+msgid "_Mode"
+msgstr "របៀប ៖"
 
 msgid "Model"
 msgstr "ម៉ូដែល"
@@ -5184,6 +5397,9 @@ msgstr "​ម៉ារ៉ុក"
 
 msgid "Mount"
 msgstr "ម៉ោន"
+
+msgid "Mount Point"
+msgstr "ចំណុច​ម៉ោន"
 
 msgid "Mount point"
 msgstr ""
@@ -5323,6 +5539,9 @@ msgstr "ឈ្មោះ"
 msgid "Name: %1"
 msgstr "ឈ្មោះ ៖ %1"
 
+msgid "Names"
+msgstr "ឈ្មោះ​"
+
 msgid "Namespace"
 msgstr "Namespace"
 
@@ -5352,6 +5571,9 @@ msgstr "នេប៉ាល់"
 
 msgid "Netherlands"
 msgstr "ហូឡង់"
+
+msgid "Netmask"
+msgstr "Netmask"
 
 msgid "Network"
 msgstr "បណ្ដាញ"
@@ -5563,6 +5785,9 @@ msgstr "​គ្មាន​ប្រធាន​បទ"
 msgid "No VPN configuration options."
 msgstr ""
 
+msgid "Node"
+msgstr "ថ្នាំង ៖"
+
 msgid "Noise"
 msgstr "ភាព​មិន​ច្បាស់"
 
@@ -5689,6 +5914,9 @@ msgstr "លេខ​"
 msgid "Number of columns"
 msgstr "ចំនួន​ជួរឈរ​"
 
+msgid "Number of rows"
+msgstr ""
+
 msgid "Numbers"
 msgstr "លេខ"
 
@@ -5745,9 +5973,6 @@ msgstr ""
 
 msgid "_OK"
 msgstr "យល់ព្រម"
-
-msgid "Okular"
-msgstr "Okular"
 
 msgid "Oman"
 msgstr "​អូម៉ង់"
@@ -5899,6 +6124,9 @@ msgstr "OpenStreetMap"
 msgid "Opera"
 msgstr "Opera"
 
+msgid "Operating System"
+msgstr ""
+
 msgid "Operation"
 msgstr "ប្រតិបត្តិការ"
 
@@ -5910,6 +6138,9 @@ msgstr "ប្រតិបត្តិការ"
 
 msgid "Operator"
 msgstr "ការី"
+
+msgid "Operators"
+msgstr ""
 
 msgid "Optical Character Recognition"
 msgstr "ការ​ទទួល​ស្គាល់​តួអក្សរ​អុបទិក"
@@ -5968,6 +6199,9 @@ msgstr "ទំហំ​ដើម"
 msgid "Oriya"
 msgstr "អូរីយ៉ា"
 
+msgid "OS"
+msgstr "ប្រព័ន្ធ​ប្រតិបត្តិការ ៖"
+
 msgid "Other"
 msgstr "ផ្សេងទៀត"
 
@@ -5982,6 +6216,9 @@ msgstr "កម្មវិធី​ផ្សេង​ទៀត​..."
 
 msgid "Other Options"
 msgstr "ជម្រើស​ផ្សេង​ទៀត"
+
+msgid "Other options"
+msgstr ""
 
 msgid "Others"
 msgstr "ផ្សេងទៀត"
@@ -6124,6 +6361,9 @@ msgstr "មេ​"
 msgid "Partition"
 msgstr ""
 
+msgid "Passphrase"
+msgstr ""
+
 msgid "Password"
 msgstr "ពាក្យ​សម្ងាត់"
 
@@ -6162,6 +6402,9 @@ msgstr "ផ្លូវ"
 
 msgid "Pattern"
 msgstr "លំនាំ"
+
+msgid "_Pattern"
+msgstr "លំនាំ​"
 
 msgid "Patterns"
 msgstr "លំនាំ​"
@@ -6247,8 +6490,14 @@ msgstr "​ហ្វីលីពីន"
 msgid "Phone"
 msgstr "ទូរស័ព្ទ"
 
+msgid "Phone Numbers"
+msgstr "លេខទូរស័​ព្ទ​​"
+
 msgid "Photo"
 msgstr "រូបថត"
+
+msgid "Photos"
+msgstr "រូប​ថត"
 
 msgid "PHP Documentation"
 msgstr ""
@@ -6269,6 +6518,9 @@ msgid "PID"
 msgstr ""
 
 msgid "Pie"
+msgstr ""
+
+msgid "PIN"
 msgstr ""
 
 msgid "Pin"
@@ -6298,9 +6550,6 @@ msgstr "អត្ថបទ​ធម្មតា"
 msgid "Plan"
 msgstr "គម្រោង​"
 
-msgid "Plasma"
-msgstr ""
-
 msgid "Platform"
 msgstr "Platform"
 
@@ -6319,8 +6568,14 @@ msgstr "ចាក់​សារ​ថ្មី"
 msgid "Player"
 msgstr "អ្នក​លេង"
 
+msgid "Player 1"
+msgstr "អ្នក​លេង ១ ៖"
+
 msgid "Player %1"
 msgstr "អ្នក​លេង %1"
+
+msgid "Player 2"
+msgstr "អ្នក​លេង ២ ៖"
 
 msgid "Players"
 msgstr "អ្នក​លេង"
@@ -6400,6 +6655,9 @@ msgstr "ច្រក"
 msgid "&Port"
 msgstr "ច្រក ៖"
 
+msgid "_Port"
+msgstr "ច្រក ៖"
+
 msgid "Portrait"
 msgstr "បញ្ឈរ"
 
@@ -6411,6 +6669,9 @@ msgstr "ព័រទុយហ្គាល់"
 
 msgid "Position"
 msgstr "ទីតាំង"
+
+msgid "Postal code"
+msgstr "កូដប្រៃសណីយ៍"
 
 msgid "Posterize"
 msgstr "រូបភាព​ប័ណ្ណ​ប្រកាស"
@@ -6453,6 +6714,9 @@ msgstr "មើល​ជាមុន"
 
 msgid "&Preview"
 msgstr "មើល​ជាមុន"
+
+msgid "_Preview"
+msgstr "​មើលជាមុន​"
 
 msgid "Previews"
 msgstr "មើល​ជាមុន​"
@@ -6535,6 +6799,9 @@ msgstr "ភាពឯកជន​"
 msgid "Private"
 msgstr "ឯកជន"
 
+msgid "Private Key"
+msgstr ""
+
 msgid "Process"
 msgstr "ដំណើរការ​"
 
@@ -6562,6 +6829,9 @@ msgstr "ទម្រង់"
 msgid "Program"
 msgstr "កម្មវិធី"
 
+msgid "Programs"
+msgstr "កម្មវិធី"
+
 msgid "Progress"
 msgstr "វឌ្ឍនភាព"
 
@@ -6570,6 +6840,9 @@ msgstr "គម្រោង"
 
 msgid "&Project"
 msgstr "គម្រោង​"
+
+msgid "Project name"
+msgstr "ឈ្មោះ​គម្រោង​"
 
 msgid "Projects"
 msgstr ""
@@ -6643,6 +6916,9 @@ msgstr "ភីកសែល"
 msgid "Python"
 msgstr ""
 
+msgid "Q"
+msgstr "Q"
+
 msgid "Qatar"
 msgstr "​កាតារ"
 
@@ -6698,6 +6974,9 @@ msgstr "ចេញ​ពី​កម្មវិធី"
 msgid "Quote"
 msgstr ""
 
+msgid "Quotes"
+msgstr "ដកស្រង់ ៖​"
+
 msgid "R"
 msgstr "R"
 
@@ -6728,6 +7007,9 @@ msgstr "អត្រា"
 msgid "Rating"
 msgstr "ការ​វាយតម្លៃ"
 
+msgid "Ratio"
+msgstr "សមាមាត្រ​ ៖​"
+
 msgid "Raw"
 msgstr "Raw"
 
@@ -6755,11 +7037,17 @@ msgstr "រួចរាល់"
 msgid "Ready."
 msgstr "​រួចរាល់ ។"
 
+msgid "Realm"
+msgstr "Realm ៖"
+
 msgid "Reason"
 msgstr ""
 
 msgid "Reassign"
 msgstr ""
+
+msgid "Received"
+msgstr "បាន​ទទួល ៖"
 
 msgid "Recent"
 msgstr ""
@@ -6781,6 +7069,9 @@ msgstr ""
 
 msgid "Rectangle"
 msgstr "ចតុកោណកែង"
+
+msgid "Recurrence"
+msgstr "ការកើតឡើង​ដដែលៗ ៖"
 
 msgid "Recursive"
 msgstr "ត្រឡប់"
@@ -6911,6 +7202,9 @@ msgstr "យក​ធាតុ​ដែល​បាន​ជ្រើស​ចេ
 msgid "Remove the selected toolbar"
 msgstr "យក​របារ​ឧបករណ៍​ដែល​បាន​ជ្រើស​ចេញ"
 
+msgid "Removing"
+msgstr "យក​ចេញ​"
+
 msgid "Rename"
 msgstr "ប្ដូរ​ឈ្មោះ"
 
@@ -6931,6 +7225,9 @@ msgstr "ប្ដូរ​ឈ្មោះ​ចំណាំ"
 
 msgid "Rename File"
 msgstr "ប្ដូរ​ឈ្មោះ​ឯកសារ"
+
+msgid "Rendering intent"
+msgstr ""
 
 msgid "Repeat"
 msgstr "ធ្វើ​ម្ដង​ទៀត"
@@ -6953,11 +7250,20 @@ msgstr ""
 msgid "Replace an existing instance"
 msgstr ""
 
+msgid "Replace With"
+msgstr "ជំនួស​ជាមួយ​"
+
+msgid "Replace with"
+msgstr "ជំនួស​ជាមួយ​ ៖"
+
 msgid "Replacement"
 msgstr "ការ​ជំនួស"
 
 msgid "Reply"
 msgstr "ឆ្លយតប"
+
+msgid "Reply-To"
+msgstr ""
 
 msgid "Report"
 msgstr "របាយការណ៍"
@@ -6976,6 +7282,9 @@ msgstr "រាយការណ៍​កំហុស..."
 
 msgid "Reports"
 msgstr "របាយ​ការណ៍"
+
+msgid "Repository"
+msgstr ""
 
 msgid "Required"
 msgstr "បាន​ទាមទារ"
@@ -7088,6 +7397,9 @@ msgstr "ស្ដាំទៅ​ឆ្វេង"
 msgid "Right-click"
 msgstr ""
 
+msgid "Rights"
+msgstr "ស្ដាំ ៖"
+
 msgid "River"
 msgstr "ទន្លេ"
 
@@ -7142,6 +7454,9 @@ msgstr "ជួរដេក"
 msgid "RSA"
 msgstr "RSA"
 
+msgid "Rule"
+msgstr "ក្បួន​"
+
 msgid "Rules"
 msgstr ""
 
@@ -7150,6 +7465,9 @@ msgstr ""
 
 msgid "&Run"
 msgstr "រត់"
+
+msgid "Run command"
+msgstr ""
 
 msgid "Run in terminal"
 msgstr ""
@@ -7286,6 +7604,9 @@ msgstr "រក្សាទុក​រូបភាព"
 msgid "_Save Image As..."
 msgstr "រក្សាទុក​រូបភាព​ជា…"
 
+msgid "Save Location"
+msgstr "ទីតាំង​រក្សាទុក ៖"
+
 msgid "Save Project"
 msgstr ""
 
@@ -7293,6 +7614,9 @@ msgid "Save Session"
 msgstr "រក្សាទុក​សម័យ"
 
 msgid "Save Settings"
+msgstr ""
+
+msgid "Save to"
 msgstr ""
 
 msgid "Saved"
@@ -7325,11 +7649,17 @@ msgstr "ស្កេន"
 msgid "Scanner"
 msgstr ""
 
+msgid "Scanning"
+msgstr "វិភាគ​រក"
+
 msgid "Scanning..."
 msgstr "កំពុង​វិភាគ​រក..."
 
 msgid "Schedule"
 msgstr "កាលវិភាគ"
+
+msgid "Scheduler"
+msgstr "កម្មវិធី​កំណត់​ពេល​"
 
 msgid "Scheduling"
 msgstr "ការកំណត់​ពេល​"
@@ -7406,11 +7736,17 @@ msgstr "ស្វែងរក..."
 msgid "Search Bar"
 msgstr "របារ​ស្វែងរក"
 
+msgid "Search for"
+msgstr "ស្វែងរក"
+
 msgid "_Search for"
 msgstr "ស្វែងរក៖"
 
 msgid "Search for '%1' with"
 msgstr "ស្វែងរក '%1' ជាមួយ"
+
+msgid "Search in"
+msgstr ""
 
 msgid "Search Options"
 msgstr "ជម្រើស​ស្វែងរក"
@@ -7514,6 +7850,9 @@ msgstr "ជម្រើស"
 msgid "Selections"
 msgstr ""
 
+msgid "Self"
+msgstr "ខ្លួន​ឯង ៖"
+
 msgid "Semicolon"
 msgstr "សញ្ញា(;)"
 
@@ -7553,6 +7892,9 @@ msgstr "សើព"
 msgid "Serbian"
 msgstr "ស៊ែប៊ី"
 
+msgid "Serial"
+msgstr "សៀរៀល"
+
 msgid "Serial Number"
 msgstr "លេខ​សម្គាល់"
 
@@ -7568,8 +7910,14 @@ msgstr "Serif"
 msgid "Server"
 msgstr "ម៉ាស៊ីនបម្រើ ៖"
 
+msgid "&Server"
+msgstr "ម៉ាស៊ីន​បម្រើ ៖"
+
 msgid "Server URL"
 msgstr "URL ម៉ាស៊ីន​បម្រើ"
+
+msgid "Servers"
+msgstr "ម៉ាស៊ីន​បម្រើ​ ៖"
 
 msgid "Service"
 msgstr ""
@@ -7582,6 +7930,9 @@ msgstr "សម័យ"
 
 msgid "Session management options"
 msgstr "ជម្រើស​ការ​គ្រប់គ្រង​សម័យ ៖"
+
+msgid "Session name"
+msgstr "ឈ្មោះ​សម័យ ៖"
 
 msgid "Sessions"
 msgstr "សម័យ"
@@ -7612,6 +7963,12 @@ msgstr "ភាព​ធ្ងន់​ធ្ងរ​"
 
 msgid "Seychelles"
 msgstr "សីស្ហែល"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
 
 msgid "SHA-256"
 msgstr ""
@@ -7651,6 +8008,12 @@ msgstr "ភាព​ច្បាស់"
 
 msgid "Shear"
 msgstr "កាត់​"
+
+msgid "Sheet"
+msgstr ""
+
+msgid "Sheets"
+msgstr ""
 
 msgid "Shell"
 msgstr "សែល"
@@ -7772,6 +8135,9 @@ msgstr "តែ​មួយ"
 msgid "Sinhala"
 msgstr "ស៊ីនហាឡា"
 
+msgid "Site"
+msgstr "តំបន់បណ្ដាញ ៖"
+
 msgid "Size"
 msgstr "ទំហំ"
 
@@ -7780,6 +8146,9 @@ msgstr ""
 
 msgid "&Size"
 msgstr "ទំហំ​ ៖​"
+
+msgid "_Size"
+msgstr "ទំហំ ៖"
 
 msgid "Size: %1"
 msgstr "ទំហំ ៖ %1"
@@ -7807,6 +8176,9 @@ msgstr "គ្រាប់​រំកិល"
 
 msgid "Slideshow"
 msgstr "ការ​បញ្ចាំង​ស្លាយ"
+
+msgid "Slope"
+msgstr "ជ្រាល​"
 
 msgid "Slovak"
 msgstr "ស្លូវ៉ាគី"
@@ -7862,6 +8234,12 @@ msgstr "ពណ៌​តាន់"
 msgid "Solomon Islands"
 msgstr "កោះ សូឡូម៉ុន"
 
+msgid "Solution"
+msgstr "ដំណោះស្រាយ"
+
+msgid "Solve"
+msgstr ""
+
 msgid "Somalia"
 msgstr "សូម៉ាលី"
 
@@ -7878,6 +8256,9 @@ msgid "Sorting"
 msgstr "តម្រៀប"
 
 msgid "Sound"
+msgstr "សំឡេង"
+
+msgid "Sounds"
 msgstr "សំឡេង"
 
 msgid "Soundtrack"
@@ -7948,6 +8329,9 @@ msgstr "ពិនិត្យ​អក្ខរាវិរុទ្ធ"
 
 msgid "Spell Checking"
 msgstr "កម្មវិធី​ពិនិត្យ​អក្ខរាវិរុទ្ធ"
+
+msgid "Spellcheck"
+msgstr "ពិនិត្យ​អក្ខរាវិរុទ្ធ​"
 
 msgid "Spelling"
 msgstr "អក្ខរាវិរុទ្ធ"
@@ -8186,6 +8570,9 @@ msgstr ""
 msgid "Sunday"
 msgstr ""
 
+msgid "Sunrise"
+msgstr ""
+
 msgid "Super"
 msgstr "ផ្អាក"
 
@@ -8242,6 +8629,9 @@ msgstr ""
 
 msgid "Synchronize"
 msgstr "ធ្វើ​សមកាល​កម្ម"
+
+msgid "Syntax"
+msgstr "វាក្យសម្ពន្ធ​"
 
 msgid "Syriac"
 msgstr "ស៊ីរី"
@@ -8305,6 +8695,9 @@ msgstr "តង់សានី"
 
 msgid "Target"
 msgstr "គោលដៅ​"
+
+msgid "Targets"
+msgstr "គោលដៅ​ ៖​​"
 
 msgid "Task"
 msgstr "ភារកិច្ច"
@@ -8419,6 +8812,9 @@ msgstr ""
 msgid "Theme"
 msgstr "ស្បែក"
 
+msgid "&Theme"
+msgstr ""
+
 msgid "Themes"
 msgstr "ស្បែក"
 
@@ -8437,6 +8833,9 @@ msgstr ""
 
 msgid "Thomas Zander"
 msgstr "Thomas Zander"
+
+msgid "Threads"
+msgstr "ខ្សែ​ស្រ​ឡាយ"
 
 msgid "Threshold"
 msgstr "កម្រិត​ពន្លឺ"
@@ -8464,6 +8863,9 @@ msgstr "ក្រឡាក្បឿង"
 
 msgid "Tiled"
 msgstr "ជា​ក្រឡា​ក្បឿង"
+
+msgid "Tiles"
+msgstr "ក្រឡាក្បឿង"
 
 msgid "Tilt"
 msgstr ""
@@ -8513,6 +8915,9 @@ msgstr "ចំណងជើង ៖"
 msgid "_Title"
 msgstr "ចំណងជើង ៖"
 
+msgid "Titles"
+msgstr ""
+
 msgid "TLS"
 msgstr "TLS"
 
@@ -8536,6 +8941,9 @@ msgstr ""
 
 msgid "Todo"
 msgstr ""
+
+msgid "To-do"
+msgstr "ការងារ​ត្រូវ​ធ្វើ​"
 
 msgid "Toggle Fullscreen"
 msgstr "បិទ​បើក ពេញ​អេក្រង់"
@@ -8567,6 +8975,9 @@ msgstr "ឧបករណ៍​"
 msgid "Tool Options"
 msgstr "ជម្រើស​ឧបករណ៍​"
 
+msgid "Toolbar"
+msgstr "របារ​ឧបករណ៍"
+
 msgid "_Toolbar"
 msgstr "របារ​ឧបករណ៍"
 
@@ -8587,6 +8998,9 @@ msgstr "ឧបករណ៍"
 
 msgid "_Tools"
 msgstr "ឧបករណ៍"
+
+msgid "Tooltip"
+msgstr "ព័ត៌មាន​ជំនួយ"
 
 msgid "Top"
 msgstr "កំពូល"
@@ -8738,11 +9152,17 @@ msgstr "ប្រភេទ"
 msgid "&Type"
 msgstr ""
 
+msgid "_Type"
+msgstr "ប្រភេទ"
+
 msgid "Type: %1"
 msgstr ""
 
 msgid "Uganda"
 msgstr "អ៊ូហ្គង់ដា"
+
+msgid "UID"
+msgstr "UID"
 
 msgid "Ukraine"
 msgstr "​អ៊ុយក្រែន"
@@ -8975,6 +9395,9 @@ msgstr ""
 msgid "User"
 msgstr "អ្នកប្រើ"
 
+msgid "User Agent"
+msgstr ""
+
 msgid "User Certificate"
 msgstr ""
 
@@ -8999,11 +9422,17 @@ msgstr ""
 msgid "Username"
 msgstr "ឈ្មោះ​អ្នកប្រើ"
 
+msgid "&Username"
+msgstr "ឈ្មោះ​អ្នក​ប្រើ ៖"
+
 msgid "_Username"
 msgstr "_ឈ្មោះ​អ្នក​ប្រើ ៖"
 
 msgid "Users"
 msgstr "អ្នក​ប្រើ​"
+
+msgid "UTF-8"
+msgstr "UTF-8"
 
 msgid "Utilities"
 msgstr "ការ​ប្រើប្រាស់"
@@ -9024,6 +9453,9 @@ msgid "Valid"
 msgstr ""
 
 msgid "Valid from"
+msgstr ""
+
+msgid "Valid until"
 msgstr ""
 
 msgid "Validity"
@@ -9058,6 +9490,9 @@ msgstr "អថេរ"
 msgid "Variance"
 msgstr ""
 
+msgid "Variant"
+msgstr "ផ្សេង​គ្នា"
+
 msgid "Vector"
 msgstr "វ៉ិចទ័រ​"
 
@@ -9084,6 +9519,9 @@ msgstr ""
 
 msgid "Vertical"
 msgstr "បញ្ឈរ"
+
+msgid "_Vertical"
+msgstr "​បញ្ឈរ ៖"
 
 msgid "Very Large"
 msgstr "ធំណាស់"
@@ -9117,6 +9555,9 @@ msgstr "មើល"
 
 msgid "_View"
 msgstr "មើល"
+
+msgid "View mode"
+msgstr "របៀប​មើល ៖"
 
 msgid "View Options"
 msgstr ""
@@ -9277,6 +9718,9 @@ msgstr "វ៉ាយហ្វាយ"
 msgid "Wikipedia"
 msgstr "វីគីភីឌៀ"
 
+msgid "Wind"
+msgstr "ខ្យល់"
+
 msgid "Window"
 msgstr "បង្អួច"
 
@@ -9319,11 +9763,17 @@ msgstr ""
 msgid "Word Count"
 msgstr "ចំនួនពាក្យ​"
 
+msgid "Word wrap"
+msgstr ""
+
 msgid "Words"
 msgstr "ពាក្យ"
 
 msgid "Work"
 msgstr "ការងារ"
+
+msgid "Workspace"
+msgstr ""
 
 msgid "World"
 msgstr "ផែនដី"
@@ -9363,6 +9813,9 @@ msgstr "_Y ៖"
 
 msgid "Year"
 msgstr "ឆ្នាំ"
+
+msgid "&Year"
+msgstr "ឆ្នាំ ៖"
 
 msgid "Yearly"
 msgstr "រាល់ឆ្នាំ"
@@ -9422,6 +9875,9 @@ msgid "&Zoom"
 msgstr "ពង្រីក"
 
 msgid "_Zoom"
+msgstr ""
+
+msgid "Zoom factor"
 msgstr ""
 
 msgid "Zoom In"
