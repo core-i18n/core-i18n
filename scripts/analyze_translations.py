@@ -12,7 +12,8 @@ Usage:
 import argparse
 import re
 import sys
-from collections import Counter, defaultdict
+from collections import Counter, defaultdict, deque
+from concurrent.futures import FIRST_COMPLETED, ProcessPoolExecutor, wait
 from pathlib import Path
 
 import polib
@@ -23,62 +24,115 @@ CREDIT_CTXTS = {"NAME OF TRANSLATORS", "EMAIL OF TRANSLATORS"}
 LANGUAGE_RE = re.compile(r"^[A-Za-z0-9]+(?:[_@.-][A-Za-z0-9]+)*$")
 
 
+def log(message):
+    print(message, flush=True)
+
+
 def usable(entry):
     return (not entry.obsolete and entry.msgid and not entry.msgid_plural
             and len(entry.msgid) <= MAX_LEN and "\n" not in entry.msgid
             and entry.msgctxt not in CREDIT_CTXTS)
 
 
-def collect(cache):
+def collect_catalog(language, po_path):
+    try:
+        po = polib.pofile(str(po_path)) if po_path.suffix == ".po" else polib.mofile(str(po_path))
+    except Exception as error:
+        return language, po_path, None, None, str(error)
+
+    seen = set()
+    counters = Counter()
+    for entry in po:
+        if not usable(entry):
+            continue
+        key = entry.msgid
+        seen.add(key)
+        if entry.msgstr and "fuzzy" not in entry.flags:
+            counters[key, entry.msgstr] += 1
+    return language, po_path, seen, counters, None
+
+
+def collect(cache, source, executor, jobs):
     """Return per-domain occurrence counts and per-language translations."""
     occurrences = Counter()
     translations = {}
     if not cache.is_dir():
+        log(f"{source}: cache not found, skipping {cache}")
         return occurrences, translations
 
     language_dirs = sorted(path for path in cache.iterdir()
                            if path.is_dir() and LANGUAGE_RE.fullmatch(path.name))
-    for language_dir in language_dirs:
+    log(f"{source}: scanning {len(language_dirs)} language directories in {cache}")
+    language_files = {}
+    language_counts = defaultdict(Counter)
+    language_translations = defaultdict(lambda: defaultdict(Counter))
+    pending = deque()
+    total_files = 0
+    for language_index, language_dir in enumerate(language_dirs, 1):
         language = language_dir.name
-        files_per_key = Counter()
-        counters = defaultdict(Counter)
         paths = sorted(language_dir.rglob("*.po")) + sorted(language_dir.rglob("*.mo"))
+        language_files[language] = len(paths)
+        total_files += len(paths)
+        log(f"{source} [{language_index}/{len(language_dirs)}] {language}: queued {len(paths)} catalogs")
         for po_path in paths:
-            try:
-                po = polib.pofile(str(po_path)) if po_path.suffix == ".po" else polib.mofile(str(po_path))
-            except Exception as error:
-                print(f"bad {po_path}: {error}", file=sys.stderr)
-                continue
-            seen = set()
-            for entry in po:
-                if not usable(entry):
-                    continue
-                key = (entry.msgctxt or "", entry.msgid)
-                if key not in seen:
-                    seen.add(key)
-                    files_per_key[key] += 1
-                if entry.msgstr and "fuzzy" not in entry.flags:
-                    counters[key][entry.msgstr] += 1
+            pending.append((language, po_path))
+
+    total_completed = 0
+    active = {}
+    limit = max(jobs, jobs * 2)
+    progress_steps = {language: max(1, (count + 9) // 10)
+                      for language, count in language_files.items()}
+    completed_by_language = Counter()
+
+    while pending or active:
+        while pending and len(active) < limit:
+            language, po_path = pending.popleft()
+            future = executor.submit(collect_catalog, language, po_path)
+            active[future] = (language, po_path)
+        done, _ = wait(active, return_when=FIRST_COMPLETED)
+        for future in done:
+            active.pop(future)
+            language, po_path, seen, counters, error = future.result()
+            total_completed += 1
+            completed_by_language[language] += 1
+            if error:
+                print(f"bad {po_path}: {error}", file=sys.stderr, flush=True)
+            else:
+                language_counts[language].update(seen)
+                for (key, msgstr), count in counters.items():
+                    language_translations[language][key][msgstr] += count
+            language_completed = completed_by_language[language]
+            if (language_completed % progress_steps[language] == 0
+                    or language_completed == language_files[language]):
+                log(f"{source}: scanned {total_completed}/{total_files} catalogs; "
+                    f"{language} {language_completed}/{language_files[language]} ({po_path.name})")
+
+    for language, files_per_key in language_counts.items():
         for key, count in files_per_key.items():
             occurrences[key] = max(occurrences[key], count)
-        translations[language] = counters
+    translations.update(language_translations)
+    log(f"{source}: scan complete ({len(language_dirs)} languages, {len(occurrences)} unique strings)")
     return occurrences, translations
 
 
-def collect_all(caches):
+def collect_all(caches, jobs):
     occurrences = Counter()
     translations = defaultdict(lambda: defaultdict(Counter))
-    for cache in caches:
-        source_occurrences, source_translations = collect(cache)
-        occurrences.update(source_occurrences)
-        for language, counters in source_translations.items():
-            for key, counts in counters.items():
-                translations[language][key].update(counts)
+    with ProcessPoolExecutor(max_workers=jobs) as executor:
+        for source, cache in caches:
+            log(f"Starting {source} cache analysis with {jobs} workers")
+            source_occurrences, source_translations = collect(cache, source, executor, jobs)
+            occurrences.update(source_occurrences)
+            for language, counters in source_translations.items():
+                for key, counts in counters.items():
+                    translations[language][key].update(counts)
+    log(f"Combined cache analysis complete: {len(occurrences)} unique strings, "
+        f"{len(translations)} languages")
     return occurrences, translations
 
 
 def entry_for(key, occurrences, msgstr=""):
-    return polib.POEntry(msgctxt=key[0] or None, msgid=key[1], msgstr=msgstr,
+    return polib.POEntry(msgid=key, msgstr=msgstr,
                          comment=f"Occurs in {occurrences[key]} KDE+GNOME PO files")
 
 
@@ -93,7 +147,7 @@ def load_or_create(path):
 
 
 def append_missing(po, keys, occurrences):
-    existing = {(entry.msgctxt or "", entry.msgid) for entry in po if not entry.obsolete}
+    existing = {entry.msgid for entry in po if not entry.obsolete}
     added = 0
     for key in keys:
         if key not in existing:
@@ -103,23 +157,26 @@ def append_missing(po, keys, occurrences):
     return added
 
 
-def build(caches, out, min_count, pot_path):
-    occurrences, translations = collect_all(caches)
+def build(caches, out, min_count, pot_path, jobs=4):
+    log(f"Analysis started: minimum frequency {min_count}, workers {jobs}")
+    occurrences, translations = collect_all(caches, jobs)
     keys = sorted((key for key, count in occurrences.items() if count >= min_count),
-                  key=lambda key: (-occurrences[key], key))
-    print(f"{len(keys)} strings occur >= {min_count} times")
+                  key=lambda msgid: (msgid.casefold(), msgid))
+    log(f"Frequency filtering complete: {len(keys)} strings meet the threshold")
     out.mkdir(parents=True, exist_ok=True)
 
+    log(f"Updating POT: {pot_path}")
     pot, _ = load_or_create(pot_path)
     added = append_missing(pot, keys, occurrences)
-    if added or not pot_path.exists():
-        pot.save(str(pot_path))
-    print(f"POT: added {added} strings")
+    pot.sort(key=lambda entry: (entry.msgid.casefold(), entry.msgid))
+    pot.save(str(pot_path))
+    log(f"POT: added {added} strings")
 
-    for language, counters in translations.items():
+    total_languages = len(translations)
+    for language_index, (language, counters) in enumerate(translations.items(), 1):
         po_path = out / f"{language}.po"
         po, is_new = load_or_create(po_path)
-        existing = {(entry.msgctxt or "", entry.msgid) for entry in po if not entry.obsolete}
+        existing = {entry.msgid for entry in po if not entry.obsolete}
         added = 0
         for key in keys:
             counts = counters.get(key)
@@ -129,10 +186,12 @@ def build(caches, out, min_count, pot_path):
             po.append(entry_for(key, occurrences, translation))
             existing.add(key)
             added += 1
-        if added or is_new:
+        po.sort(key=lambda entry: (entry.msgid.casefold(), entry.msgid))
+        if added or is_new or po_path.exists():
             po.metadata["Language"] = language
             po.save(str(po_path))
-        print(f"{language}: added {added} strings")
+        log(f"PO [{language_index}/{total_languages}] {language}: added {added} strings")
+    log("Analysis complete")
 
 
 def main():
@@ -140,10 +199,15 @@ def main():
     parser.add_argument("--kde-cache", type=Path, default=ROOT / ".cache" / "kde-l10n")
     parser.add_argument("--gnome-cache", type=Path, default=ROOT / ".cache" / "gnome-l10n")
     parser.add_argument("--min-count", type=int, default=10)
+    parser.add_argument("--jobs", type=int, default=12,
+                        help="parallel catalog parsers (default: 12)")
     parser.add_argument("--pot", type=Path, default=ROOT / "core-i18n.pot")
     parser.add_argument("--out", type=Path, default=ROOT / "po")
     args = parser.parse_args()
-    build([args.kde_cache, args.gnome_cache], args.out, args.min_count, args.pot)
+    if args.jobs < 1:
+        parser.error("--jobs must be at least 1")
+    build([("KDE", args.kde_cache), ("GNOME", args.gnome_cache)],
+          args.out, args.min_count, args.pot, args.jobs)
 
 
 if __name__ == "__main__":
